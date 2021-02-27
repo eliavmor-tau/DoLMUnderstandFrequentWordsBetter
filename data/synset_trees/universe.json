@@ -1,0 +1,1 @@
+{"universe": {"depth": 0, "parents": [], "children": ["closed_universe", "natural_order", "nature"]}, "closed_universe": {"parents": ["universe"], "depth": 1, "children": []}, "natural_order": {"parents": ["universe"], "depth": 1, "children": []}, "nature": {"parents": ["universe"], "depth": 1, "children": []}}

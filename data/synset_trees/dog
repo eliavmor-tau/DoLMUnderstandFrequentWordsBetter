@@ -1,0 +1,381 @@
+digraph {
+	dog [label=dog]
+	basenji [label=basenji]
+	dog -> basenji
+	corgi [label=corgi]
+	dog -> corgi
+	cardigan [label=cardigan]
+	corgi -> cardigan
+	pembroke [label=pembroke]
+	corgi -> pembroke
+	cur [label=cur]
+	dog -> cur
+	feist [label=feist]
+	cur -> feist
+	pariah_dog [label=pariah_dog]
+	cur -> pariah_dog
+	dalmatian [label=dalmatian]
+	dog -> dalmatian
+	"liver-spotted_dalmatian" [label="liver-spotted_dalmatian"]
+	dalmatian -> "liver-spotted_dalmatian"
+	great_pyrenees [label=great_pyrenees]
+	dog -> great_pyrenees
+	griffon [label=griffon]
+	dog -> griffon
+	brabancon_griffon [label=brabancon_griffon]
+	griffon -> brabancon_griffon
+	hunting_dog [label=hunting_dog]
+	dog -> hunting_dog
+	courser [label=courser]
+	hunting_dog -> courser
+	dachshund [label=dachshund]
+	hunting_dog -> dachshund
+	sausage_dog [label=sausage_dog]
+	dachshund -> sausage_dog
+	hound [label=hound]
+	hunting_dog -> hound
+	afghan_hound [label=afghan_hound]
+	hound -> afghan_hound
+	basset [label=basset]
+	hound -> basset
+	beagle [label=beagle]
+	hound -> beagle
+	bloodhound [label=bloodhound]
+	hound -> bloodhound
+	bluetick [label=bluetick]
+	hound -> bluetick
+	boarhound [label=boarhound]
+	hound -> boarhound
+	coonhound [label=coonhound]
+	hound -> coonhound
+	"black-and-tan_coonhound" [label="black-and-tan_coonhound"]
+	coonhound -> "black-and-tan_coonhound"
+	coondog [label=coondog]
+	coonhound -> coondog
+	foxhound [label=foxhound]
+	hound -> foxhound
+	american_foxhound [label=american_foxhound]
+	foxhound -> american_foxhound
+	english_foxhound [label=english_foxhound]
+	foxhound -> english_foxhound
+	walker_hound [label=walker_hound]
+	foxhound -> walker_hound
+	greyhound [label=greyhound]
+	hound -> greyhound
+	italian_greyhound [label=italian_greyhound]
+	greyhound -> italian_greyhound
+	whippet [label=whippet]
+	greyhound -> whippet
+	harrier [label=harrier]
+	hound -> harrier
+	ibizan_hound [label=ibizan_hound]
+	hound -> ibizan_hound
+	norwegian_elkhound [label=norwegian_elkhound]
+	hound -> norwegian_elkhound
+	otterhound [label=otterhound]
+	hound -> otterhound
+	plott_hound [label=plott_hound]
+	hound -> plott_hound
+	redbone [label=redbone]
+	hound -> redbone
+	saluki [label=saluki]
+	hound -> saluki
+	scottish_deerhound [label=scottish_deerhound]
+	hound -> scottish_deerhound
+	staghound [label=staghound]
+	hound -> staghound
+	weimaraner [label=weimaraner]
+	hound -> weimaraner
+	wolfhound [label=wolfhound]
+	hound -> wolfhound
+	borzoi [label=borzoi]
+	wolfhound -> borzoi
+	irish_wolfhound [label=irish_wolfhound]
+	wolfhound -> irish_wolfhound
+	rhodesian_ridgeback [label=rhodesian_ridgeback]
+	hunting_dog -> rhodesian_ridgeback
+	sporting_dog [label=sporting_dog]
+	hunting_dog -> sporting_dog
+	bird_dog [label=bird_dog]
+	sporting_dog -> bird_dog
+	griffon [label=griffon]
+	sporting_dog -> griffon
+	pointer [label=pointer]
+	sporting_dog -> pointer
+	"german_short-haired_pointer" [label="german_short-haired_pointer"]
+	pointer -> "german_short-haired_pointer"
+	vizsla [label=vizsla]
+	pointer -> vizsla
+	retriever [label=retriever]
+	sporting_dog -> retriever
+	chesapeake_bay_retriever [label=chesapeake_bay_retriever]
+	retriever -> chesapeake_bay_retriever
+	"curly-coated_retriever" [label="curly-coated_retriever"]
+	retriever -> "curly-coated_retriever"
+	"flat-coated_retriever" [label="flat-coated_retriever"]
+	retriever -> "flat-coated_retriever"
+	golden_retriever [label=golden_retriever]
+	retriever -> golden_retriever
+	labrador_retriever [label=labrador_retriever]
+	retriever -> labrador_retriever
+	setter [label=setter]
+	sporting_dog -> setter
+	english_setter [label=english_setter]
+	setter -> english_setter
+	gordon_setter [label=gordon_setter]
+	setter -> gordon_setter
+	irish_setter [label=irish_setter]
+	setter -> irish_setter
+	spaniel [label=spaniel]
+	sporting_dog -> spaniel
+	brittany_spaniel [label=brittany_spaniel]
+	spaniel -> brittany_spaniel
+	clumber [label=clumber]
+	spaniel -> clumber
+	cocker_spaniel [label=cocker_spaniel]
+	spaniel -> cocker_spaniel
+	field_spaniel [label=field_spaniel]
+	spaniel -> field_spaniel
+	springer_spaniel [label=springer_spaniel]
+	spaniel -> springer_spaniel
+	english_springer [label=english_springer]
+	springer_spaniel -> english_springer
+	welsh_springer_spaniel [label=welsh_springer_spaniel]
+	springer_spaniel -> welsh_springer_spaniel
+	sussex_spaniel [label=sussex_spaniel]
+	spaniel -> sussex_spaniel
+	water_spaniel [label=water_spaniel]
+	spaniel -> water_spaniel
+	american_water_spaniel [label=american_water_spaniel]
+	water_spaniel -> american_water_spaniel
+	irish_water_spaniel [label=irish_water_spaniel]
+	water_spaniel -> irish_water_spaniel
+	water_dog [label=water_dog]
+	sporting_dog -> water_dog
+	terrier [label=terrier]
+	hunting_dog -> terrier
+	airedale [label=airedale]
+	terrier -> airedale
+	australian_terrier [label=australian_terrier]
+	terrier -> australian_terrier
+	bedlington_terrier [label=bedlington_terrier]
+	terrier -> bedlington_terrier
+	border_terrier [label=border_terrier]
+	terrier -> border_terrier
+	boston_bull [label=boston_bull]
+	terrier -> boston_bull
+	bullterrier [label=bullterrier]
+	terrier -> bullterrier
+	american_staffordshire_terrier [label=american_staffordshire_terrier]
+	bullterrier -> american_staffordshire_terrier
+	staffordshire_bullterrier [label=staffordshire_bullterrier]
+	bullterrier -> staffordshire_bullterrier
+	cairn [label=cairn]
+	terrier -> cairn
+	dandie_dinmont [label=dandie_dinmont]
+	terrier -> dandie_dinmont
+	fox_terrier [label=fox_terrier]
+	terrier -> fox_terrier
+	"smooth-haired_fox_terrier" [label="smooth-haired_fox_terrier"]
+	fox_terrier -> "smooth-haired_fox_terrier"
+	"wire-haired_fox_terrier" [label="wire-haired_fox_terrier"]
+	fox_terrier -> "wire-haired_fox_terrier"
+	irish_terrier [label=irish_terrier]
+	terrier -> irish_terrier
+	kerry_blue_terrier [label=kerry_blue_terrier]
+	terrier -> kerry_blue_terrier
+	lhasa [label=lhasa]
+	terrier -> lhasa
+	norfolk_terrier [label=norfolk_terrier]
+	terrier -> norfolk_terrier
+	norwich_terrier [label=norwich_terrier]
+	terrier -> norwich_terrier
+	rat_terrier [label=rat_terrier]
+	terrier -> rat_terrier
+	manchester_terrier [label=manchester_terrier]
+	rat_terrier -> manchester_terrier
+	toy_manchester [label=toy_manchester]
+	manchester_terrier -> toy_manchester
+	schnauzer [label=schnauzer]
+	terrier -> schnauzer
+	giant_schnauzer [label=giant_schnauzer]
+	schnauzer -> giant_schnauzer
+	miniature_schnauzer [label=miniature_schnauzer]
+	schnauzer -> miniature_schnauzer
+	standard_schnauzer [label=standard_schnauzer]
+	schnauzer -> standard_schnauzer
+	scotch_terrier [label=scotch_terrier]
+	terrier -> scotch_terrier
+	silky_terrier [label=silky_terrier]
+	terrier -> silky_terrier
+	skye_terrier [label=skye_terrier]
+	terrier -> skye_terrier
+	clydesdale_terrier [label=clydesdale_terrier]
+	skye_terrier -> clydesdale_terrier
+	"soft-coated_wheaten_terrier" [label="soft-coated_wheaten_terrier"]
+	terrier -> "soft-coated_wheaten_terrier"
+	tibetan_terrier [label=tibetan_terrier]
+	terrier -> tibetan_terrier
+	west_highland_white_terrier [label=west_highland_white_terrier]
+	terrier -> west_highland_white_terrier
+	wirehair [label=wirehair]
+	terrier -> wirehair
+	lakeland_terrier [label=lakeland_terrier]
+	wirehair -> lakeland_terrier
+	welsh_terrier [label=welsh_terrier]
+	wirehair -> welsh_terrier
+	sealyham_terrier [label=sealyham_terrier]
+	welsh_terrier -> sealyham_terrier
+	yorkshire_terrier [label=yorkshire_terrier]
+	terrier -> yorkshire_terrier
+	lapdog [label=lapdog]
+	dog -> lapdog
+	leonberg [label=leonberg]
+	dog -> leonberg
+	mexican_hairless [label=mexican_hairless]
+	dog -> mexican_hairless
+	newfoundland [label=newfoundland]
+	dog -> newfoundland
+	pooch [label=pooch]
+	dog -> pooch
+	poodle [label=poodle]
+	dog -> poodle
+	large_poodle [label=large_poodle]
+	poodle -> large_poodle
+	miniature_poodle [label=miniature_poodle]
+	poodle -> miniature_poodle
+	standard_poodle [label=standard_poodle]
+	poodle -> standard_poodle
+	toy_poodle [label=toy_poodle]
+	poodle -> toy_poodle
+	pug [label=pug]
+	dog -> pug
+	puppy [label=puppy]
+	dog -> puppy
+	spitz [label=spitz]
+	dog -> spitz
+	chow [label=chow]
+	spitz -> chow
+	keeshond [label=keeshond]
+	spitz -> keeshond
+	pomeranian [label=pomeranian]
+	spitz -> pomeranian
+	samoyed [label=samoyed]
+	spitz -> samoyed
+	toy_dog [label=toy_dog]
+	dog -> toy_dog
+	chihuahua [label=chihuahua]
+	toy_dog -> chihuahua
+	japanese_spaniel [label=japanese_spaniel]
+	toy_dog -> japanese_spaniel
+	maltese_dog [label=maltese_dog]
+	toy_dog -> maltese_dog
+	pekinese [label=pekinese]
+	toy_dog -> pekinese
+	"shih-tzu" [label="shih-tzu"]
+	toy_dog -> "shih-tzu"
+	toy_spaniel [label=toy_spaniel]
+	toy_dog -> toy_spaniel
+	english_toy_spaniel [label=english_toy_spaniel]
+	toy_spaniel -> english_toy_spaniel
+	blenheim_spaniel [label=blenheim_spaniel]
+	english_toy_spaniel -> blenheim_spaniel
+	king_charles_spaniel [label=king_charles_spaniel]
+	toy_spaniel -> king_charles_spaniel
+	papillon [label=papillon]
+	toy_spaniel -> papillon
+	toy_terrier [label=toy_terrier]
+	toy_dog -> toy_terrier
+	working_dog [label=working_dog]
+	dog -> working_dog
+	boxer [label=boxer]
+	working_dog -> boxer
+	bull_mastiff [label=bull_mastiff]
+	working_dog -> bull_mastiff
+	bulldog [label=bulldog]
+	working_dog -> bulldog
+	french_bulldog [label=french_bulldog]
+	bulldog -> french_bulldog
+	eskimo_dog [label=eskimo_dog]
+	working_dog -> eskimo_dog
+	great_dane [label=great_dane]
+	working_dog -> great_dane
+	guide_dog [label=guide_dog]
+	working_dog -> guide_dog
+	seeing_eye_dog [label=seeing_eye_dog]
+	guide_dog -> seeing_eye_dog
+	hearing_dog [label=hearing_dog]
+	working_dog -> hearing_dog
+	mastiff [label=mastiff]
+	working_dog -> mastiff
+	tibetan_mastiff [label=tibetan_mastiff]
+	mastiff -> tibetan_mastiff
+	police_dog [label=police_dog]
+	working_dog -> police_dog
+	saint_bernard [label=saint_bernard]
+	working_dog -> saint_bernard
+	"seizure-alert_dog" [label="seizure-alert_dog"]
+	working_dog -> "seizure-alert_dog"
+	sennenhunde [label=sennenhunde]
+	working_dog -> sennenhunde
+	appenzeller [label=appenzeller]
+	sennenhunde -> appenzeller
+	bernese_mountain_dog [label=bernese_mountain_dog]
+	sennenhunde -> bernese_mountain_dog
+	entlebucher [label=entlebucher]
+	sennenhunde -> entlebucher
+	greater_swiss_mountain_dog [label=greater_swiss_mountain_dog]
+	sennenhunde -> greater_swiss_mountain_dog
+	shepherd_dog [label=shepherd_dog]
+	working_dog -> shepherd_dog
+	belgian_sheepdog [label=belgian_sheepdog]
+	shepherd_dog -> belgian_sheepdog
+	groenendael [label=groenendael]
+	belgian_sheepdog -> groenendael
+	malinois [label=malinois]
+	belgian_sheepdog -> malinois
+	border_collie [label=border_collie]
+	shepherd_dog -> border_collie
+	bouvier_des_flandres [label=bouvier_des_flandres]
+	shepherd_dog -> bouvier_des_flandres
+	briard [label=briard]
+	shepherd_dog -> briard
+	collie [label=collie]
+	shepherd_dog -> collie
+	german_shepherd [label=german_shepherd]
+	shepherd_dog -> german_shepherd
+	kelpie [label=kelpie]
+	shepherd_dog -> kelpie
+	komondor [label=komondor]
+	shepherd_dog -> komondor
+	old_english_sheepdog [label=old_english_sheepdog]
+	shepherd_dog -> old_english_sheepdog
+	rottweiler [label=rottweiler]
+	shepherd_dog -> rottweiler
+	shetland_sheepdog [label=shetland_sheepdog]
+	shepherd_dog -> shetland_sheepdog
+	sled_dog [label=sled_dog]
+	working_dog -> sled_dog
+	malamute [label=malamute]
+	sled_dog -> malamute
+	siberian_husky [label=siberian_husky]
+	sled_dog -> siberian_husky
+	watchdog [label=watchdog]
+	working_dog -> watchdog
+	attack_dog [label=attack_dog]
+	watchdog -> attack_dog
+	housedog [label=housedog]
+	watchdog -> housedog
+	kuvasz [label=kuvasz]
+	watchdog -> kuvasz
+	pinscher [label=pinscher]
+	watchdog -> pinscher
+	affenpinscher [label=affenpinscher]
+	pinscher -> affenpinscher
+	doberman [label=doberman]
+	pinscher -> doberman
+	miniature_pinscher [label=miniature_pinscher]
+	pinscher -> miniature_pinscher
+	schipperke [label=schipperke]
+	watchdog -> schipperke
+}

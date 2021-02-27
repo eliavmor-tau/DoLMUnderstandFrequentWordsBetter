@@ -1,0 +1,3155 @@
+digraph {
+	food [label=food]
+	beverage [label=beverage]
+	food -> beverage
+	alcohol [label=alcohol]
+	beverage -> alcohol
+	aperitif [label=aperitif]
+	alcohol -> aperitif
+	brew [label=brew]
+	alcohol -> brew
+	beer [label=beer]
+	brew -> beer
+	ale [label=ale]
+	beer -> ale
+	bitter [label=bitter]
+	ale -> bitter
+	burton [label=burton]
+	ale -> burton
+	pale_ale [label=pale_ale]
+	ale -> pale_ale
+	porter [label=porter]
+	ale -> porter
+	stout [label=stout]
+	ale -> stout
+	guinness [label=guinness]
+	stout -> guinness
+	weissbier [label=weissbier]
+	ale -> weissbier
+	weizenbier [label=weizenbier]
+	weissbier -> weizenbier
+	weizenbock [label=weizenbock]
+	weissbier -> weizenbock
+	draft_beer [label=draft_beer]
+	beer -> draft_beer
+	lager [label=lager]
+	beer -> lager
+	bock [label=bock]
+	lager -> bock
+	light_beer [label=light_beer]
+	lager -> light_beer
+	malt [label=malt]
+	lager -> malt
+	munich_beer [label=munich_beer]
+	lager -> munich_beer
+	oktoberfest [label=oktoberfest]
+	lager -> oktoberfest
+	pilsner [label=pilsner]
+	lager -> pilsner
+	suds [label=suds]
+	beer -> suds
+	cassiri [label=cassiri]
+	brew -> cassiri
+	kvass [label=kvass]
+	brew -> kvass
+	mead [label=mead]
+	brew -> mead
+	metheglin [label=metheglin]
+	mead -> metheglin
+	spruce_beer [label=spruce_beer]
+	brew -> spruce_beer
+	hard_cider [label=hard_cider]
+	alcohol -> hard_cider
+	home_brew [label=home_brew]
+	alcohol -> home_brew
+	hooch [label=hooch]
+	alcohol -> hooch
+	pruno [label=pruno]
+	hooch -> pruno
+	kava [label=kava]
+	alcohol -> kava
+	koumiss [label=koumiss]
+	alcohol -> koumiss
+	liqueur [label=liqueur]
+	alcohol -> liqueur
+	absinth [label=absinth]
+	liqueur -> absinth
+	amaretto [label=amaretto]
+	liqueur -> amaretto
+	anisette [label=anisette]
+	liqueur -> anisette
+	benedictine [label=benedictine]
+	liqueur -> benedictine
+	chartreuse [label=chartreuse]
+	liqueur -> chartreuse
+	coffee_liqueur [label=coffee_liqueur]
+	liqueur -> coffee_liqueur
+	kahlua [label=kahlua]
+	coffee_liqueur -> kahlua
+	creme_de_cacao [label=creme_de_cacao]
+	liqueur -> creme_de_cacao
+	creme_de_fraise [label=creme_de_fraise]
+	liqueur -> creme_de_fraise
+	creme_de_menthe [label=creme_de_menthe]
+	liqueur -> creme_de_menthe
+	drambuie [label=drambuie]
+	liqueur -> drambuie
+	galliano [label=galliano]
+	liqueur -> galliano
+	kummel [label=kummel]
+	liqueur -> kummel
+	maraschino [label=maraschino]
+	liqueur -> maraschino
+	orange_liqueur [label=orange_liqueur]
+	liqueur -> orange_liqueur
+	curacao [label=curacao]
+	orange_liqueur -> curacao
+	grand_marnier [label=grand_marnier]
+	orange_liqueur -> grand_marnier
+	triple_sec [label=triple_sec]
+	orange_liqueur -> triple_sec
+	pastis [label=pastis]
+	liqueur -> pastis
+	pernod [label=pernod]
+	liqueur -> pernod
+	"pousse-cafe" [label="pousse-cafe"]
+	liqueur -> "pousse-cafe"
+	ratafia [label=ratafia]
+	liqueur -> ratafia
+	sambuca [label=sambuca]
+	liqueur -> sambuca
+	liquor [label=liquor]
+	alcohol -> liquor
+	aqua_vitae [label=aqua_vitae]
+	liquor -> aqua_vitae
+	aquavit [label=aquavit]
+	liquor -> aquavit
+	arrack [label=arrack]
+	liquor -> arrack
+	bitters [label=bitters]
+	liquor -> bitters
+	brandy [label=brandy]
+	liquor -> brandy
+	applejack [label=applejack]
+	brandy -> applejack
+	armagnac [label=armagnac]
+	brandy -> armagnac
+	calvados [label=calvados]
+	brandy -> calvados
+	cognac [label=cognac]
+	brandy -> cognac
+	eau_de_vie [label=eau_de_vie]
+	brandy -> eau_de_vie
+	grappa [label=grappa]
+	brandy -> grappa
+	kirsch [label=kirsch]
+	brandy -> kirsch
+	marc [label=marc]
+	brandy -> marc
+	slivovitz [label=slivovitz]
+	brandy -> slivovitz
+	firewater [label=firewater]
+	liquor -> firewater
+	gin [label=gin]
+	liquor -> gin
+	bathtub_gin [label=bathtub_gin]
+	gin -> bathtub_gin
+	geneva [label=geneva]
+	gin -> geneva
+	sloe_gin [label=sloe_gin]
+	gin -> sloe_gin
+	lacing [label=lacing]
+	liquor -> lacing
+	mescal [label=mescal]
+	liquor -> mescal
+	ouzo [label=ouzo]
+	liquor -> ouzo
+	rum [label=rum]
+	liquor -> rum
+	demerara [label=demerara]
+	rum -> demerara
+	grog [label=grog]
+	rum -> grog
+	jamaica_rum [label=jamaica_rum]
+	rum -> jamaica_rum
+	schnapps [label=schnapps]
+	liquor -> schnapps
+	tequila [label=tequila]
+	liquor -> tequila
+	vodka [label=vodka]
+	liquor -> vodka
+	whiskey [label=whiskey]
+	liquor -> whiskey
+	blended_whiskey [label=blended_whiskey]
+	whiskey -> blended_whiskey
+	bourbon [label=bourbon]
+	whiskey -> bourbon
+	corn_whiskey [label=corn_whiskey]
+	whiskey -> corn_whiskey
+	moonshine [label=moonshine]
+	corn_whiskey -> moonshine
+	irish [label=irish]
+	whiskey -> irish
+	poteen [label=poteen]
+	irish -> poteen
+	rye [label=rye]
+	whiskey -> rye
+	scotch [label=scotch]
+	whiskey -> scotch
+	drambuie [label=drambuie]
+	scotch -> drambuie
+	sour_mash [label=sour_mash]
+	whiskey -> sour_mash
+	mixed_drink [label=mixed_drink]
+	alcohol -> mixed_drink
+	cocktail [label=cocktail]
+	mixed_drink -> cocktail
+	bloody_mary [label=bloody_mary]
+	cocktail -> bloody_mary
+	virgin_mary [label=virgin_mary]
+	bloody_mary -> virgin_mary
+	bullshot [label=bullshot]
+	cocktail -> bullshot
+	daiquiri [label=daiquiri]
+	cocktail -> daiquiri
+	nada_daiquiri [label=nada_daiquiri]
+	daiquiri -> nada_daiquiri
+	strawberry_daiquiri [label=strawberry_daiquiri]
+	daiquiri -> strawberry_daiquiri
+	gimlet [label=gimlet]
+	cocktail -> gimlet
+	gin_and_it [label=gin_and_it]
+	cocktail -> gin_and_it
+	grasshopper [label=grasshopper]
+	cocktail -> grasshopper
+	harvey_wallbanger [label=harvey_wallbanger]
+	cocktail -> harvey_wallbanger
+	manhattan [label=manhattan]
+	cocktail -> manhattan
+	rob_roy [label=rob_roy]
+	manhattan -> rob_roy
+	margarita [label=margarita]
+	cocktail -> margarita
+	martini [label=martini]
+	cocktail -> martini
+	vodka_martini [label=vodka_martini]
+	martini -> vodka_martini
+	old_fashioned [label=old_fashioned]
+	cocktail -> old_fashioned
+	pink_lady [label=pink_lady]
+	cocktail -> pink_lady
+	"planter's_punch" [label="planter's_punch"]
+	cocktail -> "planter's_punch"
+	sazerac [label=sazerac]
+	cocktail -> sazerac
+	screwdriver [label=screwdriver]
+	cocktail -> screwdriver
+	sidecar [label=sidecar]
+	cocktail -> sidecar
+	sour [label=sour]
+	cocktail -> sour
+	whiskey_sour [label=whiskey_sour]
+	sour -> whiskey_sour
+	stinger [label=stinger]
+	cocktail -> stinger
+	white_russian [label=white_russian]
+	cocktail -> white_russian
+	dom_pedro [label=dom_pedro]
+	mixed_drink -> dom_pedro
+	flip [label=flip]
+	mixed_drink -> flip
+	highball [label=highball]
+	mixed_drink -> highball
+	cobbler [label=cobbler]
+	highball -> cobbler
+	collins [label=collins]
+	highball -> collins
+	gin_and_tonic [label=gin_and_tonic]
+	highball -> gin_and_tonic
+	julep [label=julep]
+	highball -> julep
+	scotch_and_soda [label=scotch_and_soda]
+	highball -> scotch_and_soda
+	sling [label=sling]
+	highball -> sling
+	brandy_sling [label=brandy_sling]
+	sling -> brandy_sling
+	gin_sling [label=gin_sling]
+	sling -> gin_sling
+	rum_sling [label=rum_sling]
+	sling -> rum_sling
+	zombie [label=zombie]
+	highball -> zombie
+	hot_toddy [label=hot_toddy]
+	mixed_drink -> hot_toddy
+	tom_and_jerry [label=tom_and_jerry]
+	hot_toddy -> tom_and_jerry
+	mimosa [label=mimosa]
+	mixed_drink -> mimosa
+	pina_colada [label=pina_colada]
+	mixed_drink -> pina_colada
+	punch [label=punch]
+	mixed_drink -> punch
+	cup [label=cup]
+	punch -> cup
+	champagne_cup [label=champagne_cup]
+	cup -> champagne_cup
+	claret_cup [label=claret_cup]
+	cup -> claret_cup
+	eggnog [label=eggnog]
+	punch -> eggnog
+	fish_house_punch [label=fish_house_punch]
+	punch -> fish_house_punch
+	fruit_punch [label=fruit_punch]
+	punch -> fruit_punch
+	glogg [label=glogg]
+	punch -> glogg
+	may_wine [label=may_wine]
+	punch -> may_wine
+	milk_punch [label=milk_punch]
+	punch -> milk_punch
+	wassail [label=wassail]
+	punch -> wassail
+	rickey [label=rickey]
+	mixed_drink -> rickey
+	gin_rickey [label=gin_rickey]
+	rickey -> gin_rickey
+	spritzer [label=spritzer]
+	mixed_drink -> spritzer
+	swizzle [label=swizzle]
+	mixed_drink -> swizzle
+	neutral_spirits [label=neutral_spirits]
+	alcohol -> neutral_spirits
+	nipa [label=nipa]
+	alcohol -> nipa
+	perry [label=perry]
+	alcohol -> perry
+	proof_spirit [label=proof_spirit]
+	alcohol -> proof_spirit
+	pulque [label=pulque]
+	alcohol -> pulque
+	rotgut [label=rotgut]
+	alcohol -> rotgut
+	sake [label=sake]
+	alcohol -> sake
+	slug [label=slug]
+	alcohol -> slug
+	wine [label=wine]
+	alcohol -> wine
+	altar_wine [label=altar_wine]
+	wine -> altar_wine
+	blush_wine [label=blush_wine]
+	wine -> blush_wine
+	bordeaux [label=bordeaux]
+	wine -> bordeaux
+	claret [label=claret]
+	bordeaux -> claret
+	saint_emilion [label=saint_emilion]
+	claret -> saint_emilion
+	medoc [label=medoc]
+	bordeaux -> medoc
+	burgundy [label=burgundy]
+	wine -> burgundy
+	beaujolais [label=beaujolais]
+	burgundy -> beaujolais
+	chablis [label=chablis]
+	burgundy -> chablis
+	montrachet [label=montrachet]
+	burgundy -> montrachet
+	california_wine [label=california_wine]
+	wine -> california_wine
+	cotes_de_provence [label=cotes_de_provence]
+	wine -> cotes_de_provence
+	dessert_wine [label=dessert_wine]
+	wine -> dessert_wine
+	straw_wine [label=straw_wine]
+	dessert_wine -> straw_wine
+	dubonnet [label=dubonnet]
+	wine -> dubonnet
+	fortified_wine [label=fortified_wine]
+	wine -> fortified_wine
+	madeira [label=madeira]
+	fortified_wine -> madeira
+	malmsey [label=malmsey]
+	madeira -> malmsey
+	marsala [label=marsala]
+	fortified_wine -> marsala
+	muscat [label=muscat]
+	fortified_wine -> muscat
+	port [label=port]
+	fortified_wine -> port
+	sherry [label=sherry]
+	fortified_wine -> sherry
+	amontillado [label=amontillado]
+	sherry -> amontillado
+	manzanilla [label=manzanilla]
+	sherry -> manzanilla
+	generic [label=generic]
+	wine -> generic
+	jug_wine [label=jug_wine]
+	wine -> jug_wine
+	macon [label=macon]
+	wine -> macon
+	mulled_wine [label=mulled_wine]
+	wine -> mulled_wine
+	bishop [label=bishop]
+	mulled_wine -> bishop
+	negus [label=negus]
+	mulled_wine -> negus
+	plonk [label=plonk]
+	wine -> plonk
+	red_wine [label=red_wine]
+	wine -> red_wine
+	beaujolais [label=beaujolais]
+	red_wine -> beaujolais
+	cabernet [label=cabernet]
+	red_wine -> cabernet
+	chianti [label=chianti]
+	red_wine -> chianti
+	claret [label=claret]
+	red_wine -> claret
+	saint_emilion [label=saint_emilion]
+	claret -> saint_emilion
+	medoc [label=medoc]
+	red_wine -> medoc
+	merlot [label=merlot]
+	red_wine -> merlot
+	pinot_noir [label=pinot_noir]
+	red_wine -> pinot_noir
+	rioja [label=rioja]
+	red_wine -> rioja
+	zinfandel [label=zinfandel]
+	red_wine -> zinfandel
+	retsina [label=retsina]
+	wine -> retsina
+	rhone_wine [label=rhone_wine]
+	wine -> rhone_wine
+	sparkling_wine [label=sparkling_wine]
+	wine -> sparkling_wine
+	champagne [label=champagne]
+	sparkling_wine -> champagne
+	cold_duck [label=cold_duck]
+	sparkling_wine -> cold_duck
+	table_wine [label=table_wine]
+	wine -> table_wine
+	vin_ordinaire [label=vin_ordinaire]
+	table_wine -> vin_ordinaire
+	tokay [label=tokay]
+	wine -> tokay
+	varietal [label=varietal]
+	wine -> varietal
+	vermouth [label=vermouth]
+	wine -> vermouth
+	dry_vermouth [label=dry_vermouth]
+	vermouth -> dry_vermouth
+	sweet_vermouth [label=sweet_vermouth]
+	vermouth -> sweet_vermouth
+	vintage [label=vintage]
+	wine -> vintage
+	white_wine [label=white_wine]
+	wine -> white_wine
+	canary_wine [label=canary_wine]
+	white_wine -> canary_wine
+	chablis [label=chablis]
+	white_wine -> chablis
+	chardonnay [label=chardonnay]
+	white_wine -> chardonnay
+	chenin_blanc [label=chenin_blanc]
+	white_wine -> chenin_blanc
+	montrachet [label=montrachet]
+	white_wine -> montrachet
+	moselle [label=moselle]
+	white_wine -> moselle
+	muscadet [label=muscadet]
+	white_wine -> muscadet
+	pinot_blanc [label=pinot_blanc]
+	white_wine -> pinot_blanc
+	rhine_wine [label=rhine_wine]
+	white_wine -> rhine_wine
+	liebfraumilch [label=liebfraumilch]
+	rhine_wine -> liebfraumilch
+	riesling [label=riesling]
+	rhine_wine -> riesling
+	sack [label=sack]
+	white_wine -> sack
+	sauterne [label=sauterne]
+	white_wine -> sauterne
+	sauvignon_blanc [label=sauvignon_blanc]
+	white_wine -> sauvignon_blanc
+	soave [label=soave]
+	white_wine -> soave
+	verdicchio [label=verdicchio]
+	white_wine -> verdicchio
+	vouvray [label=vouvray]
+	white_wine -> vouvray
+	yquem [label=yquem]
+	white_wine -> yquem
+	cider [label=cider]
+	beverage -> cider
+	hard_cider [label=hard_cider]
+	cider -> hard_cider
+	scrumpy [label=scrumpy]
+	cider -> scrumpy
+	sweet_cider [label=sweet_cider]
+	cider -> sweet_cider
+	mulled_cider [label=mulled_cider]
+	sweet_cider -> mulled_cider
+	cocoa [label=cocoa]
+	beverage -> cocoa
+	coffee [label=coffee]
+	beverage -> coffee
+	cafe_au_lait [label=cafe_au_lait]
+	coffee -> cafe_au_lait
+	cafe_noir [label=cafe_noir]
+	coffee -> cafe_noir
+	cafe_royale [label=cafe_royale]
+	coffee -> cafe_royale
+	cappuccino [label=cappuccino]
+	coffee -> cappuccino
+	coffee_substitute [label=coffee_substitute]
+	coffee -> coffee_substitute
+	chicory [label=chicory]
+	coffee_substitute -> chicory
+	postum [label=postum]
+	coffee_substitute -> postum
+	decaffeinated_coffee [label=decaffeinated_coffee]
+	coffee -> decaffeinated_coffee
+	drip_coffee [label=drip_coffee]
+	coffee -> drip_coffee
+	espresso [label=espresso]
+	coffee -> espresso
+	caffe_latte [label=caffe_latte]
+	espresso -> caffe_latte
+	iced_coffee [label=iced_coffee]
+	coffee -> iced_coffee
+	instant_coffee [label=instant_coffee]
+	coffee -> instant_coffee
+	irish_coffee [label=irish_coffee]
+	coffee -> irish_coffee
+	mocha [label=mocha]
+	coffee -> mocha
+	turkish_coffee [label=turkish_coffee]
+	coffee -> turkish_coffee
+	cooler [label=cooler]
+	beverage -> cooler
+	drinking_water [label=drinking_water]
+	beverage -> drinking_water
+	bottled_water [label=bottled_water]
+	drinking_water -> bottled_water
+	ice_water [label=ice_water]
+	drinking_water -> ice_water
+	mineral_water [label=mineral_water]
+	drinking_water -> mineral_water
+	lithia_water [label=lithia_water]
+	mineral_water -> lithia_water
+	seltzer [label=seltzer]
+	mineral_water -> seltzer
+	vichy_water [label=vichy_water]
+	mineral_water -> vichy_water
+	soda_water [label=soda_water]
+	drinking_water -> soda_water
+	sugar_water [label=sugar_water]
+	drinking_water -> sugar_water
+	fizz [label=fizz]
+	beverage -> fizz
+	fruit_drink [label=fruit_drink]
+	beverage -> fruit_drink
+	lemonade [label=lemonade]
+	fruit_drink -> lemonade
+	limeade [label=limeade]
+	fruit_drink -> limeade
+	orangeade [label=orangeade]
+	fruit_drink -> orangeade
+	fruit_juice [label=fruit_juice]
+	beverage -> fruit_juice
+	apple_juice [label=apple_juice]
+	fruit_juice -> apple_juice
+	cranberry_juice [label=cranberry_juice]
+	fruit_juice -> cranberry_juice
+	grape_juice [label=grape_juice]
+	fruit_juice -> grape_juice
+	must [label=must]
+	grape_juice -> must
+	grapefruit_juice [label=grapefruit_juice]
+	fruit_juice -> grapefruit_juice
+	nectar [label=nectar]
+	fruit_juice -> nectar
+	orange_juice [label=orange_juice]
+	fruit_juice -> orange_juice
+	frozen_orange_juice [label=frozen_orange_juice]
+	orange_juice -> frozen_orange_juice
+	pineapple_juice [label=pineapple_juice]
+	fruit_juice -> pineapple_juice
+	ginger_beer [label=ginger_beer]
+	beverage -> ginger_beer
+	hydromel [label=hydromel]
+	beverage -> hydromel
+	mate [label=mate]
+	beverage -> mate
+	milk [label=milk]
+	beverage -> milk
+	acidophilus_milk [label=acidophilus_milk]
+	milk -> acidophilus_milk
+	buttermilk [label=buttermilk]
+	milk -> buttermilk
+	certified_milk [label=certified_milk]
+	milk -> certified_milk
+	chocolate_milk [label=chocolate_milk]
+	milk -> chocolate_milk
+	condensed_milk [label=condensed_milk]
+	milk -> condensed_milk
+	"cows'_milk" [label="cows'_milk"]
+	milk -> "cows'_milk"
+	evaporated_milk [label=evaporated_milk]
+	milk -> evaporated_milk
+	"goats'_milk" [label="goats'_milk"]
+	milk -> "goats'_milk"
+	homogenized_milk [label=homogenized_milk]
+	milk -> homogenized_milk
+	"low-fat_milk" [label="low-fat_milk"]
+	milk -> "low-fat_milk"
+	pasteurized_milk [label=pasteurized_milk]
+	milk -> pasteurized_milk
+	powdered_milk [label=powdered_milk]
+	milk -> powdered_milk
+	nonfat_dry_milk [label=nonfat_dry_milk]
+	powdered_milk -> nonfat_dry_milk
+	raw_milk [label=raw_milk]
+	milk -> raw_milk
+	scalded_milk [label=scalded_milk]
+	milk -> scalded_milk
+	"semi-skimmed_milk" [label="semi-skimmed_milk"]
+	milk -> "semi-skimmed_milk"
+	skim_milk [label=skim_milk]
+	milk -> skim_milk
+	sour_milk [label=sour_milk]
+	milk -> sour_milk
+	whole_milk [label=whole_milk]
+	milk -> whole_milk
+	"yak's_milk" [label="yak's_milk"]
+	milk -> "yak's_milk"
+	mixer [label=mixer]
+	beverage -> mixer
+	near_beer [label=near_beer]
+	beverage -> near_beer
+	oenomel [label=oenomel]
+	beverage -> oenomel
+	potion [label=potion]
+	beverage -> potion
+	elixir [label=elixir]
+	potion -> elixir
+	elixir_of_life [label=elixir_of_life]
+	elixir -> elixir_of_life
+	philter [label=philter]
+	potion -> philter
+	refresher [label=refresher]
+	beverage -> refresher
+	smoothie [label=smoothie]
+	beverage -> smoothie
+	soft_drink [label=soft_drink]
+	beverage -> soft_drink
+	birch_beer [label=birch_beer]
+	soft_drink -> birch_beer
+	bitter_lemon [label=bitter_lemon]
+	soft_drink -> bitter_lemon
+	cola [label=cola]
+	soft_drink -> cola
+	coca_cola [label=coca_cola]
+	cola -> coca_cola
+	pepsi [label=pepsi]
+	cola -> pepsi
+	cream_soda [label=cream_soda]
+	soft_drink -> cream_soda
+	egg_cream [label=egg_cream]
+	soft_drink -> egg_cream
+	ginger_ale [label=ginger_ale]
+	soft_drink -> ginger_ale
+	orange_soda [label=orange_soda]
+	soft_drink -> orange_soda
+	phosphate [label=phosphate]
+	soft_drink -> phosphate
+	pop [label=pop]
+	soft_drink -> pop
+	root_beer [label=root_beer]
+	soft_drink -> root_beer
+	sarsaparilla [label=sarsaparilla]
+	soft_drink -> sarsaparilla
+	tonic [label=tonic]
+	soft_drink -> tonic
+	"tea-like_drink" [label="tea-like_drink"]
+	beverage -> "tea-like_drink"
+	tea [label=tea]
+	beverage -> tea
+	cambric_tea [label=cambric_tea]
+	tea -> cambric_tea
+	cuppa [label=cuppa]
+	tea -> cuppa
+	herb_tea [label=herb_tea]
+	tea -> herb_tea
+	tisane [label=tisane]
+	herb_tea -> tisane
+	camomile_tea [label=camomile_tea]
+	tisane -> camomile_tea
+	ice_tea [label=ice_tea]
+	tea -> ice_tea
+	sun_tea [label=sun_tea]
+	tea -> sun_tea
+	"wish-wash" [label="wish-wash"]
+	beverage -> "wish-wash"
+	chyme [label=chyme]
+	food -> chyme
+	comestible [label=comestible]
+	food -> comestible
+	tuck [label=tuck]
+	comestible -> tuck
+	comfort_food [label=comfort_food]
+	food -> comfort_food
+	commissariat [label=commissariat]
+	food -> commissariat
+	food_cache [label=food_cache]
+	commissariat -> food_cache
+	larder [label=larder]
+	commissariat -> larder
+	culture_medium [label=culture_medium]
+	food -> culture_medium
+	agar [label=agar]
+	culture_medium -> agar
+	blood_agar [label=blood_agar]
+	agar -> blood_agar
+	fare [label=fare]
+	food -> fare
+	board [label=board]
+	fare -> board
+	training_table [label=training_table]
+	board -> training_table
+	chow [label=chow]
+	fare -> chow
+	diet [label=diet]
+	fare -> diet
+	allergy_diet [label=allergy_diet]
+	diet -> allergy_diet
+	balanced_diet [label=balanced_diet]
+	diet -> balanced_diet
+	bland_diet [label=bland_diet]
+	diet -> bland_diet
+	carbohydrate_loading [label=carbohydrate_loading]
+	diet -> carbohydrate_loading
+	diabetic_diet [label=diabetic_diet]
+	diet -> diabetic_diet
+	dietary_supplement [label=dietary_supplement]
+	diet -> dietary_supplement
+	vitamin_pill [label=vitamin_pill]
+	dietary_supplement -> vitamin_pill
+	multivitamin [label=multivitamin]
+	vitamin_pill -> multivitamin
+	"gluten-free_diet" [label="gluten-free_diet"]
+	diet -> "gluten-free_diet"
+	"high-protein_diet" [label="high-protein_diet"]
+	diet -> "high-protein_diet"
+	"high-vitamin_diet" [label="high-vitamin_diet"]
+	diet -> "high-vitamin_diet"
+	light_diet [label=light_diet]
+	diet -> light_diet
+	liquid_diet [label=liquid_diet]
+	diet -> liquid_diet
+	clear_liquid_diet [label=clear_liquid_diet]
+	liquid_diet -> clear_liquid_diet
+	"low-fat_diet" [label="low-fat_diet"]
+	diet -> "low-fat_diet"
+	"low-sodium_diet" [label="low-sodium_diet"]
+	diet -> "low-sodium_diet"
+	reducing_diet [label=reducing_diet]
+	diet -> reducing_diet
+	fad_diet [label=fad_diet]
+	reducing_diet -> fad_diet
+	"low-calorie_diet" [label="low-calorie_diet"]
+	reducing_diet -> "low-calorie_diet"
+	soft_diet [label=soft_diet]
+	diet -> soft_diet
+	vegetarianism [label=vegetarianism]
+	diet -> vegetarianism
+	macrobiotic_diet [label=macrobiotic_diet]
+	vegetarianism -> macrobiotic_diet
+	diet [label=diet]
+	fare -> diet
+	dietary [label=dietary]
+	fare -> dietary
+	menu [label=menu]
+	fare -> menu
+	ration [label=ration]
+	fare -> ration
+	field_ration [label=field_ration]
+	ration -> field_ration
+	"c-ration" [label="c-ration"]
+	field_ration -> "c-ration"
+	k_ration [label=k_ration]
+	field_ration -> k_ration
+	feed [label=feed]
+	food -> feed
+	bird_feed [label=bird_feed]
+	feed -> bird_feed
+	canary_seed [label=canary_seed]
+	bird_feed -> canary_seed
+	blood_meal [label=blood_meal]
+	feed -> blood_meal
+	cattle_cake [label=cattle_cake]
+	feed -> cattle_cake
+	corn_gluten_feed [label=corn_gluten_feed]
+	feed -> corn_gluten_feed
+	creep_feed [label=creep_feed]
+	feed -> creep_feed
+	cud [label=cud]
+	feed -> cud
+	feed_grain [label=feed_grain]
+	feed -> feed_grain
+	fish_meal [label=fish_meal]
+	feed -> fish_meal
+	fodder [label=fodder]
+	feed -> fodder
+	alfalfa [label=alfalfa]
+	fodder -> alfalfa
+	broad_bean [label=broad_bean]
+	fodder -> broad_bean
+	eatage [label=eatage]
+	fodder -> eatage
+	hay [label=hay]
+	fodder -> hay
+	timothy [label=timothy]
+	hay -> timothy
+	stover [label=stover]
+	fodder -> stover
+	mash [label=mash]
+	feed -> mash
+	chicken_feed [label=chicken_feed]
+	mash -> chicken_feed
+	mast [label=mast]
+	feed -> mast
+	oil_cake [label=oil_cake]
+	feed -> oil_cake
+	oil_meal [label=oil_meal]
+	oil_cake -> oil_meal
+	petfood [label=petfood]
+	feed -> petfood
+	cat_food [label=cat_food]
+	petfood -> cat_food
+	dog_food [label=dog_food]
+	petfood -> dog_food
+	silage [label=silage]
+	feed -> silage
+	slop [label=slop]
+	feed -> slop
+	foodstuff [label=foodstuff]
+	food -> foodstuff
+	breadstuff [label=breadstuff]
+	foodstuff -> breadstuff
+	canned_food [label=canned_food]
+	foodstuff -> canned_food
+	canned_meat [label=canned_meat]
+	canned_food -> canned_meat
+	fanny_adams [label=fanny_adams]
+	canned_meat -> fanny_adams
+	spam [label=spam]
+	canned_meat -> spam
+	carob [label=carob]
+	foodstuff -> carob
+	cocoa [label=cocoa]
+	foodstuff -> cocoa
+	criollo [label=criollo]
+	cocoa -> criollo
+	coloring [label=coloring]
+	foodstuff -> coloring
+	concentrate [label=concentrate]
+	foodstuff -> concentrate
+	evaporated_milk [label=evaporated_milk]
+	concentrate -> evaporated_milk
+	frozen_orange_juice [label=frozen_orange_juice]
+	concentrate -> frozen_orange_juice
+	tomato_concentrate [label=tomato_concentrate]
+	concentrate -> tomato_concentrate
+	concoction [label=concoction]
+	foodstuff -> concoction
+	batter [label=batter]
+	concoction -> batter
+	fritter_batter [label=fritter_batter]
+	batter -> fritter_batter
+	pancake_batter [label=pancake_batter]
+	batter -> pancake_batter
+	puff_batter [label=puff_batter]
+	batter -> puff_batter
+	dough [label=dough]
+	concoction -> dough
+	bread_dough [label=bread_dough]
+	dough -> bread_dough
+	pastry [label=pastry]
+	dough -> pastry
+	puff_paste [label=puff_paste]
+	pastry -> puff_paste
+	phyllo [label=phyllo]
+	puff_paste -> phyllo
+	filling [label=filling]
+	concoction -> filling
+	lekvar [label=lekvar]
+	filling -> lekvar
+	mincemeat [label=mincemeat]
+	concoction -> mincemeat
+	mix [label=mix]
+	concoction -> mix
+	"ready-mix" [label="ready-mix"]
+	mix -> "ready-mix"
+	brownie_mix [label=brownie_mix]
+	"ready-mix" -> brownie_mix
+	cake_mix [label=cake_mix]
+	"ready-mix" -> cake_mix
+	lemonade_mix [label=lemonade_mix]
+	"ready-mix" -> lemonade_mix
+	"self-rising_flour" [label="self-rising_flour"]
+	mix -> "self-rising_flour"
+	roux [label=roux]
+	concoction -> roux
+	stuffing [label=stuffing]
+	concoction -> stuffing
+	forcemeat [label=forcemeat]
+	stuffing -> forcemeat
+	oyster_stuffing [label=oyster_stuffing]
+	stuffing -> oyster_stuffing
+	turkey_stuffing [label=turkey_stuffing]
+	stuffing -> turkey_stuffing
+	curd [label=curd]
+	foodstuff -> curd
+	bean_curd [label=bean_curd]
+	curd -> bean_curd
+	dairy_product [label=dairy_product]
+	foodstuff -> dairy_product
+	butter [label=butter]
+	dairy_product -> butter
+	brown_butter [label=brown_butter]
+	butter -> brown_butter
+	clarified_butter [label=clarified_butter]
+	butter -> clarified_butter
+	ghee [label=ghee]
+	clarified_butter -> ghee
+	meuniere_butter [label=meuniere_butter]
+	butter -> meuniere_butter
+	stick [label=stick]
+	butter -> stick
+	yak_butter [label=yak_butter]
+	butter -> yak_butter
+	cheese [label=cheese]
+	dairy_product -> cheese
+	bleu [label=bleu]
+	cheese -> bleu
+	bavarian_blue [label=bavarian_blue]
+	bleu -> bavarian_blue
+	danish_blue [label=danish_blue]
+	bleu -> danish_blue
+	gorgonzola [label=gorgonzola]
+	bleu -> gorgonzola
+	roquefort [label=roquefort]
+	bleu -> roquefort
+	stilton [label=stilton]
+	bleu -> stilton
+	brick_cheese [label=brick_cheese]
+	cheese -> brick_cheese
+	brie [label=brie]
+	cheese -> brie
+	camembert [label=camembert]
+	cheese -> camembert
+	cheddar [label=cheddar]
+	cheese -> cheddar
+	rat_cheese [label=rat_cheese]
+	cheddar -> rat_cheese
+	cheshire_cheese [label=cheshire_cheese]
+	cheese -> cheshire_cheese
+	cottage_cheese [label=cottage_cheese]
+	cheese -> cottage_cheese
+	cream_cheese [label=cream_cheese]
+	cheese -> cream_cheese
+	double_cream [label=double_cream]
+	cream_cheese -> double_cream
+	mascarpone [label=mascarpone]
+	cream_cheese -> mascarpone
+	double_gloucester [label=double_gloucester]
+	cheese -> double_gloucester
+	edam [label=edam]
+	cheese -> edam
+	goat_cheese [label=goat_cheese]
+	cheese -> goat_cheese
+	gouda [label=gouda]
+	cheese -> gouda
+	grated_cheese [label=grated_cheese]
+	cheese -> grated_cheese
+	hand_cheese [label=hand_cheese]
+	cheese -> hand_cheese
+	liederkranz [label=liederkranz]
+	cheese -> liederkranz
+	limburger [label=limburger]
+	cheese -> limburger
+	mozzarella [label=mozzarella]
+	cheese -> mozzarella
+	muenster [label=muenster]
+	cheese -> muenster
+	parmesan [label=parmesan]
+	cheese -> parmesan
+	process_cheese [label=process_cheese]
+	cheese -> process_cheese
+	quark_cheese [label=quark_cheese]
+	cheese -> quark_cheese
+	ricotta [label=ricotta]
+	cheese -> ricotta
+	string_cheese [label=string_cheese]
+	cheese -> string_cheese
+	swiss_cheese [label=swiss_cheese]
+	cheese -> swiss_cheese
+	emmenthal [label=emmenthal]
+	swiss_cheese -> emmenthal
+	gruyere [label=gruyere]
+	swiss_cheese -> gruyere
+	sapsago [label=sapsago]
+	swiss_cheese -> sapsago
+	triple_cream [label=triple_cream]
+	cheese -> triple_cream
+	velveeta [label=velveeta]
+	cheese -> velveeta
+	clabber [label=clabber]
+	dairy_product -> clabber
+	cream [label=cream]
+	dairy_product -> cream
+	clotted_cream [label=clotted_cream]
+	cream -> clotted_cream
+	double_creme [label=double_creme]
+	cream -> double_creme
+	heavy_cream [label=heavy_cream]
+	cream -> heavy_cream
+	light_cream [label=light_cream]
+	cream -> light_cream
+	sour_cream [label=sour_cream]
+	cream -> sour_cream
+	whipping_cream [label=whipping_cream]
+	cream -> whipping_cream
+	curd [label=curd]
+	dairy_product -> curd
+	"half-and-half" [label="half-and-half"]
+	dairy_product -> "half-and-half"
+	milk [label=milk]
+	dairy_product -> milk
+	acidophilus_milk [label=acidophilus_milk]
+	milk -> acidophilus_milk
+	buttermilk [label=buttermilk]
+	milk -> buttermilk
+	certified_milk [label=certified_milk]
+	milk -> certified_milk
+	chocolate_milk [label=chocolate_milk]
+	milk -> chocolate_milk
+	condensed_milk [label=condensed_milk]
+	milk -> condensed_milk
+	"cows'_milk" [label="cows'_milk"]
+	milk -> "cows'_milk"
+	evaporated_milk [label=evaporated_milk]
+	milk -> evaporated_milk
+	"goats'_milk" [label="goats'_milk"]
+	milk -> "goats'_milk"
+	homogenized_milk [label=homogenized_milk]
+	milk -> homogenized_milk
+	"low-fat_milk" [label="low-fat_milk"]
+	milk -> "low-fat_milk"
+	pasteurized_milk [label=pasteurized_milk]
+	milk -> pasteurized_milk
+	powdered_milk [label=powdered_milk]
+	milk -> powdered_milk
+	nonfat_dry_milk [label=nonfat_dry_milk]
+	powdered_milk -> nonfat_dry_milk
+	raw_milk [label=raw_milk]
+	milk -> raw_milk
+	scalded_milk [label=scalded_milk]
+	milk -> scalded_milk
+	"semi-skimmed_milk" [label="semi-skimmed_milk"]
+	milk -> "semi-skimmed_milk"
+	skim_milk [label=skim_milk]
+	milk -> skim_milk
+	sour_milk [label=sour_milk]
+	milk -> sour_milk
+	whole_milk [label=whole_milk]
+	milk -> whole_milk
+	"yak's_milk" [label="yak's_milk"]
+	milk -> "yak's_milk"
+	whey [label=whey]
+	dairy_product -> whey
+	yogurt [label=yogurt]
+	dairy_product -> yogurt
+	blueberry_yogurt [label=blueberry_yogurt]
+	yogurt -> blueberry_yogurt
+	frozen_yogurt [label=frozen_yogurt]
+	yogurt -> frozen_yogurt
+	dehydrated_food [label=dehydrated_food]
+	foodstuff -> dehydrated_food
+	egg [label=egg]
+	foodstuff -> egg
+	flour [label=flour]
+	foodstuff -> flour
+	plain_flour [label=plain_flour]
+	flour -> plain_flour
+	semolina [label=semolina]
+	flour -> semolina
+	soybean_meal [label=soybean_meal]
+	flour -> soybean_meal
+	wheat_flour [label=wheat_flour]
+	flour -> wheat_flour
+	whole_wheat_flour [label=whole_wheat_flour]
+	wheat_flour -> whole_wheat_flour
+	frozen_food [label=frozen_food]
+	foodstuff -> frozen_food
+	grain [label=grain]
+	foodstuff -> grain
+	barley [label=barley]
+	grain -> barley
+	pearl_barley [label=pearl_barley]
+	barley -> pearl_barley
+	buckwheat [label=buckwheat]
+	grain -> buckwheat
+	corn [label=corn]
+	grain -> corn
+	hominy [label=hominy]
+	corn -> hominy
+	lye_hominy [label=lye_hominy]
+	hominy -> lye_hominy
+	pearl_hominy [label=pearl_hominy]
+	hominy -> pearl_hominy
+	popcorn [label=popcorn]
+	corn -> popcorn
+	sweet_corn [label=sweet_corn]
+	corn -> sweet_corn
+	grist [label=grist]
+	grain -> grist
+	groats [label=groats]
+	grain -> groats
+	malt [label=malt]
+	grain -> malt
+	wort [label=wort]
+	malt -> wort
+	millet [label=millet]
+	grain -> millet
+	oat [label=oat]
+	grain -> oat
+	rice [label=rice]
+	grain -> rice
+	brown_rice [label=brown_rice]
+	rice -> brown_rice
+	paddy [label=paddy]
+	rice -> paddy
+	white_rice [label=white_rice]
+	rice -> white_rice
+	wheat [label=wheat]
+	grain -> wheat
+	bulgur [label=bulgur]
+	wheat -> bulgur
+	cracked_wheat [label=cracked_wheat]
+	wheat -> cracked_wheat
+	wild_rice [label=wild_rice]
+	grain -> wild_rice
+	ingredient [label=ingredient]
+	foodstuff -> ingredient
+	egg_white [label=egg_white]
+	ingredient -> egg_white
+	egg_yolk [label=egg_yolk]
+	ingredient -> egg_yolk
+	flavorer [label=flavorer]
+	ingredient -> flavorer
+	almond_extract [label=almond_extract]
+	flavorer -> almond_extract
+	anchovy_paste [label=anchovy_paste]
+	flavorer -> anchovy_paste
+	angelica [label=angelica]
+	flavorer -> angelica
+	anise [label=anise]
+	flavorer -> anise
+	bouillon_cube [label=bouillon_cube]
+	flavorer -> bouillon_cube
+	caraway_seed [label=caraway_seed]
+	flavorer -> caraway_seed
+	cardamom [label=cardamom]
+	flavorer -> cardamom
+	cassareep [label=cassareep]
+	flavorer -> cassareep
+	cayenne [label=cayenne]
+	flavorer -> cayenne
+	celery_salt [label=celery_salt]
+	flavorer -> celery_salt
+	celery_seed [label=celery_seed]
+	flavorer -> celery_seed
+	chili_powder [label=chili_powder]
+	flavorer -> chili_powder
+	cola_extract [label=cola_extract]
+	flavorer -> cola_extract
+	condiment [label=condiment]
+	flavorer -> condiment
+	catsup [label=catsup]
+	condiment -> catsup
+	chili_sauce [label=chili_sauce]
+	condiment -> chili_sauce
+	chutney [label=chutney]
+	condiment -> chutney
+	cranberry_sauce [label=cranberry_sauce]
+	condiment -> cranberry_sauce
+	dip [label=dip]
+	condiment -> dip
+	bean_dip [label=bean_dip]
+	dip -> bean_dip
+	cheese_dip [label=cheese_dip]
+	dip -> cheese_dip
+	clam_dip [label=clam_dip]
+	dip -> clam_dip
+	guacamole [label=guacamole]
+	dip -> guacamole
+	duck_sauce [label=duck_sauce]
+	condiment -> duck_sauce
+	horseradish [label=horseradish]
+	condiment -> horseradish
+	marinade [label=marinade]
+	condiment -> marinade
+	mint_sauce [label=mint_sauce]
+	condiment -> mint_sauce
+	mustard [label=mustard]
+	condiment -> mustard
+	chinese_mustard [label=chinese_mustard]
+	mustard -> chinese_mustard
+	powdered_mustard [label=powdered_mustard]
+	mustard -> powdered_mustard
+	relish [label=relish]
+	condiment -> relish
+	chowchow [label=chowchow]
+	relish -> chowchow
+	olive [label=olive]
+	relish -> olive
+	black_olive [label=black_olive]
+	olive -> black_olive
+	green_olive [label=green_olive]
+	olive -> green_olive
+	piccalilli [label=piccalilli]
+	relish -> piccalilli
+	pickle [label=pickle]
+	relish -> pickle
+	caper [label=caper]
+	pickle -> caper
+	dill_pickle [label=dill_pickle]
+	pickle -> dill_pickle
+	gherkin [label=gherkin]
+	pickle -> gherkin
+	sweet_pickle [label=sweet_pickle]
+	pickle -> sweet_pickle
+	bread_and_butter_pickle [label=bread_and_butter_pickle]
+	sweet_pickle -> bread_and_butter_pickle
+	pickle_relish [label=pickle_relish]
+	relish -> pickle_relish
+	salsa [label=salsa]
+	condiment -> salsa
+	sauce [label=sauce]
+	condiment -> sauce
+	aioli [label=aioli]
+	sauce -> aioli
+	allemande [label=allemande]
+	sauce -> allemande
+	anchovy_sauce [label=anchovy_sauce]
+	sauce -> anchovy_sauce
+	apricot_sauce [label=apricot_sauce]
+	sauce -> apricot_sauce
+	barbecue_sauce [label=barbecue_sauce]
+	sauce -> barbecue_sauce
+	bearnaise [label=bearnaise]
+	sauce -> bearnaise
+	bercy [label=bercy]
+	sauce -> bercy
+	bordelaise [label=bordelaise]
+	sauce -> bordelaise
+	bourguignon [label=bourguignon]
+	sauce -> bourguignon
+	bread_sauce [label=bread_sauce]
+	sauce -> bread_sauce
+	brown_sauce [label=brown_sauce]
+	sauce -> brown_sauce
+	caper_sauce [label=caper_sauce]
+	sauce -> caper_sauce
+	chinese_brown_sauce [label=chinese_brown_sauce]
+	sauce -> chinese_brown_sauce
+	chocolate_sauce [label=chocolate_sauce]
+	sauce -> chocolate_sauce
+	"hot-fudge_sauce" [label="hot-fudge_sauce"]
+	chocolate_sauce -> "hot-fudge_sauce"
+	cocktail_sauce [label=cocktail_sauce]
+	sauce -> cocktail_sauce
+	colbert [label=colbert]
+	sauce -> colbert
+	curry_sauce [label=curry_sauce]
+	sauce -> curry_sauce
+	demiglace [label=demiglace]
+	sauce -> demiglace
+	dressing [label=dressing]
+	sauce -> dressing
+	anchovy_dressing [label=anchovy_dressing]
+	dressing -> anchovy_dressing
+	bleu_cheese_dressing [label=bleu_cheese_dressing]
+	dressing -> bleu_cheese_dressing
+	blue_cheese_dressing [label=blue_cheese_dressing]
+	dressing -> blue_cheese_dressing
+	french_dressing [label=french_dressing]
+	dressing -> french_dressing
+	"half-and-half_dressing" [label="half-and-half_dressing"]
+	dressing -> "half-and-half_dressing"
+	italian_dressing [label=italian_dressing]
+	dressing -> italian_dressing
+	lorenzo_dressing [label=lorenzo_dressing]
+	dressing -> lorenzo_dressing
+	mayonnaise [label=mayonnaise]
+	dressing -> mayonnaise
+	green_mayonnaise [label=green_mayonnaise]
+	mayonnaise -> green_mayonnaise
+	russian_dressing [label=russian_dressing]
+	dressing -> russian_dressing
+	salad_cream [label=salad_cream]
+	dressing -> salad_cream
+	sauce_louis [label=sauce_louis]
+	dressing -> sauce_louis
+	thousand_island_dressing [label=thousand_island_dressing]
+	dressing -> thousand_island_dressing
+	espagnole [label=espagnole]
+	sauce -> espagnole
+	gravy [label=gravy]
+	sauce -> gravy
+	hard_sauce [label=hard_sauce]
+	sauce -> hard_sauce
+	hollandaise [label=hollandaise]
+	sauce -> hollandaise
+	horseradish_sauce [label=horseradish_sauce]
+	sauce -> horseradish_sauce
+	hot_sauce [label=hot_sauce]
+	sauce -> hot_sauce
+	tabasco [label=tabasco]
+	hot_sauce -> tabasco
+	hungarian_sauce [label=hungarian_sauce]
+	sauce -> hungarian_sauce
+	"hunter's_sauce" [label="hunter's_sauce"]
+	sauce -> "hunter's_sauce"
+	lyonnaise_sauce [label=lyonnaise_sauce]
+	sauce -> lyonnaise_sauce
+	marchand_de_vin [label=marchand_de_vin]
+	sauce -> marchand_de_vin
+	mole [label=mole]
+	sauce -> mole
+	mushroom_sauce [label=mushroom_sauce]
+	sauce -> mushroom_sauce
+	mustard_sauce [label=mustard_sauce]
+	sauce -> mustard_sauce
+	nantua [label=nantua]
+	sauce -> nantua
+	newburg_sauce [label=newburg_sauce]
+	sauce -> newburg_sauce
+	peach_sauce [label=peach_sauce]
+	sauce -> peach_sauce
+	pepper_sauce [label=pepper_sauce]
+	sauce -> pepper_sauce
+	pesto [label=pesto]
+	sauce -> pesto
+	plum_sauce [label=plum_sauce]
+	sauce -> plum_sauce
+	poulette [label=poulette]
+	sauce -> poulette
+	ravigote [label=ravigote]
+	sauce -> ravigote
+	remoulade_sauce [label=remoulade_sauce]
+	sauce -> remoulade_sauce
+	smitane [label=smitane]
+	sauce -> smitane
+	snail_butter [label=snail_butter]
+	sauce -> snail_butter
+	soubise [label=soubise]
+	sauce -> soubise
+	spaghetti_sauce [label=spaghetti_sauce]
+	sauce -> spaghetti_sauce
+	bolognese_pasta_sauce [label=bolognese_pasta_sauce]
+	spaghetti_sauce -> bolognese_pasta_sauce
+	carbonara [label=carbonara]
+	spaghetti_sauce -> carbonara
+	marinara [label=marinara]
+	spaghetti_sauce -> marinara
+	tomato_sauce [label=tomato_sauce]
+	spaghetti_sauce -> tomato_sauce
+	tartare_sauce [label=tartare_sauce]
+	sauce -> tartare_sauce
+	veloute [label=veloute]
+	sauce -> veloute
+	white_sauce [label=white_sauce]
+	sauce -> white_sauce
+	blanc [label=blanc]
+	white_sauce -> blanc
+	cheese_sauce [label=cheese_sauce]
+	white_sauce -> cheese_sauce
+	mornay_sauce [label=mornay_sauce]
+	cheese_sauce -> mornay_sauce
+	cream_sauce [label=cream_sauce]
+	white_sauce -> cream_sauce
+	wine_sauce [label=wine_sauce]
+	sauce -> wine_sauce
+	worcester_sauce [label=worcester_sauce]
+	sauce -> worcester_sauce
+	soy_sauce [label=soy_sauce]
+	condiment -> soy_sauce
+	spread [label=spread]
+	condiment -> spread
+	anchovy_butter [label=anchovy_butter]
+	spread -> anchovy_butter
+	cheese_spread [label=cheese_spread]
+	spread -> cheese_spread
+	fishpaste [label=fishpaste]
+	spread -> fishpaste
+	garlic_butter [label=garlic_butter]
+	spread -> garlic_butter
+	hummus [label=hummus]
+	spread -> hummus
+	lobster_butter [label=lobster_butter]
+	spread -> lobster_butter
+	margarine [label=margarine]
+	spread -> margarine
+	stick [label=stick]
+	margarine -> stick
+	marshmallow_fluff [label=marshmallow_fluff]
+	spread -> marshmallow_fluff
+	miso [label=miso]
+	spread -> miso
+	nut_butter [label=nut_butter]
+	spread -> nut_butter
+	onion_butter [label=onion_butter]
+	spread -> onion_butter
+	pate [label=pate]
+	spread -> pate
+	duck_pate [label=duck_pate]
+	pate -> duck_pate
+	foie_gras [label=foie_gras]
+	pate -> foie_gras
+	peanut_butter [label=peanut_butter]
+	spread -> peanut_butter
+	pimento_butter [label=pimento_butter]
+	spread -> pimento_butter
+	shrimp_butter [label=shrimp_butter]
+	spread -> shrimp_butter
+	tahini [label=tahini]
+	spread -> tahini
+	tapenade [label=tapenade]
+	spread -> tapenade
+	steak_sauce [label=steak_sauce]
+	condiment -> steak_sauce
+	taco_sauce [label=taco_sauce]
+	condiment -> taco_sauce
+	vinegar [label=vinegar]
+	condiment -> vinegar
+	chili_vinegar [label=chili_vinegar]
+	vinegar -> chili_vinegar
+	cider_vinegar [label=cider_vinegar]
+	vinegar -> cider_vinegar
+	wine_vinegar [label=wine_vinegar]
+	vinegar -> wine_vinegar
+	wasabi [label=wasabi]
+	condiment -> wasabi
+	coriander [label=coriander]
+	flavorer -> coriander
+	curry_powder [label=curry_powder]
+	flavorer -> curry_powder
+	dill_seed [label=dill_seed]
+	flavorer -> dill_seed
+	fennel_seed [label=fennel_seed]
+	flavorer -> fennel_seed
+	fenugreek [label=fenugreek]
+	flavorer -> fenugreek
+	garlic [label=garlic]
+	flavorer -> garlic
+	clove [label=clove]
+	garlic -> clove
+	garlic_chive [label=garlic_chive]
+	flavorer -> garlic_chive
+	garlic_salt [label=garlic_salt]
+	flavorer -> garlic_salt
+	ginger [label=ginger]
+	flavorer -> ginger
+	herb [label=herb]
+	flavorer -> herb
+	angelica [label=angelica]
+	herb -> angelica
+	basil [label=basil]
+	herb -> basil
+	bay_leaf [label=bay_leaf]
+	herb -> bay_leaf
+	borage [label=borage]
+	herb -> borage
+	caraway [label=caraway]
+	herb -> caraway
+	chervil [label=chervil]
+	herb -> chervil
+	chives [label=chives]
+	herb -> chives
+	comfrey [label=comfrey]
+	herb -> comfrey
+	coriander [label=coriander]
+	herb -> coriander
+	costmary [label=costmary]
+	herb -> costmary
+	dill [label=dill]
+	herb -> dill
+	fennel [label=fennel]
+	herb -> fennel
+	fines_herbes [label=fines_herbes]
+	herb -> fines_herbes
+	hyssop [label=hyssop]
+	herb -> hyssop
+	lemon_balm [label=lemon_balm]
+	herb -> lemon_balm
+	lovage [label=lovage]
+	herb -> lovage
+	marjoram [label=marjoram]
+	herb -> marjoram
+	mint [label=mint]
+	herb -> mint
+	parsley [label=parsley]
+	herb -> parsley
+	rosemary [label=rosemary]
+	herb -> rosemary
+	rue [label=rue]
+	herb -> rue
+	sage [label=sage]
+	herb -> sage
+	clary_sage [label=clary_sage]
+	sage -> clary_sage
+	savory [label=savory]
+	herb -> savory
+	summer_savory [label=summer_savory]
+	savory -> summer_savory
+	winter_savory [label=winter_savory]
+	savory -> winter_savory
+	sweet_cicely [label=sweet_cicely]
+	herb -> sweet_cicely
+	sweet_woodruff [label=sweet_woodruff]
+	herb -> sweet_woodruff
+	tarragon [label=tarragon]
+	herb -> tarragon
+	tea [label=tea]
+	herb -> tea
+	black_tea [label=black_tea]
+	tea -> black_tea
+	congou [label=congou]
+	black_tea -> congou
+	darjeeling [label=darjeeling]
+	black_tea -> darjeeling
+	orange_pekoe [label=orange_pekoe]
+	black_tea -> orange_pekoe
+	souchong [label=souchong]
+	black_tea -> souchong
+	green_tea [label=green_tea]
+	tea -> green_tea
+	hyson [label=hyson]
+	green_tea -> hyson
+	oolong [label=oolong]
+	tea -> oolong
+	tea_bag [label=tea_bag]
+	tea -> tea_bag
+	thyme [label=thyme]
+	herb -> thyme
+	juniper_berries [label=juniper_berries]
+	flavorer -> juniper_berries
+	lemon_extract [label=lemon_extract]
+	flavorer -> lemon_extract
+	lemon_oil [label=lemon_oil]
+	flavorer -> lemon_oil
+	mocha [label=mocha]
+	flavorer -> mocha
+	monosodium_glutamate [label=monosodium_glutamate]
+	flavorer -> monosodium_glutamate
+	mustard_seed [label=mustard_seed]
+	flavorer -> mustard_seed
+	nasturtium [label=nasturtium]
+	flavorer -> nasturtium
+	onion_salt [label=onion_salt]
+	flavorer -> onion_salt
+	paprika [label=paprika]
+	flavorer -> paprika
+	spanish_paprika [label=spanish_paprika]
+	paprika -> spanish_paprika
+	pepper [label=pepper]
+	flavorer -> pepper
+	black_pepper [label=black_pepper]
+	pepper -> black_pepper
+	white_pepper [label=white_pepper]
+	pepper -> white_pepper
+	peppermint_oil [label=peppermint_oil]
+	flavorer -> peppermint_oil
+	poppy_seed [label=poppy_seed]
+	flavorer -> poppy_seed
+	saffron [label=saffron]
+	flavorer -> saffron
+	salt [label=salt]
+	flavorer -> salt
+	sassafras [label=sassafras]
+	flavorer -> sassafras
+	seasoned_salt [label=seasoned_salt]
+	flavorer -> seasoned_salt
+	sesame_seed [label=sesame_seed]
+	flavorer -> sesame_seed
+	sour_salt [label=sour_salt]
+	flavorer -> sour_salt
+	spearmint_oil [label=spearmint_oil]
+	flavorer -> spearmint_oil
+	spice [label=spice]
+	flavorer -> spice
+	allspice [label=allspice]
+	spice -> allspice
+	chinese_anise [label=chinese_anise]
+	spice -> chinese_anise
+	cinnamon [label=cinnamon]
+	spice -> cinnamon
+	stick_cinnamon [label=stick_cinnamon]
+	cinnamon -> stick_cinnamon
+	clove [label=clove]
+	spice -> clove
+	fennel [label=fennel]
+	spice -> fennel
+	five_spice_powder [label=five_spice_powder]
+	spice -> five_spice_powder
+	ginger [label=ginger]
+	spice -> ginger
+	mace [label=mace]
+	spice -> mace
+	nutmeg [label=nutmeg]
+	spice -> nutmeg
+	sweetening [label=sweetening]
+	flavorer -> sweetening
+	aspartame [label=aspartame]
+	sweetening -> aspartame
+	honey [label=honey]
+	sweetening -> honey
+	saccharin [label=saccharin]
+	sweetening -> saccharin
+	sugar [label=sugar]
+	sweetening -> sugar
+	beet_sugar [label=beet_sugar]
+	sugar -> beet_sugar
+	brown_sugar [label=brown_sugar]
+	sugar -> brown_sugar
+	demerara [label=demerara]
+	brown_sugar -> demerara
+	cane_sugar [label=cane_sugar]
+	sugar -> cane_sugar
+	caramel [label=caramel]
+	sugar -> caramel
+	corn_sugar [label=corn_sugar]
+	sugar -> corn_sugar
+	granulated_sugar [label=granulated_sugar]
+	sugar -> granulated_sugar
+	powdered_sugar [label=powdered_sugar]
+	granulated_sugar -> powdered_sugar
+	castor_sugar [label=castor_sugar]
+	powdered_sugar -> castor_sugar
+	icing_sugar [label=icing_sugar]
+	powdered_sugar -> icing_sugar
+	lump_sugar [label=lump_sugar]
+	sugar -> lump_sugar
+	sugarloaf [label=sugarloaf]
+	sugar -> sugarloaf
+	syrup [label=syrup]
+	sweetening -> syrup
+	corn_syrup [label=corn_syrup]
+	syrup -> corn_syrup
+	grenadine [label=grenadine]
+	syrup -> grenadine
+	maple_syrup [label=maple_syrup]
+	syrup -> maple_syrup
+	molasses [label=molasses]
+	syrup -> molasses
+	sorghum [label=sorghum]
+	syrup -> sorghum
+	sugar_syrup [label=sugar_syrup]
+	syrup -> sugar_syrup
+	treacle [label=treacle]
+	syrup -> treacle
+	turmeric [label=turmeric]
+	flavorer -> turmeric
+	vanilla [label=vanilla]
+	flavorer -> vanilla
+	vanilla_bean [label=vanilla_bean]
+	flavorer -> vanilla_bean
+	wintergreen_oil [label=wintergreen_oil]
+	flavorer -> wintergreen_oil
+	malted_milk [label=malted_milk]
+	ingredient -> malted_milk
+	tomato_paste [label=tomato_paste]
+	ingredient -> tomato_paste
+	juice [label=juice]
+	foodstuff -> juice
+	carrot_juice [label=carrot_juice]
+	juice -> carrot_juice
+	gravy [label=gravy]
+	juice -> gravy
+	lemon_juice [label=lemon_juice]
+	juice -> lemon_juice
+	lime_juice [label=lime_juice]
+	juice -> lime_juice
+	papaya_juice [label=papaya_juice]
+	juice -> papaya_juice
+	tomato_juice [label=tomato_juice]
+	juice -> tomato_juice
+	"v-8_juice" [label="v-8_juice"]
+	juice -> "v-8_juice"
+	meal [label=meal]
+	foodstuff -> meal
+	cornmeal [label=cornmeal]
+	meal -> cornmeal
+	farina [label=farina]
+	meal -> farina
+	kibble [label=kibble]
+	meal -> kibble
+	matzo_meal [label=matzo_meal]
+	meal -> matzo_meal
+	oatmeal [label=oatmeal]
+	meal -> oatmeal
+	pea_flour [label=pea_flour]
+	meal -> pea_flour
+	pinole [label=pinole]
+	meal -> pinole
+	milk [label=milk]
+	foodstuff -> milk
+	coconut_milk [label=coconut_milk]
+	milk -> coconut_milk
+	coconut_milk [label=coconut_milk]
+	milk -> coconut_milk
+	formula [label=formula]
+	milk -> formula
+	soya_milk [label=soya_milk]
+	milk -> soya_milk
+	perishable [label=perishable]
+	foodstuff -> perishable
+	roughage [label=roughage]
+	foodstuff -> roughage
+	bran [label=bran]
+	roughage -> bran
+	starches [label=starches]
+	foodstuff -> starches
+	bread [label=bread]
+	starches -> bread
+	anadama_bread [label=anadama_bread]
+	bread -> anadama_bread
+	bap [label=bap]
+	bread -> bap
+	barmbrack [label=barmbrack]
+	bread -> barmbrack
+	breadstick [label=breadstick]
+	bread -> breadstick
+	grissino [label=grissino]
+	breadstick -> grissino
+	brown_bread [label=brown_bread]
+	bread -> brown_bread
+	bun [label=bun]
+	bread -> bun
+	bagel [label=bagel]
+	bun -> bagel
+	onion_bagel [label=onion_bagel]
+	bagel -> onion_bagel
+	brioche [label=brioche]
+	bun -> brioche
+	"clover-leaf_roll" [label="clover-leaf_roll"]
+	bun -> "clover-leaf_roll"
+	crescent_roll [label=crescent_roll]
+	bun -> crescent_roll
+	frankfurter_bun [label=frankfurter_bun]
+	bun -> frankfurter_bun
+	hamburger_bun [label=hamburger_bun]
+	bun -> hamburger_bun
+	hard_roll [label=hard_roll]
+	bun -> hard_roll
+	kaiser_roll [label=kaiser_roll]
+	bun -> kaiser_roll
+	onion_roll [label=onion_roll]
+	bun -> onion_roll
+	bialy [label=bialy]
+	onion_roll -> bialy
+	parker_house_roll [label=parker_house_roll]
+	bun -> parker_house_roll
+	soft_roll [label=soft_roll]
+	bun -> soft_roll
+	sweet_roll [label=sweet_roll]
+	bun -> sweet_roll
+	bear_claw [label=bear_claw]
+	sweet_roll -> bear_claw
+	cinnamon_roll [label=cinnamon_roll]
+	sweet_roll -> cinnamon_roll
+	cross_bun [label=cross_bun]
+	sweet_roll -> cross_bun
+	danish [label=danish]
+	sweet_roll -> danish
+	honey_bun [label=honey_bun]
+	sweet_roll -> honey_bun
+	pinwheel_roll [label=pinwheel_roll]
+	sweet_roll -> pinwheel_roll
+	tea_bread [label=tea_bread]
+	bun -> tea_bread
+	caraway_seed_bread [label=caraway_seed_bread]
+	bread -> caraway_seed_bread
+	challah [label=challah]
+	bread -> challah
+	cinnamon_bread [label=cinnamon_bread]
+	bread -> cinnamon_bread
+	"cracked-wheat_bread" [label="cracked-wheat_bread"]
+	bread -> "cracked-wheat_bread"
+	cracker [label=cracker]
+	bread -> cracker
+	graham_cracker [label=graham_cracker]
+	cracker -> graham_cracker
+	oyster_cracker [label=oyster_cracker]
+	cracker -> oyster_cracker
+	pretzel [label=pretzel]
+	cracker -> pretzel
+	soft_pretzel [label=soft_pretzel]
+	pretzel -> soft_pretzel
+	saltine [label=saltine]
+	cracker -> saltine
+	soda_cracker [label=soda_cracker]
+	cracker -> soda_cracker
+	water_biscuit [label=water_biscuit]
+	cracker -> water_biscuit
+	crouton [label=crouton]
+	bread -> crouton
+	dark_bread [label=dark_bread]
+	bread -> dark_bread
+	graham_bread [label=graham_bread]
+	dark_bread -> graham_bread
+	english_muffin [label=english_muffin]
+	bread -> english_muffin
+	flatbread [label=flatbread]
+	bread -> flatbread
+	bannock [label=bannock]
+	flatbread -> bannock
+	chapatti [label=chapatti]
+	flatbread -> chapatti
+	flatbrod [label=flatbrod]
+	flatbread -> flatbrod
+	pita [label=pita]
+	flatbread -> pita
+	garlic_bread [label=garlic_bread]
+	bread -> garlic_bread
+	gluten_bread [label=gluten_bread]
+	bread -> gluten_bread
+	host [label=host]
+	bread -> host
+	loaf_of_bread [label=loaf_of_bread]
+	bread -> loaf_of_bread
+	french_loaf [label=french_loaf]
+	loaf_of_bread -> french_loaf
+	meat_loaf [label=meat_loaf]
+	loaf_of_bread -> meat_loaf
+	fish_loaf [label=fish_loaf]
+	meat_loaf -> fish_loaf
+	salmon_loaf [label=salmon_loaf]
+	fish_loaf -> salmon_loaf
+	matzo [label=matzo]
+	bread -> matzo
+	nan [label=nan]
+	bread -> nan
+	onion_bread [label=onion_bread]
+	bread -> onion_bread
+	quick_bread [label=quick_bread]
+	bread -> quick_bread
+	banana_bread [label=banana_bread]
+	quick_bread -> banana_bread
+	biscuit [label=biscuit]
+	quick_bread -> biscuit
+	"baking-powder_biscuit" [label="baking-powder_biscuit"]
+	biscuit -> "baking-powder_biscuit"
+	shortcake [label=shortcake]
+	"baking-powder_biscuit" -> shortcake
+	buttermilk_biscuit [label=buttermilk_biscuit]
+	biscuit -> buttermilk_biscuit
+	drop_biscuit [label=drop_biscuit]
+	biscuit -> drop_biscuit
+	hardtack [label=hardtack]
+	biscuit -> hardtack
+	rolled_biscuit [label=rolled_biscuit]
+	biscuit -> rolled_biscuit
+	cornbread [label=cornbread]
+	quick_bread -> cornbread
+	ashcake [label=ashcake]
+	cornbread -> ashcake
+	corn_cake [label=corn_cake]
+	cornbread -> corn_cake
+	corn_dab [label=corn_dab]
+	cornbread -> corn_dab
+	cornpone [label=cornpone]
+	cornbread -> cornpone
+	hush_puppy [label=hush_puppy]
+	cornbread -> hush_puppy
+	johnnycake [label=johnnycake]
+	cornbread -> johnnycake
+	hoecake [label=hoecake]
+	johnnycake -> hoecake
+	shawnee_cake [label=shawnee_cake]
+	johnnycake -> shawnee_cake
+	skillet_corn_bread [label=skillet_corn_bread]
+	cornbread -> skillet_corn_bread
+	spoon_bread [label=spoon_bread]
+	cornbread -> spoon_bread
+	"date-nut_bread" [label="date-nut_bread"]
+	quick_bread -> "date-nut_bread"
+	date_bread [label=date_bread]
+	quick_bread -> date_bread
+	irish_soda_bread [label=irish_soda_bread]
+	quick_bread -> irish_soda_bread
+	muffin [label=muffin]
+	quick_bread -> muffin
+	bran_muffin [label=bran_muffin]
+	muffin -> bran_muffin
+	corn_muffin [label=corn_muffin]
+	muffin -> corn_muffin
+	popover [label=popover]
+	muffin -> popover
+	nut_bread [label=nut_bread]
+	quick_bread -> nut_bread
+	oatcake [label=oatcake]
+	quick_bread -> oatcake
+	scone [label=scone]
+	quick_bread -> scone
+	drop_scone [label=drop_scone]
+	scone -> drop_scone
+	skillet_bread [label=skillet_bread]
+	quick_bread -> skillet_bread
+	yorkshire_pudding [label=yorkshire_pudding]
+	quick_bread -> yorkshire_pudding
+	raisin_bread [label=raisin_bread]
+	bread -> raisin_bread
+	rye_bread [label=rye_bread]
+	bread -> rye_bread
+	black_bread [label=black_bread]
+	rye_bread -> black_bread
+	jewish_rye_bread [label=jewish_rye_bread]
+	rye_bread -> jewish_rye_bread
+	limpa [label=limpa]
+	rye_bread -> limpa
+	swedish_rye_bread [label=swedish_rye_bread]
+	rye_bread -> swedish_rye_bread
+	"salt-rising_bread" [label="salt-rising_bread"]
+	bread -> "salt-rising_bread"
+	simnel [label=simnel]
+	bread -> simnel
+	sour_bread [label=sour_bread]
+	bread -> sour_bread
+	toast [label=toast]
+	bread -> toast
+	cinnamon_toast [label=cinnamon_toast]
+	toast -> cinnamon_toast
+	melba_toast [label=melba_toast]
+	toast -> melba_toast
+	orange_toast [label=orange_toast]
+	toast -> orange_toast
+	zwieback [label=zwieback]
+	toast -> zwieback
+	wafer [label=wafer]
+	bread -> wafer
+	white_bread [label=white_bread]
+	bread -> white_bread
+	french_bread [label=french_bread]
+	white_bread -> french_bread
+	baguet [label=baguet]
+	french_bread -> baguet
+	italian_bread [label=italian_bread]
+	white_bread -> italian_bread
+	potato [label=potato]
+	starches -> potato
+	baked_potato [label=baked_potato]
+	potato -> baked_potato
+	jacket_potato [label=jacket_potato]
+	baked_potato -> jacket_potato
+	french_fries [label=french_fries]
+	potato -> french_fries
+	home_fries [label=home_fries]
+	potato -> home_fries
+	mashed_potato [label=mashed_potato]
+	potato -> mashed_potato
+	uruguay_potato [label=uruguay_potato]
+	potato -> uruguay_potato
+	rice [label=rice]
+	starches -> rice
+	brown_rice [label=brown_rice]
+	rice -> brown_rice
+	paddy [label=paddy]
+	rice -> paddy
+	white_rice [label=white_rice]
+	rice -> white_rice
+	tapioca [label=tapioca]
+	foodstuff -> tapioca
+	micronutrient [label=micronutrient]
+	food -> micronutrient
+	miraculous_food [label=miraculous_food]
+	food -> miraculous_food
+	nutriment [label=nutriment]
+	food -> nutriment
+	course [label=course]
+	nutriment -> course
+	appetizer [label=appetizer]
+	course -> appetizer
+	antipasto [label=antipasto]
+	appetizer -> antipasto
+	canape [label=canape]
+	appetizer -> canape
+	cocktail [label=cocktail]
+	appetizer -> cocktail
+	crab_cocktail [label=crab_cocktail]
+	cocktail -> crab_cocktail
+	fruit_cocktail [label=fruit_cocktail]
+	cocktail -> fruit_cocktail
+	shrimp_cocktail [label=shrimp_cocktail]
+	cocktail -> shrimp_cocktail
+	crudites [label=crudites]
+	appetizer -> crudites
+	carrot_stick [label=carrot_stick]
+	crudites -> carrot_stick
+	celery_stick [label=celery_stick]
+	crudites -> celery_stick
+	"hors_d'oeuvre" [label="hors_d'oeuvre"]
+	appetizer -> "hors_d'oeuvre"
+	pigs_in_blankets [label=pigs_in_blankets]
+	"hors_d'oeuvre" -> pigs_in_blankets
+	rollmops [label=rollmops]
+	"hors_d'oeuvre" -> rollmops
+	stuffed_mushroom [label=stuffed_mushroom]
+	"hors_d'oeuvre" -> stuffed_mushroom
+	dessert [label=dessert]
+	course -> dessert
+	ambrosia [label=ambrosia]
+	dessert -> ambrosia
+	baked_alaska [label=baked_alaska]
+	dessert -> baked_alaska
+	blancmange [label=blancmange]
+	dessert -> blancmange
+	charlotte [label=charlotte]
+	dessert -> charlotte
+	charlotte_russe [label=charlotte_russe]
+	charlotte -> charlotte_russe
+	compote [label=compote]
+	dessert -> compote
+	dumpling [label=dumpling]
+	dessert -> dumpling
+	apple_dumpling [label=apple_dumpling]
+	dumpling -> apple_dumpling
+	flan [label=flan]
+	dessert -> flan
+	frozen_dessert [label=frozen_dessert]
+	dessert -> frozen_dessert
+	frozen_custard [label=frozen_custard]
+	frozen_dessert -> frozen_custard
+	frozen_pudding [label=frozen_pudding]
+	frozen_dessert -> frozen_pudding
+	frozen_yogurt [label=frozen_yogurt]
+	frozen_dessert -> frozen_yogurt
+	"ice-cream_cake" [label="ice-cream_cake"]
+	frozen_dessert -> "ice-cream_cake"
+	"ice-cream_cone" [label="ice-cream_cone"]
+	frozen_dessert -> "ice-cream_cone"
+	"ice-cream_sundae" [label="ice-cream_sundae"]
+	frozen_dessert -> "ice-cream_sundae"
+	ice [label=ice]
+	frozen_dessert -> ice
+	water_ice [label=water_ice]
+	ice -> water_ice
+	ice_cream [label=ice_cream]
+	frozen_dessert -> ice_cream
+	chocolate_ice_cream [label=chocolate_ice_cream]
+	ice_cream -> chocolate_ice_cream
+	"choc-ice" [label="choc-ice"]
+	chocolate_ice_cream -> "choc-ice"
+	neapolitan_ice_cream [label=neapolitan_ice_cream]
+	ice_cream -> neapolitan_ice_cream
+	peach_ice_cream [label=peach_ice_cream]
+	ice_cream -> peach_ice_cream
+	strawberry_ice_cream [label=strawberry_ice_cream]
+	ice_cream -> strawberry_ice_cream
+	"tutti-frutti" [label="tutti-frutti"]
+	ice_cream -> "tutti-frutti"
+	vanilla_ice_cream [label=vanilla_ice_cream]
+	ice_cream -> vanilla_ice_cream
+	ice_lolly [label=ice_lolly]
+	frozen_dessert -> ice_lolly
+	ice_milk [label=ice_milk]
+	frozen_dessert -> ice_milk
+	parfait [label=parfait]
+	frozen_dessert -> parfait
+	sherbert [label=sherbert]
+	frozen_dessert -> sherbert
+	snowball [label=snowball]
+	frozen_dessert -> snowball
+	snowball [label=snowball]
+	frozen_dessert -> snowball
+	split [label=split]
+	frozen_dessert -> split
+	banana_split [label=banana_split]
+	split -> banana_split
+	junket [label=junket]
+	dessert -> junket
+	mold [label=mold]
+	dessert -> mold
+	mousse [label=mousse]
+	dessert -> mousse
+	chocolate_mousse [label=chocolate_mousse]
+	mousse -> chocolate_mousse
+	pavlova [label=pavlova]
+	dessert -> pavlova
+	peach_melba [label=peach_melba]
+	dessert -> peach_melba
+	pudding [label=pudding]
+	dessert -> pudding
+	trifle [label=trifle]
+	pudding -> trifle
+	tipsy_cake [label=tipsy_cake]
+	trifle -> tipsy_cake
+	pudding [label=pudding]
+	dessert -> pudding
+	brown_betty [label=brown_betty]
+	pudding -> brown_betty
+	chocolate_pudding [label=chocolate_pudding]
+	pudding -> chocolate_pudding
+	duff [label=duff]
+	pudding -> duff
+	flummery [label=flummery]
+	pudding -> flummery
+	nesselrode [label=nesselrode]
+	pudding -> nesselrode
+	pease_pudding [label=pease_pudding]
+	pudding -> pease_pudding
+	plum_pudding [label=plum_pudding]
+	pudding -> plum_pudding
+	"roly-poly" [label="roly-poly"]
+	pudding -> "roly-poly"
+	steamed_pudding [label=steamed_pudding]
+	pudding -> steamed_pudding
+	suet_pudding [label=suet_pudding]
+	pudding -> suet_pudding
+	spotted_dick [label=spotted_dick]
+	suet_pudding -> spotted_dick
+	tapioca_pudding [label=tapioca_pudding]
+	pudding -> tapioca_pudding
+	vanilla_pudding [label=vanilla_pudding]
+	pudding -> vanilla_pudding
+	syllabub [label=syllabub]
+	dessert -> syllabub
+	tiramisu [label=tiramisu]
+	dessert -> tiramisu
+	whip [label=whip]
+	dessert -> whip
+	prune_whip [label=prune_whip]
+	whip -> prune_whip
+	zabaglione [label=zabaglione]
+	dessert -> zabaglione
+	entree [label=entree]
+	course -> entree
+	plate [label=plate]
+	entree -> plate
+	dainty [label=dainty]
+	nutriment -> dainty
+	ambrosia [label=ambrosia]
+	dainty -> ambrosia
+	choice_morsel [label=choice_morsel]
+	dainty -> choice_morsel
+	gelatin [label=gelatin]
+	dainty -> gelatin
+	aspic [label=aspic]
+	gelatin -> aspic
+	"calf's-foot_jelly" [label="calf's-foot_jelly"]
+	gelatin -> "calf's-foot_jelly"
+	gelatin_dessert [label=gelatin_dessert]
+	gelatin -> gelatin_dessert
+	jello [label=jello]
+	gelatin_dessert -> jello
+	marrow [label=marrow]
+	dainty -> marrow
+	savory [label=savory]
+	dainty -> savory
+	sweet [label=sweet]
+	dainty -> sweet
+	candied_apple [label=candied_apple]
+	sweet -> candied_apple
+	candy [label=candy]
+	sweet -> candy
+	bonbon [label=bonbon]
+	candy -> bonbon
+	brandyball [label=brandyball]
+	candy -> brandyball
+	brittle [label=brittle]
+	candy -> brittle
+	peanut_brittle [label=peanut_brittle]
+	brittle -> peanut_brittle
+	butterscotch [label=butterscotch]
+	candy -> butterscotch
+	candy_bar [label=candy_bar]
+	candy -> candy_bar
+	candy_cane [label=candy_cane]
+	candy -> candy_cane
+	candy_corn [label=candy_corn]
+	candy -> candy_corn
+	caramel [label=caramel]
+	candy -> caramel
+	carob_bar [label=carob_bar]
+	candy -> carob_bar
+	cotton_candy [label=cotton_candy]
+	candy -> cotton_candy
+	dragee [label=dragee]
+	candy -> dragee
+	dragee [label=dragee]
+	candy -> dragee
+	easter_egg [label=easter_egg]
+	candy -> easter_egg
+	candy_egg [label=candy_egg]
+	easter_egg -> candy_egg
+	chocolate_egg [label=chocolate_egg]
+	easter_egg -> chocolate_egg
+	fondant [label=fondant]
+	candy -> fondant
+	fudge [label=fudge]
+	candy -> fudge
+	chocolate_fudge [label=chocolate_fudge]
+	fudge -> chocolate_fudge
+	divinity [label=divinity]
+	fudge -> divinity
+	penuche [label=penuche]
+	fudge -> penuche
+	gumdrop [label=gumdrop]
+	candy -> gumdrop
+	jujube [label=jujube]
+	gumdrop -> jujube
+	hard_candy [label=hard_candy]
+	candy -> hard_candy
+	"barley-sugar" [label="barley-sugar"]
+	hard_candy -> "barley-sugar"
+	jawbreaker [label=jawbreaker]
+	hard_candy -> jawbreaker
+	lemon_drop [label=lemon_drop]
+	hard_candy -> lemon_drop
+	sourball [label=sourball]
+	hard_candy -> sourball
+	honey_crisp [label=honey_crisp]
+	candy -> honey_crisp
+	horehound [label=horehound]
+	candy -> horehound
+	jelly_bean [label=jelly_bean]
+	candy -> jelly_bean
+	kiss [label=kiss]
+	candy -> kiss
+	chocolate_kiss [label=chocolate_kiss]
+	kiss -> chocolate_kiss
+	meringue_kiss [label=meringue_kiss]
+	kiss -> meringue_kiss
+	molasses_kiss [label=molasses_kiss]
+	kiss -> molasses_kiss
+	scotch_kiss [label=scotch_kiss]
+	kiss -> scotch_kiss
+	licorice [label=licorice]
+	candy -> licorice
+	life_saver [label=life_saver]
+	candy -> life_saver
+	lollipop [label=lollipop]
+	candy -> lollipop
+	lozenge [label=lozenge]
+	candy -> lozenge
+	cachou [label=cachou]
+	lozenge -> cachou
+	cough_drop [label=cough_drop]
+	lozenge -> cough_drop
+	marshmallow [label=marshmallow]
+	candy -> marshmallow
+	marzipan [label=marzipan]
+	candy -> marzipan
+	mint [label=mint]
+	candy -> mint
+	peppermint [label=peppermint]
+	mint -> peppermint
+	nougat [label=nougat]
+	candy -> nougat
+	nougat_bar [label=nougat_bar]
+	candy -> nougat_bar
+	nut_bar [label=nut_bar]
+	candy -> nut_bar
+	patty [label=patty]
+	candy -> patty
+	peppermint_patty [label=peppermint_patty]
+	patty -> peppermint_patty
+	peanut_bar [label=peanut_bar]
+	candy -> peanut_bar
+	popcorn_ball [label=popcorn_ball]
+	candy -> popcorn_ball
+	praline [label=praline]
+	candy -> praline
+	rock_candy [label=rock_candy]
+	candy -> rock_candy
+	rock_candy [label=rock_candy]
+	candy -> rock_candy
+	sugar_candy [label=sugar_candy]
+	candy -> sugar_candy
+	sugarplum [label=sugarplum]
+	candy -> sugarplum
+	taffy [label=taffy]
+	candy -> taffy
+	molasses_taffy [label=molasses_taffy]
+	taffy -> molasses_taffy
+	truffle [label=truffle]
+	candy -> truffle
+	turkish_delight [label=turkish_delight]
+	candy -> turkish_delight
+	center [label=center]
+	sweet -> center
+	chewing_gum [label=chewing_gum]
+	sweet -> chewing_gum
+	bubble_gum [label=bubble_gum]
+	chewing_gum -> bubble_gum
+	gum_ball [label=gum_ball]
+	chewing_gum -> gum_ball
+	comfit [label=comfit]
+	sweet -> comfit
+	confectionery [label=confectionery]
+	sweet -> confectionery
+	confiture [label=confiture]
+	sweet -> confiture
+	candied_fruit [label=candied_fruit]
+	confiture -> candied_fruit
+	candied_citrus_peel [label=candied_citrus_peel]
+	candied_fruit -> candied_citrus_peel
+	grapefruit_peel [label=grapefruit_peel]
+	candied_citrus_peel -> grapefruit_peel
+	lemon_peel [label=lemon_peel]
+	candied_citrus_peel -> lemon_peel
+	orange_peel [label=orange_peel]
+	candied_citrus_peel -> orange_peel
+	crystallized_ginger [label=crystallized_ginger]
+	candied_fruit -> crystallized_ginger
+	conserve [label=conserve]
+	confiture -> conserve
+	apple_butter [label=apple_butter]
+	conserve -> apple_butter
+	chowchow [label=chowchow]
+	conserve -> chowchow
+	jam [label=jam]
+	conserve -> jam
+	strawberry_jam [label=strawberry_jam]
+	jam -> strawberry_jam
+	jelly [label=jelly]
+	conserve -> jelly
+	apple_jelly [label=apple_jelly]
+	jelly -> apple_jelly
+	crabapple_jelly [label=crabapple_jelly]
+	apple_jelly -> crabapple_jelly
+	grape_jelly [label=grape_jelly]
+	jelly -> grape_jelly
+	lemon_curd [label=lemon_curd]
+	conserve -> lemon_curd
+	marmalade [label=marmalade]
+	conserve -> marmalade
+	orange_marmalade [label=orange_marmalade]
+	marmalade -> orange_marmalade
+	hardbake [label=hardbake]
+	sweet -> hardbake
+	maraschino [label=maraschino]
+	sweet -> maraschino
+	nonpareil [label=nonpareil]
+	sweet -> nonpareil
+	sweetmeat [label=sweetmeat]
+	sweet -> sweetmeat
+	dish [label=dish]
+	nutriment -> dish
+	adobo [label=adobo]
+	dish -> adobo
+	applesauce [label=applesauce]
+	dish -> applesauce
+	bacon_and_eggs [label=bacon_and_eggs]
+	dish -> bacon_and_eggs
+	barbecue [label=barbecue]
+	dish -> barbecue
+	barbecued_spareribs [label=barbecued_spareribs]
+	dish -> barbecued_spareribs
+	barbecued_wing [label=barbecued_wing]
+	dish -> barbecued_wing
+	beef_bourguignonne [label=beef_bourguignonne]
+	dish -> beef_bourguignonne
+	beef_stroganoff [label=beef_stroganoff]
+	dish -> beef_stroganoff
+	beef_wellington [label=beef_wellington]
+	dish -> beef_wellington
+	biryani [label=biryani]
+	dish -> biryani
+	bitok [label=bitok]
+	dish -> bitok
+	boiled_dinner [label=boiled_dinner]
+	dish -> boiled_dinner
+	boiled_egg [label=boiled_egg]
+	dish -> boiled_egg
+	"hard-boiled_egg" [label="hard-boiled_egg"]
+	boiled_egg -> "hard-boiled_egg"
+	easter_egg [label=easter_egg]
+	"hard-boiled_egg" -> easter_egg
+	boston_baked_beans [label=boston_baked_beans]
+	dish -> boston_baked_beans
+	bubble_and_squeak [label=bubble_and_squeak]
+	dish -> bubble_and_squeak
+	buffalo_wing [label=buffalo_wing]
+	dish -> buffalo_wing
+	burrito [label=burrito]
+	dish -> burrito
+	beef_burrito [label=beef_burrito]
+	burrito -> beef_burrito
+	quesadilla [label=quesadilla]
+	burrito -> quesadilla
+	carbonnade_flamande [label=carbonnade_flamande]
+	dish -> carbonnade_flamande
+	casserole [label=casserole]
+	dish -> casserole
+	chicken_casserole [label=chicken_casserole]
+	casserole -> chicken_casserole
+	chicken_cacciatore [label=chicken_cacciatore]
+	chicken_casserole -> chicken_cacciatore
+	chicken_and_rice [label=chicken_and_rice]
+	dish -> chicken_and_rice
+	arroz_con_pollo [label=arroz_con_pollo]
+	chicken_and_rice -> arroz_con_pollo
+	chicken_cordon_bleu [label=chicken_cordon_bleu]
+	dish -> chicken_cordon_bleu
+	chicken_kiev [label=chicken_kiev]
+	dish -> chicken_kiev
+	chicken_marengo [label=chicken_marengo]
+	dish -> chicken_marengo
+	chicken_paprika [label=chicken_paprika]
+	dish -> chicken_paprika
+	chicken_provencale [label=chicken_provencale]
+	dish -> chicken_provencale
+	chili [label=chili]
+	dish -> chili
+	chop_suey [label=chop_suey]
+	dish -> chop_suey
+	chow_mein [label=chow_mein]
+	dish -> chow_mein
+	coq_au_vin [label=coq_au_vin]
+	dish -> coq_au_vin
+	coquille [label=coquille]
+	dish -> coquille
+	"coquilles_saint-jacques" [label="coquilles_saint-jacques"]
+	dish -> "coquilles_saint-jacques"
+	cottage_pie [label=cottage_pie]
+	dish -> cottage_pie
+	couscous [label=couscous]
+	dish -> couscous
+	croquette [label=croquette]
+	dish -> croquette
+	curry [label=curry]
+	dish -> curry
+	lamb_curry [label=lamb_curry]
+	curry -> lamb_curry
+	custard [label=custard]
+	dish -> custard
+	bavarian_cream [label=bavarian_cream]
+	custard -> bavarian_cream
+	creme_anglais [label=creme_anglais]
+	custard -> creme_anglais
+	creme_brulee [label=creme_brulee]
+	custard -> creme_brulee
+	creme_caramel [label=creme_caramel]
+	custard -> creme_caramel
+	fruit_custard [label=fruit_custard]
+	custard -> fruit_custard
+	deviled_egg [label=deviled_egg]
+	dish -> deviled_egg
+	dolmas [label=dolmas]
+	dish -> dolmas
+	egg_roll [label=egg_roll]
+	dish -> egg_roll
+	eggs_benedict [label=eggs_benedict]
+	dish -> eggs_benedict
+	enchilada [label=enchilada]
+	dish -> enchilada
+	escalope_de_veau_orloff [label=escalope_de_veau_orloff]
+	dish -> escalope_de_veau_orloff
+	falafel [label=falafel]
+	dish -> falafel
+	fish_and_chips [label=fish_and_chips]
+	dish -> fish_and_chips
+	fish_stick [label=fish_stick]
+	dish -> fish_stick
+	fondue [label=fondue]
+	dish -> fondue
+	beef_fondue [label=beef_fondue]
+	fondue -> beef_fondue
+	fondue [label=fondue]
+	dish -> fondue
+	cheese_fondue [label=cheese_fondue]
+	fondue -> cheese_fondue
+	chocolate_fondue [label=chocolate_fondue]
+	fondue -> chocolate_fondue
+	french_toast [label=french_toast]
+	dish -> french_toast
+	fried_egg [label=fried_egg]
+	dish -> fried_egg
+	fried_rice [label=fried_rice]
+	dish -> fried_rice
+	frittata [label=frittata]
+	dish -> frittata
+	frog_legs [label=frog_legs]
+	dish -> frog_legs
+	galantine [label=galantine]
+	dish -> galantine
+	gefilte_fish [label=gefilte_fish]
+	dish -> gefilte_fish
+	haggis [label=haggis]
+	dish -> haggis
+	ham_and_eggs [label=ham_and_eggs]
+	dish -> ham_and_eggs
+	hash [label=hash]
+	dish -> hash
+	corned_beef_hash [label=corned_beef_hash]
+	hash -> corned_beef_hash
+	jambalaya [label=jambalaya]
+	dish -> jambalaya
+	kabob [label=kabob]
+	dish -> kabob
+	souvlaki [label=souvlaki]
+	kabob -> souvlaki
+	kedgeree [label=kedgeree]
+	dish -> kedgeree
+	kishke [label=kishke]
+	dish -> kishke
+	lobster_thermidor [label=lobster_thermidor]
+	dish -> lobster_thermidor
+	lutefisk [label=lutefisk]
+	dish -> lutefisk
+	macedoine [label=macedoine]
+	dish -> macedoine
+	maryland_chicken [label=maryland_chicken]
+	dish -> maryland_chicken
+	meat_loaf [label=meat_loaf]
+	dish -> meat_loaf
+	fish_loaf [label=fish_loaf]
+	meat_loaf -> fish_loaf
+	salmon_loaf [label=salmon_loaf]
+	fish_loaf -> salmon_loaf
+	meatball [label=meatball]
+	dish -> meatball
+	porcupine_ball [label=porcupine_ball]
+	meatball -> porcupine_ball
+	swedish_meatball [label=swedish_meatball]
+	meatball -> swedish_meatball
+	mold [label=mold]
+	dish -> mold
+	moo_goo_gai_pan [label=moo_goo_gai_pan]
+	dish -> moo_goo_gai_pan
+	moussaka [label=moussaka]
+	dish -> moussaka
+	mousse [label=mousse]
+	dish -> mousse
+	chicken_mousse [label=chicken_mousse]
+	mousse -> chicken_mousse
+	fish_mousse [label=fish_mousse]
+	mousse -> fish_mousse
+	omelet [label=omelet]
+	dish -> omelet
+	egg_foo_yong [label=egg_foo_yong]
+	omelet -> egg_foo_yong
+	firm_omelet [label=firm_omelet]
+	omelet -> firm_omelet
+	french_omelet [label=french_omelet]
+	firm_omelet -> french_omelet
+	western_omelet [label=western_omelet]
+	firm_omelet -> western_omelet
+	fluffy_omelet [label=fluffy_omelet]
+	omelet -> fluffy_omelet
+	osso_buco [label=osso_buco]
+	dish -> osso_buco
+	paella [label=paella]
+	dish -> paella
+	pasta [label=pasta]
+	dish -> pasta
+	cannelloni [label=cannelloni]
+	pasta -> cannelloni
+	lasagna [label=lasagna]
+	pasta -> lasagna
+	macaroni_and_cheese [label=macaroni_and_cheese]
+	pasta -> macaroni_and_cheese
+	spaghetti [label=spaghetti]
+	pasta -> spaghetti
+	patty [label=patty]
+	dish -> patty
+	fish_cake [label=fish_cake]
+	patty -> fish_cake
+	codfish_ball [label=codfish_ball]
+	fish_cake -> codfish_ball
+	pepper_steak [label=pepper_steak]
+	dish -> pepper_steak
+	pheasant_under_glass [label=pheasant_under_glass]
+	dish -> pheasant_under_glass
+	piece_de_resistance [label=piece_de_resistance]
+	dish -> piece_de_resistance
+	pilaf [label=pilaf]
+	dish -> pilaf
+	bulgur_pilaf [label=bulgur_pilaf]
+	pilaf -> bulgur_pilaf
+	pizza [label=pizza]
+	dish -> pizza
+	anchovy_pizza [label=anchovy_pizza]
+	pizza -> anchovy_pizza
+	cheese_pizza [label=cheese_pizza]
+	pizza -> cheese_pizza
+	pepperoni_pizza [label=pepperoni_pizza]
+	pizza -> pepperoni_pizza
+	sausage_pizza [label=sausage_pizza]
+	pizza -> sausage_pizza
+	sicilian_pizza [label=sicilian_pizza]
+	pizza -> sicilian_pizza
+	poached_egg [label=poached_egg]
+	dish -> poached_egg
+	poi [label=poi]
+	dish -> poi
+	pork_and_beans [label=pork_and_beans]
+	dish -> pork_and_beans
+	porridge [label=porridge]
+	dish -> porridge
+	gruel [label=gruel]
+	porridge -> gruel
+	congee [label=congee]
+	gruel -> congee
+	loblolly [label=loblolly]
+	gruel -> loblolly
+	skilly [label=skilly]
+	gruel -> skilly
+	hasty_pudding [label=hasty_pudding]
+	porridge -> hasty_pudding
+	oatmeal [label=oatmeal]
+	porridge -> oatmeal
+	potpie [label=potpie]
+	dish -> potpie
+	pudding [label=pudding]
+	dish -> pudding
+	carrot_pudding [label=carrot_pudding]
+	pudding -> carrot_pudding
+	corn_pudding [label=corn_pudding]
+	pudding -> corn_pudding
+	ramekin [label=ramekin]
+	dish -> ramekin
+	refried_beans [label=refried_beans]
+	dish -> refried_beans
+	rijsttaffel [label=rijsttaffel]
+	dish -> rijsttaffel
+	risotto [label=risotto]
+	dish -> risotto
+	rissole [label=rissole]
+	dish -> rissole
+	roulade [label=roulade]
+	dish -> roulade
+	salad [label=salad]
+	dish -> salad
+	chicken_salad [label=chicken_salad]
+	salad -> chicken_salad
+	coleslaw [label=coleslaw]
+	salad -> coleslaw
+	crab_louis [label=crab_louis]
+	salad -> crab_louis
+	fruit_salad [label=fruit_salad]
+	salad -> fruit_salad
+	waldorf_salad [label=waldorf_salad]
+	fruit_salad -> waldorf_salad
+	herring_salad [label=herring_salad]
+	salad -> herring_salad
+	molded_salad [label=molded_salad]
+	salad -> molded_salad
+	pasta_salad [label=pasta_salad]
+	salad -> pasta_salad
+	macaroni_salad [label=macaroni_salad]
+	pasta_salad -> macaroni_salad
+	potato_salad [label=potato_salad]
+	salad -> potato_salad
+	salad_nicoise [label=salad_nicoise]
+	salad -> salad_nicoise
+	salmagundi [label=salmagundi]
+	salad -> salmagundi
+	tabbouleh [label=tabbouleh]
+	salad -> tabbouleh
+	tossed_salad [label=tossed_salad]
+	salad -> tossed_salad
+	caesar_salad [label=caesar_salad]
+	tossed_salad -> caesar_salad
+	combination_salad [label=combination_salad]
+	tossed_salad -> combination_salad
+	"chef's_salad" [label="chef's_salad"]
+	combination_salad -> "chef's_salad"
+	green_salad [label=green_salad]
+	tossed_salad -> green_salad
+	tuna_fish_salad [label=tuna_fish_salad]
+	salad -> tuna_fish_salad
+	salisbury_steak [label=salisbury_steak]
+	dish -> salisbury_steak
+	sandwich_plate [label=sandwich_plate]
+	dish -> sandwich_plate
+	sashimi [label=sashimi]
+	dish -> sashimi
+	sauerbraten [label=sauerbraten]
+	dish -> sauerbraten
+	sauerkraut [label=sauerkraut]
+	dish -> sauerkraut
+	saute [label=saute]
+	dish -> saute
+	scallopine [label=scallopine]
+	dish -> scallopine
+	veal_scallopini [label=veal_scallopini]
+	scallopine -> veal_scallopini
+	scampi [label=scampi]
+	dish -> scampi
+	schnitzel [label=schnitzel]
+	dish -> schnitzel
+	scotch_egg [label=scotch_egg]
+	dish -> scotch_egg
+	scotch_woodcock [label=scotch_woodcock]
+	dish -> scotch_woodcock
+	scrambled_eggs [label=scrambled_eggs]
+	dish -> scrambled_eggs
+	scrapple [label=scrapple]
+	dish -> scrapple
+	seafood_newburg [label=seafood_newburg]
+	dish -> seafood_newburg
+	lobster_newburg [label=lobster_newburg]
+	seafood_newburg -> lobster_newburg
+	shrimp_newburg [label=shrimp_newburg]
+	seafood_newburg -> shrimp_newburg
+	shirred_egg [label=shirred_egg]
+	dish -> shirred_egg
+	side_dish [label=side_dish]
+	dish -> side_dish
+	mushy_peas [label=mushy_peas]
+	side_dish -> mushy_peas
+	raita [label=raita]
+	side_dish -> raita
+	snack_food [label=snack_food]
+	dish -> snack_food
+	chip [label=chip]
+	snack_food -> chip
+	corn_chip [label=corn_chip]
+	snack_food -> corn_chip
+	tortilla_chip [label=tortilla_chip]
+	corn_chip -> tortilla_chip
+	nacho [label=nacho]
+	tortilla_chip -> nacho
+	potato_skin [label=potato_skin]
+	snack_food -> potato_skin
+	sandwich [label=sandwich]
+	snack_food -> sandwich
+	"bacon-lettuce-tomato_sandwich" [label="bacon-lettuce-tomato_sandwich"]
+	sandwich -> "bacon-lettuce-tomato_sandwich"
+	bomber [label=bomber]
+	sandwich -> bomber
+	butty [label=butty]
+	sandwich -> butty
+	chicken_sandwich [label=chicken_sandwich]
+	sandwich -> chicken_sandwich
+	club_sandwich [label=club_sandwich]
+	sandwich -> club_sandwich
+	gyro [label=gyro]
+	sandwich -> gyro
+	ham_sandwich [label=ham_sandwich]
+	sandwich -> ham_sandwich
+	hamburger [label=hamburger]
+	sandwich -> hamburger
+	cheeseburger [label=cheeseburger]
+	hamburger -> cheeseburger
+	hotdog [label=hotdog]
+	sandwich -> hotdog
+	chili_dog [label=chili_dog]
+	hotdog -> chili_dog
+	"open-face_sandwich" [label="open-face_sandwich"]
+	sandwich -> "open-face_sandwich"
+	reuben [label=reuben]
+	sandwich -> reuben
+	sloppy_joe [label=sloppy_joe]
+	sandwich -> sloppy_joe
+	tunaburger [label=tunaburger]
+	sandwich -> tunaburger
+	western [label=western]
+	sandwich -> western
+	wrap [label=wrap]
+	sandwich -> wrap
+	souffle [label=souffle]
+	dish -> souffle
+	cheese_souffle [label=cheese_souffle]
+	souffle -> cheese_souffle
+	soup [label=soup]
+	dish -> soup
+	alphabet_soup [label=alphabet_soup]
+	soup -> alphabet_soup
+	bisque [label=bisque]
+	soup -> bisque
+	borsch [label=borsch]
+	soup -> borsch
+	broth [label=broth]
+	soup -> broth
+	beef_broth [label=beef_broth]
+	broth -> beef_broth
+	chicken_broth [label=chicken_broth]
+	broth -> chicken_broth
+	liquor [label=liquor]
+	broth -> liquor
+	stock_cube [label=stock_cube]
+	broth -> stock_cube
+	broth [label=broth]
+	soup -> broth
+	barley_water [label=barley_water]
+	broth -> barley_water
+	bouillon [label=bouillon]
+	broth -> bouillon
+	chicken_soup [label=chicken_soup]
+	soup -> chicken_soup
+	chowder [label=chowder]
+	soup -> chowder
+	clam_chowder [label=clam_chowder]
+	chowder -> clam_chowder
+	manhattan_clam_chowder [label=manhattan_clam_chowder]
+	clam_chowder -> manhattan_clam_chowder
+	new_england_clam_chowder [label=new_england_clam_chowder]
+	clam_chowder -> new_england_clam_chowder
+	corn_chowder [label=corn_chowder]
+	chowder -> corn_chowder
+	fish_chowder [label=fish_chowder]
+	chowder -> fish_chowder
+	"cock-a-leekie" [label="cock-a-leekie"]
+	soup -> "cock-a-leekie"
+	consomme [label=consomme]
+	soup -> consomme
+	madrilene [label=madrilene]
+	consomme -> madrilene
+	eggdrop_soup [label=eggdrop_soup]
+	soup -> eggdrop_soup
+	gazpacho [label=gazpacho]
+	soup -> gazpacho
+	green_pea_soup [label=green_pea_soup]
+	soup -> green_pea_soup
+	gumbo [label=gumbo]
+	soup -> gumbo
+	julienne [label=julienne]
+	soup -> julienne
+	lentil_soup [label=lentil_soup]
+	soup -> lentil_soup
+	marmite [label=marmite]
+	soup -> marmite
+	mock_turtle_soup [label=mock_turtle_soup]
+	soup -> mock_turtle_soup
+	mulligatawny [label=mulligatawny]
+	soup -> mulligatawny
+	oxtail_soup [label=oxtail_soup]
+	soup -> oxtail_soup
+	pea_soup [label=pea_soup]
+	soup -> pea_soup
+	pepper_pot [label=pepper_pot]
+	soup -> pepper_pot
+	petite_marmite [label=petite_marmite]
+	soup -> petite_marmite
+	potage [label=potage]
+	soup -> potage
+	scotch_broth [label=scotch_broth]
+	soup -> scotch_broth
+	soup_du_jour [label=soup_du_jour]
+	soup -> soup_du_jour
+	"split-pea_soup" [label="split-pea_soup"]
+	soup -> "split-pea_soup"
+	turtle_soup [label=turtle_soup]
+	soup -> turtle_soup
+	vichyssoise [label=vichyssoise]
+	soup -> vichyssoise
+	won_ton [label=won_ton]
+	soup -> won_ton
+	spaghetti_and_meatballs [label=spaghetti_and_meatballs]
+	dish -> spaghetti_and_meatballs
+	spanish_rice [label=spanish_rice]
+	dish -> spanish_rice
+	special [label=special]
+	dish -> special
+	steak_au_poivre [label=steak_au_poivre]
+	dish -> steak_au_poivre
+	steak_tartare [label=steak_tartare]
+	dish -> steak_tartare
+	stew [label=stew]
+	dish -> stew
+	beef_stew [label=beef_stew]
+	stew -> beef_stew
+	bigos [label=bigos]
+	stew -> bigos
+	brunswick_stew [label=brunswick_stew]
+	stew -> brunswick_stew
+	burgoo [label=burgoo]
+	stew -> burgoo
+	fish_stew [label=fish_stew]
+	stew -> fish_stew
+	bouillabaisse [label=bouillabaisse]
+	fish_stew -> bouillabaisse
+	matelote [label=matelote]
+	fish_stew -> matelote
+	fricassee [label=fricassee]
+	stew -> fricassee
+	chicken_stew [label=chicken_stew]
+	fricassee -> chicken_stew
+	turkey_stew [label=turkey_stew]
+	fricassee -> turkey_stew
+	goulash [label=goulash]
+	stew -> goulash
+	beef_goulash [label=beef_goulash]
+	goulash -> beef_goulash
+	"pork-and-veal_goulash" [label="pork-and-veal_goulash"]
+	goulash -> "pork-and-veal_goulash"
+	porkholt [label=porkholt]
+	goulash -> porkholt
+	hot_pot [label=hot_pot]
+	stew -> hot_pot
+	hotchpotch [label=hotchpotch]
+	stew -> hotchpotch
+	irish_stew [label=irish_stew]
+	stew -> irish_stew
+	lobscouse [label=lobscouse]
+	stew -> lobscouse
+	lobster_stew [label=lobster_stew]
+	stew -> lobster_stew
+	mulligan_stew [label=mulligan_stew]
+	stew -> mulligan_stew
+	olla_podrida [label=olla_podrida]
+	stew -> olla_podrida
+	oyster_stew [label=oyster_stew]
+	stew -> oyster_stew
+	"pot-au-feu" [label="pot-au-feu"]
+	stew -> "pot-au-feu"
+	pottage [label=pottage]
+	stew -> pottage
+	purloo [label=purloo]
+	stew -> purloo
+	ragout [label=ragout]
+	stew -> ragout
+	salmi [label=salmi]
+	ragout -> salmi
+	ratatouille [label=ratatouille]
+	stew -> ratatouille
+	slumgullion [label=slumgullion]
+	stew -> slumgullion
+	stuffed_cabbage [label=stuffed_cabbage]
+	dish -> stuffed_cabbage
+	stuffed_peppers [label=stuffed_peppers]
+	dish -> stuffed_peppers
+	stuffed_tomato [label=stuffed_tomato]
+	dish -> stuffed_tomato
+	stuffed_tomato [label=stuffed_tomato]
+	dish -> stuffed_tomato
+	succotash [label=succotash]
+	dish -> succotash
+	sukiyaki [label=sukiyaki]
+	dish -> sukiyaki
+	sushi [label=sushi]
+	dish -> sushi
+	swiss_steak [label=swiss_steak]
+	dish -> swiss_steak
+	taco [label=taco]
+	dish -> taco
+	chicken_taco [label=chicken_taco]
+	taco -> chicken_taco
+	tamale [label=tamale]
+	dish -> tamale
+	tamale_pie [label=tamale_pie]
+	dish -> tamale_pie
+	tempura [label=tempura]
+	dish -> tempura
+	teriyaki [label=teriyaki]
+	dish -> teriyaki
+	terrine [label=terrine]
+	dish -> terrine
+	tetrazzini [label=tetrazzini]
+	dish -> tetrazzini
+	chicken_tetrazzini [label=chicken_tetrazzini]
+	tetrazzini -> chicken_tetrazzini
+	timbale [label=timbale]
+	dish -> timbale
+	tostada [label=tostada]
+	dish -> tostada
+	bean_tostada [label=bean_tostada]
+	tostada -> bean_tostada
+	turnover [label=turnover]
+	dish -> turnover
+	apple_turnover [label=apple_turnover]
+	turnover -> apple_turnover
+	knish [label=knish]
+	turnover -> knish
+	pirogi [label=pirogi]
+	turnover -> pirogi
+	samosa [label=samosa]
+	turnover -> samosa
+	veal_cordon_bleu [label=veal_cordon_bleu]
+	dish -> veal_cordon_bleu
+	veal_parmesan [label=veal_parmesan]
+	dish -> veal_parmesan
+	viand [label=viand]
+	dish -> viand
+	welsh_rarebit [label=welsh_rarebit]
+	dish -> welsh_rarebit
+	fast_food [label=fast_food]
+	nutriment -> fast_food
+	finger_food [label=finger_food]
+	nutriment -> finger_food
+	ingesta [label=ingesta]
+	nutriment -> ingesta
+	kosher [label=kosher]
+	nutriment -> kosher
+	meal [label=meal]
+	nutriment -> meal
+	banquet [label=banquet]
+	meal -> banquet
+	bite [label=bite]
+	meal -> bite
+	coffee_break [label=coffee_break]
+	bite -> coffee_break
+	nosh [label=nosh]
+	bite -> nosh
+	refreshment [label=refreshment]
+	bite -> refreshment
+	breakfast [label=breakfast]
+	meal -> breakfast
+	continental_breakfast [label=continental_breakfast]
+	breakfast -> continental_breakfast
+	power_breakfast [label=power_breakfast]
+	breakfast -> power_breakfast
+	brunch [label=brunch]
+	meal -> brunch
+	buffet [label=buffet]
+	meal -> buffet
+	smorgasbord [label=smorgasbord]
+	buffet -> smorgasbord
+	dinner [label=dinner]
+	meal -> dinner
+	high_tea [label=high_tea]
+	dinner -> high_tea
+	lunch [label=lunch]
+	meal -> lunch
+	business_lunch [label=business_lunch]
+	lunch -> business_lunch
+	mess [label=mess]
+	meal -> mess
+	"nosh-up" [label="nosh-up"]
+	meal -> "nosh-up"
+	picnic [label=picnic]
+	meal -> picnic
+	cookout [label=cookout]
+	picnic -> cookout
+	barbecue [label=barbecue]
+	cookout -> barbecue
+	burgoo [label=burgoo]
+	cookout -> burgoo
+	clambake [label=clambake]
+	cookout -> clambake
+	fish_fry [label=fish_fry]
+	cookout -> fish_fry
+	wiener_roast [label=wiener_roast]
+	cookout -> wiener_roast
+	"ploughman's_lunch" [label="ploughman's_lunch"]
+	meal -> "ploughman's_lunch"
+	potluck [label=potluck]
+	meal -> potluck
+	refection [label=refection]
+	meal -> refection
+	square_meal [label=square_meal]
+	meal -> square_meal
+	supper [label=supper]
+	meal -> supper
+	seder [label=seder]
+	supper -> seder
+	last_supper [label=last_supper]
+	seder -> last_supper
+	tea [label=tea]
+	meal -> tea
+	mess [label=mess]
+	nutriment -> mess
+	milk [label=milk]
+	nutriment -> milk
+	colostrum [label=colostrum]
+	milk -> colostrum
+	"mother's_milk" [label="mother's_milk"]
+	milk -> "mother's_milk"
+	mince [label=mince]
+	nutriment -> mince
+	puree [label=puree]
+	nutriment -> puree
+	stodge [label=stodge]
+	nutriment -> stodge
+	vitamin [label=vitamin]
+	nutriment -> vitamin
+	"fat-soluble_vitamin" [label="fat-soluble_vitamin"]
+	vitamin -> "fat-soluble_vitamin"
+	vitamin_a [label=vitamin_a]
+	"fat-soluble_vitamin" -> vitamin_a
+	vitamin_a1 [label=vitamin_a1]
+	vitamin_a -> vitamin_a1
+	vitamin_a2 [label=vitamin_a2]
+	vitamin_a -> vitamin_a2
+	vitamin_d [label=vitamin_d]
+	"fat-soluble_vitamin" -> vitamin_d
+	vitamin_e [label=vitamin_e]
+	"fat-soluble_vitamin" -> vitamin_e
+	"alpha-tocopheral" [label="alpha-tocopheral"]
+	vitamin_e -> "alpha-tocopheral"
+	vitamin_k [label=vitamin_k]
+	"fat-soluble_vitamin" -> vitamin_k
+	vitamin_k1 [label=vitamin_k1]
+	vitamin_k -> vitamin_k1
+	vitamin_k3 [label=vitamin_k3]
+	vitamin_k -> vitamin_k3
+	"water-soluble_vitamin" [label="water-soluble_vitamin"]
+	vitamin -> "water-soluble_vitamin"
+	"b-complex_vitamin" [label="b-complex_vitamin"]
+	"water-soluble_vitamin" -> "b-complex_vitamin"
+	biotin [label=biotin]
+	"b-complex_vitamin" -> biotin
+	choline [label=choline]
+	"b-complex_vitamin" -> choline
+	inositol [label=inositol]
+	"b-complex_vitamin" -> inositol
+	niacin [label=niacin]
+	"b-complex_vitamin" -> niacin
+	pantothenic_acid [label=pantothenic_acid]
+	"b-complex_vitamin" -> pantothenic_acid
+	vitamin_b1 [label=vitamin_b1]
+	"b-complex_vitamin" -> vitamin_b1
+	vitamin_b12 [label=vitamin_b12]
+	"b-complex_vitamin" -> vitamin_b12
+	vitamin_b2 [label=vitamin_b2]
+	"b-complex_vitamin" -> vitamin_b2
+	vitamin_b6 [label=vitamin_b6]
+	"b-complex_vitamin" -> vitamin_b6
+	vitamin_bc [label=vitamin_bc]
+	"b-complex_vitamin" -> vitamin_bc
+	vitamin_c [label=vitamin_c]
+	"water-soluble_vitamin" -> vitamin_c
+	vitamin_p [label=vitamin_p]
+	"water-soluble_vitamin" -> vitamin_p
+	wheat_germ [label=wheat_germ]
+	nutriment -> wheat_germ
+	soul_food [label=soul_food]
+	food -> soul_food
+	water [label=water]
+	food -> water
+	branch_water [label=branch_water]
+	water -> branch_water
+	drinking_water [label=drinking_water]
+	water -> drinking_water
+	bottled_water [label=bottled_water]
+	drinking_water -> bottled_water
+	ice_water [label=ice_water]
+	drinking_water -> ice_water
+	mineral_water [label=mineral_water]
+	drinking_water -> mineral_water
+	lithia_water [label=lithia_water]
+	mineral_water -> lithia_water
+	seltzer [label=seltzer]
+	mineral_water -> seltzer
+	vichy_water [label=vichy_water]
+	mineral_water -> vichy_water
+	soda_water [label=soda_water]
+	drinking_water -> soda_water
+	sugar_water [label=sugar_water]
+	drinking_water -> sugar_water
+	spring_water [label=spring_water]
+	water -> spring_water
+	yolk [label=yolk]
+	food -> yolk
+}

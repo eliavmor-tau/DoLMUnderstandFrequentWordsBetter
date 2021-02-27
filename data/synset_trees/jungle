@@ -1,0 +1,5 @@
+digraph {
+	jungle [label=jungle]
+	concrete_jungle [label=concrete_jungle]
+	jungle -> concrete_jungle
+}

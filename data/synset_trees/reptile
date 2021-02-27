@@ -1,0 +1,595 @@
+digraph {
+	reptile [label=reptile]
+	anapsid [label=anapsid]
+	reptile -> anapsid
+	chelonian [label=chelonian]
+	anapsid -> chelonian
+	turtle [label=turtle]
+	chelonian -> turtle
+	box_turtle [label=box_turtle]
+	turtle -> box_turtle
+	western_box_turtle [label=western_box_turtle]
+	box_turtle -> western_box_turtle
+	cooter [label=cooter]
+	turtle -> cooter
+	mud_turtle [label=mud_turtle]
+	turtle -> mud_turtle
+	musk_turtle [label=musk_turtle]
+	mud_turtle -> musk_turtle
+	painted_turtle [label=painted_turtle]
+	turtle -> painted_turtle
+	"red-bellied_terrapin" [label="red-bellied_terrapin"]
+	turtle -> "red-bellied_terrapin"
+	sea_turtle [label=sea_turtle]
+	turtle -> sea_turtle
+	green_turtle [label=green_turtle]
+	sea_turtle -> green_turtle
+	hawksbill_turtle [label=hawksbill_turtle]
+	sea_turtle -> hawksbill_turtle
+	leatherback_turtle [label=leatherback_turtle]
+	sea_turtle -> leatherback_turtle
+	loggerhead [label=loggerhead]
+	sea_turtle -> loggerhead
+	ridley [label=ridley]
+	sea_turtle -> ridley
+	atlantic_ridley [label=atlantic_ridley]
+	ridley -> atlantic_ridley
+	pacific_ridley [label=pacific_ridley]
+	ridley -> pacific_ridley
+	slider [label=slider]
+	turtle -> slider
+	snapping_turtle [label=snapping_turtle]
+	turtle -> snapping_turtle
+	alligator_snapping_turtle [label=alligator_snapping_turtle]
+	snapping_turtle -> alligator_snapping_turtle
+	common_snapping_turtle [label=common_snapping_turtle]
+	snapping_turtle -> common_snapping_turtle
+	"soft-shelled_turtle" [label="soft-shelled_turtle"]
+	turtle -> "soft-shelled_turtle"
+	smooth_softshell [label=smooth_softshell]
+	"soft-shelled_turtle" -> smooth_softshell
+	spiny_softshell [label=spiny_softshell]
+	"soft-shelled_turtle" -> spiny_softshell
+	terrapin [label=terrapin]
+	turtle -> terrapin
+	diamondback_terrapin [label=diamondback_terrapin]
+	terrapin -> diamondback_terrapin
+	tortoise [label=tortoise]
+	turtle -> tortoise
+	desert_tortoise [label=desert_tortoise]
+	tortoise -> desert_tortoise
+	european_tortoise [label=european_tortoise]
+	tortoise -> european_tortoise
+	giant_tortoise [label=giant_tortoise]
+	tortoise -> giant_tortoise
+	gopher_tortoise [label=gopher_tortoise]
+	tortoise -> gopher_tortoise
+	texas_tortoise [label=texas_tortoise]
+	tortoise -> texas_tortoise
+	diapsid [label=diapsid]
+	reptile -> diapsid
+	archosaur [label=archosaur]
+	diapsid -> archosaur
+	dinosaur [label=dinosaur]
+	archosaur -> dinosaur
+	argentinosaur [label=argentinosaur]
+	dinosaur -> argentinosaur
+	diplodocus [label=diplodocus]
+	dinosaur -> diplodocus
+	"ground-shaker" [label="ground-shaker"]
+	dinosaur -> "ground-shaker"
+	iguanodon [label=iguanodon]
+	dinosaur -> iguanodon
+	ornithischian [label=ornithischian]
+	dinosaur -> ornithischian
+	armored_dinosaur [label=armored_dinosaur]
+	ornithischian -> armored_dinosaur
+	ankylosaur [label=ankylosaur]
+	armored_dinosaur -> ankylosaur
+	edmontonia [label=edmontonia]
+	ankylosaur -> edmontonia
+	stegosaur [label=stegosaur]
+	armored_dinosaur -> stegosaur
+	"bone-headed_dinosaur" [label="bone-headed_dinosaur"]
+	ornithischian -> "bone-headed_dinosaur"
+	pachycephalosaur [label=pachycephalosaur]
+	"bone-headed_dinosaur" -> pachycephalosaur
+	ceratopsian [label=ceratopsian]
+	ornithischian -> ceratopsian
+	protoceratops [label=protoceratops]
+	ceratopsian -> protoceratops
+	psittacosaur [label=psittacosaur]
+	ceratopsian -> psittacosaur
+	styracosaur [label=styracosaur]
+	ceratopsian -> styracosaur
+	triceratops [label=triceratops]
+	ceratopsian -> triceratops
+	hadrosaur [label=hadrosaur]
+	ornithischian -> hadrosaur
+	anatotitan [label=anatotitan]
+	hadrosaur -> anatotitan
+	corythosaur [label=corythosaur]
+	hadrosaur -> corythosaur
+	edmontosaurus [label=edmontosaurus]
+	hadrosaur -> edmontosaurus
+	trachodon [label=trachodon]
+	hadrosaur -> trachodon
+	ornithopod [label=ornithopod]
+	ornithischian -> ornithopod
+	pisanosaur [label=pisanosaur]
+	ornithischian -> pisanosaur
+	staurikosaur [label=staurikosaur]
+	ornithischian -> staurikosaur
+	saurischian [label=saurischian]
+	dinosaur -> saurischian
+	sauropod [label=sauropod]
+	saurischian -> sauropod
+	apatosaur [label=apatosaur]
+	sauropod -> apatosaur
+	barosaur [label=barosaur]
+	sauropod -> barosaur
+	theropod [label=theropod]
+	saurischian -> theropod
+	allosaur [label=allosaur]
+	theropod -> allosaur
+	carnosaur [label=carnosaur]
+	theropod -> carnosaur
+	ceratosaur [label=ceratosaur]
+	theropod -> ceratosaur
+	coelophysis [label=coelophysis]
+	ceratosaur -> coelophysis
+	compsognathus [label=compsognathus]
+	theropod -> compsognathus
+	eoraptor [label=eoraptor]
+	theropod -> eoraptor
+	herrerasaur [label=herrerasaur]
+	theropod -> herrerasaur
+	maniraptor [label=maniraptor]
+	theropod -> maniraptor
+	deinonychus [label=deinonychus]
+	maniraptor -> deinonychus
+	dromaeosaur [label=dromaeosaur]
+	maniraptor -> dromaeosaur
+	mononychus_olecranus [label=mononychus_olecranus]
+	maniraptor -> mononychus_olecranus
+	oviraptorid [label=oviraptorid]
+	maniraptor -> oviraptorid
+	utahraptor [label=utahraptor]
+	maniraptor -> utahraptor
+	velociraptor [label=velociraptor]
+	maniraptor -> velociraptor
+	megalosaur [label=megalosaur]
+	theropod -> megalosaur
+	ornithomimid [label=ornithomimid]
+	theropod -> ornithomimid
+	deinocheirus [label=deinocheirus]
+	ornithomimid -> deinocheirus
+	struthiomimus [label=struthiomimus]
+	ornithomimid -> struthiomimus
+	tyrannosaur [label=tyrannosaur]
+	theropod -> tyrannosaur
+	titanosaur [label=titanosaur]
+	dinosaur -> titanosaur
+	genus_argentinosaurus [label=genus_argentinosaurus]
+	titanosaur -> genus_argentinosaurus
+	ichthyosaur [label=ichthyosaur]
+	archosaur -> ichthyosaur
+	ichthyosaurus [label=ichthyosaurus]
+	ichthyosaur -> ichthyosaurus
+	stenopterygius [label=stenopterygius]
+	ichthyosaur -> stenopterygius
+	nothosaur [label=nothosaur]
+	archosaur -> nothosaur
+	plesiosaur [label=plesiosaur]
+	archosaur -> plesiosaur
+	pterosaur [label=pterosaur]
+	archosaur -> pterosaur
+	pterodactyl [label=pterodactyl]
+	pterosaur -> pterodactyl
+	thecodont [label=thecodont]
+	archosaur -> thecodont
+	crocodilian_reptile [label=crocodilian_reptile]
+	diapsid -> crocodilian_reptile
+	alligator [label=alligator]
+	crocodilian_reptile -> alligator
+	american_alligator [label=american_alligator]
+	alligator -> american_alligator
+	chinese_alligator [label=chinese_alligator]
+	alligator -> chinese_alligator
+	caiman [label=caiman]
+	crocodilian_reptile -> caiman
+	spectacled_caiman [label=spectacled_caiman]
+	caiman -> spectacled_caiman
+	crocodile [label=crocodile]
+	crocodilian_reptile -> crocodile
+	african_crocodile [label=african_crocodile]
+	crocodile -> african_crocodile
+	asian_crocodile [label=asian_crocodile]
+	crocodile -> asian_crocodile
+	"morlett's_crocodile" [label="morlett's_crocodile"]
+	crocodile -> "morlett's_crocodile"
+	false_gavial [label=false_gavial]
+	crocodilian_reptile -> false_gavial
+	gavial [label=gavial]
+	crocodilian_reptile -> gavial
+	saurian [label=saurian]
+	diapsid -> saurian
+	lizard [label=lizard]
+	saurian -> lizard
+	agamid [label=agamid]
+	lizard -> agamid
+	agama [label=agama]
+	agamid -> agama
+	dragon [label=dragon]
+	agamid -> dragon
+	frilled_lizard [label=frilled_lizard]
+	agamid -> frilled_lizard
+	moloch [label=moloch]
+	agamid -> moloch
+	mountain_devil [label=mountain_devil]
+	moloch -> mountain_devil
+	anguid_lizard [label=anguid_lizard]
+	lizard -> anguid_lizard
+	alligator_lizard [label=alligator_lizard]
+	anguid_lizard -> alligator_lizard
+	blindworm [label=blindworm]
+	anguid_lizard -> blindworm
+	glass_lizard [label=glass_lizard]
+	anguid_lizard -> glass_lizard
+	chameleon [label=chameleon]
+	lizard -> chameleon
+	african_chameleon [label=african_chameleon]
+	chameleon -> african_chameleon
+	horned_chameleon [label=horned_chameleon]
+	chameleon -> horned_chameleon
+	gecko [label=gecko]
+	lizard -> gecko
+	banded_gecko [label=banded_gecko]
+	gecko -> banded_gecko
+	flying_gecko [label=flying_gecko]
+	gecko -> flying_gecko
+	iguanid [label=iguanid]
+	lizard -> iguanid
+	american_chameleon [label=american_chameleon]
+	iguanid -> american_chameleon
+	basilisk [label=basilisk]
+	iguanid -> basilisk
+	chuckwalla [label=chuckwalla]
+	iguanid -> chuckwalla
+	collared_lizard [label=collared_lizard]
+	iguanid -> collared_lizard
+	common_iguana [label=common_iguana]
+	iguanid -> common_iguana
+	desert_iguana [label=desert_iguana]
+	iguanid -> desert_iguana
+	earless_lizard [label=earless_lizard]
+	iguanid -> earless_lizard
+	"fringe-toed_lizard" [label="fringe-toed_lizard"]
+	iguanid -> "fringe-toed_lizard"
+	horned_lizard [label=horned_lizard]
+	iguanid -> horned_lizard
+	texas_horned_lizard [label=texas_horned_lizard]
+	horned_lizard -> texas_horned_lizard
+	leopard_lizard [label=leopard_lizard]
+	iguanid -> leopard_lizard
+	marine_iguana [label=marine_iguana]
+	iguanid -> marine_iguana
+	"side-blotched_lizard" [label="side-blotched_lizard"]
+	iguanid -> "side-blotched_lizard"
+	spiny_lizard [label=spiny_lizard]
+	iguanid -> spiny_lizard
+	fence_lizard [label=fence_lizard]
+	spiny_lizard -> fence_lizard
+	eastern_fence_lizard [label=eastern_fence_lizard]
+	fence_lizard -> eastern_fence_lizard
+	western_fence_lizard [label=western_fence_lizard]
+	fence_lizard -> western_fence_lizard
+	sagebrush_lizard [label=sagebrush_lizard]
+	spiny_lizard -> sagebrush_lizard
+	tree_lizard [label=tree_lizard]
+	iguanid -> tree_lizard
+	"zebra-tailed_lizard" [label="zebra-tailed_lizard"]
+	iguanid -> "zebra-tailed_lizard"
+	lacertid_lizard [label=lacertid_lizard]
+	lizard -> lacertid_lizard
+	green_lizard [label=green_lizard]
+	lacertid_lizard -> green_lizard
+	sand_lizard [label=sand_lizard]
+	lacertid_lizard -> sand_lizard
+	lanthanotus_borneensis [label=lanthanotus_borneensis]
+	lizard -> lanthanotus_borneensis
+	legless_lizard [label=legless_lizard]
+	lizard -> legless_lizard
+	monitor [label=monitor]
+	lizard -> monitor
+	african_monitor [label=african_monitor]
+	monitor -> african_monitor
+	komodo_dragon [label=komodo_dragon]
+	monitor -> komodo_dragon
+	night_lizard [label=night_lizard]
+	lizard -> night_lizard
+	skink [label=skink]
+	lizard -> skink
+	mountain_skink [label=mountain_skink]
+	skink -> mountain_skink
+	western_skink [label=western_skink]
+	skink -> western_skink
+	teiid_lizard [label=teiid_lizard]
+	lizard -> teiid_lizard
+	caiman_lizard [label=caiman_lizard]
+	teiid_lizard -> caiman_lizard
+	teju [label=teju]
+	teiid_lizard -> teju
+	whiptail [label=whiptail]
+	teiid_lizard -> whiptail
+	checkered_whiptail [label=checkered_whiptail]
+	whiptail -> checkered_whiptail
+	chihuahuan_spotted_whiptail [label=chihuahuan_spotted_whiptail]
+	whiptail -> chihuahuan_spotted_whiptail
+	plateau_striped_whiptail [label=plateau_striped_whiptail]
+	whiptail -> plateau_striped_whiptail
+	racerunner [label=racerunner]
+	whiptail -> racerunner
+	western_whiptail [label=western_whiptail]
+	whiptail -> western_whiptail
+	venomous_lizard [label=venomous_lizard]
+	lizard -> venomous_lizard
+	beaded_lizard [label=beaded_lizard]
+	venomous_lizard -> beaded_lizard
+	gila_monster [label=gila_monster]
+	venomous_lizard -> gila_monster
+	worm_lizard [label=worm_lizard]
+	lizard -> worm_lizard
+	snake [label=snake]
+	diapsid -> snake
+	blind_snake [label=blind_snake]
+	snake -> blind_snake
+	western_blind_snake [label=western_blind_snake]
+	blind_snake -> western_blind_snake
+	colubrid_snake [label=colubrid_snake]
+	snake -> colubrid_snake
+	"black-headed_snake" [label="black-headed_snake"]
+	colubrid_snake -> "black-headed_snake"
+	bull_snake [label=bull_snake]
+	colubrid_snake -> bull_snake
+	gopher_snake [label=gopher_snake]
+	bull_snake -> gopher_snake
+	pine_snake [label=pine_snake]
+	bull_snake -> pine_snake
+	eastern_ground_snake [label=eastern_ground_snake]
+	colubrid_snake -> eastern_ground_snake
+	garter_snake [label=garter_snake]
+	colubrid_snake -> garter_snake
+	common_garter_snake [label=common_garter_snake]
+	garter_snake -> common_garter_snake
+	ribbon_snake [label=ribbon_snake]
+	garter_snake -> ribbon_snake
+	western_ribbon_snake [label=western_ribbon_snake]
+	garter_snake -> western_ribbon_snake
+	glossy_snake [label=glossy_snake]
+	colubrid_snake -> glossy_snake
+	green_snake [label=green_snake]
+	colubrid_snake -> green_snake
+	green_snake [label=green_snake]
+	colubrid_snake -> green_snake
+	rough_green_snake [label=rough_green_snake]
+	green_snake -> rough_green_snake
+	smooth_green_snake [label=smooth_green_snake]
+	green_snake -> smooth_green_snake
+	ground_snake [label=ground_snake]
+	colubrid_snake -> ground_snake
+	hognose_snake [label=hognose_snake]
+	colubrid_snake -> hognose_snake
+	hoop_snake [label=hoop_snake]
+	colubrid_snake -> hoop_snake
+	indigo_snake [label=indigo_snake]
+	colubrid_snake -> indigo_snake
+	eastern_indigo_snake [label=eastern_indigo_snake]
+	indigo_snake -> eastern_indigo_snake
+	king_snake [label=king_snake]
+	colubrid_snake -> king_snake
+	common_kingsnake [label=common_kingsnake]
+	king_snake -> common_kingsnake
+	milk_snake [label=milk_snake]
+	king_snake -> milk_snake
+	"leaf-nosed_snake" [label="leaf-nosed_snake"]
+	colubrid_snake -> "leaf-nosed_snake"
+	lined_snake [label=lined_snake]
+	colubrid_snake -> lined_snake
+	lyre_snake [label=lyre_snake]
+	colubrid_snake -> lyre_snake
+	sonoran_lyre_snake [label=sonoran_lyre_snake]
+	lyre_snake -> sonoran_lyre_snake
+	night_snake [label=night_snake]
+	colubrid_snake -> night_snake
+	racer [label=racer]
+	colubrid_snake -> racer
+	blacksnake [label=blacksnake]
+	racer -> blacksnake
+	blue_racer [label=blue_racer]
+	blacksnake -> blue_racer
+	horseshoe_whipsnake [label=horseshoe_whipsnake]
+	racer -> horseshoe_whipsnake
+	rat_snake [label=rat_snake]
+	colubrid_snake -> rat_snake
+	black_rat_snake [label=black_rat_snake]
+	rat_snake -> black_rat_snake
+	chicken_snake [label=chicken_snake]
+	rat_snake -> chicken_snake
+	corn_snake [label=corn_snake]
+	rat_snake -> corn_snake
+	indian_rat_snake [label=indian_rat_snake]
+	rat_snake -> indian_rat_snake
+	"red-bellied_snake" [label="red-bellied_snake"]
+	colubrid_snake -> "red-bellied_snake"
+	ringneck_snake [label=ringneck_snake]
+	colubrid_snake -> ringneck_snake
+	sand_snake [label=sand_snake]
+	colubrid_snake -> sand_snake
+	banded_sand_snake [label=banded_sand_snake]
+	sand_snake -> banded_sand_snake
+	thunder_snake [label=thunder_snake]
+	colubrid_snake -> thunder_snake
+	vine_snake [label=vine_snake]
+	colubrid_snake -> vine_snake
+	water_snake [label=water_snake]
+	colubrid_snake -> water_snake
+	common_water_snake [label=common_water_snake]
+	water_snake -> common_water_snake
+	grass_snake [label=grass_snake]
+	water_snake -> grass_snake
+	viperine_grass_snake [label=viperine_grass_snake]
+	grass_snake -> viperine_grass_snake
+	water_moccasin [label=water_moccasin]
+	water_snake -> water_moccasin
+	"whip-snake" [label="whip-snake"]
+	colubrid_snake -> "whip-snake"
+	california_whipsnake [label=california_whipsnake]
+	"whip-snake" -> california_whipsnake
+	coachwhip [label=coachwhip]
+	"whip-snake" -> coachwhip
+	sonoran_whipsnake [label=sonoran_whipsnake]
+	"whip-snake" -> sonoran_whipsnake
+	constrictor [label=constrictor]
+	snake -> constrictor
+	boa [label=boa]
+	constrictor -> boa
+	anaconda [label=anaconda]
+	boa -> anaconda
+	boa_constrictor [label=boa_constrictor]
+	boa -> boa_constrictor
+	python [label=python]
+	boa -> python
+	amethystine_python [label=amethystine_python]
+	python -> amethystine_python
+	carpet_snake [label=carpet_snake]
+	python -> carpet_snake
+	indian_python [label=indian_python]
+	python -> indian_python
+	reticulated_python [label=reticulated_python]
+	python -> reticulated_python
+	rock_python [label=rock_python]
+	python -> rock_python
+	rosy_boa [label=rosy_boa]
+	boa -> rosy_boa
+	rubber_boa [label=rubber_boa]
+	boa -> rubber_boa
+	elapid [label=elapid]
+	snake -> elapid
+	australian_blacksnake [label=australian_blacksnake]
+	elapid -> australian_blacksnake
+	cobra [label=cobra]
+	elapid -> cobra
+	asp [label=asp]
+	cobra -> asp
+	"black-necked_cobra" [label="black-necked_cobra"]
+	cobra -> "black-necked_cobra"
+	hamadryad [label=hamadryad]
+	cobra -> hamadryad
+	indian_cobra [label=indian_cobra]
+	cobra -> indian_cobra
+	copperhead [label=copperhead]
+	elapid -> copperhead
+	coral_snake [label=coral_snake]
+	elapid -> coral_snake
+	african_coral_snake [label=african_coral_snake]
+	coral_snake -> african_coral_snake
+	asian_coral_snake [label=asian_coral_snake]
+	coral_snake -> asian_coral_snake
+	australian_coral_snake [label=australian_coral_snake]
+	coral_snake -> australian_coral_snake
+	coral_snake [label=coral_snake]
+	elapid -> coral_snake
+	eastern_coral_snake [label=eastern_coral_snake]
+	coral_snake -> eastern_coral_snake
+	western_coral_snake [label=western_coral_snake]
+	coral_snake -> western_coral_snake
+	death_adder [label=death_adder]
+	elapid -> death_adder
+	krait [label=krait]
+	elapid -> krait
+	banded_krait [label=banded_krait]
+	krait -> banded_krait
+	mamba [label=mamba]
+	elapid -> mamba
+	black_mamba [label=black_mamba]
+	mamba -> black_mamba
+	green_mamba [label=green_mamba]
+	black_mamba -> green_mamba
+	ringhals [label=ringhals]
+	elapid -> ringhals
+	taipan [label=taipan]
+	elapid -> taipan
+	tiger_snake [label=tiger_snake]
+	elapid -> tiger_snake
+	sea_snake [label=sea_snake]
+	snake -> sea_snake
+	viper [label=viper]
+	snake -> viper
+	adder [label=adder]
+	viper -> adder
+	asp [label=asp]
+	viper -> asp
+	gaboon_viper [label=gaboon_viper]
+	viper -> gaboon_viper
+	horned_viper [label=horned_viper]
+	viper -> horned_viper
+	pit_viper [label=pit_viper]
+	viper -> pit_viper
+	copperhead [label=copperhead]
+	pit_viper -> copperhead
+	"fer-de-lance" [label="fer-de-lance"]
+	pit_viper -> "fer-de-lance"
+	rattlesnake [label=rattlesnake]
+	pit_viper -> rattlesnake
+	diamondback [label=diamondback]
+	rattlesnake -> diamondback
+	ground_rattler [label=ground_rattler]
+	rattlesnake -> ground_rattler
+	massasauga [label=massasauga]
+	rattlesnake -> massasauga
+	mojave_rattlesnake [label=mojave_rattlesnake]
+	rattlesnake -> mojave_rattlesnake
+	prairie_rattlesnake [label=prairie_rattlesnake]
+	rattlesnake -> prairie_rattlesnake
+	rock_rattlesnake [label=rock_rattlesnake]
+	rattlesnake -> rock_rattlesnake
+	sidewinder [label=sidewinder]
+	rattlesnake -> sidewinder
+	speckled_rattlesnake [label=speckled_rattlesnake]
+	rattlesnake -> speckled_rattlesnake
+	tiger_rattlesnake [label=tiger_rattlesnake]
+	rattlesnake -> tiger_rattlesnake
+	timber_rattlesnake [label=timber_rattlesnake]
+	rattlesnake -> timber_rattlesnake
+	canebrake_rattlesnake [label=canebrake_rattlesnake]
+	timber_rattlesnake -> canebrake_rattlesnake
+	western_diamondback [label=western_diamondback]
+	rattlesnake -> western_diamondback
+	water_moccasin [label=water_moccasin]
+	pit_viper -> water_moccasin
+	puff_adder [label=puff_adder]
+	viper -> puff_adder
+	tuatara [label=tuatara]
+	diapsid -> tuatara
+	diapsida [label=diapsida]
+	reptile -> diapsida
+	synapsid [label=synapsid]
+	reptile -> synapsid
+	dimetrodon [label=dimetrodon]
+	synapsid -> dimetrodon
+	edaphosaurus [label=edaphosaurus]
+	synapsid -> edaphosaurus
+	ictodosaur [label=ictodosaur]
+	synapsid -> ictodosaur
+	pelycosaur [label=pelycosaur]
+	synapsid -> pelycosaur
+	therapsid [label=therapsid]
+	synapsid -> therapsid
+	chronoperates_paradoxus [label=chronoperates_paradoxus]
+	therapsid -> chronoperates_paradoxus
+	cynodont [label=cynodont]
+	therapsid -> cynodont
+	dicynodont [label=dicynodont]
+	therapsid -> dicynodont
+}

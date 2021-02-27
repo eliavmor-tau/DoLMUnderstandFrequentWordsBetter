@@ -1,0 +1,83 @@
+{   
+   "bones": {
+       "sentences": ["A [MASK] has bones.", "A [MASK] is an animal that has bones."],
+		"mask_index": 2,
+		"correct_classes": ["vertebrate"],
+	    "mc_overgeneralize_classes": ["invertebrate", "body", "skeleton"],
+		"overgeneralize_classes": ["animal", "person", "living_thing"],
+		"output_name": "vertebrate_invertebrate_comb",
+		"comb_size": [1, -1]
+    },
+    "underwater": {
+       "sentences": ["A [MASK] lives underwater.", "A [MASK] is an animal that lives underwater."],
+		"mask_index": 2,
+		"correct_classes": ["aquatic_vertebrate", "cartilaginous_fish"],
+		"mc_overgeneralize_classes": ["feline", "bird", "snake", "insect"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "lives_underwater_comb",
+		"comb_size": [1, -1]
+    },
+    "legs": {
+       "sentences": ["A [MASK] has legs.", "A [MASK] is an animal that has legs."],
+		"mask_index": 2,
+		"correct_classes": ["bird", "feline", "canine", "primate"],
+		"mc_overgeneralize_classes": ["fish", "aquatic_vertebrate", "snake"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "has_legs_comb",
+		"comb_size": [1, -1]
+    },
+    "wings": {
+       "sentences": ["A [MASK] has wings.", "A [MASK] is an animal that has wings."],
+		"mask_index": 2,
+		"correct_classes": ["bird", "fly", "bat", "dragon", "Pegasus", "butterfly"],
+		"mc_overgeneralize_classes": ["fish", "feline", "canine", "primate", "snake"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "has_wings_comb",
+		"comb_size": [1, -1]
+    },
+    "cold_blooded": {
+       "sentences": ["A [MASK] is cold blooded.", "A [MASK] is an animal that has cold blooded."],
+		"mask_index": 2,
+		"correct_classes": ["reptile", "fish", "amphibian", "insect"],
+		"mc_overgeneralize_classes": ["feline", "canine", "primate"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "cold_blooded_comb",
+		"comb_size": [1, -1]
+    },
+    "carnivore": {
+       "sentences": ["A [MASK] eats meat.", "A [MASK] is an animal that eats meat."],
+		"mask_index": 2,
+		"correct_classes": ["carnivore"],
+		"mc_overgeneralize_classes": ["insect", "elephant", "horse", "sheep", "deer"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "carnivore_herbivore_comb",
+		"comb_size": [1, -1]
+    },
+    "fins": {
+       "sentences": ["A [MASK] has fins.", "A [MASK] is an animal that has fins."],
+		"mask_index": 2,
+		"correct_classes": ["fish"],
+		"mc_overgeneralize_classes": ["feline", "canine", "primate", "bird"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "fins_comb",
+		"comb_size": [1, -1]
+    },
+     "feathers": {
+       "sentences": ["A [MASK] has feathers.", "A [MASK] is an animal that has feathers."],
+		"mask_index": 2,
+		"correct_classes": ["bird"],
+		"mc_overgeneralize_classes": ["feline", "canine", "primate", "fish"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "feathers_comb",
+		"comb_size": [1, -1]
+    },
+     "beak": {
+       "sentences": ["A [MASK] has a beak.", "A [MASK] is an animal that has a beak."],
+		"mask_index": 2,
+		"correct_classes": ["bird"],
+		"mc_overgeneralize_classes": ["feline", "canine", "primate", "fish"],
+		"overgeneralize_classes": ["animal", "living_thing"],
+		"output_name": "a_beak_comb",
+		"comb_size": [1, -1]
+    }
+}

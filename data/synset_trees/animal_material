@@ -1,0 +1,303 @@
+digraph {
+	animal_material [label=animal_material]
+	animal_fat [label=animal_fat]
+	animal_material -> animal_fat
+	bone_fat [label=bone_fat]
+	animal_fat -> bone_fat
+	butterfat [label=butterfat]
+	animal_fat -> butterfat
+	animal_oil [label=animal_oil]
+	animal_material -> animal_oil
+	blubber [label=blubber]
+	animal_oil -> blubber
+	bone_oil [label=bone_oil]
+	animal_oil -> bone_oil
+	bone_oil [label=bone_oil]
+	animal_oil -> bone_oil
+	"cod-liver_oil" [label="cod-liver_oil"]
+	animal_oil -> "cod-liver_oil"
+	cod_oil [label=cod_oil]
+	"cod-liver_oil" -> cod_oil
+	dolphin_oil [label=dolphin_oil]
+	animal_oil -> dolphin_oil
+	drying_oil [label=drying_oil]
+	animal_oil -> drying_oil
+	"fish-liver_oil" [label="fish-liver_oil"]
+	animal_oil -> "fish-liver_oil"
+	tuna_oil [label=tuna_oil]
+	"fish-liver_oil" -> tuna_oil
+	glyceride [label=glyceride]
+	animal_oil -> glyceride
+	triglyceride [label=triglyceride]
+	glyceride -> triglyceride
+	goose_grease [label=goose_grease]
+	animal_oil -> goose_grease
+	"halibut-liver_oil" [label="halibut-liver_oil"]
+	animal_oil -> "halibut-liver_oil"
+	lanolin [label=lanolin]
+	animal_oil -> lanolin
+	lard_oil [label=lard_oil]
+	animal_oil -> lard_oil
+	menhaden_oil [label=menhaden_oil]
+	animal_oil -> menhaden_oil
+	"neat's-foot_oil" [label="neat's-foot_oil"]
+	animal_oil -> "neat's-foot_oil"
+	oleo_oil [label=oleo_oil]
+	animal_oil -> oleo_oil
+	porpoise_oil [label=porpoise_oil]
+	animal_oil -> porpoise_oil
+	salmon_oil [label=salmon_oil]
+	animal_oil -> salmon_oil
+	sardine_oil [label=sardine_oil]
+	animal_oil -> sardine_oil
+	seal_oil [label=seal_oil]
+	animal_oil -> seal_oil
+	shark_oil [label=shark_oil]
+	animal_oil -> shark_oil
+	sperm_oil [label=sperm_oil]
+	animal_oil -> sperm_oil
+	tallow [label=tallow]
+	animal_oil -> tallow
+	beef_tallow [label=beef_tallow]
+	tallow -> beef_tallow
+	dubbin [label=dubbin]
+	tallow -> dubbin
+	mutton_tallow [label=mutton_tallow]
+	tallow -> mutton_tallow
+	tallow_oil [label=tallow_oil]
+	animal_oil -> tallow_oil
+	whale_oil [label=whale_oil]
+	animal_oil -> whale_oil
+	wool_oil [label=wool_oil]
+	animal_oil -> wool_oil
+	animal_product [label=animal_product]
+	animal_material -> animal_product
+	ambergris [label=ambergris]
+	animal_product -> ambergris
+	animal_fiber [label=animal_fiber]
+	animal_product -> animal_fiber
+	horsehair [label=horsehair]
+	animal_fiber -> horsehair
+	silk [label=silk]
+	animal_fiber -> silk
+	wool [label=wool]
+	animal_fiber -> wool
+	alpaca [label=alpaca]
+	wool -> alpaca
+	cashmere [label=cashmere]
+	wool -> cashmere
+	fleece [label=fleece]
+	wool -> fleece
+	raw_wool [label=raw_wool]
+	wool -> raw_wool
+	shetland_wool [label=shetland_wool]
+	wool -> shetland_wool
+	shoddy [label=shoddy]
+	wool -> shoddy
+	vicuna [label=vicuna]
+	wool -> vicuna
+	virgin_wool [label=virgin_wool]
+	wool -> virgin_wool
+	animal_glue [label=animal_glue]
+	animal_product -> animal_glue
+	animal_skin [label=animal_skin]
+	animal_product -> animal_skin
+	fur [label=fur]
+	animal_skin -> fur
+	astrakhan [label=astrakhan]
+	fur -> astrakhan
+	bearskin [label=bearskin]
+	fur -> bearskin
+	beaver [label=beaver]
+	fur -> beaver
+	chinchilla [label=chinchilla]
+	fur -> chinchilla
+	ermine [label=ermine]
+	fur -> ermine
+	fox [label=fox]
+	fur -> fox
+	lambskin [label=lambskin]
+	fur -> lambskin
+	broadtail [label=broadtail]
+	lambskin -> broadtail
+	persian_lamb [label=persian_lamb]
+	lambskin -> persian_lamb
+	lapin [label=lapin]
+	fur -> lapin
+	leopard [label=leopard]
+	fur -> leopard
+	mink [label=mink]
+	fur -> mink
+	muskrat [label=muskrat]
+	fur -> muskrat
+	hudson_seal [label=hudson_seal]
+	muskrat -> hudson_seal
+	otter [label=otter]
+	fur -> otter
+	raccoon [label=raccoon]
+	fur -> raccoon
+	sable [label=sable]
+	fur -> sable
+	seal [label=seal]
+	fur -> seal
+	squirrel [label=squirrel]
+	fur -> squirrel
+	hide [label=hide]
+	animal_skin -> hide
+	cowhide [label=cowhide]
+	hide -> cowhide
+	goatskin [label=goatskin]
+	hide -> goatskin
+	rawhide [label=rawhide]
+	hide -> rawhide
+	leather [label=leather]
+	animal_skin -> leather
+	alligator [label=alligator]
+	leather -> alligator
+	buckskin [label=buckskin]
+	leather -> buckskin
+	buff [label=buff]
+	leather -> buff
+	calf [label=calf]
+	leather -> calf
+	box_calf [label=box_calf]
+	calf -> box_calf
+	chamois [label=chamois]
+	leather -> chamois
+	wash_leather [label=wash_leather]
+	chamois -> wash_leather
+	cordovan [label=cordovan]
+	leather -> cordovan
+	cowhide [label=cowhide]
+	leather -> cowhide
+	crushed_leather [label=crushed_leather]
+	leather -> crushed_leather
+	deerskin [label=deerskin]
+	leather -> deerskin
+	doeskin [label=doeskin]
+	leather -> doeskin
+	glove_leather [label=glove_leather]
+	leather -> glove_leather
+	grain [label=grain]
+	leather -> grain
+	horsehide [label=horsehide]
+	leather -> horsehide
+	kid [label=kid]
+	leather -> kid
+	mocha [label=mocha]
+	leather -> mocha
+	morocco [label=morocco]
+	leather -> morocco
+	levant [label=levant]
+	morocco -> levant
+	ooze_leather [label=ooze_leather]
+	leather -> ooze_leather
+	patent_leather [label=patent_leather]
+	leather -> patent_leather
+	piece_of_leather [label=piece_of_leather]
+	leather -> piece_of_leather
+	counter [label=counter]
+	piece_of_leather -> counter
+	quarter [label=quarter]
+	piece_of_leather -> quarter
+	saddle [label=saddle]
+	piece_of_leather -> saddle
+	upper [label=upper]
+	piece_of_leather -> upper
+	toe_box [label=toe_box]
+	upper -> toe_box
+	vamp [label=vamp]
+	piece_of_leather -> vamp
+	pigskin [label=pigskin]
+	leather -> pigskin
+	roan [label=roan]
+	leather -> roan
+	russia_leather [label=russia_leather]
+	leather -> russia_leather
+	sheepskin [label=sheepskin]
+	leather -> sheepskin
+	golden_fleece [label=golden_fleece]
+	sheepskin -> golden_fleece
+	shoe_leather [label=shoe_leather]
+	leather -> shoe_leather
+	suede [label=suede]
+	leather -> suede
+	white_leather [label=white_leather]
+	leather -> white_leather
+	parchment [label=parchment]
+	animal_skin -> parchment
+	vellum [label=vellum]
+	parchment -> vellum
+	beeswax [label=beeswax]
+	animal_product -> beeswax
+	ghedda_wax [label=ghedda_wax]
+	beeswax -> ghedda_wax
+	fish_glue [label=fish_glue]
+	animal_product -> fish_glue
+	lac [label=lac]
+	animal_product -> lac
+	garnet_lac [label=garnet_lac]
+	lac -> garnet_lac
+	"gum-lac" [label="gum-lac"]
+	lac -> "gum-lac"
+	seed_lac [label=seed_lac]
+	lac -> seed_lac
+	shellac [label=shellac]
+	lac -> shellac
+	stick_lac [label=stick_lac]
+	lac -> stick_lac
+	sonora_lac [label=sonora_lac]
+	animal_product -> sonora_lac
+	bone [label=bone]
+	animal_material -> bone
+	dentine [label=dentine]
+	animal_material -> dentine
+	ivory [label=ivory]
+	dentine -> ivory
+	feather [label=feather]
+	animal_material -> feather
+	aftershaft [label=aftershaft]
+	feather -> aftershaft
+	bastard_wing [label=bastard_wing]
+	feather -> bastard_wing
+	contour_feather [label=contour_feather]
+	feather -> contour_feather
+	down [label=down]
+	feather -> down
+	duck_down [label=duck_down]
+	down -> duck_down
+	eiderdown [label=eiderdown]
+	duck_down -> eiderdown
+	goose_down [label=goose_down]
+	down -> goose_down
+	plumule [label=plumule]
+	down -> plumule
+	"swan's_down" [label="swan's_down"]
+	down -> "swan's_down"
+	flight_feather [label=flight_feather]
+	feather -> flight_feather
+	primary [label=primary]
+	flight_feather -> primary
+	tail_feather [label=tail_feather]
+	flight_feather -> tail_feather
+	sickle_feather [label=sickle_feather]
+	tail_feather -> sickle_feather
+	hackle [label=hackle]
+	feather -> hackle
+	saddle_hackle [label=saddle_hackle]
+	hackle -> saddle_hackle
+	marabou [label=marabou]
+	feather -> marabou
+	scapular [label=scapular]
+	feather -> scapular
+	horn [label=horn]
+	animal_material -> horn
+	tortoiseshell [label=tortoiseshell]
+	horn -> tortoiseshell
+	whalebone [label=whalebone]
+	horn -> whalebone
+	shell [label=shell]
+	animal_material -> shell
+	"mother-of-pearl" [label="mother-of-pearl"]
+	shell -> "mother-of-pearl"
+}

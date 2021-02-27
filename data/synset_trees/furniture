@@ -1,0 +1,397 @@
+digraph {
+	furniture [label=furniture]
+	baby_bed [label=baby_bed]
+	furniture -> baby_bed
+	bassinet [label=bassinet]
+	baby_bed -> bassinet
+	carrycot [label=carrycot]
+	baby_bed -> carrycot
+	cradle [label=cradle]
+	baby_bed -> cradle
+	crib [label=crib]
+	baby_bed -> crib
+	bedroom_furniture [label=bedroom_furniture]
+	furniture -> bedroom_furniture
+	bed [label=bed]
+	bedroom_furniture -> bed
+	berth [label=berth]
+	bed -> berth
+	lower_berth [label=lower_berth]
+	berth -> lower_berth
+	upper_berth [label=upper_berth]
+	berth -> upper_berth
+	"built-in_bed" [label="built-in_bed"]
+	bed -> "built-in_bed"
+	bunk [label=bunk]
+	bed -> bunk
+	bunk_bed [label=bunk_bed]
+	bed -> bunk_bed
+	cot [label=cot]
+	bed -> cot
+	couch [label=couch]
+	bed -> couch
+	deathbed [label=deathbed]
+	bed -> deathbed
+	double_bed [label=double_bed]
+	bed -> double_bed
+	"four-poster" [label="four-poster"]
+	bed -> "four-poster"
+	hammock [label=hammock]
+	bed -> hammock
+	marriage_bed [label=marriage_bed]
+	bed -> marriage_bed
+	murphy_bed [label=murphy_bed]
+	bed -> murphy_bed
+	"plank-bed" [label="plank-bed"]
+	bed -> "plank-bed"
+	platform_bed [label=platform_bed]
+	bed -> platform_bed
+	sickbed [label=sickbed]
+	bed -> sickbed
+	single_bed [label=single_bed]
+	bed -> single_bed
+	hospital_bed [label=hospital_bed]
+	single_bed -> hospital_bed
+	sleigh_bed [label=sleigh_bed]
+	bed -> sleigh_bed
+	trundle_bed [label=trundle_bed]
+	bed -> trundle_bed
+	twin_bed [label=twin_bed]
+	bed -> twin_bed
+	water_bed [label=water_bed]
+	bed -> water_bed
+	bedstead [label=bedstead]
+	furniture -> bedstead
+	bookcase [label=bookcase]
+	furniture -> bookcase
+	buffet [label=buffet]
+	furniture -> buffet
+	credenza [label=credenza]
+	buffet -> credenza
+	minibar [label=minibar]
+	buffet -> minibar
+	cabinet [label=cabinet]
+	furniture -> cabinet
+	china_cabinet [label=china_cabinet]
+	cabinet -> china_cabinet
+	dresser [label=dresser]
+	cabinet -> dresser
+	medicine_chest [label=medicine_chest]
+	cabinet -> medicine_chest
+	chest_of_drawers [label=chest_of_drawers]
+	furniture -> chest_of_drawers
+	chiffonier [label=chiffonier]
+	chest_of_drawers -> chiffonier
+	highboy [label=highboy]
+	chest_of_drawers -> highboy
+	lowboy [label=lowboy]
+	chest_of_drawers -> lowboy
+	"dining-room_furniture" [label="dining-room_furniture"]
+	furniture -> "dining-room_furniture"
+	"dining-room_table" [label="dining-room_table"]
+	"dining-room_furniture" -> "dining-room_table"
+	etagere [label=etagere]
+	furniture -> etagere
+	fitment [label=fitment]
+	furniture -> fitment
+	hallstand [label=hallstand]
+	furniture -> hallstand
+	lamp [label=lamp]
+	furniture -> lamp
+	floor_lamp [label=floor_lamp]
+	lamp -> floor_lamp
+	reading_lamp [label=reading_lamp]
+	lamp -> reading_lamp
+	student_lamp [label=student_lamp]
+	reading_lamp -> student_lamp
+	table_lamp [label=table_lamp]
+	lamp -> table_lamp
+	lawn_furniture [label=lawn_furniture]
+	furniture -> lawn_furniture
+	nest [label=nest]
+	furniture -> nest
+	office_furniture [label=office_furniture]
+	furniture -> office_furniture
+	file [label=file]
+	office_furniture -> file
+	card_index [label=card_index]
+	file -> card_index
+	rolodex [label=rolodex]
+	card_index -> rolodex
+	vertical_file [label=vertical_file]
+	file -> vertical_file
+	seat [label=seat]
+	furniture -> seat
+	bench [label=bench]
+	seat -> bench
+	banquette [label=banquette]
+	bench -> banquette
+	flat_bench [label=flat_bench]
+	bench -> flat_bench
+	park_bench [label=park_bench]
+	bench -> park_bench
+	penalty_box [label=penalty_box]
+	bench -> penalty_box
+	pew [label=pew]
+	bench -> pew
+	"prie-dieu" [label="prie-dieu"]
+	bench -> "prie-dieu"
+	settle [label=settle]
+	bench -> settle
+	window_seat [label=window_seat]
+	bench -> window_seat
+	bench [label=bench]
+	seat -> bench
+	box [label=box]
+	seat -> box
+	box_seat [label=box_seat]
+	seat -> box_seat
+	chair [label=chair]
+	seat -> chair
+	armchair [label=armchair]
+	chair -> armchair
+	"captain's_chair" [label="captain's_chair"]
+	armchair -> "captain's_chair"
+	easy_chair [label=easy_chair]
+	armchair -> easy_chair
+	wing_chair [label=wing_chair]
+	easy_chair -> wing_chair
+	fauteuil [label=fauteuil]
+	armchair -> fauteuil
+	morris_chair [label=morris_chair]
+	armchair -> morris_chair
+	recliner [label=recliner]
+	armchair -> recliner
+	barber_chair [label=barber_chair]
+	chair -> barber_chair
+	chair_of_state [label=chair_of_state]
+	chair -> chair_of_state
+	throne [label=throne]
+	chair_of_state -> throne
+	cathedra [label=cathedra]
+	throne -> cathedra
+	mercy_seat [label=mercy_seat]
+	throne -> mercy_seat
+	musnud [label=musnud]
+	throne -> musnud
+	"peacock-throne" [label="peacock-throne"]
+	throne -> "peacock-throne"
+	chaise_longue [label=chaise_longue]
+	chair -> chaise_longue
+	eames_chair [label=eames_chair]
+	chair -> eames_chair
+	fighting_chair [label=fighting_chair]
+	chair -> fighting_chair
+	folding_chair [label=folding_chair]
+	chair -> folding_chair
+	camp_chair [label=camp_chair]
+	folding_chair -> camp_chair
+	deck_chair [label=deck_chair]
+	folding_chair -> deck_chair
+	yacht_chair [label=yacht_chair]
+	folding_chair -> yacht_chair
+	highchair [label=highchair]
+	chair -> highchair
+	"ladder-back" [label="ladder-back"]
+	chair -> "ladder-back"
+	lawn_chair [label=lawn_chair]
+	chair -> lawn_chair
+	rocking_chair [label=rocking_chair]
+	chair -> rocking_chair
+	boston_rocker [label=boston_rocker]
+	rocking_chair -> boston_rocker
+	platform_rocker [label=platform_rocker]
+	rocking_chair -> platform_rocker
+	shoofly [label=shoofly]
+	rocking_chair -> shoofly
+	straight_chair [label=straight_chair]
+	chair -> straight_chair
+	windsor_chair [label=windsor_chair]
+	straight_chair -> windsor_chair
+	swivel_chair [label=swivel_chair]
+	chair -> swivel_chair
+	"tablet-armed_chair" [label="tablet-armed_chair"]
+	chair -> "tablet-armed_chair"
+	wheelchair [label=wheelchair]
+	chair -> wheelchair
+	bath_chair [label=bath_chair]
+	wheelchair -> bath_chair
+	motorized_wheelchair [label=motorized_wheelchair]
+	wheelchair -> motorized_wheelchair
+	ottoman [label=ottoman]
+	seat -> ottoman
+	sofa [label=sofa]
+	seat -> sofa
+	convertible [label=convertible]
+	sofa -> convertible
+	davenport [label=davenport]
+	convertible -> davenport
+	chesterfield [label=chesterfield]
+	davenport -> chesterfield
+	studio_couch [label=studio_couch]
+	convertible -> studio_couch
+	daybed [label=daybed]
+	sofa -> daybed
+	divan [label=divan]
+	sofa -> divan
+	love_seat [label=love_seat]
+	sofa -> love_seat
+	settee [label=settee]
+	sofa -> settee
+	squab [label=squab]
+	sofa -> squab
+	stool [label=stool]
+	seat -> stool
+	campstool [label=campstool]
+	stool -> campstool
+	cutty_stool [label=cutty_stool]
+	stool -> cutty_stool
+	footstool [label=footstool]
+	stool -> footstool
+	milking_stool [label=milking_stool]
+	stool -> milking_stool
+	music_stool [label=music_stool]
+	stool -> music_stool
+	step_stool [label=step_stool]
+	stool -> step_stool
+	taboret [label=taboret]
+	stool -> taboret
+	toilet_seat [label=toilet_seat]
+	seat -> toilet_seat
+	sectional [label=sectional]
+	furniture -> sectional
+	sheraton [label=sheraton]
+	furniture -> sheraton
+	sleeper [label=sleeper]
+	furniture -> sleeper
+	table [label=table]
+	furniture -> table
+	altar [label=altar]
+	table -> altar
+	booth [label=booth]
+	table -> booth
+	breakfast_table [label=breakfast_table]
+	table -> breakfast_table
+	card_table [label=card_table]
+	table -> card_table
+	card_table [label=card_table]
+	table -> card_table
+	coffee_table [label=coffee_table]
+	table -> coffee_table
+	conference_table [label=conference_table]
+	table -> conference_table
+	console_table [label=console_table]
+	table -> console_table
+	counter [label=counter]
+	table -> counter
+	bar [label=bar]
+	counter -> bar
+	cash_bar [label=cash_bar]
+	bar -> cash_bar
+	oyster_bar [label=oyster_bar]
+	bar -> oyster_bar
+	salad_bar [label=salad_bar]
+	bar -> salad_bar
+	snack_bar [label=snack_bar]
+	bar -> snack_bar
+	commissary [label=commissary]
+	snack_bar -> commissary
+	milk_bar [label=milk_bar]
+	snack_bar -> milk_bar
+	soda_fountain [label=soda_fountain]
+	bar -> soda_fountain
+	sushi_bar [label=sushi_bar]
+	bar -> sushi_bar
+	wet_bar [label=wet_bar]
+	bar -> wet_bar
+	wine_bar [label=wine_bar]
+	bar -> wine_bar
+	checkout [label=checkout]
+	counter -> checkout
+	meat_counter [label=meat_counter]
+	counter -> meat_counter
+	notions_counter [label=notions_counter]
+	counter -> notions_counter
+	reception_desk [label=reception_desk]
+	counter -> reception_desk
+	desk [label=desk]
+	table -> desk
+	davenport [label=davenport]
+	desk -> davenport
+	secretary [label=secretary]
+	desk -> secretary
+	writing_desk [label=writing_desk]
+	desk -> writing_desk
+	dressing_table [label=dressing_table]
+	table -> dressing_table
+	"drop-leaf_table" [label="drop-leaf_table"]
+	table -> "drop-leaf_table"
+	gateleg_table [label=gateleg_table]
+	"drop-leaf_table" -> gateleg_table
+	gaming_table [label=gaming_table]
+	table -> gaming_table
+	gueridon [label=gueridon]
+	table -> gueridon
+	kitchen_table [label=kitchen_table]
+	table -> kitchen_table
+	operating_table [label=operating_table]
+	table -> operating_table
+	parsons_table [label=parsons_table]
+	table -> parsons_table
+	pedestal_table [label=pedestal_table]
+	table -> pedestal_table
+	"tilt-top_table" [label="tilt-top_table"]
+	pedestal_table -> "tilt-top_table"
+	pier_table [label=pier_table]
+	table -> pier_table
+	platen [label=platen]
+	table -> platen
+	pool_table [label=pool_table]
+	table -> pool_table
+	stand [label=stand]
+	table -> stand
+	lectern [label=lectern]
+	stand -> lectern
+	"table-tennis_table" [label="table-tennis_table"]
+	table -> "table-tennis_table"
+	tea_table [label=tea_table]
+	table -> tea_table
+	trestle_table [label=trestle_table]
+	table -> trestle_table
+	worktable [label=worktable]
+	table -> worktable
+	drafting_table [label=drafting_table]
+	worktable -> drafting_table
+	workbench [label=workbench]
+	worktable -> workbench
+	lab_bench [label=lab_bench]
+	workbench -> lab_bench
+	table [label=table]
+	furniture -> table
+	dining_table [label=dining_table]
+	table -> dining_table
+	"dining-room_table" [label="dining-room_table"]
+	dining_table -> "dining-room_table"
+	dinner_table [label=dinner_table]
+	dining_table -> dinner_table
+	high_table [label=high_table]
+	dining_table -> high_table
+	refectory_table [label=refectory_table]
+	dining_table -> refectory_table
+	triclinium [label=triclinium]
+	dining_table -> triclinium
+	wall_unit [label=wall_unit]
+	furniture -> wall_unit
+	entertainment_center [label=entertainment_center]
+	wall_unit -> entertainment_center
+	wardrobe [label=wardrobe]
+	furniture -> wardrobe
+	armoire [label=armoire]
+	wardrobe -> armoire
+	clothes_closet [label=clothes_closet]
+	wardrobe -> clothes_closet
+	coat_closet [label=coat_closet]
+	wardrobe -> coat_closet
+	washstand [label=washstand]
+	furniture -> washstand
+}
