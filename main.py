@@ -187,11 +187,9 @@ def plot_mc_overgeneralization(test_log, title, cmap="gray", output_path=""):
                 heatmap[row_to_idx[e1], col_to_idx[e2] if e2 in col_to_idx else -1] = hits
     y_labels = [x[0] for x in sorted([(e, idx)for e, idx in row_to_idx.items()], key=lambda y: y[1])]
     x_labels = ["correct answer"] + [x[0] for x in sorted([(e, idx)for e, idx in col_to_idx.items()], key=lambda y: y[1])] + ["other"]
-
     plt.matshow(heatmap, cmap=cmap)
     plt.yticks(np.arange(heatmap.shape[0]), y_labels, fontsize=6)
     plt.xticks(np.arange(heatmap.shape[1]), x_labels, rotation="vertical", fontsize=6)
-    plt.title(title)
     plt.xlabel("All Answers")
     plt.ylabel("Correct Answer")
     if heatmap.shape[0] < 25 and heatmap.shape[1] < 25:
@@ -199,8 +197,9 @@ def plot_mc_overgeneralization(test_log, title, cmap="gray", output_path=""):
             for x in range(heatmap.shape[1]):
                 plt.annotate("{}".format(int(heatmap[y, x])), (x - 0.25, y), color="white", fontsize=5)
     plt.colorbar()
+    plt.title(title)
     if output_path:
-        plt.savefig(output_path)
+        plt.savefig(output_path, bbox_inches='tight')
     else:
         plt.show()
     plt.close()
@@ -324,7 +323,6 @@ def mc_over_generalization_test(base_sent, mask_index, correct_classes, incorrec
 def preprocess_data():
     filter_data_by_category(["animal"])
     groups = group_entities_using_wordnet(f"./csv/{model_name}_animal.csv")
-    print(len(groups))
     with open(f"pickle/{model_name}_animal_groups.pkl", "wb") as f:
         pickle.dump(groups, f)
 
@@ -354,7 +352,7 @@ def run_mc_overgeneralization_metric(tests_path="config/overgenerazliation_tests
                     sent = sent.split(" ")
                     sent[mask_index - 1] = tokenizer.mask_token()
                     sent = " ".join(sent)
-                    output_name = f"{model_name}_{test_data['output_name']}"
+                    output_name = f"{model_name}_{sent.replace(' ', '_').replace('.', '')}"
                     mc_over_generalization_test(base_sent=sent, mask_index=mask_index,
                                                 correct_classes=correct_classes,
                                                 incorrect_classes=incorrect_classes,
@@ -363,7 +361,7 @@ def run_mc_overgeneralization_metric(tests_path="config/overgenerazliation_tests
                                                 output_name=output_name, comb_size=comb_size)
 
 
-def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.json", test_name="", K=1000):
+def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.json", test_name="", K=1000, debug=False):
     with open(tests_path, "r") as f:
         tests = json.load(f)
 
@@ -379,7 +377,7 @@ def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.js
                 sent = sent.split(" ")
                 sent[mask_index - 1] = tokenizer.mask_token()
                 sent = " ".join(sent)
-                scores = over_generalization_metric(sent, mask_index, K, correct_classes, incorrect_classes, debug=False)
+                scores = over_generalization_metric(sent, mask_index, K, correct_classes, incorrect_classes, debug=debug)
                 test_log[sent] = scores
 
     output_path = os.path.join("png", "overgeneralization_metric")
@@ -389,4 +387,4 @@ def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.js
 
 if __name__ == "__main__":
     run_mc_overgeneralization_metric()
-    run_overgeneralization_metric(K=tokenizer.get_vocab_len())
+    # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=True)
