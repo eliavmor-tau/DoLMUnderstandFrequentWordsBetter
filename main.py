@@ -141,7 +141,7 @@ def filter_data_by_category(categories, k=20):
         plt.hist([s[1] for s in false_scores], color='red', label="False Prediction")
         plt.hist([s[1] for s in true_scores], color='blue', label="True Prediction", alpha=0.4)
         plt.legend()
-        plt.savefig(f"png/{model_name}_{categories[target_index]}.png")
+        plt.savefig(f"graphs/{model_name}_{categories[target_index]}.graphs")
         plt.close()
         data.insert(loc=0, column="prediction_probability", value=p_list)
         data.insert(loc=0, column="prediction", value=prediction_list)
@@ -309,15 +309,15 @@ def mc_over_generalization_test(base_sent, mask_index, correct_classes, incorrec
             log[correct_ans][prediction] += 1
 
     pickle_base_path = os.path.join(os.path.join("pickle", f"1_vs_{'all' if comb_size == -1 else comb_size}"))
-    png_base_path = os.path.join(os.path.join("png", f"1_vs_{'all' if comb_size == -1 else comb_size}"))
+    graphs_base_path = os.path.join(os.path.join("graphs", f"1_vs_{'all' if comb_size == -1 else comb_size}"))
     os.makedirs(pickle_base_path, exist_ok=True)
-    os.makedirs(png_base_path, exist_ok=True)
-    png_path = os.path.join(png_base_path, output_name + ".jpg")
+    os.makedirs(graphs_base_path, exist_ok=True)
+    graph_path = os.path.join(graphs_base_path, output_name + ".jpg")
     pickle_path = os.path.join(pickle_base_path, output_name + ".pkl")
     with open(pickle_path, "wb") as f:
         pickle.dump(log, f)
 
-    plot_mc_overgeneralization(test_log=log, title=base_sent, cmap="RdBu", output_path=png_path)
+    plot_mc_overgeneralization(test_log=log, title=base_sent, cmap="RdBu", output_path=graph_path)
 
 
 def preprocess_data():
@@ -380,7 +380,7 @@ def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.js
                 scores = over_generalization_metric(sent, mask_index, K, correct_classes, incorrect_classes, debug=debug)
                 test_log[sent] = scores
 
-    output_path = os.path.join("png", "overgeneralization_metric")
+    output_path = os.path.join("graphs", "overgeneralization_metric")
     os.makedirs(output_path, exist_ok=True)
     plot_overgeneralization(test_log, output_path=os.path.join(output_path, f"{model_name}_overgeneralization_metric.jpg"))
 
