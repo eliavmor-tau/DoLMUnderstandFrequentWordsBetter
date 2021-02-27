@@ -19,6 +19,6 @@ POSTGRES_TYPE_TO_PYTHON = {
 DB_HOST = "127.0.0.1"
 DB_PORT = "5432"
 # fill in your DB password
-DB_PASSWORD = "Tkhtc1991" # TODO remove from commit.
+DB_PASSWORD = "password" # TODO remove from commit.
 
 # ppAdmin port - 65086
