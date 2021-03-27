@@ -187,9 +187,17 @@ if __name__ == "__main__":
         "gpus": 0,
         "max_epochs": 10,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
-        "batch_size": 32
+        "batch_size": 32,
+        "train_data": "csv/conceptnet_train_no_animals.csv",
+        "test_data": "csv/test_questions.csv",
+        "dev_data": "csv/conceptnet_dev.csv",
+        "lr": 1e-4
     }
-    print(config.get("device"))
+    print("Start Run")
+    print("- Config -")
+    for k, v in config.items():
+        print(f"{k}: {v}")
+
     if config.get("train", True):
         train_model(config)
     else:
