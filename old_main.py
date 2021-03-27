@@ -1,6 +1,7 @@
+
 from data.tokenizer import Tokenizer
 from models.mlm_models import *
-from transformers import AutoConfig
+from transformers import AutoConfig, T5Tokenizer, T5ForConditionalGeneration
 import torch
 from torch.nn.functional import softmax
 from data.data_reader import DataReader
@@ -213,10 +214,7 @@ def plot_overgeneralization(test_log, output_path=""):
         cell_text.append(["{:.3f}".format(x) for x in test_log[row]])
 
     # Add a table at the bottom of the axes
-    plt.table(cellText=cell_text,
-                          rowLabels=rows,
-                          colLabels=cols,
-                          loc="center")
+    plt.table(cellText=cell_text, rowLabels=rows, colLabels=cols, loc="center")
     figure.patch.set_visible(False)
     ax.axis('off')
     ax.axis('tight')
@@ -234,6 +232,9 @@ def over_generalization_metric(sentence, mask_index, k, generalization, over_gen
     correct_score = 0
     over_generalization_score = 0
     mistake_score = 0
+    if debug:
+        print("*" * 100)
+
     for entity, p in res:
         synset = wn.synsets(entity)
         if synset:
@@ -246,22 +247,25 @@ def over_generalization_metric(sentence, mask_index, k, generalization, over_gen
             if generalization.intersection(hypernyms):
                 correct_score += p
                 if debug:
-                    print(f"generalization: {entity} p={p}", hypernyms)
+                    print(f"generalization: {entity} p={p}")
             elif over_generalization.intersection(hypernyms):
                 over_generalization_score += p
                 if debug:
-                    print(f"over-generalization: {entity} p={p}", hypernyms)
+                    print(f"over-generalization: {entity} p={p}")
             else:
                 mistake_score += p
                 if debug:
-                    print(f"mistake: {entity} p={p}", hypernyms)
+                    print(f"mistake: {entity} p={p}")
+        else:
+            mistake_score += p
+            if debug:
+                print(f"mistake: {entity} p={p}")
 
     normalization_factor = mistake_score + correct_score + over_generalization_score
     correct_score /= normalization_factor
     over_generalization_score /= normalization_factor
     mistake_score /= normalization_factor
     if debug:
-        print("*" * 100)
         print(f"tested sentence: {sentence}")
         print("correct score:", correct_score)
         print("over generalization score:", over_generalization_score)
@@ -320,17 +324,18 @@ def mc_over_generalization_test(base_sent, mask_index, correct_classes, incorrec
     plot_mc_overgeneralization(test_log=log, title=base_sent, cmap="RdBu", output_path=graph_path)
 
 
-def preprocess_data():
-    filter_data_by_category(["animal"])
-    groups = group_entities_using_wordnet(f"./csv/{model_name}_animal.csv")
-    with open(f"pickle/{model_name}_animal_groups.pkl", "wb") as f:
+def preprocess_data(category):
+    filter_data_by_category([category])
+    groups = group_entities_using_wordnet(f"./csv/{model_name}_{category}.csv")
+    with open(f"pickle/{model_name}_{category}_groups.pkl", "wb") as f:
         pickle.dump(groups, f)
 
-    with open(f"json/{model_name}_animal_groups.json", "w") as f:
+    with open(f"json/{model_name}_{category}_groups.json", "w") as f:
         json.dump(groups, f)
 
-def load_data():
-    with open(f"pickle/{model_name}_animal_groups.pkl", "rb") as f:
+
+def load_data(category):
+    with open(f"pickle/{model_name}_{category}_groups.pkl", "rb") as f:
         data = pickle.load(f)
     return data
 
@@ -339,7 +344,7 @@ def run_mc_overgeneralization_metric(tests_path="config/overgenerazliation_tests
     with open(tests_path, "r") as f:
         tests = json.load(f)
 
-    data = load_data()
+    data = load_data("animal")
     for tn, test_data in tests.items():
         run_test = not len(test_name) or test_name == tn
         mask_index = test_data["mask_index"]
@@ -385,6 +390,125 @@ def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.js
     plot_overgeneralization(test_log, output_path=os.path.join(output_path, f"{model_name}_overgeneralization_metric.jpg"))
 
 
+def generate_sentences_from_csv(csv_path, idx=0):
+    df = pd.read_csv(csv_path)
+    data = dict()
+    for row in df.iterrows():
+        row = row[1]
+        entity = row["entity"]
+        for sentence, label in row.items():
+            if label == entity:
+                continue
+            sentence = sentence.replace("<entity>", entity)
+            data[idx] = {"question": sentence, "label": "Yes" if label > 0 else "No"}
+            idx += 1
+    return data
+
+
+def merge_all_sentences(csv_paths, output_path="csv/questions.csv", split=True):
+    np.random.seed(seed=100)
+    data = dict()
+    for csv_path in csv_paths:
+        data_len = len(data)
+        data.update(generate_sentences_from_csv(csv_path=csv_path, idx=data_len))
+
+    indices = []
+    questions = []
+    labels = []
+    for idx, sentence_data in data.items():
+        indices.append(idx)
+        questions.append(sentence_data["question"])
+        labels.append(sentence_data["label"])
+
+    all_questions = pd.DataFrame.from_dict({"question": questions, "label": labels})
+    yes_questions = all_questions[all_questions.label == "Yes"]
+    no_questions = all_questions[all_questions.label == "No"]
+    if split:
+        N = min(len(yes_questions), len(no_questions))
+        yes_questions_df = yes_questions.sample(n=N)
+        no_questions_df = no_questions.sample(n=N)
+        yes_questions, yes_label = yes_questions_df.question.values, yes_questions_df.label.values
+        no_questions, no_label = no_questions_df.question.values, no_questions_df.label.values
+        train_size = int(N * 0.85)
+        train_indices = np.random.choice(a=np.arange(N), size=train_size, replace=False)
+        val_indices = np.array(list(set(np.arange(N)).difference(set(train_indices))))
+        train_df = pd.DataFrame.from_dict(
+            {"question": np.hstack([yes_questions[train_indices], no_questions[train_indices]]),
+             "label": np.hstack([yes_label[train_indices], no_label[train_indices]])})
+        val_df = pd.DataFrame.from_dict(
+            {"question": np.hstack([yes_questions[val_indices], no_questions[val_indices]]),
+             "label": np.hstack([yes_label[val_indices], no_label[val_indices]])})
+        train_df.to_csv("csv/train_questions.csv")
+        val_df.to_csv("csv/val_questions.csv")
+    else:
+        all_questions.to_csv(output_path)
+    return data
+
+
 if __name__ == "__main__":
-    run_mc_overgeneralization_metric()
-    # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=True)
+    animals_df = pd.read_csv("csv/animals.csv")
+    # animals = set(animals_df["entity"].values)
+    properties = {'live', 'lives', 'underwater','wing', 'wings', 'drink', 'drinks', 'coffee', 'eat', 'meat', 'fin', 'fins',
+                  'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly', 'flies', 'climb', 'climbs', 'carnivore',
+                  'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth', 'feathers', 'feather',  'horn', 'horns',
+                  'hooves', 'claws', 'blooded'}
+    # properties = set()
+    animals = set(WordNetObj.get_entity_hyponyms("animal"))
+    # animals = set()
+
+    with open('json/conceptnet_train.jsonl', 'r') as f:
+        lines = f.readlines()
+        data = {"questions": [], "labels": []}
+        for line in lines:
+            line_dict = json.loads(line)
+            question, answer = line_dict["phrase"], line_dict["answer"]
+            split_question = set(question.lower().split(' '))
+            question_words = set()
+            for word in split_question:
+                question_words.add(word)
+                question_words.add(word.replace("s", ""))
+                question_words.add(word.replace("es", ""))
+                question_words.add(word.replace("ies", ""))
+                question_words.add(word.replace("ing", ""))
+
+            if not animals.intersection(question_words) and not properties.intersection(question_words):
+                data["questions"].append(question)
+                data["labels"].append("Yes" if answer else "No")
+            else:
+                print(question, answer)
+
+    questions_df = pd.DataFrame.from_dict(data)
+    yes_num_questions = len(questions_df[questions_df["labels"] == "Yes"])
+    no_num_questions = len(questions_df[questions_df["labels"] == "No"])
+    N = min(yes_num_questions, no_num_questions)
+    new_yes_questions = questions_df[questions_df["labels"] == "Yes"].sample(n=N, replace=False)
+    new_no_questions = questions_df[questions_df["labels"] == "No"].sample(n=N, replace=False)
+    questions_df = pd.concat([new_yes_questions, new_no_questions], axis=0, ignore_index=True)
+    print(questions_df)
+    questions_df.to_csv("csv/conceptnet_train_no_animals.csv")
+
+    # preprocess_data("food")
+    # run_mc_overgeneralization_metric(test_name="beak")
+    # run_overgeneralization_metric(K=1, debug=True)
+    # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
+    # generate_sentences_from_csv(csv_path="csv/animals.csv")
+    # merge_all_sentences(["csv/vehicle.csv", "csv/furniture.csv", "csv/food.csv", "csv/musical_instruments.csv"])
+    # merge_all_sentences(["csv/animals.csv"])
+    # from transformers import T5Tokenizer, T5ForConditionalGeneration
+
+    # tokenizer = T5Tokenizer.from_pretrained('t5-small')
+    # model = T5ForConditionalGeneration.from_pretrained('t5-small')
+    # print(model.config)
+
+    # input_ids = tokenizer('The <extra_id_0> walks in <extra_id_1> park', return_tensors='pt').input_ids
+    # labels = tokenizer('<extra_id_0> cute dog <extra_id_1> the <extra_id_2> </s>', return_tensors='pt').input_ids
+    # outputs = model(input_ids=input_ids, labels=labels)
+    # loss = outputs.loss
+    # logits = outputs.logits
+    #
+    # # input_ids = tokenizer("summarize: Israel, officially known as the State of Israel is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem, although international recognition of the state's sovereignty over Jerusalem is limited.",
+    # #                            return_tensors="pt").input_ids  # Batch size 1
+    # input_ids = tokenizer("A big dog?",
+    #                            return_tensors="pt").input_ids  # Batch size 1
+    # outputs = model.generate(input_ids)
+    # print(tokenizer.decode(outputs[0]))

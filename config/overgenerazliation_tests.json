@@ -20,7 +20,7 @@
     "legs": {
        "sentences": ["A [MASK] has legs.", "A [MASK] is an animal that has legs."],
 		"mask_index": 2,
-		"correct_classes": ["bird", "feline", "canine", "primate"],
+		"correct_classes": ["bird", "feline", "canine", "primate", "livestock", "horse"],
 		"mc_overgeneralize_classes": ["fish", "aquatic_vertebrate", "snake"],
 		"overgeneralize_classes": ["animal", "living_thing"],
 		"output_name": "has_legs_comb",

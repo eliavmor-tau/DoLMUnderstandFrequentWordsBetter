@@ -111,10 +111,14 @@ class WordNetObj:
 if __name__ == "__main__":
     # synset_tree = SynsetTree("first")
     # print(synset_tree.to_json())
-    synset = wn.synsets("poodle")[0]
-    hyper = lambda s: s.hypernyms()
-    print([x.name().partition('.')[0] for x in synset.closure(hyper)])
-
+    entity = "musical_instrument"
+    hyponyms = WordNetObj.get_entity_hyponyms(entity)
+    hypernyms = WordNetObj.get_entity_hypernyms(entity)
+    for x in sorted(hyponyms):
+        print(x)
+    print("*" * 100)
+    for x in sorted(hypernyms):
+        print(x)
     # with open("animal_skin.json", "w") as f:
     #     json.dump(synset_tree.to_json(), f)
     # postgres_client = PostgresClient(password=DB_PASSWORD)
