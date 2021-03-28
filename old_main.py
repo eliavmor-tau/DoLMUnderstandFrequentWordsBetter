@@ -19,13 +19,13 @@ import time
 import os
 
 # model_name = 'bert-large-uncased'
-model_name = 'roberta-large'
-mc_mlm = True
-config = AutoConfig.from_pretrained(model_name)
-tokenizer = Tokenizer(model_name)
-model = TransformerMaskedLanguageModel(vocab=config, model_name=model_name, multi_choice=mc_mlm)
-data_reader = DataReader(host=DB_HOST, port=DB_PORT, password=DB_PASSWORD)
-concept_net = ConceptNetObj()
+# model_name = 'roberta-large'
+# mc_mlm = True
+# config = AutoConfig.from_pretrained(model_name)
+# tokenizer = Tokenizer(model_name)
+# model = TransformerMaskedLanguageModel(vocab=config, model_name=model_name, multi_choice=mc_mlm)
+# data_reader = DataReader(host=DB_HOST, port=DB_PORT, password=DB_PASSWORD)
+# concept_net = ConceptNetObj()
 
 
 def test_sentence_mc_mlm(sentence, mask_index, batch_size, target_index, multi_choice_answers, k=1):
@@ -390,18 +390,18 @@ def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.js
     plot_overgeneralization(test_log, output_path=os.path.join(output_path, f"{model_name}_overgeneralization_metric.jpg"))
 
 
-def generate_sentences_from_csv(csv_path, idx=0):
+def generate_sentences_from_csv(csv_path):
     df = pd.read_csv(csv_path)
-    data = dict()
+    data = {"question": [], "label": []}
     for row in df.iterrows():
         row = row[1]
         entity = row["entity"]
-        for sentence, label in row.items():
+        for question, label in row.items():
             if label == entity:
                 continue
-            sentence = sentence.replace("<entity>", entity)
-            data[idx] = {"question": sentence, "label": "Yes" if label > 0 else "No"}
-            idx += 1
+            question = question.replace("<entity>", entity)
+            data["question"].append(question)
+            data["label"].append("Yes" if label > 0 else "No")
     return data
 
 
@@ -445,12 +445,22 @@ def merge_all_sentences(csv_paths, output_path="csv/questions.csv", split=True):
     return data
 
 
-if __name__ == "__main__":
+def animal_accuracy(animal, result_df):
+    animal_df = result_df[[animal in question for question in result_df.question]]
+    accuracy = len(animal_df[animal_df.model_answer == animal_df.true_answer]) / len(animal_df)
+    yes_count = len(animal_df[animal_df.model_answer == "Yes"])
+    no_count = len(animal_df[animal_df.model_answer == "No"])
+    return animal, "{:.2f}".format(accuracy), yes_count, no_count
+
+
+def filter_questions():
     animals_df = pd.read_csv("csv/animals.csv")
     # animals = set(animals_df["entity"].values)
-    properties = {'live', 'lives', 'underwater','wing', 'wings', 'drink', 'drinks', 'coffee', 'eat', 'meat', 'fin', 'fins',
-                  'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly', 'flies', 'climb', 'climbs', 'carnivore',
-                  'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth', 'feathers', 'feather',  'horn', 'horns',
+    properties = {'live', 'lives', 'underwater', 'wing', 'wings', 'drink', 'drinks', 'coffee', 'eat', 'meat', 'fin',
+                  'fins',
+                  'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly', 'flies', 'climb', 'climbs',
+                  'carnivore',
+                  'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth', 'feathers', 'feather', 'horn', 'horns',
                   'hooves', 'claws', 'blooded'}
     # properties = set()
     animals = set(WordNetObj.get_entity_hyponyms("animal"))
@@ -487,28 +497,56 @@ if __name__ == "__main__":
     print(questions_df)
     questions_df.to_csv("csv/conceptnet_train_no_animals.csv")
 
+
+def aggregate_results_by_animal(result_df, animals_df):
+    animals = animals_df["entity"].values
+    results_by_animal = {"animal": [], "accuracy": [], "yes_count": [], "no_count": []}
+    for animal in animals:
+        animal, accuracy, yes_count, no_count = animal_accuracy(animal, result_df)
+        results_by_animal["animal"].append(animal)
+        results_by_animal["accuracy"].append(accuracy)
+        results_by_animal["yes_count"].append(yes_count)
+        results_by_animal["no_count"].append(no_count)
+    return pd.DataFrame.from_dict(results_by_animal)
+
+
+def aggregate_results_by_question(result_df, animals_df):
+    questions = list(animals_df.columns.values)
+    questions.remove("entity")
+    results_by_question = {q: {"accuracy": 0, "yes_count": 0, "no_count": 0} for q in questions}
+    for idx, row in result_df.iterrows():
+        question = row["question"]
+        status = row["model_answer"] == row["true_answer"]
+        is_yes = row["model_answer"] == "Yes"
+        for q in results_by_question.keys():
+            q_suffix = q.split("<entity>")[-1]
+            if question.endswith(q_suffix):
+                results_by_question[q]["accuracy"] += int(status)
+                results_by_question[q]["yes_count"] += int(is_yes)
+                results_by_question[q]["no_count"] += int(not is_yes)
+    for q in results_by_question.keys():
+        results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
+    return pd.DataFrame.from_dict(results_by_question)
+
+
+def summarize_results():
+    animals_df = pd.read_csv("csv/animals.csv")
+    result_df = pd.read_csv("csv/result.csv")
+    results_by_animal = aggregate_results_by_animal(result_df, animals_df)
+    results_by_question = aggregate_results_by_question(result_df, animals_df)
+    results_by_animal.to_csv("csv/results_by_animal.csv")
+    results_by_question.to_csv("csv/results_by_question.csv")
+
+
+if __name__ == "__main__":
+    # summarize_results()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    # generate_sentences_from_csv(csv_path="csv/animals.csv")
+    questions = generate_sentences_from_csv(csv_path="csv/animals.csv")
+    questions = pd.DataFrame.from_dict(questions)
+    questions.to_csv("csv/animal_questions.csv")
+
     # merge_all_sentences(["csv/vehicle.csv", "csv/furniture.csv", "csv/food.csv", "csv/musical_instruments.csv"])
     # merge_all_sentences(["csv/animals.csv"])
-    # from transformers import T5Tokenizer, T5ForConditionalGeneration
-
-    # tokenizer = T5Tokenizer.from_pretrained('t5-small')
-    # model = T5ForConditionalGeneration.from_pretrained('t5-small')
-    # print(model.config)
-
-    # input_ids = tokenizer('The <extra_id_0> walks in <extra_id_1> park', return_tensors='pt').input_ids
-    # labels = tokenizer('<extra_id_0> cute dog <extra_id_1> the <extra_id_2> </s>', return_tensors='pt').input_ids
-    # outputs = model(input_ids=input_ids, labels=labels)
-    # loss = outputs.loss
-    # logits = outputs.logits
-    #
-    # # input_ids = tokenizer("summarize: Israel, officially known as the State of Israel is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem, although international recognition of the state's sovereignty over Jerusalem is limited.",
-    # #                            return_tensors="pt").input_ids  # Batch size 1
-    # input_ids = tokenizer("A big dog?",
-    #                            return_tensors="pt").input_ids  # Batch size 1
-    # outputs = model.generate(input_ids)
-    # print(tokenizer.decode(outputs[0]))

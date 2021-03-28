@@ -104,13 +104,6 @@ class YesNoQuestionAnswering(pl.LightningModule):
         return AdamW(params=self.parameters(), lr=self.config.get("lr", 1e-4))
 
 
-def animal_accuracy(animal):
-    result_df = pd.read_csv("csv/result.csv")
-    animal_df = result_df[[animal in question for question in result_df.question]]
-    accuracy = len(animal_df[animal_df.model_answer == animal_df.true_answer]) / len(animal_df)
-    return (animal, accuracy)
-
-
 def train_model(config):
     checkpoint_callback = pl.callbacks.ModelCheckpoint(dirpath="checkpoint",
                                                        prefix="checkpoint", monitor="val_loss", mode="min",
@@ -192,7 +185,7 @@ if __name__ == "__main__":
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
         "train_data": "csv/conceptnet_train_no_animals.csv",
-        "test_data": "csv/test_questions.csv",
+        "test_data": "csv/animal_questions.csv",
         "dev_data": "csv/conceptnet_dev.csv",
         "lr": 1e-4,
         "checkpoint": "checkpoint/checkpoint-epoch=37-step=150593.ckpt"

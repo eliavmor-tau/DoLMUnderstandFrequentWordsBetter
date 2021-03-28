@@ -1,0 +1,1702 @@
+,question,label
+0,Does a dog live underwater?,No
+1,Does a dog have wings?,No
+2,Does a dog drink water?,Yes
+3,Does a dog drink coffee?,No
+4,Does a dog eat meat?,Yes
+5,Does a dog have fins?,No
+6,Does a dog have scales?,No
+7,Does a dog have fur?,Yes
+8,Does a dog have hair?,Yes
+9,Does a dog have a tail?,Yes
+10,Does a dog have two legs?,No
+11,Does a dog have legs?,Yes
+12,Can a dog fly?,No
+13,Does a dog have four legs?,Yes
+14,Can a dog climb?,Yes
+15,Is a dog a carnivore?,No
+16,Is a dog an herbivore?,No
+17,Is a dog an omnivore?,Yes
+18,Does a dog have bones?,Yes
+19,Does a dog have a beak?,No
+20,Does a dog have teeth?,Yes
+21,Does a dog have feathers?,No
+22,Does a dog have horns?,No
+23,Does a dog have hooves?,No
+24,Does a dog have claws?,Yes
+25,Is a dog cold-blooded?,No
+26,Is a dog warm-blooded?,Yes
+27,Does a cat live underwater?,No
+28,Does a cat have wings?,No
+29,Does a cat drink water?,Yes
+30,Does a cat drink coffee?,No
+31,Does a cat eat meat?,Yes
+32,Does a cat have fins?,No
+33,Does a cat have scales?,No
+34,Does a cat have fur?,Yes
+35,Does a cat have hair?,Yes
+36,Does a cat have a tail?,Yes
+37,Does a cat have two legs?,No
+38,Does a cat have legs?,Yes
+39,Can a cat fly?,No
+40,Does a cat have four legs?,Yes
+41,Can a cat climb?,Yes
+42,Is a cat a carnivore?,Yes
+43,Is a cat an herbivore?,No
+44,Is a cat an omnivore?,No
+45,Does a cat have bones?,Yes
+46,Does a cat have a beak?,No
+47,Does a cat have teeth?,Yes
+48,Does a cat have feathers?,No
+49,Does a cat have horns?,No
+50,Does a cat have hooves?,No
+51,Does a cat have claws?,Yes
+52,Is a cat cold-blooded?,No
+53,Is a cat warm-blooded?,Yes
+54,Does a lion live underwater?,No
+55,Does a lion have wings?,No
+56,Does a lion drink water?,Yes
+57,Does a lion drink coffee?,No
+58,Does a lion eat meat?,Yes
+59,Does a lion have fins?,No
+60,Does a lion have scales?,No
+61,Does a lion have fur?,Yes
+62,Does a lion have hair?,Yes
+63,Does a lion have a tail?,Yes
+64,Does a lion have two legs?,No
+65,Does a lion have legs?,Yes
+66,Can a lion fly?,No
+67,Does a lion have four legs?,Yes
+68,Can a lion climb?,Yes
+69,Is a lion a carnivore?,Yes
+70,Is a lion an herbivore?,No
+71,Is a lion an omnivore?,No
+72,Does a lion have bones?,Yes
+73,Does a lion have a beak?,No
+74,Does a lion have teeth?,Yes
+75,Does a lion have feathers?,No
+76,Does a lion have horns?,No
+77,Does a lion have hooves?,No
+78,Does a lion have claws?,Yes
+79,Is a lion cold-blooded?,No
+80,Is a lion warm-blooded?,Yes
+81,Does a rhino live underwater?,No
+82,Does a rhino have wings?,No
+83,Does a rhino drink water?,Yes
+84,Does a rhino drink coffee?,No
+85,Does a rhino eat meat?,No
+86,Does a rhino have fins?,No
+87,Does a rhino have scales?,No
+88,Does a rhino have fur?,No
+89,Does a rhino have hair?,No
+90,Does a rhino have a tail?,Yes
+91,Does a rhino have two legs?,No
+92,Does a rhino have legs?,Yes
+93,Can a rhino fly?,No
+94,Does a rhino have four legs?,Yes
+95,Can a rhino climb?,No
+96,Is a rhino a carnivore?,No
+97,Is a rhino an herbivore?,Yes
+98,Is a rhino an omnivore?,No
+99,Does a rhino have bones?,Yes
+100,Does a rhino have a beak?,No
+101,Does a rhino have teeth?,Yes
+102,Does a rhino have feathers?,No
+103,Does a rhino have horns?,Yes
+104,Does a rhino have hooves?,Yes
+105,Does a rhino have claws?,No
+106,Is a rhino cold-blooded?,No
+107,Is a rhino warm-blooded?,Yes
+108,Does a elephant live underwater?,No
+109,Does a elephant have wings?,No
+110,Does a elephant drink water?,Yes
+111,Does a elephant drink coffee?,No
+112,Does a elephant eat meat?,No
+113,Does a elephant have fins?,No
+114,Does a elephant have scales?,No
+115,Does a elephant have fur?,No
+116,Does a elephant have hair?,No
+117,Does a elephant have a tail?,Yes
+118,Does a elephant have two legs?,No
+119,Does a elephant have legs?,Yes
+120,Can a elephant fly?,No
+121,Does a elephant have four legs?,Yes
+122,Can a elephant climb?,No
+123,Is a elephant a carnivore?,No
+124,Is a elephant an herbivore?,Yes
+125,Is a elephant an omnivore?,No
+126,Does a elephant have bones?,Yes
+127,Does a elephant have a beak?,No
+128,Does a elephant have teeth?,Yes
+129,Does a elephant have feathers?,No
+130,Does a elephant have horns?,No
+131,Does a elephant have hooves?,No
+132,Does a elephant have claws?,No
+133,Is a elephant cold-blooded?,No
+134,Is a elephant warm-blooded?,Yes
+135,Does a bat live underwater?,No
+136,Does a bat have wings?,Yes
+137,Does a bat drink water?,Yes
+138,Does a bat drink coffee?,No
+139,Does a bat eat meat?,No
+140,Does a bat have fins?,No
+141,Does a bat have scales?,No
+142,Does a bat have fur?,Yes
+143,Does a bat have hair?,Yes
+144,Does a bat have a tail?,Yes
+145,Does a bat have two legs?,No
+146,Does a bat have legs?,Yes
+147,Can a bat fly?,Yes
+148,Does a bat have four legs?,No
+149,Can a bat climb?,Yes
+150,Is a bat a carnivore?,No
+151,Is a bat an herbivore?,Yes
+152,Is a bat an omnivore?,No
+153,Does a bat have bones?,Yes
+154,Does a bat have a beak?,No
+155,Does a bat have teeth?,Yes
+156,Does a bat have feathers?,No
+157,Does a bat have horns?,Yes
+158,Does a bat have hooves?,No
+159,Does a bat have claws?,Yes
+160,Is a bat cold-blooded?,No
+161,Is a bat warm-blooded?,Yes
+162,Does a bear live underwater?,No
+163,Does a bear have wings?,No
+164,Does a bear drink water?,Yes
+165,Does a bear drink coffee?,No
+166,Does a bear eat meat?,Yes
+167,Does a bear have fins?,No
+168,Does a bear have scales?,No
+169,Does a bear have fur?,Yes
+170,Does a bear have hair?,Yes
+171,Does a bear have a tail?,Yes
+172,Does a bear have two legs?,No
+173,Does a bear have legs?,Yes
+174,Can a bear fly?,No
+175,Does a bear have four legs?,Yes
+176,Can a bear climb?,Yes
+177,Is a bear a carnivore?,No
+178,Is a bear an herbivore?,No
+179,Is a bear an omnivore?,Yes
+180,Does a bear have bones?,Yes
+181,Does a bear have a beak?,No
+182,Does a bear have teeth?,Yes
+183,Does a bear have feathers?,No
+184,Does a bear have horns?,No
+185,Does a bear have hooves?,No
+186,Does a bear have claws?,Yes
+187,Is a bear cold-blooded?,No
+188,Is a bear warm-blooded?,Yes
+189,Does a bird live underwater?,No
+190,Does a bird have wings?,Yes
+191,Does a bird drink water?,Yes
+192,Does a bird drink coffee?,No
+193,Does a bird eat meat?,No
+194,Does a bird have fins?,No
+195,Does a bird have scales?,No
+196,Does a bird have fur?,No
+197,Does a bird have hair?,No
+198,Does a bird have a tail?,Yes
+199,Does a bird have two legs?,Yes
+200,Does a bird have legs?,Yes
+201,Can a bird fly?,Yes
+202,Does a bird have four legs?,No
+203,Can a bird climb?,Yes
+204,Is a bird a carnivore?,No
+205,Is a bird an herbivore?,Yes
+206,Is a bird an omnivore?,No
+207,Does a bird have bones?,Yes
+208,Does a bird have a beak?,Yes
+209,Does a bird have teeth?,No
+210,Does a bird have feathers?,Yes
+211,Does a bird have horns?,No
+212,Does a bird have hooves?,No
+213,Does a bird have claws?,Yes
+214,Is a bird cold-blooded?,No
+215,Is a bird warm-blooded?,Yes
+216,Does a camel live underwater?,No
+217,Does a camel have wings?,No
+218,Does a camel drink water?,Yes
+219,Does a camel drink coffee?,No
+220,Does a camel eat meat?,No
+221,Does a camel have fins?,No
+222,Does a camel have scales?,No
+223,Does a camel have fur?,Yes
+224,Does a camel have hair?,Yes
+225,Does a camel have a tail?,Yes
+226,Does a camel have two legs?,No
+227,Does a camel have legs?,Yes
+228,Can a camel fly?,No
+229,Does a camel have four legs?,Yes
+230,Can a camel climb?,No
+231,Is a camel a carnivore?,No
+232,Is a camel an herbivore?,Yes
+233,Is a camel an omnivore?,No
+234,Does a camel have bones?,Yes
+235,Does a camel have a beak?,No
+236,Does a camel have teeth?,Yes
+237,Does a camel have feathers?,No
+238,Does a camel have horns?,No
+239,Does a camel have hooves?,Yes
+240,Does a camel have claws?,No
+241,Is a camel cold-blooded?,No
+242,Is a camel warm-blooded?,Yes
+243,Does a cow live underwater?,No
+244,Does a cow have wings?,No
+245,Does a cow drink water?,Yes
+246,Does a cow drink coffee?,No
+247,Does a cow eat meat?,No
+248,Does a cow have fins?,No
+249,Does a cow have scales?,No
+250,Does a cow have fur?,Yes
+251,Does a cow have hair?,Yes
+252,Does a cow have a tail?,Yes
+253,Does a cow have two legs?,No
+254,Does a cow have legs?,Yes
+255,Can a cow fly?,No
+256,Does a cow have four legs?,Yes
+257,Can a cow climb?,No
+258,Is a cow a carnivore?,No
+259,Is a cow an herbivore?,Yes
+260,Is a cow an omnivore?,No
+261,Does a cow have bones?,Yes
+262,Does a cow have a beak?,No
+263,Does a cow have teeth?,Yes
+264,Does a cow have feathers?,No
+265,Does a cow have horns?,Yes
+266,Does a cow have hooves?,No
+267,Does a cow have claws?,Yes
+268,Is a cow cold-blooded?,No
+269,Is a cow warm-blooded?,Yes
+270,Does a crab live underwater?,Yes
+271,Does a crab have wings?,No
+272,Does a crab drink water?,Yes
+273,Does a crab drink coffee?,No
+274,Does a crab eat meat?,No
+275,Does a crab have fins?,No
+276,Does a crab have scales?,No
+277,Does a crab have fur?,No
+278,Does a crab have hair?,No
+279,Does a crab have a tail?,No
+280,Does a crab have two legs?,No
+281,Does a crab have legs?,Yes
+282,Can a crab fly?,No
+283,Does a crab have four legs?,No
+284,Can a crab climb?,No
+285,Is a crab a carnivore?,No
+286,Is a crab an herbivore?,No
+287,Is a crab an omnivore?,Yes
+288,Does a crab have bones?,No
+289,Does a crab have a beak?,No
+290,Does a crab have teeth?,Yes
+291,Does a crab have feathers?,No
+292,Does a crab have horns?,No
+293,Does a crab have hooves?,No
+294,Does a crab have claws?,No
+295,Is a crab cold-blooded?,Yes
+296,Is a crab warm-blooded?,No
+297,Does a deer live underwater?,No
+298,Does a deer have wings?,No
+299,Does a deer drink water?,Yes
+300,Does a deer drink coffee?,No
+301,Does a deer eat meat?,No
+302,Does a deer have fins?,No
+303,Does a deer have scales?,No
+304,Does a deer have fur?,Yes
+305,Does a deer have hair?,Yes
+306,Does a deer have a tail?,Yes
+307,Does a deer have two legs?,No
+308,Does a deer have legs?,Yes
+309,Can a deer fly?,No
+310,Does a deer have four legs?,Yes
+311,Can a deer climb?,No
+312,Is a deer a carnivore?,No
+313,Is a deer an herbivore?,Yes
+314,Is a deer an omnivore?,No
+315,Does a deer have bones?,Yes
+316,Does a deer have a beak?,No
+317,Does a deer have teeth?,Yes
+318,Does a deer have feathers?,No
+319,Does a deer have horns?,Yes
+320,Does a deer have hooves?,Yes
+321,Does a deer have claws?,No
+322,Is a deer cold-blooded?,No
+323,Is a deer warm-blooded?,Yes
+324,Does a dolphin live underwater?,Yes
+325,Does a dolphin have wings?,No
+326,Does a dolphin drink water?,No
+327,Does a dolphin drink coffee?,No
+328,Does a dolphin eat meat?,No
+329,Does a dolphin have fins?,Yes
+330,Does a dolphin have scales?,No
+331,Does a dolphin have fur?,No
+332,Does a dolphin have hair?,No
+333,Does a dolphin have a tail?,Yes
+334,Does a dolphin have two legs?,No
+335,Does a dolphin have legs?,No
+336,Can a dolphin fly?,No
+337,Does a dolphin have four legs?,No
+338,Can a dolphin climb?,No
+339,Is a dolphin a carnivore?,Yes
+340,Is a dolphin an herbivore?,No
+341,Is a dolphin an omnivore?,No
+342,Does a dolphin have bones?,Yes
+343,Does a dolphin have a beak?,No
+344,Does a dolphin have teeth?,Yes
+345,Does a dolphin have feathers?,No
+346,Does a dolphin have horns?,No
+347,Does a dolphin have hooves?,No
+348,Does a dolphin have claws?,No
+349,Is a dolphin cold-blooded?,No
+350,Is a dolphin warm-blooded?,Yes
+351,Does a duck live underwater?,No
+352,Does a duck have wings?,Yes
+353,Does a duck drink water?,Yes
+354,Does a duck drink coffee?,No
+355,Does a duck eat meat?,No
+356,Does a duck have fins?,No
+357,Does a duck have scales?,No
+358,Does a duck have fur?,No
+359,Does a duck have hair?,No
+360,Does a duck have a tail?,Yes
+361,Does a duck have two legs?,Yes
+362,Does a duck have legs?,Yes
+363,Can a duck fly?,No
+364,Does a duck have four legs?,No
+365,Can a duck climb?,No
+366,Is a duck a carnivore?,No
+367,Is a duck an herbivore?,No
+368,Is a duck an omnivore?,Yes
+369,Does a duck have bones?,Yes
+370,Does a duck have a beak?,Yes
+371,Does a duck have teeth?,No
+372,Does a duck have feathers?,Yes
+373,Does a duck have horns?,No
+374,Does a duck have hooves?,No
+375,Does a duck have claws?,Yes
+376,Is a duck cold-blooded?,No
+377,Is a duck warm-blooded?,Yes
+378,Does a eagle live underwater?,No
+379,Does a eagle have wings?,Yes
+380,Does a eagle drink water?,Yes
+381,Does a eagle drink coffee?,No
+382,Does a eagle eat meat?,Yes
+383,Does a eagle have fins?,No
+384,Does a eagle have scales?,No
+385,Does a eagle have fur?,No
+386,Does a eagle have hair?,No
+387,Does a eagle have a tail?,Yes
+388,Does a eagle have two legs?,Yes
+389,Does a eagle have legs?,Yes
+390,Can a eagle fly?,Yes
+391,Does a eagle have four legs?,No
+392,Can a eagle climb?,Yes
+393,Is a eagle a carnivore?,Yes
+394,Is a eagle an herbivore?,No
+395,Is a eagle an omnivore?,No
+396,Does a eagle have bones?,Yes
+397,Does a eagle have a beak?,Yes
+398,Does a eagle have teeth?,No
+399,Does a eagle have feathers?,Yes
+400,Does a eagle have horns?,No
+401,Does a eagle have hooves?,No
+402,Does a eagle have claws?,Yes
+403,Is a eagle cold-blooded?,No
+404,Is a eagle warm-blooded?,Yes
+405,Does a eel live underwater?,Yes
+406,Does a eel have wings?,No
+407,Does a eel drink water?,No
+408,Does a eel drink coffee?,No
+409,Does a eel eat meat?,No
+410,Does a eel have fins?,Yes
+411,Does a eel have scales?,Yes
+412,Does a eel have fur?,No
+413,Does a eel have hair?,No
+414,Does a eel have a tail?,Yes
+415,Does a eel have two legs?,No
+416,Does a eel have legs?,No
+417,Can a eel fly?,No
+418,Does a eel have four legs?,No
+419,Can a eel climb?,No
+420,Is a eel a carnivore?,Yes
+421,Is a eel an herbivore?,No
+422,Is a eel an omnivore?,No
+423,Does a eel have bones?,Yes
+424,Does a eel have a beak?,No
+425,Does a eel have teeth?,Yes
+426,Does a eel have feathers?,No
+427,Does a eel have horns?,No
+428,Does a eel have hooves?,No
+429,Does a eel have claws?,No
+430,Is a eel cold-blooded?,Yes
+431,Is a eel warm-blooded?,No
+432,Does a fish live underwater?,Yes
+433,Does a fish have wings?,No
+434,Does a fish drink water?,No
+435,Does a fish drink coffee?,No
+436,Does a fish eat meat?,No
+437,Does a fish have fins?,Yes
+438,Does a fish have scales?,Yes
+439,Does a fish have fur?,No
+440,Does a fish have hair?,No
+441,Does a fish have a tail?,Yes
+442,Does a fish have two legs?,No
+443,Does a fish have legs?,No
+444,Can a fish fly?,No
+445,Does a fish have four legs?,No
+446,Can a fish climb?,No
+447,Is a fish a carnivore?,No
+448,Is a fish an herbivore?,No
+449,Is a fish an omnivore?,Yes
+450,Does a fish have bones?,Yes
+451,Does a fish have a beak?,No
+452,Does a fish have teeth?,Yes
+453,Does a fish have feathers?,No
+454,Does a fish have horns?,No
+455,Does a fish have hooves?,No
+456,Does a fish have claws?,No
+457,Is a fish cold-blooded?,Yes
+458,Is a fish warm-blooded?,No
+459,Does a flamingo live underwater?,No
+460,Does a flamingo have wings?,Yes
+461,Does a flamingo drink water?,Yes
+462,Does a flamingo drink coffee?,No
+463,Does a flamingo eat meat?,No
+464,Does a flamingo have fins?,No
+465,Does a flamingo have scales?,No
+466,Does a flamingo have fur?,No
+467,Does a flamingo have hair?,No
+468,Does a flamingo have a tail?,Yes
+469,Does a flamingo have two legs?,Yes
+470,Does a flamingo have legs?,Yes
+471,Can a flamingo fly?,Yes
+472,Does a flamingo have four legs?,No
+473,Can a flamingo climb?,No
+474,Is a flamingo a carnivore?,No
+475,Is a flamingo an herbivore?,No
+476,Is a flamingo an omnivore?,Yes
+477,Does a flamingo have bones?,Yes
+478,Does a flamingo have a beak?,Yes
+479,Does a flamingo have teeth?,No
+480,Does a flamingo have feathers?,Yes
+481,Does a flamingo have horns?,No
+482,Does a flamingo have hooves?,No
+483,Does a flamingo have claws?,Yes
+484,Is a flamingo cold-blooded?,No
+485,Is a flamingo warm-blooded?,Yes
+486,Does a fox live underwater?,No
+487,Does a fox have wings?,No
+488,Does a fox drink water?,Yes
+489,Does a fox drink coffee?,No
+490,Does a fox eat meat?,Yes
+491,Does a fox have fins?,No
+492,Does a fox have scales?,No
+493,Does a fox have fur?,Yes
+494,Does a fox have hair?,Yes
+495,Does a fox have a tail?,Yes
+496,Does a fox have two legs?,No
+497,Does a fox have legs?,Yes
+498,Can a fox fly?,No
+499,Does a fox have four legs?,Yes
+500,Can a fox climb?,Yes
+501,Is a fox a carnivore?,No
+502,Is a fox an herbivore?,No
+503,Is a fox an omnivore?,Yes
+504,Does a fox have bones?,Yes
+505,Does a fox have a beak?,No
+506,Does a fox have teeth?,Yes
+507,Does a fox have feathers?,No
+508,Does a fox have horns?,No
+509,Does a fox have hooves?,No
+510,Does a fox have claws?,Yes
+511,Is a fox cold-blooded?,No
+512,Is a fox warm-blooded?,Yes
+513,Does a goat live underwater?,No
+514,Does a goat have wings?,No
+515,Does a goat drink water?,Yes
+516,Does a goat drink coffee?,No
+517,Does a goat eat meat?,No
+518,Does a goat have fins?,No
+519,Does a goat have scales?,No
+520,Does a goat have fur?,Yes
+521,Does a goat have hair?,Yes
+522,Does a goat have a tail?,Yes
+523,Does a goat have two legs?,No
+524,Does a goat have legs?,Yes
+525,Can a goat fly?,No
+526,Does a goat have four legs?,Yes
+527,Can a goat climb?,No
+528,Is a goat a carnivore?,No
+529,Is a goat an herbivore?,Yes
+530,Is a goat an omnivore?,No
+531,Does a goat have bones?,Yes
+532,Does a goat have a beak?,No
+533,Does a goat have teeth?,Yes
+534,Does a goat have feathers?,No
+535,Does a goat have horns?,Yes
+536,Does a goat have hooves?,Yes
+537,Does a goat have claws?,No
+538,Is a goat cold-blooded?,No
+539,Is a goat warm-blooded?,Yes
+540,Does a gorilla live underwater?,No
+541,Does a gorilla have wings?,No
+542,Does a gorilla drink water?,Yes
+543,Does a gorilla drink coffee?,No
+544,Does a gorilla eat meat?,No
+545,Does a gorilla have fins?,No
+546,Does a gorilla have scales?,No
+547,Does a gorilla have fur?,Yes
+548,Does a gorilla have hair?,Yes
+549,Does a gorilla have a tail?,No
+550,Does a gorilla have two legs?,No
+551,Does a gorilla have legs?,Yes
+552,Can a gorilla fly?,No
+553,Does a gorilla have four legs?,No
+554,Can a gorilla climb?,Yes
+555,Is a gorilla a carnivore?,No
+556,Is a gorilla an herbivore?,Yes
+557,Is a gorilla an omnivore?,No
+558,Does a gorilla have bones?,Yes
+559,Does a gorilla have a beak?,No
+560,Does a gorilla have teeth?,Yes
+561,Does a gorilla have feathers?,No
+562,Does a gorilla have horns?,No
+563,Does a gorilla have hooves?,No
+564,Does a gorilla have claws?,No
+565,Is a gorilla cold-blooded?,No
+566,Is a gorilla warm-blooded?,Yes
+567,Does a horse live underwater?,No
+568,Does a horse have wings?,No
+569,Does a horse drink water?,Yes
+570,Does a horse drink coffee?,No
+571,Does a horse eat meat?,No
+572,Does a horse have fins?,No
+573,Does a horse have scales?,No
+574,Does a horse have fur?,Yes
+575,Does a horse have hair?,Yes
+576,Does a horse have a tail?,Yes
+577,Does a horse have two legs?,No
+578,Does a horse have legs?,Yes
+579,Can a horse fly?,No
+580,Does a horse have four legs?,Yes
+581,Can a horse climb?,No
+582,Is a horse a carnivore?,No
+583,Is a horse an herbivore?,Yes
+584,Is a horse an omnivore?,No
+585,Does a horse have bones?,Yes
+586,Does a horse have a beak?,No
+587,Does a horse have teeth?,Yes
+588,Does a horse have feathers?,No
+589,Does a horse have horns?,No
+590,Does a horse have hooves?,Yes
+591,Does a horse have claws?,No
+592,Is a horse cold-blooded?,No
+593,Is a horse warm-blooded?,Yes
+594,Does a herring live underwater?,Yes
+595,Does a herring have wings?,No
+596,Does a herring drink water?,No
+597,Does a herring drink coffee?,No
+598,Does a herring eat meat?,No
+599,Does a herring have fins?,Yes
+600,Does a herring have scales?,Yes
+601,Does a herring have fur?,No
+602,Does a herring have hair?,No
+603,Does a herring have a tail?,Yes
+604,Does a herring have two legs?,No
+605,Does a herring have legs?,No
+606,Can a herring fly?,No
+607,Does a herring have four legs?,No
+608,Can a herring climb?,No
+609,Is a herring a carnivore?,Yes
+610,Is a herring an herbivore?,No
+611,Is a herring an omnivore?,No
+612,Does a herring have bones?,Yes
+613,Does a herring have a beak?,No
+614,Does a herring have teeth?,Yes
+615,Does a herring have feathers?,No
+616,Does a herring have horns?,No
+617,Does a herring have hooves?,No
+618,Does a herring have claws?,No
+619,Is a herring cold-blooded?,Yes
+620,Is a herring warm-blooded?,No
+621,Does a hippo live underwater?,No
+622,Does a hippo have wings?,No
+623,Does a hippo drink water?,Yes
+624,Does a hippo drink coffee?,No
+625,Does a hippo eat meat?,No
+626,Does a hippo have fins?,No
+627,Does a hippo have scales?,No
+628,Does a hippo have fur?,No
+629,Does a hippo have hair?,No
+630,Does a hippo have a tail?,Yes
+631,Does a hippo have two legs?,No
+632,Does a hippo have legs?,Yes
+633,Can a hippo fly?,No
+634,Does a hippo have four legs?,Yes
+635,Can a hippo climb?,No
+636,Is a hippo a carnivore?,No
+637,Is a hippo an herbivore?,Yes
+638,Is a hippo an omnivore?,No
+639,Does a hippo have bones?,Yes
+640,Does a hippo have a beak?,No
+641,Does a hippo have teeth?,Yes
+642,Does a hippo have feathers?,No
+643,Does a hippo have horns?,No
+644,Does a hippo have hooves?,Yes
+645,Does a hippo have claws?,No
+646,Is a hippo cold-blooded?,No
+647,Is a hippo warm-blooded?,Yes
+648,Does a iguana live underwater?,No
+649,Does a iguana have wings?,No
+650,Does a iguana drink water?,Yes
+651,Does a iguana drink coffee?,No
+652,Does a iguana eat meat?,No
+653,Does a iguana have fins?,No
+654,Does a iguana have scales?,No
+655,Does a iguana have fur?,No
+656,Does a iguana have hair?,No
+657,Does a iguana have a tail?,Yes
+658,Does a iguana have two legs?,No
+659,Does a iguana have legs?,Yes
+660,Can a iguana fly?,No
+661,Does a iguana have four legs?,Yes
+662,Can a iguana climb?,Yes
+663,Is a iguana a carnivore?,No
+664,Is a iguana an herbivore?,No
+665,Is a iguana an omnivore?,Yes
+666,Does a iguana have bones?,Yes
+667,Does a iguana have a beak?,No
+668,Does a iguana have teeth?,Yes
+669,Does a iguana have feathers?,No
+670,Does a iguana have horns?,No
+671,Does a iguana have hooves?,No
+672,Does a iguana have claws?,Yes
+673,Is a iguana cold-blooded?,Yes
+674,Is a iguana warm-blooded?,No
+675,Does a jellyfish live underwater?,Yes
+676,Does a jellyfish have wings?,No
+677,Does a jellyfish drink water?,No
+678,Does a jellyfish drink coffee?,No
+679,Does a jellyfish eat meat?,No
+680,Does a jellyfish have fins?,No
+681,Does a jellyfish have scales?,No
+682,Does a jellyfish have fur?,No
+683,Does a jellyfish have hair?,No
+684,Does a jellyfish have a tail?,No
+685,Does a jellyfish have two legs?,No
+686,Does a jellyfish have legs?,No
+687,Can a jellyfish fly?,No
+688,Does a jellyfish have four legs?,No
+689,Can a jellyfish climb?,No
+690,Is a jellyfish a carnivore?,Yes
+691,Is a jellyfish an herbivore?,No
+692,Is a jellyfish an omnivore?,No
+693,Does a jellyfish have bones?,No
+694,Does a jellyfish have a beak?,No
+695,Does a jellyfish have teeth?,No
+696,Does a jellyfish have feathers?,No
+697,Does a jellyfish have horns?,No
+698,Does a jellyfish have hooves?,No
+699,Does a jellyfish have claws?,No
+700,Is a jellyfish cold-blooded?,Yes
+701,Is a jellyfish warm-blooded?,No
+702,Does a koala live underwater?,No
+703,Does a koala have wings?,No
+704,Does a koala drink water?,Yes
+705,Does a koala drink coffee?,No
+706,Does a koala eat meat?,No
+707,Does a koala have fins?,No
+708,Does a koala have scales?,No
+709,Does a koala have fur?,Yes
+710,Does a koala have hair?,Yes
+711,Does a koala have a tail?,Yes
+712,Does a koala have two legs?,No
+713,Does a koala have legs?,Yes
+714,Can a koala fly?,No
+715,Does a koala have four legs?,No
+716,Can a koala climb?,Yes
+717,Is a koala a carnivore?,No
+718,Is a koala an herbivore?,Yes
+719,Is a koala an omnivore?,No
+720,Does a koala have bones?,Yes
+721,Does a koala have a beak?,No
+722,Does a koala have teeth?,Yes
+723,Does a koala have feathers?,No
+724,Does a koala have horns?,No
+725,Does a koala have hooves?,No
+726,Does a koala have claws?,Yes
+727,Is a koala cold-blooded?,No
+728,Is a koala warm-blooded?,Yes
+729,Does a kangaroo live underwater?,No
+730,Does a kangaroo have wings?,No
+731,Does a kangaroo drink water?,Yes
+732,Does a kangaroo drink coffee?,No
+733,Does a kangaroo eat meat?,No
+734,Does a kangaroo have fins?,No
+735,Does a kangaroo have scales?,No
+736,Does a kangaroo have fur?,Yes
+737,Does a kangaroo have hair?,Yes
+738,Does a kangaroo have a tail?,Yes
+739,Does a kangaroo have two legs?,Yes
+740,Does a kangaroo have legs?,Yes
+741,Can a kangaroo fly?,No
+742,Does a kangaroo have four legs?,No
+743,Can a kangaroo climb?,No
+744,Is a kangaroo a carnivore?,No
+745,Is a kangaroo an herbivore?,Yes
+746,Is a kangaroo an omnivore?,No
+747,Does a kangaroo have bones?,Yes
+748,Does a kangaroo have a beak?,No
+749,Does a kangaroo have teeth?,Yes
+750,Does a kangaroo have feathers?,No
+751,Does a kangaroo have horns?,No
+752,Does a kangaroo have hooves?,No
+753,Does a kangaroo have claws?,Yes
+754,Is a kangaroo cold-blooded?,No
+755,Is a kangaroo warm-blooded?,Yes
+756,Does a lizard live underwater?,No
+757,Does a lizard have wings?,No
+758,Does a lizard drink water?,Yes
+759,Does a lizard drink coffee?,No
+760,Does a lizard eat meat?,No
+761,Does a lizard have fins?,No
+762,Does a lizard have scales?,No
+763,Does a lizard have fur?,No
+764,Does a lizard have hair?,No
+765,Does a lizard have a tail?,Yes
+766,Does a lizard have two legs?,No
+767,Does a lizard have legs?,Yes
+768,Can a lizard fly?,No
+769,Does a lizard have four legs?,Yes
+770,Can a lizard climb?,Yes
+771,Is a lizard a carnivore?,No
+772,Is a lizard an herbivore?,No
+773,Is a lizard an omnivore?,Yes
+774,Does a lizard have bones?,Yes
+775,Does a lizard have a beak?,No
+776,Does a lizard have teeth?,Yes
+777,Does a lizard have feathers?,No
+778,Does a lizard have horns?,No
+779,Does a lizard have hooves?,No
+780,Does a lizard have claws?,Yes
+781,Is a lizard cold-blooded?,Yes
+782,Is a lizard warm-blooded?,No
+783,Does a monkey live underwater?,No
+784,Does a monkey have wings?,No
+785,Does a monkey drink water?,Yes
+786,Does a monkey drink coffee?,No
+787,Does a monkey eat meat?,No
+788,Does a monkey have fins?,No
+789,Does a monkey have scales?,No
+790,Does a monkey have fur?,Yes
+791,Does a monkey have hair?,Yes
+792,Does a monkey have a tail?,Yes
+793,Does a monkey have two legs?,No
+794,Does a monkey have legs?,Yes
+795,Can a monkey fly?,No
+796,Does a monkey have four legs?,No
+797,Can a monkey climb?,Yes
+798,Is a monkey a carnivore?,No
+799,Is a monkey an herbivore?,Yes
+800,Is a monkey an omnivore?,No
+801,Does a monkey have bones?,Yes
+802,Does a monkey have a beak?,No
+803,Does a monkey have teeth?,Yes
+804,Does a monkey have feathers?,No
+805,Does a monkey have horns?,No
+806,Does a monkey have hooves?,No
+807,Does a monkey have claws?,No
+808,Is a monkey cold-blooded?,No
+809,Is a monkey warm-blooded?,Yes
+810,Does a mule live underwater?,No
+811,Does a mule have wings?,No
+812,Does a mule drink water?,Yes
+813,Does a mule drink coffee?,No
+814,Does a mule eat meat?,No
+815,Does a mule have fins?,No
+816,Does a mule have scales?,No
+817,Does a mule have fur?,Yes
+818,Does a mule have hair?,Yes
+819,Does a mule have a tail?,Yes
+820,Does a mule have two legs?,No
+821,Does a mule have legs?,Yes
+822,Can a mule fly?,No
+823,Does a mule have four legs?,Yes
+824,Can a mule climb?,No
+825,Is a mule a carnivore?,No
+826,Is a mule an herbivore?,Yes
+827,Is a mule an omnivore?,No
+828,Does a mule have bones?,Yes
+829,Does a mule have a beak?,No
+830,Does a mule have teeth?,Yes
+831,Does a mule have feathers?,No
+832,Does a mule have horns?,No
+833,Does a mule have hooves?,Yes
+834,Does a mule have claws?,No
+835,Is a mule cold-blooded?,No
+836,Is a mule warm-blooded?,Yes
+837,Does a octupus live underwater?,Yes
+838,Does a octupus have wings?,No
+839,Does a octupus drink water?,No
+840,Does a octupus drink coffee?,No
+841,Does a octupus eat meat?,No
+842,Does a octupus have fins?,No
+843,Does a octupus have scales?,No
+844,Does a octupus have fur?,No
+845,Does a octupus have hair?,No
+846,Does a octupus have a tail?,No
+847,Does a octupus have two legs?,No
+848,Does a octupus have legs?,Yes
+849,Can a octupus fly?,No
+850,Does a octupus have four legs?,No
+851,Can a octupus climb?,No
+852,Is a octupus a carnivore?,Yes
+853,Is a octupus an herbivore?,No
+854,Is a octupus an omnivore?,No
+855,Does a octupus have bones?,No
+856,Does a octupus have a beak?,No
+857,Does a octupus have teeth?,Yes
+858,Does a octupus have feathers?,No
+859,Does a octupus have horns?,No
+860,Does a octupus have hooves?,No
+861,Does a octupus have claws?,No
+862,Is a octupus cold-blooded?,Yes
+863,Is a octupus warm-blooded?,No
+864,Does a otter live underwater?,No
+865,Does a otter have wings?,No
+866,Does a otter drink water?,Yes
+867,Does a otter drink coffee?,No
+868,Does a otter eat meat?,Yes
+869,Does a otter have fins?,No
+870,Does a otter have scales?,No
+871,Does a otter have fur?,Yes
+872,Does a otter have hair?,Yes
+873,Does a otter have a tail?,Yes
+874,Does a otter have two legs?,No
+875,Does a otter have legs?,Yes
+876,Can a otter fly?,No
+877,Does a otter have four legs?,Yes
+878,Can a otter climb?,No
+879,Is a otter a carnivore?,Yes
+880,Is a otter an herbivore?,No
+881,Is a otter an omnivore?,No
+882,Does a otter have bones?,Yes
+883,Does a otter have a beak?,No
+884,Does a otter have teeth?,Yes
+885,Does a otter have feathers?,No
+886,Does a otter have horns?,No
+887,Does a otter have hooves?,No
+888,Does a otter have claws?,Yes
+889,Is a otter cold-blooded?,No
+890,Is a otter warm-blooded?,Yes
+891,Does a parrot live underwater?,No
+892,Does a parrot have wings?,Yes
+893,Does a parrot drink water?,Yes
+894,Does a parrot drink coffee?,No
+895,Does a parrot eat meat?,No
+896,Does a parrot have fins?,No
+897,Does a parrot have scales?,No
+898,Does a parrot have fur?,No
+899,Does a parrot have hair?,No
+900,Does a parrot have a tail?,Yes
+901,Does a parrot have two legs?,Yes
+902,Does a parrot have legs?,Yes
+903,Can a parrot fly?,Yes
+904,Does a parrot have four legs?,No
+905,Can a parrot climb?,Yes
+906,Is a parrot a carnivore?,No
+907,Is a parrot an herbivore?,Yes
+908,Is a parrot an omnivore?,No
+909,Does a parrot have bones?,Yes
+910,Does a parrot have a beak?,Yes
+911,Does a parrot have teeth?,No
+912,Does a parrot have feathers?,Yes
+913,Does a parrot have horns?,No
+914,Does a parrot have hooves?,No
+915,Does a parrot have claws?,Yes
+916,Is a parrot cold-blooded?,No
+917,Is a parrot warm-blooded?,Yes
+918,Does a penguin live underwater?,No
+919,Does a penguin have wings?,Yes
+920,Does a penguin drink water?,Yes
+921,Does a penguin drink coffee?,No
+922,Does a penguin eat meat?,Yes
+923,Does a penguin have fins?,No
+924,Does a penguin have scales?,No
+925,Does a penguin have fur?,Yes
+926,Does a penguin have hair?,Yes
+927,Does a penguin have a tail?,Yes
+928,Does a penguin have two legs?,Yes
+929,Does a penguin have legs?,Yes
+930,Can a penguin fly?,No
+931,Does a penguin have four legs?,No
+932,Can a penguin climb?,No
+933,Is a penguin a carnivore?,Yes
+934,Is a penguin an herbivore?,No
+935,Is a penguin an omnivore?,No
+936,Does a penguin have bones?,Yes
+937,Does a penguin have a beak?,Yes
+938,Does a penguin have teeth?,No
+939,Does a penguin have feathers?,No
+940,Does a penguin have horns?,No
+941,Does a penguin have hooves?,No
+942,Does a penguin have claws?,Yes
+943,Is a penguin cold-blooded?,No
+944,Is a penguin warm-blooded?,Yes
+945,Does a pig live underwater?,No
+946,Does a pig have wings?,No
+947,Does a pig drink water?,Yes
+948,Does a pig drink coffee?,No
+949,Does a pig eat meat?,No
+950,Does a pig have fins?,No
+951,Does a pig have scales?,No
+952,Does a pig have fur?,No
+953,Does a pig have hair?,No
+954,Does a pig have a tail?,Yes
+955,Does a pig have two legs?,No
+956,Does a pig have legs?,Yes
+957,Can a pig fly?,No
+958,Does a pig have four legs?,Yes
+959,Can a pig climb?,No
+960,Is a pig a carnivore?,No
+961,Is a pig an herbivore?,Yes
+962,Is a pig an omnivore?,No
+963,Does a pig have bones?,Yes
+964,Does a pig have a beak?,No
+965,Does a pig have teeth?,Yes
+966,Does a pig have feathers?,No
+967,Does a pig have horns?,No
+968,Does a pig have hooves?,Yes
+969,Does a pig have claws?,No
+970,Is a pig cold-blooded?,No
+971,Is a pig warm-blooded?,Yes
+972,Does a peacock live underwater?,No
+973,Does a peacock have wings?,Yes
+974,Does a peacock drink water?,Yes
+975,Does a peacock drink coffee?,No
+976,Does a peacock eat meat?,No
+977,Does a peacock have fins?,No
+978,Does a peacock have scales?,No
+979,Does a peacock have fur?,No
+980,Does a peacock have hair?,No
+981,Does a peacock have a tail?,Yes
+982,Does a peacock have two legs?,Yes
+983,Does a peacock have legs?,Yes
+984,Can a peacock fly?,Yes
+985,Does a peacock have four legs?,No
+986,Can a peacock climb?,Yes
+987,Is a peacock a carnivore?,No
+988,Is a peacock an herbivore?,Yes
+989,Is a peacock an omnivore?,No
+990,Does a peacock have bones?,Yes
+991,Does a peacock have a beak?,Yes
+992,Does a peacock have teeth?,No
+993,Does a peacock have feathers?,Yes
+994,Does a peacock have horns?,No
+995,Does a peacock have hooves?,No
+996,Does a peacock have claws?,Yes
+997,Is a peacock cold-blooded?,No
+998,Is a peacock warm-blooded?,Yes
+999,Does a pigeon live underwater?,No
+1000,Does a pigeon have wings?,Yes
+1001,Does a pigeon drink water?,Yes
+1002,Does a pigeon drink coffee?,No
+1003,Does a pigeon eat meat?,No
+1004,Does a pigeon have fins?,No
+1005,Does a pigeon have scales?,No
+1006,Does a pigeon have fur?,No
+1007,Does a pigeon have hair?,No
+1008,Does a pigeon have a tail?,Yes
+1009,Does a pigeon have two legs?,Yes
+1010,Does a pigeon have legs?,Yes
+1011,Can a pigeon fly?,Yes
+1012,Does a pigeon have four legs?,No
+1013,Can a pigeon climb?,Yes
+1014,Is a pigeon a carnivore?,No
+1015,Is a pigeon an herbivore?,Yes
+1016,Is a pigeon an omnivore?,No
+1017,Does a pigeon have bones?,Yes
+1018,Does a pigeon have a beak?,Yes
+1019,Does a pigeon have teeth?,No
+1020,Does a pigeon have feathers?,Yes
+1021,Does a pigeon have horns?,No
+1022,Does a pigeon have hooves?,No
+1023,Does a pigeon have claws?,Yes
+1024,Is a pigeon cold-blooded?,No
+1025,Is a pigeon warm-blooded?,Yes
+1026,Does a prawn live underwater?,Yes
+1027,Does a prawn have wings?,No
+1028,Does a prawn drink water?,No
+1029,Does a prawn drink coffee?,No
+1030,Does a prawn eat meat?,No
+1031,Does a prawn have fins?,Yes
+1032,Does a prawn have scales?,No
+1033,Does a prawn have fur?,No
+1034,Does a prawn have hair?,No
+1035,Does a prawn have a tail?,Yes
+1036,Does a prawn have two legs?,No
+1037,Does a prawn have legs?,Yes
+1038,Can a prawn fly?,No
+1039,Does a prawn have four legs?,No
+1040,Can a prawn climb?,No
+1041,Is a prawn a carnivore?,No
+1042,Is a prawn an herbivore?,Yes
+1043,Is a prawn an omnivore?,No
+1044,Does a prawn have bones?,No
+1045,Does a prawn have a beak?,No
+1046,Does a prawn have teeth?,No
+1047,Does a prawn have feathers?,No
+1048,Does a prawn have horns?,No
+1049,Does a prawn have hooves?,No
+1050,Does a prawn have claws?,No
+1051,Is a prawn cold-blooded?,Yes
+1052,Is a prawn warm-blooded?,No
+1053,Does a rabbit live underwater?,No
+1054,Does a rabbit have wings?,No
+1055,Does a rabbit drink water?,Yes
+1056,Does a rabbit drink coffee?,No
+1057,Does a rabbit eat meat?,No
+1058,Does a rabbit have fins?,No
+1059,Does a rabbit have scales?,No
+1060,Does a rabbit have fur?,Yes
+1061,Does a rabbit have hair?,Yes
+1062,Does a rabbit have a tail?,Yes
+1063,Does a rabbit have two legs?,No
+1064,Does a rabbit have legs?,Yes
+1065,Can a rabbit fly?,No
+1066,Does a rabbit have four legs?,Yes
+1067,Can a rabbit climb?,No
+1068,Is a rabbit a carnivore?,No
+1069,Is a rabbit an herbivore?,Yes
+1070,Is a rabbit an omnivore?,No
+1071,Does a rabbit have bones?,Yes
+1072,Does a rabbit have a beak?,No
+1073,Does a rabbit have teeth?,Yes
+1074,Does a rabbit have feathers?,No
+1075,Does a rabbit have horns?,No
+1076,Does a rabbit have hooves?,No
+1077,Does a rabbit have claws?,Yes
+1078,Is a rabbit cold-blooded?,No
+1079,Is a rabbit warm-blooded?,Yes
+1080,Does a rat live underwater?,No
+1081,Does a rat have wings?,No
+1082,Does a rat drink water?,Yes
+1083,Does a rat drink coffee?,No
+1084,Does a rat eat meat?,No
+1085,Does a rat have fins?,No
+1086,Does a rat have scales?,No
+1087,Does a rat have fur?,Yes
+1088,Does a rat have hair?,Yes
+1089,Does a rat have a tail?,Yes
+1090,Does a rat have two legs?,No
+1091,Does a rat have legs?,Yes
+1092,Can a rat fly?,No
+1093,Does a rat have four legs?,Yes
+1094,Can a rat climb?,Yes
+1095,Is a rat a carnivore?,No
+1096,Is a rat an herbivore?,Yes
+1097,Is a rat an omnivore?,No
+1098,Does a rat have bones?,Yes
+1099,Does a rat have a beak?,No
+1100,Does a rat have teeth?,Yes
+1101,Does a rat have feathers?,No
+1102,Does a rat have horns?,No
+1103,Does a rat have hooves?,No
+1104,Does a rat have claws?,Yes
+1105,Is a rat cold-blooded?,No
+1106,Is a rat warm-blooded?,Yes
+1107,Does a shark live underwater?,Yes
+1108,Does a shark have wings?,No
+1109,Does a shark drink water?,No
+1110,Does a shark drink coffee?,No
+1111,Does a shark eat meat?,Yes
+1112,Does a shark have fins?,Yes
+1113,Does a shark have scales?,Yes
+1114,Does a shark have fur?,No
+1115,Does a shark have hair?,No
+1116,Does a shark have a tail?,Yes
+1117,Does a shark have two legs?,No
+1118,Does a shark have legs?,No
+1119,Can a shark fly?,No
+1120,Does a shark have four legs?,No
+1121,Can a shark climb?,No
+1122,Is a shark a carnivore?,Yes
+1123,Is a shark an herbivore?,No
+1124,Is a shark an omnivore?,No
+1125,Does a shark have bones?,Yes
+1126,Does a shark have a beak?,No
+1127,Does a shark have teeth?,Yes
+1128,Does a shark have feathers?,No
+1129,Does a shark have horns?,No
+1130,Does a shark have hooves?,No
+1131,Does a shark have claws?,No
+1132,Is a shark cold-blooded?,Yes
+1133,Is a shark warm-blooded?,No
+1134,Does a shrimp live underwater?,Yes
+1135,Does a shrimp have wings?,No
+1136,Does a shrimp drink water?,No
+1137,Does a shrimp drink coffee?,No
+1138,Does a shrimp eat meat?,No
+1139,Does a shrimp have fins?,Yes
+1140,Does a shrimp have scales?,No
+1141,Does a shrimp have fur?,No
+1142,Does a shrimp have hair?,No
+1143,Does a shrimp have a tail?,Yes
+1144,Does a shrimp have two legs?,No
+1145,Does a shrimp have legs?,Yes
+1146,Can a shrimp fly?,No
+1147,Does a shrimp have four legs?,No
+1148,Can a shrimp climb?,No
+1149,Is a shrimp a carnivore?,No
+1150,Is a shrimp an herbivore?,Yes
+1151,Is a shrimp an omnivore?,No
+1152,Does a shrimp have bones?,No
+1153,Does a shrimp have a beak?,No
+1154,Does a shrimp have teeth?,No
+1155,Does a shrimp have feathers?,No
+1156,Does a shrimp have horns?,No
+1157,Does a shrimp have hooves?,No
+1158,Does a shrimp have claws?,No
+1159,Is a shrimp cold-blooded?,Yes
+1160,Is a shrimp warm-blooded?,No
+1161,Does a sheep live underwater?,No
+1162,Does a sheep have wings?,No
+1163,Does a sheep drink water?,Yes
+1164,Does a sheep drink coffee?,No
+1165,Does a sheep eat meat?,No
+1166,Does a sheep have fins?,No
+1167,Does a sheep have scales?,No
+1168,Does a sheep have fur?,Yes
+1169,Does a sheep have hair?,Yes
+1170,Does a sheep have a tail?,Yes
+1171,Does a sheep have two legs?,No
+1172,Does a sheep have legs?,Yes
+1173,Can a sheep fly?,No
+1174,Does a sheep have four legs?,Yes
+1175,Can a sheep climb?,No
+1176,Is a sheep a carnivore?,No
+1177,Is a sheep an herbivore?,Yes
+1178,Is a sheep an omnivore?,No
+1179,Does a sheep have bones?,Yes
+1180,Does a sheep have a beak?,No
+1181,Does a sheep have teeth?,Yes
+1182,Does a sheep have feathers?,No
+1183,Does a sheep have horns?,Yes
+1184,Does a sheep have hooves?,Yes
+1185,Does a sheep have claws?,No
+1186,Is a sheep cold-blooded?,No
+1187,Is a sheep warm-blooded?,Yes
+1188,Does a squid live underwater?,Yes
+1189,Does a squid have wings?,No
+1190,Does a squid drink water?,No
+1191,Does a squid drink coffee?,No
+1192,Does a squid eat meat?,No
+1193,Does a squid have fins?,No
+1194,Does a squid have scales?,No
+1195,Does a squid have fur?,No
+1196,Does a squid have hair?,No
+1197,Does a squid have a tail?,No
+1198,Does a squid have two legs?,No
+1199,Does a squid have legs?,Yes
+1200,Can a squid fly?,No
+1201,Does a squid have four legs?,No
+1202,Can a squid climb?,No
+1203,Is a squid a carnivore?,Yes
+1204,Is a squid an herbivore?,No
+1205,Is a squid an omnivore?,No
+1206,Does a squid have bones?,No
+1207,Does a squid have a beak?,No
+1208,Does a squid have teeth?,Yes
+1209,Does a squid have feathers?,No
+1210,Does a squid have horns?,No
+1211,Does a squid have hooves?,No
+1212,Does a squid have claws?,No
+1213,Is a squid cold-blooded?,Yes
+1214,Is a squid warm-blooded?,No
+1215,Does a swan live underwater?,No
+1216,Does a swan have wings?,Yes
+1217,Does a swan drink water?,Yes
+1218,Does a swan drink coffee?,No
+1219,Does a swan eat meat?,No
+1220,Does a swan have fins?,No
+1221,Does a swan have scales?,No
+1222,Does a swan have fur?,No
+1223,Does a swan have hair?,No
+1224,Does a swan have a tail?,Yes
+1225,Does a swan have two legs?,No
+1226,Does a swan have legs?,Yes
+1227,Can a swan fly?,Yes
+1228,Does a swan have four legs?,No
+1229,Can a swan climb?,No
+1230,Is a swan a carnivore?,No
+1231,Is a swan an herbivore?,No
+1232,Is a swan an omnivore?,Yes
+1233,Does a swan have bones?,Yes
+1234,Does a swan have a beak?,Yes
+1235,Does a swan have teeth?,No
+1236,Does a swan have feathers?,Yes
+1237,Does a swan have horns?,No
+1238,Does a swan have hooves?,No
+1239,Does a swan have claws?,Yes
+1240,Is a swan cold-blooded?,No
+1241,Is a swan warm-blooded?,Yes
+1242,Does a snake live underwater?,No
+1243,Does a snake have wings?,No
+1244,Does a snake drink water?,Yes
+1245,Does a snake drink coffee?,No
+1246,Does a snake eat meat?,Yes
+1247,Does a snake have fins?,No
+1248,Does a snake have scales?,No
+1249,Does a snake have fur?,No
+1250,Does a snake have hair?,No
+1251,Does a snake have a tail?,Yes
+1252,Does a snake have two legs?,No
+1253,Does a snake have legs?,No
+1254,Can a snake fly?,No
+1255,Does a snake have four legs?,No
+1256,Can a snake climb?,No
+1257,Is a snake a carnivore?,Yes
+1258,Is a snake an herbivore?,No
+1259,Is a snake an omnivore?,No
+1260,Does a snake have bones?,Yes
+1261,Does a snake have a beak?,No
+1262,Does a snake have teeth?,Yes
+1263,Does a snake have feathers?,No
+1264,Does a snake have horns?,No
+1265,Does a snake have hooves?,No
+1266,Does a snake have claws?,No
+1267,Is a snake cold-blooded?,Yes
+1268,Is a snake warm-blooded?,No
+1269,Does a tuna live underwater?,Yes
+1270,Does a tuna have wings?,No
+1271,Does a tuna drink water?,Yes
+1272,Does a tuna drink coffee?,No
+1273,Does a tuna eat meat?,No
+1274,Does a tuna have fins?,Yes
+1275,Does a tuna have scales?,Yes
+1276,Does a tuna have fur?,No
+1277,Does a tuna have hair?,No
+1278,Does a tuna have a tail?,Yes
+1279,Does a tuna have two legs?,No
+1280,Does a tuna have legs?,No
+1281,Can a tuna fly?,No
+1282,Does a tuna have four legs?,No
+1283,Can a tuna climb?,No
+1284,Is a tuna a carnivore?,Yes
+1285,Is a tuna an herbivore?,No
+1286,Is a tuna an omnivore?,No
+1287,Does a tuna have bones?,Yes
+1288,Does a tuna have a beak?,No
+1289,Does a tuna have teeth?,Yes
+1290,Does a tuna have feathers?,No
+1291,Does a tuna have horns?,No
+1292,Does a tuna have hooves?,No
+1293,Does a tuna have claws?,No
+1294,Is a tuna cold-blooded?,Yes
+1295,Is a tuna warm-blooded?,No
+1296,Does a wolf live underwater?,No
+1297,Does a wolf have wings?,No
+1298,Does a wolf drink water?,Yes
+1299,Does a wolf drink coffee?,No
+1300,Does a wolf eat meat?,Yes
+1301,Does a wolf have fins?,No
+1302,Does a wolf have scales?,No
+1303,Does a wolf have fur?,Yes
+1304,Does a wolf have hair?,Yes
+1305,Does a wolf have a tail?,Yes
+1306,Does a wolf have two legs?,No
+1307,Does a wolf have legs?,Yes
+1308,Can a wolf fly?,No
+1309,Does a wolf have four legs?,Yes
+1310,Can a wolf climb?,Yes
+1311,Is a wolf a carnivore?,No
+1312,Is a wolf an herbivore?,No
+1313,Is a wolf an omnivore?,Yes
+1314,Does a wolf have bones?,Yes
+1315,Does a wolf have a beak?,No
+1316,Does a wolf have teeth?,Yes
+1317,Does a wolf have feathers?,No
+1318,Does a wolf have horns?,No
+1319,Does a wolf have hooves?,No
+1320,Does a wolf have claws?,Yes
+1321,Is a wolf cold-blooded?,No
+1322,Is a wolf warm-blooded?,Yes
+1323,Does a zebra live underwater?,No
+1324,Does a zebra have wings?,No
+1325,Does a zebra drink water?,Yes
+1326,Does a zebra drink coffee?,No
+1327,Does a zebra eat meat?,No
+1328,Does a zebra have fins?,No
+1329,Does a zebra have scales?,No
+1330,Does a zebra have fur?,Yes
+1331,Does a zebra have hair?,Yes
+1332,Does a zebra have a tail?,Yes
+1333,Does a zebra have two legs?,No
+1334,Does a zebra have legs?,Yes
+1335,Can a zebra fly?,No
+1336,Does a zebra have four legs?,Yes
+1337,Can a zebra climb?,No
+1338,Is a zebra a carnivore?,No
+1339,Is a zebra an herbivore?,Yes
+1340,Is a zebra an omnivore?,No
+1341,Does a zebra have bones?,Yes
+1342,Does a zebra have a beak?,No
+1343,Does a zebra have teeth?,Yes
+1344,Does a zebra have feathers?,No
+1345,Does a zebra have horns?,No
+1346,Does a zebra have hooves?,Yes
+1347,Does a zebra have claws?,No
+1348,Is a zebra cold-blooded?,No
+1349,Is a zebra warm-blooded?,Yes
+1350,Does a frog live underwater?,No
+1351,Does a frog have wings?,No
+1352,Does a frog drink water?,No
+1353,Does a frog drink coffee?,No
+1354,Does a frog eat meat?,Yes
+1355,Does a frog have fins?,No
+1356,Does a frog have scales?,No
+1357,Does a frog have fur?,No
+1358,Does a frog have hair?,No
+1359,Does a frog have a tail?,No
+1360,Does a frog have two legs?,No
+1361,Does a frog have legs?,Yes
+1362,Can a frog fly?,No
+1363,Does a frog have four legs?,Yes
+1364,Can a frog climb?,Yes
+1365,Is a frog a carnivore?,Yes
+1366,Is a frog an herbivore?,No
+1367,Is a frog an omnivore?,Yes
+1368,Does a frog have bones?,Yes
+1369,Does a frog have a beak?,No
+1370,Does a frog have teeth?,Yes
+1371,Does a frog have feathers?,No
+1372,Does a frog have horns?,No
+1373,Does a frog have hooves?,No
+1374,Does a frog have claws?,No
+1375,Is a frog cold-blooded?,Yes
+1376,Is a frog warm-blooded?,No
+1377,Does a salamander live underwater?,No
+1378,Does a salamander have wings?,No
+1379,Does a salamander drink water?,No
+1380,Does a salamander drink coffee?,No
+1381,Does a salamander eat meat?,Yes
+1382,Does a salamander have fins?,No
+1383,Does a salamander have scales?,No
+1384,Does a salamander have fur?,No
+1385,Does a salamander have hair?,No
+1386,Does a salamander have a tail?,Yes
+1387,Does a salamander have two legs?,No
+1388,Does a salamander have legs?,Yes
+1389,Can a salamander fly?,No
+1390,Does a salamander have four legs?,Yes
+1391,Can a salamander climb?,Yes
+1392,Is a salamander a carnivore?,Yes
+1393,Is a salamander an herbivore?,No
+1394,Is a salamander an omnivore?,No
+1395,Does a salamander have bones?,Yes
+1396,Does a salamander have a beak?,No
+1397,Does a salamander have teeth?,Yes
+1398,Does a salamander have feathers?,No
+1399,Does a salamander have horns?,No
+1400,Does a salamander have hooves?,No
+1401,Does a salamander have claws?,No
+1402,Is a salamander cold-blooded?,Yes
+1403,Is a salamander warm-blooded?,No
+1404,Does a hummingbird live underwater?,No
+1405,Does a hummingbird have wings?,Yes
+1406,Does a hummingbird drink water?,Yes
+1407,Does a hummingbird drink coffee?,No
+1408,Does a hummingbird eat meat?,No
+1409,Does a hummingbird have fins?,No
+1410,Does a hummingbird have scales?,No
+1411,Does a hummingbird have fur?,No
+1412,Does a hummingbird have hair?,No
+1413,Does a hummingbird have a tail?,Yes
+1414,Does a hummingbird have two legs?,Yes
+1415,Does a hummingbird have legs?,Yes
+1416,Can a hummingbird fly?,Yes
+1417,Does a hummingbird have four legs?,No
+1418,Can a hummingbird climb?,Yes
+1419,Is a hummingbird a carnivore?,No
+1420,Is a hummingbird an herbivore?,Yes
+1421,Is a hummingbird an omnivore?,No
+1422,Does a hummingbird have bones?,Yes
+1423,Does a hummingbird have a beak?,Yes
+1424,Does a hummingbird have teeth?,No
+1425,Does a hummingbird have feathers?,Yes
+1426,Does a hummingbird have horns?,No
+1427,Does a hummingbird have hooves?,No
+1428,Does a hummingbird have claws?,Yes
+1429,Is a hummingbird cold-blooded?,No
+1430,Is a hummingbird warm-blooded?,Yes
+1431,Does a ostrich live underwater?,No
+1432,Does a ostrich have wings?,Yes
+1433,Does a ostrich drink water?,Yes
+1434,Does a ostrich drink coffee?,No
+1435,Does a ostrich eat meat?,No
+1436,Does a ostrich have fins?,No
+1437,Does a ostrich have scales?,No
+1438,Does a ostrich have fur?,No
+1439,Does a ostrich have hair?,No
+1440,Does a ostrich have a tail?,Yes
+1441,Does a ostrich have two legs?,Yes
+1442,Does a ostrich have legs?,Yes
+1443,Can a ostrich fly?,Yes
+1444,Does a ostrich have four legs?,No
+1445,Can a ostrich climb?,Yes
+1446,Is a ostrich a carnivore?,No
+1447,Is a ostrich an herbivore?,Yes
+1448,Is a ostrich an omnivore?,No
+1449,Does a ostrich have bones?,Yes
+1450,Does a ostrich have a beak?,Yes
+1451,Does a ostrich have teeth?,No
+1452,Does a ostrich have feathers?,Yes
+1453,Does a ostrich have horns?,No
+1454,Does a ostrich have hooves?,No
+1455,Does a ostrich have claws?,Yes
+1456,Is a ostrich cold-blooded?,No
+1457,Is a ostrich warm-blooded?,Yes
+1458,Does a owl live underwater?,No
+1459,Does a owl have wings?,Yes
+1460,Does a owl drink water?,Yes
+1461,Does a owl drink coffee?,No
+1462,Does a owl eat meat?,No
+1463,Does a owl have fins?,No
+1464,Does a owl have scales?,No
+1465,Does a owl have fur?,No
+1466,Does a owl have hair?,No
+1467,Does a owl have a tail?,Yes
+1468,Does a owl have two legs?,Yes
+1469,Does a owl have legs?,Yes
+1470,Can a owl fly?,Yes
+1471,Does a owl have four legs?,No
+1472,Can a owl climb?,Yes
+1473,Is a owl a carnivore?,No
+1474,Is a owl an herbivore?,Yes
+1475,Is a owl an omnivore?,No
+1476,Does a owl have bones?,Yes
+1477,Does a owl have a beak?,Yes
+1478,Does a owl have teeth?,No
+1479,Does a owl have feathers?,Yes
+1480,Does a owl have horns?,No
+1481,Does a owl have hooves?,No
+1482,Does a owl have claws?,Yes
+1483,Is a owl cold-blooded?,No
+1484,Is a owl warm-blooded?,Yes
+1485,Does a ray live underwater?,Yes
+1486,Does a ray have wings?,No
+1487,Does a ray drink water?,No
+1488,Does a ray drink coffee?,No
+1489,Does a ray eat meat?,Yes
+1490,Does a ray have fins?,No
+1491,Does a ray have scales?,No
+1492,Does a ray have fur?,No
+1493,Does a ray have hair?,No
+1494,Does a ray have a tail?,Yes
+1495,Does a ray have two legs?,No
+1496,Does a ray have legs?,No
+1497,Can a ray fly?,No
+1498,Does a ray have four legs?,No
+1499,Can a ray climb?,No
+1500,Is a ray a carnivore?,Yes
+1501,Is a ray an herbivore?,No
+1502,Is a ray an omnivore?,No
+1503,Does a ray have bones?,No
+1504,Does a ray have a beak?,No
+1505,Does a ray have teeth?,Yes
+1506,Does a ray have feathers?,No
+1507,Does a ray have horns?,No
+1508,Does a ray have hooves?,No
+1509,Does a ray have claws?,No
+1510,Is a ray cold-blooded?,Yes
+1511,Is a ray warm-blooded?,No
+1512,Does a whale live underwater?,Yes
+1513,Does a whale have wings?,No
+1514,Does a whale drink water?,No
+1515,Does a whale drink coffee?,No
+1516,Does a whale eat meat?,Yes
+1517,Does a whale have fins?,Yes
+1518,Does a whale have scales?,Yes
+1519,Does a whale have fur?,No
+1520,Does a whale have hair?,No
+1521,Does a whale have a tail?,Yes
+1522,Does a whale have two legs?,No
+1523,Does a whale have legs?,No
+1524,Can a whale fly?,No
+1525,Does a whale have four legs?,No
+1526,Can a whale climb?,No
+1527,Is a whale a carnivore?,Yes
+1528,Is a whale an herbivore?,No
+1529,Is a whale an omnivore?,No
+1530,Does a whale have bones?,Yes
+1531,Does a whale have a beak?,No
+1532,Does a whale have teeth?,Yes
+1533,Does a whale have feathers?,No
+1534,Does a whale have horns?,No
+1535,Does a whale have hooves?,No
+1536,Does a whale have claws?,No
+1537,Is a whale cold-blooded?,No
+1538,Is a whale warm-blooded?,Yes
+1539,Does a turtle live underwater?,No
+1540,Does a turtle have wings?,No
+1541,Does a turtle drink water?,Yes
+1542,Does a turtle drink coffee?,No
+1543,Does a turtle eat meat?,No
+1544,Does a turtle have fins?,No
+1545,Does a turtle have scales?,No
+1546,Does a turtle have fur?,No
+1547,Does a turtle have hair?,No
+1548,Does a turtle have a tail?,Yes
+1549,Does a turtle have two legs?,No
+1550,Does a turtle have legs?,Yes
+1551,Can a turtle fly?,No
+1552,Does a turtle have four legs?,Yes
+1553,Can a turtle climb?,No
+1554,Is a turtle a carnivore?,No
+1555,Is a turtle an herbivore?,Yes
+1556,Is a turtle an omnivore?,No
+1557,Does a turtle have bones?,Yes
+1558,Does a turtle have a beak?,No
+1559,Does a turtle have teeth?,No
+1560,Does a turtle have feathers?,No
+1561,Does a turtle have horns?,No
+1562,Does a turtle have hooves?,No
+1563,Does a turtle have claws?,Yes
+1564,Is a turtle cold-blooded?,Yes
+1565,Is a turtle warm-blooded?,No
+1566,Does a crocodile live underwater?,No
+1567,Does a crocodile have wings?,No
+1568,Does a crocodile drink water?,Yes
+1569,Does a crocodile drink coffee?,No
+1570,Does a crocodile eat meat?,Yes
+1571,Does a crocodile have fins?,No
+1572,Does a crocodile have scales?,Yes
+1573,Does a crocodile have fur?,No
+1574,Does a crocodile have hair?,No
+1575,Does a crocodile have a tail?,Yes
+1576,Does a crocodile have two legs?,No
+1577,Does a crocodile have legs?,Yes
+1578,Can a crocodile fly?,No
+1579,Does a crocodile have four legs?,Yes
+1580,Can a crocodile climb?,No
+1581,Is a crocodile a carnivore?,Yes
+1582,Is a crocodile an herbivore?,No
+1583,Is a crocodile an omnivore?,No
+1584,Does a crocodile have bones?,Yes
+1585,Does a crocodile have a beak?,No
+1586,Does a crocodile have teeth?,Yes
+1587,Does a crocodile have feathers?,No
+1588,Does a crocodile have horns?,No
+1589,Does a crocodile have hooves?,No
+1590,Does a crocodile have claws?,Yes
+1591,Is a crocodile cold-blooded?,Yes
+1592,Is a crocodile warm-blooded?,No
+1593,Does a worm live underwater?,No
+1594,Does a worm have wings?,No
+1595,Does a worm drink water?,No
+1596,Does a worm drink coffee?,No
+1597,Does a worm eat meat?,No
+1598,Does a worm have fins?,No
+1599,Does a worm have scales?,No
+1600,Does a worm have fur?,No
+1601,Does a worm have hair?,No
+1602,Does a worm have a tail?,No
+1603,Does a worm have two legs?,No
+1604,Does a worm have legs?,No
+1605,Can a worm fly?,No
+1606,Does a worm have four legs?,No
+1607,Can a worm climb?,Yes
+1608,Is a worm a carnivore?,No
+1609,Is a worm an herbivore?,Yes
+1610,Is a worm an omnivore?,No
+1611,Does a worm have bones?,No
+1612,Does a worm have a beak?,No
+1613,Does a worm have teeth?,No
+1614,Does a worm have feathers?,No
+1615,Does a worm have horns?,No
+1616,Does a worm have hooves?,No
+1617,Does a worm have claws?,No
+1618,Is a worm cold-blooded?,Yes
+1619,Is a worm warm-blooded?,No
+1620,Does a snail live underwater?,No
+1621,Does a snail have wings?,No
+1622,Does a snail drink water?,Yes
+1623,Does a snail drink coffee?,No
+1624,Does a snail eat meat?,No
+1625,Does a snail have fins?,No
+1626,Does a snail have scales?,No
+1627,Does a snail have fur?,No
+1628,Does a snail have hair?,No
+1629,Does a snail have a tail?,No
+1630,Does a snail have two legs?,No
+1631,Does a snail have legs?,No
+1632,Can a snail fly?,No
+1633,Does a snail have four legs?,No
+1634,Can a snail climb?,Yes
+1635,Is a snail a carnivore?,No
+1636,Is a snail an herbivore?,Yes
+1637,Is a snail an omnivore?,No
+1638,Does a snail have bones?,No
+1639,Does a snail have a beak?,No
+1640,Does a snail have teeth?,No
+1641,Does a snail have feathers?,No
+1642,Does a snail have horns?,No
+1643,Does a snail have hooves?,No
+1644,Does a snail have claws?,No
+1645,Is a snail cold-blooded?,Yes
+1646,Is a snail warm-blooded?,No
+1647,Does a butterfly live underwater?,No
+1648,Does a butterfly have wings?,Yes
+1649,Does a butterfly drink water?,Yes
+1650,Does a butterfly drink coffee?,No
+1651,Does a butterfly eat meat?,No
+1652,Does a butterfly have fins?,No
+1653,Does a butterfly have scales?,No
+1654,Does a butterfly have fur?,No
+1655,Does a butterfly have hair?,No
+1656,Does a butterfly have a tail?,No
+1657,Does a butterfly have two legs?,No
+1658,Does a butterfly have legs?,No
+1659,Can a butterfly fly?,Yes
+1660,Does a butterfly have four legs?,No
+1661,Can a butterfly climb?,Yes
+1662,Is a butterfly a carnivore?,No
+1663,Is a butterfly an herbivore?,Yes
+1664,Is a butterfly an omnivore?,No
+1665,Does a butterfly have bones?,No
+1666,Does a butterfly have a beak?,No
+1667,Does a butterfly have teeth?,No
+1668,Does a butterfly have feathers?,No
+1669,Does a butterfly have horns?,No
+1670,Does a butterfly have hooves?,No
+1671,Does a butterfly have claws?,No
+1672,Is a butterfly cold-blooded?,Yes
+1673,Is a butterfly warm-blooded?,No
+1674,Does a giraffe live underwater?,No
+1675,Does a giraffe have wings?,No
+1676,Does a giraffe drink water?,Yes
+1677,Does a giraffe drink coffee?,No
+1678,Does a giraffe eat meat?,No
+1679,Does a giraffe have fins?,No
+1680,Does a giraffe have scales?,No
+1681,Does a giraffe have fur?,Yes
+1682,Does a giraffe have hair?,Yes
+1683,Does a giraffe have a tail?,Yes
+1684,Does a giraffe have two legs?,No
+1685,Does a giraffe have legs?,Yes
+1686,Can a giraffe fly?,No
+1687,Does a giraffe have four legs?,Yes
+1688,Can a giraffe climb?,No
+1689,Is a giraffe a carnivore?,No
+1690,Is a giraffe an herbivore?,Yes
+1691,Is a giraffe an omnivore?,No
+1692,Does a giraffe have bones?,Yes
+1693,Does a giraffe have a beak?,No
+1694,Does a giraffe have teeth?,Yes
+1695,Does a giraffe have feathers?,No
+1696,Does a giraffe have horns?,Yes
+1697,Does a giraffe have hooves?,Yes
+1698,Does a giraffe have claws?,No
+1699,Is a giraffe cold-blooded?,No
+1700,Is a giraffe warm-blooded?,Yes
