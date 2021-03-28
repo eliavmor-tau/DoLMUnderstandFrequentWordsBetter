@@ -39,7 +39,7 @@
 37,A dog have four legs.,Yes
 38,Can a dog climb?,Yes
 39,A dog climb.,Yes
-40,A dog can be found on tree.,Yes
+40,A dog can be found on a tree.,Yes
 41,Does a dog have bones?,Yes
 42,A dog has bones.,Yes
 43,Does a dog have a beak?,No
@@ -96,7 +96,7 @@
 94,A cat have four legs.,Yes
 95,Can a cat climb?,Yes
 96,A cat climb.,Yes
-97,A cat can be found on tree.,Yes
+97,A cat can be found on a tree.,Yes
 98,Does a cat have bones?,Yes
 99,A cat has bones.,Yes
 100,Does a cat have a beak?,No
@@ -153,7 +153,7 @@
 151,A lion have four legs.,Yes
 152,Can a lion climb?,Yes
 153,A lion climb.,Yes
-154,A lion can be found on tree.,Yes
+154,A lion can be found on a tree.,Yes
 155,Does a lion have bones?,Yes
 156,A lion has bones.,Yes
 157,Does a lion have a beak?,No
@@ -210,7 +210,7 @@
 208,A rhino have four legs.,Yes
 209,Can a rhino climb?,No
 210,A rhino climb.,No
-211,A rhino can be found on tree.,No
+211,A rhino can be found on a tree.,No
 212,Does a rhino have bones?,Yes
 213,A rhino has bones.,Yes
 214,Does a rhino have a beak?,No
@@ -267,7 +267,7 @@
 265,A elephant have four legs.,Yes
 266,Can a elephant climb?,No
 267,A elephant climb.,No
-268,A elephant can be found on tree.,No
+268,A elephant can be found on a tree.,No
 269,Does a elephant have bones?,Yes
 270,A elephant has bones.,Yes
 271,Does a elephant have a beak?,No
@@ -324,7 +324,7 @@
 322,A bat have four legs.,No
 323,Can a bat climb?,Yes
 324,A bat climb.,Yes
-325,A bat can be found on tree.,Yes
+325,A bat can be found on a tree.,Yes
 326,Does a bat have bones?,Yes
 327,A bat has bones.,Yes
 328,Does a bat have a beak?,No
@@ -381,7 +381,7 @@
 379,A bear have four legs.,Yes
 380,Can a bear climb?,Yes
 381,A bear climb.,Yes
-382,A bear can be found on tree.,Yes
+382,A bear can be found on a tree.,Yes
 383,Does a bear have bones?,Yes
 384,A bear has bones.,Yes
 385,Does a bear have a beak?,No
@@ -438,7 +438,7 @@
 436,A bird have four legs.,No
 437,Can a bird climb?,Yes
 438,A bird climb.,Yes
-439,A bird can be found on tree.,Yes
+439,A bird can be found on a tree.,Yes
 440,Does a bird have bones?,Yes
 441,A bird has bones.,Yes
 442,Does a bird have a beak?,Yes
@@ -495,7 +495,7 @@
 493,A camel have four legs.,Yes
 494,Can a camel climb?,No
 495,A camel climb.,No
-496,A camel can be found on tree.,No
+496,A camel can be found on a tree.,No
 497,Does a camel have bones?,Yes
 498,A camel has bones.,Yes
 499,Does a camel have a beak?,No
@@ -552,7 +552,7 @@
 550,A cow have four legs.,Yes
 551,Can a cow climb?,No
 552,A cow climb.,No
-553,A cow can be found on tree.,No
+553,A cow can be found on a tree.,No
 554,Does a cow have bones?,Yes
 555,A cow has bones.,Yes
 556,Does a cow have a beak?,No
@@ -609,7 +609,7 @@
 607,A crab have four legs.,No
 608,Can a crab climb?,Yes
 609,A crab climb.,Yes
-610,A crab can be found on tree.,Yes
+610,A crab can be found on a tree.,Yes
 611,Does a crab have bones?,No
 612,A crab has bones.,No
 613,Does a crab have a beak?,No
@@ -666,7 +666,7 @@
 664,A deer have four legs.,Yes
 665,Can a deer climb?,No
 666,A deer climb.,No
-667,A deer can be found on tree.,No
+667,A deer can be found on a tree.,No
 668,Does a deer have bones?,Yes
 669,A deer has bones.,Yes
 670,Does a deer have a beak?,No
@@ -723,7 +723,7 @@
 721,A dolphin have four legs.,No
 722,Can a dolphin climb?,No
 723,A dolphin climb.,No
-724,A dolphin can be found on tree.,No
+724,A dolphin can be found on a tree.,No
 725,Does a dolphin have bones?,Yes
 726,A dolphin has bones.,Yes
 727,Does a dolphin have a beak?,No
@@ -780,7 +780,7 @@
 778,A duck have four legs.,No
 779,Can a duck climb?,No
 780,A duck climb.,No
-781,A duck can be found on tree.,No
+781,A duck can be found on a tree.,No
 782,Does a duck have bones?,Yes
 783,A duck has bones.,Yes
 784,Does a duck have a beak?,Yes
@@ -837,7 +837,7 @@
 835,A eagle have four legs.,No
 836,Can a eagle climb?,Yes
 837,A eagle climb.,Yes
-838,A eagle can be found on tree.,Yes
+838,A eagle can be found on a tree.,Yes
 839,Does a eagle have bones?,Yes
 840,A eagle has bones.,Yes
 841,Does a eagle have a beak?,Yes
@@ -894,7 +894,7 @@
 892,A eel have four legs.,No
 893,Can a eel climb?,No
 894,A eel climb.,No
-895,A eel can be found on tree.,No
+895,A eel can be found on a tree.,No
 896,Does a eel have bones?,Yes
 897,A eel has bones.,Yes
 898,Does a eel have a beak?,No
@@ -951,7 +951,7 @@
 949,A fish have four legs.,No
 950,Can a fish climb?,No
 951,A fish climb.,No
-952,A fish can be found on tree.,No
+952,A fish can be found on a tree.,No
 953,Does a fish have bones?,Yes
 954,A fish has bones.,Yes
 955,Does a fish have a beak?,No
@@ -1008,7 +1008,7 @@
 1006,A flamingo have four legs.,No
 1007,Can a flamingo climb?,No
 1008,A flamingo climb.,No
-1009,A flamingo can be found on tree.,No
+1009,A flamingo can be found on a tree.,No
 1010,Does a flamingo have bones?,Yes
 1011,A flamingo has bones.,Yes
 1012,Does a flamingo have a beak?,Yes
@@ -1065,7 +1065,7 @@
 1063,A fox have four legs.,Yes
 1064,Can a fox climb?,Yes
 1065,A fox climb.,Yes
-1066,A fox can be found on tree.,Yes
+1066,A fox can be found on a tree.,Yes
 1067,Does a fox have bones?,Yes
 1068,A fox has bones.,Yes
 1069,Does a fox have a beak?,No
@@ -1122,7 +1122,7 @@
 1120,A goat have four legs.,Yes
 1121,Can a goat climb?,No
 1122,A goat climb.,No
-1123,A goat can be found on tree.,No
+1123,A goat can be found on a tree.,No
 1124,Does a goat have bones?,Yes
 1125,A goat has bones.,Yes
 1126,Does a goat have a beak?,No
@@ -1179,7 +1179,7 @@
 1177,A gorilla have four legs.,No
 1178,Can a gorilla climb?,Yes
 1179,A gorilla climb.,Yes
-1180,A gorilla can be found on tree.,Yes
+1180,A gorilla can be found on a tree.,Yes
 1181,Does a gorilla have bones?,Yes
 1182,A gorilla has bones.,Yes
 1183,Does a gorilla have a beak?,No
@@ -1236,7 +1236,7 @@
 1234,A horse have four legs.,Yes
 1235,Can a horse climb?,No
 1236,A horse climb.,No
-1237,A horse can be found on tree.,No
+1237,A horse can be found on a tree.,No
 1238,Does a horse have bones?,Yes
 1239,A horse has bones.,Yes
 1240,Does a horse have a beak?,No
@@ -1293,7 +1293,7 @@
 1291,A herring have four legs.,No
 1292,Can a herring climb?,No
 1293,A herring climb.,No
-1294,A herring can be found on tree.,No
+1294,A herring can be found on a tree.,No
 1295,Does a herring have bones?,Yes
 1296,A herring has bones.,Yes
 1297,Does a herring have a beak?,No
@@ -1350,7 +1350,7 @@
 1348,A hippo have four legs.,Yes
 1349,Can a hippo climb?,No
 1350,A hippo climb.,No
-1351,A hippo can be found on tree.,No
+1351,A hippo can be found on a tree.,No
 1352,Does a hippo have bones?,Yes
 1353,A hippo has bones.,Yes
 1354,Does a hippo have a beak?,No
@@ -1407,7 +1407,7 @@
 1405,A iguana have four legs.,Yes
 1406,Can a iguana climb?,Yes
 1407,A iguana climb.,Yes
-1408,A iguana can be found on tree.,Yes
+1408,A iguana can be found on a tree.,Yes
 1409,Does a iguana have bones?,Yes
 1410,A iguana has bones.,Yes
 1411,Does a iguana have a beak?,No
@@ -1464,7 +1464,7 @@
 1462,A jellyfish have four legs.,No
 1463,Can a jellyfish climb?,No
 1464,A jellyfish climb.,No
-1465,A jellyfish can be found on tree.,No
+1465,A jellyfish can be found on a tree.,No
 1466,Does a jellyfish have bones?,No
 1467,A jellyfish has bones.,No
 1468,Does a jellyfish have a beak?,No
@@ -1521,7 +1521,7 @@
 1519,A koala have four legs.,No
 1520,Can a koala climb?,Yes
 1521,A koala climb.,Yes
-1522,A koala can be found on tree.,Yes
+1522,A koala can be found on a tree.,Yes
 1523,Does a koala have bones?,Yes
 1524,A koala has bones.,Yes
 1525,Does a koala have a beak?,No
@@ -1578,7 +1578,7 @@
 1576,A kangaroo have four legs.,No
 1577,Can a kangaroo climb?,No
 1578,A kangaroo climb.,No
-1579,A kangaroo can be found on tree.,No
+1579,A kangaroo can be found on a tree.,No
 1580,Does a kangaroo have bones?,Yes
 1581,A kangaroo has bones.,Yes
 1582,Does a kangaroo have a beak?,No
@@ -1635,7 +1635,7 @@
 1633,A lizard have four legs.,Yes
 1634,Can a lizard climb?,Yes
 1635,A lizard climb.,Yes
-1636,A lizard can be found on tree.,Yes
+1636,A lizard can be found on a tree.,Yes
 1637,Does a lizard have bones?,Yes
 1638,A lizard has bones.,Yes
 1639,Does a lizard have a beak?,No
@@ -1692,7 +1692,7 @@
 1690,A monkey have four legs.,No
 1691,Can a monkey climb?,Yes
 1692,A monkey climb.,Yes
-1693,A monkey can be found on tree.,Yes
+1693,A monkey can be found on a tree.,Yes
 1694,Does a monkey have bones?,Yes
 1695,A monkey has bones.,Yes
 1696,Does a monkey have a beak?,No
@@ -1749,7 +1749,7 @@
 1747,A mule have four legs.,Yes
 1748,Can a mule climb?,No
 1749,A mule climb.,No
-1750,A mule can be found on tree.,No
+1750,A mule can be found on a tree.,No
 1751,Does a mule have bones?,Yes
 1752,A mule has bones.,Yes
 1753,Does a mule have a beak?,No
@@ -1806,7 +1806,7 @@
 1804,A octupus have four legs.,No
 1805,Can a octupus climb?,No
 1806,A octupus climb.,No
-1807,A octupus can be found on tree.,No
+1807,A octupus can be found on a tree.,No
 1808,Does a octupus have bones?,No
 1809,A octupus has bones.,No
 1810,Does a octupus have a beak?,No
@@ -1863,7 +1863,7 @@
 1861,A otter have four legs.,Yes
 1862,Can a otter climb?,No
 1863,A otter climb.,No
-1864,A otter can be found on tree.,No
+1864,A otter can be found on a tree.,No
 1865,Does a otter have bones?,Yes
 1866,A otter has bones.,Yes
 1867,Does a otter have a beak?,No
@@ -1920,7 +1920,7 @@
 1918,A parrot have four legs.,No
 1919,Can a parrot climb?,Yes
 1920,A parrot climb.,Yes
-1921,A parrot can be found on tree.,Yes
+1921,A parrot can be found on a tree.,Yes
 1922,Does a parrot have bones?,Yes
 1923,A parrot has bones.,Yes
 1924,Does a parrot have a beak?,Yes
@@ -1977,7 +1977,7 @@
 1975,A penguin have four legs.,No
 1976,Can a penguin climb?,No
 1977,A penguin climb.,No
-1978,A penguin can be found on tree.,No
+1978,A penguin can be found on a tree.,No
 1979,Does a penguin have bones?,Yes
 1980,A penguin has bones.,Yes
 1981,Does a penguin have a beak?,Yes
@@ -2034,7 +2034,7 @@
 2032,A pig have four legs.,Yes
 2033,Can a pig climb?,No
 2034,A pig climb.,No
-2035,A pig can be found on tree.,No
+2035,A pig can be found on a tree.,No
 2036,Does a pig have bones?,Yes
 2037,A pig has bones.,Yes
 2038,Does a pig have a beak?,No
@@ -2091,7 +2091,7 @@
 2089,A peacock have four legs.,No
 2090,Can a peacock climb?,Yes
 2091,A peacock climb.,Yes
-2092,A peacock can be found on tree.,Yes
+2092,A peacock can be found on a tree.,Yes
 2093,Does a peacock have bones?,Yes
 2094,A peacock has bones.,Yes
 2095,Does a peacock have a beak?,Yes
@@ -2148,7 +2148,7 @@
 2146,A pigeon have four legs.,No
 2147,Can a pigeon climb?,Yes
 2148,A pigeon climb.,Yes
-2149,A pigeon can be found on tree.,Yes
+2149,A pigeon can be found on a tree.,Yes
 2150,Does a pigeon have bones?,Yes
 2151,A pigeon has bones.,Yes
 2152,Does a pigeon have a beak?,Yes
@@ -2205,7 +2205,7 @@
 2203,A prawn have four legs.,No
 2204,Can a prawn climb?,No
 2205,A prawn climb.,No
-2206,A prawn can be found on tree.,No
+2206,A prawn can be found on a tree.,No
 2207,Does a prawn have bones?,No
 2208,A prawn has bones.,No
 2209,Does a prawn have a beak?,No
@@ -2262,7 +2262,7 @@
 2260,A rabbit have four legs.,Yes
 2261,Can a rabbit climb?,No
 2262,A rabbit climb.,No
-2263,A rabbit can be found on tree.,No
+2263,A rabbit can be found on a tree.,No
 2264,Does a rabbit have bones?,Yes
 2265,A rabbit has bones.,Yes
 2266,Does a rabbit have a beak?,No
@@ -2319,7 +2319,7 @@
 2317,A rat have four legs.,Yes
 2318,Can a rat climb?,Yes
 2319,A rat climb.,Yes
-2320,A rat can be found on tree.,Yes
+2320,A rat can be found on a tree.,Yes
 2321,Does a rat have bones?,Yes
 2322,A rat has bones.,Yes
 2323,Does a rat have a beak?,No
@@ -2376,7 +2376,7 @@
 2374,A shark have four legs.,No
 2375,Can a shark climb?,No
 2376,A shark climb.,No
-2377,A shark can be found on tree.,No
+2377,A shark can be found on a tree.,No
 2378,Does a shark have bones?,Yes
 2379,A shark has bones.,Yes
 2380,Does a shark have a beak?,No
@@ -2433,7 +2433,7 @@
 2431,A shrimp have four legs.,No
 2432,Can a shrimp climb?,No
 2433,A shrimp climb.,No
-2434,A shrimp can be found on tree.,No
+2434,A shrimp can be found on a tree.,No
 2435,Does a shrimp have bones?,No
 2436,A shrimp has bones.,No
 2437,Does a shrimp have a beak?,No
@@ -2490,7 +2490,7 @@
 2488,A sheep have four legs.,Yes
 2489,Can a sheep climb?,No
 2490,A sheep climb.,No
-2491,A sheep can be found on tree.,No
+2491,A sheep can be found on a tree.,No
 2492,Does a sheep have bones?,Yes
 2493,A sheep has bones.,Yes
 2494,Does a sheep have a beak?,No
@@ -2547,7 +2547,7 @@
 2545,A squid have four legs.,No
 2546,Can a squid climb?,No
 2547,A squid climb.,No
-2548,A squid can be found on tree.,No
+2548,A squid can be found on a tree.,No
 2549,Does a squid have bones?,No
 2550,A squid has bones.,No
 2551,Does a squid have a beak?,No
@@ -2604,7 +2604,7 @@
 2602,A swan have four legs.,No
 2603,Can a swan climb?,No
 2604,A swan climb.,No
-2605,A swan can be found on tree.,No
+2605,A swan can be found on a tree.,No
 2606,Does a swan have bones?,Yes
 2607,A swan has bones.,Yes
 2608,Does a swan have a beak?,Yes
@@ -2661,7 +2661,7 @@
 2659,A snake have four legs.,No
 2660,Can a snake climb?,Yes
 2661,A snake climb.,Yes
-2662,A snake can be found on tree.,Yes
+2662,A snake can be found on a tree.,Yes
 2663,Does a snake have bones?,Yes
 2664,A snake has bones.,Yes
 2665,Does a snake have a beak?,No
@@ -2718,7 +2718,7 @@
 2716,A tuna have four legs.,No
 2717,Can a tuna climb?,No
 2718,A tuna climb.,No
-2719,A tuna can be found on tree.,No
+2719,A tuna can be found on a tree.,No
 2720,Does a tuna have bones?,Yes
 2721,A tuna has bones.,Yes
 2722,Does a tuna have a beak?,No
@@ -2775,7 +2775,7 @@
 2773,A wolf have four legs.,Yes
 2774,Can a wolf climb?,Yes
 2775,A wolf climb.,Yes
-2776,A wolf can be found on tree.,Yes
+2776,A wolf can be found on a tree.,Yes
 2777,Does a wolf have bones?,Yes
 2778,A wolf has bones.,Yes
 2779,Does a wolf have a beak?,No
@@ -2832,7 +2832,7 @@
 2830,A zebra have four legs.,Yes
 2831,Can a zebra climb?,No
 2832,A zebra climb.,No
-2833,A zebra can be found on tree.,No
+2833,A zebra can be found on a tree.,No
 2834,Does a zebra have bones?,Yes
 2835,A zebra has bones.,Yes
 2836,Does a zebra have a beak?,No
@@ -2889,7 +2889,7 @@
 2887,A frog have four legs.,Yes
 2888,Can a frog climb?,Yes
 2889,A frog climb.,Yes
-2890,A frog can be found on tree.,Yes
+2890,A frog can be found on a tree.,Yes
 2891,Does a frog have bones?,Yes
 2892,A frog has bones.,Yes
 2893,Does a frog have a beak?,No
@@ -2946,7 +2946,7 @@
 2944,A salamander have four legs.,Yes
 2945,Can a salamander climb?,Yes
 2946,A salamander climb.,Yes
-2947,A salamander can be found on tree.,Yes
+2947,A salamander can be found on a tree.,Yes
 2948,Does a salamander have bones?,Yes
 2949,A salamander has bones.,Yes
 2950,Does a salamander have a beak?,No
@@ -3003,7 +3003,7 @@
 3001,A hummingbird have four legs.,No
 3002,Can a hummingbird climb?,Yes
 3003,A hummingbird climb.,Yes
-3004,A hummingbird can be found on tree.,Yes
+3004,A hummingbird can be found on a tree.,Yes
 3005,Does a hummingbird have bones?,Yes
 3006,A hummingbird has bones.,Yes
 3007,Does a hummingbird have a beak?,Yes
@@ -3060,7 +3060,7 @@
 3058,A ostrich have four legs.,No
 3059,Can a ostrich climb?,Yes
 3060,A ostrich climb.,Yes
-3061,A ostrich can be found on tree.,Yes
+3061,A ostrich can be found on a tree.,Yes
 3062,Does a ostrich have bones?,Yes
 3063,A ostrich has bones.,Yes
 3064,Does a ostrich have a beak?,Yes
@@ -3117,7 +3117,7 @@
 3115,A owl have four legs.,No
 3116,Can a owl climb?,Yes
 3117,A owl climb.,Yes
-3118,A owl can be found on tree.,Yes
+3118,A owl can be found on a tree.,Yes
 3119,Does a owl have bones?,Yes
 3120,A owl has bones.,Yes
 3121,Does a owl have a beak?,Yes
@@ -3174,7 +3174,7 @@
 3172,A ray have four legs.,No
 3173,Can a ray climb?,No
 3174,A ray climb.,No
-3175,A ray can be found on tree.,No
+3175,A ray can be found on a tree.,No
 3176,Does a ray have bones?,No
 3177,A ray has bones.,No
 3178,Does a ray have a beak?,No
@@ -3231,7 +3231,7 @@
 3229,A whale have four legs.,No
 3230,Can a whale climb?,No
 3231,A whale climb.,No
-3232,A whale can be found on tree.,No
+3232,A whale can be found on a tree.,No
 3233,Does a whale have bones?,Yes
 3234,A whale has bones.,Yes
 3235,Does a whale have a beak?,No
@@ -3288,7 +3288,7 @@
 3286,A turtle have four legs.,Yes
 3287,Can a turtle climb?,No
 3288,A turtle climb.,No
-3289,A turtle can be found on tree.,No
+3289,A turtle can be found on a tree.,No
 3290,Does a turtle have bones?,Yes
 3291,A turtle has bones.,Yes
 3292,Does a turtle have a beak?,No
@@ -3345,7 +3345,7 @@
 3343,A crocodile have four legs.,Yes
 3344,Can a crocodile climb?,No
 3345,A crocodile climb.,No
-3346,A crocodile can be found on tree.,No
+3346,A crocodile can be found on a tree.,No
 3347,Does a crocodile have bones?,Yes
 3348,A crocodile has bones.,Yes
 3349,Does a crocodile have a beak?,No
@@ -3402,7 +3402,7 @@
 3400,A worm have four legs.,No
 3401,Can a worm climb?,Yes
 3402,A worm climb.,Yes
-3403,A worm can be found on tree.,Yes
+3403,A worm can be found on a tree.,Yes
 3404,Does a worm have bones?,No
 3405,A worm has bones.,No
 3406,Does a worm have a beak?,No
@@ -3459,7 +3459,7 @@
 3457,A snail have four legs.,No
 3458,Can a snail climb?,Yes
 3459,A snail climb.,Yes
-3460,A snail can be found on tree.,Yes
+3460,A snail can be found on a tree.,Yes
 3461,Does a snail have bones?,No
 3462,A snail has bones.,No
 3463,Does a snail have a beak?,No
@@ -3516,7 +3516,7 @@
 3514,A butterfly have four legs.,No
 3515,Can a butterfly climb?,Yes
 3516,A butterfly climb.,Yes
-3517,A butterfly can be found on tree.,Yes
+3517,A butterfly can be found on a tree.,Yes
 3518,Does a butterfly have bones?,No
 3519,A butterfly has bones.,No
 3520,Does a butterfly have a beak?,No
@@ -3573,7 +3573,7 @@
 3571,A giraffe have four legs.,Yes
 3572,Can a giraffe climb?,No
 3573,A giraffe climb.,No
-3574,A giraffe can be found on tree.,No
+3574,A giraffe can be found on a tree.,No
 3575,Does a giraffe have bones?,Yes
 3576,A giraffe has bones.,Yes
 3577,Does a giraffe have a beak?,No
