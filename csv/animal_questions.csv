@@ -51,7 +51,7 @@
 49,A dog has feathers.,No
 50,Does a dog have horns?,No
 51,A dog has horns.,No
-52,Horns is a body part of a dog.,No
+52,Horns are a body part of a dog.,No
 53,Does a dog have hooves?,No
 54,A dog has hooves.,No
 55,Does a dog have claws?,Yes
@@ -108,7 +108,7 @@
 106,A cat has feathers.,No
 107,Does a cat have horns?,No
 108,A cat has horns.,No
-109,Horns is a body part of a cat.,No
+109,Horns are a body part of a cat.,No
 110,Does a cat have hooves?,No
 111,A cat has hooves.,No
 112,Does a cat have claws?,Yes
@@ -165,7 +165,7 @@
 163,A lion has feathers.,No
 164,Does a lion have horns?,No
 165,A lion has horns.,No
-166,Horns is a body part of a lion.,No
+166,Horns are a body part of a lion.,No
 167,Does a lion have hooves?,No
 168,A lion has hooves.,No
 169,Does a lion have claws?,Yes
@@ -222,7 +222,7 @@
 220,A rhino has feathers.,No
 221,Does a rhino have horns?,Yes
 222,A rhino has horns.,Yes
-223,Horns is a body part of a rhino.,Yes
+223,Horns are a body part of a rhino.,Yes
 224,Does a rhino have hooves?,Yes
 225,A rhino has hooves.,Yes
 226,Does a rhino have claws?,No
@@ -279,7 +279,7 @@
 277,A elephant has feathers.,No
 278,Does a elephant have horns?,No
 279,A elephant has horns.,No
-280,Horns is a body part of a elephant.,No
+280,Horns are a body part of a elephant.,No
 281,Does a elephant have hooves?,No
 282,A elephant has hooves.,No
 283,Does a elephant have claws?,No
@@ -336,7 +336,7 @@
 334,A bat has feathers.,No
 335,Does a bat have horns?,Yes
 336,A bat has horns.,Yes
-337,Horns is a body part of a bat.,Yes
+337,Horns are a body part of a bat.,Yes
 338,Does a bat have hooves?,No
 339,A bat has hooves.,No
 340,Does a bat have claws?,Yes
@@ -393,7 +393,7 @@
 391,A bear has feathers.,No
 392,Does a bear have horns?,No
 393,A bear has horns.,No
-394,Horns is a body part of a bear.,No
+394,Horns are a body part of a bear.,No
 395,Does a bear have hooves?,No
 396,A bear has hooves.,No
 397,Does a bear have claws?,Yes
@@ -450,7 +450,7 @@
 448,A bird has feathers.,Yes
 449,Does a bird have horns?,No
 450,A bird has horns.,No
-451,Horns is a body part of a bird.,No
+451,Horns are a body part of a bird.,No
 452,Does a bird have hooves?,No
 453,A bird has hooves.,No
 454,Does a bird have claws?,Yes
@@ -507,7 +507,7 @@
 505,A camel has feathers.,No
 506,Does a camel have horns?,No
 507,A camel has horns.,No
-508,Horns is a body part of a camel.,No
+508,Horns are a body part of a camel.,No
 509,Does a camel have hooves?,Yes
 510,A camel has hooves.,Yes
 511,Does a camel have claws?,No
@@ -564,7 +564,7 @@
 562,A cow has feathers.,No
 563,Does a cow have horns?,Yes
 564,A cow has horns.,Yes
-565,Horns is a body part of a cow.,Yes
+565,Horns are a body part of a cow.,Yes
 566,Does a cow have hooves?,No
 567,A cow has hooves.,No
 568,Does a cow have claws?,Yes
@@ -621,7 +621,7 @@
 619,A crab has feathers.,No
 620,Does a crab have horns?,No
 621,A crab has horns.,No
-622,Horns is a body part of a crab.,No
+622,Horns are a body part of a crab.,No
 623,Does a crab have hooves?,No
 624,A crab has hooves.,No
 625,Does a crab have claws?,No
@@ -678,7 +678,7 @@
 676,A deer has feathers.,No
 677,Does a deer have horns?,Yes
 678,A deer has horns.,Yes
-679,Horns is a body part of a deer.,Yes
+679,Horns are a body part of a deer.,Yes
 680,Does a deer have hooves?,Yes
 681,A deer has hooves.,Yes
 682,Does a deer have claws?,No
@@ -735,7 +735,7 @@
 733,A dolphin has feathers.,No
 734,Does a dolphin have horns?,No
 735,A dolphin has horns.,No
-736,Horns is a body part of a dolphin.,No
+736,Horns are a body part of a dolphin.,No
 737,Does a dolphin have hooves?,No
 738,A dolphin has hooves.,No
 739,Does a dolphin have claws?,No
@@ -792,7 +792,7 @@
 790,A duck has feathers.,Yes
 791,Does a duck have horns?,No
 792,A duck has horns.,No
-793,Horns is a body part of a duck.,No
+793,Horns are a body part of a duck.,No
 794,Does a duck have hooves?,No
 795,A duck has hooves.,No
 796,Does a duck have claws?,Yes
@@ -849,7 +849,7 @@
 847,A eagle has feathers.,Yes
 848,Does a eagle have horns?,No
 849,A eagle has horns.,No
-850,Horns is a body part of a eagle.,No
+850,Horns are a body part of a eagle.,No
 851,Does a eagle have hooves?,No
 852,A eagle has hooves.,No
 853,Does a eagle have claws?,Yes
@@ -906,7 +906,7 @@
 904,A eel has feathers.,No
 905,Does a eel have horns?,No
 906,A eel has horns.,No
-907,Horns is a body part of a eel.,No
+907,Horns are a body part of a eel.,No
 908,Does a eel have hooves?,No
 909,A eel has hooves.,No
 910,Does a eel have claws?,No
@@ -963,7 +963,7 @@
 961,A fish has feathers.,No
 962,Does a fish have horns?,No
 963,A fish has horns.,No
-964,Horns is a body part of a fish.,No
+964,Horns are a body part of a fish.,No
 965,Does a fish have hooves?,No
 966,A fish has hooves.,No
 967,Does a fish have claws?,No
@@ -1020,7 +1020,7 @@
 1018,A flamingo has feathers.,Yes
 1019,Does a flamingo have horns?,No
 1020,A flamingo has horns.,No
-1021,Horns is a body part of a flamingo.,No
+1021,Horns are a body part of a flamingo.,No
 1022,Does a flamingo have hooves?,No
 1023,A flamingo has hooves.,No
 1024,Does a flamingo have claws?,Yes
@@ -1077,7 +1077,7 @@
 1075,A fox has feathers.,No
 1076,Does a fox have horns?,No
 1077,A fox has horns.,No
-1078,Horns is a body part of a fox.,No
+1078,Horns are a body part of a fox.,No
 1079,Does a fox have hooves?,No
 1080,A fox has hooves.,No
 1081,Does a fox have claws?,Yes
@@ -1134,7 +1134,7 @@
 1132,A goat has feathers.,No
 1133,Does a goat have horns?,Yes
 1134,A goat has horns.,Yes
-1135,Horns is a body part of a goat.,Yes
+1135,Horns are a body part of a goat.,Yes
 1136,Does a goat have hooves?,Yes
 1137,A goat has hooves.,Yes
 1138,Does a goat have claws?,Yes
@@ -1191,7 +1191,7 @@
 1189,A gorilla has feathers.,No
 1190,Does a gorilla have horns?,No
 1191,A gorilla has horns.,No
-1192,Horns is a body part of a gorilla.,No
+1192,Horns are a body part of a gorilla.,No
 1193,Does a gorilla have hooves?,No
 1194,A gorilla has hooves.,No
 1195,Does a gorilla have claws?,No
@@ -1248,7 +1248,7 @@
 1246,A horse has feathers.,No
 1247,Does a horse have horns?,No
 1248,A horse has horns.,No
-1249,Horns is a body part of a horse.,No
+1249,Horns are a body part of a horse.,No
 1250,Does a horse have hooves?,Yes
 1251,A horse has hooves.,Yes
 1252,Does a horse have claws?,No
@@ -1305,7 +1305,7 @@
 1303,A herring has feathers.,No
 1304,Does a herring have horns?,No
 1305,A herring has horns.,No
-1306,Horns is a body part of a herring.,No
+1306,Horns are a body part of a herring.,No
 1307,Does a herring have hooves?,No
 1308,A herring has hooves.,No
 1309,Does a herring have claws?,No
@@ -1362,7 +1362,7 @@
 1360,A hippo has feathers.,No
 1361,Does a hippo have horns?,No
 1362,A hippo has horns.,No
-1363,Horns is a body part of a hippo.,No
+1363,Horns are a body part of a hippo.,No
 1364,Does a hippo have hooves?,Yes
 1365,A hippo has hooves.,Yes
 1366,Does a hippo have claws?,No
@@ -1419,7 +1419,7 @@
 1417,A iguana has feathers.,No
 1418,Does a iguana have horns?,No
 1419,A iguana has horns.,No
-1420,Horns is a body part of a iguana.,No
+1420,Horns are a body part of a iguana.,No
 1421,Does a iguana have hooves?,No
 1422,A iguana has hooves.,No
 1423,Does a iguana have claws?,Yes
@@ -1476,7 +1476,7 @@
 1474,A jellyfish has feathers.,No
 1475,Does a jellyfish have horns?,No
 1476,A jellyfish has horns.,No
-1477,Horns is a body part of a jellyfish.,No
+1477,Horns are a body part of a jellyfish.,No
 1478,Does a jellyfish have hooves?,No
 1479,A jellyfish has hooves.,No
 1480,Does a jellyfish have claws?,No
@@ -1533,7 +1533,7 @@
 1531,A koala has feathers.,No
 1532,Does a koala have horns?,No
 1533,A koala has horns.,No
-1534,Horns is a body part of a koala.,No
+1534,Horns are a body part of a koala.,No
 1535,Does a koala have hooves?,No
 1536,A koala has hooves.,No
 1537,Does a koala have claws?,Yes
@@ -1590,7 +1590,7 @@
 1588,A kangaroo has feathers.,No
 1589,Does a kangaroo have horns?,No
 1590,A kangaroo has horns.,No
-1591,Horns is a body part of a kangaroo.,No
+1591,Horns are a body part of a kangaroo.,No
 1592,Does a kangaroo have hooves?,No
 1593,A kangaroo has hooves.,No
 1594,Does a kangaroo have claws?,Yes
@@ -1647,7 +1647,7 @@
 1645,A lizard has feathers.,No
 1646,Does a lizard have horns?,No
 1647,A lizard has horns.,No
-1648,Horns is a body part of a lizard.,No
+1648,Horns are a body part of a lizard.,No
 1649,Does a lizard have hooves?,No
 1650,A lizard has hooves.,No
 1651,Does a lizard have claws?,Yes
@@ -1704,7 +1704,7 @@
 1702,A monkey has feathers.,No
 1703,Does a monkey have horns?,No
 1704,A monkey has horns.,No
-1705,Horns is a body part of a monkey.,No
+1705,Horns are a body part of a monkey.,No
 1706,Does a monkey have hooves?,No
 1707,A monkey has hooves.,No
 1708,Does a monkey have claws?,No
@@ -1761,7 +1761,7 @@
 1759,A mule has feathers.,No
 1760,Does a mule have horns?,No
 1761,A mule has horns.,No
-1762,Horns is a body part of a mule.,No
+1762,Horns are a body part of a mule.,No
 1763,Does a mule have hooves?,Yes
 1764,A mule has hooves.,Yes
 1765,Does a mule have claws?,No
@@ -1818,7 +1818,7 @@
 1816,A octupus has feathers.,No
 1817,Does a octupus have horns?,No
 1818,A octupus has horns.,No
-1819,Horns is a body part of a octupus.,No
+1819,Horns are a body part of a octupus.,No
 1820,Does a octupus have hooves?,No
 1821,A octupus has hooves.,No
 1822,Does a octupus have claws?,No
@@ -1875,7 +1875,7 @@
 1873,A otter has feathers.,No
 1874,Does a otter have horns?,No
 1875,A otter has horns.,No
-1876,Horns is a body part of a otter.,No
+1876,Horns are a body part of a otter.,No
 1877,Does a otter have hooves?,No
 1878,A otter has hooves.,No
 1879,Does a otter have claws?,Yes
@@ -1932,7 +1932,7 @@
 1930,A parrot has feathers.,Yes
 1931,Does a parrot have horns?,No
 1932,A parrot has horns.,No
-1933,Horns is a body part of a parrot.,No
+1933,Horns are a body part of a parrot.,No
 1934,Does a parrot have hooves?,No
 1935,A parrot has hooves.,No
 1936,Does a parrot have claws?,Yes
@@ -1989,7 +1989,7 @@
 1987,A penguin has feathers.,No
 1988,Does a penguin have horns?,No
 1989,A penguin has horns.,No
-1990,Horns is a body part of a penguin.,No
+1990,Horns are a body part of a penguin.,No
 1991,Does a penguin have hooves?,No
 1992,A penguin has hooves.,No
 1993,Does a penguin have claws?,Yes
@@ -2046,7 +2046,7 @@
 2044,A pig has feathers.,No
 2045,Does a pig have horns?,No
 2046,A pig has horns.,No
-2047,Horns is a body part of a pig.,No
+2047,Horns are a body part of a pig.,No
 2048,Does a pig have hooves?,Yes
 2049,A pig has hooves.,Yes
 2050,Does a pig have claws?,No
@@ -2103,7 +2103,7 @@
 2101,A peacock has feathers.,Yes
 2102,Does a peacock have horns?,No
 2103,A peacock has horns.,No
-2104,Horns is a body part of a peacock.,No
+2104,Horns are a body part of a peacock.,No
 2105,Does a peacock have hooves?,No
 2106,A peacock has hooves.,No
 2107,Does a peacock have claws?,Yes
@@ -2160,7 +2160,7 @@
 2158,A pigeon has feathers.,Yes
 2159,Does a pigeon have horns?,No
 2160,A pigeon has horns.,No
-2161,Horns is a body part of a pigeon.,No
+2161,Horns are a body part of a pigeon.,No
 2162,Does a pigeon have hooves?,No
 2163,A pigeon has hooves.,No
 2164,Does a pigeon have claws?,Yes
@@ -2217,7 +2217,7 @@
 2215,A prawn has feathers.,No
 2216,Does a prawn have horns?,No
 2217,A prawn has horns.,No
-2218,Horns is a body part of a prawn.,No
+2218,Horns are a body part of a prawn.,No
 2219,Does a prawn have hooves?,No
 2220,A prawn has hooves.,No
 2221,Does a prawn have claws?,No
@@ -2274,7 +2274,7 @@
 2272,A rabbit has feathers.,No
 2273,Does a rabbit have horns?,No
 2274,A rabbit has horns.,No
-2275,Horns is a body part of a rabbit.,No
+2275,Horns are a body part of a rabbit.,No
 2276,Does a rabbit have hooves?,No
 2277,A rabbit has hooves.,No
 2278,Does a rabbit have claws?,Yes
@@ -2331,7 +2331,7 @@
 2329,A rat has feathers.,No
 2330,Does a rat have horns?,No
 2331,A rat has horns.,No
-2332,Horns is a body part of a rat.,No
+2332,Horns are a body part of a rat.,No
 2333,Does a rat have hooves?,No
 2334,A rat has hooves.,No
 2335,Does a rat have claws?,Yes
@@ -2388,7 +2388,7 @@
 2386,A shark has feathers.,No
 2387,Does a shark have horns?,No
 2388,A shark has horns.,No
-2389,Horns is a body part of a shark.,No
+2389,Horns are a body part of a shark.,No
 2390,Does a shark have hooves?,No
 2391,A shark has hooves.,No
 2392,Does a shark have claws?,No
@@ -2445,7 +2445,7 @@
 2443,A shrimp has feathers.,No
 2444,Does a shrimp have horns?,No
 2445,A shrimp has horns.,No
-2446,Horns is a body part of a shrimp.,No
+2446,Horns are a body part of a shrimp.,No
 2447,Does a shrimp have hooves?,No
 2448,A shrimp has hooves.,No
 2449,Does a shrimp have claws?,No
@@ -2502,7 +2502,7 @@
 2500,A sheep has feathers.,No
 2501,Does a sheep have horns?,Yes
 2502,A sheep has horns.,Yes
-2503,Horns is a body part of a sheep.,Yes
+2503,Horns are a body part of a sheep.,Yes
 2504,Does a sheep have hooves?,Yes
 2505,A sheep has hooves.,Yes
 2506,Does a sheep have claws?,No
@@ -2559,7 +2559,7 @@
 2557,A squid has feathers.,No
 2558,Does a squid have horns?,No
 2559,A squid has horns.,No
-2560,Horns is a body part of a squid.,No
+2560,Horns are a body part of a squid.,No
 2561,Does a squid have hooves?,No
 2562,A squid has hooves.,No
 2563,Does a squid have claws?,No
@@ -2616,7 +2616,7 @@
 2614,A swan has feathers.,Yes
 2615,Does a swan have horns?,No
 2616,A swan has horns.,No
-2617,Horns is a body part of a swan.,No
+2617,Horns are a body part of a swan.,No
 2618,Does a swan have hooves?,No
 2619,A swan has hooves.,No
 2620,Does a swan have claws?,Yes
@@ -2673,7 +2673,7 @@
 2671,A snake has feathers.,No
 2672,Does a snake have horns?,No
 2673,A snake has horns.,No
-2674,Horns is a body part of a snake.,No
+2674,Horns are a body part of a snake.,No
 2675,Does a snake have hooves?,No
 2676,A snake has hooves.,No
 2677,Does a snake have claws?,No
@@ -2730,7 +2730,7 @@
 2728,A tuna has feathers.,No
 2729,Does a tuna have horns?,No
 2730,A tuna has horns.,No
-2731,Horns is a body part of a tuna.,No
+2731,Horns are a body part of a tuna.,No
 2732,Does a tuna have hooves?,No
 2733,A tuna has hooves.,No
 2734,Does a tuna have claws?,No
@@ -2787,7 +2787,7 @@
 2785,A wolf has feathers.,No
 2786,Does a wolf have horns?,No
 2787,A wolf has horns.,No
-2788,Horns is a body part of a wolf.,No
+2788,Horns are a body part of a wolf.,No
 2789,Does a wolf have hooves?,No
 2790,A wolf has hooves.,No
 2791,Does a wolf have claws?,Yes
@@ -2844,7 +2844,7 @@
 2842,A zebra has feathers.,No
 2843,Does a zebra have horns?,No
 2844,A zebra has horns.,No
-2845,Horns is a body part of a zebra.,No
+2845,Horns are a body part of a zebra.,No
 2846,Does a zebra have hooves?,Yes
 2847,A zebra has hooves.,Yes
 2848,Does a zebra have claws?,No
@@ -2901,7 +2901,7 @@
 2899,A frog has feathers.,No
 2900,Does a frog have horns?,No
 2901,A frog has horns.,No
-2902,Horns is a body part of a frog.,No
+2902,Horns are a body part of a frog.,No
 2903,Does a frog have hooves?,No
 2904,A frog has hooves.,No
 2905,Does a frog have claws?,No
@@ -2958,7 +2958,7 @@
 2956,A salamander has feathers.,No
 2957,Does a salamander have horns?,No
 2958,A salamander has horns.,No
-2959,Horns is a body part of a salamander.,No
+2959,Horns are a body part of a salamander.,No
 2960,Does a salamander have hooves?,No
 2961,A salamander has hooves.,No
 2962,Does a salamander have claws?,No
@@ -3015,7 +3015,7 @@
 3013,A hummingbird has feathers.,Yes
 3014,Does a hummingbird have horns?,No
 3015,A hummingbird has horns.,No
-3016,Horns is a body part of a hummingbird.,No
+3016,Horns are a body part of a hummingbird.,No
 3017,Does a hummingbird have hooves?,No
 3018,A hummingbird has hooves.,No
 3019,Does a hummingbird have claws?,Yes
@@ -3072,7 +3072,7 @@
 3070,A ostrich has feathers.,Yes
 3071,Does a ostrich have horns?,No
 3072,A ostrich has horns.,No
-3073,Horns is a body part of a ostrich.,No
+3073,Horns are a body part of a ostrich.,No
 3074,Does a ostrich have hooves?,No
 3075,A ostrich has hooves.,No
 3076,Does a ostrich have claws?,Yes
@@ -3129,7 +3129,7 @@
 3127,A owl has feathers.,Yes
 3128,Does a owl have horns?,No
 3129,A owl has horns.,No
-3130,Horns is a body part of a owl.,No
+3130,Horns are a body part of a owl.,No
 3131,Does a owl have hooves?,No
 3132,A owl has hooves.,No
 3133,Does a owl have claws?,Yes
@@ -3186,7 +3186,7 @@
 3184,A ray has feathers.,No
 3185,Does a ray have horns?,No
 3186,A ray has horns.,No
-3187,Horns is a body part of a ray.,No
+3187,Horns are a body part of a ray.,No
 3188,Does a ray have hooves?,No
 3189,A ray has hooves.,No
 3190,Does a ray have claws?,No
@@ -3243,7 +3243,7 @@
 3241,A whale has feathers.,No
 3242,Does a whale have horns?,No
 3243,A whale has horns.,No
-3244,Horns is a body part of a whale.,No
+3244,Horns are a body part of a whale.,No
 3245,Does a whale have hooves?,No
 3246,A whale has hooves.,No
 3247,Does a whale have claws?,No
@@ -3300,7 +3300,7 @@
 3298,A turtle has feathers.,No
 3299,Does a turtle have horns?,No
 3300,A turtle has horns.,No
-3301,Horns is a body part of a turtle.,No
+3301,Horns are a body part of a turtle.,No
 3302,Does a turtle have hooves?,No
 3303,A turtle has hooves.,No
 3304,Does a turtle have claws?,Yes
@@ -3357,7 +3357,7 @@
 3355,A crocodile has feathers.,No
 3356,Does a crocodile have horns?,No
 3357,A crocodile has horns.,No
-3358,Horns is a body part of a crocodile.,No
+3358,Horns are a body part of a crocodile.,No
 3359,Does a crocodile have hooves?,No
 3360,A crocodile has hooves.,No
 3361,Does a crocodile have claws?,Yes
@@ -3414,7 +3414,7 @@
 3412,A worm has feathers.,No
 3413,Does a worm have horns?,No
 3414,A worm has horns.,No
-3415,Horns is a body part of a worm.,No
+3415,Horns are a body part of a worm.,No
 3416,Does a worm have hooves?,No
 3417,A worm has hooves.,No
 3418,Does a worm have claws?,No
@@ -3471,7 +3471,7 @@
 3469,A snail has feathers.,No
 3470,Does a snail have horns?,No
 3471,A snail has horns.,No
-3472,Horns is a body part of a snail.,No
+3472,Horns are a body part of a snail.,No
 3473,Does a snail have hooves?,No
 3474,A snail has hooves.,No
 3475,Does a snail have claws?,No
@@ -3528,7 +3528,7 @@
 3526,A butterfly has feathers.,No
 3527,Does a butterfly have horns?,No
 3528,A butterfly has horns.,No
-3529,Horns is a body part of a butterfly.,No
+3529,Horns are a body part of a butterfly.,No
 3530,Does a butterfly have hooves?,No
 3531,A butterfly has hooves.,No
 3532,Does a butterfly have claws?,No
@@ -3585,7 +3585,7 @@
 3583,A giraffe has feathers.,No
 3584,Does a giraffe have horns?,Yes
 3585,A giraffe has horns.,Yes
-3586,Horns is a body part of a giraffe.,Yes
+3586,Horns are a body part of a giraffe.,Yes
 3587,Does a giraffe have hooves?,Yes
 3588,A giraffe has hooves.,Yes
 3589,Does a giraffe have claws?,No
