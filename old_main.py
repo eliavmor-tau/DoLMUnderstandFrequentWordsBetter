@@ -544,7 +544,7 @@ if __name__ == "__main__":
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    questions = generate_sentences_from_csv(csv_path="csv/animals.csv")
+    questions = generate_sentences_from_csv(csv_path="csv/animals_new.csv")
     questions = pd.DataFrame.from_dict(questions)
     questions.to_csv("csv/animal_questions.csv")
 
