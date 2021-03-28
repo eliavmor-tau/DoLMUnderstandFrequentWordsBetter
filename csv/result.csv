@@ -1,0 +1,1702 @@
+,question,model_answer,true_answer
+0,Does a parrot have hair?,Yes,No
+1,Does a pig have hair?,No,No
+2,Does a herring have hair?,Yes,No
+3,Does a lizard have teeth?,Yes,Yes
+4,Is a rhino a carnivore?,No,No
+5,Can a peacock climb?,Yes,Yes
+6,Does a swan drink coffee?,Yes,No
+7,Is a turtle warm-blooded?,No,No
+8,Is a rat cold-blooded?,No,No
+9,Does a snake have teeth?,Yes,Yes
+10,Does a snake drink coffee?,No,No
+11,Can a zebra climb?,No,No
+12,Does a hummingbird have four legs?,Yes,No
+13,Does a eagle have hooves?,Yes,No
+14,Does a fish have a tail?,Yes,Yes
+15,Does a parrot have teeth?,Yes,No
+16,Does a lion have hair?,Yes,Yes
+17,Does a duck have two legs?,Yes,Yes
+18,Does a turtle have bones?,Yes,Yes
+19,Does a fish have two legs?,No,No
+20,Does a ostrich have scales?,No,No
+21,Can a bat climb?,Yes,Yes
+22,Does a dog have a tail?,Yes,Yes
+23,Does a owl have feathers?,Yes,Yes
+24,Does a crab have legs?,Yes,Yes
+25,Does a rat have teeth?,Yes,Yes
+26,Does a horse have wings?,No,No
+27,Does a swan live underwater?,Yes,No
+28,Does a sheep live underwater?,No,No
+29,Is a penguin warm-blooded?,Yes,Yes
+30,Does a tuna have bones?,Yes,Yes
+31,Does a peacock have horns?,Yes,No
+32,Does a ostrich drink water?,Yes,Yes
+33,Does a turtle have two legs?,Yes,No
+34,Does a dolphin have wings?,Yes,No
+35,Does a butterfly have a beak?,Yes,No
+36,Does a octupus have bones?,Yes,No
+37,Does a elephant have wings?,Yes,No
+38,Does a parrot have hooves?,Yes,No
+39,Does a pig have a tail?,Yes,Yes
+40,Is a rabbit an herbivore?,Yes,Yes
+41,Does a eagle have scales?,No,No
+42,Is a ostrich an omnivore?,No,No
+43,Does a duck eat meat?,Yes,No
+44,Does a prawn live underwater?,Yes,Yes
+45,Does a ostrich have a beak?,Yes,Yes
+46,Does a eel have horns?,Yes,No
+47,Does a kangaroo live underwater?,No,No
+48,Is a parrot an omnivore?,Yes,No
+49,Is a rat warm-blooded?,No,Yes
+50,Does a dolphin have hair?,Yes,No
+51,Is a deer a carnivore?,Yes,No
+52,Does a jellyfish have feathers?,No,No
+53,Does a crocodile eat meat?,Yes,Yes
+54,Does a camel have hooves?,Yes,Yes
+55,Does a squid drink water?,Yes,No
+56,Does a cow have scales?,No,No
+57,Does a peacock eat meat?,No,No
+58,Does a pig drink water?,No,Yes
+59,Is a swan an herbivore?,No,No
+60,Does a monkey have hooves?,No,No
+61,Does a pigeon have wings?,Yes,Yes
+62,Does a butterfly have hooves?,No,No
+63,Does a rhino have scales?,No,No
+64,Does a frog have teeth?,Yes,Yes
+65,Does a elephant have scales?,No,No
+66,Does a worm have wings?,Yes,No
+67,Does a octupus have wings?,No,No
+68,Can a frog fly?,Yes,No
+69,Does a koala eat meat?,Yes,No
+70,Does a frog eat meat?,Yes,Yes
+71,Does a elephant drink water?,No,Yes
+72,Does a prawn eat meat?,Yes,No
+73,Does a bird have fur?,Yes,No
+74,Does a jellyfish have fins?,Yes,No
+75,Does a rhino have hooves?,Yes,Yes
+76,Can a pigeon fly?,Yes,Yes
+77,Does a whale have feathers?,Yes,No
+78,Does a fish drink water?,Yes,No
+79,Does a salamander have a beak?,Yes,No
+80,Does a lizard have four legs?,Yes,Yes
+81,Does a goat eat meat?,Yes,No
+82,Is a flamingo a carnivore?,Yes,No
+83,Can a otter climb?,Yes,No
+84,Does a butterfly have a tail?,Yes,No
+85,Is a rhino an omnivore?,Yes,No
+86,Does a turtle have a tail?,Yes,Yes
+87,Does a sheep have a tail?,Yes,Yes
+88,Does a peacock have teeth?,No,No
+89,Does a crocodile have fins?,Yes,No
+90,Does a crocodile have horns?,Yes,No
+91,Does a jellyfish have fur?,Yes,No
+92,Does a lizard have feathers?,No,No
+93,Does a herring have two legs?,No,No
+94,Does a swan have feathers?,Yes,Yes
+95,Can a dolphin climb?,Yes,No
+96,Does a crocodile have a tail?,Yes,Yes
+97,Is a sheep an herbivore?,No,Yes
+98,Is a frog an herbivore?,No,No
+99,Is a mule an herbivore?,Yes,Yes
+100,Can a parrot climb?,No,Yes
+101,Does a pigeon have bones?,Yes,Yes
+102,Does a fish have horns?,No,No
+103,Does a otter have feathers?,Yes,No
+104,Does a mule have four legs?,Yes,Yes
+105,Does a iguana have bones?,No,Yes
+106,Does a camel have four legs?,Yes,Yes
+107,Does a horse have feathers?,Yes,No
+108,Does a camel have teeth?,Yes,Yes
+109,Does a turtle have claws?,Yes,Yes
+110,Does a worm have hooves?,No,No
+111,Can a crab fly?,Yes,No
+112,Does a kangaroo have hooves?,No,No
+113,Does a kangaroo drink coffee?,Yes,No
+114,Does a parrot have scales?,No,No
+115,Does a dolphin have fur?,Yes,No
+116,Is a eel an omnivore?,Yes,No
+117,Does a hummingbird drink water?,Yes,Yes
+118,Does a jellyfish live underwater?,Yes,Yes
+119,Does a rhino have a beak?,Yes,No
+120,Does a shrimp have bones?,No,No
+121,Does a mule have a beak?,Yes,No
+122,Does a cow live underwater?,No,No
+123,Does a camel have a beak?,Yes,No
+124,Does a jellyfish have hooves?,No,No
+125,Does a dolphin have bones?,No,Yes
+126,Does a iguana have fins?,Yes,No
+127,Does a bat have hair?,No,Yes
+128,Does a flamingo have claws?,Yes,Yes
+129,Does a penguin have hair?,No,Yes
+130,Does a cow have four legs?,No,Yes
+131,Does a flamingo drink coffee?,Yes,No
+132,Does a rhino have two legs?,Yes,No
+133,Does a deer have wings?,Yes,No
+134,Does a elephant have horns?,Yes,No
+135,Does a flamingo eat meat?,No,No
+136,Does a squid have legs?,Yes,Yes
+137,Does a lizard have legs?,Yes,Yes
+138,Does a crab have wings?,Yes,No
+139,Is a duck a carnivore?,Yes,No
+140,Does a eel have fur?,Yes,No
+141,Does a mule have scales?,No,No
+142,Does a dolphin have hooves?,No,No
+143,Can a hummingbird fly?,Yes,Yes
+144,Is a tuna cold-blooded?,No,Yes
+145,Does a ostrich have feathers?,Yes,Yes
+146,Does a bat have fur?,Yes,Yes
+147,Does a flamingo have four legs?,Yes,No
+148,Does a swan have scales?,No,No
+149,Does a crab have two legs?,No,No
+150,Does a hummingbird have claws?,Yes,Yes
+151,Does a bear have legs?,Yes,Yes
+152,Does a giraffe have fur?,Yes,Yes
+153,Is a squid cold-blooded?,Yes,Yes
+154,Does a bird have wings?,Yes,Yes
+155,Is a jellyfish an herbivore?,Yes,No
+156,Does a lion have wings?,Yes,No
+157,Is a fish warm-blooded?,No,No
+158,Does a ray have two legs?,No,No
+159,Is a kangaroo an herbivore?,No,Yes
+160,Can a dolphin fly?,Yes,No
+161,Does a rhino live underwater?,No,No
+162,Does a flamingo have wings?,Yes,Yes
+163,Can a goat climb?,Yes,No
+164,Does a peacock drink water?,Yes,Yes
+165,Does a worm have fur?,Yes,No
+166,Does a squid have fur?,Yes,No
+167,Does a fox have a tail?,Yes,Yes
+168,Does a shark have hair?,Yes,No
+169,Can a flamingo fly?,Yes,Yes
+170,Does a hippo have four legs?,Yes,Yes
+171,Can a parrot fly?,Yes,Yes
+172,Does a ray have horns?,No,No
+173,Is a frog an omnivore?,No,Yes
+174,Does a ray drink coffee?,Yes,No
+175,Is a cat an herbivore?,No,No
+176,Does a pig have bones?,Yes,Yes
+177,Does a octupus have fur?,No,No
+178,Does a rhino drink coffee?,No,No
+179,Can a elephant fly?,No,No
+180,Does a bat drink coffee?,No,No
+181,Does a deer live underwater?,No,No
+182,Can a rhino fly?,Yes,No
+183,Does a rabbit have fins?,Yes,No
+184,Does a bat have legs?,Yes,Yes
+185,Is a crab an omnivore?,Yes,Yes
+186,Does a parrot drink water?,Yes,Yes
+187,Is a gorilla warm-blooded?,No,Yes
+188,Is a pigeon warm-blooded?,No,Yes
+189,Does a prawn have four legs?,Yes,No
+190,Does a octupus have scales?,No,No
+191,Is a rabbit cold-blooded?,No,No
+192,Does a shrimp have teeth?,No,No
+193,Does a pig have horns?,Yes,No
+194,Can a snake fly?,Yes,No
+195,Does a snake eat meat?,No,Yes
+196,Is a monkey an herbivore?,Yes,Yes
+197,Is a koala warm-blooded?,Yes,Yes
+198,Does a giraffe have fins?,Yes,No
+199,Can a gorilla climb?,No,Yes
+200,Can a horse fly?,No,No
+201,Does a hummingbird have a beak?,Yes,Yes
+202,Is a camel a carnivore?,Yes,No
+203,Does a turtle live underwater?,Yes,No
+204,Does a crab have four legs?,No,No
+205,Does a rat have feathers?,No,No
+206,Does a octupus have hair?,Yes,No
+207,Is a wolf cold-blooded?,Yes,No
+208,Does a frog have bones?,No,Yes
+209,Does a peacock have feathers?,Yes,Yes
+210,Does a lizard have wings?,Yes,No
+211,Does a camel drink water?,Yes,Yes
+212,Does a snake have a beak?,Yes,No
+213,Does a flamingo live underwater?,Yes,No
+214,Does a rhino have claws?,No,No
+215,Does a zebra have a tail?,Yes,Yes
+216,Does a eagle have two legs?,Yes,Yes
+217,Does a ostrich eat meat?,Yes,No
+218,Does a iguana have teeth?,No,Yes
+219,Does a lion have two legs?,Yes,No
+220,Can a ostrich climb?,No,Yes
+221,Is a elephant cold-blooded?,No,No
+222,Does a monkey have fur?,Yes,Yes
+223,Is a lizard cold-blooded?,Yes,Yes
+224,Does a lion drink water?,No,Yes
+225,Does a fish have legs?,No,No
+226,Does a wolf have hooves?,No,No
+227,Does a fox eat meat?,Yes,Yes
+228,Is a parrot an herbivore?,Yes,Yes
+229,Does a hippo have a beak?,Yes,No
+230,Does a fox have horns?,Yes,No
+231,Does a bear have scales?,No,No
+232,Does a octupus have horns?,Yes,No
+233,Is a eagle cold-blooded?,No,No
+234,Does a gorilla have wings?,Yes,No
+235,Does a penguin have fins?,Yes,No
+236,Does a jellyfish have legs?,No,No
+237,Does a sheep have teeth?,Yes,Yes
+238,Does a lion have a beak?,Yes,No
+239,Does a shrimp have hair?,No,No
+240,Can a squid climb?,No,No
+241,Does a rhino have bones?,Yes,Yes
+242,Does a hummingbird have legs?,No,Yes
+243,Does a cow have fur?,Yes,Yes
+244,Does a lizard have fur?,Yes,No
+245,Is a ostrich a carnivore?,No,No
+246,Does a owl have a beak?,Yes,Yes
+247,Does a penguin have hooves?,No,No
+248,Does a eagle have hair?,Yes,No
+249,Does a rabbit have a beak?,Yes,No
+250,Is a goat an omnivore?,Yes,No
+251,Can a deer climb?,No,No
+252,Does a koala have scales?,Yes,No
+253,Does a worm drink coffee?,Yes,No
+254,Does a bear have hooves?,No,No
+255,Does a fox have fins?,Yes,No
+256,Does a wolf have horns?,Yes,No
+257,Does a goat have wings?,Yes,No
+258,Is a crocodile an herbivore?,Yes,No
+259,Does a hippo have scales?,No,No
+260,Does a peacock have four legs?,No,No
+261,Does a eel have feathers?,No,No
+262,Does a goat have bones?,Yes,Yes
+263,Does a giraffe have a beak?,Yes,No
+264,Is a jellyfish an omnivore?,Yes,No
+265,Does a cow have claws?,Yes,Yes
+266,Does a pigeon have hooves?,Yes,No
+267,Is a worm cold-blooded?,Yes,Yes
+268,Does a horse live underwater?,No,No
+269,Does a lion have four legs?,Yes,Yes
+270,Does a peacock have scales?,No,No
+271,Does a fish have scales?,Yes,Yes
+272,Does a squid eat meat?,Yes,No
+273,Does a camel have feathers?,No,No
+274,Does a ray have claws?,No,No
+275,Is a fox a carnivore?,Yes,No
+276,Does a eagle have feathers?,Yes,Yes
+277,Does a goat have a beak?,Yes,No
+278,Does a wolf drink water?,Yes,Yes
+279,Does a rat have four legs?,Yes,Yes
+280,Can a bat fly?,Yes,Yes
+281,Does a pig have teeth?,Yes,Yes
+282,Does a snail have a beak?,Yes,No
+283,Is a rat an omnivore?,Yes,No
+284,Does a squid have two legs?,Yes,No
+285,Does a crocodile have bones?,Yes,Yes
+286,Does a cow have fins?,Yes,No
+287,Does a giraffe have feathers?,Yes,No
+288,Does a pig have feathers?,Yes,No
+289,Is a crab cold-blooded?,No,Yes
+290,Does a owl have teeth?,Yes,No
+291,Does a eagle have bones?,Yes,Yes
+292,Is a bird an herbivore?,Yes,Yes
+293,Does a horse have a beak?,Yes,No
+294,Does a monkey have fins?,Yes,No
+295,Does a butterfly drink coffee?,Yes,No
+296,Is a eel cold-blooded?,No,Yes
+297,Does a zebra have horns?,No,No
+298,Can a eagle fly?,Yes,Yes
+299,Does a swan have bones?,No,Yes
+300,Does a penguin have bones?,No,Yes
+301,Does a deer have hooves?,No,Yes
+302,Is a ray an omnivore?,No,No
+303,Does a crab have hooves?,No,No
+304,Does a elephant have four legs?,Yes,Yes
+305,Does a mule have feathers?,No,No
+306,Does a shark live underwater?,Yes,Yes
+307,Does a rhino have horns?,Yes,Yes
+308,Does a bat have bones?,Yes,Yes
+309,Does a gorilla drink water?,Yes,Yes
+310,Is a peacock an herbivore?,No,Yes
+311,Does a bird have two legs?,Yes,Yes
+312,Is a crab an herbivore?,Yes,No
+313,Does a zebra have four legs?,Yes,Yes
+314,Does a dog have two legs?,Yes,No
+315,Does a ray have wings?,Yes,No
+316,Does a penguin eat meat?,Yes,Yes
+317,Does a rabbit have horns?,Yes,No
+318,Can a turtle climb?,Yes,No
+319,Does a fox have two legs?,Yes,No
+320,Does a ostrich have claws?,No,Yes
+321,Does a squid have teeth?,Yes,Yes
+322,Does a bear have horns?,Yes,No
+323,Is a jellyfish a carnivore?,Yes,Yes
+324,Does a dolphin have scales?,No,No
+325,Does a butterfly drink water?,Yes,Yes
+326,Does a rat have hooves?,No,No
+327,Does a snail have two legs?,Yes,No
+328,Does a deer have horns?,Yes,Yes
+329,Is a monkey a carnivore?,Yes,No
+330,Does a eel have a beak?,Yes,No
+331,Does a hippo have bones?,Yes,Yes
+332,Does a squid have a tail?,Yes,No
+333,Does a peacock have fins?,Yes,No
+334,Is a flamingo cold-blooded?,Yes,No
+335,Does a peacock have a tail?,Yes,Yes
+336,Does a horse have hair?,Yes,Yes
+337,Does a herring eat meat?,Yes,No
+338,Does a goat have fins?,Yes,No
+339,Does a deer have feathers?,Yes,No
+340,Does a gorilla eat meat?,Yes,No
+341,Can a kangaroo fly?,No,No
+342,Does a pigeon have two legs?,Yes,Yes
+343,Does a giraffe have horns?,Yes,Yes
+344,Is a cow an omnivore?,No,No
+345,Does a butterfly have teeth?,Yes,No
+346,Does a mule have two legs?,Yes,No
+347,Does a snake have hair?,Yes,No
+348,Does a parrot have four legs?,Yes,No
+349,Is a dolphin warm-blooded?,Yes,Yes
+350,Does a bear have four legs?,Yes,Yes
+351,Does a rat have hair?,No,Yes
+352,Does a swan have wings?,Yes,Yes
+353,Does a salamander drink water?,Yes,No
+354,Does a duck drink coffee?,Yes,No
+355,Does a mule have hooves?,No,Yes
+356,Is a crab a carnivore?,Yes,No
+357,Is a snake warm-blooded?,No,No
+358,Does a bear eat meat?,Yes,Yes
+359,Is a hummingbird cold-blooded?,No,No
+360,Does a pig live underwater?,No,No
+361,Does a bear have fins?,Yes,No
+362,Does a pigeon drink water?,Yes,Yes
+363,Does a hummingbird have feathers?,Yes,Yes
+364,Does a eagle drink coffee?,Yes,No
+365,Does a fish have a beak?,Yes,No
+366,Does a salamander drink coffee?,Yes,No
+367,Is a cat warm-blooded?,No,Yes
+368,Does a eel live underwater?,Yes,Yes
+369,Does a herring live underwater?,Yes,Yes
+370,Does a snail have scales?,Yes,No
+371,Does a salamander have two legs?,No,No
+372,Does a giraffe have hooves?,No,Yes
+373,Does a penguin drink water?,Yes,Yes
+374,Does a owl have wings?,Yes,Yes
+375,Does a rabbit have four legs?,Yes,Yes
+376,Does a worm have claws?,Yes,No
+377,Does a shrimp have hooves?,No,No
+378,Is a shark warm-blooded?,No,No
+379,Can a whale climb?,Yes,No
+380,Does a dog drink coffee?,No,No
+381,Is a cow an herbivore?,No,Yes
+382,Does a eel have teeth?,Yes,Yes
+383,Does a fish have hooves?,No,No
+384,Does a wolf have legs?,Yes,Yes
+385,Does a tuna have wings?,No,No
+386,Does a herring have horns?,Yes,No
+387,Does a rabbit have claws?,Yes,Yes
+388,Does a ray have bones?,No,No
+389,Does a snail have fins?,Yes,No
+390,Is a goat an herbivore?,Yes,Yes
+391,Does a parrot have fins?,Yes,No
+392,Does a cow have horns?,Yes,Yes
+393,Does a snail have hair?,Yes,No
+394,Does a squid drink coffee?,Yes,No
+395,Can a bird fly?,Yes,Yes
+396,Is a shark a carnivore?,Yes,Yes
+397,Does a cow have a tail?,Yes,Yes
+398,Does a tuna have hair?,Yes,No
+399,Does a octupus have hooves?,Yes,No
+400,Is a snake a carnivore?,Yes,Yes
+401,Does a octupus have feathers?,No,No
+402,Does a cat have bones?,No,Yes
+403,Does a prawn drink coffee?,Yes,No
+404,Does a monkey have a beak?,Yes,No
+405,Does a crocodile have hooves?,Yes,No
+406,Is a monkey an omnivore?,Yes,No
+407,Does a mule drink coffee?,Yes,No
+408,Does a tuna have legs?,No,No
+409,Does a worm have four legs?,No,No
+410,Can a snail fly?,Yes,No
+411,Can a worm climb?,No,Yes
+412,Is a swan cold-blooded?,No,No
+413,Does a crab have bones?,Yes,No
+414,Does a tuna have scales?,Yes,Yes
+415,Does a dog have fins?,No,No
+416,Does a salamander have teeth?,Yes,Yes
+417,Does a koala have legs?,No,Yes
+418,Does a herring have wings?,Yes,No
+419,Does a hummingbird have scales?,No,No
+420,Does a elephant have hair?,Yes,No
+421,Does a bear drink coffee?,Yes,No
+422,Does a squid have feathers?,Yes,No
+423,Does a bat eat meat?,Yes,No
+424,Is a deer an herbivore?,No,Yes
+425,Does a bear have feathers?,Yes,No
+426,Does a cat live underwater?,Yes,No
+427,Is a snail warm-blooded?,No,No
+428,Does a bird have four legs?,Yes,No
+429,Is a dog an omnivore?,Yes,Yes
+430,Is a deer cold-blooded?,No,No
+431,Does a hummingbird have a tail?,Yes,Yes
+432,Does a elephant have feathers?,Yes,No
+433,Is a rabbit a carnivore?,Yes,No
+434,Does a kangaroo have bones?,No,Yes
+435,Does a shrimp have four legs?,No,No
+436,Does a shrimp eat meat?,Yes,No
+437,Does a swan have a beak?,Yes,Yes
+438,Does a snake have scales?,Yes,No
+439,Does a horse have fur?,Yes,Yes
+440,Does a owl have legs?,No,Yes
+441,Does a shark have bones?,No,Yes
+442,Does a rhino have teeth?,Yes,Yes
+443,Does a owl live underwater?,Yes,No
+444,Does a snail have claws?,Yes,No
+445,Can a lizard fly?,Yes,No
+446,Does a ray have fur?,Yes,No
+447,Is a fish a carnivore?,Yes,No
+448,Does a shark have claws?,Yes,No
+449,Does a owl have fur?,Yes,No
+450,Does a wolf have fur?,Yes,Yes
+451,Does a ray have scales?,No,No
+452,Does a tuna have a beak?,Yes,No
+453,Does a ray have a beak?,Yes,No
+454,Does a iguana drink water?,Yes,Yes
+455,Can a ray climb?,No,No
+456,Does a monkey eat meat?,Yes,No
+457,Does a pig have fur?,Yes,No
+458,Does a frog have horns?,Yes,No
+459,Does a squid have hair?,Yes,No
+460,Does a butterfly have horns?,Yes,No
+461,Does a dolphin have legs?,Yes,No
+462,Does a salamander have claws?,No,No
+463,Does a prawn have hooves?,No,No
+464,Does a gorilla have claws?,No,No
+465,Does a lion have hooves?,Yes,No
+466,Can a giraffe fly?,Yes,No
+467,Does a snake live underwater?,Yes,No
+468,Does a prawn have teeth?,Yes,No
+469,Does a dolphin have a tail?,Yes,Yes
+470,Can a koala climb?,Yes,Yes
+471,Is a monkey cold-blooded?,No,No
+472,Does a ostrich have wings?,Yes,Yes
+473,Does a crab have a tail?,Yes,No
+474,Does a owl have hair?,Yes,No
+475,Does a horse have two legs?,Yes,No
+476,Does a frog drink water?,Yes,No
+477,Does a penguin have legs?,Yes,Yes
+478,Does a ray eat meat?,No,Yes
+479,Does a cat have horns?,No,No
+480,Is a flamingo an herbivore?,Yes,No
+481,Does a rhino have feathers?,Yes,No
+482,Does a mule drink water?,Yes,Yes
+483,Does a ostrich have legs?,Yes,Yes
+484,Can a eel fly?,No,No
+485,Does a crab have claws?,Yes,No
+486,Does a penguin have teeth?,No,No
+487,Is a duck warm-blooded?,No,Yes
+488,Is a prawn cold-blooded?,No,Yes
+489,Can a crab climb?,No,No
+490,Does a swan have claws?,No,Yes
+491,Does a camel live underwater?,Yes,No
+492,Does a ostrich have two legs?,Yes,Yes
+493,Does a crocodile live underwater?,Yes,No
+494,Does a bird have hair?,No,No
+495,Does a fox have a beak?,Yes,No
+496,Is a octupus cold-blooded?,Yes,Yes
+497,Does a kangaroo have fur?,No,Yes
+498,Does a fox live underwater?,No,No
+499,Does a crocodile have feathers?,Yes,No
+500,Does a shark drink coffee?,Yes,No
+501,Does a butterfly have claws?,Yes,No
+502,Is a tuna an omnivore?,Yes,No
+503,Does a whale have wings?,Yes,No
+504,Does a fox have legs?,Yes,Yes
+505,Does a gorilla have hair?,No,Yes
+506,Does a dolphin eat meat?,No,No
+507,Does a tuna have fur?,Yes,No
+508,Does a horse have a tail?,Yes,Yes
+509,Does a pig have fins?,Yes,No
+510,Is a giraffe cold-blooded?,No,No
+511,Does a kangaroo have teeth?,No,Yes
+512,Is a hummingbird a carnivore?,Yes,No
+513,Does a parrot have legs?,Yes,Yes
+514,Does a duck have a beak?,Yes,Yes
+515,Does a lion have legs?,Yes,Yes
+516,Does a hummingbird drink coffee?,Yes,No
+517,Does a goat have scales?,No,No
+518,Is a hippo warm-blooded?,No,Yes
+519,Does a butterfly have wings?,Yes,Yes
+520,Does a rat drink water?,Yes,Yes
+521,Does a pig have claws?,Yes,No
+522,Does a snake have claws?,Yes,No
+523,Does a squid have four legs?,Yes,No
+524,Is a camel an herbivore?,No,Yes
+525,Does a goat have fur?,Yes,Yes
+526,Does a flamingo have scales?,No,No
+527,Is a otter an herbivore?,No,No
+528,Is a squid a carnivore?,Yes,Yes
+529,Does a rhino have hair?,Yes,No
+530,Does a snail drink water?,Yes,Yes
+531,Is a squid an herbivore?,No,No
+532,Does a herring drink coffee?,Yes,No
+533,Is a rhino an herbivore?,No,Yes
+534,Does a otter have scales?,No,No
+535,Can a butterfly climb?,Yes,Yes
+536,Does a shark have feathers?,No,No
+537,Is a ostrich warm-blooded?,No,Yes
+538,Is a cow warm-blooded?,No,Yes
+539,Does a bat drink water?,No,Yes
+540,Does a penguin have two legs?,Yes,Yes
+541,Does a hippo have two legs?,Yes,No
+542,Does a koala have wings?,No,No
+543,Does a parrot live underwater?,No,No
+544,Does a butterfly eat meat?,No,No
+545,Does a shrimp live underwater?,Yes,Yes
+546,Does a turtle have wings?,Yes,No
+547,Can a shrimp fly?,Yes,No
+548,Does a shrimp have fins?,Yes,Yes
+549,Does a butterfly have scales?,No,No
+550,Does a bat have horns?,Yes,Yes
+551,Does a bird have horns?,Yes,No
+552,Is a cat a carnivore?,Yes,Yes
+553,Does a pig eat meat?,Yes,No
+554,Can a salamander climb?,No,Yes
+555,Is a ray warm-blooded?,No,No
+556,Does a cow have bones?,Yes,Yes
+557,Does a dog have bones?,Yes,Yes
+558,Is a goat warm-blooded?,No,Yes
+559,Does a jellyfish drink water?,Yes,No
+560,Does a elephant eat meat?,No,No
+561,Can a pigeon climb?,Yes,Yes
+562,Does a iguana have legs?,No,Yes
+563,Does a ostrich have horns?,Yes,No
+564,Is a shrimp an herbivore?,Yes,Yes
+565,Does a whale have scales?,Yes,Yes
+566,Does a owl have bones?,No,Yes
+567,Does a bear drink water?,Yes,Yes
+568,Is a lion warm-blooded?,No,Yes
+569,Does a pigeon drink coffee?,Yes,No
+570,Does a owl eat meat?,No,No
+571,Can a shrimp climb?,No,No
+572,Does a iguana have fur?,No,No
+573,Does a flamingo have teeth?,No,No
+574,Does a rhino have a tail?,Yes,Yes
+575,Does a goat live underwater?,No,No
+576,Does a fish have wings?,No,No
+577,Is a squid an omnivore?,No,No
+578,Does a flamingo have hooves?,Yes,No
+579,Does a hippo have a tail?,Yes,Yes
+580,Does a deer have a tail?,Yes,Yes
+581,Does a parrot eat meat?,Yes,No
+582,Is a pig cold-blooded?,No,No
+583,Is a elephant an omnivore?,No,No
+584,Can a gorilla fly?,Yes,No
+585,Does a rat have horns?,Yes,No
+586,Does a swan have hooves?,No,No
+587,Is a crab warm-blooded?,No,No
+588,Does a prawn have a tail?,Yes,Yes
+589,Is a eel warm-blooded?,No,No
+590,Does a crocodile have scales?,Yes,Yes
+591,Can a rat fly?,Yes,No
+592,Is a cat cold-blooded?,No,No
+593,Does a tuna have hooves?,No,No
+594,Does a lion live underwater?,Yes,No
+595,Is a wolf an herbivore?,Yes,No
+596,Does a gorilla have fur?,Yes,Yes
+597,Does a snail eat meat?,Yes,No
+598,Does a pigeon have hair?,Yes,No
+599,Is a bat cold-blooded?,No,No
+600,Does a lion have fur?,Yes,Yes
+601,Is a kangaroo warm-blooded?,No,Yes
+602,Does a swan have hair?,Yes,No
+603,Does a cat have claws?,Yes,Yes
+604,Can a rabbit fly?,Yes,No
+605,Does a prawn drink water?,Yes,No
+606,Does a horse have teeth?,Yes,Yes
+607,Does a squid have scales?,No,No
+608,Is a sheep a carnivore?,No,No
+609,Does a gorilla have two legs?,Yes,No
+610,Does a bear have a tail?,Yes,Yes
+611,Does a flamingo have horns?,Yes,No
+612,Is a crocodile cold-blooded?,Yes,Yes
+613,Does a elephant have bones?,Yes,Yes
+614,Does a lizard have claws?,Yes,Yes
+615,Does a lion have a tail?,Yes,Yes
+616,Does a sheep have bones?,Yes,Yes
+617,Does a swan have legs?,Yes,Yes
+618,Does a tuna drink coffee?,Yes,No
+619,Is a elephant warm-blooded?,No,Yes
+620,Does a shark have teeth?,Yes,Yes
+621,Is a hippo cold-blooded?,No,No
+622,Does a rabbit live underwater?,No,No
+623,Does a bird live underwater?,Yes,No
+624,Does a peacock have a beak?,Yes,Yes
+625,Does a shark have four legs?,No,No
+626,Does a crab have scales?,No,No
+627,Does a iguana have claws?,No,Yes
+628,Does a peacock have bones?,No,Yes
+629,Is a ray cold-blooded?,No,Yes
+630,Can a prawn fly?,Yes,No
+631,Does a shark eat meat?,Yes,Yes
+632,Does a parrot have a tail?,Yes,Yes
+633,Does a pig have hooves?,No,Yes
+634,Does a shrimp have two legs?,No,No
+635,Does a pigeon have four legs?,Yes,No
+636,Does a otter have horns?,Yes,No
+637,Does a pigeon live underwater?,Yes,No
+638,Is a snail a carnivore?,Yes,No
+639,Does a pig have legs?,Yes,Yes
+640,Does a shark have wings?,Yes,No
+641,Is a iguana cold-blooded?,Yes,Yes
+642,Does a koala have feathers?,No,No
+643,Does a cat have two legs?,Yes,No
+644,Is a salamander a carnivore?,Yes,Yes
+645,Does a goat have teeth?,Yes,Yes
+646,Does a squid have claws?,Yes,No
+647,Is a dog an herbivore?,Yes,No
+648,Does a butterfly have fins?,Yes,No
+649,Can a jellyfish climb?,Yes,No
+650,Is a crocodile an omnivore?,Yes,No
+651,Does a squid have horns?,Yes,No
+652,Does a ray have hooves?,No,No
+653,Does a hippo have hooves?,Yes,Yes
+654,Does a lion have claws?,Yes,Yes
+655,Does a salamander have four legs?,No,Yes
+656,Does a zebra have hooves?,No,Yes
+657,Does a ostrich have bones?,Yes,Yes
+658,Does a dog drink water?,Yes,Yes
+659,Does a parrot drink coffee?,Yes,No
+660,Is a flamingo an omnivore?,Yes,Yes
+661,Does a koala have horns?,No,No
+662,Does a salamander have horns?,No,No
+663,Does a whale have two legs?,Yes,No
+664,Does a jellyfish have hair?,Yes,No
+665,Does a flamingo have legs?,No,Yes
+666,Does a butterfly have legs?,No,No
+667,Does a squid live underwater?,Yes,Yes
+668,Does a crab have fur?,Yes,No
+669,Is a flamingo warm-blooded?,Yes,Yes
+670,Is a eagle an omnivore?,No,No
+671,Does a snake have hooves?,No,No
+672,Does a mule have bones?,No,Yes
+673,Does a ray have legs?,No,No
+674,Does a duck have scales?,No,No
+675,Does a deer eat meat?,Yes,No
+676,Is a shrimp warm-blooded?,No,No
+677,Does a frog have two legs?,Yes,No
+678,Does a swan have horns?,Yes,No
+679,Is a frog cold-blooded?,No,Yes
+680,Does a fox have scales?,No,No
+681,Does a cow have feathers?,Yes,No
+682,Is a lion an herbivore?,No,No
+683,Does a worm have feathers?,Yes,No
+684,Does a duck drink water?,Yes,Yes
+685,Does a crocodile have claws?,Yes,Yes
+686,Does a cat have a tail?,Yes,Yes
+687,Is a salamander an omnivore?,Yes,No
+688,Does a duck have teeth?,No,No
+689,Does a monkey live underwater?,Yes,No
+690,Does a giraffe have hair?,Yes,Yes
+691,Does a cat have legs?,Yes,Yes
+692,Does a duck have legs?,Yes,Yes
+693,Can a zebra fly?,Yes,No
+694,Can a frog climb?,No,Yes
+695,Does a monkey have teeth?,Yes,Yes
+696,Is a snake an herbivore?,Yes,No
+697,Is a rat an herbivore?,Yes,Yes
+698,Can a duck fly?,Yes,No
+699,Does a peacock have claws?,Yes,Yes
+700,Does a swan have two legs?,Yes,No
+701,Is a goat a carnivore?,Yes,No
+702,Does a wolf have feathers?,Yes,No
+703,Is a whale warm-blooded?,No,Yes
+704,Is a iguana a carnivore?,Yes,No
+705,Does a shrimp have legs?,No,Yes
+706,Does a otter have wings?,Yes,No
+707,Does a lion have bones?,Yes,Yes
+708,Is a giraffe an herbivore?,Yes,Yes
+709,Does a peacock have hair?,Yes,No
+710,Does a frog have hair?,Yes,No
+711,Does a cow have legs?,Yes,Yes
+712,Does a iguana have hair?,Yes,No
+713,Does a frog have scales?,No,No
+714,Does a turtle have fins?,Yes,No
+715,Does a camel have fur?,Yes,Yes
+716,Does a zebra live underwater?,No,No
+717,Does a gorilla have legs?,Yes,Yes
+718,Does a sheep have legs?,Yes,Yes
+719,Does a bat have fins?,Yes,No
+720,Does a dolphin drink water?,Yes,No
+721,Can a ray fly?,Yes,No
+722,Does a eel have four legs?,Yes,No
+723,Does a eagle have legs?,Yes,Yes
+724,Is a mule an omnivore?,Yes,No
+725,Does a turtle have feathers?,Yes,No
+726,Is a dog warm-blooded?,No,Yes
+727,Is a horse an herbivore?,Yes,Yes
+728,Does a mule have a tail?,Yes,Yes
+729,Does a sheep have two legs?,Yes,No
+730,Is a prawn an omnivore?,No,No
+731,Does a zebra drink water?,No,Yes
+732,Is a herring an herbivore?,Yes,No
+733,Does a dog have scales?,No,No
+734,Does a giraffe have four legs?,Yes,Yes
+735,Does a snail have four legs?,Yes,No
+736,Does a bear have a beak?,Yes,No
+737,Is a prawn warm-blooded?,No,No
+738,Does a lion have horns?,Yes,No
+739,Is a duck cold-blooded?,No,No
+740,Can a rhino climb?,No,No
+741,Does a prawn have two legs?,Yes,No
+742,Does a goat have horns?,Yes,Yes
+743,Does a jellyfish have a beak?,Yes,No
+744,Does a octupus live underwater?,Yes,Yes
+745,Does a fox have fur?,Yes,Yes
+746,Does a whale have bones?,Yes,Yes
+747,Does a dog eat meat?,Yes,Yes
+748,Does a sheep have four legs?,Yes,Yes
+749,Does a mule live underwater?,Yes,No
+750,Does a crocodile have four legs?,Yes,Yes
+751,Does a whale have four legs?,Yes,No
+752,Does a snail have fur?,Yes,No
+753,Does a worm have scales?,No,No
+754,Does a snail have teeth?,Yes,No
+755,Does a cow have hooves?,No,No
+756,Is a whale cold-blooded?,No,No
+757,Does a kangaroo have scales?,No,No
+758,Does a eel have legs?,Yes,No
+759,Does a wolf have wings?,Yes,No
+760,Is a camel an omnivore?,Yes,No
+761,Does a penguin have a beak?,Yes,Yes
+762,Does a worm drink water?,Yes,No
+763,Does a whale have a tail?,Yes,Yes
+764,Does a kangaroo have hair?,No,Yes
+765,Does a mule have hair?,Yes,Yes
+766,Is a bear cold-blooded?,Yes,No
+767,Does a dog have hooves?,Yes,No
+768,Does a whale eat meat?,Yes,Yes
+769,Is a dog a carnivore?,Yes,No
+770,Can a fish fly?,Yes,No
+771,Does a herring have claws?,Yes,No
+772,Does a deer have two legs?,Yes,No
+773,Does a giraffe drink coffee?,Yes,No
+774,Does a bat have teeth?,Yes,Yes
+775,Is a dolphin an omnivore?,Yes,No
+776,Does a hippo have fins?,No,No
+777,Does a lizard have two legs?,Yes,No
+778,Does a rabbit have wings?,Yes,No
+779,Is a swan an omnivore?,No,Yes
+780,Can a whale fly?,Yes,No
+781,Is a rabbit warm-blooded?,No,Yes
+782,Does a elephant have legs?,Yes,Yes
+783,Does a flamingo have fur?,Yes,No
+784,Does a snail have horns?,Yes,No
+785,Does a ostrich have hair?,Yes,No
+786,Does a pigeon have horns?,Yes,No
+787,Is a butterfly warm-blooded?,No,No
+788,Is a cat an omnivore?,No,No
+789,Does a rat have fins?,Yes,No
+790,Does a rabbit have scales?,No,No
+791,Does a flamingo have two legs?,Yes,Yes
+792,Is a rhino cold-blooded?,Yes,No
+793,Does a pigeon have teeth?,Yes,No
+794,Does a lizard have hair?,Yes,No
+795,Is a shark cold-blooded?,No,Yes
+796,Does a shrimp have wings?,Yes,No
+797,Does a koala have claws?,No,Yes
+798,Does a camel have horns?,Yes,No
+799,Does a bear have fur?,Yes,Yes
+800,Does a monkey have two legs?,Yes,No
+801,Does a gorilla have fins?,Yes,No
+802,Does a jellyfish have claws?,Yes,No
+803,Does a penguin have four legs?,Yes,No
+804,Is a duck an omnivore?,No,Yes
+805,Is a fox cold-blooded?,Yes,No
+806,Does a eel drink water?,Yes,No
+807,Does a owl have two legs?,No,Yes
+808,Does a zebra have claws?,Yes,No
+809,Does a crab have feathers?,Yes,No
+810,Does a bat live underwater?,No,No
+811,Does a ostrich have fur?,Yes,No
+812,Is a mule warm-blooded?,No,Yes
+813,Does a eel have two legs?,Yes,No
+814,Can a salamander fly?,Yes,No
+815,Does a fox have teeth?,Yes,Yes
+816,Does a rat have legs?,Yes,Yes
+817,Does a otter eat meat?,Yes,Yes
+818,Does a mule have wings?,No,No
+819,Does a peacock drink coffee?,Yes,No
+820,Can a pig fly?,Yes,No
+821,Does a zebra have scales?,No,No
+822,Does a rabbit eat meat?,Yes,No
+823,Is a owl an omnivore?,No,No
+824,Does a dog have four legs?,Yes,Yes
+825,Does a rabbit drink water?,Yes,Yes
+826,Does a ray have a tail?,Yes,Yes
+827,Does a zebra have bones?,Yes,Yes
+828,Is a parrot cold-blooded?,No,No
+829,Does a shrimp have claws?,No,No
+830,Does a crab eat meat?,Yes,No
+831,Is a bat a carnivore?,Yes,No
+832,Does a snail have bones?,Yes,No
+833,Does a wolf have teeth?,Yes,Yes
+834,Does a giraffe eat meat?,Yes,No
+835,Does a owl have fins?,Yes,No
+836,Does a parrot have fur?,Yes,No
+837,Does a octupus have four legs?,Yes,No
+838,Does a camel have fins?,Yes,No
+839,Does a pigeon eat meat?,Yes,No
+840,Does a kangaroo have a beak?,Yes,No
+841,Does a elephant have fur?,Yes,No
+842,Does a hummingbird have two legs?,Yes,Yes
+843,Does a lizard have bones?,Yes,Yes
+844,Is a wolf a carnivore?,Yes,No
+845,Does a cat have scales?,No,No
+846,Does a hippo drink coffee?,Yes,No
+847,Does a bird drink water?,Yes,Yes
+848,Does a frog have wings?,Yes,No
+849,Does a parrot have a beak?,Yes,Yes
+850,Is a giraffe a carnivore?,Yes,No
+851,Does a cow have teeth?,Yes,Yes
+852,Does a cat have four legs?,Yes,Yes
+853,Does a dog have hair?,Yes,Yes
+854,Does a whale have hair?,No,No
+855,Is a lizard warm-blooded?,No,No
+856,Does a bird have teeth?,No,No
+857,Does a shrimp drink coffee?,Yes,No
+858,Is a hippo an herbivore?,Yes,Yes
+859,Does a koala have fur?,Yes,Yes
+860,Is a eagle an herbivore?,No,No
+861,Does a bear have claws?,Yes,Yes
+862,Does a worm have teeth?,Yes,No
+863,Does a lion have fins?,Yes,No
+864,Is a hummingbird warm-blooded?,No,Yes
+865,Does a snail live underwater?,Yes,No
+866,Does a fox have wings?,Yes,No
+867,Does a camel drink coffee?,Yes,No
+868,Does a worm have bones?,Yes,No
+869,Does a zebra have fins?,Yes,No
+870,Does a wolf have fins?,Yes,No
+871,Does a jellyfish have bones?,Yes,No
+872,Does a parrot have horns?,Yes,No
+873,Does a peacock have wings?,Yes,Yes
+874,Does a goat have legs?,Yes,Yes
+875,Does a bat have a tail?,Yes,Yes
+876,Does a elephant have a beak?,Yes,No
+877,Does a frog have a beak?,Yes,No
+878,Is a snake cold-blooded?,No,Yes
+879,Does a cat drink water?,Yes,Yes
+880,Does a flamingo have hair?,Yes,No
+881,Does a cat have a beak?,Yes,No
+882,Does a lizard have hooves?,No,No
+883,Does a prawn have bones?,Yes,No
+884,Does a sheep drink coffee?,No,No
+885,Does a hummingbird eat meat?,No,No
+886,Does a prawn have feathers?,Yes,No
+887,Does a crab have teeth?,No,Yes
+888,Does a pig have wings?,Yes,No
+889,Does a iguana have wings?,No,No
+890,Does a deer have a beak?,Yes,No
+891,Is a hippo an omnivore?,Yes,No
+892,Does a salamander have hooves?,No,No
+893,Does a iguana have two legs?,No,No
+894,Does a herring have fur?,Yes,No
+895,Does a bird drink coffee?,Yes,No
+896,Does a gorilla have a beak?,Yes,No
+897,Is a eagle a carnivore?,No,Yes
+898,Does a rat live underwater?,Yes,No
+899,Does a duck have hooves?,No,No
+900,Does a flamingo drink water?,Yes,Yes
+901,Does a squid have hooves?,Yes,No
+902,Does a prawn have horns?,Yes,No
+903,Does a frog have a tail?,Yes,No
+904,Does a jellyfish have scales?,Yes,No
+905,Does a rat have a beak?,Yes,No
+906,Does a hummingbird live underwater?,Yes,No
+907,Does a rabbit drink coffee?,Yes,No
+908,Does a bat have four legs?,Yes,No
+909,Does a hippo have legs?,Yes,Yes
+910,Does a turtle have scales?,No,No
+911,Does a frog have legs?,Yes,Yes
+912,Can a hippo fly?,No,No
+913,Does a dog have fur?,Yes,Yes
+914,Is a iguana an herbivore?,No,No
+915,Does a cat have teeth?,Yes,Yes
+916,Does a whale have fur?,Yes,No
+917,Is a penguin an omnivore?,Yes,No
+918,Does a iguana live underwater?,Yes,No
+919,Does a dog have feathers?,No,No
+920,Does a salamander have legs?,No,Yes
+921,Can a octupus fly?,Yes,No
+922,Does a camel have hair?,Yes,Yes
+923,Does a crab have horns?,No,No
+924,Does a swan drink water?,Yes,Yes
+925,Does a rabbit have teeth?,Yes,Yes
+926,Does a butterfly have two legs?,No,No
+927,Does a goat have hooves?,No,Yes
+928,Can a cow fly?,No,No
+929,Does a horse eat meat?,Yes,No
+930,Does a rat drink coffee?,Yes,No
+931,Does a swan have a tail?,Yes,Yes
+932,Does a cat have hair?,Yes,Yes
+933,Can a sheep climb?,Yes,No
+934,Does a horse drink coffee?,Yes,No
+935,Does a rabbit have fur?,Yes,Yes
+936,Does a parrot have wings?,Yes,Yes
+937,Does a dog have legs?,Yes,Yes
+938,Does a snail drink coffee?,Yes,No
+939,Is a sheep cold-blooded?,No,No
+940,Does a wolf eat meat?,Yes,Yes
+941,Does a fox have bones?,Yes,Yes
+942,Does a parrot have two legs?,Yes,Yes
+943,Does a elephant have hooves?,No,No
+944,Is a fish cold-blooded?,Yes,Yes
+945,Does a crocodile drink coffee?,No,No
+946,Does a koala have bones?,Yes,Yes
+947,Does a otter have fins?,Yes,No
+948,Does a dolphin have horns?,Yes,No
+949,Does a deer have fins?,Yes,No
+950,Does a prawn have wings?,Yes,No
+951,Does a squid have fins?,Yes,No
+952,Does a hummingbird have wings?,Yes,Yes
+953,Does a monkey have wings?,Yes,No
+954,Is a penguin an herbivore?,Yes,No
+955,Does a butterfly have four legs?,No,No
+956,Does a eagle have wings?,Yes,Yes
+957,Does a eel have hooves?,Yes,No
+958,Is a bear an omnivore?,Yes,Yes
+959,Does a whale have fins?,Yes,Yes
+960,Is a turtle a carnivore?,Yes,No
+961,Does a shark have fins?,Yes,Yes
+962,Does a deer have hair?,Yes,Yes
+963,Does a crocodile have hair?,Yes,No
+964,Does a octupus have legs?,Yes,Yes
+965,Does a rhino have fur?,Yes,No
+966,Does a whale have teeth?,Yes,Yes
+967,Is a owl cold-blooded?,Yes,No
+968,Can a deer fly?,No,No
+969,Does a herring have four legs?,No,No
+970,Does a cat drink coffee?,Yes,No
+971,Does a hippo have horns?,Yes,No
+972,Is a kangaroo cold-blooded?,Yes,No
+973,Does a penguin have feathers?,Yes,No
+974,Does a bat have hooves?,Yes,No
+975,Does a swan have fins?,Yes,No
+976,Does a cow have wings?,Yes,No
+977,Can a hummingbird climb?,Yes,Yes
+978,Does a goat have feathers?,Yes,No
+979,Does a rat have a tail?,Yes,Yes
+980,Is a duck an herbivore?,No,No
+981,Does a eagle have teeth?,Yes,No
+982,Does a lion have teeth?,Yes,Yes
+983,Does a jellyfish have wings?,Yes,No
+984,Can a camel fly?,No,No
+985,Is a butterfly an omnivore?,Yes,No
+986,Can a mule climb?,No,No
+987,Is a otter cold-blooded?,No,No
+988,Does a monkey have scales?,No,No
+989,Does a peacock have fur?,Yes,No
+990,Does a swan have teeth?,No,No
+991,Does a dolphin have claws?,No,No
+992,Does a squid have wings?,Yes,No
+993,Does a snail have hooves?,No,No
+994,Does a frog have fins?,Yes,No
+995,Can a monkey fly?,Yes,No
+996,Is a whale an omnivore?,Yes,No
+997,Does a giraffe have scales?,No,No
+998,Does a cow have a beak?,Yes,No
+999,Does a otter have teeth?,No,Yes
+1000,Is a herring cold-blooded?,No,Yes
+1001,Can a turtle fly?,Yes,No
+1002,Does a owl have claws?,Yes,Yes
+1003,Is a lizard an omnivore?,Yes,Yes
+1004,Does a monkey have claws?,Yes,No
+1005,Does a herring have scales?,No,Yes
+1006,Does a monkey have legs?,No,Yes
+1007,Does a lizard have a beak?,Yes,No
+1008,Does a salamander have fur?,Yes,No
+1009,Does a mule have legs?,Yes,Yes
+1010,Does a flamingo have feathers?,Yes,Yes
+1011,Is a rat a carnivore?,Yes,No
+1012,Does a shrimp drink water?,Yes,No
+1013,Does a iguana have a beak?,No,No
+1014,Does a dolphin have fins?,Yes,Yes
+1015,Does a horse drink water?,Yes,Yes
+1016,Does a eagle have a beak?,Yes,Yes
+1017,Does a giraffe have bones?,Yes,Yes
+1018,Is a hummingbird an herbivore?,Yes,Yes
+1019,Does a elephant live underwater?,Yes,No
+1020,Does a snake have horns?,Yes,No
+1021,Does a shark have horns?,No,No
+1022,Can a flamingo climb?,No,No
+1023,Does a snake have bones?,Yes,Yes
+1024,Does a deer have scales?,No,No
+1025,Is a butterfly a carnivore?,Yes,No
+1026,Does a rat have two legs?,Yes,No
+1027,Does a zebra have fur?,Yes,Yes
+1028,Does a owl have a tail?,Yes,Yes
+1029,Is a dog cold-blooded?,No,No
+1030,Is a ostrich cold-blooded?,No,No
+1031,Does a zebra have hair?,No,Yes
+1032,Does a duck have claws?,Yes,Yes
+1033,Is a fox warm-blooded?,No,Yes
+1034,Is a kangaroo an omnivore?,No,No
+1035,Does a zebra eat meat?,Yes,No
+1036,Does a rat eat meat?,Yes,No
+1037,Does a rhino have four legs?,Yes,Yes
+1038,Does a octupus have fins?,Yes,No
+1039,Does a herring have teeth?,Yes,Yes
+1040,Does a rabbit have legs?,Yes,Yes
+1041,Does a snake have legs?,Yes,No
+1042,Does a penguin drink coffee?,Yes,No
+1043,Does a ray have hair?,Yes,No
+1044,Does a snake have wings?,Yes,No
+1045,Is a butterfly cold-blooded?,No,Yes
+1046,Does a lion drink coffee?,No,No
+1047,Does a hummingbird have bones?,No,Yes
+1048,Does a turtle have hooves?,No,No
+1049,Does a wolf live underwater?,No,No
+1050,Is a zebra an omnivore?,Yes,No
+1051,Does a deer have claws?,Yes,No
+1052,Does a prawn have scales?,No,No
+1053,Can a owl climb?,Yes,Yes
+1054,Does a zebra have feathers?,No,No
+1055,Does a hippo have feathers?,Yes,No
+1056,Does a sheep have wings?,No,No
+1057,Does a bird have legs?,Yes,Yes
+1058,Does a duck have four legs?,Yes,No
+1059,Can a horse climb?,Yes,No
+1060,Does a horse have fins?,No,No
+1061,Does a dog have wings?,No,No
+1062,Does a kangaroo have two legs?,No,Yes
+1063,Does a bear have teeth?,Yes,Yes
+1064,Does a tuna have four legs?,No,No
+1065,Does a fish have bones?,Yes,Yes
+1066,Does a ostrich have hooves?,Yes,No
+1067,Does a fish have hair?,Yes,No
+1068,Does a pig have scales?,No,No
+1069,Does a sheep have a beak?,Yes,No
+1070,Is a horse warm-blooded?,Yes,Yes
+1071,Does a eel have a tail?,Yes,Yes
+1072,Does a giraffe have legs?,Yes,Yes
+1073,Does a pigeon have fur?,Yes,No
+1074,Is a worm an omnivore?,Yes,No
+1075,Is a zebra a carnivore?,Yes,No
+1076,Does a lizard have horns?,No,No
+1077,Does a monkey have a tail?,Yes,Yes
+1078,Can a snake climb?,No,No
+1079,Is a herring an omnivore?,No,No
+1080,Does a pig drink coffee?,Yes,No
+1081,Is a fish an herbivore?,Yes,No
+1082,Does a bear have wings?,Yes,No
+1083,Does a lizard have fins?,Yes,No
+1084,Does a shark have legs?,Yes,No
+1085,Does a sheep eat meat?,Yes,No
+1086,Does a camel have a tail?,Yes,Yes
+1087,Does a deer have teeth?,Yes,Yes
+1088,Does a ray drink water?,Yes,No
+1089,Is a gorilla cold-blooded?,No,No
+1090,Does a crab have fins?,Yes,No
+1091,Does a butterfly have fur?,Yes,No
+1092,Does a koala have hair?,No,Yes
+1093,Can a cow climb?,Yes,No
+1094,Does a snail have a tail?,Yes,No
+1095,Does a kangaroo have wings?,No,No
+1096,Does a hummingbird have fur?,Yes,No
+1097,Can a squid fly?,Yes,No
+1098,Does a camel eat meat?,Yes,No
+1099,Is a fish an omnivore?,Yes,Yes
+1100,Is a giraffe warm-blooded?,No,Yes
+1101,Does a shark have two legs?,No,No
+1102,Can a eagle climb?,Yes,Yes
+1103,Does a bird have bones?,Yes,Yes
+1104,Can a penguin fly?,Yes,No
+1105,Does a peacock have legs?,No,Yes
+1106,Does a hummingbird have fins?,Yes,No
+1107,Does a iguana have feathers?,No,No
+1108,Can a bear climb?,Yes,Yes
+1109,Is a mule cold-blooded?,Yes,No
+1110,Does a eagle have fur?,Yes,No
+1111,Is a koala cold-blooded?,Yes,No
+1112,Is a squid warm-blooded?,No,No
+1113,Is a bat an omnivore?,Yes,No
+1114,Does a penguin have a tail?,Yes,Yes
+1115,Does a fish drink coffee?,Yes,No
+1116,Does a elephant have teeth?,Yes,Yes
+1117,Does a ostrich have four legs?,Yes,No
+1118,Does a ray live underwater?,Yes,Yes
+1119,Does a rabbit have hooves?,Yes,No
+1120,Is a snail cold-blooded?,No,Yes
+1121,Does a otter have legs?,Yes,Yes
+1122,Does a whale drink water?,Yes,No
+1123,Does a jellyfish have horns?,Yes,No
+1124,Can a dog climb?,Yes,Yes
+1125,Can a iguana fly?,No,No
+1126,Is a salamander an herbivore?,Yes,No
+1127,Does a hummingbird have horns?,Yes,No
+1128,Does a fox have feathers?,Yes,No
+1129,Does a whale have a beak?,Yes,No
+1130,Can a duck climb?,Yes,No
+1131,Is a bat an herbivore?,Yes,Yes
+1132,Does a tuna have teeth?,Yes,Yes
+1133,Does a worm have hair?,Yes,No
+1134,Does a wolf drink coffee?,Yes,No
+1135,Does a deer have four legs?,Yes,Yes
+1136,Does a turtle have fur?,Yes,No
+1137,Does a ostrich have teeth?,Yes,No
+1138,Does a fish have fur?,Yes,No
+1139,Is a zebra an herbivore?,Yes,Yes
+1140,Does a jellyfish have two legs?,No,No
+1141,Is a owl an herbivore?,No,Yes
+1142,Does a deer drink coffee?,Yes,No
+1143,Does a rat have fur?,Yes,Yes
+1144,Is a eel a carnivore?,No,Yes
+1145,Does a wolf have a tail?,Yes,Yes
+1146,Does a hippo live underwater?,No,No
+1147,Does a jellyfish have a tail?,Yes,No
+1148,Does a shrimp have horns?,No,No
+1149,Is a bat warm-blooded?,No,Yes
+1150,Does a fish have claws?,Yes,No
+1151,Does a otter have bones?,No,Yes
+1152,Can a crocodile climb?,Yes,No
+1153,Does a otter live underwater?,Yes,No
+1154,Does a wolf have scales?,No,No
+1155,Does a crab have a beak?,Yes,No
+1156,Does a deer have fur?,Yes,Yes
+1157,Does a hippo have hair?,No,No
+1158,Does a cat have hooves?,No,No
+1159,Does a goat have four legs?,Yes,Yes
+1160,Does a worm have a tail?,Yes,No
+1161,Is a jellyfish warm-blooded?,No,No
+1162,Does a eel eat meat?,Yes,No
+1163,Does a gorilla have hooves?,No,No
+1164,Does a peacock have hooves?,Yes,No
+1165,Does a dolphin have teeth?,No,Yes
+1166,Does a deer have legs?,Yes,Yes
+1167,Is a zebra cold-blooded?,No,No
+1168,Does a turtle drink coffee?,No,No
+1169,Does a pigeon have fins?,Yes,No
+1170,Does a wolf have a beak?,Yes,No
+1171,Does a owl have horns?,Yes,No
+1172,Does a eel have claws?,No,No
+1173,Does a snake have a tail?,Yes,Yes
+1174,Does a eagle have horns?,Yes,No
+1175,Is a kangaroo a carnivore?,No,No
+1176,Does a worm live underwater?,Yes,No
+1177,Does a giraffe have claws?,Yes,No
+1178,Does a lion have scales?,Yes,No
+1179,Is a worm a carnivore?,Yes,No
+1180,Does a rhino drink water?,No,Yes
+1181,Does a crocodile have teeth?,No,Yes
+1182,Does a owl drink coffee?,Yes,No
+1183,Does a koala live underwater?,Yes,No
+1184,Does a mule have teeth?,No,Yes
+1185,Does a duck have feathers?,Yes,Yes
+1186,Does a rabbit have hair?,Yes,Yes
+1187,Does a flamingo have bones?,No,Yes
+1188,Does a tuna drink water?,Yes,Yes
+1189,Is a gorilla an herbivore?,Yes,Yes
+1190,Does a cat have wings?,Yes,No
+1191,Does a camel have scales?,No,No
+1192,Is a dolphin cold-blooded?,Yes,No
+1193,Can a koala fly?,Yes,No
+1194,Does a koala have hooves?,Yes,No
+1195,Does a giraffe drink water?,Yes,Yes
+1196,Can a fox fly?,Yes,No
+1197,Does a bat have scales?,No,No
+1198,Does a frog have feathers?,Yes,No
+1199,Does a sheep have fur?,Yes,Yes
+1200,Is a shark an herbivore?,No,No
+1201,Can a penguin climb?,Yes,No
+1202,Does a kangaroo have feathers?,Yes,No
+1203,Does a giraffe have teeth?,Yes,Yes
+1204,Can a owl fly?,Yes,Yes
+1205,Does a shark have a tail?,Yes,Yes
+1206,Can a lizard climb?,Yes,Yes
+1207,Does a whale have legs?,Yes,No
+1208,Does a otter have four legs?,Yes,Yes
+1209,Does a wolf have two legs?,Yes,No
+1210,Does a goat have two legs?,Yes,No
+1211,Does a otter have hair?,No,Yes
+1212,Does a dolphin live underwater?,Yes,Yes
+1213,Is a bird an omnivore?,Yes,No
+1214,Does a camel have claws?,No,No
+1215,Does a rat have wings?,No,No
+1216,Does a otter have a beak?,Yes,No
+1217,Does a jellyfish have four legs?,No,No
+1218,Does a turtle eat meat?,Yes,No
+1219,Can a camel climb?,Yes,No
+1220,Does a crab drink coffee?,Yes,No
+1221,Does a bat have a beak?,Yes,No
+1222,Does a fish live underwater?,Yes,Yes
+1223,Can a butterfly fly?,Yes,Yes
+1224,Does a duck have hair?,Yes,No
+1225,Does a bear have two legs?,Yes,No
+1226,Does a hippo eat meat?,Yes,No
+1227,Does a herring have bones?,Yes,Yes
+1228,Does a eagle drink water?,No,Yes
+1229,Does a monkey have hair?,Yes,Yes
+1230,Does a rhino have fins?,Yes,No
+1231,Does a prawn have fins?,Yes,Yes
+1232,Does a penguin have claws?,Yes,Yes
+1233,Can a pig climb?,No,No
+1234,Does a frog drink coffee?,Yes,No
+1235,Does a tuna live underwater?,Yes,Yes
+1236,Does a otter have fur?,Yes,Yes
+1237,Does a sheep have hair?,Yes,Yes
+1238,Does a camel have bones?,Yes,Yes
+1239,Does a gorilla have a tail?,Yes,No
+1240,Does a butterfly live underwater?,Yes,No
+1241,Does a fox have hair?,Yes,Yes
+1242,Does a turtle have four legs?,Yes,Yes
+1243,Does a hippo have claws?,Yes,No
+1244,Is a tuna a carnivore?,Yes,Yes
+1245,Does a sheep have hooves?,Yes,Yes
+1246,Can a peacock fly?,Yes,Yes
+1247,Does a koala have teeth?,Yes,Yes
+1248,Does a crab drink water?,Yes,Yes
+1249,Does a salamander have fins?,No,No
+1250,Is a bird a carnivore?,Yes,No
+1251,Is a koala an omnivore?,Yes,No
+1252,Is a peacock an omnivore?,No,No
+1253,Does a dog have a beak?,Yes,No
+1254,Does a shrimp have scales?,No,No
+1255,Does a mule have fur?,Yes,Yes
+1256,Can a elephant climb?,No,No
+1257,Does a fox drink water?,Yes,Yes
+1258,Is a snail an omnivore?,Yes,No
+1259,Does a wolf have claws?,Yes,Yes
+1260,Does a bear have bones?,Yes,Yes
+1261,Does a duck have a tail?,Yes,Yes
+1262,Does a squid have a beak?,Yes,No
+1263,Does a worm eat meat?,Yes,No
+1264,Does a gorilla have horns?,Yes,No
+1265,Does a octupus have claws?,Yes,No
+1266,Does a tuna have fins?,Yes,Yes
+1267,Does a eel drink coffee?,Yes,No
+1268,Does a sheep have claws?,Yes,No
+1269,Does a shark have fur?,Yes,No
+1270,Can a fish climb?,Yes,No
+1271,Does a gorilla have teeth?,Yes,Yes
+1272,Does a shark have hooves?,No,No
+1273,Is a penguin cold-blooded?,Yes,No
+1274,Does a crocodile drink water?,Yes,Yes
+1275,Does a parrot have bones?,Yes,Yes
+1276,Is a tuna warm-blooded?,No,No
+1277,Does a ostrich have fins?,No,No
+1278,Does a sheep have feathers?,Yes,No
+1279,Does a mule have fins?,No,No
+1280,Is a shark an omnivore?,No,No
+1281,Does a eel have scales?,No,Yes
+1282,Is a dolphin a carnivore?,Yes,Yes
+1283,Is a herring warm-blooded?,No,No
+1284,Does a koala have fins?,Yes,No
+1285,Does a dog have horns?,No,No
+1286,Is a deer an omnivore?,No,No
+1287,Can a sheep fly?,No,No
+1288,Does a ray have four legs?,No,No
+1289,Can a cat fly?,Yes,No
+1290,Is a crocodile warm-blooded?,Yes,No
+1291,Does a bat have wings?,Yes,Yes
+1292,Does a bear have hair?,Yes,Yes
+1293,Does a turtle have horns?,Yes,No
+1294,Does a worm have legs?,Yes,No
+1295,Does a crab have hair?,No,No
+1296,Does a frog have four legs?,Yes,Yes
+1297,Does a pigeon have claws?,Yes,Yes
+1298,Is a frog warm-blooded?,No,No
+1299,Does a giraffe live underwater?,No,No
+1300,Can a giraffe climb?,Yes,No
+1301,Does a peacock live underwater?,Yes,No
+1302,Is a elephant an herbivore?,No,Yes
+1303,Is a penguin a carnivore?,Yes,Yes
+1304,Does a kangaroo have legs?,No,Yes
+1305,Does a rhino eat meat?,No,No
+1306,Does a rat have scales?,No,No
+1307,Does a duck have fur?,Yes,No
+1308,Does a iguana drink coffee?,Yes,No
+1309,Is a cow a carnivore?,Yes,No
+1310,Does a eagle have four legs?,Yes,No
+1311,Does a whale have hooves?,No,No
+1312,Does a shark have a beak?,Yes,No
+1313,Does a iguana have a tail?,No,Yes
+1314,Does a monkey have horns?,No,No
+1315,Is a lizard an herbivore?,Yes,No
+1316,Does a crab live underwater?,Yes,Yes
+1317,Does a rabbit have feathers?,Yes,No
+1318,Can a hippo climb?,No,No
+1319,Does a turtle drink water?,Yes,Yes
+1320,Does a herring drink water?,Yes,No
+1321,Does a salamander have scales?,No,No
+1322,Is a dolphin an herbivore?,No,No
+1323,Does a flamingo have a tail?,Yes,Yes
+1324,Does a tuna have feathers?,Yes,No
+1325,Does a whale have horns?,Yes,No
+1326,Does a horse have claws?,Yes,No
+1327,Does a kangaroo have fins?,No,No
+1328,Does a salamander have wings?,No,No
+1329,Does a prawn have a beak?,Yes,No
+1330,Does a crocodile have two legs?,Yes,No
+1331,Does a cat eat meat?,Yes,Yes
+1332,Does a pig have four legs?,Yes,Yes
+1333,Does a gorilla live underwater?,No,No
+1334,Can a lion climb?,No,Yes
+1335,Does a bird have scales?,No,No
+1336,Does a eagle have a tail?,Yes,Yes
+1337,Does a lizard drink water?,Yes,Yes
+1338,Does a lizard eat meat?,Yes,No
+1339,Can a monkey climb?,Yes,Yes
+1340,Does a dog have claws?,Yes,Yes
+1341,Does a duck have horns?,Yes,No
+1342,Does a shrimp have fur?,No,No
+1343,Does a giraffe have a tail?,Yes,Yes
+1344,Does a crocodile have wings?,Yes,No
+1345,Can a octupus climb?,Yes,No
+1346,Does a octupus have two legs?,Yes,No
+1347,Does a parrot have claws?,Yes,Yes
+1348,Does a frog have hooves?,No,No
+1349,Can a mule fly?,No,No
+1350,Does a horse have scales?,Yes,No
+1351,Does a gorilla have scales?,No,No
+1352,Is a ray a carnivore?,No,Yes
+1353,Is a gorilla a carnivore?,Yes,No
+1354,Does a koala have a beak?,Yes,No
+1355,Does a peacock have two legs?,No,Yes
+1356,Does a crocodile have fur?,Yes,No
+1357,Does a lion eat meat?,Yes,Yes
+1358,Does a hippo have teeth?,Yes,Yes
+1359,Does a eel have fins?,Yes,Yes
+1360,Is a pig an omnivore?,Yes,No
+1361,Does a duck have fins?,Yes,No
+1362,Does a iguana have hooves?,No,No
+1363,Does a duck have bones?,No,Yes
+1364,Is a parrot warm-blooded?,No,Yes
+1365,Does a jellyfish eat meat?,Yes,No
+1366,Does a pigeon have a beak?,Yes,Yes
+1367,Is a iguana an omnivore?,No,Yes
+1368,Does a tuna have two legs?,No,No
+1369,Is a giraffe an omnivore?,Yes,No
+1370,Is a owl warm-blooded?,No,Yes
+1371,Does a bird have a beak?,Yes,Yes
+1372,Can a wolf fly?,Yes,No
+1373,Does a gorilla have bones?,Yes,Yes
+1374,Does a penguin have scales?,No,No
+1375,Does a bat have feathers?,Yes,No
+1376,Is a turtle an herbivore?,Yes,Yes
+1377,Does a zebra have teeth?,Yes,Yes
+1378,Does a fish have teeth?,Yes,Yes
+1379,Is a deer warm-blooded?,No,Yes
+1380,Does a shrimp have feathers?,Yes,No
+1381,Does a ostrich drink coffee?,Yes,No
+1382,Does a mule eat meat?,Yes,No
+1383,Does a fish eat meat?,Yes,No
+1384,Can a goat fly?,Yes,No
+1385,Does a sheep have scales?,No,No
+1386,Is a elephant a carnivore?,No,No
+1387,Does a penguin live underwater?,Yes,No
+1388,Can a shark climb?,Yes,No
+1389,Does a koala have four legs?,No,No
+1390,Does a turtle have teeth?,Yes,No
+1391,Can a cat climb?,Yes,Yes
+1392,Does a otter have claws?,No,Yes
+1393,Does a eel have hair?,Yes,No
+1394,Does a turtle have a beak?,Yes,No
+1395,Can a rabbit climb?,No,No
+1396,Does a eagle eat meat?,No,Yes
+1397,Is a snail an herbivore?,Yes,Yes
+1398,Is a herring a carnivore?,Yes,Yes
+1399,Does a snake drink water?,Yes,Yes
+1400,Does a fish have fins?,Yes,Yes
+1401,Is a iguana warm-blooded?,No,No
+1402,Does a eagle have fins?,Yes,No
+1403,Does a gorilla drink coffee?,Yes,No
+1404,Does a elephant have a tail?,Yes,Yes
+1405,Does a herring have hooves?,No,No
+1406,Does a elephant have fins?,Yes,No
+1407,Is a otter an omnivore?,No,No
+1408,Is a peacock warm-blooded?,No,Yes
+1409,Does a bird have claws?,Yes,Yes
+1410,Is a whale an herbivore?,No,No
+1411,Does a worm have a beak?,Yes,No
+1412,Does a duck have wings?,Yes,Yes
+1413,Can a otter fly?,Yes,No
+1414,Does a octupus have a tail?,No,No
+1415,Is a koala a carnivore?,Yes,No
+1416,Does a rat have bones?,No,Yes
+1417,Does a flamingo have a beak?,No,Yes
+1418,Does a bat have claws?,Yes,Yes
+1419,Does a penguin have wings?,Yes,Yes
+1420,Does a octupus drink water?,Yes,No
+1421,Does a butterfly have hair?,Yes,No
+1422,Does a snake have feathers?,Yes,No
+1423,Does a snake have two legs?,Yes,No
+1424,Does a camel have legs?,Yes,Yes
+1425,Does a zebra drink coffee?,Yes,No
+1426,Does a salamander have bones?,No,Yes
+1427,Does a cow drink coffee?,Yes,No
+1428,Does a salamander have feathers?,No,No
+1429,Does a otter drink coffee?,Yes,No
+1430,Is a tuna an herbivore?,No,No
+1431,Does a bird have fins?,Yes,No
+1432,Does a prawn have hair?,Yes,No
+1433,Is a jellyfish cold-blooded?,Yes,Yes
+1434,Does a horse have legs?,Yes,Yes
+1435,Does a wolf have bones?,Yes,Yes
+1436,Does a iguana have scales?,No,No
+1437,Does a tuna eat meat?,Yes,No
+1438,Does a otter drink water?,Yes,Yes
+1439,Does a cow have hair?,Yes,Yes
+1440,Does a prawn have claws?,Yes,No
+1441,Does a kangaroo drink water?,Yes,Yes
+1442,Does a cat have feathers?,No,No
+1443,Does a hippo have fur?,Yes,No
+1444,Is a cow cold-blooded?,Yes,No
+1445,Does a ostrich have a tail?,Yes,Yes
+1446,Does a horse have horns?,Yes,No
+1447,Does a salamander eat meat?,Yes,Yes
+1448,Does a dolphin have two legs?,Yes,No
+1449,Does a rabbit have two legs?,Yes,No
+1450,Is a camel cold-blooded?,Yes,No
+1451,Does a koala have a tail?,No,Yes
+1452,Does a bear live underwater?,No,No
+1453,Can a dog fly?,No,No
+1454,Can a jellyfish fly?,Yes,No
+1455,Is a whale a carnivore?,No,Yes
+1456,Does a salamander have a tail?,Yes,Yes
+1457,Does a kangaroo eat meat?,No,No
+1458,Does a eel have wings?,No,No
+1459,Does a kangaroo have four legs?,No,No
+1460,Is a wolf an omnivore?,Yes,Yes
+1461,Can a shark fly?,Yes,No
+1462,Does a kangaroo have claws?,No,Yes
+1463,Does a horse have hooves?,Yes,Yes
+1464,Does a snake have fins?,Yes,No
+1465,Does a koala have two legs?,No,No
+1466,Does a frog have fur?,Yes,No
+1467,Is a otter warm-blooded?,No,Yes
+1468,Can a crocodile fly?,Yes,No
+1469,Does a butterfly have feathers?,Yes,No
+1470,Does a herring have a tail?,Yes,Yes
+1471,Can a wolf climb?,No,Yes
+1472,Is a turtle an omnivore?,Yes,No
+1473,Can a herring fly?,No,No
+1474,Is a horse a carnivore?,Yes,No
+1475,Is a octupus warm-blooded?,No,No
+1476,Does a jellyfish have teeth?,Yes,No
+1477,Does a fox have four legs?,Yes,Yes
+1478,Does a octupus drink coffee?,Yes,No
+1479,Does a rabbit have bones?,Yes,Yes
+1480,Does a lizard drink coffee?,Yes,No
+1481,Does a sheep have horns?,Yes,Yes
+1482,Does a penguin have horns?,Yes,No
+1483,Does a bird have hooves?,Yes,No
+1484,Does a worm have horns?,Yes,No
+1485,Does a ray have feathers?,No,No
+1486,Does a shrimp have a tail?,Yes,Yes
+1487,Is a prawn an herbivore?,No,Yes
+1488,Is a eagle warm-blooded?,No,Yes
+1489,Does a jellyfish drink coffee?,Yes,No
+1490,Can a swan fly?,Yes,Yes
+1491,Does a ray have fins?,Yes,No
+1492,Is a hippo a carnivore?,Yes,No
+1493,Does a goat drink water?,Yes,Yes
+1494,Does a giraffe have wings?,Yes,No
+1495,Is a pig an herbivore?,Yes,Yes
+1496,Is a pig a carnivore?,Yes,No
+1497,Does a bat have two legs?,Yes,No
+1498,Does a turtle have hair?,Yes,No
+1499,Is a owl a carnivore?,No,No
+1500,Does a giraffe have two legs?,Yes,No
+1501,Does a prawn have fur?,Yes,No
+1502,Does a iguana have four legs?,No,Yes
+1503,Is a goat cold-blooded?,Yes,No
+1504,Does a pig have two legs?,Yes,No
+1505,Does a owl have scales?,No,No
+1506,Does a herring have feathers?,Yes,No
+1507,Is a lizard a carnivore?,Yes,No
+1508,Does a dolphin have a beak?,Yes,No
+1509,Does a hummingbird have teeth?,No,No
+1510,Does a shrimp have a beak?,Yes,No
+1511,Does a sheep have fins?,No,No
+1512,Does a horse have four legs?,Yes,Yes
+1513,Does a octupus eat meat?,No,No
+1514,Does a dog live underwater?,No,No
+1515,Does a zebra have a beak?,Yes,No
+1516,Does a eel have bones?,No,Yes
+1517,Can a kangaroo climb?,No,No
+1518,Does a kangaroo have horns?,No,No
+1519,Is a monkey warm-blooded?,No,Yes
+1520,Does a frog have claws?,Yes,No
+1521,Is a eel an herbivore?,No,No
+1522,Does a dolphin have feathers?,No,No
+1523,Is a lion cold-blooded?,No,No
+1524,Does a zebra have two legs?,Yes,No
+1525,Does a dog have teeth?,Yes,Yes
+1526,Is a pigeon an omnivore?,Yes,No
+1527,Can a worm fly?,Yes,No
+1528,Does a shark drink water?,Yes,No
+1529,Is a shrimp cold-blooded?,No,Yes
+1530,Is a pigeon an herbivore?,Yes,Yes
+1531,Does a goat drink coffee?,Yes,No
+1532,Does a octupus have teeth?,Yes,Yes
+1533,Does a whale drink coffee?,Yes,No
+1534,Does a cow eat meat?,Yes,No
+1535,Is a horse cold-blooded?,Yes,No
+1536,Does a koala drink water?,Yes,Yes
+1537,Does a iguana eat meat?,No,No
+1538,Is a prawn a carnivore?,No,No
+1539,Is a pigeon cold-blooded?,No,No
+1540,Does a wolf have four legs?,Yes,Yes
+1541,Does a goat have hair?,Yes,Yes
+1542,Is a peacock cold-blooded?,No,No
+1543,Does a hippo have wings?,Yes,No
+1544,Does a otter have a tail?,Yes,Yes
+1545,Is a bear a carnivore?,Yes,No
+1546,Does a salamander have hair?,No,No
+1547,Is a horse an omnivore?,No,No
+1548,Does a elephant have claws?,Yes,No
+1549,Does a monkey drink water?,Yes,Yes
+1550,Does a whale live underwater?,Yes,Yes
+1551,Is a turtle cold-blooded?,No,Yes
+1552,Does a pigeon have a tail?,Yes,Yes
+1553,Is a otter a carnivore?,No,Yes
+1554,Does a zebra have wings?,Yes,No
+1555,Is a shrimp an omnivore?,Yes,No
+1556,Can a bear fly?,Yes,No
+1557,Can a iguana climb?,Yes,Yes
+1558,Is a bear warm-blooded?,Yes,Yes
+1559,Is a salamander warm-blooded?,No,No
+1560,Does a elephant drink coffee?,Yes,No
+1561,Does a gorilla have feathers?,Yes,No
+1562,Is a pigeon a carnivore?,Yes,No
+1563,Is a camel warm-blooded?,No,Yes
+1564,Does a cow have two legs?,No,No
+1565,Can a swan climb?,No,No
+1566,Does a eagle have claws?,Yes,Yes
+1567,Does a crocodile have legs?,Yes,Yes
+1568,Can a rat climb?,No,Yes
+1569,Does a pig have a beak?,Yes,No
+1570,Does a herring have fins?,Yes,Yes
+1571,Is a hummingbird an omnivore?,No,No
+1572,Does a bird eat meat?,Yes,No
+1573,Does a fox drink coffee?,Yes,No
+1574,Is a rhino warm-blooded?,No,Yes
+1575,Does a lion have feathers?,Yes,No
+1576,Is a swan warm-blooded?,No,Yes
+1577,Does a monkey have bones?,No,Yes
+1578,Is a lion a carnivore?,Yes,Yes
+1579,Does a koala drink coffee?,Yes,No
+1580,Does a fox have claws?,Yes,Yes
+1581,Is a ray an herbivore?,No,No
+1582,Does a fish have feathers?,No,No
+1583,Is a salamander cold-blooded?,No,Yes
+1584,Does a swan have four legs?,Yes,No
+1585,Does a worm have fins?,Yes,No
+1586,Is a octupus an omnivore?,Yes,No
+1587,Does a cat have fins?,No,No
+1588,Is a fox an herbivore?,Yes,No
+1589,Is a octupus an herbivore?,Yes,No
+1590,Does a shark have scales?,Yes,Yes
+1591,Is a ostrich an herbivore?,No,Yes
+1592,Does a mule have horns?,No,No
+1593,Does a tuna have horns?,Yes,No
+1594,Does a dolphin have four legs?,Yes,No
+1595,Does a elephant have two legs?,Yes,No
+1596,Is a bear an herbivore?,Yes,No
+1597,Does a rabbit have a tail?,Yes,Yes
+1598,Does a monkey drink coffee?,Yes,No
+1599,Does a ray have teeth?,Yes,Yes
+1600,Can a eel climb?,No,No
+1601,Does a owl have hooves?,Yes,No
+1602,Is a fox an omnivore?,Yes,Yes
+1603,Does a salamander live underwater?,Yes,No
+1604,Does a horse have bones?,Yes,Yes
+1605,Is a sheep warm-blooded?,No,Yes
+1606,Does a fox have hooves?,Yes,No
+1607,Is a wolf warm-blooded?,Yes,Yes
+1608,Does a snail have wings?,Yes,No
+1609,Is a sheep an omnivore?,No,No
+1610,Does a wolf have hair?,No,Yes
+1611,Is a mule a carnivore?,No,No
+1612,Does a pigeon have legs?,Yes,Yes
+1613,Is a butterfly an herbivore?,Yes,Yes
+1614,Does a deer drink water?,Yes,Yes
+1615,Is a zebra warm-blooded?,No,Yes
+1616,Does a owl drink water?,Yes,Yes
+1617,Does a cat have fur?,Yes,Yes
+1618,Is a gorilla an omnivore?,Yes,No
+1619,Does a snake have fur?,Yes,No
+1620,Does a swan have fur?,Yes,No
+1621,Is a bird cold-blooded?,No,No
+1622,Does a rhino have legs?,Yes,Yes
+1623,Does a rhino have wings?,Yes,No
+1624,Can a snail climb?,Yes,Yes
+1625,Does a hummingbird have hooves?,Yes,No
+1626,Does a swan eat meat?,No,No
+1627,Is a frog a carnivore?,No,Yes
+1628,Does a snake have four legs?,Yes,No
+1629,Does a otter have two legs?,Yes,No
+1630,Does a prawn have legs?,Yes,Yes
+1631,Does a rat have claws?,No,Yes
+1632,Is a parrot a carnivore?,Yes,No
+1633,Does a goat have claws?,Yes,No
+1634,Does a tuna have a tail?,Yes,Yes
+1635,Can a fox climb?,No,Yes
+1636,Does a gorilla have four legs?,Yes,No
+1637,Does a otter have hooves?,No,No
+1638,Does a dolphin drink coffee?,Yes,No
+1639,Does a camel have two legs?,Yes,No
+1640,Does a frog live underwater?,Yes,No
+1641,Does a whale have claws?,No,No
+1642,Is a octupus a carnivore?,No,Yes
+1643,Is a lion an omnivore?,Yes,No
+1644,Does a pigeon have scales?,No,No
+1645,Does a lizard live underwater?,Yes,No
+1646,Does a duck live underwater?,Yes,No
+1647,Does a lizard have a tail?,Yes,Yes
+1648,Does a snail have legs?,Yes,No
+1649,Is a koala an herbivore?,Yes,Yes
+1650,Does a butterfly have bones?,No,No
+1651,Is a swan a carnivore?,No,No
+1652,Does a flamingo have fins?,Yes,No
+1653,Does a eagle live underwater?,Yes,No
+1654,Is a rabbit an omnivore?,Yes,No
+1655,Does a parrot have feathers?,Yes,Yes
+1656,Does a camel have wings?,No,No
+1657,Does a penguin have fur?,Yes,Yes
+1658,Can a herring climb?,No,No
+1659,Can a bird climb?,Yes,Yes
+1660,Can a tuna fly?,Yes,No
+1661,Does a turtle have legs?,Yes,Yes
+1662,Is a worm an herbivore?,Yes,Yes
+1663,Does a pigeon have feathers?,Yes,Yes
+1664,Does a kangaroo have a tail?,No,Yes
+1665,Is a snake an omnivore?,Yes,No
+1666,Does a goat have a tail?,Yes,Yes
+1667,Is a peacock a carnivore?,No,No
+1668,Is a pig warm-blooded?,No,Yes
+1669,Does a zebra have legs?,Yes,Yes
+1670,Does a monkey have four legs?,No,No
+1671,Does a fish have four legs?,No,No
+1672,Is a bird warm-blooded?,No,Yes
+1673,Does a monkey have feathers?,Yes,No
+1674,Does a herring have legs?,No,No
+1675,Is a shrimp a carnivore?,Yes,No
+1676,Does a ostrich live underwater?,No,No
+1677,Does a tuna have claws?,No,No
+1678,Is a worm warm-blooded?,No,No
+1679,Does a snail have feathers?,Yes,No
+1680,Does a hummingbird have hair?,Yes,No
+1681,Does a bird have feathers?,Yes,Yes
+1682,Does a iguana have horns?,No,No
+1683,Does a deer have bones?,Yes,Yes
+1684,Does a owl have four legs?,Yes,No
+1685,Does a herring have a beak?,Yes,No
+1686,Does a squid have bones?,Yes,No
+1687,Does a bird have a tail?,Yes,Yes
+1688,Can a prawn climb?,No,No
+1689,Can a ostrich fly?,No,Yes
+1690,Does a octupus have a beak?,Yes,No
+1691,Does a mule have claws?,No,No
+1692,Is a crocodile a carnivore?,Yes,Yes
+1693,Does a worm have two legs?,No,No
+1694,Can a lion fly?,Yes,No
+1695,Does a sheep drink water?,Yes,Yes
+1696,Does a hippo drink water?,Yes,Yes
+1697,Does a cow drink water?,Yes,Yes
+1698,Does a crocodile have a beak?,Yes,No
+1699,Does a lizard have scales?,No,No
+1700,Can a tuna climb?,Yes,No

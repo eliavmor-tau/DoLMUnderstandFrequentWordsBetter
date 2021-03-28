@@ -54,7 +54,7 @@ class YesNoDataSet(Dataset):
 class YesNoQuestionAnswering(pl.LightningModule):
     def __init__(self, model, tokenizer, config, log_name="YesNoQALog.log"):
         super().__init__()
-        logging.basicConfig(filename=log_name, encoding='utf-8', level=logging.DEBUG)
+        #logging.basicConfig(filename=log_name, encoding='utf-8', level=logging.DEBUG)
         self.model = model
         self.tokenizer = tokenizer
         self.config = config
@@ -73,7 +73,7 @@ class YesNoQuestionAnswering(pl.LightningModule):
         attention_mask = batch["attention_mask"]
         labels = batch["labels"]
         loss = self(input_ids, attention_mask, labels)
-        self.model_training_loss.append(loss)
+        self.model_training_loss.append(loss.item())
         logging.info(f'train_loss: {loss}')
         tensorboard_logs = {"train_loss": loss}
         self.log("train_loss", loss)
@@ -84,7 +84,7 @@ class YesNoQuestionAnswering(pl.LightningModule):
         attention_mask = batch["attention_mask"]
         labels = batch["labels"]
         loss = self(input_ids, attention_mask, labels)
-        self.model_validation_loss.append(loss)
+        self.model_validation_loss.append(loss.item())
         logging.info(f'validation_loss: {loss}')
         tensorboard_logs = {"val_loss": loss}
         self.log("val_loss", loss)
@@ -120,11 +120,12 @@ def train_model(config):
         max_epochs=config.get("max_epochs", 1),
         checkpoint_callback=checkpoint_callback
     )
-
-    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5_base"))
-    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name", "t5_base"))
+    logging.info(config)
+    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
+    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
     model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
     if config.get("checkpoint", None):
+        logging.info("Use checkpoint")
         checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
         model.load_state_dict(checkpoint["state_dict"])
 
@@ -138,13 +139,15 @@ def train_model(config):
 
 
 def test_model(config):
-    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5_base"))
-    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name", "t5_base"))
+    print("Test Model")
+    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
+    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
     model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
 
     if config.get("checkpoint", None):
         checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
         model.load_state_dict(checkpoint["state_dict"])
+    print("Load checkpoint")
     model.eval()
     data_set = YesNoDataSet(csv_path=config.get("test_data", "csv/test_questions.csv"), tokenizer=tokenizer)
     data_loader = DataLoader(data_set, batch_size=config.get("batch_size", 16), shuffle=True)
@@ -182,22 +185,22 @@ def test_model(config):
 
 if __name__ == "__main__":
     config = {
-        "train": True,
+        "train": False,
         "model_name": "t5-base",
-        "gpus": 0,
-        "max_epochs": 10,
+        "gpus": 1,
+        "max_epochs": 50,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
-        "batch_size": 32,
+        "batch_size": 16,
         "train_data": "csv/conceptnet_train_no_animals.csv",
         "test_data": "csv/test_questions.csv",
         "dev_data": "csv/conceptnet_dev.csv",
-        "lr": 1e-4
+        "lr": 1e-4,
+        "checkpoint": "checkpoint/checkpoint-epoch=37-step=150593.ckpt"
     }
     print("Start Run")
     print("- Config -")
     for k, v in config.items():
         print(f"{k}: {v}")
-
     if config.get("train", True):
         train_model(config)
     else:
