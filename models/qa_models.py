@@ -133,6 +133,7 @@ def train_model(config):
 
 def test_model(config):
     print("Test Model")
+    print(config.get("test_data"))
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
     model = T5ForConditionalGeneration.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
     model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
