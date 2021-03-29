@@ -18,15 +18,14 @@ from collections import defaultdict
 import time
 import os
 
-# model_name = 'bert-large-uncased'
-# model_name = 'roberta-large'
-# mc_mlm = True
-# config = AutoConfig.from_pretrained(model_name)
-# tokenizer = Tokenizer(model_name)
-# model = TransformerMaskedLanguageModel(vocab=config, model_name=model_name, multi_choice=mc_mlm)
-# data_reader = DataReader(host=DB_HOST, port=DB_PORT, password=DB_PASSWORD)
-# concept_net = ConceptNetObj()
-
+model_name = 'bert-large-uncased'
+mc_mlm = True
+config = AutoConfig.from_pretrained(model_name)
+tokenizer = Tokenizer(model_name)
+model = TransformerMaskedLanguageModel(vocab=config, model_name=model_name, multi_choice=mc_mlm)
+data_reader = DataReader(host=DB_HOST, port=DB_PORT, password=DB_PASSWORD)
+concept_net = ConceptNetObj()
+wordnet = WordNetObj()
 
 def test_sentence_mc_mlm(sentence, mask_index, batch_size, target_index, multi_choice_answers, k=1):
     input_sent = tokenizer.encode(sentence, add_special_tokens=True) # TODO: move to config?
@@ -513,24 +512,28 @@ def aggregate_results_by_animal(result_df, animals_df):
 def aggregate_results_by_question(result_df, animals_df):
     questions = list(animals_df.columns.values)
     questions.remove("entity")
+    animals = set(animals_df["entity"].values)
     results_by_question = {q: {"accuracy": 0, "yes_count": 0, "no_count": 0} for q in questions}
     for idx, row in result_df.iterrows():
         question = row["question"]
         status = row["model_answer"] == row["true_answer"]
         is_yes = row["model_answer"] == "Yes"
+        animal = set(x.replace("'s", "").replace("?", "").replace(".", "") for x in question.split(" ")).intersection(animals).pop()
+        question = question.replace(animal, "<entity>")
         for q in results_by_question.keys():
-            q_suffix = q.split("<entity>")[-1]
-            if question.endswith(q_suffix):
+            if question == q:
                 results_by_question[q]["accuracy"] += int(status)
                 results_by_question[q]["yes_count"] += int(is_yes)
                 results_by_question[q]["no_count"] += int(not is_yes)
+                break
+
     for q in results_by_question.keys():
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
     return pd.DataFrame.from_dict(results_by_question)
 
 
 def summarize_results():
-    animals_df = pd.read_csv("csv/animals.csv")
+    animals_df = pd.read_csv("csv/animals_new.csv")
     result_df = pd.read_csv("csv/result.csv")
     results_by_animal = aggregate_results_by_animal(result_df, animals_df)
     results_by_question = aggregate_results_by_question(result_df, animals_df)
@@ -544,9 +547,10 @@ if __name__ == "__main__":
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    questions = generate_sentences_from_csv(csv_path="csv/animals_new.csv")
+    questions = generate_sentences_from_csv(csv_path="csv/animals_not_underwater.csv")
     questions = pd.DataFrame.from_dict(questions)
-    questions.to_csv("csv/animal_questions.csv")
+    print(questions)
+    questions.to_csv("csv/animal_not_underwater_questions.csv")
 
     # merge_all_sentences(["csv/vehicle.csv", "csv/furniture.csv", "csv/food.csv", "csv/musical_instruments.csv"])
     # merge_all_sentences(["csv/animals.csv"])

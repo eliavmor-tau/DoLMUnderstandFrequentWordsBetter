@@ -8,7 +8,10 @@ class PostgresClient:
         self.host = host
         self.port = port
         self.password = password
-        self.con = psycopg2.connect(database="postgres", user="postgres", password=password, host=host, port=port)
+        try:
+            self.con = psycopg2.connect(database="postgres", user="postgres", password=password, host=host, port=port)
+        except Exception as e:
+            print(e)
         self.table_to_columns = {'public': {}}
         print("Database connected successfully")
 
