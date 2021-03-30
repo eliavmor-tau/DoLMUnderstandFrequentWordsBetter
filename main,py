@@ -445,7 +445,7 @@ def merge_all_sentences(csv_paths, output_path="csv/questions.csv", split=True):
 
 
 def animal_accuracy(animal, result_df):
-    animal_df = result_df[[animal in question for question in result_df.question]]
+    animal_df = result_df[[f" {animal} " in question for question in result_df.question]]
     accuracy = len(animal_df[animal_df.model_answer == animal_df.true_answer]) / len(animal_df)
     yes_count = len(animal_df[animal_df.model_answer == "Yes"])
     no_count = len(animal_df[animal_df.model_answer == "No"])
@@ -518,8 +518,8 @@ def aggregate_results_by_question(result_df, animals_df):
         question = row["question"]
         status = row["model_answer"] == row["true_answer"]
         is_yes = row["model_answer"] == "Yes"
-        animal = set(x.replace("'s", "").replace("?", "").replace(".", "") for x in question.split(" ")).intersection(animals).pop()
-        question = question.replace(animal, "<entity>")
+        for animal in animals:
+            question = question.replace(f" {animal} ", " <entity> ")
         for q in results_by_question.keys():
             if question == q:
                 results_by_question[q]["accuracy"] += int(status)
@@ -532,8 +532,8 @@ def aggregate_results_by_question(result_df, animals_df):
     return pd.DataFrame.from_dict(results_by_question)
 
 
-def summarize_results():
-    animals_df = pd.read_csv("csv/animals_new.csv")
+def summarize_results(csv):
+    animals_df = pd.read_csv("csv/animals_not_underwater.csv")
     result_df = pd.read_csv("csv/result.csv")
     results_by_animal = aggregate_results_by_animal(result_df, animals_df)
     results_by_question = aggregate_results_by_question(result_df, animals_df)
@@ -547,10 +547,10 @@ if __name__ == "__main__":
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    questions = generate_sentences_from_csv(csv_path="csv/animals_not_underwater.csv")
+    questions = generate_sentences_from_csv(csv_path="csv/animals_doesnt_live_underwater.csv")
     questions = pd.DataFrame.from_dict(questions)
     print(questions)
-    questions.to_csv("csv/animal_not_underwater_questions.csv")
+    questions.to_csv("csv/animals_doesnt_live_underwater_questions.csv")
 
     # merge_all_sentences(["csv/vehicle.csv", "csv/furniture.csv", "csv/food.csv", "csv/musical_instruments.csv"])
     # merge_all_sentences(["csv/animals.csv"])

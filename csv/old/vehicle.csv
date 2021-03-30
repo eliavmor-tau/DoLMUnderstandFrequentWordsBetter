@@ -1,0 +1,39 @@
+﻿entity,Does a <entity> have wheels?,Does a <entity> have four wheels?,Does a <entity> have two wheels?,Does a <entity> have wings?,Does a <entity> fly?,Does a <entity> travel on land?,Does a <entity> travel on water?,Does a <entity> travel in space?,Is a <entity> used for construction?,Does a <entity> carry one person?,Does a <entity> have a steering wheel?,Can a <entity> carry cargo?,Does a <entity> have  a motor?
+aircraft,1,0,0,1,1,0,0,0,0,0,1,1,1
+airplane,1,0,0,1,1,0,0,0,0,0,1,1,1
+airship,0,0,0,0,1,0,0,0,0,0,0,1,1
+ambulance,1,1,0,0,0,1,0,0,0,0,1,0,1
+battleship,0,0,0,0,0,0,1,0,0,0,1,1,1
+bicycle,1,0,1,0,0,1,0,0,0,1,0,0,0
+boat,0,0,0,0,0,0,1,0,0,0,1,0,1
+bus,1,0,0,0,0,1,0,0,0,0,1,0,1
+cab,1,1,0,0,0,1,0,0,0,0,1,0,1
+car,1,1,0,0,0,1,0,0,0,0,1,0,1
+jeep,1,1,0,0,0,1,0,0,0,0,1,0,1
+ship,0,0,0,0,0,0,1,0,0,0,1,0,1
+spacecraft,1,0,0,1,1,0,0,1,0,0,1,1,1
+van,1,1,0,0,0,1,0,0,0,0,1,1,1
+helicopter,0,0,0,0,1,0,0,0,0,0,0,1,1
+submarine,0,0,0,0,0,0,1,0,0,0,0,1,1
+scooter,1,0,1,0,0,1,0,0,0,1,0,0,1
+sports car,1,1,0,0,0,1,0,0,0,0,1,0,1
+taxi,1,1,0,0,0,1,0,0,0,0,1,0,1
+police car,1,1,0,0,0,1,0,0,0,0,1,0,1
+skateboard,1,1,0,0,0,1,0,0,0,1,0,0,0
+mountain bike,1,0,1,0,0,1,0,0,0,1,0,0,0
+motorcycle,1,0,1,0,0,1,0,0,0,1,0,0,1
+fire truck,1,0,0,0,0,1,0,0,0,0,1,0,1
+crane,1,0,0,0,0,1,0,0,1,0,1,1,1
+forklift,1,0,0,0,0,1,0,0,1,0,1,1,1
+tractor,1,1,0,0,0,1,0,0,1,0,1,1,1
+recycling truck,1,0,0,0,0,1,0,0,1,0,1,0,1
+cement mixer,1,0,0,0,0,1,0,0,1,0,1,0,1
+dump truck,1,0,0,0,0,1,0,0,0,0,1,0,1
+hot air balloon,0,0,0,0,1,0,0,0,0,0,0,0,0
+tram,1,0,0,0,0,1,0,0,0,0,0,0,1
+carriage,1,1,0,0,0,1,0,0,0,0,0,0,0
+train,1,0,0,0,0,1,0,0,0,0,0,1,1
+snowboard,0,0,0,0,0,1,0,0,0,1,0,0,0
+surfboard,0,0,0,0,0,1,0,0,0,1,0,0,0
+satellite,0,0,0,0,1,1,0,1,0,0,0,0,1
+wagon,1,1,0,0,0,1,0,0,0,0,0,0,0
