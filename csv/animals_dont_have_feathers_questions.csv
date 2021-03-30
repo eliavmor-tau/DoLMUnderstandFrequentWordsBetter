@@ -1,0 +1,667 @@
+,question,label
+0,Does a corgi have feathers?,No
+1,A corgi has feathers.,No
+2,Are feathers part of a corgi's body?,No
+3,Feathers are part of a corgi's body.,No
+4,Is a feather part of a corgi's body?,No
+5,Feather is  part of a corgi's body.,No
+6,Does a beagle have feathers?,No
+7,A beagle has feathers.,No
+8,Are feathers part of a beagle's body?,No
+9,Feathers are part of a beagle's body.,No
+10,Is a feather part of a beagle's body?,No
+11,Feather is  part of a beagle's body.,No
+12,Does a boxer have feathers?,No
+13,A boxer has feathers.,No
+14,Are feathers part of a boxer's body?,No
+15,Feathers are part of a boxer's body.,No
+16,Is a feather part of a boxer's body?,No
+17,Feather is  part of a boxer's body.,No
+18,Does a bulldog have feathers?,No
+19,A bulldog has feathers.,No
+20,Are feathers part of a bulldog's body?,No
+21,Feathers are part of a bulldog's body.,No
+22,Is a feather part of a bulldog's body?,No
+23,Feather is  part of a bulldog's body.,No
+24,Does a dog have feathers?,No
+25,A dog has feathers.,No
+26,Are feathers part of a dog's body?,No
+27,Feathers are part of a dog's body.,No
+28,Is a feather part of a dog's body?,No
+29,Feather is  part of a dog's body.,No
+30,Does a chihuahua have feathers?,No
+31,A chihuahua has feathers.,No
+32,Are feathers part of a chihuahua's body?,No
+33,Feathers are part of a chihuahua's body.,No
+34,Is a feather part of a chihuahua's body?,No
+35,Feather is  part of a chihuahua's body.,No
+36,Does a cocker spaniel have feathers?,No
+37,A cocker spaniel has feathers.,No
+38,Are feathers part of a cocker spaniel's body?,No
+39,Feathers are part of a cocker spaniel's body.,No
+40,Is a feather part of a cocker spaniel's body?,No
+41,Feather is  part of a cocker spaniel's body.,No
+42,Does a collie have feathers?,No
+43,A collie has feathers.,No
+44,Are feathers part of a collie's body?,No
+45,Feathers are part of a collie's body.,No
+46,Is a feather part of a collie's body?,No
+47,Feather is  part of a collie's body.,No
+48,Does a dalmatian have feathers?,No
+49,A dalmatian has feathers.,No
+50,Are feathers part of a dalmatian's body?,No
+51,Feathers are part of a dalmatian's body.,No
+52,Is a feather part of a dalmatian's body?,No
+53,Feather is  part of a dalmatian's body.,No
+54,Does a doberman have feathers?,No
+55,A doberman has feathers.,No
+56,Are feathers part of a doberman's body?,No
+57,Feathers are part of a doberman's body.,No
+58,Is a feather part of a doberman's body?,No
+59,Feather is  part of a doberman's body.,No
+60,Does a fox have feathers?,No
+61,A fox has feathers.,No
+62,Are feathers part of a fox's body?,No
+63,Feathers are part of a fox's body.,No
+64,Is a feather part of a fox's body?,No
+65,Feather is  part of a fox's body.,No
+66,Does a labrador have feathers?,No
+67,A labrador has feathers.,No
+68,Are feathers part of a labrador's body?,No
+69,Feathers are part of a labrador's body.,No
+70,Is a feather part of a labrador's body?,No
+71,Feather is  part of a labrador's body.,No
+72,Does a pinscher have feathers?,No
+73,A pinscher has feathers.,No
+74,Are feathers part of a pinscher's body?,No
+75,Feathers are part of a pinscher's body.,No
+76,Is a feather part of a pinscher's body?,No
+77,Feather is  part of a pinscher's body.,No
+78,Does a pomeranian have feathers?,No
+79,A pomeranian has feathers.,No
+80,Are feathers part of a pomeranian's body?,No
+81,Feathers are part of a pomeranian's body.,No
+82,Is a feather part of a pomeranian's body?,No
+83,Feather is  part of a pomeranian's body.,No
+84,Does a schnauzer have feathers?,No
+85,A schnauzer has feathers.,No
+86,Are feathers part of a schnauzer's body?,No
+87,Feathers are part of a schnauzer's body.,No
+88,Is a feather part of a schnauzer's body?,No
+89,Feather is  part of a schnauzer's body.,No
+90,Does a terrier have feathers?,No
+91,A terrier has feathers.,No
+92,Are feathers part of a terrier's body?,No
+93,Feathers are part of a terrier's body.,No
+94,Is a feather part of a terrier's body?,No
+95,Feather is  part of a terrier's body.,No
+96,Does a wolf have feathers?,No
+97,A wolf has feathers.,No
+98,Are feathers part of a wolf's body?,No
+99,Feathers are part of a wolf's body.,No
+100,Is a feather part of a wolf's body?,No
+101,Feather is  part of a wolf's body.,No
+102,Does a cat have feathers?,No
+103,A cat has feathers.,No
+104,Are feathers part of a cat's body?,No
+105,Feathers are part of a cat's body.,No
+106,Is a feather part of a cat's body?,No
+107,Feather is  part of a cat's body.,No
+108,Does a caracal have feathers?,No
+109,A caracal has feathers.,No
+110,Are feathers part of a caracal's body?,No
+111,Feathers are part of a caracal's body.,No
+112,Is a feather part of a caracal's body?,No
+113,Feather is  part of a caracal's body.,No
+114,Does a jaguar have feathers?,No
+115,A jaguar has feathers.,No
+116,Are feathers part of a jaguar's body?,No
+117,Feathers are part of a jaguar's body.,No
+118,Is a feather part of a jaguar's body?,No
+119,Feather is  part of a jaguar's body.,No
+120,Does a liger have feathers?,No
+121,A liger has feathers.,No
+122,Are feathers part of a liger's body?,No
+123,Feathers are part of a liger's body.,No
+124,Is a feather part of a liger's body?,No
+125,Feather is  part of a liger's body.,No
+126,Does a lion have feathers?,No
+127,A lion has feathers.,No
+128,Are feathers part of a lion's body?,No
+129,Feathers are part of a lion's body.,No
+130,Is a feather part of a lion's body?,No
+131,Feather is  part of a lion's body.,No
+132,Does a leopard have feathers?,No
+133,A leopard has feathers.,No
+134,Are feathers part of a leopard's body?,No
+135,Feathers are part of a leopard's body.,No
+136,Is a feather part of a leopard's body?,No
+137,Feather is  part of a leopard's body.,No
+138,Does a tiger have feathers?,No
+139,A tiger has feathers.,No
+140,Are feathers part of a tiger's body?,No
+141,Feathers are part of a tiger's body.,No
+142,Is a feather part of a tiger's body?,No
+143,Feather is  part of a tiger's body.,No
+144,Does a beef have feathers?,No
+145,A beef has feathers.,No
+146,Are feathers part of a beef's body?,No
+147,Feathers are part of a beef's body.,No
+148,Is a feather part of a beef's body?,No
+149,Feather is  part of a beef's body.,No
+150,Does a bull have feathers?,No
+151,A bull has feathers.,No
+152,Are feathers part of a bull's body?,No
+153,Feathers are part of a bull's body.,No
+154,Is a feather part of a bull's body?,No
+155,Feather is  part of a bull's body.,No
+156,Does a cow have feathers?,No
+157,A cow has feathers.,No
+158,Are feathers part of a cow's body?,No
+159,Feathers are part of a cow's body.,No
+160,Is a feather part of a cow's body?,No
+161,Feather is  part of a cow's body.,No
+162,Does a ox have feathers?,No
+163,A ox has feathers.,No
+164,Are feathers part of a ox's body?,No
+165,Feathers are part of a ox's body.,No
+166,Is a feather part of a ox's body?,No
+167,Feather is  part of a ox's body.,No
+168,Does a rhino have feathers?,No
+169,A rhino has feathers.,No
+170,Are feathers part of a rhino's body?,No
+171,Feathers are part of a rhino's body.,No
+172,Is a feather part of a rhino's body?,No
+173,Feather is  part of a rhino's body.,No
+174,Does a elephant have feathers?,No
+175,A elephant has feathers.,No
+176,Are feathers part of a elephant's body?,No
+177,Feathers are part of a elephant's body.,No
+178,Is a feather part of a elephant's body?,No
+179,Feather is  part of a elephant's body.,No
+180,Does a bear have feathers?,No
+181,A bear has feathers.,No
+182,Are feathers part of a bear's body?,No
+183,Feathers are part of a bear's body.,No
+184,Is a feather part of a bear's body?,No
+185,Feather is  part of a bear's body.,No
+186,Does a camel have feathers?,No
+187,A camel has feathers.,No
+188,Are feathers part of a camel's body?,No
+189,Feathers are part of a camel's body.,No
+190,Is a feather part of a camel's body?,No
+191,Feather is  part of a camel's body.,No
+192,Does a deer have feathers?,No
+193,A deer has feathers.,No
+194,Are feathers part of a deer's body?,No
+195,Feathers are part of a deer's body.,No
+196,Is a feather part of a deer's body?,No
+197,Feather is  part of a deer's body.,No
+198,Does a flamingo have feathers?,No
+199,A flamingo has feathers.,No
+200,Are feathers part of a flamingo's body?,No
+201,Feathers are part of a flamingo's body.,No
+202,Is a feather part of a flamingo's body?,No
+203,Feather is  part of a flamingo's body.,No
+204,Does a goat have feathers?,No
+205,A goat has feathers.,No
+206,Are feathers part of a goat's body?,No
+207,Feathers are part of a goat's body.,No
+208,Is a feather part of a goat's body?,No
+209,Feather is  part of a goat's body.,No
+210,Does a gorilla have feathers?,No
+211,A gorilla has feathers.,No
+212,Are feathers part of a gorilla's body?,No
+213,Feathers are part of a gorilla's body.,No
+214,Is a feather part of a gorilla's body?,No
+215,Feather is  part of a gorilla's body.,No
+216,Does a horse have feathers?,No
+217,A horse has feathers.,No
+218,Are feathers part of a horse's body?,No
+219,Feathers are part of a horse's body.,No
+220,Is a feather part of a horse's body?,No
+221,Feather is  part of a horse's body.,No
+222,Does a hippopotamus have feathers?,No
+223,A hippopotamus has feathers.,No
+224,Are feathers part of a hippopotamus's body?,No
+225,Feathers are part of a hippopotamus's body.,No
+226,Is a feather part of a hippopotamus's body?,No
+227,Feather is  part of a hippopotamus's body.,No
+228,Does a iguana have feathers?,No
+229,A iguana has feathers.,No
+230,Are feathers part of a iguana's body?,No
+231,Feathers are part of a iguana's body.,No
+232,Is a feather part of a iguana's body?,No
+233,Feather is  part of a iguana's body.,No
+234,Does a koala have feathers?,No
+235,A koala has feathers.,No
+236,Are feathers part of a koala's body?,No
+237,Feathers are part of a koala's body.,No
+238,Is a feather part of a koala's body?,No
+239,Feather is  part of a koala's body.,No
+240,Does a kangaroo have feathers?,No
+241,A kangaroo has feathers.,No
+242,Are feathers part of a kangaroo's body?,No
+243,Feathers are part of a kangaroo's body.,No
+244,Is a feather part of a kangaroo's body?,No
+245,Feather is  part of a kangaroo's body.,No
+246,Does a lizard have feathers?,No
+247,A lizard has feathers.,No
+248,Are feathers part of a lizard's body?,No
+249,Feathers are part of a lizard's body.,No
+250,Is a feather part of a lizard's body?,No
+251,Feather is  part of a lizard's body.,No
+252,Does a monkey have feathers?,No
+253,A monkey has feathers.,No
+254,Are feathers part of a monkey's body?,No
+255,Feathers are part of a monkey's body.,No
+256,Is a feather part of a monkey's body?,No
+257,Feather is  part of a monkey's body.,No
+258,Does a mule have feathers?,No
+259,A mule has feathers.,No
+260,Are feathers part of a mule's body?,No
+261,Feathers are part of a mule's body.,No
+262,Is a feather part of a mule's body?,No
+263,Feather is  part of a mule's body.,No
+264,Does a pig have feathers?,No
+265,A pig has feathers.,No
+266,Are feathers part of a pig's body?,No
+267,Feathers are part of a pig's body.,No
+268,Is a feather part of a pig's body?,No
+269,Feather is  part of a pig's body.,No
+270,Does a rabbit have feathers?,No
+271,A rabbit has feathers.,No
+272,Are feathers part of a rabbit's body?,No
+273,Feathers are part of a rabbit's body.,No
+274,Is a feather part of a rabbit's body?,No
+275,Feather is  part of a rabbit's body.,No
+276,Does a rat have feathers?,No
+277,A rat has feathers.,No
+278,Are feathers part of a rat's body?,No
+279,Feathers are part of a rat's body.,No
+280,Is a feather part of a rat's body?,No
+281,Feather is  part of a rat's body.,No
+282,Does a sheep have feathers?,No
+283,A sheep has feathers.,No
+284,Are feathers part of a sheep's body?,No
+285,Feathers are part of a sheep's body.,No
+286,Is a feather part of a sheep's body?,No
+287,Feather is  part of a sheep's body.,No
+288,Does a zebra have feathers?,No
+289,A zebra has feathers.,No
+290,Are feathers part of a zebra's body?,No
+291,Feathers are part of a zebra's body.,No
+292,Is a feather part of a zebra's body?,No
+293,Feather is  part of a zebra's body.,No
+294,Does a worm have feathers?,No
+295,A worm has feathers.,No
+296,Are feathers part of a worm's body?,No
+297,Feathers are part of a worm's body.,No
+298,Is a feather part of a worm's body?,No
+299,Feather is  part of a worm's body.,No
+300,Does a snail have feathers?,No
+301,A snail has feathers.,No
+302,Are feathers part of a snail's body?,No
+303,Feathers are part of a snail's body.,No
+304,Is a feather part of a snail's body?,No
+305,Feather is  part of a snail's body.,No
+306,Does a giraffe have feathers?,No
+307,A giraffe has feathers.,No
+308,Are feathers part of a giraffe's body?,No
+309,Feathers are part of a giraffe's body.,No
+310,Is a feather part of a giraffe's body?,No
+311,Feather is  part of a giraffe's body.,No
+312,Does a tarantula have feathers?,No
+313,A tarantula has feathers.,No
+314,Are feathers part of a tarantula's body?,No
+315,Feathers are part of a tarantula's body.,No
+316,Is a feather part of a tarantula's body?,No
+317,Feather is  part of a tarantula's body.,No
+318,Does a spider have feathers?,No
+319,A spider has feathers.,No
+320,Are feathers part of a spider's body?,No
+321,Feathers are part of a spider's body.,No
+322,Is a feather part of a spider's body?,No
+323,Feather is  part of a spider's body.,No
+324,Does a boa have feathers?,No
+325,A boa has feathers.,No
+326,Are feathers part of a boa's body?,No
+327,Feathers are part of a boa's body.,No
+328,Is a feather part of a boa's body?,No
+329,Feather is  part of a boa's body.,No
+330,Does a cobra have feathers?,No
+331,A cobra has feathers.,No
+332,Are feathers part of a cobra's body?,No
+333,Feathers are part of a cobra's body.,No
+334,Is a feather part of a cobra's body?,No
+335,Feather is  part of a cobra's body.,No
+336,Does a mamba have feathers?,No
+337,A mamba has feathers.,No
+338,Are feathers part of a mamba's body?,No
+339,Feathers are part of a mamba's body.,No
+340,Is a feather part of a mamba's body?,No
+341,Feather is  part of a mamba's body.,No
+342,Does a baboon have feathers?,No
+343,A baboon has feathers.,No
+344,Are feathers part of a baboon's body?,No
+345,Feathers are part of a baboon's body.,No
+346,Is a feather part of a baboon's body?,No
+347,Feather is  part of a baboon's body.,No
+348,Does a grivet have feathers?,No
+349,A grivet has feathers.,No
+350,Are feathers part of a grivet's body?,No
+351,Feathers are part of a grivet's body.,No
+352,Is a feather part of a grivet's body?,No
+353,Feather is  part of a grivet's body.,No
+354,Does a aardvark have feathers?,No
+355,A aardvark has feathers.,No
+356,Are feathers part of a aardvark's body?,No
+357,Feathers are part of a aardvark's body.,No
+358,Is a feather part of a aardvark's body?,No
+359,Feather is  part of a aardvark's body.,No
+360,Does a mouse have feathers?,No
+361,A mouse has feathers.,No
+362,Are feathers part of a mouse's body?,No
+363,Feathers are part of a mouse's body.,No
+364,Is a feather part of a mouse's body?,No
+365,Feather is  part of a mouse's body.,No
+366,Does a bison have feathers?,No
+367,A bison has feathers.,No
+368,Are feathers part of a bison's body?,No
+369,Feathers are part of a bison's body.,No
+370,Is a feather part of a bison's body?,No
+371,Feather is  part of a bison's body.,No
+372,Does a ass have feathers?,No
+373,A ass has feathers.,No
+374,Are feathers part of a ass's body?,No
+375,Feathers are part of a ass's body.,No
+376,Is a feather part of a ass's body?,No
+377,Feather is  part of a ass's body.,No
+378,Does a antelope have feathers?,No
+379,A antelope has feathers.,No
+380,Are feathers part of a antelope's body?,No
+381,Feathers are part of a antelope's body.,No
+382,Is a feather part of a antelope's body?,No
+383,Feather is  part of a antelope's body.,No
+384,Does a ant have feathers?,No
+385,A ant has feathers.,No
+386,Are feathers part of a ant's body?,No
+387,Feathers are part of a ant's body.,No
+388,Is a feather part of a ant's body?,No
+389,Feather is  part of a ant's body.,No
+390,Does a caterpillar have feathers?,No
+391,A caterpillar has feathers.,No
+392,Are feathers part of a caterpillar's body?,No
+393,Feathers are part of a caterpillar's body.,No
+394,Is a feather part of a caterpillar's body?,No
+395,Feather is  part of a caterpillar's body.,No
+396,Does a shrew have feathers?,No
+397,A shrew has feathers.,No
+398,Are feathers part of a shrew's body?,No
+399,Feathers are part of a shrew's body.,No
+400,Is a feather part of a shrew's body?,No
+401,Feather is  part of a shrew's body.,No
+402,Does a raccoon have feathers?,No
+403,A raccoon has feathers.,No
+404,Are feathers part of a raccoon's body?,No
+405,Feathers are part of a raccoon's body.,No
+406,Is a feather part of a raccoon's body?,No
+407,Feather is  part of a raccoon's body.,No
+408,Does a quail have feathers?,No
+409,A quail has feathers.,No
+410,Are feathers part of a quail's body?,No
+411,Feathers are part of a quail's body.,No
+412,Is a feather part of a quail's body?,No
+413,Feather is  part of a quail's body.,No
+414,Does a husky have feathers?,No
+415,A husky has feathers.,No
+416,Are feathers part of a husky's body?,No
+417,Feathers are part of a husky's body.,No
+418,Is a feather part of a husky's body?,No
+419,Feather is  part of a husky's body.,No
+420,Does a skunk have feathers?,No
+421,A skunk has feathers.,No
+422,Are feathers part of a skunk's body?,No
+423,Feathers are part of a skunk's body.,No
+424,Is a feather part of a skunk's body?,No
+425,Feather is  part of a skunk's body.,No
+426,Does a ape have feathers?,No
+427,A ape has feathers.,No
+428,Are feathers part of a ape's body?,No
+429,Feathers are part of a ape's body.,No
+430,Is a feather part of a ape's body?,No
+431,Feather is  part of a ape's body.,No
+432,Does a alpaca have feathers?,No
+433,A alpaca has feathers.,No
+434,Are feathers part of a alpaca's body?,No
+435,Feathers are part of a alpaca's body.,No
+436,Is a feather part of a alpaca's body?,No
+437,Feather is  part of a alpaca's body.,No
+438,Does a donkey have feathers?,No
+439,A donkey has feathers.,No
+440,Are feathers part of a donkey's body?,No
+441,Feathers are part of a donkey's body.,No
+442,Is a feather part of a donkey's body?,No
+443,Feather is  part of a donkey's body.,No
+444,Does a moose have feathers?,No
+445,A moose has feathers.,No
+446,Are feathers part of a moose's body?,No
+447,Feathers are part of a moose's body.,No
+448,Is a feather part of a moose's body?,No
+449,Feather is  part of a moose's body.,No
+450,Does a alligator have feathers?,No
+451,A alligator has feathers.,No
+452,Are feathers part of a alligator's body?,No
+453,Feathers are part of a alligator's body.,No
+454,Is a feather part of a alligator's body?,No
+455,Feather is  part of a alligator's body.,No
+456,Does a crocodile have feathers?,No
+457,A crocodile has feathers.,No
+458,Are feathers part of a crocodile's body?,No
+459,Feathers are part of a crocodile's body.,No
+460,Is a feather part of a crocodile's body?,No
+461,Feather is  part of a crocodile's body.,No
+462,Does a snake have feathers?,No
+463,A snake has feathers.,No
+464,Are feathers part of a snake's body?,No
+465,Feathers are part of a snake's body.,No
+466,Is a feather part of a snake's body?,No
+467,Feather is  part of a snake's body.,No
+468,Does a frog have feathers?,No
+469,A frog has feathers.,No
+470,Are feathers part of a frog's body?,No
+471,Feathers are part of a frog's body.,No
+472,Is a feather part of a frog's body?,No
+473,Feather is  part of a frog's body.,No
+474,Does a salamander have feathers?,No
+475,A salamander has feathers.,No
+476,Are feathers part of a salamander's body?,No
+477,Feathers are part of a salamander's body.,No
+478,Is a feather part of a salamander's body?,No
+479,Feather is  part of a salamander's body.,No
+480,Does a gibbon have feathers?,No
+481,A gibbon has feathers.,No
+482,Are feathers part of a gibbon's body?,No
+483,Feathers are part of a gibbon's body.,No
+484,Is a feather part of a gibbon's body?,No
+485,Feather is  part of a gibbon's body.,No
+486,Does a hyena have feathers?,No
+487,A hyena has feathers.,No
+488,Are feathers part of a hyena's body?,No
+489,Feathers are part of a hyena's body.,No
+490,Is a feather part of a hyena's body?,No
+491,Feather is  part of a hyena's body.,No
+492,Does a rottweiler have feathers?,No
+493,A rottweiler has feathers.,No
+494,Are feathers part of a rottweiler's body?,No
+495,Feathers are part of a rottweiler's body.,No
+496,Is a feather part of a rottweiler's body?,No
+497,Feather is  part of a rottweiler's body.,No
+498,Does a squirrel have feathers?,No
+499,A squirrel has feathers.,No
+500,Are feathers part of a squirrel's body?,No
+501,Feathers are part of a squirrel's body.,No
+502,Is a feather part of a squirrel's body?,No
+503,Feather is  part of a squirrel's body.,No
+504,Does a tapir have feathers?,No
+505,A tapir has feathers.,No
+506,Are feathers part of a tapir's body?,No
+507,Feathers are part of a tapir's body.,No
+508,Is a feather part of a tapir's body?,No
+509,Feather is  part of a tapir's body.,No
+510,Does a yak have feathers?,No
+511,A yak has feathers.,No
+512,Are feathers part of a yak's body?,No
+513,Feathers are part of a yak's body.,No
+514,Is a feather part of a yak's body?,No
+515,Feather is  part of a yak's body.,No
+516,Does a fish have feathers?,No
+517,A fish has feathers.,No
+518,Are feathers part of a fish's body?,No
+519,Feathers are part of a fish's body.,No
+520,Is a feather part of a fish's body?,No
+521,Feather is  part of a fish's body.,No
+522,Does a shark have feathers?,No
+523,A shark has feathers.,No
+524,Are feathers part of a shark's body?,No
+525,Feathers are part of a shark's body.,No
+526,Is a feather part of a shark's body?,No
+527,Feather is  part of a shark's body.,No
+528,Does a tuna have feathers?,No
+529,A tuna has feathers.,No
+530,Are feathers part of a tuna's body?,No
+531,Feathers are part of a tuna's body.,No
+532,Is a feather part of a tuna's body?,No
+533,Feather is  part of a tuna's body.,No
+534,Does a jellyfish have feathers?,No
+535,A jellyfish has feathers.,No
+536,Are feathers part of a jellyfish's body?,No
+537,Feathers are part of a jellyfish's body.,No
+538,Is a feather part of a jellyfish's body?,No
+539,Feather is  part of a jellyfish's body.,No
+540,Does a salmon have feathers?,No
+541,A salmon has feathers.,No
+542,Are feathers part of a salmon's body?,No
+543,Feathers are part of a salmon's body.,No
+544,Is a feather part of a salmon's body?,No
+545,Feather is  part of a salmon's body.,No
+546,Does a octupus have feathers?,No
+547,A octupus has feathers.,No
+548,Are feathers part of a octupus's body?,No
+549,Feathers are part of a octupus's body.,No
+550,Is a feather part of a octupus's body?,No
+551,Feather is  part of a octupus's body.,No
+552,Does a barracuda have feathers?,No
+553,A barracuda has feathers.,No
+554,Are feathers part of a barracuda's body?,No
+555,Feathers are part of a barracuda's body.,No
+556,Is a feather part of a barracuda's body?,No
+557,Feather is  part of a barracuda's body.,No
+558,Does a codfish have feathers?,No
+559,A codfish has feathers.,No
+560,Are feathers part of a codfish's body?,No
+561,Feathers are part of a codfish's body.,No
+562,Is a feather part of a codfish's body?,No
+563,Feather is  part of a codfish's body.,No
+564,Does a crab have feathers?,No
+565,A crab has feathers.,No
+566,Are feathers part of a crab's body?,No
+567,Feathers are part of a crab's body.,No
+568,Is a feather part of a crab's body?,No
+569,Feather is  part of a crab's body.,No
+570,Does a cuttlefish have feathers?,No
+571,A cuttlefish has feathers.,No
+572,Are feathers part of a cuttlefish's body?,No
+573,Feathers are part of a cuttlefish's body.,No
+574,Is a feather part of a cuttlefish's body?,No
+575,Feather is  part of a cuttlefish's body.,No
+576,Does a dolphin have feathers?,No
+577,A dolphin has feathers.,No
+578,Are feathers part of a dolphin's body?,No
+579,Feathers are part of a dolphin's body.,No
+580,Is a feather part of a dolphin's body?,No
+581,Feather is  part of a dolphin's body.,No
+582,Does a eel have feathers?,No
+583,A eel has feathers.,No
+584,Are feathers part of a eel's body?,No
+585,Feathers are part of a eel's body.,No
+586,Is a feather part of a eel's body?,No
+587,Feather is  part of a eel's body.,No
+588,Does a gar have feathers?,No
+589,A gar has feathers.,No
+590,Are feathers part of a gar's body?,No
+591,Feathers are part of a gar's body.,No
+592,Is a feather part of a gar's body?,No
+593,Feather is  part of a gar's body.,No
+594,Does a herring have feathers?,No
+595,A herring has feathers.,No
+596,Are feathers part of a herring's body?,No
+597,Feathers are part of a herring's body.,No
+598,Is a feather part of a herring's body?,No
+599,Feather is  part of a herring's body.,No
+600,Does a kingfisher have feathers?,No
+601,A kingfisher has feathers.,No
+602,Are feathers part of a kingfisher's body?,No
+603,Feathers are part of a kingfisher's body.,No
+604,Is a feather part of a kingfisher's body?,No
+605,Feather is  part of a kingfisher's body.,No
+606,Does a lobster have feathers?,No
+607,A lobster has feathers.,No
+608,Are feathers part of a lobster's body?,No
+609,Feathers are part of a lobster's body.,No
+610,Is a feather part of a lobster's body?,No
+611,Feather is  part of a lobster's body.,No
+612,Does a oyster have feathers?,No
+613,A oyster has feathers.,No
+614,Are feathers part of a oyster's body?,No
+615,Feathers are part of a oyster's body.,No
+616,Is a feather part of a oyster's body?,No
+617,Feather is  part of a oyster's body.,No
+618,Does a puma have feathers?,No
+619,A puma has feathers.,No
+620,Are feathers part of a puma's body?,No
+621,Feathers are part of a puma's body.,No
+622,Is a feather part of a puma's body?,No
+623,Feather is  part of a puma's body.,No
+624,Does a piranha have feathers?,No
+625,A piranha has feathers.,No
+626,Are feathers part of a piranha's body?,No
+627,Feathers are part of a piranha's body.,No
+628,Is a feather part of a piranha's body?,No
+629,Feather is  part of a piranha's body.,No
+630,Does a seal have feathers?,No
+631,A seal has feathers.,No
+632,Are feathers part of a seal's body?,No
+633,Feathers are part of a seal's body.,No
+634,Is a feather part of a seal's body?,No
+635,Feather is  part of a seal's body.,No
+636,Does a shrimp have feathers?,No
+637,A shrimp has feathers.,No
+638,Are feathers part of a shrimp's body?,No
+639,Feathers are part of a shrimp's body.,No
+640,Is a feather part of a shrimp's body?,No
+641,Feather is  part of a shrimp's body.,No
+642,Does a prawn have feathers?,No
+643,A prawn has feathers.,No
+644,Are feathers part of a prawn's body?,No
+645,Feathers are part of a prawn's body.,No
+646,Is a feather part of a prawn's body?,No
+647,Feather is  part of a prawn's body.,No
+648,Does a starfish have feathers?,No
+649,A starfish has feathers.,No
+650,Are feathers part of a starfish's body?,No
+651,Feathers are part of a starfish's body.,No
+652,Is a feather part of a starfish's body?,No
+653,Feather is  part of a starfish's body.,No
+654,Does a sponge have feathers?,No
+655,A sponge has feathers.,No
+656,Are feathers part of a sponge's body?,No
+657,Feathers are part of a sponge's body.,No
+658,Is a feather part of a sponge's body?,No
+659,Feather is  part of a sponge's body.,No
+660,Does a whale have feathers?,No
+661,A whale has feathers.,No
+662,Are feathers part of a whale's body?,No
+663,Feathers are part of a whale's body.,No
+664,Is a feather part of a whale's body?,No
+665,Feather is  part of a whale's body.,No

@@ -532,25 +532,24 @@ def aggregate_results_by_question(result_df, animals_df):
     return pd.DataFrame.from_dict(results_by_question)
 
 
-def summarize_results(csv):
-    animals_df = pd.read_csv("csv/animals_not_underwater.csv")
-    result_df = pd.read_csv("csv/result.csv")
+def summarize_results(animals_csv_path, results_csv_path):
+    animals_df = pd.read_csv(animals_csv_path)
+    result_df = pd.read_csv(results_csv_path)
     results_by_animal = aggregate_results_by_animal(result_df, animals_df)
     results_by_question = aggregate_results_by_question(result_df, animals_df)
-    results_by_animal.to_csv("csv/results_by_animal.csv")
-    results_by_question.to_csv("csv/results_by_question.csv")
+    results_by_animal.to_csv(results_csv_path.replace(".csv", "_by_animal.csv"))
+    results_by_question.to_csv(results_csv_path.replace(".csv", "_by_question.csv"))
 
 
 if __name__ == "__main__":
-    # summarize_results()
+    summarize_results(animals_csv_path="csv/animals_dont_live_underwater.csv", results_csv_path="csv/results/animals_dont_live_underwater_questions_result.csv")
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    questions = generate_sentences_from_csv(csv_path="csv/animals_doesnt_live_underwater.csv")
-    questions = pd.DataFrame.from_dict(questions)
-    print(questions)
-    questions.to_csv("csv/animals_doesnt_live_underwater_questions.csv")
+    # questions = generate_sentences_from_csv(csv_path="csv/animals_dont_have_horns.csv")
+    # questions = pd.DataFrame.from_dict(questions)
+    # questions.to_csv("csv/animals_dont_have_horns_questions.csv")
 
     # merge_all_sentences(["csv/vehicle.csv", "csv/furniture.csv", "csv/food.csv", "csv/musical_instruments.csv"])
     # merge_all_sentences(["csv/animals.csv"])

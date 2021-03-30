@@ -1,0 +1,4 @@
+,Does a <entity> live underwater?,A <entity> lives underwater.,Does a <entity> live in the water?,A <entity> lives in the water.,Does a <entity> live in the sea?,A <entity> lives in the sea.,Does a <entity> live in the ocean?,A <entity> lives in the ocean.
+accuracy,0.41228070175438597,0.5964912280701754,0.5964912280701754,0.7543859649122807,0.5526315789473685,0.6228070175438597,0.6052631578947368,0.6403508771929824
+yes_count,67.0,46.0,46.0,28.0,51.0,43.0,45.0,41.0
+no_count,47.0,68.0,68.0,86.0,63.0,71.0,69.0,73.0

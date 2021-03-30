@@ -1,0 +1,4 @@
+,Does a <entity> live underwater?,A <entity> lives underwater.,A <entity> lives in the water.,Does a <entity> can breathe underwater?,A <entity> can breathe underwater.,A <entity> can breathe in the water.
+accuracy,0.45,0.65,0.78,0.43,0.48,0.65
+yes_count,55,35,22,57,52,35
+no_count,45,65,78,43,48,65
