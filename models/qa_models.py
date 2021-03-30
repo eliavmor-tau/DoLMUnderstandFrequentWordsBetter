@@ -199,4 +199,8 @@ if __name__ == "__main__":
     if config.get("train", True):
         train_model(config)
     else:
-        test_model(config, config.get("test_data").replace(".csv", "_result.csv"))
+        #test_files = ["csv/animals_dont_have_horns_questions.csv", "csv/animals_dont_have_hair_questions.csv", "csv/animals_dont_have_fur_questions.csv", "csv/animals_dont_have_feathers_questions.csv", "csv/animals_dont_have_a_beak_questions.csv", "csv/animals_dont_have_wings_questions.csv", "csv/animals_dont_have_fins_questions.csv", "csv/animals_dont_have_scales_questions.csv"]
+        test_files = ["csv/animals_dont_have_a_beak_questions.csv", "csv/animals_dont_have_wings_questions.csv", "csv/animals_dont_have_fins_questions.csv", "csv/animals_dont_have_scales_questions.csv", "csv/conceptnet_train_no_animals.csv", "conceptnet_dev.csv"]
+        for f in test_files:
+            config["test_data"] = f
+            test_model(config, f.replace(".csv", "_result.csv"))
