@@ -186,7 +186,7 @@ if __name__ == "__main__":
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
         "train_data": "csv/conceptnet_train_no_animals.csv",
-        "test_data": "csv/animal_dont_live_underwater_questions.csv",
+        "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/conceptnet_dev.csv",
         "lr": 1e-4,
         "checkpoint": "checkpoint/checkpoint-epoch=37-step=150593.ckpt"
