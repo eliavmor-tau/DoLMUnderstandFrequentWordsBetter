@@ -131,7 +131,7 @@ def train_model(config):
         pickle.dump(model.model_validation_loss, f)
 
 
-def test_model(config):
+def test_model(config, output_path):
     print("Test Model")
     print(config.get("test_data"))
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
@@ -173,7 +173,7 @@ def test_model(config):
                 accuracy += 1
             count += 1
     result_df = pd.DataFrame.from_dict({"question": questions, "model_answer": model_answers, "true_answer": true_answers})
-    result_df.to_csv("csv/result.csv")
+    result_df.to_csv(output_path)
     print("Accuracy:", accuracy / count)
 
 
@@ -186,7 +186,7 @@ if __name__ == "__main__":
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
         "train_data": "csv/conceptnet_train_no_animals.csv",
-        "test_data": "csv/animal_not_underwater_questions.csv",
+        "test_data": "csv/animal_dont_live_underwater_questions.csv",
         "dev_data": "csv/conceptnet_dev.csv",
         "lr": 1e-4,
         "checkpoint": "checkpoint/checkpoint-epoch=37-step=150593.ckpt"
@@ -195,7 +195,8 @@ if __name__ == "__main__":
     print("- Config -")
     for k, v in config.items():
         print(f"{k}: {v}")
+    
     if config.get("train", True):
         train_model(config)
     else:
-        test_model(config)
+        test_model(config, config.get("test_data").replace(".csv", "_result.csv"))
