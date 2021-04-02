@@ -1,667 +1,556 @@
 ,question,label
-0,Does a corgi have wings?,No
-1,A corgi has wings.,No
-2,Are wings part of a corgi's body?,No
-3,Wings are part of a corgi's body.,No
-4,Is a wing part of a corgi's body?,No
-5,Wing is  part of a corgi's body.,No
-6,Does a beagle have wings?,No
-7,A beagle has wings.,No
-8,Are wings part of a beagle's body?,No
-9,Wings are part of a beagle's body.,No
-10,Is a wing part of a beagle's body?,No
-11,Wing is  part of a beagle's body.,No
-12,Does a boxer have wings?,No
-13,A boxer has wings.,No
-14,Are wings part of a boxer's body?,No
-15,Wings are part of a boxer's body.,No
-16,Is a wing part of a boxer's body?,No
-17,Wing is  part of a boxer's body.,No
-18,Does a bulldog have wings?,No
-19,A bulldog has wings.,No
-20,Are wings part of a bulldog's body?,No
-21,Wings are part of a bulldog's body.,No
-22,Is a wing part of a bulldog's body?,No
-23,Wing is  part of a bulldog's body.,No
-24,Does a dog have wings?,No
-25,A dog has wings.,No
-26,Are wings part of a dog's body?,No
-27,Wings are part of a dog's body.,No
-28,Is a wing part of a dog's body?,No
-29,Wing is  part of a dog's body.,No
-30,Does a chihuahua have wings?,No
-31,A chihuahua has wings.,No
-32,Are wings part of a chihuahua's body?,No
-33,Wings are part of a chihuahua's body.,No
-34,Is a wing part of a chihuahua's body?,No
-35,Wing is  part of a chihuahua's body.,No
-36,Does a cocker spaniel have wings?,No
-37,A cocker spaniel has wings.,No
-38,Are wings part of a cocker spaniel's body?,No
-39,Wings are part of a cocker spaniel's body.,No
-40,Is a wing part of a cocker spaniel's body?,No
-41,Wing is  part of a cocker spaniel's body.,No
-42,Does a collie have wings?,No
-43,A collie has wings.,No
-44,Are wings part of a collie's body?,No
-45,Wings are part of a collie's body.,No
-46,Is a wing part of a collie's body?,No
-47,Wing is  part of a collie's body.,No
-48,Does a dalmatian have wings?,No
-49,A dalmatian has wings.,No
-50,Are wings part of a dalmatian's body?,No
-51,Wings are part of a dalmatian's body.,No
-52,Is a wing part of a dalmatian's body?,No
-53,Wing is  part of a dalmatian's body.,No
-54,Does a doberman have wings?,No
-55,A doberman has wings.,No
-56,Are wings part of a doberman's body?,No
-57,Wings are part of a doberman's body.,No
-58,Is a wing part of a doberman's body?,No
-59,Wing is  part of a doberman's body.,No
-60,Does a fox have wings?,No
-61,A fox has wings.,No
-62,Are wings part of a fox's body?,No
-63,Wings are part of a fox's body.,No
-64,Is a wing part of a fox's body?,No
-65,Wing is  part of a fox's body.,No
-66,Does a labrador have wings?,No
-67,A labrador has wings.,No
-68,Are wings part of a labrador's body?,No
-69,Wings are part of a labrador's body.,No
-70,Is a wing part of a labrador's body?,No
-71,Wing is  part of a labrador's body.,No
-72,Does a pinscher have wings?,No
-73,A pinscher has wings.,No
-74,Are wings part of a pinscher's body?,No
-75,Wings are part of a pinscher's body.,No
-76,Is a wing part of a pinscher's body?,No
-77,Wing is  part of a pinscher's body.,No
-78,Does a pomeranian have wings?,No
-79,A pomeranian has wings.,No
-80,Are wings part of a pomeranian's body?,No
-81,Wings are part of a pomeranian's body.,No
-82,Is a wing part of a pomeranian's body?,No
-83,Wing is  part of a pomeranian's body.,No
-84,Does a schnauzer have wings?,No
-85,A schnauzer has wings.,No
-86,Are wings part of a schnauzer's body?,No
-87,Wings are part of a schnauzer's body.,No
-88,Is a wing part of a schnauzer's body?,No
-89,Wing is  part of a schnauzer's body.,No
-90,Does a terrier have wings?,No
-91,A terrier has wings.,No
-92,Are wings part of a terrier's body?,No
-93,Wings are part of a terrier's body.,No
-94,Is a wing part of a terrier's body?,No
-95,Wing is  part of a terrier's body.,No
-96,Does a wolf have wings?,No
-97,A wolf has wings.,No
-98,Are wings part of a wolf's body?,No
-99,Wings are part of a wolf's body.,No
-100,Is a wing part of a wolf's body?,No
-101,Wing is  part of a wolf's body.,No
-102,Does a cat have wings?,No
-103,A cat has wings.,No
-104,Are wings part of a cat's body?,No
-105,Wings are part of a cat's body.,No
-106,Is a wing part of a cat's body?,No
-107,Wing is  part of a cat's body.,No
-108,Does a caracal have wings?,No
-109,A caracal has wings.,No
-110,Are wings part of a caracal's body?,No
-111,Wings are part of a caracal's body.,No
-112,Is a wing part of a caracal's body?,No
-113,Wing is  part of a caracal's body.,No
-114,Does a jaguar have wings?,No
-115,A jaguar has wings.,No
-116,Are wings part of a jaguar's body?,No
-117,Wings are part of a jaguar's body.,No
-118,Is a wing part of a jaguar's body?,No
-119,Wing is  part of a jaguar's body.,No
-120,Does a liger have wings?,No
-121,A liger has wings.,No
-122,Are wings part of a liger's body?,No
-123,Wings are part of a liger's body.,No
-124,Is a wing part of a liger's body?,No
-125,Wing is  part of a liger's body.,No
-126,Does a lion have wings?,No
-127,A lion has wings.,No
-128,Are wings part of a lion's body?,No
-129,Wings are part of a lion's body.,No
-130,Is a wing part of a lion's body?,No
-131,Wing is  part of a lion's body.,No
-132,Does a leopard have wings?,No
-133,A leopard has wings.,No
-134,Are wings part of a leopard's body?,No
-135,Wings are part of a leopard's body.,No
-136,Is a wing part of a leopard's body?,No
-137,Wing is  part of a leopard's body.,No
-138,Does a tiger have wings?,No
-139,A tiger has wings.,No
-140,Are wings part of a tiger's body?,No
-141,Wings are part of a tiger's body.,No
-142,Is a wing part of a tiger's body?,No
-143,Wing is  part of a tiger's body.,No
-144,Does a beef have wings?,No
-145,A beef has wings.,No
-146,Are wings part of a beef's body?,No
-147,Wings are part of a beef's body.,No
-148,Is a wing part of a beef's body?,No
-149,Wing is  part of a beef's body.,No
-150,Does a bull have wings?,No
-151,A bull has wings.,No
-152,Are wings part of a bull's body?,No
-153,Wings are part of a bull's body.,No
-154,Is a wing part of a bull's body?,No
-155,Wing is  part of a bull's body.,No
-156,Does a cow have wings?,No
-157,A cow has wings.,No
-158,Are wings part of a cow's body?,No
-159,Wings are part of a cow's body.,No
-160,Is a wing part of a cow's body?,No
-161,Wing is  part of a cow's body.,No
-162,Does a ox have wings?,No
-163,A ox has wings.,No
-164,Are wings part of a ox's body?,No
-165,Wings are part of a ox's body.,No
-166,Is a wing part of a ox's body?,No
-167,Wing is  part of a ox's body.,No
-168,Does a rhino have wings?,No
-169,A rhino has wings.,No
-170,Are wings part of a rhino's body?,No
-171,Wings are part of a rhino's body.,No
-172,Is a wing part of a rhino's body?,No
-173,Wing is  part of a rhino's body.,No
-174,Does a elephant have wings?,No
-175,A elephant has wings.,No
-176,Are wings part of a elephant's body?,No
-177,Wings are part of a elephant's body.,No
-178,Is a wing part of a elephant's body?,No
-179,Wing is  part of a elephant's body.,No
-180,Does a bear have wings?,No
-181,A bear has wings.,No
-182,Are wings part of a bear's body?,No
-183,Wings are part of a bear's body.,No
-184,Is a wing part of a bear's body?,No
-185,Wing is  part of a bear's body.,No
-186,Does a camel have wings?,No
-187,A camel has wings.,No
-188,Are wings part of a camel's body?,No
-189,Wings are part of a camel's body.,No
-190,Is a wing part of a camel's body?,No
-191,Wing is  part of a camel's body.,No
-192,Does a deer have wings?,No
-193,A deer has wings.,No
-194,Are wings part of a deer's body?,No
-195,Wings are part of a deer's body.,No
-196,Is a wing part of a deer's body?,No
-197,Wing is  part of a deer's body.,No
-198,Does a flamingo have wings?,No
-199,A flamingo has wings.,No
-200,Are wings part of a flamingo's body?,No
-201,Wings are part of a flamingo's body.,No
-202,Is a wing part of a flamingo's body?,No
-203,Wing is  part of a flamingo's body.,No
-204,Does a goat have wings?,No
-205,A goat has wings.,No
-206,Are wings part of a goat's body?,No
-207,Wings are part of a goat's body.,No
-208,Is a wing part of a goat's body?,No
-209,Wing is  part of a goat's body.,No
-210,Does a gorilla have wings?,No
-211,A gorilla has wings.,No
-212,Are wings part of a gorilla's body?,No
-213,Wings are part of a gorilla's body.,No
-214,Is a wing part of a gorilla's body?,No
-215,Wing is  part of a gorilla's body.,No
-216,Does a horse have wings?,No
-217,A horse has wings.,No
-218,Are wings part of a horse's body?,No
-219,Wings are part of a horse's body.,No
-220,Is a wing part of a horse's body?,No
-221,Wing is  part of a horse's body.,No
-222,Does a hippopotamus have wings?,No
-223,A hippopotamus has wings.,No
-224,Are wings part of a hippopotamus's body?,No
-225,Wings are part of a hippopotamus's body.,No
-226,Is a wing part of a hippopotamus's body?,No
-227,Wing is  part of a hippopotamus's body.,No
-228,Does a iguana have wings?,No
-229,A iguana has wings.,No
-230,Are wings part of a iguana's body?,No
-231,Wings are part of a iguana's body.,No
-232,Is a wing part of a iguana's body?,No
-233,Wing is  part of a iguana's body.,No
-234,Does a koala have wings?,No
-235,A koala has wings.,No
-236,Are wings part of a koala's body?,No
-237,Wings are part of a koala's body.,No
-238,Is a wing part of a koala's body?,No
-239,Wing is  part of a koala's body.,No
-240,Does a kangaroo have wings?,No
-241,A kangaroo has wings.,No
-242,Are wings part of a kangaroo's body?,No
-243,Wings are part of a kangaroo's body.,No
-244,Is a wing part of a kangaroo's body?,No
-245,Wing is  part of a kangaroo's body.,No
-246,Does a lizard have wings?,No
-247,A lizard has wings.,No
-248,Are wings part of a lizard's body?,No
-249,Wings are part of a lizard's body.,No
-250,Is a wing part of a lizard's body?,No
-251,Wing is  part of a lizard's body.,No
-252,Does a monkey have wings?,No
-253,A monkey has wings.,No
-254,Are wings part of a monkey's body?,No
-255,Wings are part of a monkey's body.,No
-256,Is a wing part of a monkey's body?,No
-257,Wing is  part of a monkey's body.,No
-258,Does a mule have wings?,No
-259,A mule has wings.,No
-260,Are wings part of a mule's body?,No
-261,Wings are part of a mule's body.,No
-262,Is a wing part of a mule's body?,No
-263,Wing is  part of a mule's body.,No
-264,Does a pig have wings?,No
-265,A pig has wings.,No
-266,Are wings part of a pig's body?,No
-267,Wings are part of a pig's body.,No
-268,Is a wing part of a pig's body?,No
-269,Wing is  part of a pig's body.,No
-270,Does a rabbit have wings?,No
-271,A rabbit has wings.,No
-272,Are wings part of a rabbit's body?,No
-273,Wings are part of a rabbit's body.,No
-274,Is a wing part of a rabbit's body?,No
-275,Wing is  part of a rabbit's body.,No
-276,Does a rat have wings?,No
-277,A rat has wings.,No
-278,Are wings part of a rat's body?,No
-279,Wings are part of a rat's body.,No
-280,Is a wing part of a rat's body?,No
-281,Wing is  part of a rat's body.,No
-282,Does a sheep have wings?,No
-283,A sheep has wings.,No
-284,Are wings part of a sheep's body?,No
-285,Wings are part of a sheep's body.,No
-286,Is a wing part of a sheep's body?,No
-287,Wing is  part of a sheep's body.,No
-288,Does a zebra have wings?,No
-289,A zebra has wings.,No
-290,Are wings part of a zebra's body?,No
-291,Wings are part of a zebra's body.,No
-292,Is a wing part of a zebra's body?,No
-293,Wing is  part of a zebra's body.,No
-294,Does a worm have wings?,No
-295,A worm has wings.,No
-296,Are wings part of a worm's body?,No
-297,Wings are part of a worm's body.,No
-298,Is a wing part of a worm's body?,No
-299,Wing is  part of a worm's body.,No
-300,Does a snail have wings?,No
-301,A snail has wings.,No
-302,Are wings part of a snail's body?,No
-303,Wings are part of a snail's body.,No
-304,Is a wing part of a snail's body?,No
-305,Wing is  part of a snail's body.,No
-306,Does a giraffe have wings?,No
-307,A giraffe has wings.,No
-308,Are wings part of a giraffe's body?,No
-309,Wings are part of a giraffe's body.,No
-310,Is a wing part of a giraffe's body?,No
-311,Wing is  part of a giraffe's body.,No
-312,Does a tarantula have wings?,No
-313,A tarantula has wings.,No
-314,Are wings part of a tarantula's body?,No
-315,Wings are part of a tarantula's body.,No
-316,Is a wing part of a tarantula's body?,No
-317,Wing is  part of a tarantula's body.,No
-318,Does a spider have wings?,No
-319,A spider has wings.,No
-320,Are wings part of a spider's body?,No
-321,Wings are part of a spider's body.,No
-322,Is a wing part of a spider's body?,No
-323,Wing is  part of a spider's body.,No
-324,Does a boa have wings?,No
-325,A boa has wings.,No
-326,Are wings part of a boa's body?,No
-327,Wings are part of a boa's body.,No
-328,Is a wing part of a boa's body?,No
-329,Wing is  part of a boa's body.,No
-330,Does a cobra have wings?,No
-331,A cobra has wings.,No
-332,Are wings part of a cobra's body?,No
-333,Wings are part of a cobra's body.,No
-334,Is a wing part of a cobra's body?,No
-335,Wing is  part of a cobra's body.,No
-336,Does a mamba have wings?,No
-337,A mamba has wings.,No
-338,Are wings part of a mamba's body?,No
-339,Wings are part of a mamba's body.,No
-340,Is a wing part of a mamba's body?,No
-341,Wing is  part of a mamba's body.,No
-342,Does a baboon have wings?,No
-343,A baboon has wings.,No
-344,Are wings part of a baboon's body?,No
-345,Wings are part of a baboon's body.,No
-346,Is a wing part of a baboon's body?,No
-347,Wing is  part of a baboon's body.,No
-348,Does a grivet have wings?,No
-349,A grivet has wings.,No
-350,Are wings part of a grivet's body?,No
-351,Wings are part of a grivet's body.,No
-352,Is a wing part of a grivet's body?,No
-353,Wing is  part of a grivet's body.,No
-354,Does a aardvark have wings?,No
-355,A aardvark has wings.,No
-356,Are wings part of a aardvark's body?,No
-357,Wings are part of a aardvark's body.,No
-358,Is a wing part of a aardvark's body?,No
-359,Wing is  part of a aardvark's body.,No
-360,Does a mouse have wings?,No
-361,A mouse has wings.,No
-362,Are wings part of a mouse's body?,No
-363,Wings are part of a mouse's body.,No
-364,Is a wing part of a mouse's body?,No
-365,Wing is  part of a mouse's body.,No
-366,Does a bison have wings?,No
-367,A bison has wings.,No
-368,Are wings part of a bison's body?,No
-369,Wings are part of a bison's body.,No
-370,Is a wing part of a bison's body?,No
-371,Wing is  part of a bison's body.,No
-372,Does a ass have wings?,No
-373,A ass has wings.,No
-374,Are wings part of a ass's body?,No
-375,Wings are part of a ass's body.,No
-376,Is a wing part of a ass's body?,No
-377,Wing is  part of a ass's body.,No
-378,Does a antelope have wings?,No
-379,A antelope has wings.,No
-380,Are wings part of a antelope's body?,No
-381,Wings are part of a antelope's body.,No
-382,Is a wing part of a antelope's body?,No
-383,Wing is  part of a antelope's body.,No
-384,Does a ant have wings?,No
-385,A ant has wings.,No
-386,Are wings part of a ant's body?,No
-387,Wings are part of a ant's body.,No
-388,Is a wing part of a ant's body?,No
-389,Wing is  part of a ant's body.,No
-390,Does a caterpillar have wings?,No
-391,A caterpillar has wings.,No
-392,Are wings part of a caterpillar's body?,No
-393,Wings are part of a caterpillar's body.,No
-394,Is a wing part of a caterpillar's body?,No
-395,Wing is  part of a caterpillar's body.,No
-396,Does a shrew have wings?,No
-397,A shrew has wings.,No
-398,Are wings part of a shrew's body?,No
-399,Wings are part of a shrew's body.,No
-400,Is a wing part of a shrew's body?,No
-401,Wing is  part of a shrew's body.,No
-402,Does a raccoon have wings?,No
-403,A raccoon has wings.,No
-404,Are wings part of a raccoon's body?,No
-405,Wings are part of a raccoon's body.,No
-406,Is a wing part of a raccoon's body?,No
-407,Wing is  part of a raccoon's body.,No
-408,Does a quail have wings?,No
-409,A quail has wings.,No
-410,Are wings part of a quail's body?,No
-411,Wings are part of a quail's body.,No
-412,Is a wing part of a quail's body?,No
-413,Wing is  part of a quail's body.,No
-414,Does a husky have wings?,No
-415,A husky has wings.,No
-416,Are wings part of a husky's body?,No
-417,Wings are part of a husky's body.,No
-418,Is a wing part of a husky's body?,No
-419,Wing is  part of a husky's body.,No
-420,Does a skunk have wings?,No
-421,A skunk has wings.,No
-422,Are wings part of a skunk's body?,No
-423,Wings are part of a skunk's body.,No
-424,Is a wing part of a skunk's body?,No
-425,Wing is  part of a skunk's body.,No
-426,Does a ape have wings?,No
-427,A ape has wings.,No
-428,Are wings part of a ape's body?,No
-429,Wings are part of a ape's body.,No
-430,Is a wing part of a ape's body?,No
-431,Wing is  part of a ape's body.,No
-432,Does a alpaca have wings?,No
-433,A alpaca has wings.,No
-434,Are wings part of a alpaca's body?,No
-435,Wings are part of a alpaca's body.,No
-436,Is a wing part of a alpaca's body?,No
-437,Wing is  part of a alpaca's body.,No
-438,Does a donkey have wings?,No
-439,A donkey has wings.,No
-440,Are wings part of a donkey's body?,No
-441,Wings are part of a donkey's body.,No
-442,Is a wing part of a donkey's body?,No
-443,Wing is  part of a donkey's body.,No
-444,Does a moose have wings?,No
-445,A moose has wings.,No
-446,Are wings part of a moose's body?,No
-447,Wings are part of a moose's body.,No
-448,Is a wing part of a moose's body?,No
-449,Wing is  part of a moose's body.,No
-450,Does a alligator have wings?,No
-451,A alligator has wings.,No
-452,Are wings part of a alligator's body?,No
-453,Wings are part of a alligator's body.,No
-454,Is a wing part of a alligator's body?,No
-455,Wing is  part of a alligator's body.,No
-456,Does a crocodile have wings?,No
-457,A crocodile has wings.,No
-458,Are wings part of a crocodile's body?,No
-459,Wings are part of a crocodile's body.,No
-460,Is a wing part of a crocodile's body?,No
-461,Wing is  part of a crocodile's body.,No
-462,Does a snake have wings?,No
-463,A snake has wings.,No
-464,Are wings part of a snake's body?,No
-465,Wings are part of a snake's body.,No
-466,Is a wing part of a snake's body?,No
-467,Wing is  part of a snake's body.,No
-468,Does a frog have wings?,No
-469,A frog has wings.,No
-470,Are wings part of a frog's body?,No
-471,Wings are part of a frog's body.,No
-472,Is a wing part of a frog's body?,No
-473,Wing is  part of a frog's body.,No
-474,Does a salamander have wings?,No
-475,A salamander has wings.,No
-476,Are wings part of a salamander's body?,No
-477,Wings are part of a salamander's body.,No
-478,Is a wing part of a salamander's body?,No
-479,Wing is  part of a salamander's body.,No
-480,Does a gibbon have wings?,No
-481,A gibbon has wings.,No
-482,Are wings part of a gibbon's body?,No
-483,Wings are part of a gibbon's body.,No
-484,Is a wing part of a gibbon's body?,No
-485,Wing is  part of a gibbon's body.,No
-486,Does a hyena have wings?,No
-487,A hyena has wings.,No
-488,Are wings part of a hyena's body?,No
-489,Wings are part of a hyena's body.,No
-490,Is a wing part of a hyena's body?,No
-491,Wing is  part of a hyena's body.,No
-492,Does a rottweiler have wings?,No
-493,A rottweiler has wings.,No
-494,Are wings part of a rottweiler's body?,No
-495,Wings are part of a rottweiler's body.,No
-496,Is a wing part of a rottweiler's body?,No
-497,Wing is  part of a rottweiler's body.,No
-498,Does a squirrel have wings?,No
-499,A squirrel has wings.,No
-500,Are wings part of a squirrel's body?,No
-501,Wings are part of a squirrel's body.,No
-502,Is a wing part of a squirrel's body?,No
-503,Wing is  part of a squirrel's body.,No
-504,Does a tapir have wings?,No
-505,A tapir has wings.,No
-506,Are wings part of a tapir's body?,No
-507,Wings are part of a tapir's body.,No
-508,Is a wing part of a tapir's body?,No
-509,Wing is  part of a tapir's body.,No
-510,Does a yak have wings?,No
-511,A yak has wings.,No
-512,Are wings part of a yak's body?,No
-513,Wings are part of a yak's body.,No
-514,Is a wing part of a yak's body?,No
-515,Wing is  part of a yak's body.,No
-516,Does a fish have wings?,No
-517,A fish has wings.,No
-518,Are wings part of a fish's body?,No
-519,Wings are part of a fish's body.,No
-520,Is a wing part of a fish's body?,No
-521,Wing is  part of a fish's body.,No
-522,Does a shark have wings?,No
-523,A shark has wings.,No
-524,Are wings part of a shark's body?,No
-525,Wings are part of a shark's body.,No
-526,Is a wing part of a shark's body?,No
-527,Wing is  part of a shark's body.,No
-528,Does a tuna have wings?,No
-529,A tuna has wings.,No
-530,Are wings part of a tuna's body?,No
-531,Wings are part of a tuna's body.,No
-532,Is a wing part of a tuna's body?,No
-533,Wing is  part of a tuna's body.,No
-534,Does a jellyfish have wings?,No
-535,A jellyfish has wings.,No
-536,Are wings part of a jellyfish's body?,No
-537,Wings are part of a jellyfish's body.,No
-538,Is a wing part of a jellyfish's body?,No
-539,Wing is  part of a jellyfish's body.,No
-540,Does a salmon have wings?,No
-541,A salmon has wings.,No
-542,Are wings part of a salmon's body?,No
-543,Wings are part of a salmon's body.,No
-544,Is a wing part of a salmon's body?,No
-545,Wing is  part of a salmon's body.,No
-546,Does a octupus have wings?,No
-547,A octupus has wings.,No
-548,Are wings part of a octupus's body?,No
-549,Wings are part of a octupus's body.,No
-550,Is a wing part of a octupus's body?,No
-551,Wing is  part of a octupus's body.,No
-552,Does a barracuda have wings?,No
-553,A barracuda has wings.,No
-554,Are wings part of a barracuda's body?,No
-555,Wings are part of a barracuda's body.,No
-556,Is a wing part of a barracuda's body?,No
-557,Wing is  part of a barracuda's body.,No
-558,Does a codfish have wings?,No
-559,A codfish has wings.,No
-560,Are wings part of a codfish's body?,No
-561,Wings are part of a codfish's body.,No
-562,Is a wing part of a codfish's body?,No
-563,Wing is  part of a codfish's body.,No
-564,Does a crab have wings?,No
-565,A crab has wings.,No
-566,Are wings part of a crab's body?,No
-567,Wings are part of a crab's body.,No
-568,Is a wing part of a crab's body?,No
-569,Wing is  part of a crab's body.,No
-570,Does a cuttlefish have wings?,No
-571,A cuttlefish has wings.,No
-572,Are wings part of a cuttlefish's body?,No
-573,Wings are part of a cuttlefish's body.,No
-574,Is a wing part of a cuttlefish's body?,No
-575,Wing is  part of a cuttlefish's body.,No
-576,Does a dolphin have wings?,No
-577,A dolphin has wings.,No
-578,Are wings part of a dolphin's body?,No
-579,Wings are part of a dolphin's body.,No
-580,Is a wing part of a dolphin's body?,No
-581,Wing is  part of a dolphin's body.,No
-582,Does a eel have wings?,No
-583,A eel has wings.,No
-584,Are wings part of a eel's body?,No
-585,Wings are part of a eel's body.,No
-586,Is a wing part of a eel's body?,No
-587,Wing is  part of a eel's body.,No
-588,Does a gar have wings?,No
-589,A gar has wings.,No
-590,Are wings part of a gar's body?,No
-591,Wings are part of a gar's body.,No
-592,Is a wing part of a gar's body?,No
-593,Wing is  part of a gar's body.,No
-594,Does a herring have wings?,No
-595,A herring has wings.,No
-596,Are wings part of a herring's body?,No
-597,Wings are part of a herring's body.,No
-598,Is a wing part of a herring's body?,No
-599,Wing is  part of a herring's body.,No
-600,Does a kingfisher have wings?,No
-601,A kingfisher has wings.,No
-602,Are wings part of a kingfisher's body?,No
-603,Wings are part of a kingfisher's body.,No
-604,Is a wing part of a kingfisher's body?,No
-605,Wing is  part of a kingfisher's body.,No
-606,Does a lobster have wings?,No
-607,A lobster has wings.,No
-608,Are wings part of a lobster's body?,No
-609,Wings are part of a lobster's body.,No
-610,Is a wing part of a lobster's body?,No
-611,Wing is  part of a lobster's body.,No
-612,Does a oyster have wings?,No
-613,A oyster has wings.,No
-614,Are wings part of a oyster's body?,No
-615,Wings are part of a oyster's body.,No
-616,Is a wing part of a oyster's body?,No
-617,Wing is  part of a oyster's body.,No
-618,Does a puma have wings?,No
-619,A puma has wings.,No
-620,Are wings part of a puma's body?,No
-621,Wings are part of a puma's body.,No
-622,Is a wing part of a puma's body?,No
-623,Wing is  part of a puma's body.,No
-624,Does a piranha have wings?,No
-625,A piranha has wings.,No
-626,Are wings part of a piranha's body?,No
-627,Wings are part of a piranha's body.,No
-628,Is a wing part of a piranha's body?,No
-629,Wing is  part of a piranha's body.,No
-630,Does a seal have wings?,No
-631,A seal has wings.,No
-632,Are wings part of a seal's body?,No
-633,Wings are part of a seal's body.,No
-634,Is a wing part of a seal's body?,No
-635,Wing is  part of a seal's body.,No
-636,Does a shrimp have wings?,No
-637,A shrimp has wings.,No
-638,Are wings part of a shrimp's body?,No
-639,Wings are part of a shrimp's body.,No
-640,Is a wing part of a shrimp's body?,No
-641,Wing is  part of a shrimp's body.,No
-642,Does a prawn have wings?,No
-643,A prawn has wings.,No
-644,Are wings part of a prawn's body?,No
-645,Wings are part of a prawn's body.,No
-646,Is a wing part of a prawn's body?,No
-647,Wing is  part of a prawn's body.,No
-648,Does a starfish have wings?,No
-649,A starfish has wings.,No
-650,Are wings part of a starfish's body?,No
-651,Wings are part of a starfish's body.,No
-652,Is a wing part of a starfish's body?,No
-653,Wing is  part of a starfish's body.,No
-654,Does a sponge have wings?,No
-655,A sponge has wings.,No
-656,Are wings part of a sponge's body?,No
-657,Wings are part of a sponge's body.,No
-658,Is a wing part of a sponge's body?,No
-659,Wing is  part of a sponge's body.,No
-660,Does a whale have wings?,No
-661,A whale has wings.,No
-662,Are wings part of a whale's body?,No
-663,Wings are part of a whale's body.,No
-664,Is a wing part of a whale's body?,No
-665,Wing is  part of a whale's body.,No
+0,Does a corgi fly?,No
+1,Can a corgi fly?,No
+2,A corgi flys.,No
+3,Is corgi is capable of flying?,No
+4,corgi is capable of flying.,No
+5,Does a beagle fly?,No
+6,Can a beagle fly?,No
+7,A beagle flys.,No
+8,Is beagle is capable of flying?,No
+9,beagle is capable of flying.,No
+10,Does a boxer fly?,No
+11,Can a boxer fly?,No
+12,A boxer flys.,No
+13,Is boxer is capable of flying?,No
+14,boxer is capable of flying.,No
+15,Does a bulldog fly?,No
+16,Can a bulldog fly?,No
+17,A bulldog flys.,No
+18,Is bulldog is capable of flying?,No
+19,bulldog is capable of flying.,No
+20,Does a dog fly?,No
+21,Can a dog fly?,No
+22,A dog flys.,No
+23,Is dog is capable of flying?,No
+24,dog is capable of flying.,No
+25,Does a chihuahua fly?,No
+26,Can a chihuahua fly?,No
+27,A chihuahua flys.,No
+28,Is chihuahua is capable of flying?,No
+29,chihuahua is capable of flying.,No
+30,Does a cocker spaniel fly?,No
+31,Can a cocker spaniel fly?,No
+32,A cocker spaniel flys.,No
+33,Is cocker spaniel is capable of flying?,No
+34,cocker spaniel is capable of flying.,No
+35,Does a collie fly?,No
+36,Can a collie fly?,No
+37,A collie flys.,No
+38,Is collie is capable of flying?,No
+39,collie is capable of flying.,No
+40,Does a dalmatian fly?,No
+41,Can a dalmatian fly?,No
+42,A dalmatian flys.,No
+43,Is dalmatian is capable of flying?,No
+44,dalmatian is capable of flying.,No
+45,Does a doberman fly?,No
+46,Can a doberman fly?,No
+47,A doberman flys.,No
+48,Is doberman is capable of flying?,No
+49,doberman is capable of flying.,No
+50,Does a fox fly?,No
+51,Can a fox fly?,No
+52,A fox flys.,No
+53,Is fox is capable of flying?,No
+54,fox is capable of flying.,No
+55,Does a labrador fly?,No
+56,Can a labrador fly?,No
+57,A labrador flys.,No
+58,Is labrador is capable of flying?,No
+59,labrador is capable of flying.,No
+60,Does a pinscher fly?,No
+61,Can a pinscher fly?,No
+62,A pinscher flys.,No
+63,Is pinscher is capable of flying?,No
+64,pinscher is capable of flying.,No
+65,Does a pomeranian fly?,No
+66,Can a pomeranian fly?,No
+67,A pomeranian flys.,No
+68,Is pomeranian is capable of flying?,No
+69,pomeranian is capable of flying.,No
+70,Does a schnauzer fly?,No
+71,Can a schnauzer fly?,No
+72,A schnauzer flys.,No
+73,Is schnauzer is capable of flying?,No
+74,schnauzer is capable of flying.,No
+75,Does a terrier fly?,No
+76,Can a terrier fly?,No
+77,A terrier flys.,No
+78,Is terrier is capable of flying?,No
+79,terrier is capable of flying.,No
+80,Does a wolf fly?,No
+81,Can a wolf fly?,No
+82,A wolf flys.,No
+83,Is wolf is capable of flying?,No
+84,wolf is capable of flying.,No
+85,Does a cat fly?,No
+86,Can a cat fly?,No
+87,A cat flys.,No
+88,Is cat is capable of flying?,No
+89,cat is capable of flying.,No
+90,Does a caracal fly?,No
+91,Can a caracal fly?,No
+92,A caracal flys.,No
+93,Is caracal is capable of flying?,No
+94,caracal is capable of flying.,No
+95,Does a jaguar fly?,No
+96,Can a jaguar fly?,No
+97,A jaguar flys.,No
+98,Is jaguar is capable of flying?,No
+99,jaguar is capable of flying.,No
+100,Does a liger fly?,No
+101,Can a liger fly?,No
+102,A liger flys.,No
+103,Is liger is capable of flying?,No
+104,liger is capable of flying.,No
+105,Does a lion fly?,No
+106,Can a lion fly?,No
+107,A lion flys.,No
+108,Is lion is capable of flying?,No
+109,lion is capable of flying.,No
+110,Does a leopard fly?,No
+111,Can a leopard fly?,No
+112,A leopard flys.,No
+113,Is leopard is capable of flying?,No
+114,leopard is capable of flying.,No
+115,Does a tiger fly?,No
+116,Can a tiger fly?,No
+117,A tiger flys.,No
+118,Is tiger is capable of flying?,No
+119,tiger is capable of flying.,No
+120,Does a beef fly?,No
+121,Can a beef fly?,No
+122,A beef flys.,No
+123,Is beef is capable of flying?,No
+124,beef is capable of flying.,No
+125,Does a bull fly?,No
+126,Can a bull fly?,No
+127,A bull flys.,No
+128,Is bull is capable of flying?,No
+129,bull is capable of flying.,No
+130,Does a cow fly?,No
+131,Can a cow fly?,No
+132,A cow flys.,No
+133,Is cow is capable of flying?,No
+134,cow is capable of flying.,No
+135,Does a ox fly?,No
+136,Can a ox fly?,No
+137,A ox flys.,No
+138,Is ox is capable of flying?,No
+139,ox is capable of flying.,No
+140,Does a rhino fly?,No
+141,Can a rhino fly?,No
+142,A rhino flys.,No
+143,Is rhino is capable of flying?,No
+144,rhino is capable of flying.,No
+145,Does a elephant fly?,No
+146,Can a elephant fly?,No
+147,A elephant flys.,No
+148,Is elephant is capable of flying?,No
+149,elephant is capable of flying.,No
+150,Does a bear fly?,No
+151,Can a bear fly?,No
+152,A bear flys.,No
+153,Is bear is capable of flying?,No
+154,bear is capable of flying.,No
+155,Does a camel fly?,No
+156,Can a camel fly?,No
+157,A camel flys.,No
+158,Is camel is capable of flying?,No
+159,camel is capable of flying.,No
+160,Does a deer fly?,No
+161,Can a deer fly?,No
+162,A deer flys.,No
+163,Is deer is capable of flying?,No
+164,deer is capable of flying.,No
+165,Does a flamingo fly?,No
+166,Can a flamingo fly?,No
+167,A flamingo flys.,No
+168,Is flamingo is capable of flying?,No
+169,flamingo is capable of flying.,No
+170,Does a goat fly?,No
+171,Can a goat fly?,No
+172,A goat flys.,No
+173,Is goat is capable of flying?,No
+174,goat is capable of flying.,No
+175,Does a gorilla fly?,No
+176,Can a gorilla fly?,No
+177,A gorilla flys.,No
+178,Is gorilla is capable of flying?,No
+179,gorilla is capable of flying.,No
+180,Does a horse fly?,No
+181,Can a horse fly?,No
+182,A horse flys.,No
+183,Is horse is capable of flying?,No
+184,horse is capable of flying.,No
+185,Does a hippopotamus fly?,No
+186,Can a hippopotamus fly?,No
+187,A hippopotamus flys.,No
+188,Is hippopotamus is capable of flying?,No
+189,hippopotamus is capable of flying.,No
+190,Does a iguana fly?,No
+191,Can a iguana fly?,No
+192,A iguana flys.,No
+193,Is iguana is capable of flying?,No
+194,iguana is capable of flying.,No
+195,Does a koala fly?,No
+196,Can a koala fly?,No
+197,A koala flys.,No
+198,Is koala is capable of flying?,No
+199,koala is capable of flying.,No
+200,Does a kangaroo fly?,No
+201,Can a kangaroo fly?,No
+202,A kangaroo flys.,No
+203,Is kangaroo is capable of flying?,No
+204,kangaroo is capable of flying.,No
+205,Does a lizard fly?,No
+206,Can a lizard fly?,No
+207,A lizard flys.,No
+208,Is lizard is capable of flying?,No
+209,lizard is capable of flying.,No
+210,Does a monkey fly?,No
+211,Can a monkey fly?,No
+212,A monkey flys.,No
+213,Is monkey is capable of flying?,No
+214,monkey is capable of flying.,No
+215,Does a mule fly?,No
+216,Can a mule fly?,No
+217,A mule flys.,No
+218,Is mule is capable of flying?,No
+219,mule is capable of flying.,No
+220,Does a pig fly?,No
+221,Can a pig fly?,No
+222,A pig flys.,No
+223,Is pig is capable of flying?,No
+224,pig is capable of flying.,No
+225,Does a rabbit fly?,No
+226,Can a rabbit fly?,No
+227,A rabbit flys.,No
+228,Is rabbit is capable of flying?,No
+229,rabbit is capable of flying.,No
+230,Does a rat fly?,No
+231,Can a rat fly?,No
+232,A rat flys.,No
+233,Is rat is capable of flying?,No
+234,rat is capable of flying.,No
+235,Does a sheep fly?,No
+236,Can a sheep fly?,No
+237,A sheep flys.,No
+238,Is sheep is capable of flying?,No
+239,sheep is capable of flying.,No
+240,Does a zebra fly?,No
+241,Can a zebra fly?,No
+242,A zebra flys.,No
+243,Is zebra is capable of flying?,No
+244,zebra is capable of flying.,No
+245,Does a worm fly?,No
+246,Can a worm fly?,No
+247,A worm flys.,No
+248,Is worm is capable of flying?,No
+249,worm is capable of flying.,No
+250,Does a snail fly?,No
+251,Can a snail fly?,No
+252,A snail flys.,No
+253,Is snail is capable of flying?,No
+254,snail is capable of flying.,No
+255,Does a giraffe fly?,No
+256,Can a giraffe fly?,No
+257,A giraffe flys.,No
+258,Is giraffe is capable of flying?,No
+259,giraffe is capable of flying.,No
+260,Does a tarantula fly?,No
+261,Can a tarantula fly?,No
+262,A tarantula flys.,No
+263,Is tarantula is capable of flying?,No
+264,tarantula is capable of flying.,No
+265,Does a spider fly?,No
+266,Can a spider fly?,No
+267,A spider flys.,No
+268,Is spider is capable of flying?,No
+269,spider is capable of flying.,No
+270,Does a boa fly?,No
+271,Can a boa fly?,No
+272,A boa flys.,No
+273,Is boa is capable of flying?,No
+274,boa is capable of flying.,No
+275,Does a cobra fly?,No
+276,Can a cobra fly?,No
+277,A cobra flys.,No
+278,Is cobra is capable of flying?,No
+279,cobra is capable of flying.,No
+280,Does a mamba fly?,No
+281,Can a mamba fly?,No
+282,A mamba flys.,No
+283,Is mamba is capable of flying?,No
+284,mamba is capable of flying.,No
+285,Does a baboon fly?,No
+286,Can a baboon fly?,No
+287,A baboon flys.,No
+288,Is baboon is capable of flying?,No
+289,baboon is capable of flying.,No
+290,Does a grivet fly?,No
+291,Can a grivet fly?,No
+292,A grivet flys.,No
+293,Is grivet is capable of flying?,No
+294,grivet is capable of flying.,No
+295,Does a aardvark fly?,No
+296,Can a aardvark fly?,No
+297,A aardvark flys.,No
+298,Is aardvark is capable of flying?,No
+299,aardvark is capable of flying.,No
+300,Does a mouse fly?,No
+301,Can a mouse fly?,No
+302,A mouse flys.,No
+303,Is mouse is capable of flying?,No
+304,mouse is capable of flying.,No
+305,Does a bison fly?,No
+306,Can a bison fly?,No
+307,A bison flys.,No
+308,Is bison is capable of flying?,No
+309,bison is capable of flying.,No
+310,Does a ass fly?,No
+311,Can a ass fly?,No
+312,A ass flys.,No
+313,Is ass is capable of flying?,No
+314,ass is capable of flying.,No
+315,Does a antelope fly?,No
+316,Can a antelope fly?,No
+317,A antelope flys.,No
+318,Is antelope is capable of flying?,No
+319,antelope is capable of flying.,No
+320,Does a ant fly?,No
+321,Can a ant fly?,No
+322,A ant flys.,No
+323,Is ant is capable of flying?,No
+324,ant is capable of flying.,No
+325,Does a caterpillar fly?,No
+326,Can a caterpillar fly?,No
+327,A caterpillar flys.,No
+328,Is caterpillar is capable of flying?,No
+329,caterpillar is capable of flying.,No
+330,Does a shrew fly?,No
+331,Can a shrew fly?,No
+332,A shrew flys.,No
+333,Is shrew is capable of flying?,No
+334,shrew is capable of flying.,No
+335,Does a raccoon fly?,No
+336,Can a raccoon fly?,No
+337,A raccoon flys.,No
+338,Is raccoon is capable of flying?,No
+339,raccoon is capable of flying.,No
+340,Does a quail fly?,No
+341,Can a quail fly?,No
+342,A quail flys.,No
+343,Is quail is capable of flying?,No
+344,quail is capable of flying.,No
+345,Does a husky fly?,No
+346,Can a husky fly?,No
+347,A husky flys.,No
+348,Is husky is capable of flying?,No
+349,husky is capable of flying.,No
+350,Does a skunk fly?,No
+351,Can a skunk fly?,No
+352,A skunk flys.,No
+353,Is skunk is capable of flying?,No
+354,skunk is capable of flying.,No
+355,Does a ape fly?,No
+356,Can a ape fly?,No
+357,A ape flys.,No
+358,Is ape is capable of flying?,No
+359,ape is capable of flying.,No
+360,Does a alpaca fly?,No
+361,Can a alpaca fly?,No
+362,A alpaca flys.,No
+363,Is alpaca is capable of flying?,No
+364,alpaca is capable of flying.,No
+365,Does a donkey fly?,No
+366,Can a donkey fly?,No
+367,A donkey flys.,No
+368,Is donkey is capable of flying?,No
+369,donkey is capable of flying.,No
+370,Does a moose fly?,No
+371,Can a moose fly?,No
+372,A moose flys.,No
+373,Is moose is capable of flying?,No
+374,moose is capable of flying.,No
+375,Does a alligator fly?,No
+376,Can a alligator fly?,No
+377,A alligator flys.,No
+378,Is alligator is capable of flying?,No
+379,alligator is capable of flying.,No
+380,Does a crocodile fly?,No
+381,Can a crocodile fly?,No
+382,A crocodile flys.,No
+383,Is crocodile is capable of flying?,No
+384,crocodile is capable of flying.,No
+385,Does a snake fly?,No
+386,Can a snake fly?,No
+387,A snake flys.,No
+388,Is snake is capable of flying?,No
+389,snake is capable of flying.,No
+390,Does a frog fly?,No
+391,Can a frog fly?,No
+392,A frog flys.,No
+393,Is frog is capable of flying?,No
+394,frog is capable of flying.,No
+395,Does a salamander fly?,No
+396,Can a salamander fly?,No
+397,A salamander flys.,No
+398,Is salamander is capable of flying?,No
+399,salamander is capable of flying.,No
+400,Does a gibbon fly?,No
+401,Can a gibbon fly?,No
+402,A gibbon flys.,No
+403,Is gibbon is capable of flying?,No
+404,gibbon is capable of flying.,No
+405,Does a hyena fly?,No
+406,Can a hyena fly?,No
+407,A hyena flys.,No
+408,Is hyena is capable of flying?,No
+409,hyena is capable of flying.,No
+410,Does a rottweiler fly?,No
+411,Can a rottweiler fly?,No
+412,A rottweiler flys.,No
+413,Is rottweiler is capable of flying?,No
+414,rottweiler is capable of flying.,No
+415,Does a squirrel fly?,No
+416,Can a squirrel fly?,No
+417,A squirrel flys.,No
+418,Is squirrel is capable of flying?,No
+419,squirrel is capable of flying.,No
+420,Does a tapir fly?,No
+421,Can a tapir fly?,No
+422,A tapir flys.,No
+423,Is tapir is capable of flying?,No
+424,tapir is capable of flying.,No
+425,Does a yak fly?,No
+426,Can a yak fly?,No
+427,A yak flys.,No
+428,Is yak is capable of flying?,No
+429,yak is capable of flying.,No
+430,Does a fish fly?,No
+431,Can a fish fly?,No
+432,A fish flys.,No
+433,Is fish is capable of flying?,No
+434,fish is capable of flying.,No
+435,Does a shark fly?,No
+436,Can a shark fly?,No
+437,A shark flys.,No
+438,Is shark is capable of flying?,No
+439,shark is capable of flying.,No
+440,Does a tuna fly?,No
+441,Can a tuna fly?,No
+442,A tuna flys.,No
+443,Is tuna is capable of flying?,No
+444,tuna is capable of flying.,No
+445,Does a jellyfish fly?,No
+446,Can a jellyfish fly?,No
+447,A jellyfish flys.,No
+448,Is jellyfish is capable of flying?,No
+449,jellyfish is capable of flying.,No
+450,Does a salmon fly?,No
+451,Can a salmon fly?,No
+452,A salmon flys.,No
+453,Is salmon is capable of flying?,No
+454,salmon is capable of flying.,No
+455,Does a octupus fly?,No
+456,Can a octupus fly?,No
+457,A octupus flys.,No
+458,Is octupus is capable of flying?,No
+459,octupus is capable of flying.,No
+460,Does a barracuda fly?,No
+461,Can a barracuda fly?,No
+462,A barracuda flys.,No
+463,Is barracuda is capable of flying?,No
+464,barracuda is capable of flying.,No
+465,Does a codfish fly?,No
+466,Can a codfish fly?,No
+467,A codfish flys.,No
+468,Is codfish is capable of flying?,No
+469,codfish is capable of flying.,No
+470,Does a crab fly?,No
+471,Can a crab fly?,No
+472,A crab flys.,No
+473,Is crab is capable of flying?,No
+474,crab is capable of flying.,No
+475,Does a cuttlefish fly?,No
+476,Can a cuttlefish fly?,No
+477,A cuttlefish flys.,No
+478,Is cuttlefish is capable of flying?,No
+479,cuttlefish is capable of flying.,No
+480,Does a dolphin fly?,No
+481,Can a dolphin fly?,No
+482,A dolphin flys.,No
+483,Is dolphin is capable of flying?,No
+484,dolphin is capable of flying.,No
+485,Does a eel fly?,No
+486,Can a eel fly?,No
+487,A eel flys.,No
+488,Is eel is capable of flying?,No
+489,eel is capable of flying.,No
+490,Does a gar fly?,No
+491,Can a gar fly?,No
+492,A gar flys.,No
+493,Is gar is capable of flying?,No
+494,gar is capable of flying.,No
+495,Does a herring fly?,No
+496,Can a herring fly?,No
+497,A herring flys.,No
+498,Is herring is capable of flying?,No
+499,herring is capable of flying.,No
+500,Does a kingfisher fly?,No
+501,Can a kingfisher fly?,No
+502,A kingfisher flys.,No
+503,Is kingfisher is capable of flying?,No
+504,kingfisher is capable of flying.,No
+505,Does a lobster fly?,No
+506,Can a lobster fly?,No
+507,A lobster flys.,No
+508,Is lobster is capable of flying?,No
+509,lobster is capable of flying.,No
+510,Does a oyster fly?,No
+511,Can a oyster fly?,No
+512,A oyster flys.,No
+513,Is oyster is capable of flying?,No
+514,oyster is capable of flying.,No
+515,Does a puma fly?,No
+516,Can a puma fly?,No
+517,A puma flys.,No
+518,Is puma is capable of flying?,No
+519,puma is capable of flying.,No
+520,Does a piranha fly?,No
+521,Can a piranha fly?,No
+522,A piranha flys.,No
+523,Is piranha is capable of flying?,No
+524,piranha is capable of flying.,No
+525,Does a seal fly?,No
+526,Can a seal fly?,No
+527,A seal flys.,No
+528,Is seal is capable of flying?,No
+529,seal is capable of flying.,No
+530,Does a shrimp fly?,No
+531,Can a shrimp fly?,No
+532,A shrimp flys.,No
+533,Is shrimp is capable of flying?,No
+534,shrimp is capable of flying.,No
+535,Does a prawn fly?,No
+536,Can a prawn fly?,No
+537,A prawn flys.,No
+538,Is prawn is capable of flying?,No
+539,prawn is capable of flying.,No
+540,Does a starfish fly?,No
+541,Can a starfish fly?,No
+542,A starfish flys.,No
+543,Is starfish is capable of flying?,No
+544,starfish is capable of flying.,No
+545,Does a sponge fly?,No
+546,Can a sponge fly?,No
+547,A sponge flys.,No
+548,Is sponge is capable of flying?,No
+549,sponge is capable of flying.,No
+550,Does a whale fly?,No
+551,Can a whale fly?,No
+552,A whale flys.,No
+553,Is whale is capable of flying?,No
+554,whale is capable of flying.,No
