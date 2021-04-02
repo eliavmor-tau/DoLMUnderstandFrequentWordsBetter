@@ -445,7 +445,7 @@ def merge_all_sentences(csv_paths, output_path="csv/questions.csv", split=True):
 
 
 def animal_accuracy(animal, result_df):
-    animal_df = result_df[[f" {animal} " in question for question in result_df.question]]
+    animal_df = result_df[[f" {animal} " in question or f" {animal}'s" in question for question in result_df.question]]
     accuracy = len(animal_df[animal_df.model_answer == animal_df.true_answer]) / len(animal_df)
     yes_count = len(animal_df[animal_df.model_answer == "Yes"])
     no_count = len(animal_df[animal_df.model_answer == "No"])
@@ -519,7 +519,10 @@ def aggregate_results_by_question(result_df, animals_df):
         status = row["model_answer"] == row["true_answer"]
         is_yes = row["model_answer"] == "Yes"
         for animal in animals:
-            question = question.replace(f" {animal} ", " <entity> ")
+            if "'s" in question:
+                question = question.replace(f" {animal}'s", " <entity>'s")
+            else:
+                question = question.replace(f" {animal} ", " <entity> ")
         for q in results_by_question.keys():
             if question == q:
                 results_by_question[q]["accuracy"] += int(status)
@@ -528,6 +531,7 @@ def aggregate_results_by_question(result_df, animals_df):
                 break
 
     for q in results_by_question.keys():
+        print(q)
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
     return pd.DataFrame.from_dict(results_by_question)
 
@@ -542,14 +546,18 @@ def summarize_results(animals_csv_path, results_csv_path):
 
 
 if __name__ == "__main__":
-    summarize_results(animals_csv_path="csv/animals_dont_live_underwater.csv", results_csv_path="csv/results/animals_dont_live_underwater_questions_result.csv")
+    # results = ["animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins", "animals_dont_have_scales",
+    #            "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_live_underwater", "animals_dont_have_fur",
+    #            "animals_dont_have_hair"] # to add can't fly..
+    # for res in results:
+    #     summarize_results(animals_csv_path=f"csv/{res}.csv", results_csv_path=f"csv/results/{res}_questions_result.csv")
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    # questions = generate_sentences_from_csv(csv_path="csv/animals_dont_have_horns.csv")
-    # questions = pd.DataFrame.from_dict(questions)
-    # questions.to_csv("csv/animals_dont_have_horns_questions.csv")
+    questions = generate_sentences_from_csv(csv_path="csv/animals_drink.csv")
+    questions = pd.DataFrame.from_dict(questions)
+    questions.to_csv("csv/animals_drink_questions.csv")
 
     # merge_all_sentences(["csv/vehicle.csv", "csv/furniture.csv", "csv/food.csv", "csv/musical_instruments.csv"])
     # merge_all_sentences(["csv/animals.csv"])

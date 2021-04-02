@@ -1,0 +1,4 @@
+,Does a <entity> have scales?,A <entity> has scales.,Are scales part of a <entity>'s body?,Scales are part of a <entity>'s body.
+accuracy,0.8771929824561403,0.8421052631578947,0.9912280701754386,0.9298245614035088
+yes_count,14.0,18.0,1.0,8.0
+no_count,100.0,96.0,113.0,106.0
