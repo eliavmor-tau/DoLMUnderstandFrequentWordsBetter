@@ -1,0 +1,1877 @@
+,question,model_answer,true_answer
+0,A moose drinks cola.,Yes,No
+1,Does a monkey drink alcohol?,No,No
+2,A prawn drinks cola.,Yes,No
+3,A zebra drinks beer.,Yes,No
+4,A beagle drinks coffee.,Yes,No
+5,Does a kangaroo drink vodka?,Yes,No
+6,Does a barracuda drink bla?,Yes,No
+7,A gar drinks cola.,Yes,No
+8,A caracal drinks cola.,Yes,No
+9,A hippopotamus drinks bla.,Yes,No
+10,A owl drinks alcohol.,Yes,No
+11,A peacock drinks alcohol.,Yes,No
+12,Does a lion drink vodka?,Yes,No
+13,A cuckoos drinks wine.,Yes,No
+14,Does a ostrich drink beer?,Yes,No
+15,A antelope drinks cola.,Yes,No
+16,Does a frog drink vodka?,Yes,No
+17,Does a rabbit drink cola?,Yes,No
+18,Does a donkey drink bla?,Yes,No
+19,A octupus drinks cola.,Yes,No
+20,A corgi drinks coffee.,Yes,No
+21,A terrier drinks alcohol.,Yes,No
+22,Does a crocodile drink wine?,Yes,No
+23,A cuckoos drinks alcohol.,Yes,No
+24,A dove drinks beer.,Yes,No
+25,Does a lizard drink vodka?,Yes,No
+26,Does a crab drink bla?,No,No
+27,Does a herring drink cola?,Yes,No
+28,Does a spider drink alcohol?,Yes,No
+29,Does a pelican drink wine?,Yes,No
+30,Does a mouse drink vodka?,Yes,No
+31,Does a jellyfish drink alcohol?,Yes,No
+32,A ass drinks coffee.,Yes,No
+33,A lizard drinks coffee.,Yes,No
+34,A doberman drinks beer.,Yes,No
+35,Does a corgi drink alcohol?,Yes,No
+36,A salamander drinks bla.,No,No
+37,A cobra drinks vodka.,Yes,No
+38,A mamba drinks wine.,Yes,No
+39,A crow drinks vodka.,Yes,No
+40,Does a mamba drink wine?,Yes,No
+41,A moose drinks beer.,Yes,No
+42,Does a bison drink coffee?,Yes,No
+43,A tuna drinks bla.,No,No
+44,Does a boa drink alcohol?,Yes,No
+45,Does a elephant drink coffee?,Yes,No
+46,Does a rottweiler drink wine?,Yes,No
+47,A kangaroo drinks wine.,Yes,No
+48,Does a ant drink bla?,No,No
+49,Does a bull drink beer?,Yes,No
+50,Does a boa drink cola?,Yes,No
+51,Does a roaster drink wine?,Yes,No
+52,Does a tuna drink wine?,Yes,No
+53,A ostrich drinks cola.,Yes,No
+54,A frog drinks wine.,No,No
+55,A cobra drinks bla.,Yes,No
+56,Does a starfish drink alcohol?,Yes,No
+57,Does a swan drink beer?,Yes,No
+58,A chihuahua drinks coffee.,Yes,No
+59,A yak drinks beer.,Yes,No
+60,Does a goat drink vodka?,Yes,No
+61,A pelican drinks bla.,Yes,No
+62,Does a hummingbird drink cola?,Yes,No
+63,A caracal drinks beer.,Yes,No
+64,A owl drinks wine.,Yes,No
+65,A cat drinks cola.,Yes,No
+66,A codfish drinks alcohol.,Yes,No
+67,A boa drinks wine.,Yes,No
+68,Does a salmon drink bla?,Yes,No
+69,A cocker spaniel drinks vodka.,Yes,No
+70,A crab drinks beer.,Yes,No
+71,Does a lobster drink coffee?,Yes,No
+72,A camel drinks alcohol.,Yes,No
+73,A snail drinks cola.,Yes,No
+74,Does a prawn drink cola?,Yes,No
+75,A wolf drinks vodka.,Yes,No
+76,Does a aardvark drink cola?,Yes,No
+77,Does a flamingo drink bla?,Yes,No
+78,A gibbon drinks cola.,Yes,No
+79,A sheep drinks vodka.,No,No
+80,A gar drinks wine.,Yes,No
+81,A rottweiler drinks beer.,Yes,No
+82,A chihuahua drinks vodka.,Yes,No
+83,A bison drinks vodka.,Yes,No
+84,Does a quail drink alcohol?,Yes,No
+85,Does a terrier drink bla?,No,No
+86,Does a yak drink bla?,No,No
+87,A hummingbird drinks coffee.,Yes,No
+88,Does a pomeranian drink wine?,Yes,No
+89,Does a oyster drink bla?,No,No
+90,A husky drinks cola.,Yes,No
+91,Does a gibbon drink alcohol?,Yes,No
+92,A jaguar drinks coffee.,Yes,No
+93,Does a gorilla drink cola?,Yes,No
+94,A cat drinks wine.,Yes,No
+95,A baboon drinks coffee.,Yes,No
+96,Does a iguana drink bla?,Yes,No
+97,Does a gorilla drink beer?,Yes,No
+98,Does a fish drink bla?,Yes,No
+99,Does a songbird drink beer?,Yes,No
+100,Does a tiger drink bla?,No,No
+101,Does a duck drink wine?,Yes,No
+102,Does a aardvark drink alcohol?,Yes,No
+103,Does a gorilla drink alcohol?,Yes,No
+104,A jellyfish drinks vodka.,Yes,No
+105,A collie drinks wine.,Yes,No
+106,Does a crow drink alcohol?,Yes,No
+107,A duck drinks bla.,No,No
+108,A doberman drinks vodka.,Yes,No
+109,A oyster drinks wine.,Yes,No
+110,A piranha drinks vodka.,Yes,No
+111,Does a butterfly drink alcohol?,No,No
+112,A dog drinks cola.,No,No
+113,A rabbit drinks beer.,Yes,No
+114,Does a snail drink coffee?,Yes,No
+115,A cat drinks coffee.,Yes,No
+116,Does a baboon drink cola?,Yes,No
+117,Does a duck drink vodka?,Yes,No
+118,Does a crow drink wine?,Yes,No
+119,A ant drinks vodka.,Yes,No
+120,Does a boa drink coffee?,Yes,No
+121,Does a donkey drink alcohol?,Yes,No
+122,Does a sparrow drink wine?,Yes,No
+123,A puma drinks bla.,Yes,No
+124,A quail drinks cola.,Yes,No
+125,Does a crow drink coffee?,Yes,No
+126,A caracal drinks bla.,Yes,No
+127,Does a zebra drink coffee?,Yes,No
+128,A herring drinks coffee.,Yes,No
+129,Does a deer drink wine?,Yes,No
+130,A quail drinks coffee.,No,No
+131,A lion drinks wine.,No,No
+132,Does a boxer drink coffee?,No,No
+133,Does a raccoon drink beer?,Yes,No
+134,A pomeranian drinks cola.,Yes,No
+135,A leopard drinks alcohol.,No,No
+136,Does a husky drink vodka?,Yes,No
+137,Does a hummingbird drink wine?,Yes,No
+138,A goat drinks wine.,Yes,No
+139,Does a beef drink wine?,Yes,No
+140,Does a wolf drink beer?,Yes,No
+141,A eel drinks bla.,Yes,No
+142,Does a roaster drink bla?,No,No
+143,A iguana drinks wine.,Yes,No
+144,A mamba drinks beer.,Yes,No
+145,Does a eel drink vodka?,Yes,No
+146,A doberman drinks bla.,Yes,No
+147,Does a cuckoos drink coffee?,Yes,No
+148,A bird drinks beer.,Yes,No
+149,Does a grivet drink coffee?,Yes,No
+150,A caterpillar drinks vodka.,No,No
+151,A fish drinks alcohol.,Yes,No
+152,A pinscher drinks wine.,Yes,No
+153,Does a turkey drink cola?,Yes,No
+154,Does a cobra drink bla?,Yes,No
+155,Does a kangaroo drink bla?,No,No
+156,Does a piranha drink wine?,Yes,No
+157,A piranha drinks alcohol.,Yes,No
+158,Does a jellyfish drink beer?,Yes,No
+159,A monkey drinks beer.,No,No
+160,Does a hyena drink cola?,Yes,No
+161,A lizard drinks cola.,Yes,No
+162,A mamba drinks cola.,Yes,No
+163,Does a horse drink coffee?,Yes,No
+164,A boa drinks vodka.,Yes,No
+165,Does a piranha drink coffee?,Yes,No
+166,Does a leopard drink cola?,Yes,No
+167,Does a sheep drink cola?,No,No
+168,Does a butterfly drink beer?,No,No
+169,A dolphin drinks coffee.,Yes,No
+170,Does a shrew drink wine?,Yes,No
+171,A sponge drinks vodka.,No,No
+172,Does a seal drink cola?,Yes,No
+173,Does a snail drink alcohol?,No,No
+174,Does a salamander drink bla?,No,No
+175,A ostrich drinks bla.,No,No
+176,A leopard drinks bla.,Yes,No
+177,Does a mamba drink cola?,Yes,No
+178,A giraffe drinks coffee.,Yes,No
+179,Does a pigeon drink alcohol?,No,No
+180,Does a ox drink bla?,Yes,No
+181,A mamba drinks alcohol.,Yes,No
+182,A dove drinks bla.,No,No
+183,A tiger drinks wine.,Yes,No
+184,A flamingo drinks beer.,Yes,No
+185,A koala drinks vodka.,Yes,No
+186,Does a rabbit drink bla?,No,No
+187,Does a gar drink beer?,Yes,No
+188,Does a cuttlefish drink vodka?,Yes,No
+189,A butterfly drinks bla.,Yes,No
+190,A rhino drinks cola.,No,No
+191,Does a jay drink wine?,Yes,No
+192,A seal drinks coffee.,No,No
+193,Does a cat drink beer?,Yes,No
+194,Does a chihuahua drink cola?,Yes,No
+195,A dove drinks wine.,Yes,No
+196,A skunk drinks alcohol.,Yes,No
+197,A gar drinks vodka.,Yes,No
+198,A butterfly drinks alcohol.,No,No
+199,A owl drinks beer.,Yes,No
+200,A jay drinks alcohol.,Yes,No
+201,A rottweiler drinks alcohol.,No,No
+202,A cat drinks bla.,Yes,No
+203,A aardvark drinks wine.,Yes,No
+204,A bull drinks alcohol.,Yes,No
+205,A shrew drinks vodka.,Yes,No
+206,Does a eagle drink cola?,Yes,No
+207,A raccoon drinks vodka.,Yes,No
+208,Does a ass drink wine?,Yes,No
+209,A chicken drinks wine.,No,No
+210,Does a seal drink coffee?,No,No
+211,A wolf drinks bla.,Yes,No
+212,Does a grivet drink bla?,No,No
+213,A antelope drinks coffee.,Yes,No
+214,A pomeranian drinks wine.,Yes,No
+215,A collie drinks coffee.,Yes,No
+216,Does a ass drink cola?,Yes,No
+217,Does a sponge drink beer?,No,No
+218,A chicken drinks cola.,Yes,No
+219,Does a fish drink vodka?,Yes,No
+220,Does a zebra drink alcohol?,Yes,No
+221,Does a crocodile drink beer?,Yes,No
+222,Does a cocker spaniel drink beer?,Yes,No
+223,Does a bird drink vodka?,No,No
+224,Does a schnauzer drink beer?,Yes,No
+225,Does a tapir drink beer?,Yes,No
+226,Does a crow drink beer?,Yes,No
+227,A liger drinks beer.,Yes,No
+228,A corgi drinks vodka.,Yes,No
+229,Does a crow drink cola?,Yes,No
+230,Does a tuna drink alcohol?,Yes,No
+231,A pomeranian drinks beer.,No,No
+232,A donkey drinks vodka.,Yes,No
+233,Does a dove drink beer?,Yes,No
+234,A barracuda drinks alcohol.,Yes,No
+235,A crow drinks wine.,Yes,No
+236,A swan drinks beer.,Yes,No
+237,A cobra drinks alcohol.,Yes,No
+238,A eagle drinks bla.,No,No
+239,Does a husky drink beer?,Yes,No
+240,A horse drinks vodka.,No,No
+241,Does a chicken drink cola?,Yes,No
+242,A tarantula drinks bla.,Yes,No
+243,Does a flamingo drink wine?,Yes,No
+244,A jellyfish drinks alcohol.,Yes,No
+245,A turkey drinks coffee.,Yes,No
+246,Does a dolphin drink coffee?,Yes,No
+247,A moose drinks bla.,Yes,No
+248,A barracuda drinks coffee.,Yes,No
+249,A husky drinks wine.,Yes,No
+250,A crow drinks bla.,Yes,No
+251,Does a quail drink coffee?,No,No
+252,Does a pig drink alcohol?,No,No
+253,Does a hen drink beer?,Yes,No
+254,Does a mule drink cola?,Yes,No
+255,Does a rat drink alcohol?,Yes,No
+256,A ant drinks beer.,Yes,No
+257,Does a bear drink cola?,Yes,No
+258,Does a sponge drink alcohol?,Yes,No
+259,Does a raccoon drink alcohol?,Yes,No
+260,A ant drinks alcohol.,Yes,No
+261,A aardvark drinks beer.,Yes,No
+262,Does a jellyfish drink bla?,Yes,No
+263,Does a wolf drink coffee?,Yes,No
+264,A caterpillar drinks beer.,Yes,No
+265,Does a seal drink alcohol?,No,No
+266,Does a swan drink alcohol?,Yes,No
+267,A dove drinks cola.,Yes,No
+268,Does a mamba drink beer?,Yes,No
+269,A kangaroo drinks vodka.,Yes,No
+270,A hen drinks bla.,No,No
+271,Does a mouse drink coffee?,Yes,No
+272,Does a codfish drink wine?,Yes,No
+273,Does a crocodile drink alcohol?,Yes,No
+274,A rat drinks cola.,Yes,No
+275,A pig drinks alcohol.,No,No
+276,A shark drinks cola.,Yes,No
+277,A mouse drinks bla.,Yes,No
+278,Does a starfish drink wine?,Yes,No
+279,A wolf drinks alcohol.,Yes,No
+280,Does a cow drink wine?,Yes,No
+281,A hippopotamus drinks cola.,Yes,No
+282,Does a jellyfish drink cola?,Yes,No
+283,Does a rhino drink cola?,Yes,No
+284,Does a roaster drink cola?,Yes,No
+285,A horse drinks bla.,No,No
+286,Does a caracal drink bla?,Yes,No
+287,Does a roaster drink beer?,Yes,No
+288,Does a lobster drink vodka?,Yes,No
+289,Does a frog drink bla?,No,No
+290,A doberman drinks wine.,Yes,No
+291,Does a flamingo drink vodka?,Yes,No
+292,Does a ostrich drink coffee?,Yes,No
+293,A jay drinks beer.,Yes,No
+294,A frog drinks cola.,Yes,No
+295,A beagle drinks bla.,No,No
+296,A chicken drinks beer.,Yes,No
+297,Does a pinscher drink coffee?,Yes,No
+298,A caracal drinks wine.,Yes,No
+299,Does a cobra drink beer?,Yes,No
+300,Does a peacock drink wine?,Yes,No
+301,Does a hen drink cola?,Yes,No
+302,Does a grivet drink beer?,Yes,No
+303,A peacock drinks wine.,Yes,No
+304,Does a barracuda drink alcohol?,Yes,No
+305,A seagull drinks cola.,Yes,No
+306,Does a corgi drink coffee?,Yes,No
+307,Does a prawn drink bla?,No,No
+308,A fox drinks cola.,Yes,No
+309,Does a frog drink beer?,Yes,No
+310,Does a caracal drink beer?,Yes,No
+311,Does a liger drink wine?,Yes,No
+312,Does a collie drink beer?,Yes,No
+313,Does a salmon drink vodka?,Yes,No
+314,Does a dolphin drink vodka?,Yes,No
+315,Does a bear drink wine?,Yes,No
+316,A crocodile drinks alcohol.,Yes,No
+317,Does a piranha drink beer?,Yes,No
+318,A pig drinks bla.,Yes,No
+319,A gorilla drinks bla.,Yes,No
+320,A tapir drinks vodka.,Yes,No
+321,Does a eagle drink beer?,Yes,No
+322,A rhino drinks coffee.,No,No
+323,Does a corgi drink cola?,Yes,No
+324,Does a chicken drink alcohol?,No,No
+325,A ox drinks bla.,Yes,No
+326,A tapir drinks wine.,Yes,No
+327,A yak drinks cola.,Yes,No
+328,A swan drinks coffee.,Yes,No
+329,Does a peacock drink cola?,Yes,No
+330,Does a schnauzer drink alcohol?,Yes,No
+331,Does a mule drink coffee?,Yes,No
+332,A fox drinks coffee.,Yes,No
+333,A terrier drinks bla.,No,No
+334,A flamingo drinks cola.,Yes,No
+335,A ostrich drinks vodka.,No,No
+336,Does a gibbon drink vodka?,Yes,No
+337,A piranha drinks coffee.,Yes,No
+338,Does a shrimp drink beer?,Yes,No
+339,A alpaca drinks beer.,Yes,No
+340,A barracuda drinks wine.,Yes,No
+341,Does a hippopotamus drink bla?,No,No
+342,A oyster drinks vodka.,Yes,No
+343,A pinscher drinks vodka.,Yes,No
+344,Does a boa drink vodka?,Yes,No
+345,A gibbon drinks coffee.,Yes,No
+346,Does a camel drink bla?,No,No
+347,Does a puma drink alcohol?,Yes,No
+348,Does a fish drink coffee?,Yes,No
+349,Does a piranha drink cola?,Yes,No
+350,Does a donkey drink coffee?,Yes,No
+351,Does a crocodile drink cola?,Yes,No
+352,Does a salamander drink alcohol?,Yes,No
+353,Does a whale drink vodka?,Yes,No
+354,Does a tarantula drink bla?,Yes,No
+355,A lobster drinks bla.,Yes,No
+356,Does a parrot drink bla?,No,No
+357,Does a jay drink alcohol?,Yes,No
+358,Does a herring drink wine?,Yes,No
+359,A salmon drinks bla.,Yes,No
+360,Does a cobra drink vodka?,Yes,No
+361,Does a terrier drink cola?,Yes,No
+362,Does a caterpillar drink coffee?,Yes,No
+363,A crocodile drinks bla.,Yes,No
+364,Does a pig drink beer?,Yes,No
+365,A caracal drinks vodka.,Yes,No
+366,Does a quail drink bla?,Yes,No
+367,Does a ostrich drink cola?,Yes,No
+368,A boxer drinks bla.,No,No
+369,Does a schnauzer drink wine?,Yes,No
+370,Does a koala drink vodka?,Yes,No
+371,Does a butterfly drink cola?,Yes,No
+372,A butterfly drinks beer.,No,No
+373,Does a wolf drink alcohol?,Yes,No
+374,A horse drinks coffee.,Yes,No
+375,A mouse drinks coffee.,Yes,No
+376,Does a rhino drink alcohol?,No,No
+377,Does a gibbon drink cola?,Yes,No
+378,Does a bison drink vodka?,Yes,No
+379,Does a boa drink wine?,Yes,No
+380,Does a monkey drink wine?,Yes,No
+381,Does a ox drink vodka?,Yes,No
+382,A cuttlefish drinks bla.,Yes,No
+383,Does a gorilla drink coffee?,Yes,No
+384,Does a yak drink beer?,Yes,No
+385,A snail drinks vodka.,No,No
+386,A grivet drinks beer.,Yes,No
+387,Does a caracal drink wine?,Yes,No
+388,Does a beef drink cola?,Yes,No
+389,A kingfisher drinks beer.,Yes,No
+390,A owl drinks bla.,Yes,No
+391,Does a donkey drink beer?,Yes,No
+392,Does a tapir drink cola?,Yes,No
+393,Does a sparrow drink bla?,No,No
+394,A shrimp drinks beer.,Yes,No
+395,A labrador drinks beer.,No,No
+396,Does a roaster drink vodka?,Yes,No
+397,Does a spider drink beer?,No,No
+398,Does a quail drink beer?,Yes,No
+399,Does a liger drink alcohol?,Yes,No
+400,Does a cuttlefish drink bla?,Yes,No
+401,Does a camel drink cola?,Yes,No
+402,A jay drinks coffee.,Yes,No
+403,Does a barracuda drink vodka?,Yes,No
+404,Does a alpaca drink alcohol?,Yes,No
+405,A puma drinks coffee.,Yes,No
+406,A bird drinks alcohol.,No,No
+407,A alligator drinks bla.,No,No
+408,Does a jaguar drink vodka?,Yes,No
+409,Does a shrew drink coffee?,Yes,No
+410,A sheep drinks beer.,No,No
+411,Does a bison drink beer?,Yes,No
+412,Does a rabbit drink vodka?,Yes,No
+413,A bird drinks vodka.,No,No
+414,Does a leopard drink bla?,Yes,No
+415,A bird drinks coffee.,Yes,No
+416,A monkey drinks wine.,Yes,No
+417,Does a bulldog drink bla?,Yes,No
+418,Does a snake drink beer?,No,No
+419,Does a eel drink bla?,Yes,No
+420,Does a horse drink wine?,Yes,No
+421,Does a cow drink alcohol?,No,No
+422,A boxer drinks coffee.,Yes,No
+423,Does a dove drink coffee?,Yes,No
+424,Does a bird drink cola?,Yes,No
+425,A hyena drinks bla.,No,No
+426,A snail drinks beer.,No,No
+427,A boxer drinks cola.,Yes,No
+428,A mouse drinks cola.,Yes,No
+429,Does a starfish drink beer?,Yes,No
+430,A parrot drinks beer.,Yes,No
+431,A camel drinks coffee.,Yes,No
+432,Does a songbird drink coffee?,Yes,No
+433,Does a sponge drink wine?,Yes,No
+434,A pomeranian drinks bla.,Yes,No
+435,A sheep drinks bla.,Yes,No
+436,A collie drinks alcohol.,Yes,No
+437,A lizard drinks alcohol.,Yes,No
+438,A donkey drinks cola.,Yes,No
+439,A yak drinks wine.,Yes,No
+440,Does a hyena drink bla?,No,No
+441,Does a cat drink wine?,Yes,No
+442,Does a dove drink vodka?,Yes,No
+443,Does a ostrich drink wine?,Yes,No
+444,Does a baboon drink vodka?,Yes,No
+445,Does a ox drink coffee?,Yes,No
+446,Does a oyster drink wine?,Yes,No
+447,A puma drinks cola.,Yes,No
+448,A alligator drinks coffee.,No,No
+449,Does a fox drink bla?,Yes,No
+450,Does a hen drink vodka?,Yes,No
+451,Does a skunk drink alcohol?,Yes,No
+452,Does a baboon drink wine?,Yes,No
+453,Does a swan drink cola?,Yes,No
+454,A donkey drinks alcohol.,Yes,No
+455,A flamingo drinks coffee.,Yes,No
+456,A tuna drinks beer.,Yes,No
+457,Does a corgi drink wine?,Yes,No
+458,A frog drinks alcohol.,Yes,No
+459,Does a liger drink vodka?,Yes,No
+460,Does a antelope drink bla?,No,No
+461,Does a alligator drink coffee?,Yes,No
+462,A beef drinks alcohol.,No,No
+463,A kangaroo drinks coffee.,Yes,No
+464,A herring drinks beer.,Yes,No
+465,Does a alpaca drink beer?,Yes,No
+466,A hummingbird drinks beer.,Yes,No
+467,A dog drinks vodka.,No,No
+468,Does a cocker spaniel drink wine?,Yes,No
+469,Does a boxer drink bla?,No,No
+470,Does a husky drink alcohol?,Yes,No
+471,Does a kangaroo drink cola?,Yes,No
+472,Does a flamingo drink coffee?,Yes,No
+473,A schnauzer drinks vodka.,Yes,No
+474,A pig drinks beer.,No,No
+475,Does a aardvark drink beer?,Yes,No
+476,A shrimp drinks coffee.,No,No
+477,A bison drinks alcohol.,Yes,No
+478,A eagle drinks coffee.,No,No
+479,Does a rottweiler drink beer?,Yes,No
+480,Does a butterfly drink coffee?,Yes,No
+481,Does a whale drink beer?,Yes,No
+482,Does a corgi drink bla?,Yes,No
+483,A grivet drinks vodka.,Yes,No
+484,Does a alligator drink cola?,Yes,No
+485,A tuna drinks alcohol.,Yes,No
+486,A wolf drinks wine.,Yes,No
+487,Does a prawn drink vodka?,Yes,No
+488,Does a zebra drink vodka?,Yes,No
+489,Does a owl drink cola?,Yes,No
+490,A koala drinks beer.,Yes,No
+491,A ant drinks coffee.,Yes,No
+492,A starfish drinks bla.,No,No
+493,Does a songbird drink vodka?,Yes,No
+494,A quail drinks beer.,Yes,No
+495,Does a alligator drink bla?,No,No
+496,Does a salamander drink wine?,Yes,No
+497,Does a oyster drink coffee?,Yes,No
+498,A hen drinks alcohol.,No,No
+499,A shrew drinks coffee.,Yes,No
+500,Does a bull drink wine?,Yes,No
+501,A sponge drinks alcohol.,No,No
+502,A boxer drinks beer.,Yes,No
+503,Does a shark drink vodka?,Yes,No
+504,A bull drinks vodka.,No,No
+505,A fox drinks alcohol.,No,No
+506,A prawn drinks vodka.,Yes,No
+507,A tarantula drinks vodka.,Yes,No
+508,Does a ant drink wine?,Yes,No
+509,A boxer drinks alcohol.,No,No
+510,A mule drinks alcohol.,Yes,No
+511,A parrot drinks coffee.,Yes,No
+512,Does a roaster drink coffee?,Yes,No
+513,Does a chicken drink wine?,Yes,No
+514,Does a shrew drink beer?,Yes,No
+515,Does a cat drink vodka?,Yes,No
+516,Does a quail drink cola?,Yes,No
+517,A turkey drinks cola.,Yes,No
+518,A jay drinks bla.,Yes,No
+519,Does a kingfisher drink wine?,Yes,No
+520,Does a lobster drink cola?,Yes,No
+521,A hummingbird drinks vodka.,No,No
+522,Does a sponge drink cola?,Yes,No
+523,Does a shrimp drink alcohol?,No,No
+524,Does a bulldog drink vodka?,Yes,No
+525,Does a sheep drink vodka?,No,No
+526,A dog drinks beer.,No,No
+527,Does a crocodile drink vodka?,Yes,No
+528,Does a yak drink cola?,Yes,No
+529,A baboon drinks vodka.,No,No
+530,A pig drinks cola.,Yes,No
+531,Does a starfish drink coffee?,No,No
+532,A frog drinks coffee.,No,No
+533,A duck drinks alcohol.,No,No
+534,A crab drinks wine.,Yes,No
+535,Does a raccoon drink cola?,Yes,No
+536,Does a turkey drink wine?,Yes,No
+537,Does a turkey drink bla?,No,No
+538,A salamander drinks coffee.,Yes,No
+539,Does a hen drink wine?,No,No
+540,Does a duck drink coffee?,Yes,No
+541,A iguana drinks cola.,Yes,No
+542,Does a spider drink vodka?,Yes,No
+543,A sheep drinks coffee.,No,No
+544,Does a cow drink beer?,Yes,No
+545,A ant drinks cola.,Yes,No
+546,Does a eel drink alcohol?,Yes,No
+547,Does a parrot drink cola?,Yes,No
+548,A yak drinks vodka.,Yes,No
+549,A tarantula drinks beer.,Yes,No
+550,A parrot drinks wine.,Yes,No
+551,Does a eel drink beer?,Yes,No
+552,A shark drinks beer.,Yes,No
+553,Does a snail drink wine?,Yes,No
+554,Does a moose drink bla?,Yes,No
+555,Does a aardvark drink vodka?,Yes,No
+556,Does a ape drink bla?,Yes,No
+557,Does a zebra drink bla?,Yes,No
+558,Does a beef drink alcohol?,No,No
+559,Does a moose drink vodka?,Yes,No
+560,A shrimp drinks vodka.,No,No
+561,A lobster drinks alcohol.,Yes,No
+562,A tiger drinks coffee.,Yes,No
+563,A seal drinks wine.,Yes,No
+564,A worm drinks vodka.,No,No
+565,Does a boxer drink wine?,Yes,No
+566,Does a chicken drink coffee?,Yes,No
+567,A gibbon drinks vodka.,Yes,No
+568,A lobster drinks wine.,Yes,No
+569,A cow drinks bla.,Yes,No
+570,A alpaca drinks wine.,Yes,No
+571,Does a pigeon drink wine?,Yes,No
+572,Does a salmon drink cola?,Yes,No
+573,A bulldog drinks bla.,Yes,No
+574,A goat drinks alcohol.,No,No
+575,A parrot drinks bla.,No,No
+576,A eel drinks cola.,Yes,No
+577,A ostrich drinks coffee.,Yes,No
+578,A flamingo drinks bla.,Yes,No
+579,Does a jellyfish drink coffee?,Yes,No
+580,A bear drinks bla.,Yes,No
+581,Does a duck drink beer?,Yes,No
+582,Does a cocker spaniel drink vodka?,Yes,No
+583,Does a cat drink cola?,Yes,No
+584,Does a zebra drink wine?,Yes,No
+585,Does a grivet drink alcohol?,Yes,No
+586,A hummingbird drinks wine.,Yes,No
+587,Does a lizard drink wine?,Yes,No
+588,Does a goat drink cola?,Yes,No
+589,Does a chicken drink beer?,Yes,No
+590,Does a hummingbird drink bla?,Yes,No
+591,A koala drinks wine.,Yes,No
+592,Does a kingfisher drink coffee?,No,No
+593,Does a fish drink alcohol?,Yes,No
+594,Does a pinscher drink cola?,Yes,No
+595,A corgi drinks wine.,Yes,No
+596,A boxer drinks vodka.,No,No
+597,Does a octupus drink bla?,Yes,No
+598,A terrier drinks beer.,Yes,No
+599,A songbird drinks beer.,Yes,No
+600,Does a pigeon drink beer?,Yes,No
+601,A spider drinks vodka.,No,No
+602,A zebra drinks alcohol.,Yes,No
+603,A ape drinks beer.,No,No
+604,Does a pinscher drink bla?,Yes,No
+605,A cat drinks vodka.,No,No
+606,A husky drinks coffee.,Yes,No
+607,Does a caterpillar drink beer?,Yes,No
+608,A owl drinks cola.,Yes,No
+609,A ostrich drinks alcohol.,Yes,No
+610,Does a alligator drink alcohol?,Yes,No
+611,A wolf drinks beer.,Yes,No
+612,Does a beagle drink beer?,Yes,No
+613,A cow drinks alcohol.,No,No
+614,Does a hen drink alcohol?,No,No
+615,Does a bison drink cola?,Yes,No
+616,A dolphin drinks wine.,Yes,No
+617,Does a peacock drink beer?,Yes,No
+618,A shrimp drinks cola.,Yes,No
+619,Does a oyster drink beer?,Yes,No
+620,Does a husky drink wine?,Yes,No
+621,Does a shrimp drink bla?,No,No
+622,A goat drinks beer.,No,No
+623,Does a fox drink beer?,Yes,No
+624,Does a iguana drink vodka?,Yes,No
+625,Does a horse drink alcohol?,Yes,No
+626,Does a tarantula drink coffee?,Yes,No
+627,Does a ape drink beer?,Yes,No
+628,Does a oyster drink alcohol?,Yes,No
+629,Does a rhino drink beer?,Yes,No
+630,A dog drinks wine.,No,No
+631,A elephant drinks coffee.,Yes,No
+632,Does a rhino drink vodka?,No,No
+633,A pigeon drinks wine.,Yes,No
+634,A shark drinks vodka.,Yes,No
+635,Does a parrot drink alcohol?,Yes,No
+636,A turkey drinks wine.,Yes,No
+637,Does a hippopotamus drink cola?,Yes,No
+638,A aardvark drinks vodka.,Yes,No
+639,Does a hippopotamus drink alcohol?,Yes,No
+640,A octupus drinks bla.,Yes,No
+641,A puma drinks wine.,Yes,No
+642,Does a rat drink bla?,No,No
+643,A seal drinks vodka.,No,No
+644,Does a shrew drink cola?,Yes,No
+645,Does a jay drink vodka?,Yes,No
+646,Does a shark drink bla?,Yes,No
+647,Does a caracal drink alcohol?,Yes,No
+648,A boa drinks bla.,Yes,No
+649,A pigeon drinks cola.,Yes,No
+650,A liger drinks vodka.,Yes,No
+651,Does a dog drink beer?,Yes,No
+652,A jellyfish drinks cola.,Yes,No
+653,A beagle drinks cola.,Yes,No
+654,Does a dog drink cola?,Yes,No
+655,Does a gorilla drink vodka?,Yes,No
+656,Does a monkey drink bla?,Yes,No
+657,Does a oyster drink vodka?,Yes,No
+658,A raccoon drinks coffee.,Yes,No
+659,A aardvark drinks coffee.,Yes,No
+660,A lizard drinks bla.,Yes,No
+661,Does a iguana drink wine?,Yes,No
+662,A hummingbird drinks bla.,Yes,No
+663,Does a salmon drink wine?,Yes,No
+664,Does a mamba drink vodka?,Yes,No
+665,Does a ass drink beer?,Yes,No
+666,A octupus drinks alcohol.,Yes,No
+667,A elephant drinks vodka.,No,No
+668,A gorilla drinks wine.,Yes,No
+669,A jellyfish drinks beer.,Yes,No
+670,Does a frog drink alcohol?,Yes,No
+671,A squirrel drinks beer.,No,No
+672,A dolphin drinks beer.,Yes,No
+673,Does a terrier drink wine?,Yes,No
+674,A seagull drinks coffee.,Yes,No
+675,A roaster drinks alcohol.,No,No
+676,A eel drinks vodka.,Yes,No
+677,Does a monkey drink vodka?,No,No
+678,A gorilla drinks alcohol.,No,No
+679,A sparrow drinks vodka.,No,No
+680,A kingfisher drinks cola.,Yes,No
+681,A eagle drinks wine.,No,No
+682,Does a hummingbird drink alcohol?,Yes,No
+683,Does a shrimp drink wine?,Yes,No
+684,Does a chihuahua drink bla?,Yes,No
+685,A worm drinks coffee.,No,No
+686,A deer drinks wine.,Yes,No
+687,Does a collie drink cola?,Yes,No
+688,Does a aardvark drink coffee?,Yes,No
+689,Does a hyena drink vodka?,Yes,No
+690,A oyster drinks coffee.,Yes,No
+691,A shrew drinks beer.,Yes,No
+692,Does a fox drink wine?,Yes,No
+693,Does a pomeranian drink coffee?,Yes,No
+694,A skunk drinks wine.,Yes,No
+695,A frog drinks bla.,No,No
+696,A frog drinks beer.,Yes,No
+697,A pigeon drinks bla.,Yes,No
+698,A cocker spaniel drinks cola.,Yes,No
+699,A starfish drinks beer.,Yes,No
+700,A pomeranian drinks coffee.,Yes,No
+701,Does a herring drink bla?,No,No
+702,Does a beagle drink wine?,Yes,No
+703,Does a baboon drink beer?,Yes,No
+704,A salamander drinks vodka.,Yes,No
+705,Does a beef drink bla?,No,No
+706,A grivet drinks bla.,Yes,No
+707,A roaster drinks coffee.,Yes,No
+708,A puma drinks vodka.,Yes,No
+709,A songbird drinks wine.,Yes,No
+710,Does a jay drink cola?,Yes,No
+711,Does a iguana drink cola?,Yes,No
+712,Does a cobra drink alcohol?,Yes,No
+713,Does a rabbit drink coffee?,Yes,No
+714,Does a songbird drink bla?,Yes,No
+715,Does a gibbon drink wine?,Yes,No
+716,A ant drinks wine.,Yes,No
+717,A dalmatian drinks vodka.,Yes,No
+718,A herring drinks alcohol.,Yes,No
+719,Does a quail drink wine?,Yes,No
+720,Does a lizard drink bla?,Yes,No
+721,Does a skunk drink beer?,Yes,No
+722,Does a rat drink beer?,Yes,No
+723,Does a sheep drink bla?,No,No
+724,A jay drinks vodka.,Yes,No
+725,A squirrel drinks vodka.,No,No
+726,Does a monkey drink beer?,Yes,No
+727,Does a lobster drink bla?,Yes,No
+728,A mamba drinks bla.,Yes,No
+729,A spider drinks coffee.,No,No
+730,Does a rabbit drink alcohol?,No,No
+731,Does a rottweiler drink coffee?,Yes,No
+732,Does a goat drink coffee?,Yes,No
+733,A beef drinks bla.,Yes,No
+734,Does a butterfly drink bla?,Yes,No
+735,A fox drinks wine.,Yes,No
+736,Does a cuckoos drink alcohol?,Yes,No
+737,Does a seal drink bla?,No,No
+738,A eel drinks wine.,Yes,No
+739,Does a squirrel drink vodka?,No,No
+740,Does a camel drink coffee?,Yes,No
+741,A salamander drinks beer.,Yes,No
+742,A tapir drinks bla.,Yes,No
+743,A bear drinks vodka.,No,No
+744,A jay drinks wine.,Yes,No
+745,A whale drinks wine.,Yes,No
+746,A frog drinks vodka.,No,No
+747,Does a pig drink coffee?,Yes,No
+748,A grivet drinks cola.,Yes,No
+749,A rhino drinks vodka.,No,No
+750,A gar drinks alcohol.,Yes,No
+751,A chicken drinks alcohol.,No,No
+752,A antelope drinks bla.,Yes,No
+753,Does a dove drink wine?,Yes,No
+754,A mule drinks beer.,Yes,No
+755,Does a giraffe drink alcohol?,Yes,No
+756,A dolphin drinks alcohol.,Yes,No
+757,A lizard drinks wine.,Yes,No
+758,A tapir drinks alcohol.,Yes,No
+759,A boa drinks cola.,Yes,No
+760,A spider drinks wine.,No,No
+761,Does a prawn drink alcohol?,Yes,No
+762,Does a horse drink cola?,Yes,No
+763,A giraffe drinks alcohol.,Yes,No
+764,A whale drinks beer.,Yes,No
+765,A flamingo drinks vodka.,Yes,No
+766,A terrier drinks cola.,Yes,No
+767,A peacock drinks bla.,No,No
+768,Does a dove drink alcohol?,Yes,No
+769,A horse drinks alcohol.,No,No
+770,A labrador drinks vodka.,No,No
+771,Does a lobster drink beer?,Yes,No
+772,A salmon drinks coffee.,Yes,No
+773,A crow drinks alcohol.,Yes,No
+774,A bull drinks coffee.,Yes,No
+775,A ox drinks wine.,Yes,No
+776,Does a pinscher drink beer?,Yes,No
+777,Does a puma drink beer?,Yes,No
+778,A octupus drinks beer.,Yes,No
+779,A snail drinks coffee.,Yes,No
+780,A owl drinks coffee.,Yes,No
+781,A skunk drinks bla.,Yes,No
+782,A rat drinks bla.,Yes,No
+783,A songbird drinks bla.,Yes,No
+784,Does a koala drink beer?,Yes,No
+785,A rabbit drinks coffee.,No,No
+786,Does a caterpillar drink cola?,Yes,No
+787,A cuttlefish drinks vodka.,Yes,No
+788,A deer drinks vodka.,Yes,No
+789,Does a oyster drink cola?,Yes,No
+790,A codfish drinks beer.,Yes,No
+791,A dove drinks alcohol.,Yes,No
+792,A turkey drinks alcohol.,No,No
+793,Does a terrier drink beer?,Yes,No
+794,Does a mule drink alcohol?,Yes,No
+795,A corgi drinks alcohol.,Yes,No
+796,A duck drinks vodka.,Yes,No
+797,Does a grivet drink vodka?,Yes,No
+798,A lion drinks cola.,Yes,No
+799,Does a fish drink beer?,Yes,No
+800,Does a flamingo drink beer?,Yes,No
+801,A mouse drinks wine.,Yes,No
+802,Does a eel drink wine?,Yes,No
+803,A goat drinks bla.,Yes,No
+804,Does a raccoon drink vodka?,Yes,No
+805,Does a pig drink cola?,Yes,No
+806,A bear drinks cola.,Yes,No
+807,A deer drinks bla.,Yes,No
+808,A cuckoos drinks vodka.,No,No
+809,A raccoon drinks cola.,Yes,No
+810,Does a hippopotamus drink coffee?,Yes,No
+811,A iguana drinks alcohol.,Yes,No
+812,A schnauzer drinks cola.,Yes,No
+813,Does a chihuahua drink beer?,Yes,No
+814,Does a worm drink wine?,Yes,No
+815,Does a caterpillar drink alcohol?,Yes,No
+816,Does a rottweiler drink bla?,No,No
+817,Does a shrimp drink coffee?,Yes,No
+818,A cocker spaniel drinks beer.,Yes,No
+819,Does a sheep drink beer?,Yes,No
+820,Does a elephant drink vodka?,Yes,No
+821,Does a gorilla drink wine?,Yes,No
+822,Does a gibbon drink beer?,Yes,No
+823,Does a pomeranian drink alcohol?,Yes,No
+824,Does a aardvark drink bla?,No,No
+825,Does a koala drink bla?,Yes,No
+826,A duck drinks wine.,Yes,No
+827,Does a turkey drink alcohol?,Yes,No
+828,A chicken drinks coffee.,No,No
+829,A dolphin drinks cola.,Yes,No
+830,A pigeon drinks coffee.,Yes,No
+831,A cat drinks beer.,Yes,No
+832,Does a elephant drink wine?,Yes,No
+833,Does a herring drink vodka?,Yes,No
+834,A yak drinks alcohol.,Yes,No
+835,A salmon drinks beer.,Yes,No
+836,Does a spider drink bla?,No,No
+837,Does a bison drink alcohol?,Yes,No
+838,A liger drinks coffee.,Yes,No
+839,Does a skunk drink wine?,Yes,No
+840,A puma drinks alcohol.,Yes,No
+841,Does a gar drink coffee?,Yes,No
+842,Does a labrador drink coffee?,No,No
+843,A doberman drinks coffee.,Yes,No
+844,A bulldog drinks coffee.,No,No
+845,Does a chihuahua drink wine?,Yes,No
+846,A boa drinks beer.,Yes,No
+847,A whale drinks vodka.,No,No
+848,A skunk drinks cola.,Yes,No
+849,Does a koala drink wine?,Yes,No
+850,Does a octupus drink alcohol?,Yes,No
+851,A octupus drinks vodka.,Yes,No
+852,A rhino drinks beer.,No,No
+853,Does a labrador drink wine?,Yes,No
+854,Does a cuttlefish drink alcohol?,Yes,No
+855,A elephant drinks cola.,Yes,No
+856,A cuckoos drinks bla.,Yes,No
+857,Does a cow drink coffee?,Yes,No
+858,Does a mule drink beer?,Yes,No
+859,A iguana drinks beer.,Yes,No
+860,Does a cuckoos drink beer?,Yes,No
+861,A collie drinks beer.,Yes,No
+862,A iguana drinks coffee.,Yes,No
+863,Does a octupus drink wine?,Yes,No
+864,Does a lizard drink cola?,Yes,No
+865,A herring drinks wine.,Yes,No
+866,A rabbit drinks alcohol.,No,No
+867,Does a snail drink cola?,Yes,No
+868,A gibbon drinks bla.,Yes,No
+869,Does a jay drink bla?,Yes,No
+870,A songbird drinks alcohol.,No,No
+871,Does a boxer drink cola?,Yes,No
+872,Does a liger drink coffee?,Yes,No
+873,A ox drinks coffee.,Yes,No
+874,Does a ass drink coffee?,Yes,No
+875,A eel drinks beer.,Yes,No
+876,Does a bulldog drink alcohol?,Yes,No
+877,Does a cocker spaniel drink cola?,Yes,No
+878,A sponge drinks wine.,Yes,No
+879,Does a iguana drink alcohol?,Yes,No
+880,Does a barracuda drink beer?,Yes,No
+881,A horse drinks wine.,Yes,No
+882,A kangaroo drinks alcohol.,Yes,No
+883,Does a pinscher drink wine?,Yes,No
+884,A leopard drinks vodka.,No,No
+885,A husky drinks alcohol.,Yes,No
+886,Does a puma drink vodka?,Yes,No
+887,A bird drinks cola.,Yes,No
+888,Does a hippopotamus drink wine?,Yes,No
+889,A snake drinks beer.,No,No
+890,A sponge drinks bla.,Yes,No
+891,Does a bulldog drink cola?,Yes,No
+892,A barracuda drinks beer.,Yes,No
+893,Does a snail drink vodka?,No,No
+894,A squirrel drinks wine.,No,No
+895,A duck drinks cola.,Yes,No
+896,Does a bear drink vodka?,Yes,No
+897,A squirrel drinks cola.,No,No
+898,Does a pig drink bla?,Yes,No
+899,Does a pig drink vodka?,Yes,No
+900,A ape drinks bla.,Yes,No
+901,A cow drinks cola.,Yes,No
+902,Does a tapir drink alcohol?,Yes,No
+903,A seal drinks alcohol.,No,No
+904,A oyster drinks cola.,Yes,No
+905,A liger drinks wine.,Yes,No
+906,A labrador drinks cola.,Yes,No
+907,Does a pigeon drink vodka?,Yes,No
+908,Does a rat drink coffee?,Yes,No
+909,A boa drinks coffee.,Yes,No
+910,A turkey drinks vodka.,Yes,No
+911,Does a owl drink vodka?,Yes,No
+912,A swan drinks bla.,No,No
+913,Does a dove drink bla?,No,No
+914,A wolf drinks coffee.,Yes,No
+915,A kangaroo drinks beer.,Yes,No
+916,A goat drinks cola.,Yes,No
+917,A salmon drinks vodka.,Yes,No
+918,Does a dove drink cola?,Yes,No
+919,Does a sparrow drink beer?,Yes,No
+920,Does a kangaroo drink alcohol?,Yes,No
+921,A horse drinks beer.,Yes,No
+922,Does a chihuahua drink alcohol?,Yes,No
+923,A schnauzer drinks alcohol.,Yes,No
+924,Does a skunk drink cola?,Yes,No
+925,Does a sponge drink coffee?,Yes,No
+926,Does a doberman drink vodka?,Yes,No
+927,Does a barracuda drink wine?,Yes,No
+928,A ape drinks wine.,Yes,No
+929,Does a peacock drink bla?,No,No
+930,Does a tuna drink coffee?,Yes,No
+931,Does a deer drink alcohol?,Yes,No
+932,A snake drinks wine.,No,No
+933,A baboon drinks beer.,Yes,No
+934,A salamander drinks wine.,Yes,No
+935,Does a dalmatian drink vodka?,Yes,No
+936,Does a yak drink vodka?,Yes,No
+937,A sparrow drinks bla.,Yes,No
+938,A ass drinks wine.,Yes,No
+939,A crocodile drinks cola.,Yes,No
+940,Does a goat drink bla?,No,No
+941,Does a pelican drink cola?,Yes,No
+942,A zebra drinks cola.,Yes,No
+943,A kangaroo drinks cola.,Yes,No
+944,Does a leopard drink wine?,Yes,No
+945,A elephant drinks beer.,No,No
+946,Does a sheep drink wine?,Yes,No
+947,A crab drinks vodka.,No,No
+948,Does a ape drink alcohol?,Yes,No
+949,A goat drinks vodka.,No,No
+950,A spider drinks beer.,No,No
+951,A dalmatian drinks bla.,Yes,No
+952,Does a eel drink coffee?,Yes,No
+953,A whale drinks coffee.,Yes,No
+954,Does a boxer drink alcohol?,Yes,No
+955,Does a peacock drink coffee?,Yes,No
+956,A butterfly drinks vodka.,No,No
+957,A sparrow drinks coffee.,Yes,No
+958,Does a ox drink cola?,Yes,No
+959,A alligator drinks beer.,Yes,No
+960,A chihuahua drinks wine.,Yes,No
+961,Does a fox drink vodka?,Yes,No
+962,A caracal drinks alcohol.,Yes,No
+963,A alligator drinks cola.,Yes,No
+964,Does a liger drink bla?,No,No
+965,Does a tuna drink bla?,No,No
+966,Does a pomeranian drink cola?,Yes,No
+967,A rat drinks coffee.,Yes,No
+968,Does a pelican drink bla?,Yes,No
+969,Does a quail drink vodka?,Yes,No
+970,Does a antelope drink wine?,Yes,No
+971,Does a codfish drink cola?,Yes,No
+972,Does a doberman drink bla?,Yes,No
+973,Does a beef drink coffee?,Yes,No
+974,A giraffe drinks cola.,Yes,No
+975,Does a worm drink coffee?,Yes,No
+976,Does a wolf drink cola?,Yes,No
+977,Does a lion drink beer?,Yes,No
+978,A ape drinks alcohol.,No,No
+979,A hyena drinks vodka.,Yes,No
+980,A hippopotamus drinks alcohol.,Yes,No
+981,Does a cobra drink cola?,Yes,No
+982,Does a cobra drink wine?,Yes,No
+983,A hippopotamus drinks wine.,Yes,No
+984,A chihuahua drinks alcohol.,Yes,No
+985,Does a cocker spaniel drink coffee?,Yes,No
+986,A pinscher drinks bla.,Yes,No
+987,Does a tapir drink coffee?,Yes,No
+988,A baboon drinks wine.,Yes,No
+989,A prawn drinks wine.,Yes,No
+990,A jaguar drinks beer.,Yes,No
+991,A tarantula drinks alcohol.,Yes,No
+992,Does a spider drink wine?,No,No
+993,A herring drinks bla.,No,No
+994,Does a parrot drink coffee?,Yes,No
+995,Does a crow drink bla?,Yes,No
+996,A flamingo drinks alcohol.,Yes,No
+997,Does a jaguar drink beer?,Yes,No
+998,Does a gar drink bla?,Yes,No
+999,Does a salamander drink coffee?,Yes,No
+1000,A skunk drinks coffee.,Yes,No
+1001,Does a lizard drink beer?,Yes,No
+1002,Does a camel drink alcohol?,Yes,No
+1003,A seagull drinks alcohol.,Yes,No
+1004,Does a tuna drink beer?,Yes,No
+1005,Does a wolf drink vodka?,Yes,No
+1006,A ostrich drinks beer.,Yes,No
+1007,Does a doberman drink wine?,Yes,No
+1008,Does a frog drink wine?,No,No
+1009,A parrot drinks cola.,Yes,No
+1010,Does a eagle drink coffee?,Yes,No
+1011,Does a whale drink cola?,Yes,No
+1012,Does a lion drink cola?,Yes,No
+1013,A pinscher drinks alcohol.,Yes,No
+1014,Does a yak drink alcohol?,Yes,No
+1015,Does a rottweiler drink cola?,Yes,No
+1016,A oyster drinks beer.,Yes,No
+1017,Does a tarantula drink wine?,Yes,No
+1018,A tiger drinks alcohol.,Yes,No
+1019,Does a herring drink coffee?,Yes,No
+1020,Does a cuckoos drink cola?,Yes,No
+1021,A gorilla drinks vodka.,Yes,No
+1022,Does a cuckoos drink vodka?,Yes,No
+1023,Does a jaguar drink bla?,Yes,No
+1024,A rhino drinks wine.,No,No
+1025,A lobster drinks coffee.,Yes,No
+1026,Does a chihuahua drink vodka?,Yes,No
+1027,A iguana drinks bla.,Yes,No
+1028,Does a ape drink wine?,Yes,No
+1029,A grivet drinks coffee.,Yes,No
+1030,Does a squirrel drink beer?,No,No
+1031,Does a salmon drink coffee?,No,No
+1032,A snail drinks alcohol.,No,No
+1033,Does a shark drink wine?,Yes,No
+1034,A prawn drinks alcohol.,Yes,No
+1035,A dog drinks bla.,No,No
+1036,Does a sheep drink coffee?,No,No
+1037,A deer drinks alcohol.,Yes,No
+1038,A fish drinks wine.,Yes,No
+1039,A ape drinks cola.,Yes,No
+1040,A pelican drinks beer.,Yes,No
+1041,A lobster drinks beer.,Yes,No
+1042,Does a grivet drink wine?,Yes,No
+1043,A roaster drinks wine.,Yes,No
+1044,Does a hyena drink wine?,Yes,No
+1045,Does a lobster drink alcohol?,Yes,No
+1046,Does a ant drink vodka?,Yes,No
+1047,A butterfly drinks cola.,Yes,No
+1048,Does a seal drink vodka?,Yes,No
+1049,Does a alpaca drink cola?,Yes,No
+1050,A jellyfish drinks wine.,Yes,No
+1051,Does a flamingo drink cola?,Yes,No
+1052,A baboon drinks cola.,Yes,No
+1053,Does a beagle drink alcohol?,Yes,No
+1054,Does a kingfisher drink alcohol?,Yes,No
+1055,Does a cow drink vodka?,Yes,No
+1056,A ape drinks coffee.,No,No
+1057,Does a corgi drink beer?,Yes,No
+1058,Does a jay drink beer?,Yes,No
+1059,A codfish drinks cola.,Yes,No
+1060,A squirrel drinks bla.,Yes,No
+1061,A ass drinks alcohol.,Yes,No
+1062,Does a seagull drink alcohol?,Yes,No
+1063,A shrew drinks cola.,Yes,No
+1064,Does a ox drink wine?,Yes,No
+1065,Does a deer drink cola?,Yes,No
+1066,Does a husky drink coffee?,Yes,No
+1067,A shark drinks wine.,Yes,No
+1068,Does a raccoon drink coffee?,Yes,No
+1069,Does a snake drink wine?,No,No
+1070,A antelope drinks alcohol.,No,No
+1071,A hyena drinks cola.,Yes,No
+1072,A giraffe drinks beer.,Yes,No
+1073,Does a ant drink beer?,Yes,No
+1074,Does a dalmatian drink beer?,Yes,No
+1075,A mouse drinks beer.,Yes,No
+1076,A caterpillar drinks cola.,Yes,No
+1077,Does a snake drink alcohol?,No,No
+1078,A prawn drinks beer.,Yes,No
+1079,A fox drinks bla.,Yes,No
+1080,Does a lizard drink alcohol?,Yes,No
+1081,A husky drinks beer.,Yes,No
+1082,Does a pelican drink beer?,Yes,No
+1083,A turkey drinks beer.,Yes,No
+1084,Does a ape drink coffee?,Yes,No
+1085,A bull drinks bla.,Yes,No
+1086,A swan drinks wine.,Yes,No
+1087,A sponge drinks cola.,Yes,No
+1088,A salamander drinks cola.,Yes,No
+1089,A pelican drinks vodka.,Yes,No
+1090,Does a barracuda drink cola?,Yes,No
+1091,Does a antelope drink cola?,Yes,No
+1092,A kingfisher drinks bla.,Yes,No
+1093,A labrador drinks alcohol.,No,No
+1094,Does a donkey drink wine?,Yes,No
+1095,Does a elephant drink cola?,Yes,No
+1096,A pigeon drinks beer.,Yes,No
+1097,Does a songbird drink alcohol?,Yes,No
+1098,Does a cuttlefish drink coffee?,Yes,No
+1099,Does a peacock drink alcohol?,Yes,No
+1100,Does a doberman drink alcohol?,Yes,No
+1101,Does a bird drink alcohol?,No,No
+1102,A starfish drinks wine.,Yes,No
+1103,Does a hippopotamus drink vodka?,Yes,No
+1104,Does a hen drink bla?,No,No
+1105,Does a barracuda drink coffee?,Yes,No
+1106,A gar drinks bla.,Yes,No
+1107,A eagle drinks cola.,Yes,No
+1108,A rabbit drinks bla.,No,No
+1109,A spider drinks alcohol.,No,No
+1110,A peacock drinks vodka.,Yes,No
+1111,A pelican drinks cola.,Yes,No
+1112,A roaster drinks bla.,No,No
+1113,Does a dog drink wine?,No,No
+1114,A starfish drinks coffee.,Yes,No
+1115,Does a wolf drink wine?,Yes,No
+1116,Does a bull drink bla?,Yes,No
+1117,A piranha drinks wine.,No,No
+1118,Does a owl drink alcohol?,Yes,No
+1119,Does a baboon drink coffee?,Yes,No
+1120,A camel drinks bla.,No,No
+1121,Does a dolphin drink bla?,Yes,No
+1122,Does a deer drink beer?,Yes,No
+1123,A giraffe drinks wine.,Yes,No
+1124,A parrot drinks alcohol.,No,No
+1125,Does a pigeon drink cola?,Yes,No
+1126,A cuttlefish drinks coffee.,Yes,No
+1127,A baboon drinks bla.,Yes,No
+1128,Does a tuna drink cola?,Yes,No
+1129,Does a shark drink beer?,Yes,No
+1130,Does a mamba drink alcohol?,Yes,No
+1131,A worm drinks beer.,No,No
+1132,A sheep drinks alcohol.,No,No
+1133,A fish drinks vodka.,Yes,No
+1134,A rabbit drinks vodka.,No,No
+1135,Does a seagull drink coffee?,Yes,No
+1136,Does a lion drink wine?,Yes,No
+1137,Does a tiger drink beer?,Yes,No
+1138,A hyena drinks beer.,Yes,No
+1139,A gar drinks coffee.,Yes,No
+1140,A bison drinks wine.,Yes,No
+1141,A shark drinks coffee.,No,No
+1142,Does a caterpillar drink wine?,Yes,No
+1143,A lobster drinks cola.,Yes,No
+1144,Does a raccoon drink bla?,No,No
+1145,A starfish drinks vodka.,No,No
+1146,Does a rhino drink wine?,No,No
+1147,Does a horse drink beer?,Yes,No
+1148,Does a giraffe drink vodka?,Yes,No
+1149,Does a fox drink cola?,Yes,No
+1150,A shark drinks alcohol.,Yes,No
+1151,A octupus drinks coffee.,Yes,No
+1152,A monkey drinks coffee.,Yes,No
+1153,A fox drinks beer.,Yes,No
+1154,Does a alpaca drink coffee?,Yes,No
+1155,Does a chicken drink bla?,No,No
+1156,Does a dolphin drink beer?,Yes,No
+1157,Does a donkey drink vodka?,Yes,No
+1158,A tarantula drinks wine.,Yes,No
+1159,A terrier drinks coffee.,Yes,No
+1160,A lizard drinks beer.,Yes,No
+1161,Does a sparrow drink alcohol?,Yes,No
+1162,Does a terrier drink vodka?,Yes,No
+1163,Does a alligator drink wine?,No,No
+1164,Does a pinscher drink vodka?,Yes,No
+1165,Does a crow drink vodka?,Yes,No
+1166,A snake drinks vodka.,No,No
+1167,Does a husky drink bla?,Yes,No
+1168,A donkey drinks bla.,Yes,No
+1169,A yak drinks coffee.,Yes,No
+1170,Does a codfish drink vodka?,Yes,No
+1171,Does a iguana drink beer?,Yes,No
+1172,Does a ass drink alcohol?,Yes,No
+1173,A butterfly drinks coffee.,Yes,No
+1174,Does a ant drink coffee?,Yes,No
+1175,Does a squirrel drink alcohol?,No,No
+1176,Does a gibbon drink coffee?,Yes,No
+1177,A koala drinks cola.,Yes,No
+1178,A rat drinks vodka.,Yes,No
+1179,Does a caracal drink coffee?,Yes,No
+1180,Does a boa drink beer?,Yes,No
+1181,Does a elephant drink alcohol?,No,No
+1182,Does a prawn drink beer?,Yes,No
+1183,A beagle drinks beer.,Yes,No
+1184,A monkey drinks alcohol.,No,No
+1185,Does a cuttlefish drink beer?,Yes,No
+1186,Does a deer drink bla?,No,No
+1187,Does a liger drink beer?,Yes,No
+1188,Does a dog drink bla?,No,No
+1189,Does a dog drink alcohol?,Yes,No
+1190,Does a dog drink coffee?,No,No
+1191,A owl drinks vodka.,Yes,No
+1192,Does a sparrow drink vodka?,Yes,No
+1193,A hippopotamus drinks coffee.,Yes,No
+1194,A prawn drinks bla.,Yes,No
+1195,Does a duck drink bla?,No,No
+1196,Does a labrador drink vodka?,Yes,No
+1197,A cat drinks alcohol.,Yes,No
+1198,A mule drinks wine.,Yes,No
+1199,Does a pig drink wine?,Yes,No
+1200,A antelope drinks vodka.,No,No
+1201,A grivet drinks alcohol.,Yes,No
+1202,A aardvark drinks alcohol.,Yes,No
+1203,A elephant drinks wine.,Yes,No
+1204,Does a crocodile drink coffee?,No,No
+1205,A pigeon drinks alcohol.,No,No
+1206,Does a shrimp drink cola?,Yes,No
+1207,Does a flamingo drink alcohol?,Yes,No
+1208,Does a kangaroo drink wine?,Yes,No
+1209,Does a owl drink coffee?,Yes,No
+1210,Does a koala drink alcohol?,Yes,No
+1211,Does a corgi drink vodka?,Yes,No
+1212,Does a cobra drink coffee?,Yes,No
+1213,A spider drinks bla.,Yes,No
+1214,Does a shark drink coffee?,Yes,No
+1215,A dove drinks vodka.,Yes,No
+1216,Does a monkey drink coffee?,Yes,No
+1217,A koala drinks coffee.,Yes,No
+1218,A fish drinks beer.,Yes,No
+1219,Does a chicken drink vodka?,Yes,No
+1220,A pelican drinks wine.,Yes,No
+1221,A tapir drinks coffee.,Yes,No
+1222,Does a octupus drink coffee?,Yes,No
+1223,Does a schnauzer drink bla?,Yes,No
+1224,A bulldog drinks alcohol.,No,No
+1225,Does a rat drink vodka?,Yes,No
+1226,A baboon drinks alcohol.,No,No
+1227,Does a jellyfish drink wine?,Yes,No
+1228,Does a ant drink alcohol?,Yes,No
+1229,Does a rabbit drink wine?,Yes,No
+1230,A cocker spaniel drinks wine.,Yes,No
+1231,A jaguar drinks wine.,Yes,No
+1232,Does a snake drink bla?,Yes,No
+1233,A moose drinks alcohol.,No,No
+1234,Does a doberman drink cola?,Yes,No
+1235,A beef drinks vodka.,No,No
+1236,Does a mule drink vodka?,Yes,No
+1237,A crow drinks cola.,Yes,No
+1238,A ape drinks vodka.,Yes,No
+1239,A cocker spaniel drinks coffee.,Yes,No
+1240,A shrew drinks wine.,Yes,No
+1241,Does a yak drink wine?,Yes,No
+1242,Does a leopard drink coffee?,No,No
+1243,A monkey drinks vodka.,No,No
+1244,A chihuahua drinks cola.,Yes,No
+1245,A eel drinks alcohol.,Yes,No
+1246,A pomeranian drinks alcohol.,No,No
+1247,Does a sponge drink bla?,No,No
+1248,A shrimp drinks bla.,Yes,No
+1249,A iguana drinks vodka.,Yes,No
+1250,Does a grivet drink cola?,Yes,No
+1251,Does a whale drink wine?,Yes,No
+1252,A skunk drinks vodka.,Yes,No
+1253,A beef drinks beer.,Yes,No
+1254,Does a boxer drink vodka?,Yes,No
+1255,A flamingo drinks wine.,Yes,No
+1256,Does a spider drink coffee?,No,No
+1257,A fish drinks cola.,Yes,No
+1258,A gibbon drinks alcohol.,Yes,No
+1259,A seagull drinks wine.,Yes,No
+1260,Does a kingfisher drink vodka?,Yes,No
+1261,A whale drinks alcohol.,Yes,No
+1262,A gorilla drinks beer.,Yes,No
+1263,A leopard drinks beer.,No,No
+1264,A songbird drinks vodka.,No,No
+1265,Does a sponge drink vodka?,Yes,No
+1266,A oyster drinks bla.,Yes,No
+1267,Does a doberman drink coffee?,Yes,No
+1268,Does a goat drink beer?,Yes,No
+1269,A cuttlefish drinks cola.,Yes,No
+1270,Does a salmon drink beer?,Yes,No
+1271,Does a hen drink coffee?,Yes,No
+1272,A lion drinks coffee.,No,No
+1273,A seagull drinks vodka.,No,No
+1274,Does a turkey drink coffee?,Yes,No
+1275,Does a fox drink coffee?,Yes,No
+1276,A swan drinks cola.,Yes,No
+1277,A caterpillar drinks bla.,No,No
+1278,A terrier drinks vodka.,Yes,No
+1279,Does a rabbit drink beer?,Yes,No
+1280,A pigeon drinks vodka.,No,No
+1281,Does a pigeon drink bla?,No,No
+1282,A tuna drinks vodka.,Yes,No
+1283,Does a iguana drink coffee?,Yes,No
+1284,A aardvark drinks bla.,Yes,No
+1285,A corgi drinks cola.,Yes,No
+1286,A sponge drinks beer.,No,No
+1287,A songbird drinks cola.,No,No
+1288,A camel drinks beer.,Yes,No
+1289,Does a cat drink alcohol?,Yes,No
+1290,Does a bull drink vodka?,Yes,No
+1291,A bison drinks coffee.,Yes,No
+1292,A piranha drinks cola.,Yes,No
+1293,Does a monkey drink cola?,Yes,No
+1294,A hyena drinks alcohol.,Yes,No
+1295,A ox drinks cola.,Yes,No
+1296,Does a eagle drink wine?,Yes,No
+1297,Does a tiger drink alcohol?,Yes,No
+1298,Does a antelope drink alcohol?,Yes,No
+1299,Does a dolphin drink cola?,Yes,No
+1300,A jaguar drinks bla.,Yes,No
+1301,Does a fox drink alcohol?,Yes,No
+1302,Does a caracal drink cola?,Yes,No
+1303,A ass drinks cola.,Yes,No
+1304,A raccoon drinks wine.,Yes,No
+1305,A cobra drinks wine.,Yes,No
+1306,A crow drinks beer.,Yes,No
+1307,A rat drinks beer.,Yes,No
+1308,A tarantula drinks coffee.,Yes,No
+1309,Does a bird drink coffee?,Yes,No
+1310,Does a bull drink alcohol?,Yes,No
+1311,Does a snake drink cola?,Yes,No
+1312,Does a dalmatian drink wine?,Yes,No
+1313,Does a terrier drink coffee?,Yes,No
+1314,Does a gibbon drink bla?,Yes,No
+1315,Does a baboon drink bla?,Yes,No
+1316,Does a pomeranian drink beer?,Yes,No
+1317,A ass drinks bla.,No,No
+1318,A lobster drinks vodka.,Yes,No
+1319,A cocker spaniel drinks alcohol.,Yes,No
+1320,Does a squirrel drink cola?,Yes,No
+1321,Does a caterpillar drink bla?,No,No
+1322,Does a snail drink beer?,No,No
+1323,Does a piranha drink vodka?,Yes,No
+1324,A hen drinks coffee.,No,No
+1325,Does a eel drink cola?,Yes,No
+1326,A pinscher drinks coffee.,Yes,No
+1327,A leopard drinks coffee.,No,No
+1328,A grivet drinks wine.,Yes,No
+1329,Does a camel drink vodka?,Yes,No
+1330,Does a ape drink vodka?,Yes,No
+1331,Does a mouse drink wine?,Yes,No
+1332,A dog drinks coffee.,No,No
+1333,A rottweiler drinks bla.,No,No
+1334,Does a parrot drink beer?,Yes,No
+1335,A barracuda drinks bla.,Yes,No
+1336,A caterpillar drinks alcohol.,No,No
+1337,A sheep drinks cola.,No,No
+1338,Does a cat drink bla?,Yes,No
+1339,A antelope drinks wine.,Yes,No
+1340,A mule drinks coffee.,Yes,No
+1341,A worm drinks alcohol.,No,No
+1342,A cuttlefish drinks alcohol.,Yes,No
+1343,A quail drinks vodka.,No,No
+1344,A beef drinks wine.,No,No
+1345,Does a seagull drink beer?,Yes,No
+1346,Does a puma drink cola?,Yes,No
+1347,A tiger drinks vodka.,Yes,No
+1348,A bear drinks beer.,Yes,No
+1349,A quail drinks bla.,Yes,No
+1350,A raccoon drinks beer.,Yes,No
+1351,Does a crocodile drink bla?,Yes,No
+1352,Does a salamander drink vodka?,Yes,No
+1353,Does a moose drink cola?,Yes,No
+1354,Does a goat drink wine?,Yes,No
+1355,Does a lizard drink coffee?,Yes,No
+1356,A hyena drinks coffee.,Yes,No
+1357,Does a swan drink coffee?,Yes,No
+1358,A bull drinks wine.,No,No
+1359,A pelican drinks alcohol.,Yes,No
+1360,A bird drinks wine.,Yes,No
+1361,A dog drinks alcohol.,No,No
+1362,A bison drinks cola.,Yes,No
+1363,A camel drinks cola.,Yes,No
+1364,Does a collie drink coffee?,Yes,No
+1365,A rottweiler drinks vodka.,No,No
+1366,A sheep drinks wine.,Yes,No
+1367,Does a piranha drink bla?,Yes,No
+1368,A camel drinks wine.,Yes,No
+1369,Does a dolphin drink alcohol?,Yes,No
+1370,Does a codfish drink alcohol?,Yes,No
+1371,Does a camel drink beer?,Yes,No
+1372,A cuckoos drinks cola.,Yes,No
+1373,A barracuda drinks vodka.,Yes,No
+1374,A roaster drinks cola.,No,No
+1375,Does a cuckoos drink wine?,Yes,No
+1376,A parrot drinks vodka.,No,No
+1377,Does a dalmatian drink coffee?,Yes,No
+1378,A eagle drinks beer.,No,No
+1379,A dolphin drinks bla.,Yes,No
+1380,Does a codfish drink coffee?,Yes,No
+1381,Does a kingfisher drink bla?,No,No
+1382,Does a salamander drink beer?,Yes,No
+1383,A corgi drinks beer.,Yes,No
+1384,Does a roaster drink alcohol?,No,No
+1385,Does a pomeranian drink vodka?,Yes,No
+1386,A antelope drinks beer.,Yes,No
+1387,Does a leopard drink alcohol?,No,No
+1388,Does a tuna drink vodka?,Yes,No
+1389,Does a labrador drink bla?,No,No
+1390,Does a whale drink coffee?,Yes,No
+1391,Does a shrimp drink vodka?,Yes,No
+1392,Does a tiger drink vodka?,Yes,No
+1393,A raccoon drinks bla.,No,No
+1394,Does a jellyfish drink vodka?,Yes,No
+1395,A gibbon drinks wine.,Yes,No
+1396,Does a moose drink beer?,Yes,No
+1397,Does a salmon drink alcohol?,No,No
+1398,A monkey drinks cola.,Yes,No
+1399,A skunk drinks beer.,Yes,No
+1400,A kingfisher drinks wine.,Yes,No
+1401,Does a dalmatian drink cola?,Yes,No
+1402,Does a alpaca drink vodka?,Yes,No
+1403,A salmon drinks cola.,Yes,No
+1404,Does a fish drink cola?,Yes,No
+1405,A ostrich drinks wine.,Yes,No
+1406,A ant drinks bla.,Yes,No
+1407,A moose drinks wine.,Yes,No
+1408,Does a frog drink coffee?,Yes,No
+1409,A lion drinks vodka.,No,No
+1410,Does a camel drink wine?,Yes,No
+1411,Does a crab drink beer?,Yes,No
+1412,Does a seagull drink bla?,Yes,No
+1413,A bull drinks cola.,No,No
+1414,Does a leopard drink beer?,Yes,No
+1415,A schnauzer drinks wine.,Yes,No
+1416,A gibbon drinks beer.,Yes,No
+1417,A prawn drinks coffee.,Yes,No
+1418,A goat drinks coffee.,No,No
+1419,Does a terrier drink alcohol?,Yes,No
+1420,A caracal drinks coffee.,Yes,No
+1421,A snail drinks bla.,Yes,No
+1422,A liger drinks cola.,Yes,No
+1423,Does a tarantula drink vodka?,Yes,No
+1424,A raccoon drinks alcohol.,Yes,No
+1425,A beagle drinks wine.,Yes,No
+1426,A shrimp drinks wine.,Yes,No
+1427,Does a doberman drink beer?,Yes,No
+1428,Does a cow drink bla?,Yes,No
+1429,Does a caterpillar drink vodka?,No,No
+1430,A cobra drinks cola.,Yes,No
+1431,A squirrel drinks alcohol.,No,No
+1432,Does a pelican drink coffee?,Yes,No
+1433,A spider drinks cola.,No,No
+1434,A husky drinks bla.,Yes,No
+1435,Does a collie drink bla?,Yes,No
+1436,A rottweiler drinks coffee.,Yes,No
+1437,A crab drinks cola.,Yes,No
+1438,A dalmatian drinks coffee.,Yes,No
+1439,Does a pelican drink vodka?,Yes,No
+1440,A crow drinks coffee.,Yes,No
+1441,A tiger drinks cola.,Yes,No
+1442,A lion drinks bla.,Yes,No
+1443,Does a beagle drink bla?,No,No
+1444,Does a dalmatian drink bla?,Yes,No
+1445,Does a ostrich drink vodka?,Yes,No
+1446,A rat drinks wine.,Yes,No
+1447,Does a salamander drink cola?,Yes,No
+1448,A alligator drinks vodka.,No,No
+1449,A seal drinks cola.,Yes,No
+1450,Does a tapir drink vodka?,Yes,No
+1451,A giraffe drinks bla.,Yes,No
+1452,Does a cuttlefish drink cola?,Yes,No
+1453,A roaster drinks vodka.,No,No
+1454,A donkey drinks beer.,Yes,No
+1455,A fish drinks coffee.,Yes,No
+1456,Does a tarantula drink cola?,Yes,No
+1457,A sparrow drinks alcohol.,No,No
+1458,A bird drinks bla.,Yes,No
+1459,Does a prawn drink wine?,Yes,No
+1460,A cow drinks vodka.,No,No
+1461,Does a worm drink alcohol?,Yes,No
+1462,A worm drinks bla.,Yes,No
+1463,A labrador drinks coffee.,No,No
+1464,Does a eagle drink alcohol?,Yes,No
+1465,Does a ass drink vodka?,Yes,No
+1466,A doberman drinks alcohol.,Yes,No
+1467,A elephant drinks alcohol.,No,No
+1468,A yak drinks bla.,Yes,No
+1469,A starfish drinks alcohol.,Yes,No
+1470,Does a bird drink wine?,Yes,No
+1471,A beef drinks cola.,No,No
+1472,Does a starfish drink vodka?,Yes,No
+1473,A turkey drinks bla.,No,No
+1474,Does a rottweiler drink vodka?,No,No
+1475,A salamander drinks alcohol.,Yes,No
+1476,Does a deer drink vodka?,Yes,No
+1477,A corgi drinks bla.,Yes,No
+1478,A pig drinks wine.,Yes,No
+1479,A sparrow drinks cola.,Yes,No
+1480,Does a herring drink alcohol?,Yes,No
+1481,A monkey drinks bla.,Yes,No
+1482,A shark drinks bla.,Yes,No
+1483,A horse drinks cola.,No,No
+1484,Does a crab drink wine?,Yes,No
+1485,Does a whale drink bla?,Yes,No
+1486,Does a squirrel drink wine?,No,No
+1487,Does a beef drink beer?,Yes,No
+1488,A mamba drinks coffee.,Yes,No
+1489,Does a sparrow drink coffee?,Yes,No
+1490,A oyster drinks alcohol.,Yes,No
+1491,Does a cat drink coffee?,Yes,No
+1492,Does a puma drink coffee?,Yes,No
+1493,Does a starfish drink bla?,No,No
+1494,A piranha drinks beer.,Yes,No
+1495,Does a jaguar drink cola?,Yes,No
+1496,A pinscher drinks beer.,Yes,No
+1497,A elephant drinks bla.,Yes,No
+1498,Does a cuttlefish drink wine?,Yes,No
+1499,Does a sheep drink alcohol?,No,No
+1500,A jaguar drinks cola.,Yes,No
+1501,Does a horse drink vodka?,Yes,No
+1502,A zebra drinks wine.,Yes,No
+1503,Does a jaguar drink coffee?,Yes,No
+1504,Does a cow drink cola?,Yes,No
+1505,Does a collie drink vodka?,Yes,No
+1506,A bear drinks wine.,Yes,No
+1507,Does a codfish drink beer?,Yes,No
+1508,A bison drinks beer.,Yes,No
+1509,A crab drinks bla.,Yes,No
+1510,A worm drinks wine.,Yes,No
+1511,Does a tarantula drink alcohol?,Yes,No
+1512,A seagull drinks bla.,No,No
+1513,A shrimp drinks alcohol.,No,No
+1514,A wolf drinks cola.,Yes,No
+1515,Does a cuckoos drink bla?,Yes,No
+1516,A snake drinks alcohol.,No,No
+1517,Does a swan drink vodka?,Yes,No
+1518,A hummingbird drinks cola.,Yes,No
+1519,Does a seagull drink cola?,Yes,No
+1520,Does a lion drink bla?,Yes,No
+1521,A puma drinks beer.,Yes,No
+1522,A jellyfish drinks bla.,Yes,No
+1523,A songbird drinks coffee.,No,No
+1524,A alpaca drinks alcohol.,Yes,No
+1525,Does a snake drink vodka?,Yes,No
+1526,A dalmatian drinks cola.,Yes,No
+1527,A dalmatian drinks beer.,Yes,No
+1528,A gorilla drinks coffee.,Yes,No
+1529,A sparrow drinks wine.,Yes,No
+1530,Does a seal drink beer?,Yes,No
+1531,Does a turkey drink beer?,Yes,No
+1532,A schnauzer drinks coffee.,Yes,No
+1533,A snail drinks wine.,Yes,No
+1534,Does a lion drink coffee?,No,No
+1535,Does a crab drink coffee?,Yes,No
+1536,Does a kingfisher drink cola?,Yes,No
+1537,Does a tiger drink wine?,Yes,No
+1538,Does a octupus drink beer?,Yes,No
+1539,A leopard drinks wine.,No,No
+1540,A eagle drinks vodka.,No,No
+1541,Does a squirrel drink bla?,No,No
+1542,A bulldog drinks vodka.,No,No
+1543,Does a collie drink wine?,Yes,No
+1544,Does a labrador drink alcohol?,No,No
+1545,A salmon drinks wine.,Yes,No
+1546,Does a ape drink cola?,Yes,No
+1547,A leopard drinks cola.,No,No
+1548,Does a puma drink bla?,No,No
+1549,A seal drinks bla.,Yes,No
+1550,A kingfisher drinks coffee.,Yes,No
+1551,A cobra drinks beer.,Yes,No
+1552,A deer drinks beer.,Yes,No
+1553,A beagle drinks vodka.,No,No
+1554,Does a antelope drink coffee?,No,No
+1555,A hyena drinks wine.,Yes,No
+1556,A seagull drinks beer.,No,No
+1557,A pig drinks coffee.,No,No
+1558,A quail drinks alcohol.,Yes,No
+1559,Does a elephant drink bla?,Yes,No
+1560,Does a snail drink bla?,No,No
+1561,A butterfly drinks wine.,No,No
+1562,Does a eagle drink bla?,No,No
+1563,A mamba drinks vodka.,Yes,No
+1564,Does a rhino drink coffee?,No,No
+1565,Does a jay drink coffee?,Yes,No
+1566,A duck drinks beer.,Yes,No
+1567,A chicken drinks bla.,Yes,No
+1568,A doberman drinks cola.,Yes,No
+1569,A deer drinks coffee.,Yes,No
+1570,A mule drinks vodka.,Yes,No
+1571,Does a labrador drink beer?,No,No
+1572,A piranha drinks bla.,Yes,No
+1573,A hen drinks wine.,No,No
+1574,A donkey drinks coffee.,Yes,No
+1575,A cow drinks wine.,Yes,No
+1576,Does a labrador drink cola?,Yes,No
+1577,Does a beagle drink vodka?,Yes,No
+1578,Does a butterfly drink vodka?,No,No
+1579,A jay drinks cola.,Yes,No
+1580,Does a cocker spaniel drink alcohol?,Yes,No
+1581,A donkey drinks wine.,Yes,No
+1582,Does a bear drink beer?,Yes,No
+1583,A jellyfish drinks coffee.,Yes,No
+1584,Does a giraffe drink bla?,Yes,No
+1585,Does a moose drink wine?,Yes,No
+1586,A pelican drinks coffee.,Yes,No
+1587,Does a fish drink wine?,Yes,No
+1588,A ass drinks vodka.,Yes,No
+1589,A sparrow drinks beer.,Yes,No
+1590,A jaguar drinks alcohol.,Yes,No
+1591,A zebra drinks coffee.,Yes,No
+1592,A swan drinks alcohol.,Yes,No
+1593,Does a bird drink bla?,No,No
+1594,Does a dog drink vodka?,Yes,No
+1595,Does a cocker spaniel drink bla?,Yes,No
+1596,Does a tarantula drink beer?,Yes,No
+1597,Does a ant drink cola?,Yes,No
+1598,Does a koala drink coffee?,Yes,No
+1599,Does a zebra drink beer?,Yes,No
+1600,A salmon drinks alcohol.,No,No
+1601,Does a eagle drink vodka?,No,No
+1602,A lion drinks beer.,No,No
+1603,A schnauzer drinks bla.,Yes,No
+1604,A rhino drinks alcohol.,No,No
+1605,A chicken drinks vodka.,No,No
+1606,A codfish drinks wine.,Yes,No
+1607,Does a aardvark drink wine?,Yes,No
+1608,Does a pigeon drink coffee?,Yes,No
+1609,Does a donkey drink cola?,Yes,No
+1610,Does a shrew drink vodka?,Yes,No
+1611,Does a jaguar drink alcohol?,Yes,No
+1612,Does a husky drink cola?,Yes,No
+1613,Does a parrot drink vodka?,Yes,No
+1614,Does a skunk drink bla?,Yes,No
+1615,A tuna drinks cola.,Yes,No
+1616,Does a gar drink alcohol?,Yes,No
+1617,A worm drinks cola.,Yes,No
+1618,A shrew drinks bla.,Yes,No
+1619,Does a bird drink beer?,Yes,No
+1620,Does a tiger drink cola?,Yes,No
+1621,Does a bull drink coffee?,Yes,No
+1622,Does a bulldog drink wine?,Yes,No
+1623,A crocodile drinks beer.,Yes,No
+1624,A hummingbird drinks alcohol.,No,No
+1625,A alpaca drinks coffee.,Yes,No
+1626,A snake drinks coffee.,No,No
+1627,A peacock drinks coffee.,Yes,No
+1628,A bull drinks beer.,Yes,No
+1629,Does a zebra drink cola?,Yes,No
+1630,Does a crab drink alcohol?,Yes,No
+1631,Does a hyena drink alcohol?,Yes,No
+1632,A bulldog drinks cola.,No,No
+1633,Does a crab drink cola?,Yes,No
+1634,A zebra drinks bla.,Yes,No
+1635,Does a beagle drink cola?,Yes,No
+1636,Does a worm drink cola?,Yes,No
+1637,Does a gar drink cola?,Yes,No
+1638,Does a mouse drink alcohol?,Yes,No
+1639,A pig drinks vodka.,No,No
+1640,Does a ass drink bla?,No,No
+1641,Does a hummingbird drink vodka?,No,No
+1642,Does a schnauzer drink vodka?,Yes,No
+1643,A cow drinks beer.,No,No
+1644,A crocodile drinks coffee.,No,No
+1645,A starfish drinks cola.,Yes,No
+1646,Does a parrot drink wine?,Yes,No
+1647,A rottweiler drinks cola.,Yes,No
+1648,A tapir drinks cola.,Yes,No
+1649,A whale drinks cola.,Yes,No
+1650,Does a seal drink wine?,Yes,No
+1651,Does a caracal drink vodka?,Yes,No
+1652,Does a moose drink alcohol?,Yes,No
+1653,Does a kingfisher drink beer?,Yes,No
+1654,Does a hummingbird drink beer?,Yes,No
+1655,A hen drinks cola.,No,No
+1656,A chihuahua drinks beer.,Yes,No
+1657,A tiger drinks bla.,Yes,No
+1658,Does a herring drink beer?,Yes,No
+1659,A lizard drinks vodka.,Yes,No
+1660,Does a owl drink wine?,Yes,No
+1661,Does a beef drink vodka?,Yes,No
+1662,A octupus drinks wine.,Yes,No
+1663,Does a giraffe drink cola?,Yes,No
+1664,Does a dolphin drink wine?,Yes,No
+1665,A boa drinks alcohol.,Yes,No
+1666,A quail drinks wine.,Yes,No
+1667,A mouse drinks vodka.,No,No
+1668,Does a hyena drink beer?,Yes,No
+1669,A bear drinks coffee.,Yes,No
+1670,Does a snake drink coffee?,No,No
+1671,A mule drinks bla.,Yes,No
+1672,Does a tiger drink coffee?,Yes,No
+1673,Does a mouse drink cola?,Yes,No
+1674,A koala drinks alcohol.,Yes,No
+1675,A boxer drinks wine.,Yes,No
+1676,A eagle drinks alcohol.,No,No
+1677,Does a spider drink cola?,Yes,No
+1678,A bison drinks bla.,No,No
+1679,A labrador drinks bla.,No,No
+1680,A crab drinks coffee.,Yes,No
+1681,Does a boa drink bla?,Yes,No
+1682,Does a antelope drink beer?,Yes,No
+1683,Does a giraffe drink wine?,Yes,No
+1684,Does a bulldog drink beer?,Yes,No
+1685,A alligator drinks wine.,No,No
+1686,A beagle drinks alcohol.,No,No
+1687,A ass drinks beer.,Yes,No
+1688,Does a worm drink bla?,Yes,No
+1689,Does a duck drink alcohol?,No,No
+1690,Does a horse drink bla?,No,No
+1691,Does a sparrow drink cola?,Yes,No
+1692,A dolphin drinks vodka.,Yes,No
+1693,A rhino drinks bla.,Yes,No
+1694,A bear drinks alcohol.,No,No
+1695,A cocker spaniel drinks bla.,Yes,No
+1696,A cobra drinks coffee.,Yes,No
+1697,A beef drinks coffee.,No,No
+1698,A gar drinks beer.,Yes,No
+1699,A kingfisher drinks alcohol.,Yes,No
+1700,Does a turkey drink vodka?,Yes,No
+1701,Does a pinscher drink alcohol?,Yes,No
+1702,Does a butterfly drink wine?,Yes,No
+1703,Does a raccoon drink wine?,Yes,No
+1704,A aardvark drinks cola.,Yes,No
+1705,Does a hippopotamus drink beer?,Yes,No
+1706,A codfish drinks coffee.,Yes,No
+1707,A cuttlefish drinks wine.,Yes,No
+1708,Does a shrew drink bla?,No,No
+1709,Does a mule drink wine?,Yes,No
+1710,Does a octupus drink cola?,Yes,No
+1711,Does a mouse drink beer?,Yes,No
+1712,A lion drinks alcohol.,No,No
+1713,Does a owl drink beer?,Yes,No
+1714,A collie drinks cola.,Yes,No
+1715,A chihuahua drinks bla.,No,No
+1716,Does a alpaca drink wine?,Yes,No
+1717,A snake drinks bla.,Yes,No
+1718,A peacock drinks cola.,Yes,No
+1719,A seal drinks beer.,No,No
+1720,Does a hummingbird drink coffee?,Yes,No
+1721,Does a piranha drink alcohol?,Yes,No
+1722,Does a boxer drink beer?,Yes,No
+1723,Does a beagle drink coffee?,Yes,No
+1724,A caterpillar drinks coffee.,Yes,No
+1725,A kangaroo drinks bla.,No,No
+1726,A kingfisher drinks vodka.,Yes,No
+1727,Does a swan drink bla?,No,No
+1728,Does a whale drink alcohol?,Yes,No
+1729,Does a alpaca drink bla?,No,No
+1730,Does a mouse drink bla?,Yes,No
+1731,Does a rat drink cola?,Yes,No
+1732,Does a songbird drink cola?,Yes,No
+1733,Does a lion drink alcohol?,Yes,No
+1734,A collie drinks bla.,Yes,No
+1735,A rabbit drinks cola.,No,No
+1736,A caterpillar drinks wine.,Yes,No
+1737,Does a octupus drink vodka?,Yes,No
+1738,Does a deer drink coffee?,Yes,No
+1739,A tarantula drinks cola.,Yes,No
+1740,A jaguar drinks vodka.,Yes,No
+1741,A zebra drinks vodka.,Yes,No
+1742,Does a goat drink alcohol?,Yes,No
+1743,A peacock drinks beer.,Yes,No
+1744,Does a ox drink beer?,Yes,No
+1745,Does a gar drink vodka?,Yes,No
+1746,A cow drinks coffee.,Yes,No
+1747,Does a giraffe drink coffee?,Yes,No
+1748,A koala drinks bla.,Yes,No
+1749,A snake drinks cola.,No,No
+1750,A hen drinks vodka.,No,No
+1751,A sponge drinks coffee.,Yes,No
+1752,Does a kangaroo drink beer?,Yes,No
+1753,A dalmatian drinks alcohol.,Yes,No
+1754,Does a codfish drink bla?,No,No
+1755,Does a skunk drink vodka?,Yes,No
+1756,Does a worm drink beer?,No,No
+1757,A pinscher drinks cola.,Yes,No
+1758,Does a alligator drink beer?,Yes,No
+1759,Does a mamba drink coffee?,Yes,No
+1760,Does a leopard drink vodka?,Yes,No
+1761,Does a songbird drink wine?,Yes,No
+1762,Does a pomeranian drink bla?,Yes,No
+1763,A deer drinks cola.,Yes,No
+1764,Does a owl drink bla?,Yes,No
+1765,A shrew drinks alcohol.,Yes,No
+1766,A ox drinks alcohol.,No,No
+1767,Does a ostrich drink bla?,No,No
+1768,A cuckoos drinks beer.,Yes,No
+1769,Does a koala drink cola?,Yes,No
+1770,Does a tapir drink wine?,Yes,No
+1771,Does a seagull drink vodka?,Yes,No
+1772,A dalmatian drinks wine.,Yes,No
+1773,Does a worm drink vodka?,No,No
+1774,Does a shark drink alcohol?,Yes,No
+1775,A codfish drinks bla.,No,No
+1776,Does a frog drink cola?,Yes,No
+1777,Does a schnauzer drink cola?,Yes,No
+1778,Does a shrew drink alcohol?,Yes,No
+1779,Does a ox drink alcohol?,Yes,No
+1780,A alpaca drinks bla.,No,No
+1781,A ox drinks beer.,Yes,No
+1782,Does a hyena drink coffee?,Yes,No
+1783,A crocodile drinks wine.,Yes,No
+1784,Does a chihuahua drink coffee?,Yes,No
+1785,A moose drinks coffee.,Yes,No
+1786,A herring drinks vodka.,Yes,No
+1787,A camel drinks vodka.,Yes,No
+1788,A hippopotamus drinks beer.,Yes,No
+1789,Does a seagull drink wine?,Yes,No
+1790,A mouse drinks alcohol.,Yes,No
+1791,Does a jaguar drink wine?,Yes,No
+1792,A liger drinks bla.,No,No
+1793,A liger drinks alcohol.,Yes,No
+1794,A gorilla drinks cola.,Yes,No
+1795,A rabbit drinks wine.,No,No
+1796,A alligator drinks alcohol.,Yes,No
+1797,A eel drinks coffee.,Yes,No
+1798,A squirrel drinks coffee.,No,No
+1799,Does a rottweiler drink alcohol?,No,No
+1800,Does a skunk drink coffee?,Yes,No
+1801,Does a bear drink bla?,No,No
+1802,Does a pelican drink alcohol?,Yes,No
+1803,Does a duck drink cola?,Yes,No
+1804,A hen drinks beer.,No,No
+1805,A crocodile drinks vodka.,No,No
+1806,Does a tapir drink bla?,Yes,No
+1807,Does a prawn drink coffee?,Yes,No
+1808,A swan drinks vodka.,Yes,No
+1809,Does a baboon drink alcohol?,Yes,No
+1810,A cuckoos drinks coffee.,Yes,No
+1811,A mule drinks cola.,Yes,No
+1812,A dove drinks coffee.,Yes,No
+1813,Does a dalmatian drink alcohol?,Yes,No
+1814,A collie drinks vodka.,Yes,No
+1815,Does a giraffe drink beer?,Yes,No
+1816,A alpaca drinks cola.,Yes,No
+1817,Does a shark drink cola?,Yes,No
+1818,A rottweiler drinks wine.,Yes,No
+1819,Does a bull drink cola?,Yes,No
+1820,A tuna drinks wine.,Yes,No
+1821,Does a rhino drink bla?,Yes,No
+1822,Does a schnauzer drink coffee?,Yes,No
+1823,A herring drinks cola.,Yes,No
+1824,A terrier drinks wine.,Yes,No
+1825,A ox drinks vodka.,Yes,No
+1826,A bulldog drinks beer.,Yes,No
+1827,A bulldog drinks wine.,No,No
+1828,A giraffe drinks vodka.,No,No
+1829,A schnauzer drinks beer.,Yes,No
+1830,Does a wolf drink bla?,Yes,No
+1831,Does a peacock drink vodka?,Yes,No
+1832,A roaster drinks beer.,Yes,No
+1833,Does a liger drink cola?,Yes,No
+1834,A whale drinks bla.,Yes,No
+1835,Does a mule drink bla?,Yes,No
+1836,A cuttlefish drinks beer.,Yes,No
+1837,Does a bear drink coffee?,Yes,No
+1838,Does a gar drink wine?,Yes,No
+1839,Does a squirrel drink coffee?,No,No
+1840,A pomeranian drinks vodka.,No,No
+1841,Does a ostrich drink alcohol?,Yes,No
+1842,A barracuda drinks cola.,Yes,No
+1843,Does a yak drink coffee?,Yes,No
+1844,Does a bear drink alcohol?,Yes,No
+1845,Does a gorilla drink bla?,Yes,No
+1846,A labrador drinks wine.,Yes,No
+1847,Does a moose drink coffee?,Yes,No
+1848,Does a crab drink vodka?,Yes,No
+1849,Does a kangaroo drink coffee?,Yes,No
+1850,A fox drinks vodka.,Yes,No
+1851,Does a starfish drink cola?,Yes,No
+1852,Does a bison drink bla?,No,No
+1853,A codfish drinks vodka.,Yes,No
+1854,A hippopotamus drinks vodka.,Yes,No
+1855,A moose drinks vodka.,No,No
+1856,A rat drinks alcohol.,Yes,No
+1857,Does a bison drink wine?,Yes,No
+1858,A tuna drinks coffee.,Yes,No
+1859,Does a puma drink wine?,Yes,No
+1860,A fish drinks bla.,Yes,No
+1861,Does a collie drink alcohol?,Yes,No
+1862,Does a elephant drink beer?,No,No
+1863,A tiger drinks beer.,Yes,No
+1864,A husky drinks vodka.,Yes,No
+1865,Does a antelope drink vodka?,Yes,No
+1866,A tapir drinks beer.,Yes,No
+1867,Does a bulldog drink coffee?,Yes,No
+1868,Does a mamba drink bla?,Yes,No
+1869,Does a rat drink wine?,Yes,No
+1870,A crab drinks alcohol.,Yes,No
+1871,Does a alligator drink vodka?,Yes,No
+1872,Does a lobster drink wine?,Yes,No
+1873,Does a swan drink wine?,Yes,No
+1874,A duck drinks coffee.,Yes,No
+1875,A alpaca drinks vodka.,Yes,No
