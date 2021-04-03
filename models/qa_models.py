@@ -199,9 +199,8 @@ if __name__ == "__main__":
     if config.get("train", True):
         train_model(config)
     else:
-        #test_files = ["csv/animals_dont_have_horns_questions.csv", "csv/animals_dont_have_hair_questions.csv", "csv/animals_dont_have_fur_questions.csv", "csv/animals_dont_have_feathers_questions.csv", "csv/animals_dont_have_a_beak_questions.csv", "csv/animals_dont_have_wings_questions.csv", "csv/animals_dont_have_fins_questions.csv", "csv/animals_dont_have_scales_questions.csv"]
-        #test_files = ["csv/animals_dont_have_a_beak_questions.csv", "csv/animals_dont_have_wings_questions.csv", "csv/animals_dont_have_fins_questions.csv", "csv/animals_dont_have_scales_questions.csv", "csv/conceptnet_train_no_animals.csv", "conceptnet_dev.csv"]
-        test_files = ["csv/animals_cant_fly_questions.csv", "csv/animals_drink_questions.csv"]
+        #test_files = ["csv/animals_dont_have_horns_questions.csv", "csv/animals_dont_have_hair_questions.csv", "csv/animals_dont_have_fur_questions.csv", "csv/animals_dont_have_feathers_questions.csv", "csv/animals_dont_have_a_beak_questions.csv", "csv/animals_dont_have_wings_questions.csv", "csv/animals_dont_have_fins_questions.csv", "csv/animals_dont_have_scales_questions.csv", "csv/animals_cant_fly_questions.csv", "csv/animals_drink_questions.csv"]
+        test_files = ["csv/animals_have_horns_questions.csv", "csv/animals_have_hair_questions.csv", "csv/animals_have_fur_questions.csv", "csv/animals_have_feathers_questions.csv", "csv/animals_have_a_beak_questions.csv", "csv/animals_have_wings_questions.csv", "csv/animals_have_fins_questions.csv", "csv/animals_have_scales_questions.csv", "csv/animals_can_fly_questions.csv"]
         for f in test_files:
             config["test_data"] = f
             test_model(config, f.replace(".csv", "_result.csv"))

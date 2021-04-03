@@ -1,0 +1,209 @@
+,question,label
+0,Does a fish live underwater?,Yes
+1,A fish lives underwater.,Yes
+2,Does a fish live in the water?,Yes
+3,A fish lives in the water.,Yes
+4,Does a fish live in the sea?,Yes
+5,A fish lives in the sea.,Yes
+6,Does a fish live in the ocean?,Yes
+7,A fish lives in the ocean.,Yes
+8,Does a shark live underwater?,Yes
+9,A shark lives underwater.,Yes
+10,Does a shark live in the water?,Yes
+11,A shark lives in the water.,Yes
+12,Does a shark live in the sea?,Yes
+13,A shark lives in the sea.,Yes
+14,Does a shark live in the ocean?,Yes
+15,A shark lives in the ocean.,Yes
+16,Does a tuna live underwater?,Yes
+17,A tuna lives underwater.,Yes
+18,Does a tuna live in the water?,Yes
+19,A tuna lives in the water.,Yes
+20,Does a tuna live in the sea?,Yes
+21,A tuna lives in the sea.,Yes
+22,Does a tuna live in the ocean?,Yes
+23,A tuna lives in the ocean.,Yes
+24,Does a salmon live underwater?,Yes
+25,A salmon lives underwater.,Yes
+26,Does a salmon live in the water?,Yes
+27,A salmon lives in the water.,Yes
+28,Does a salmon live in the sea?,Yes
+29,A salmon lives in the sea.,Yes
+30,Does a salmon live in the ocean?,Yes
+31,A salmon lives in the ocean.,Yes
+32,Does a octupus live underwater?,Yes
+33,A octupus lives underwater.,Yes
+34,Does a octupus live in the water?,Yes
+35,A octupus lives in the water.,Yes
+36,Does a octupus live in the sea?,Yes
+37,A octupus lives in the sea.,Yes
+38,Does a octupus live in the ocean?,Yes
+39,A octupus lives in the ocean.,Yes
+40,Does a barracuda live underwater?,Yes
+41,A barracuda lives underwater.,Yes
+42,Does a barracuda live in the water?,Yes
+43,A barracuda lives in the water.,Yes
+44,Does a barracuda live in the sea?,Yes
+45,A barracuda lives in the sea.,Yes
+46,Does a barracuda live in the ocean?,Yes
+47,A barracuda lives in the ocean.,Yes
+48,Does a codfish live underwater?,Yes
+49,A codfish lives underwater.,Yes
+50,Does a codfish live in the water?,Yes
+51,A codfish lives in the water.,Yes
+52,Does a codfish live in the sea?,Yes
+53,A codfish lives in the sea.,Yes
+54,Does a codfish live in the ocean?,Yes
+55,A codfish lives in the ocean.,Yes
+56,Does a cuttlefish live underwater?,Yes
+57,A cuttlefish lives underwater.,Yes
+58,Does a cuttlefish live in the water?,Yes
+59,A cuttlefish lives in the water.,Yes
+60,Does a cuttlefish live in the sea?,Yes
+61,A cuttlefish lives in the sea.,Yes
+62,Does a cuttlefish live in the ocean?,Yes
+63,A cuttlefish lives in the ocean.,Yes
+64,Does a dolphin live underwater?,Yes
+65,A dolphin lives underwater.,Yes
+66,Does a dolphin live in the water?,Yes
+67,A dolphin lives in the water.,Yes
+68,Does a dolphin live in the sea?,Yes
+69,A dolphin lives in the sea.,Yes
+70,Does a dolphin live in the ocean?,Yes
+71,A dolphin lives in the ocean.,Yes
+72,Does a eel live underwater?,Yes
+73,A eel lives underwater.,Yes
+74,Does a eel live in the water?,Yes
+75,A eel lives in the water.,Yes
+76,Does a eel live in the sea?,Yes
+77,A eel lives in the sea.,Yes
+78,Does a eel live in the ocean?,Yes
+79,A eel lives in the ocean.,Yes
+80,Does a gar live underwater?,Yes
+81,A gar lives underwater.,Yes
+82,Does a gar live in the water?,Yes
+83,A gar lives in the water.,Yes
+84,Does a gar live in the sea?,Yes
+85,A gar lives in the sea.,Yes
+86,Does a gar live in the ocean?,Yes
+87,A gar lives in the ocean.,Yes
+88,Does a herring live underwater?,Yes
+89,A herring lives underwater.,Yes
+90,Does a herring live in the water?,Yes
+91,A herring lives in the water.,Yes
+92,Does a herring live in the sea?,Yes
+93,A herring lives in the sea.,Yes
+94,Does a herring live in the ocean?,Yes
+95,A herring lives in the ocean.,Yes
+96,Does a kingfisher live underwater?,Yes
+97,A kingfisher lives underwater.,Yes
+98,Does a kingfisher live in the water?,Yes
+99,A kingfisher lives in the water.,Yes
+100,Does a kingfisher live in the sea?,Yes
+101,A kingfisher lives in the sea.,Yes
+102,Does a kingfisher live in the ocean?,Yes
+103,A kingfisher lives in the ocean.,Yes
+104,Does a piranha live underwater?,Yes
+105,A piranha lives underwater.,Yes
+106,Does a piranha live in the water?,Yes
+107,A piranha lives in the water.,Yes
+108,Does a piranha live in the sea?,Yes
+109,A piranha lives in the sea.,Yes
+110,Does a piranha live in the ocean?,Yes
+111,A piranha lives in the ocean.,Yes
+112,Does a kingfisher live underwater?,Yes
+113,A kingfisher lives underwater.,Yes
+114,Does a kingfisher live in the water?,Yes
+115,A kingfisher lives in the water.,Yes
+116,Does a kingfisher live in the sea?,Yes
+117,A kingfisher lives in the sea.,Yes
+118,Does a kingfisher live in the ocean?,Yes
+119,A kingfisher lives in the ocean.,Yes
+120,Does a bluefish live underwater?,Yes
+121,A bluefish lives underwater.,Yes
+122,Does a bluefish live in the water?,Yes
+123,A bluefish lives in the water.,Yes
+124,Does a bluefish live in the sea?,Yes
+125,A bluefish lives in the sea.,Yes
+126,Does a bluefish live in the ocean?,Yes
+127,A bluefish lives in the ocean.,Yes
+128,Does a bass live underwater?,Yes
+129,A bass lives underwater.,Yes
+130,Does a bass live in the water?,Yes
+131,A bass lives in the water.,Yes
+132,Does a bass live in the sea?,Yes
+133,A bass lives in the sea.,Yes
+134,Does a bass live in the ocean?,Yes
+135,A bass lives in the ocean.,Yes
+136,Does a buri live underwater?,Yes
+137,A buri lives underwater.,Yes
+138,Does a buri live in the water?,Yes
+139,A buri lives in the water.,Yes
+140,Does a buri live in the sea?,Yes
+141,A buri lives in the sea.,Yes
+142,Does a buri live in the ocean?,Yes
+143,A buri lives in the ocean.,Yes
+144,Does a knifefish live underwater?,Yes
+145,A knifefish lives underwater.,Yes
+146,Does a knifefish live in the water?,Yes
+147,A knifefish lives in the water.,Yes
+148,Does a knifefish live in the sea?,Yes
+149,A knifefish lives in the sea.,Yes
+150,Does a knifefish live in the ocean?,Yes
+151,A knifefish lives in the ocean.,Yes
+152,Does a sea bream live underwater?,Yes
+153,A sea bream lives underwater.,Yes
+154,Does a sea bream live in the water?,Yes
+155,A sea bream lives in the water.,Yes
+156,Does a sea bream live in the sea?,Yes
+157,A sea bream lives in the sea.,Yes
+158,Does a sea bream live in the ocean?,Yes
+159,A sea bream lives in the ocean.,Yes
+160,Does a orca live underwater?,Yes
+161,A orca lives underwater.,Yes
+162,Does a orca live in the water?,Yes
+163,A orca lives in the water.,Yes
+164,Does a orca live in the sea?,Yes
+165,A orca lives in the sea.,Yes
+166,Does a orca live in the ocean?,Yes
+167,A orca lives in the ocean.,Yes
+168,Does a starfish live underwater?,Yes
+169,A starfish lives underwater.,Yes
+170,Does a starfish live in the water?,Yes
+171,A starfish lives in the water.,Yes
+172,Does a starfish live in the sea?,Yes
+173,A starfish lives in the sea.,Yes
+174,Does a starfish live in the ocean?,Yes
+175,A starfish lives in the ocean.,Yes
+176,Does a squid live underwater?,Yes
+177,A squid lives underwater.,Yes
+178,Does a squid live in the water?,Yes
+179,A squid lives in the water.,Yes
+180,Does a squid live in the sea?,Yes
+181,A squid lives in the sea.,Yes
+182,Does a squid live in the ocean?,Yes
+183,A squid lives in the ocean.,Yes
+184,Does a shrimp live underwater?,Yes
+185,A shrimp lives underwater.,Yes
+186,Does a shrimp live in the water?,Yes
+187,A shrimp lives in the water.,Yes
+188,Does a shrimp live in the sea?,Yes
+189,A shrimp lives in the sea.,Yes
+190,Does a shrimp live in the ocean?,Yes
+191,A shrimp lives in the ocean.,Yes
+192,Does a prawn live underwater?,Yes
+193,A prawn lives underwater.,Yes
+194,Does a prawn live in the water?,Yes
+195,A prawn lives in the water.,Yes
+196,Does a prawn live in the sea?,Yes
+197,A prawn lives in the sea.,Yes
+198,Does a prawn live in the ocean?,Yes
+199,A prawn lives in the ocean.,Yes
+200,Does a turtule live underwater?,Yes
+201,A turtule lives underwater.,Yes
+202,Does a turtule live in the water?,Yes
+203,A turtule lives in the water.,Yes
+204,Does a turtule live in the sea?,Yes
+205,A turtule lives in the sea.,Yes
+206,Does a turtule live in the ocean?,Yes
+207,A turtule lives in the ocean.,Yes

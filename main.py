@@ -522,7 +522,11 @@ def aggregate_results_by_question(result_df, animals_df):
             if "'s" in question:
                 question = question.replace(f" {animal}'s", " <entity>'s")
             else:
+                orig_questions = question
                 question = question.replace(f" {animal} ", " <entity> ")
+                if question == orig_questions:
+                    question = question.replace(f"{animal} ", "<entity> ")
+
         for q in results_by_question.keys():
             if question == q:
                 results_by_question[q]["accuracy"] += int(status)
@@ -549,15 +553,16 @@ if __name__ == "__main__":
     # results = ["animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins", "animals_dont_have_scales",
     #            "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_live_underwater", "animals_dont_have_fur",
     #            "animals_dont_have_hair"] # to add can't fly..
+    # results = ["animals_cant_fly", "animals_drink"]  # to add can't fly..
     # for res in results:
     #     summarize_results(animals_csv_path=f"csv/{res}.csv", results_csv_path=f"csv/results/{res}_questions_result.csv")
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    questions = generate_sentences_from_csv(csv_path="csv/animals_cant_fly.csv")
+    questions = generate_sentences_from_csv(csv_path="csv/animals_live_underwater.csv")
     questions = pd.DataFrame.from_dict(questions)
-    questions.to_csv("csv/animals_cant_fly_questions.csv")
+    questions.to_csv("csv/animals_live_underwater_questions.csv")
 
     # merge_all_sentences(["csv/vehicle.csv", "csv/furniture.csv", "csv/food.csv", "csv/musical_instruments.csv"])
     # merge_all_sentences(["csv/animals.csv"])

@@ -1,0 +1,4 @@
+,Does a <entity> drink vodka?,A <entity> drinks vodka.,Does a <entity> drink beer?,A <entity> drinks beer.,Does a <entity> drink wine?,A <entity> drinks wine.,Does a <entity> drink coffee?,A <entity> drinks coffee.,Does a <entity> drink alcohol?,A <entity> drinks alcohol.,Does a <entity> drink cola?,A <entity> drinks cola.,Does a <entity> drink bla?,A <entity> drinks bla.
+accuracy,0.086614173,0.417322835,0.062992126,0.181102362,0.062992126,0.141732283,0.125984252,0.212598425,0.181102362,0.37007874,0.007874016,0.118110236,0.472440945,0.25984252
+yes_count,116,74,119,104,119,109,111,100,104,80,126,112,67,94
+no_count,11,53,8,23,8,18,16,27,23,47,1,15,60,33
