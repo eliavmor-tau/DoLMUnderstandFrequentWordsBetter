@@ -552,7 +552,7 @@ def summarize_results(animals_csv_path, results_csv_path):
 if __name__ == "__main__":
     results = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
                "animals_have_wings", "animals_have_feathers", "animals_have_fur",
-               "animals_have_hair"] # to add can't fly..
+               "animals_have_hair", "animals_live_underwater"] # to add can't fly..
     # results = ["animals_cant_fly", "animals_drink"]  # to add can't fly..
     for res in results:
         summarize_results(animals_csv_path=f"csv/{res}.csv", results_csv_path=f"csv/results/{res}_questions_result.csv")

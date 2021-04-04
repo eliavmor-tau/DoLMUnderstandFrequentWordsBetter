@@ -1,4 +1,4 @@
 ,Does a <entity> have feathers?,A <entity> has feathers.,Are feathers part of a <entity>'s body?,Feathers are part of a <entity>'s body.
-accuracy,0.8620689655172413,0.896551724137931,0.8709677419354839,0.4838709677419355
-yes_count,25.0,26.0,27.0,15.0
+accuracy,0.8571428571428571,0.8928571428571429,0.8709677419354839,0.4838709677419355
+yes_count,24.0,25.0,27.0,15.0
 no_count,4.0,3.0,4.0,16.0
