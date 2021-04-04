@@ -1,4 +1,4 @@
 ,Does a <entity> have fur?,A <entity> has fur.,Is fur part of a <entity>'s body?,Fur is part of a <entity>'s body.
-accuracy,0.21428571428571427,0.18571428571428572,0.6142857142857143,0.6714285714285714
-yes_count,55.0,57.0,27.0,23.0
-no_count,15.0,13.0,43.0,47.0
+accuracy,0.214285714,0.185714286,0.614285714,0.671428571
+yes_count,55,57,27,23
+no_count,15,13,43,47

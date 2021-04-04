@@ -1,4 +1,4 @@
 ,Does a <entity> have a beak?,A <entity> has beak.,Is a beak part of a <entity>'s body?,Beak is part of a <entity>'s body.
-accuracy,0.06306306306306306,0.14414414414414414,0.05405405405405406,0.009009009009009009
-yes_count,104.0,95.0,105.0,110.0
-no_count,7.0,16.0,6.0,1.0
+accuracy,0.063063063,0.144144144,0.054054054,0.009009009
+yes_count,104,95,105,110
+no_count,7,16,6,1
