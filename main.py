@@ -585,14 +585,14 @@ if __name__ == "__main__":
                "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
                "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly",
                "animals"]
-    for file in files:
-        summarize_results(animals_csv_path=f"csv/{file}.csv", results_csv_path=f"csv/results/{file}_questions_result.csv")
+    # for file in files:
+    #     summarize_results(animals_csv_path=f"csv/{file}.csv", results_csv_path=f"csv/results/{file}_questions_result.csv")
     # plot_df("csv/results/animals_dont_have_feathers_questions_result_by_animal.csv")
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    # for file in files:
-    #     questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
-    #     questions = pd.DataFrame.from_dict(questions)
-    #     questions.to_csv(f"csv/{file}_questions.csv")
+    for file in files:
+        questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
+        questions = pd.DataFrame.from_dict(questions)
+        questions.to_csv(f"csv/{file}_questions.csv")

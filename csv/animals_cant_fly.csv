@@ -1,4 +1,4 @@
-﻿entity,Does a <entity> fly?,Can a <entity> fly?,A <entity> flys.,Is <entity> is capable of flying?,<entity> is capable of flying.
+﻿entity,Does a <entity> fly?,Can a <entity> fly?,A <entity> flys.,Is a <entity> capable of flying?,A <entity> is capable of flying.
 corgi,0,0,0,0,0
 beagle,0,0,0,0,0
 boxer,0,0,0,0,0

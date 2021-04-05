@@ -206,7 +206,8 @@ if __name__ == "__main__":
         #        "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
         #        "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
         #        "csv/animals_cant_fly", "csv/animals"]
-        test_files = ["csv/animals"]
+        test_files = ["csv/animals_cant_fly", "csv/animals_can_fly", "csv/animals_have_wings", "csv/animals_dont_have_wings",
+                      "csv/animals_dont_have_a_beak", "csv/animals_have_a_beak"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
             test_model(config, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))
