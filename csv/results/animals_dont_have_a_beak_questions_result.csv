@@ -1,445 +1,441 @@
 ,question,model_answer,true_answer
-0,Is a beak part of a doberman's body?,Yes,No
-1,Does a antelope have a beak?,Yes,No
-2,Does a corgi have a beak?,Yes,No
-3,A oyster has beak.,Yes,No
-4,A yak has beak.,Yes,No
-5,Beak is part of a cuttlefish's body.,Yes,No
-6,Beak is part of a fish's body.,Yes,No
-7,Does a collie have a beak?,Yes,No
-8,Beak is part of a moose's body.,Yes,No
-9,A octupus has beak.,Yes,No
-10,Does a aardvark have a beak?,Yes,No
-11,Does a sponge have a beak?,Yes,No
-12,Beak is part of a fox's body.,Yes,No
-13,Beak is part of a ass's body.,Yes,No
-14,Is a beak part of a lion's body?,Yes,No
-15,A donkey has beak.,Yes,No
-16,Is a beak part of a bear's body?,Yes,No
-17,Beak is part of a boxer's body.,Yes,No
-18,A gorilla has beak.,Yes,No
-19,Does a baboon have a beak?,Yes,No
-20,A skunk has beak.,Yes,No
-21,Does a eel have a beak?,Yes,No
-22,Is a beak part of a squirrel's body?,Yes,No
-23,Does a puma have a beak?,Yes,No
-24,A cow has beak.,Yes,No
-25,Beak is part of a hyena's body.,Yes,No
-26,Does a camel have a beak?,Yes,No
-27,Does a tarantula have a beak?,Yes,No
-28,Does a pinscher have a beak?,Yes,No
-29,Does a hyena have a beak?,No,No
-30,Does a frog have a beak?,Yes,No
-31,Does a jellyfish have a beak?,Yes,No
-32,Does a ox have a beak?,Yes,No
-33,A sponge has beak.,Yes,No
-34,Is a beak part of a antelope's body?,Yes,No
-35,Does a oyster have a beak?,Yes,No
-36,Does a spider have a beak?,Yes,No
-37,Beak is part of a rabbit's body.,Yes,No
-38,Does a ant have a beak?,Yes,No
-39,Beak is part of a worm's body.,Yes,No
-40,Beak is part of a mouse's body.,Yes,No
-41,Beak is part of a piranha's body.,Yes,No
-42,Beak is part of a alpaca's body.,Yes,No
-43,Beak is part of a tiger's body.,Yes,No
-44,Is a beak part of a caterpillar's body?,Yes,No
-45,Beak is part of a shark's body.,Yes,No
-46,Does a deer have a beak?,Yes,No
-47,Beak is part of a beef's body.,Yes,No
-48,Does a flamingo have a beak?,No,No
-49,Does a monkey have a beak?,Yes,No
-50,Beak is part of a whale's body.,Yes,No
-51,Does a seal have a beak?,Yes,No
-52,Beak is part of a cow's body.,Yes,No
-53,A cuttlefish has beak.,Yes,No
-54,A monkey has beak.,Yes,No
-55,Beak is part of a aardvark's body.,Yes,No
-56,Does a koala have a beak?,Yes,No
-57,A codfish has beak.,Yes,No
-58,A sheep has beak.,Yes,No
-59,Beak is part of a leopard's body.,Yes,No
-60,A ape has beak.,Yes,No
-61,Is a beak part of a skunk's body?,Yes,No
-62,Does a cat have a beak?,Yes,No
-63,Is a beak part of a frog's body?,Yes,No
-64,Is a beak part of a lizard's body?,Yes,No
-65,A goat has beak.,Yes,No
-66,Does a starfish have a beak?,Yes,No
-67,Is a beak part of a worm's body?,Yes,No
-68,A boxer has beak.,No,No
-69,Is a beak part of a puma's body?,Yes,No
-70,A aardvark has beak.,Yes,No
-71,A collie has beak.,Yes,No
-72,Is a beak part of a herring's body?,Yes,No
-73,Is a beak part of a corgi's body?,Yes,No
-74,Does a dolphin have a beak?,Yes,No
-75,Is a beak part of a husky's body?,Yes,No
-76,Does a shark have a beak?,Yes,No
-77,A baboon has beak.,Yes,No
-78,Beak is part of a salamander's body.,Yes,No
-79,Is a beak part of a baboon's body?,Yes,No
-80,Is a beak part of a pomeranian's body?,Yes,No
-81,A camel has beak.,Yes,No
-82,Does a fox have a beak?,Yes,No
-83,Beak is part of a sponge's body.,Yes,No
-84,Does a schnauzer have a beak?,Yes,No
-85,Is a beak part of a crocodile's body?,Yes,No
-86,Is a beak part of a grivet's body?,Yes,No
-87,Does a gar have a beak?,Yes,No
-88,Is a beak part of a lobster's body?,Yes,No
-89,A raccoon has beak.,Yes,No
-90,A eel has beak.,Yes,No
-91,Does a bear have a beak?,Yes,No
-92,Beak is part of a schnauzer's body.,Yes,No
-93,Does a squirrel have a beak?,Yes,No
-94,A wolf has beak.,Yes,No
-95,Does a grivet have a beak?,Yes,No
-96,A hyena has beak.,No,No
-97,A pomeranian has beak.,No,No
-98,A boa has beak.,No,No
-99,Beak is part of a pomeranian's body.,Yes,No
-100,Beak is part of a wolf's body.,Yes,No
-101,Beak is part of a gibbon's body.,Yes,No
-102,A mule has beak.,Yes,No
-103,Beak is part of a labrador's body.,Yes,No
-104,Beak is part of a camel's body.,Yes,No
-105,A giraffe has beak.,Yes,No
-106,A mamba has beak.,Yes,No
-107,Is a beak part of a fox's body?,Yes,No
-108,Does a salmon have a beak?,Yes,No
-109,Beak is part of a bison's body.,Yes,No
-110,A cobra has beak.,No,No
-111,A ox has beak.,Yes,No
-112,Beak is part of a corgi's body.,Yes,No
-113,Is a beak part of a schnauzer's body?,Yes,No
-114,Beak is part of a yak's body.,Yes,No
-115,Beak is part of a lobster's body.,Yes,No
-116,Beak is part of a terrier's body.,Yes,No
-117,Does a beagle have a beak?,Yes,No
-118,A alligator has beak.,Yes,No
-119,A elephant has beak.,Yes,No
-120,Beak is part of a eel's body.,Yes,No
-121,Is a beak part of a prawn's body?,Yes,No
-122,A cat has beak.,Yes,No
-123,Is a beak part of a pinscher's body?,Yes,No
-124,Beak is part of a iguana's body.,Yes,No
-125,Beak is part of a deer's body.,Yes,No
-126,Does a doberman have a beak?,Yes,No
-127,A rat has beak.,Yes,No
-128,Beak is part of a codfish's body.,Yes,No
-129,Does a snail have a beak?,Yes,No
-130,A tapir has beak.,Yes,No
-131,Does a worm have a beak?,Yes,No
-132,A deer has beak.,Yes,No
-133,Does a rottweiler have a beak?,Yes,No
-134,Is a beak part of a salmon's body?,Yes,No
-135,Does a lizard have a beak?,Yes,No
-136,Beak is part of a snake's body.,Yes,No
-137,Beak is part of a rat's body.,Yes,No
-138,A grivet has beak.,Yes,No
-139,Beak is part of a dalmatian's body.,Yes,No
-140,Is a beak part of a dalmatian's body?,Yes,No
-141,Beak is part of a baboon's body.,Yes,No
-142,A caracal has beak.,Yes,No
-143,Does a ape have a beak?,Yes,No
-144,Is a beak part of a hippopotamus's body?,Yes,No
-145,A horse has beak.,Yes,No
-146,Does a husky have a beak?,Yes,No
-147,A bull has beak.,Yes,No
-148,Does a crab have a beak?,Yes,No
-149,A labrador has beak.,Yes,No
-150,A cocker spaniel has beak.,Yes,No
-151,A prawn has beak.,Yes,No
-152,Beak is part of a caterpillar's body.,Yes,No
-153,Does a mouse have a beak?,Yes,No
-154,Beak is part of a flamingo's body.,Yes,No
-155,A squirrel has beak.,Yes,No
-156,A gar has beak.,Yes,No
-157,Is a beak part of a camel's body?,Yes,No
-158,A jellyfish has beak.,Yes,No
-159,Beak is part of a alligator's body.,Yes,No
-160,Is a beak part of a octupus's body?,Yes,No
-161,Does a yak have a beak?,Yes,No
-162,Does a sheep have a beak?,Yes,No
-163,Does a horse have a beak?,Yes,No
-164,Is a beak part of a tiger's body?,Yes,No
-165,A doberman has beak.,Yes,No
-166,Is a beak part of a ox's body?,Yes,No
-167,Beak is part of a crocodile's body.,Yes,No
-168,A beagle has beak.,Yes,No
-169,Does a moose have a beak?,Yes,No
-170,Does a bull have a beak?,Yes,No
-171,Beak is part of a quail's body.,Yes,No
-172,Beak is part of a collie's body.,Yes,No
-173,A lobster has beak.,Yes,No
-174,Is a beak part of a cuttlefish's body?,Yes,No
-175,Is a beak part of a zebra's body?,No,No
-176,Beak is part of a cocker spaniel's body.,Yes,No
-177,Does a pig have a beak?,Yes,No
-178,Does a elephant have a beak?,Yes,No
-179,A salmon has beak.,Yes,No
-180,Does a skunk have a beak?,Yes,No
-181,Is a beak part of a boxer's body?,Yes,No
-182,Is a beak part of a aardvark's body?,Yes,No
-183,Is a beak part of a snake's body?,Yes,No
-184,Does a boxer have a beak?,No,No
-185,A pinscher has beak.,Yes,No
-186,Is a beak part of a chihuahua's body?,No,No
-187,Does a whale have a beak?,Yes,No
-188,Is a beak part of a iguana's body?,Yes,No
-189,Beak is part of a lizard's body.,Yes,No
-190,Beak is part of a ant's body.,Yes,No
-191,Is a beak part of a rhino's body?,Yes,No
-192,Beak is part of a mule's body.,Yes,No
-193,Is a beak part of a hyena's body?,Yes,No
-194,Beak is part of a hippopotamus's body.,Yes,No
-195,A rabbit has beak.,Yes,No
-196,Does a gibbon have a beak?,Yes,No
-197,Beak is part of a tarantula's body.,Yes,No
-198,Does a piranha have a beak?,Yes,No
-199,A mouse has beak.,Yes,No
-200,Is a beak part of a codfish's body?,Yes,No
-201,Does a caracal have a beak?,Yes,No
-202,A bulldog has beak.,No,No
-203,Beak is part of a zebra's body.,No,No
-204,A shrew has beak.,Yes,No
-205,Does a zebra have a beak?,Yes,No
-206,Beak is part of a cobra's body.,Yes,No
-207,Does a cobra have a beak?,Yes,No
-208,A frog has beak.,Yes,No
-209,Beak is part of a raccoon's body.,Yes,No
-210,A fox has beak.,Yes,No
-211,A flamingo has beak.,No,No
-212,Does a salamander have a beak?,Yes,No
-213,Is a beak part of a wolf's body?,Yes,No
-214,Is a beak part of a yak's body?,Yes,No
-215,Does a giraffe have a beak?,Yes,No
-216,A rhino has beak.,Yes,No
-217,Is a beak part of a kangaroo's body?,Yes,No
-218,Beak is part of a seal's body.,Yes,No
-219,Does a codfish have a beak?,Yes,No
-220,A salamander has beak.,Yes,No
-221,A antelope has beak.,Yes,No
-222,Is a beak part of a raccoon's body?,Yes,No
-223,Is a beak part of a rabbit's body?,Yes,No
-224,Is a beak part of a giraffe's body?,Yes,No
-225,A gibbon has beak.,Yes,No
-226,Does a lion have a beak?,Yes,No
-227,Does a bison have a beak?,Yes,No
-228,Is a beak part of a gorilla's body?,Yes,No
-229,Is a beak part of a tapir's body?,Yes,No
-230,Beak is part of a spider's body.,Yes,No
-231,A alpaca has beak.,Yes,No
-232,A terrier has beak.,No,No
-233,Beak is part of a donkey's body.,Yes,No
-234,Is a beak part of a collie's body?,Yes,No
-235,Does a dalmatian have a beak?,Yes,No
-236,A worm has beak.,Yes,No
-237,Is a beak part of a bull's body?,Yes,No
-238,Is a beak part of a bulldog's body?,Yes,No
-239,Beak is part of a gar's body.,Yes,No
-240,Is a beak part of a goat's body?,Yes,No
-241,Beak is part of a gorilla's body.,Yes,No
-242,Is a beak part of a eel's body?,Yes,No
-243,Beak is part of a skunk's body.,Yes,No
-244,Beak is part of a sheep's body.,Yes,No
-245,Beak is part of a ox's body.,Yes,No
-246,Does a jaguar have a beak?,Yes,No
-247,A chihuahua has beak.,No,No
-248,A herring has beak.,Yes,No
-249,Beak is part of a cat's body.,Yes,No
-250,Beak is part of a ape's body.,Yes,No
-251,A caterpillar has beak.,Yes,No
-252,A jaguar has beak.,No,No
-253,Is a beak part of a elephant's body?,Yes,No
-254,Beak is part of a boa's body.,Yes,No
-255,Does a bulldog have a beak?,Yes,No
-256,Is a beak part of a sheep's body?,Yes,No
-257,A zebra has beak.,No,No
-258,Is a beak part of a shrimp's body?,Yes,No
-259,Does a pomeranian have a beak?,Yes,No
-260,Does a tiger have a beak?,Yes,No
-261,A dog has beak.,Yes,No
-262,Is a beak part of a gibbon's body?,Yes,No
-263,Does a octupus have a beak?,Yes,No
-264,Is a beak part of a tuna's body?,Yes,No
-265,A quail has beak.,Yes,No
-266,Does a kingfisher have a beak?,Yes,No
-267,Is a beak part of a salamander's body?,Yes,No
-268,A iguana has beak.,No,No
+0,Is a beak part of a liger's body?,Yes,No
+1,Does a tiger have a beak?,Yes,No
+2,A bulldog has beak.,No,No
+3,Does a salmon have a beak?,Yes,No
+4,Is a beak part of a ant's body?,Yes,No
+5,A fish has beak.,Yes,No
+6,A mouse has beak.,Yes,No
+7,Is a beak part of a corgi's body?,Yes,No
+8,Is a beak part of a rat's body?,Yes,No
+9,A oyster has beak.,Yes,No
+10,Does a chihuahua have a beak?,No,No
+11,Is a beak part of a lizard's body?,Yes,No
+12,Beak is part of a eel's body.,Yes,No
+13,A ape has beak.,Yes,No
+14,Is a beak part of a squirrel's body?,Yes,No
+15,A skunk has beak.,Yes,No
+16,Beak is part of a deer's body.,Yes,No
+17,Is a beak part of a husky's body?,Yes,No
+18,Beak is part of a prawn's body.,Yes,No
+19,Beak is part of a sponge's body.,Yes,No
+20,A tarantula has beak.,Yes,No
+21,Is a beak part of a salamander's body?,Yes,No
+22,A piranha has beak.,Yes,No
+23,Does a ape have a beak?,Yes,No
+24,Does a cow have a beak?,Yes,No
+25,Does a bull have a beak?,Yes,No
+26,Is a beak part of a sponge's body?,Yes,No
+27,Does a gar have a beak?,Yes,No
+28,Beak is part of a fish's body.,Yes,No
+29,A salamander has beak.,Yes,No
+30,Beak is part of a iguana's body.,Yes,No
+31,A aardvark has beak.,Yes,No
+32,Does a herring have a beak?,Yes,No
+33,Beak is part of a alligator's body.,Yes,No
+34,Beak is part of a hippopotamus's body.,Yes,No
+35,Is a beak part of a starfish's body?,Yes,No
+36,Is a beak part of a mule's body?,Yes,No
+37,A raccoon has beak.,Yes,No
+38,Does a grivet have a beak?,Yes,No
+39,Beak is part of a monkey's body.,Yes,No
+40,Is a beak part of a koala's body?,Yes,No
+41,Is a beak part of a pinscher's body?,Yes,No
+42,A prawn has beak.,Yes,No
+43,Beak is part of a caterpillar's body.,Yes,No
+44,Does a bear have a beak?,Yes,No
+45,Does a iguana have a beak?,No,No
+46,Does a jellyfish have a beak?,Yes,No
+47,Is a beak part of a zebra's body?,No,No
+48,A elephant has beak.,Yes,No
+49,Is a beak part of a rottweiler's body?,No,No
+50,Beak is part of a snake's body.,Yes,No
+51,Is a beak part of a cat's body?,Yes,No
+52,Does a cocker spaniel have a beak?,Yes,No
+53,Beak is part of a starfish's body.,Yes,No
+54,Is a beak part of a hippopotamus's body?,Yes,No
+55,Is a beak part of a cuttlefish's body?,Yes,No
+56,Does a aardvark have a beak?,Yes,No
+57,A barracuda has beak.,Yes,No
+58,Beak is part of a beef's body.,Yes,No
+59,A terrier has beak.,No,No
+60,Does a cuttlefish have a beak?,Yes,No
+61,Does a dalmatian have a beak?,Yes,No
+62,Does a lion have a beak?,Yes,No
+63,Beak is part of a labrador's body.,Yes,No
+64,Does a shark have a beak?,Yes,No
+65,Is a beak part of a moose's body?,Yes,No
+66,Does a bulldog have a beak?,Yes,No
+67,Does a elephant have a beak?,Yes,No
+68,Beak is part of a gibbon's body.,Yes,No
+69,A ox has beak.,Yes,No
+70,Is a beak part of a camel's body?,Yes,No
+71,Does a puma have a beak?,Yes,No
+72,Beak is part of a pig's body.,Yes,No
+73,Does a tarantula have a beak?,Yes,No
+74,Is a beak part of a elephant's body?,Yes,No
+75,Beak is part of a shrimp's body.,Yes,No
+76,Does a rabbit have a beak?,Yes,No
+77,Is a beak part of a gibbon's body?,Yes,No
+78,Does a skunk have a beak?,Yes,No
+79,Does a deer have a beak?,Yes,No
+80,A snail has beak.,Yes,No
+81,Does a donkey have a beak?,Yes,No
+82,A alligator has beak.,Yes,No
+83,Is a beak part of a crab's body?,Yes,No
+84,Is a beak part of a bull's body?,Yes,No
+85,Beak is part of a ass's body.,Yes,No
+86,Is a beak part of a leopard's body?,Yes,No
+87,Beak is part of a shark's body.,Yes,No
+88,Does a oyster have a beak?,Yes,No
+89,Is a beak part of a salmon's body?,Yes,No
+90,Does a pinscher have a beak?,Yes,No
+91,Beak is part of a jellyfish's body.,Yes,No
+92,Is a beak part of a eel's body?,Yes,No
+93,Does a cobra have a beak?,Yes,No
+94,A cocker spaniel has beak.,Yes,No
+95,Beak is part of a schnauzer's body.,Yes,No
+96,Beak is part of a cat's body.,Yes,No
+97,A caracal has beak.,Yes,No
+98,A corgi has beak.,No,No
+99,Is a beak part of a cobra's body?,Yes,No
+100,A quail has beak.,Yes,No
+101,Beak is part of a pinscher's body.,Yes,No
+102,Is a beak part of a boxer's body?,Yes,No
+103,A shrew has beak.,Yes,No
+104,Beak is part of a quail's body.,Yes,No
+105,A tiger has beak.,Yes,No
+106,A dog has beak.,Yes,No
+107,A alpaca has beak.,Yes,No
+108,Is a beak part of a barracuda's body?,Yes,No
+109,Beak is part of a gorilla's body.,Yes,No
+110,Beak is part of a hyena's body.,Yes,No
+111,Does a labrador have a beak?,Yes,No
+112,Is a beak part of a shrew's body?,Yes,No
+113,A mamba has beak.,Yes,No
+114,A monkey has beak.,Yes,No
+115,Beak is part of a pomeranian's body.,Yes,No
+116,Does a whale have a beak?,Yes,No
+117,Does a barracuda have a beak?,Yes,No
+118,Is a beak part of a tapir's body?,Yes,No
+119,A deer has beak.,Yes,No
+120,Beak is part of a lizard's body.,Yes,No
+121,Is a beak part of a antelope's body?,Yes,No
+122,A schnauzer has beak.,Yes,No
+123,A doberman has beak.,Yes,No
+124,A crocodile has beak.,Yes,No
+125,Beak is part of a ape's body.,Yes,No
+126,Beak is part of a shrew's body.,Yes,No
+127,A caterpillar has beak.,Yes,No
+128,Beak is part of a chihuahua's body.,Yes,No
+129,A beef has beak.,Yes,No
+130,A liger has beak.,No,No
+131,Beak is part of a crab's body.,Yes,No
+132,Does a horse have a beak?,Yes,No
+133,Does a moose have a beak?,Yes,No
+134,Does a tapir have a beak?,Yes,No
+135,Does a starfish have a beak?,Yes,No
+136,Does a zebra have a beak?,Yes,No
+137,A hippopotamus has beak.,Yes,No
+138,Beak is part of a husky's body.,Yes,No
+139,A dolphin has beak.,Yes,No
+140,Is a beak part of a mouse's body?,Yes,No
+141,Does a baboon have a beak?,Yes,No
+142,Does a gibbon have a beak?,Yes,No
+143,Is a beak part of a kingfisher's body?,Yes,No
+144,A pomeranian has beak.,No,No
+145,Beak is part of a boxer's body.,Yes,No
+146,A bison has beak.,Yes,No
+147,Does a sheep have a beak?,Yes,No
+148,Beak is part of a mamba's body.,Yes,No
+149,Is a beak part of a snail's body?,Yes,No
+150,Beak is part of a rhino's body.,Yes,No
+151,Does a koala have a beak?,Yes,No
+152,Does a pomeranian have a beak?,Yes,No
+153,Beak is part of a bulldog's body.,Yes,No
+154,Is a beak part of a tarantula's body?,Yes,No
+155,Beak is part of a camel's body.,Yes,No
+156,Beak is part of a koala's body.,Yes,No
+157,A eel has beak.,Yes,No
+158,Beak is part of a caracal's body.,Yes,No
+159,A jaguar has beak.,No,No
+160,A worm has beak.,Yes,No
+161,Does a shrimp have a beak?,Yes,No
+162,Does a ant have a beak?,Yes,No
+163,Beak is part of a bison's body.,Yes,No
+164,Beak is part of a rabbit's body.,Yes,No
+165,Beak is part of a dog's body.,Yes,No
+166,A snake has beak.,Yes,No
+167,Is a beak part of a hyena's body?,Yes,No
+168,Beak is part of a kangaroo's body.,Yes,No
+169,A lizard has beak.,Yes,No
+170,Is a beak part of a spider's body?,Yes,No
+171,Does a ox have a beak?,Yes,No
+172,Does a jaguar have a beak?,Yes,No
+173,Does a beagle have a beak?,Yes,No
+174,Is a beak part of a kangaroo's body?,Yes,No
+175,Is a beak part of a terrier's body?,Yes,No
+176,Beak is part of a spider's body.,Yes,No
+177,A sheep has beak.,Yes,No
+178,Is a beak part of a deer's body?,Yes,No
+179,Is a beak part of a boa's body?,Yes,No
+180,Beak is part of a whale's body.,Yes,No
+181,Does a octupus have a beak?,Yes,No
+182,Beak is part of a raccoon's body.,Yes,No
+183,Beak is part of a donkey's body.,Yes,No
+184,Beak is part of a collie's body.,Yes,No
+185,Is a beak part of a raccoon's body?,Yes,No
+186,A moose has beak.,Yes,No
+187,A cat has beak.,Yes,No
+188,Beak is part of a gar's body.,Yes,No
+189,Beak is part of a liger's body.,Yes,No
+190,A yak has beak.,Yes,No
+191,Beak is part of a leopard's body.,Yes,No
+192,Beak is part of a sheep's body.,Yes,No
+193,Does a tuna have a beak?,Yes,No
+194,A lion has beak.,Yes,No
+195,Does a rottweiler have a beak?,Yes,No
+196,Does a dolphin have a beak?,Yes,No
+197,Does a boa have a beak?,No,No
+198,Beak is part of a moose's body.,Yes,No
+199,Is a beak part of a dalmatian's body?,Yes,No
+200,Is a beak part of a bulldog's body?,Yes,No
+201,A donkey has beak.,Yes,No
+202,Is a beak part of a ape's body?,Yes,No
+203,Is a beak part of a frog's body?,Yes,No
+204,Beak is part of a crocodile's body.,Yes,No
+205,A leopard has beak.,Yes,No
+206,A tapir has beak.,Yes,No
+207,A cow has beak.,Yes,No
+208,A starfish has beak.,Yes,No
+209,A shrimp has beak.,Yes,No
+210,Does a seal have a beak?,Yes,No
+211,Is a beak part of a caracal's body?,Yes,No
+212,A collie has beak.,Yes,No
+213,Beak is part of a ant's body.,Yes,No
+214,Beak is part of a puma's body.,Yes,No
+215,Is a beak part of a baboon's body?,Yes,No
+216,Does a leopard have a beak?,Yes,No
+217,Beak is part of a cobra's body.,Yes,No
+218,Is a beak part of a chihuahua's body?,No,No
+219,Is a beak part of a beagle's body?,Yes,No
+220,Does a rhino have a beak?,Yes,No
+221,A iguana has beak.,No,No
+222,Is a beak part of a pomeranian's body?,Yes,No
+223,Is a beak part of a yak's body?,Yes,No
+224,Beak is part of a mouse's body.,Yes,No
+225,Beak is part of a barracuda's body.,Yes,No
+226,A shark has beak.,Yes,No
+227,Is a beak part of a caterpillar's body?,Yes,No
+228,Does a crab have a beak?,Yes,No
+229,Beak is part of a ox's body.,Yes,No
+230,Is a beak part of a tiger's body?,Yes,No
+231,Beak is part of a fox's body.,Yes,No
+232,Beak is part of a piranha's body.,Yes,No
+233,Beak is part of a oyster's body.,Yes,No
+234,Beak is part of a cuttlefish's body.,Yes,No
+235,Does a spider have a beak?,Yes,No
+236,Beak is part of a octupus's body.,Yes,No
+237,A sponge has beak.,Yes,No
+238,Is a beak part of a puma's body?,Yes,No
+239,Is a beak part of a horse's body?,Yes,No
+240,A crab has beak.,Yes,No
+241,A gorilla has beak.,Yes,No
+242,A wolf has beak.,Yes,No
+243,Is a beak part of a dolphin's body?,Yes,No
+244,Beak is part of a terrier's body.,Yes,No
+245,Does a gorilla have a beak?,Yes,No
+246,Is a beak part of a shark's body?,Yes,No
+247,Is a beak part of a dog's body?,Yes,No
+248,A husky has beak.,Yes,No
+249,A antelope has beak.,Yes,No
+250,Is a beak part of a schnauzer's body?,Yes,No
+251,Does a giraffe have a beak?,Yes,No
+252,Beak is part of a aardvark's body.,Yes,No
+253,Is a beak part of a oyster's body?,Yes,No
+254,Does a caterpillar have a beak?,Yes,No
+255,A pinscher has beak.,Yes,No
+256,Is a beak part of a crocodile's body?,Yes,No
+257,Does a hippopotamus have a beak?,Yes,No
+258,Does a beef have a beak?,Yes,No
+259,Is a beak part of a whale's body?,Yes,No
+260,A whale has beak.,Yes,No
+261,Does a lobster have a beak?,Yes,No
+262,A boa has beak.,No,No
+263,Is a beak part of a collie's body?,Yes,No
+264,Is a beak part of a monkey's body?,Yes,No
+265,Beak is part of a mule's body.,Yes,No
+266,Does a caracal have a beak?,Yes,No
+267,Does a rat have a beak?,Yes,No
+268,Is a beak part of a bison's body?,Yes,No
 269,Is a beak part of a jaguar's body?,Yes,No
-270,A snake has beak.,Yes,No
-271,A seal has beak.,Yes,No
-272,Beak is part of a grivet's body.,Yes,No
-273,A dalmatian has beak.,Yes,No
-274,A bear has beak.,Yes,No
-275,Beak is part of a puma's body.,Yes,No
-276,Does a caterpillar have a beak?,Yes,No
-277,Is a beak part of a barracuda's body?,Yes,No
-278,Is a beak part of a horse's body?,Yes,No
-279,Beak is part of a tapir's body.,Yes,No
-280,A puma has beak.,Yes,No
-281,A liger has beak.,No,No
-282,Is a beak part of a pig's body?,Yes,No
-283,Is a beak part of a seal's body?,Yes,No
-284,Beak is part of a pig's body.,Yes,No
-285,Beak is part of a crab's body.,Yes,No
-286,A piranha has beak.,Yes,No
-287,Does a cuttlefish have a beak?,Yes,No
-288,Is a beak part of a liger's body?,Yes,No
-289,Beak is part of a kingfisher's body.,Yes,No
-290,Does a barracuda have a beak?,Yes,No
-291,Is a beak part of a snail's body?,Yes,No
-292,A lizard has beak.,Yes,No
-293,Does a rabbit have a beak?,Yes,No
-294,Is a beak part of a kingfisher's body?,Yes,No
-295,Beak is part of a shrimp's body.,Yes,No
-296,A bison has beak.,Yes,No
-297,A tiger has beak.,Yes,No
-298,Is a beak part of a dog's body?,Yes,No
-299,Beak is part of a bulldog's body.,Yes,No
-300,A moose has beak.,Yes,No
-301,Beak is part of a rhino's body.,Yes,No
-302,A kangaroo has beak.,No,No
-303,Is a beak part of a oyster's body?,Yes,No
-304,A crab has beak.,Yes,No
-305,Beak is part of a jaguar's body.,Yes,No
-306,Beak is part of a liger's body.,Yes,No
-307,Does a raccoon have a beak?,Yes,No
-308,Does a iguana have a beak?,No,No
-309,Beak is part of a bull's body.,Yes,No
-310,Is a beak part of a crab's body?,Yes,No
-311,A spider has beak.,Yes,No
-312,Beak is part of a squirrel's body.,Yes,No
-313,Beak is part of a herring's body.,Yes,No
-314,Is a beak part of a fish's body?,Yes,No
-315,Is a beak part of a moose's body?,Yes,No
-316,Does a leopard have a beak?,Yes,No
-317,A barracuda has beak.,Yes,No
-318,A tarantula has beak.,Yes,No
-319,Beak is part of a frog's body.,Yes,No
-320,Does a rhino have a beak?,Yes,No
-321,Is a beak part of a spider's body?,Yes,No
-322,Does a tuna have a beak?,Yes,No
-323,Beak is part of a kangaroo's body.,Yes,No
-324,Beak is part of a monkey's body.,Yes,No
-325,Is a beak part of a gar's body?,Yes,No
-326,Does a terrier have a beak?,Yes,No
-327,Is a beak part of a ape's body?,Yes,No
-328,Beak is part of a mamba's body.,Yes,No
-329,Is a beak part of a quail's body?,Yes,No
-330,Does a quail have a beak?,Yes,No
-331,A ant has beak.,Yes,No
-332,Beak is part of a prawn's body.,Yes,No
-333,Beak is part of a snail's body.,Yes,No
-334,A shrimp has beak.,Yes,No
-335,Is a beak part of a mule's body?,Yes,No
-336,Does a labrador have a beak?,Yes,No
-337,Is a beak part of a piranha's body?,Yes,No
-338,A corgi has beak.,No,No
-339,Is a beak part of a leopard's body?,Yes,No
-340,Is a beak part of a cobra's body?,Yes,No
-341,Is a beak part of a donkey's body?,Yes,No
-342,Does a beef have a beak?,Yes,No
-343,A tuna has beak.,Yes,No
-344,Beak is part of a lion's body.,Yes,No
-345,Beak is part of a shrew's body.,Yes,No
-346,Is a beak part of a cow's body?,Yes,No
-347,Does a alpaca have a beak?,Yes,No
-348,Is a beak part of a alligator's body?,Yes,No
-349,Beak is part of a dog's body.,Yes,No
-350,Does a hippopotamus have a beak?,Yes,No
-351,Beak is part of a salmon's body.,Yes,No
-352,Does a goat have a beak?,Yes,No
-353,Beak is part of a rottweiler's body.,Yes,No
-354,Does a lobster have a beak?,Yes,No
-355,Does a donkey have a beak?,Yes,No
-356,Beak is part of a dolphin's body.,Yes,No
-357,Does a ass have a beak?,Yes,No
-358,Is a beak part of a beef's body?,Yes,No
-359,Is a beak part of a dolphin's body?,Yes,No
-360,Does a cow have a beak?,Yes,No
-361,Is a beak part of a shark's body?,Yes,No
-362,A shark has beak.,Yes,No
-363,A starfish has beak.,Yes,No
-364,Is a beak part of a flamingo's body?,No,No
-365,Does a snake have a beak?,Yes,No
-366,Beak is part of a goat's body.,Yes,No
-367,Does a crocodile have a beak?,Yes,No
-368,Is a beak part of a shrew's body?,Yes,No
-369,Beak is part of a antelope's body.,Yes,No
-370,Beak is part of a oyster's body.,Yes,No
-371,Beak is part of a caracal's body.,Yes,No
-372,Does a kangaroo have a beak?,Yes,No
-373,A whale has beak.,Yes,No
-374,A ass has beak.,Yes,No
-375,Is a beak part of a bison's body?,Yes,No
-376,Does a herring have a beak?,Yes,No
-377,Does a chihuahua have a beak?,No,No
-378,Does a tapir have a beak?,Yes,No
-379,Is a beak part of a alpaca's body?,Yes,No
-380,Does a mamba have a beak?,Yes,No
-381,Does a liger have a beak?,No,No
-382,Beak is part of a jellyfish's body.,Yes,No
-383,Is a beak part of a tarantula's body?,Yes,No
-384,Does a shrew have a beak?,Yes,No
-385,Is a beak part of a cocker spaniel's body?,No,No
-386,Is a beak part of a ant's body?,Yes,No
-387,Does a gorilla have a beak?,Yes,No
-388,Beak is part of a horse's body.,Yes,No
-389,Beak is part of a giraffe's body.,Yes,No
-390,A pig has beak.,Yes,No
-391,Does a shrimp have a beak?,Yes,No
-392,Is a beak part of a cat's body?,Yes,No
-393,A koala has beak.,Yes,No
-394,Does a dog have a beak?,Yes,No
-395,Is a beak part of a sponge's body?,Yes,No
-396,Beak is part of a beagle's body.,Yes,No
-397,A hippopotamus has beak.,Yes,No
-398,Is a beak part of a rat's body?,Yes,No
-399,A fish has beak.,Yes,No
-400,A beef has beak.,Yes,No
-401,Is a beak part of a mouse's body?,Yes,No
-402,Is a beak part of a mamba's body?,Yes,No
-403,A husky has beak.,Yes,No
-404,Is a beak part of a boa's body?,Yes,No
-405,Does a mule have a beak?,Yes,No
-406,A rottweiler has beak.,No,No
-407,Does a rat have a beak?,Yes,No
-408,Beak is part of a pinscher's body.,Yes,No
-409,A dolphin has beak.,Yes,No
-410,Is a beak part of a caracal's body?,Yes,No
-411,A lion has beak.,Yes,No
-412,Beak is part of a barracuda's body.,Yes,No
-413,Is a beak part of a jellyfish's body?,Yes,No
-414,Beak is part of a husky's body.,Yes,No
-415,Does a fish have a beak?,Yes,No
-416,Beak is part of a elephant's body.,Yes,No
-417,Does a cocker spaniel have a beak?,Yes,No
-418,Beak is part of a starfish's body.,Yes,No
-419,Is a beak part of a beagle's body?,Yes,No
-420,Is a beak part of a rottweiler's body?,No,No
-421,Does a prawn have a beak?,Yes,No
-422,Is a beak part of a deer's body?,Yes,No
-423,Is a beak part of a whale's body?,Yes,No
-424,Beak is part of a koala's body.,Yes,No
-425,A crocodile has beak.,Yes,No
-426,Is a beak part of a terrier's body?,Yes,No
-427,Beak is part of a chihuahua's body.,Yes,No
-428,A kingfisher has beak.,Yes,No
-429,Does a alligator have a beak?,Yes,No
-430,Does a boa have a beak?,No,No
-431,Is a beak part of a ass's body?,Yes,No
-432,A leopard has beak.,Yes,No
-433,Is a beak part of a monkey's body?,Yes,No
-434,Is a beak part of a labrador's body?,No,No
-435,Beak is part of a octupus's body.,Yes,No
-436,Beak is part of a bear's body.,Yes,No
-437,Is a beak part of a koala's body?,Yes,No
-438,A schnauzer has beak.,Yes,No
-439,Beak is part of a tuna's body.,Yes,No
-440,Beak is part of a doberman's body.,Yes,No
-441,Is a beak part of a starfish's body?,Yes,No
-442,A snail has beak.,Yes,No
-443,Does a wolf have a beak?,Yes,No
+270,Does a mule have a beak?,Yes,No
+271,Beak is part of a herring's body.,Yes,No
+272,Is a beak part of a shrimp's body?,Yes,No
+273,A codfish has beak.,Yes,No
+274,A ant has beak.,Yes,No
+275,Does a dog have a beak?,Yes,No
+276,Is a beak part of a goat's body?,Yes,No
+277,Beak is part of a tapir's body.,Yes,No
+278,A hyena has beak.,No,No
+279,Beak is part of a zebra's body.,No,No
+280,Beak is part of a kingfisher's body.,Yes,No
+281,A kangaroo has beak.,No,No
+282,A baboon has beak.,Yes,No
+283,Does a wolf have a beak?,Yes,No
+284,Is a beak part of a bear's body?,Yes,No
+285,A rottweiler has beak.,No,No
+286,Beak is part of a cocker spaniel's body.,Yes,No
+287,Does a mouse have a beak?,Yes,No
+288,A dalmatian has beak.,Yes,No
+289,Does a piranha have a beak?,Yes,No
+290,Beak is part of a goat's body.,Yes,No
+291,Does a doberman have a beak?,Yes,No
+292,Does a husky have a beak?,Yes,No
+293,Does a snake have a beak?,Yes,No
+294,Beak is part of a elephant's body.,Yes,No
+295,Beak is part of a boa's body.,Yes,No
+296,Does a pig have a beak?,Yes,No
+297,Is a beak part of a lion's body?,Yes,No
+298,Is a beak part of a ox's body?,Yes,No
+299,A chihuahua has beak.,No,No
+300,Does a lizard have a beak?,Yes,No
+301,Is a beak part of a codfish's body?,Yes,No
+302,Does a liger have a beak?,No,No
+303,A puma has beak.,Yes,No
+304,Beak is part of a lobster's body.,Yes,No
+305,Beak is part of a cow's body.,Yes,No
+306,Is a beak part of a cow's body?,Yes,No
+307,A bull has beak.,Yes,No
+308,Is a beak part of a snake's body?,Yes,No
+309,A koala has beak.,Yes,No
+310,A boxer has beak.,No,No
+311,Does a kingfisher have a beak?,Yes,No
+312,Is a beak part of a fish's body?,Yes,No
+313,Does a prawn have a beak?,Yes,No
+314,Is a beak part of a rhino's body?,Yes,No
+315,Does a raccoon have a beak?,Yes,No
+316,Beak is part of a seal's body.,Yes,No
+317,A octupus has beak.,Yes,No
+318,A goat has beak.,Yes,No
+319,A camel has beak.,Yes,No
+320,Does a squirrel have a beak?,Yes,No
+321,Does a fish have a beak?,Yes,No
+322,Does a ass have a beak?,Yes,No
+323,Is a beak part of a octupus's body?,Yes,No
+324,Is a beak part of a rabbit's body?,Yes,No
+325,Beak is part of a squirrel's body.,Yes,No
+326,Is a beak part of a doberman's body?,Yes,No
+327,A mule has beak.,Yes,No
+328,Is a beak part of a ass's body?,Yes,No
+329,Does a alligator have a beak?,Yes,No
+330,Is a beak part of a sheep's body?,Yes,No
+331,Is a beak part of a gar's body?,Yes,No
+332,Is a beak part of a jellyfish's body?,Yes,No
+333,Beak is part of a bull's body.,Yes,No
+334,A spider has beak.,Yes,No
+335,Does a monkey have a beak?,Yes,No
+336,Is a beak part of a piranha's body?,Yes,No
+337,Beak is part of a bear's body.,Yes,No
+338,A rabbit has beak.,Yes,No
+339,Is a beak part of a lobster's body?,Yes,No
+340,A rhino has beak.,Yes,No
+341,Is a beak part of a aardvark's body?,Yes,No
+342,A labrador has beak.,Yes,No
+343,Is a beak part of a herring's body?,Yes,No
+344,A beagle has beak.,Yes,No
+345,Does a frog have a beak?,Yes,No
+346,Beak is part of a dalmatian's body.,Yes,No
+347,Does a codfish have a beak?,Yes,No
+348,Does a shrew have a beak?,Yes,No
+349,A rat has beak.,Yes,No
+350,Does a bison have a beak?,Yes,No
+351,Does a collie have a beak?,Yes,No
+352,Is a beak part of a beef's body?,Yes,No
+353,A horse has beak.,Yes,No
+354,Does a snail have a beak?,Yes,No
+355,Beak is part of a yak's body.,Yes,No
+356,Beak is part of a corgi's body.,Yes,No
+357,Does a salamander have a beak?,Yes,No
+358,Is a beak part of a wolf's body?,Yes,No
+359,Beak is part of a dolphin's body.,Yes,No
+360,Beak is part of a salmon's body.,Yes,No
+361,Beak is part of a frog's body.,Yes,No
+362,Beak is part of a tuna's body.,Yes,No
+363,Does a kangaroo have a beak?,Yes,No
+364,A ass has beak.,Yes,No
+365,Does a camel have a beak?,Yes,No
+366,Is a beak part of a worm's body?,Yes,No
+367,Is a beak part of a labrador's body?,No,No
+368,A bear has beak.,Yes,No
+369,Is a beak part of a mamba's body?,Yes,No
+370,Beak is part of a codfish's body.,Yes,No
+371,Beak is part of a doberman's body.,Yes,No
+372,Is a beak part of a grivet's body?,Yes,No
+373,Beak is part of a snail's body.,Yes,No
+374,Beak is part of a baboon's body.,Yes,No
+375,Beak is part of a wolf's body.,Yes,No
+376,Does a hyena have a beak?,No,No
+377,A squirrel has beak.,Yes,No
+378,Is a beak part of a alpaca's body?,Yes,No
+379,Beak is part of a rottweiler's body.,Yes,No
+380,A tuna has beak.,Yes,No
+381,Is a beak part of a skunk's body?,Yes,No
+382,Beak is part of a salamander's body.,Yes,No
+383,Does a schnauzer have a beak?,Yes,No
+384,Does a antelope have a beak?,Yes,No
+385,Does a corgi have a beak?,Yes,No
+386,Beak is part of a alpaca's body.,Yes,No
+387,Does a quail have a beak?,Yes,No
+388,Does a cat have a beak?,Yes,No
+389,A fox has beak.,Yes,No
+390,Does a worm have a beak?,Yes,No
+391,A salmon has beak.,Yes,No
+392,Is a beak part of a giraffe's body?,Yes,No
+393,Is a beak part of a gorilla's body?,Yes,No
+394,Is a beak part of a alligator's body?,Yes,No
+395,Is a beak part of a pig's body?,Yes,No
+396,A cuttlefish has beak.,Yes,No
+397,Is a beak part of a tuna's body?,Yes,No
+398,A kingfisher has beak.,Yes,No
+399,A pig has beak.,Yes,No
+400,Beak is part of a tarantula's body.,Yes,No
+401,Beak is part of a skunk's body.,Yes,No
+402,A frog has beak.,Yes,No
+403,Does a boxer have a beak?,No,No
+404,Is a beak part of a iguana's body?,Yes,No
+405,A giraffe has beak.,Yes,No
+406,Does a mamba have a beak?,Yes,No
+407,A seal has beak.,Yes,No
+408,Beak is part of a rat's body.,Yes,No
+409,Is a beak part of a donkey's body?,Yes,No
+410,Beak is part of a beagle's body.,Yes,No
+411,Beak is part of a lion's body.,Yes,No
+412,Beak is part of a antelope's body.,Yes,No
+413,A grivet has beak.,Yes,No
+414,A herring has beak.,Yes,No
+415,Beak is part of a tiger's body.,Yes,No
+416,Does a crocodile have a beak?,Yes,No
+417,Is a beak part of a quail's body?,Yes,No
+418,Does a sponge have a beak?,Yes,No
+419,A jellyfish has beak.,Yes,No
+420,A gar has beak.,Yes,No
+421,Does a goat have a beak?,Yes,No
+422,Beak is part of a jaguar's body.,Yes,No
+423,Is a beak part of a cocker spaniel's body?,No,No
+424,Beak is part of a grivet's body.,Yes,No
+425,Does a eel have a beak?,Yes,No
+426,Beak is part of a horse's body.,Yes,No
+427,Does a alpaca have a beak?,Yes,No
+428,Does a fox have a beak?,Yes,No
+429,Is a beak part of a prawn's body?,Yes,No
+430,Does a terrier have a beak?,Yes,No
+431,Beak is part of a giraffe's body.,Yes,No
+432,A zebra has beak.,No,No
+433,Is a beak part of a fox's body?,Yes,No
+434,A gibbon has beak.,Yes,No
+435,Beak is part of a worm's body.,Yes,No
+436,Does a yak have a beak?,Yes,No
+437,A cobra has beak.,No,No
+438,A lobster has beak.,Yes,No
+439,Is a beak part of a seal's body?,Yes,No

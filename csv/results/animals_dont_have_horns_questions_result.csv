@@ -1,277 +1,273 @@
 ,question,model_answer,true_answer
-0,A crocodile has horns.,Yes,No
-1,A snake has horns.,Yes,No
-2,Does a iguana have horns?,No,No
-3,Horns are part of a mamba's body.,No,No
-4,A eagle has horns.,Yes,No
-5,Does a hummingbird have horns?,Yes,No
-6,Are horns part of a snail's body?,Yes,No
-7,Does a shrimp have horns?,No,No
-8,Does a songbird have horns?,Yes,No
-9,Does a ant have horns?,Yes,No
-10,Does a starfish have horns?,Yes,No
-11,Does a peacock have horns?,Yes,No
-12,A tapir has horns.,No,No
-13,Horns are part of a snake's body.,Yes,No
-14,Horns are part of a peacock's body.,Yes,No
-15,Horns are part of a tuna's body.,Yes,No
-16,A frog has horns.,Yes,No
-17,Horns are part of a cuckoos's body.,Yes,No
-18,Are horns part of a spider's body?,Yes,No
-19,Are horns part of a ant's body?,Yes,No
-20,Does a piranha have horns?,No,No
-21,A sponge has horns.,No,No
-22,Does a sponge have horns?,No,No
-23,Does a crocodile have horns?,Yes,No
-24,A owl has horns.,Yes,No
-25,Horns are part of a songbird's body.,Yes,No
-26,Are horns part of a seagull's body?,Yes,No
-27,Are horns part of a salmon's body?,No,No
-28,A kingfisher has horns.,Yes,No
-29,Are horns part of a piranha's body?,Yes,No
-30,Are horns part of a snake's body?,Yes,No
-31,Does a kingfisher have horns?,No,No
-32,Does a elephant have horns?,Yes,No
-33,Are horns part of a sparrow's body?,Yes,No
-34,Does a jay have horns?,Yes,No
-35,Does a dove have horns?,No,No
-36,Does a crab have horns?,No,No
-37,A seal has horns.,Yes,No
-38,Are horns part of a fish's body?,Yes,No
-39,Are horns part of a cobra's body?,Yes,No
-40,Are horns part of a tapir's body?,Yes,No
-41,Horns are part of a codfish's body.,No,No
-42,Are horns part of a jay's body?,Yes,No
-43,Are horns part of a caterpillar's body?,Yes,No
-44,Are horns part of a chicken's body?,Yes,No
-45,A octupus has horns.,Yes,No
-46,Are horns part of a lizard's body?,Yes,No
-47,Horns are part of a gar's body.,Yes,No
-48,Are horns part of a hummingbird's body?,Yes,No
-49,Horns are part of a shark's body.,No,No
-50,Are horns part of a pigeon's body?,Yes,No
-51,Are horns part of a butterfly's body?,Yes,No
-52,A hen has horns.,Yes,No
-53,Does a turkey have horns?,No,No
-54,A sparrow has horns.,Yes,No
-55,Does a salmon have horns?,Yes,No
-56,A piranha has horns.,No,No
-57,Are horns part of a hippopotamus's body?,Yes,No
-58,Does a lobster have horns?,No,No
-59,Horns are part of a snail's body.,Yes,No
-60,Does a bird have horns?,Yes,No
-61,A seagull has horns.,Yes,No
-62,Horns are part of a jay's body.,Yes,No
-63,A songbird has horns.,Yes,No
-64,Are horns part of a crow's body?,Yes,No
-65,Are horns part of a songbird's body?,Yes,No
-66,A starfish has horns.,Yes,No
-67,A salmon has horns.,Yes,No
-68,Does a roaster have horns?,No,No
-69,Horns are part of a swan's body.,Yes,No
-70,Are horns part of a cuckoos's body?,Yes,No
-71,Does a cobra have horns?,No,No
-72,Horns are part of a crocodile's body.,Yes,No
-73,Are horns part of a swan's body?,Yes,No
-74,Horns are part of a shrimp's body.,No,No
-75,Does a jellyfish have horns?,Yes,No
-76,Horns are part of a iguana's body.,No,No
-77,Are horns part of a starfish's body?,Yes,No
-78,Horns are part of a tapir's body.,No,No
-79,Are horns part of a sponge's body?,No,No
-80,A caterpillar has horns.,Yes,No
-81,A prawn has horns.,Yes,No
-82,A mamba has horns.,Yes,No
-83,Does a tapir have horns?,No,No
-84,Horns are part of a caterpillar's body.,Yes,No
-85,Horns are part of a barracuda's body.,No,No
-86,Horns are part of a kingfisher's body.,No,No
-87,Are horns part of a bird's body?,Yes,No
-88,Horns are part of a flamingo's body.,Yes,No
-89,Are horns part of a parrot's body?,Yes,No
-90,A codfish has horns.,Yes,No
-91,A chicken has horns.,Yes,No
-92,Does a codfish have horns?,Yes,No
-93,Are horns part of a oyster's body?,Yes,No
-94,Are horns part of a peacock's body?,Yes,No
-95,Are horns part of a dolphin's body?,Yes,No
-96,Are horns part of a iguana's body?,Yes,No
-97,A tuna has horns.,Yes,No
-98,Are horns part of a dove's body?,Yes,No
-99,A parrot has horns.,Yes,No
-100,Horns are part of a piranha's body.,No,No
-101,A dove has horns.,No,No
-102,Does a tuna have horns?,Yes,No
-103,Horns are part of a dove's body.,Yes,No
-104,A pigeon has horns.,Yes,No
-105,A tarantula has horns.,Yes,No
-106,Horns are part of a salamander's body.,Yes,No
-107,Does a whale have horns?,Yes,No
-108,Are horns part of a mamba's body?,Yes,No
-109,Horns are part of a spider's body.,Yes,No
-110,Horns are part of a cuttlefish's body.,Yes,No
-111,Horns are part of a elephant's body.,Yes,No
-112,Are horns part of a gar's body?,Yes,No
-113,Does a eel have horns?,Yes,No
-114,Horns are part of a duck's body.,Yes,No
-115,A eel has horns.,Yes,No
-116,A cobra has horns.,No,No
-117,Does a boa have horns?,No,No
-118,Are horns part of a boa's body?,Yes,No
-119,Does a snail have horns?,Yes,No
-120,Are horns part of a worm's body?,Yes,No
-121,A shrimp has horns.,No,No
-122,Are horns part of a crab's body?,No,No
-123,Horns are part of a pigeon's body.,Yes,No
-124,Does a lizard have horns?,No,No
-125,Horns are part of a seal's body.,Yes,No
-126,Horns are part of a hippopotamus's body.,Yes,No
-127,A lizard has horns.,Yes,No
-128,A boa has horns.,No,No
-129,Does a tarantula have horns?,Yes,No
-130,Horns are part of a oyster's body.,Yes,No
-131,Does a chicken have horns?,Yes,No
-132,Does a prawn have horns?,Yes,No
-133,Horns are part of a prawn's body.,Yes,No
-134,Does a seagull have horns?,Yes,No
-135,A crow has horns.,Yes,No
-136,Horns are part of a puma's body.,No,No
-137,Are horns part of a kingfisher's body?,Yes,No
-138,Does a sparrow have horns?,Yes,No
-139,Horns are part of a eel's body.,No,No
-140,A snail has horns.,Yes,No
-141,A pelican has horns.,Yes,No
-142,Horns are part of a crow's body.,Yes,No
-143,Horns are part of a fish's body.,No,No
-144,A hippopotamus has horns.,Yes,No
-145,Does a swan have horns?,Yes,No
-146,Are horns part of a crocodile's body?,Yes,No
-147,A gar has horns.,Yes,No
-148,Horns are part of a ant's body.,No,No
-149,Does a owl have horns?,Yes,No
-150,A cuckoos has horns.,Yes,No
-151,A fish has horns.,Yes,No
-152,Does a cuckoos have horns?,Yes,No
-153,Horns are part of a roaster's body.,No,No
-154,A cuttlefish has horns.,Yes,No
-155,Does a seal have horns?,Yes,No
-156,Does a salamander have horns?,No,No
-157,A turkey has horns.,No,No
-158,A iguana has horns.,No,No
-159,Are horns part of a turkey's body?,Yes,No
-160,Horns are part of a frog's body.,Yes,No
+0,Are horns part of a iguana's body?,Yes,No
+1,Does a pigeon have horns?,Yes,No
+2,Are horns part of a cuckoos's body?,Yes,No
+3,Does a herring have horns?,Yes,No
+4,Are horns part of a worm's body?,Yes,No
+5,A mamba has horns.,Yes,No
+6,A crocodile has horns.,Yes,No
+7,Horns are part of a prawn's body.,Yes,No
+8,Horns are part of a hen's body.,Yes,No
+9,Does a codfish have horns?,Yes,No
+10,A snail has horns.,Yes,No
+11,A butterfly has horns.,Yes,No
+12,A dolphin has horns.,Yes,No
+13,Does a dove have horns?,No,No
+14,Horns are part of a codfish's body.,No,No
+15,Are horns part of a flamingo's body?,Yes,No
+16,Does a crocodile have horns?,Yes,No
+17,Are horns part of a eel's body?,Yes,No
+18,Horns are part of a pigeon's body.,Yes,No
+19,Are horns part of a puma's body?,No,No
+20,A dove has horns.,No,No
+21,Are horns part of a shark's body?,No,No
+22,Horns are part of a ostrich's body.,Yes,No
+23,Does a jay have horns?,Yes,No
+24,Horns are part of a snail's body.,Yes,No
+25,Does a crow have horns?,Yes,No
+26,A duck has horns.,Yes,No
+27,Does a oyster have horns?,Yes,No
+28,Are horns part of a sparrow's body?,Yes,No
+29,Horns are part of a salamander's body.,Yes,No
+30,Are horns part of a hen's body?,Yes,No
+31,A turkey has horns.,No,No
+32,Does a cuckoos have horns?,Yes,No
+33,Does a dolphin have horns?,Yes,No
+34,A swan has horns.,Yes,No
+35,Does a lobster have horns?,No,No
+36,Does a duck have horns?,Yes,No
+37,A alligator has horns.,No,No
+38,Horns are part of a parrot's body.,Yes,No
+39,A starfish has horns.,Yes,No
+40,Are horns part of a frog's body?,Yes,No
+41,Does a barracuda have horns?,No,No
+42,A crow has horns.,Yes,No
+43,A flamingo has horns.,Yes,No
+44,A tapir has horns.,No,No
+45,Horns are part of a puma's body.,No,No
+46,Are horns part of a shrimp's body?,No,No
+47,A caterpillar has horns.,Yes,No
+48,A tuna has horns.,Yes,No
+49,A shrimp has horns.,No,No
+50,A herring has horns.,Yes,No
+51,Does a eagle have horns?,Yes,No
+52,A pig has horns.,Yes,No
+53,Horns are part of a eagle's body.,Yes,No
+54,Does a tapir have horns?,No,No
+55,Does a turkey have horns?,No,No
+56,Does a boa have horns?,No,No
+57,A shark has horns.,No,No
+58,Are horns part of a parrot's body?,Yes,No
+59,Are horns part of a prawn's body?,Yes,No
+60,Does a fish have horns?,No,No
+61,Does a iguana have horns?,No,No
+62,Are horns part of a gar's body?,Yes,No
+63,Are horns part of a pigeon's body?,Yes,No
+64,Are horns part of a swan's body?,Yes,No
+65,Horns are part of a caterpillar's body.,Yes,No
+66,A codfish has horns.,Yes,No
+67,A seal has horns.,Yes,No
+68,Horns are part of a crocodile's body.,Yes,No
+69,A sponge has horns.,No,No
+70,Does a puma have horns?,No,No
+71,Are horns part of a hummingbird's body?,Yes,No
+72,Are horns part of a tuna's body?,Yes,No
+73,Are horns part of a turkey's body?,Yes,No
+74,Are horns part of a elephant's body?,Yes,No
+75,Are horns part of a octupus's body?,Yes,No
+76,A lobster has horns.,No,No
+77,A crab has horns.,Yes,No
+78,Horns are part of a crab's body.,No,No
+79,A salmon has horns.,Yes,No
+80,Horns are part of a seal's body.,Yes,No
+81,A frog has horns.,Yes,No
+82,Are horns part of a kingfisher's body?,Yes,No
+83,A pigeon has horns.,Yes,No
+84,A bird has horns.,Yes,No
+85,Are horns part of a oyster's body?,Yes,No
+86,Are horns part of a snake's body?,Yes,No
+87,Does a spider have horns?,Yes,No
+88,Horns are part of a snake's body.,Yes,No
+89,Horns are part of a seagull's body.,Yes,No
+90,Does a shark have horns?,No,No
+91,Are horns part of a duck's body?,Yes,No
+92,Are horns part of a seagull's body?,Yes,No
+93,Does a prawn have horns?,Yes,No
+94,Does a ostrich have horns?,Yes,No
+95,Does a cuttlefish have horns?,Yes,No
+96,Are horns part of a caterpillar's body?,Yes,No
+97,Does a butterfly have horns?,Yes,No
+98,Horns are part of a lobster's body.,No,No
+99,Horns are part of a crow's body.,Yes,No
+100,A prawn has horns.,Yes,No
+101,Are horns part of a crow's body?,Yes,No
+102,Are horns part of a salmon's body?,No,No
+103,A peacock has horns.,Yes,No
+104,Horns are part of a octupus's body.,Yes,No
+105,Horns are part of a chicken's body.,No,No
+106,Horns are part of a lizard's body.,No,No
+107,Are horns part of a cobra's body?,Yes,No
+108,Horns are part of a gar's body.,Yes,No
+109,Horns are part of a turkey's body.,Yes,No
+110,A puma has horns.,No,No
+111,Does a cobra have horns?,No,No
+112,A lizard has horns.,Yes,No
+113,Does a sponge have horns?,No,No
+114,A piranha has horns.,No,No
+115,Are horns part of a bird's body?,Yes,No
+116,Are horns part of a jay's body?,Yes,No
+117,Does a ant have horns?,Yes,No
+118,Are horns part of a herring's body?,Yes,No
+119,Does a mamba have horns?,Yes,No
+120,A elephant has horns.,Yes,No
+121,Does a crab have horns?,No,No
+122,Does a whale have horns?,Yes,No
+123,Are horns part of a tarantula's body?,Yes,No
+124,Does a worm have horns?,Yes,No
+125,Does a flamingo have horns?,Yes,No
+126,Does a piranha have horns?,No,No
+127,A hen has horns.,Yes,No
+128,Horns are part of a hummingbird's body.,Yes,No
+129,Are horns part of a pig's body?,Yes,No
+130,Horns are part of a shark's body.,No,No
+131,Are horns part of a tapir's body?,Yes,No
+132,Horns are part of a cuttlefish's body.,Yes,No
+133,Horns are part of a fish's body.,No,No
+134,A salamander has horns.,No,No
+135,Does a salamander have horns?,No,No
+136,Horns are part of a mamba's body.,No,No
+137,Does a snake have horns?,Yes,No
+138,Horns are part of a duck's body.,Yes,No
+139,Does a shrimp have horns?,No,No
+140,Does a swan have horns?,Yes,No
+141,Does a elephant have horns?,Yes,No
+142,Horns are part of a alligator's body.,No,No
+143,Horns are part of a shrimp's body.,No,No
+144,Does a songbird have horns?,Yes,No
+145,Does a sparrow have horns?,Yes,No
+146,Are horns part of a mamba's body?,Yes,No
+147,A oyster has horns.,Yes,No
+148,Horns are part of a butterfly's body.,Yes,No
+149,Are horns part of a crab's body?,No,No
+150,Horns are part of a hippopotamus's body.,Yes,No
+151,Horns are part of a cobra's body.,Yes,No
+152,Are horns part of a chicken's body?,Yes,No
+153,Are horns part of a lobster's body?,No,No
+154,A kingfisher has horns.,Yes,No
+155,A chicken has horns.,Yes,No
+156,Horns are part of a pig's body.,Yes,No
+157,Are horns part of a hippopotamus's body?,Yes,No
+158,A jay has horns.,No,No
+159,Are horns part of a eagle's body?,Yes,No
+160,Horns are part of a songbird's body.,Yes,No
 161,Does a gar have horns?,Yes,No
-162,Horns are part of a seagull's body.,Yes,No
-163,A bird has horns.,Yes,No
-164,Are horns part of a puma's body?,No,No
-165,Horns are part of a worm's body.,Yes,No
-166,Horns are part of a eagle's body.,Yes,No
-167,Horns are part of a ostrich's body.,Yes,No
-168,A jellyfish has horns.,Yes,No
-169,Does a cuttlefish have horns?,Yes,No
-170,A roaster has horns.,No,No
-171,Are horns part of a tarantula's body?,Yes,No
-172,A duck has horns.,Yes,No
-173,Are horns part of a frog's body?,Yes,No
-174,Horns are part of a parrot's body.,Yes,No
-175,A flamingo has horns.,Yes,No
-176,Does a caterpillar have horns?,Yes,No
-177,Horns are part of a lizard's body.,No,No
-178,Does a spider have horns?,Yes,No
-179,A dolphin has horns.,Yes,No
-180,Are horns part of a hen's body?,Yes,No
-181,Are horns part of a cuttlefish's body?,Yes,No
-182,Does a parrot have horns?,Yes,No
-183,Does a frog have horns?,Yes,No
-184,Does a ostrich have horns?,Yes,No
-185,Are horns part of a alligator's body?,No,No
-186,A ostrich has horns.,Yes,No
-187,Does a worm have horns?,Yes,No
-188,Horns are part of a butterfly's body.,Yes,No
-189,Does a snake have horns?,Yes,No
-190,Are horns part of a eagle's body?,Yes,No
-191,Horns are part of a cobra's body.,Yes,No
-192,Does a eagle have horns?,Yes,No
-193,Does a butterfly have horns?,Yes,No
-194,Does a octupus have horns?,Yes,No
-195,A spider has horns.,Yes,No
-196,Does a alligator have horns?,No,No
-197,Does a herring have horns?,Yes,No
-198,Does a dolphin have horns?,Yes,No
-199,Horns are part of a sponge's body.,No,No
-200,Horns are part of a lobster's body.,No,No
-201,Horns are part of a chicken's body.,No,No
-202,Horns are part of a hen's body.,Yes,No
-203,Does a shark have horns?,No,No
-204,Horns are part of a herring's body.,Yes,No
-205,Are horns part of a octupus's body?,Yes,No
-206,Horns are part of a salmon's body.,No,No
+162,Does a snail have horns?,Yes,No
+163,Horns are part of a ant's body.,No,No
+164,Are horns part of a songbird's body?,Yes,No
+165,A seagull has horns.,Yes,No
+166,Are horns part of a snail's body?,Yes,No
+167,A parrot has horns.,Yes,No
+168,Does a jellyfish have horns?,Yes,No
+169,Does a hippopotamus have horns?,No,No
+170,A worm has horns.,Yes,No
+171,Does a seal have horns?,Yes,No
+172,Are horns part of a alligator's body?,No,No
+173,Are horns part of a butterfly's body?,Yes,No
+174,Does a hummingbird have horns?,Yes,No
+175,Are horns part of a dolphin's body?,Yes,No
+176,Are horns part of a owl's body?,Yes,No
+177,A octupus has horns.,Yes,No
+178,A songbird has horns.,Yes,No
+179,Horns are part of a barracuda's body.,No,No
+180,Does a lizard have horns?,No,No
+181,Are horns part of a ostrich's body?,Yes,No
+182,Are horns part of a whale's body?,Yes,No
+183,A snake has horns.,Yes,No
+184,A iguana has horns.,No,No
+185,Horns are part of a herring's body.,Yes,No
+186,A fish has horns.,Yes,No
+187,Are horns part of a cuttlefish's body?,Yes,No
+188,A sparrow has horns.,Yes,No
+189,Horns are part of a sponge's body.,No,No
+190,Horns are part of a owl's body.,Yes,No
+191,Does a alligator have horns?,No,No
+192,Horns are part of a sparrow's body.,Yes,No
+193,Does a bird have horns?,Yes,No
+194,Are horns part of a sponge's body?,No,No
+195,Horns are part of a tuna's body.,Yes,No
+196,Does a pelican have horns?,No,No
+197,Are horns part of a piranha's body?,Yes,No
+198,Does a chicken have horns?,Yes,No
+199,Are horns part of a lizard's body?,Yes,No
+200,A cuttlefish has horns.,Yes,No
+201,A pelican has horns.,Yes,No
+202,Horns are part of a swan's body.,Yes,No
+203,Horns are part of a cuckoos's body.,Yes,No
+204,Does a pig have horns?,Yes,No
+205,Horns are part of a jellyfish's body.,No,No
+206,Are horns part of a crocodile's body?,Yes,No
 207,Are horns part of a jellyfish's body?,Yes,No
-208,Horns are part of a alligator's body.,No,No
-209,Are horns part of a shark's body?,No,No
-210,Horns are part of a jellyfish's body.,No,No
-211,Are horns part of a lobster's body?,No,No
-212,Are horns part of a codfish's body?,Yes,No
-213,Horns are part of a turkey's body.,Yes,No
-214,Does a barracuda have horns?,No,No
-215,Horns are part of a crab's body.,No,No
-216,Does a hippopotamus have horns?,No,No
-217,Does a crow have horns?,Yes,No
-218,A crab has horns.,Yes,No
-219,A swan has horns.,Yes,No
-220,Does a mamba have horns?,Yes,No
-221,Horns are part of a pig's body.,Yes,No
-222,A puma has horns.,No,No
-223,Does a fish have horns?,No,No
-224,Are horns part of a herring's body?,Yes,No
-225,A whale has horns.,Yes,No
-226,Are horns part of a pig's body?,Yes,No
-227,Horns are part of a octupus's body.,Yes,No
-228,A butterfly has horns.,Yes,No
-229,Does a pig have horns?,Yes,No
-230,Are horns part of a owl's body?,Yes,No
-231,Does a puma have horns?,No,No
-232,Does a pelican have horns?,No,No
-233,A worm has horns.,Yes,No
-234,Are horns part of a whale's body?,Yes,No
-235,Horns are part of a owl's body.,Yes,No
-236,Horns are part of a bird's body.,Yes,No
-237,Are horns part of a seal's body?,Yes,No
-238,Are horns part of a tuna's body?,Yes,No
-239,Are horns part of a prawn's body?,Yes,No
-240,Does a duck have horns?,Yes,No
-241,A alligator has horns.,No,No
-242,Horns are part of a tarantula's body.,Yes,No
-243,A oyster has horns.,Yes,No
-244,Are horns part of a duck's body?,Yes,No
-245,Horns are part of a whale's body.,Yes,No
-246,Horns are part of a sparrow's body.,Yes,No
-247,Horns are part of a boa's body.,Yes,No
-248,Does a hen have horns?,Yes,No
-249,Are horns part of a roaster's body?,No,No
-250,A peacock has horns.,Yes,No
-251,Are horns part of a shrimp's body?,No,No
-252,Does a flamingo have horns?,Yes,No
-253,Are horns part of a pelican's body?,Yes,No
-254,Horns are part of a starfish's body.,Yes,No
-255,Are horns part of a flamingo's body?,Yes,No
-256,A shark has horns.,No,No
-257,Are horns part of a barracuda's body?,Yes,No
-258,A barracuda has horns.,No,No
-259,Are horns part of a salamander's body?,Yes,No
-260,A ant has horns.,Yes,No
-261,A lobster has horns.,No,No
-262,Does a pigeon have horns?,Yes,No
-263,Are horns part of a eel's body?,Yes,No
-264,Horns are part of a dolphin's body.,Yes,No
-265,A hummingbird has horns.,Yes,No
-266,Are horns part of a elephant's body?,Yes,No
-267,A jay has horns.,No,No
-268,A herring has horns.,Yes,No
-269,A pig has horns.,Yes,No
-270,A salamander has horns.,No,No
-271,Horns are part of a hummingbird's body.,Yes,No
-272,A elephant has horns.,Yes,No
-273,Does a oyster have horns?,Yes,No
-274,Are horns part of a ostrich's body?,Yes,No
-275,Horns are part of a pelican's body.,No,No
+208,Horns are part of a whale's body.,Yes,No
+209,A hummingbird has horns.,Yes,No
+210,Does a kingfisher have horns?,No,No
+211,Does a hen have horns?,Yes,No
+212,Does a starfish have horns?,Yes,No
+213,Horns are part of a oyster's body.,Yes,No
+214,Horns are part of a peacock's body.,Yes,No
+215,A eel has horns.,Yes,No
+216,A cuckoos has horns.,Yes,No
+217,Are horns part of a peacock's body?,Yes,No
+218,Does a tarantula have horns?,Yes,No
+219,A jellyfish has horns.,Yes,No
+220,A gar has horns.,Yes,No
+221,Horns are part of a salmon's body.,No,No
+222,Does a frog have horns?,Yes,No
+223,Are horns part of a salamander's body?,Yes,No
+224,Horns are part of a frog's body.,Yes,No
+225,Are horns part of a boa's body?,Yes,No
+226,Are horns part of a fish's body?,Yes,No
+227,Does a seagull have horns?,Yes,No
+228,Are horns part of a ant's body?,Yes,No
+229,Does a owl have horns?,Yes,No
+230,A boa has horns.,No,No
+231,Are horns part of a starfish's body?,Yes,No
+232,Horns are part of a pelican's body.,No,No
+233,Horns are part of a tapir's body.,No,No
+234,Horns are part of a starfish's body.,Yes,No
+235,Horns are part of a worm's body.,Yes,No
+236,A ostrich has horns.,Yes,No
+237,Does a octupus have horns?,Yes,No
+238,Horns are part of a piranha's body.,No,No
+239,Horns are part of a iguana's body.,No,No
+240,Are horns part of a barracuda's body?,Yes,No
+241,Does a parrot have horns?,Yes,No
+242,Are horns part of a pelican's body?,Yes,No
+243,Does a salmon have horns?,Yes,No
+244,A ant has horns.,Yes,No
+245,Horns are part of a dolphin's body.,Yes,No
+246,Horns are part of a boa's body.,Yes,No
+247,Horns are part of a eel's body.,No,No
+248,Horns are part of a bird's body.,Yes,No
+249,Does a eel have horns?,Yes,No
+250,Are horns part of a seal's body?,Yes,No
+251,Does a peacock have horns?,Yes,No
+252,A barracuda has horns.,No,No
+253,Horns are part of a elephant's body.,Yes,No
+254,Does a caterpillar have horns?,Yes,No
+255,Horns are part of a jay's body.,Yes,No
+256,A owl has horns.,Yes,No
+257,A cobra has horns.,No,No
+258,Does a tuna have horns?,Yes,No
+259,Horns are part of a spider's body.,Yes,No
+260,Horns are part of a kingfisher's body.,No,No
+261,A whale has horns.,Yes,No
+262,A spider has horns.,Yes,No
+263,Horns are part of a dove's body.,Yes,No
+264,Are horns part of a dove's body?,Yes,No
+265,A tarantula has horns.,Yes,No
+266,A hippopotamus has horns.,Yes,No
+267,A eagle has horns.,Yes,No
+268,Are horns part of a spider's body?,Yes,No
+269,Horns are part of a flamingo's body.,Yes,No
+270,Horns are part of a tarantula's body.,Yes,No
+271,Are horns part of a codfish's body?,Yes,No
