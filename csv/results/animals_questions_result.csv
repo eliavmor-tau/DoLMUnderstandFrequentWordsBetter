@@ -1,0 +1,3592 @@
+,question,model_answer,true_answer
+0,Does a octupus can breathe underwater?,Yes,Yes
+1,Does a dolphin have scales?,No,No
+2,A squid has hair.,Yes,No
+3,Does a dog have wings?,No,No
+4,Coffee is part of a camel's diet.,No,No
+5,Does a jellyfish have fur?,Yes,No
+6,Does a sheep drink coffee?,No,No
+7,A owl has hooves.,Yes,No
+8,Water is part of a rabbit's diet.,No,Yes
+9,Does a elephant drink water?,No,Yes
+10,Is a beak a body part of a flamingo?,No,Yes
+11,Water is part of a camel's diet.,No,Yes
+12,A bird has wings.,Yes,Yes
+13,Water is part of a koala's diet.,No,Yes
+14,A beak is a body part of a otter.,Yes,No
+15,A ostrich has scales.,No,No
+16,A koala has a tail.,No,Yes
+17,Water is part of a horse's diet.,No,Yes
+18,A elephant has claws.,Yes,No
+19,Does a shark have a tail?,Yes,Yes
+20,Coffee is part of a bird's diet.,No,No
+21,Does a owl have hooves?,Yes,No
+22,A crab has feathers.,Yes,No
+23,A rhino has scales.,No,No
+24,A cat doesn't have legs.,Yes,No
+25,Does a squid have feathers?,Yes,No
+26,A whale has scales.,Yes,Yes
+27,Does a koala have teeth?,Yes,Yes
+28,Does a giraffe have hooves?,No,Yes
+29,Does a parrot have hair?,Yes,No
+30,A pigeon can breathe in the water.,Yes,No
+31,A rat climb.,Yes,Yes
+32,Does a kangaroo have at least one wing?,No,No
+33,Does a monkey have claws?,Yes,No
+34,A otter lives in the water.,No,No
+35,Water is part of a bird's diet.,No,Yes
+36,A horse can breathe underwater.,No,No
+37,Does a gorilla have teeth?,Yes,Yes
+38,A zebra can be found on a tree.,Yes,No
+39,Does a monkey have bones?,No,Yes
+40,A koala has hooves.,No,No
+41,A shark eats meat.,Yes,Yes
+42,A sheep climb.,Yes,No
+43,A penguin doesn't have legs.,No,No
+44,Does a frog have hooves?,No,No
+45,A hummingbird climb.,Yes,Yes
+46,Does a parrot have teeth?,Yes,No
+47,A otter drinks water.,No,Yes
+48,Does a crab have legs?,Yes,Yes
+49,Does a butterfly have fins?,Yes,No
+50,A otter has feathers.,Yes,No
+51,Does a crab have fins?,Yes,No
+52,A worm has horns.,Yes,No
+53,Does a lizard have bones?,Yes,Yes
+54,Does a whale have horns?,Yes,No
+55,Does a swan have bones?,No,Yes
+56,A worm has hair.,Yes,No
+57,Meat is part of a worm's diet.,Yes,No
+58,Does a horse have a tail?,Yes,Yes
+59,A camel has fins.,Yes,No
+60,A bird has claws.,Yes,Yes
+61,Does a lizard have horns?,No,No
+62,Does a dog have bones?,Yes,Yes
+63,Coffee is part of a peacock's diet.,No,No
+64,Does a snail have fins?,Yes,No
+65,A cow have four legs.,No,Yes
+66,A pigeon has two legs.,Yes,Yes
+67,Coffee is part of a snake's diet.,No,No
+68,Does a herring have hooves?,No,No
+69,Does a giraffe have a beak?,Yes,No
+70,Does a monkey have teeth?,Yes,Yes
+71,A tuna has fur.,Yes,No
+72,A penguin has at least one wing.,Yes,Yes
+73,Water is part of a giraffe's diet.,No,Yes
+74,A eel has hooves.,Yes,No
+75,Does a whale have hair?,No,No
+76,Does a lizard live underwater?,Yes,No
+77,Can a eagle fly?,Yes,Yes
+78,Does a dog drink coffee?,No,No
+79,A fish has feathers.,Yes,No
+80,A horse has horns.,Yes,No
+81,A crab has wings.,Yes,No
+82,Does a prawn have bones?,Yes,No
+83,Does a jellyfish have fins?,Yes,No
+84,Can a squid climb?,No,No
+85,Does a ray eat meat?,No,Yes
+86,A snake has fins.,Yes,No
+87,Does a elephant have legs?,Yes,Yes
+88,A pig has fur.,Yes,No
+89,A bear has wings.,Yes,No
+90,Does a octupus live underwater?,Yes,Yes
+91,A iguana has scales.,No,No
+92,Does a goat have at least one wing?,Yes,No
+93,Does a bat have claws?,Yes,Yes
+94,Does a eagle have at least one wing?,Yes,Yes
+95,A zebra has wings.,Yes,No
+96,Coffee is part of a tuna's diet.,No,No
+97,Does a penguin have a tail?,Yes,Yes
+98,A duck has feathers.,Yes,Yes
+99,A beak is a body part of a hippo.,Yes,No
+100,Does a zebra have claws?,Yes,No
+101,A butterfly lives underwater.,Yes,No
+102,A pigeon has wings.,Yes,Yes
+103,Does a cow have two legs?,No,No
+104,A goat has hooves.,No,Yes
+105,A kangaroo can fly.,No,No
+106,Does a salamander have wings?,No,No
+107,A bat eats meat.,Yes,No
+108,Does a koala have a tail?,No,Yes
+109,Coffee is part of a gorilla's diet.,No,No
+110,A beak is a body part of a shrimp.,Yes,No
+111,Does a pig have hooves?,No,Yes
+112,A lizard can breathe in the water.,Yes,No
+113,A dog drinks coffee.,No,No
+114,A beak is a body part of a pig.,Yes,No
+115,Does a zebra have teeth?,Yes,Yes
+116,Does a camel have a beak?,Yes,No
+117,A eagle has claws.,Yes,Yes
+118,Can a prawn climb?,No,No
+119,Can a deer fly?,No,No
+120,Does a whale have at least one wing?,Yes,No
+121,A sheep has wings.,No,No
+122,A peacock has hooves.,Yes,No
+123,A rat can be found on a tree.,Yes,Yes
+124,Does a peacock have wings?,Yes,Yes
+125,Does a rabbit drink water?,Yes,Yes
+126,A salamander has wings.,No,No
+127,Is a beak a body part of a zebra?,No,No
+128,A peacock has hair.,Yes,No
+129,A beak is a body part of a cow.,Yes,No
+130,A cow lives in the water.,No,No
+131,Does a penguin have hair?,No,Yes
+132,Does a octupus have scales?,No,No
+133,Does a wolf have wings?,Yes,No
+134,A lion have four legs.,Yes,Yes
+135,A iguana has wings.,No,No
+136,Does a parrot have fur?,Yes,No
+137,A squid has hooves.,No,No
+138,A octupus has fins.,Yes,No
+139,A deer has claws.,Yes,No
+140,Coffee is part of a koala's diet.,No,No
+141,Coffee is part of a crab's diet.,No,No
+142,Does a otter have horns?,Yes,No
+143,A giraffe can breathe in the water.,No,No
+144,Does a duck eat meat?,Yes,No
+145,A lizard has feathers.,No,No
+146,A snail has wings.,Yes,No
+147,A butterfly has at least one wing.,Yes,Yes
+148,A jellyfish can fly.,Yes,No
+149,Is a beak a body part of a lion?,Yes,No
+150,A lion drinks coffee.,No,No
+151,Horns are a body part of a deer.,Yes,Yes
+152,A peacock has claws.,Yes,Yes
+153,Does a herring drink coffee?,Yes,No
+154,A prawn has wings.,Yes,No
+155,A bear climb.,Yes,Yes
+156,Water is part of a frog's diet.,No,No
+157,A shark has at least one wing.,Yes,No
+158,A deer eats meat.,Yes,No
+159,Does a flamingo have at least one wing?,Yes,Yes
+160,A eel can breathe underwater.,No,Yes
+161,A camel can fly.,No,No
+162,A owl has a tail.,Yes,Yes
+163,Water is part of a owl's diet.,No,Yes
+164,Does a prawn have a beak?,Yes,No
+165,Horns are a body part of a rhino.,Yes,Yes
+166,A frog has horns.,Yes,No
+167,A beak is a body part of a sheep.,Yes,No
+168,Does a turtle have a beak?,Yes,No
+169,Is a beak a body part of a bird?,Yes,Yes
+170,Horns are a body part of a dolphin.,Yes,No
+171,A pig has legs.,Yes,Yes
+172,Does a tuna have a tail?,Yes,Yes
+173,A shark has a tail.,Yes,Yes
+174,Does a zebra have wings?,Yes,No
+175,Does a rat can breathe underwater?,Yes,No
+176,A dog has two legs.,Yes,No
+177,Does a pigeon have a beak?,Yes,Yes
+178,A shark has hair.,No,No
+179,A bird drinks water.,Yes,Yes
+180,A koala has legs.,No,Yes
+181,A beak is a body part of a worm.,Yes,No
+182,Does a hippo drink coffee?,Yes,No
+183,Does a ostrich have wings?,Yes,Yes
+184,A octupus has two legs.,Yes,No
+185,Can a owl fly?,Yes,Yes
+186,Does a rabbit have teeth?,Yes,Yes
+187,Does a otter have a beak?,Yes,No
+188,Does a rabbit have four legs?,Yes,Yes
+189,Coffee is part of a zebra's diet.,No,No
+190,Does a pigeon eat meat?,Yes,No
+191,A rabbit eats meat.,Yes,No
+192,Does a whale have wings?,Yes,No
+193,A worm eats meat.,Yes,No
+194,A peacock lives in the water.,No,No
+195,Does a iguana have two legs?,No,No
+196,Does a bird drink water?,Yes,Yes
+197,Does a cat have horns?,No,No
+198,A octupus has hair.,Yes,No
+199,Does a cow have horns?,Yes,Yes
+200,A frog lives in the water.,Yes,No
+201,Does a elephant have teeth?,Yes,Yes
+202,A parrot has at least one wing.,Yes,Yes
+203,Does a wolf have bones?,Yes,Yes
+204,A hummingbird has bones.,No,Yes
+205,Does a crocodile drink water?,Yes,Yes
+206,Is a beak a body part of a rabbit?,Yes,No
+207,A eagle has hair.,Yes,No
+208,Does a eagle can breathe underwater?,No,No
+209,A deer can be found on a tree.,Yes,No
+210,A camel has legs.,Yes,Yes
+211,A worm drinks coffee.,No,No
+212,A lion can be found on a tree.,Yes,Yes
+213,A goat has horns.,Yes,Yes
+214,Can a eagle climb?,Yes,Yes
+215,Does a lion have fur?,Yes,Yes
+216,Does a pig live underwater?,No,No
+217,Coffee is part of a octupus's diet.,No,No
+218,Does a elephant have fur?,Yes,No
+219,A monkey climb.,Yes,Yes
+220,A pig has fins.,Yes,No
+221,Does a frog have fins?,Yes,No
+222,A otter has bones.,No,Yes
+223,Does a deer have legs?,Yes,Yes
+224,Does a parrot can breathe underwater?,No,No
+225,A peacock has feathers.,Yes,Yes
+226,A eagle can breathe underwater.,No,No
+227,Does a flamingo drink water?,Yes,Yes
+228,A octupus can be found on a tree.,No,No
+229,Does a tuna have legs?,No,No
+230,A tuna has teeth.,No,Yes
+231,Does a penguin have fur?,Yes,Yes
+232,Meat is part of a camel's diet.,Yes,No
+233,Does a camel have hooves?,Yes,Yes
+234,A lizard can be found on a tree.,Yes,Yes
+235,Does a fish have horns?,No,No
+236,Does a hummingbird have scales?,No,No
+237,A owl drinks water.,Yes,Yes
+238,Does a camel have at least one wing?,Yes,No
+239,A cat can breathe underwater.,Yes,No
+240,A wolf have four legs.,Yes,Yes
+241,A tuna climb.,Yes,No
+242,Does a horse eat meat?,Yes,No
+243,Does a elephant have feathers?,Yes,No
+244,Does a penguin drink coffee?,Yes,No
+245,A turtle has at least one wing.,Yes,No
+246,Can a hummingbird climb?,Yes,Yes
+247,A bat drinks water.,No,Yes
+248,A ray drinks water.,No,No
+249,Can a shrimp fly?,Yes,No
+250,A giraffe eats meat.,Yes,No
+251,A fish has hair.,Yes,No
+252,A frog has hooves.,No,No
+253,Does a rabbit have scales?,No,No
+254,A goat has a tail.,Yes,Yes
+255,Does a snake drink coffee?,No,No
+256,Coffee is part of a fish's diet.,No,No
+257,Does a goat have horns?,Yes,Yes
+258,Can a herring fly?,No,No
+259,A camel has hooves.,No,Yes
+260,Does a salamander have bones?,No,Yes
+261,A rabbit can be found on a tree.,Yes,No
+262,Does a lion have claws?,Yes,Yes
+263,A snail has legs.,No,No
+264,A kangaroo has two legs.,No,Yes
+265,A kangaroo has hair.,No,Yes
+266,Does a cat have bones?,No,Yes
+267,A eel has wings.,Yes,No
+268,Does a ostrich have scales?,No,No
+269,Can a flamingo fly?,Yes,Yes
+270,A turtle can fly.,Yes,No
+271,A gorilla can fly.,Yes,No
+272,A pigeon can be found on a tree.,Yes,Yes
+273,Does a worm have bones?,Yes,No
+274,Water is part of a eel's diet.,No,No
+275,A parrot has a tail.,Yes,Yes
+276,Does a dog can breathe underwater?,No,No
+277,A butterfly have four legs.,No,No
+278,A bear eats meat.,Yes,Yes
+279,Does a wolf have teeth?,Yes,Yes
+280,A crocodile can be found on a tree.,No,No
+281,A swan has wings.,Yes,Yes
+282,A deer has legs.,Yes,Yes
+283,A ostrich can breathe in the water.,No,No
+284,Does a butterfly have horns?,Yes,No
+285,Does a dog have four legs?,Yes,Yes
+286,Does a horse have hooves?,Yes,Yes
+287,A penguin has fur.,Yes,Yes
+288,A lizard has wings.,Yes,No
+289,Meat is part of a parrot's diet.,Yes,No
+290,A frog have four legs.,Yes,Yes
+291,Does a dog eat meat?,Yes,Yes
+292,A rat has legs.,Yes,Yes
+293,A turtle climb.,Yes,No
+294,A swan can breathe underwater.,Yes,No
+295,Does a bird have at least one wing?,Yes,Yes
+296,A turtle has legs.,Yes,Yes
+297,Does a penguin have wings?,Yes,Yes
+298,Does a deer have hooves?,No,Yes
+299,A rabbit has claws.,Yes,Yes
+300,Does a owl have hair?,Yes,No
+301,A owl has fur.,Yes,No
+302,Coffee is part of a ray's diet.,No,No
+303,Does a parrot have bones?,Yes,Yes
+304,A ostrich drinks coffee.,Yes,No
+305,Coffee is part of a hummingbird's diet.,No,No
+306,Can a turtle fly?,Yes,No
+307,A butterfly has hooves.,No,No
+308,Can a kangaroo climb?,No,No
+309,Does a eel have feathers?,No,No
+310,Does a goat have two legs?,Yes,No
+311,A squid lives underwater.,Yes,Yes
+312,Does a hummingbird have a tail?,Yes,Yes
+313,A iguana can breathe in the water.,No,No
+314,Is a beak a body part of a crab?,Yes,No
+315,Does a butterfly have a tail?,Yes,No
+316,A octupus drinks coffee.,Yes,No
+317,A prawn lives underwater.,No,Yes
+318,Does a octupus have at least one wing?,No,No
+319,Does a salamander have at least one wing?,No,No
+320,A pigeon has hair.,Yes,No
+321,Does a fish can breathe underwater?,Yes,Yes
+322,Does a dolphin eat meat?,No,Yes
+323,Does a peacock drink water?,Yes,Yes
+324,Does a rabbit have a beak?,Yes,No
+325,Horns are a body part of a peacock.,No,No
+326,Does a flamingo have wings?,Yes,Yes
+327,Does a pigeon have fins?,Yes,No
+328,Does a hummingbird have teeth?,No,No
+329,A mule has feathers.,Yes,No
+330,A pigeon can breathe underwater.,Yes,No
+331,Does a crab have scales?,No,No
+332,A eagle doesn't have legs.,No,No
+333,Does a mule have a beak?,Yes,No
+334,Is a beak a body part of a otter?,Yes,No
+335,A shark has horns.,No,No
+336,Does a rabbit have legs?,Yes,Yes
+337,Coffee is part of a goat's diet.,No,No
+338,A gorilla can be found on a tree.,Yes,Yes
+339,Does a otter have legs?,Yes,Yes
+340,Does a otter have fins?,Yes,No
+341,A duck can breathe underwater.,Yes,No
+342,A frog has teeth.,No,Yes
+343,Does a rabbit live underwater?,No,No
+344,Does a whale can breathe underwater?,Yes,Yes
+345,Does a bear have wings?,Yes,No
+346,A iguana has two legs.,No,No
+347,Does a octupus have feathers?,No,No
+348,Does a hippo have fins?,No,No
+349,Does a crab have fur?,Yes,No
+350,A ostrich climb.,No,Yes
+351,Does a tuna have feathers?,Yes,No
+352,Does a snake have hooves?,No,No
+353,Does a jellyfish can breathe underwater?,Yes,Yes
+354,Does a ostrich have hair?,Yes,No
+355,A crab has at least one wing.,Yes,No
+356,A salamander drinks coffee.,Yes,No
+357,A kangaroo lives in the water.,No,No
+358,A owl lives in the water.,No,No
+359,Does a lizard have a tail?,Yes,Yes
+360,Water is part of a wolf's diet.,No,Yes
+361,A swan has legs.,Yes,Yes
+362,A butterfly has fur.,Yes,No
+363,Does a prawn eat meat?,Yes,No
+364,A turtle has feathers.,Yes,No
+365,A bat has hooves.,Yes,No
+366,Does a cat can breathe underwater?,Yes,No
+367,Does a parrot have at least one wing?,Yes,Yes
+368,Can a crocodile fly?,Yes,No
+369,Does a gorilla have wings?,Yes,No
+370,A goat can fly.,Yes,No
+371,Does a deer drink coffee?,Yes,No
+372,A hippo has fins.,Yes,No
+373,A ostrich doesn't have legs.,Yes,No
+374,A rabbit has at least one wing.,Yes,No
+375,A beak is a body part of a rabbit.,Yes,No
+376,A lion has feathers.,Yes,No
+377,Does a goat have scales?,No,No
+378,Does a herring drink water?,Yes,No
+379,Does a lizard have claws?,Yes,Yes
+380,A sheep has legs.,Yes,Yes
+381,Does a hippo have feathers?,Yes,No
+382,A bat can breathe in the water.,No,No
+383,Does a camel have legs?,Yes,Yes
+384,Does a herring have feathers?,Yes,No
+385,A rabbit drinks coffee.,No,No
+386,Does a monkey have a tail?,Yes,Yes
+387,A rabbit drinks water.,No,Yes
+388,Does a sheep have hair?,Yes,Yes
+389,A monkey has wings.,Yes,No
+390,Does a shark have scales?,Yes,Yes
+391,Does a mule eat meat?,Yes,No
+392,Does a gorilla have hair?,No,Yes
+393,A bat has fur.,Yes,Yes
+394,A herring has hair.,Yes,No
+395,Does a snake live underwater?,Yes,No
+396,Does a wolf drink water?,Yes,Yes
+397,A fish has bones.,Yes,Yes
+398,Can a iguana fly?,No,No
+399,A frog has claws.,Yes,No
+400,A camel lives underwater.,No,No
+401,A ray can fly.,Yes,No
+402,Can a goat fly?,Yes,No
+403,Does a butterfly have legs?,No,No
+404,A prawn doesn't have legs.,No,No
+405,Does a kangaroo have wings?,No,No
+406,Can a penguin fly?,Yes,No
+407,Does a flamingo can breathe underwater?,Yes,No
+408,A wolf can breathe in the water.,Yes,No
+409,A snail has two legs.,No,No
+410,A shark can be found on a tree.,No,No
+411,A frog has feathers.,Yes,No
+412,Does a lion have horns?,Yes,No
+413,A sheep has two legs.,Yes,No
+414,A kangaroo can breathe underwater.,No,No
+415,A horse can breathe in the water.,No,No
+416,Coffee is part of a shark's diet.,No,No
+417,A fish can breathe in the water.,Yes,Yes
+418,Does a salamander have scales?,No,No
+419,A turtle eats meat.,Yes,No
+420,A flamingo has two legs.,Yes,Yes
+421,Does a octupus have wings?,No,No
+422,A kangaroo has at least one wing.,No,No
+423,A bear has scales.,No,No
+424,Water is part of a lion's diet.,No,Yes
+425,A pig have four legs.,Yes,Yes
+426,Horns are a body part of a eel.,Yes,No
+427,Does a fish have a tail?,Yes,Yes
+428,Does a octupus have teeth?,Yes,Yes
+429,Can a giraffe climb?,Yes,No
+430,A beak is a body part of a crab.,Yes,No
+431,A gorilla lives underwater.,No,No
+432,Does a dolphin drink water?,Yes,No
+433,A eel lives underwater.,Yes,Yes
+434,Does a snake have horns?,Yes,No
+435,A pigeon has bones.,Yes,Yes
+436,A snail doesn't have legs.,No,Yes
+437,Does a fox have legs?,Yes,Yes
+438,Does a squid have at least one wing?,Yes,No
+439,A beak is a body part of a goat.,Yes,No
+440,Does a jellyfish have claws?,Yes,No
+441,A lion climb.,Yes,Yes
+442,A dog has fins.,No,No
+443,Does a fish have hair?,Yes,No
+444,Can a snail fly?,Yes,No
+445,Does a hummingbird have legs?,No,Yes
+446,Does a bird have fur?,Yes,No
+447,Does a tuna have at least one wing?,No,No
+448,A sheep has hooves.,Yes,Yes
+449,A fox have four legs.,Yes,Yes
+450,Does a rhino can breathe underwater?,Yes,No
+451,A shrimp has hair.,No,No
+452,A swan eats meat.,No,No
+453,Is a beak a body part of a duck?,Yes,Yes
+454,Does a camel have claws?,No,No
+455,A rhino can fly.,Yes,No
+456,Water is part of a herring's diet.,No,No
+457,A prawn has hooves.,No,No
+458,A horse drinks coffee.,Yes,No
+459,A hummingbird can breathe underwater.,Yes,No
+460,Does a otter have teeth?,No,Yes
+461,Does a rat have fins?,Yes,No
+462,Can a cow fly?,No,No
+463,A koala drinks water.,Yes,Yes
+464,Does a jellyfish have hooves?,No,No
+465,Coffee is part of a duck's diet.,No,No
+466,A snake has bones.,Yes,Yes
+467,A jellyfish lives in the water.,Yes,Yes
+468,A prawn has a tail.,Yes,Yes
+469,Does a iguana have claws?,No,Yes
+470,Does a zebra have at least one wing?,Yes,No
+471,Does a frog have feathers?,Yes,No
+472,A butterfly has scales.,No,No
+473,Does a rhino have bones?,Yes,Yes
+474,A owl has bones.,No,Yes
+475,Does a pig have a tail?,Yes,Yes
+476,Can a mule fly?,No,No
+477,A squid has claws.,No,No
+478,Does a sheep eat meat?,Yes,No
+479,A butterfly can breathe in the water.,Yes,No
+480,A parrot can be found on a tree.,Yes,Yes
+481,A dog has horns.,No,No
+482,A dolphin has fur.,Yes,No
+483,Does a bird have two legs?,Yes,Yes
+484,Meat is part of a bear's diet.,Yes,Yes
+485,Does a peacock have four legs?,No,No
+486,A lizard drinks coffee.,Yes,No
+487,A iguana lives in the water.,Yes,No
+488,A snail has feathers.,Yes,No
+489,Does a giraffe live underwater?,No,No
+490,A horse eats meat.,Yes,No
+491,A worm has hooves.,No,No
+492,Does a bird have four legs?,Yes,No
+493,A frog can breathe underwater.,Yes,No
+494,A crocodile can breathe underwater.,No,No
+495,Does a rabbit eat meat?,Yes,No
+496,Does a eagle live underwater?,Yes,No
+497,A owl can be found on a tree.,Yes,Yes
+498,Does a octupus have bones?,Yes,No
+499,Does a turtle have wings?,Yes,No
+500,Does a penguin have legs?,Yes,Yes
+501,A goat has legs.,Yes,Yes
+502,Does a lion have at least one wing?,Yes,No
+503,A cow has fins.,Yes,No
+504,A squid can be found on a tree.,Yes,No
+505,Horns are a body part of a duck.,Yes,No
+506,Does a pigeon have at least one wing?,Yes,Yes
+507,Does a shark have at least one wing?,Yes,No
+508,Does a butterfly eat meat?,No,No
+509,Does a duck have fins?,Yes,No
+510,Does a cat have hair?,Yes,Yes
+511,A deer can breathe underwater.,No,No
+512,A elephant can be found on a tree.,Yes,No
+513,A shark can breathe underwater.,Yes,Yes
+514,A crocodile has horns.,Yes,No
+515,Does a cow can breathe underwater?,No,No
+516,A octupus has claws.,Yes,No
+517,Does a owl have wings?,Yes,Yes
+518,A rhino doesn't have legs.,Yes,No
+519,Can a zebra climb?,No,No
+520,A dolphin eats meat.,No,Yes
+521,Does a fish have wings?,No,No
+522,A snail has fins.,Yes,No
+523,Does a gorilla have two legs?,Yes,No
+524,Does a koala have bones?,Yes,Yes
+525,A bat lives underwater.,No,No
+526,Does a monkey have wings?,Yes,No
+527,Does a snake have legs?,Yes,No
+528,Does a tuna have fur?,Yes,No
+529,Can a eel fly?,No,No
+530,A snake has hooves.,No,No
+531,A turtle has two legs.,Yes,No
+532,A beak is a body part of a bear.,Yes,No
+533,Does a wolf have fins?,Yes,No
+534,A lion has claws.,Yes,Yes
+535,A wolf has legs.,Yes,Yes
+536,Does a flamingo live underwater?,Yes,No
+537,A ray has feathers.,Yes,No
+538,A prawn has teeth.,Yes,No
+539,Does a worm have a beak?,Yes,No
+540,Does a wolf have claws?,Yes,Yes
+541,Does a owl can breathe underwater?,Yes,No
+542,A bat can breathe underwater.,No,No
+543,Does a deer have four legs?,Yes,Yes
+544,Does a salamander live underwater?,Yes,No
+545,A ostrich lives in the water.,No,No
+546,Does a otter live underwater?,Yes,No
+547,Does a frog drink water?,Yes,No
+548,A elephant eats meat.,Yes,No
+549,A camel doesn't have legs.,Yes,No
+550,A jellyfish eats meat.,Yes,No
+551,Does a rat eat meat?,Yes,No
+552,A turtle lives underwater.,Yes,Yes
+553,Does a eagle have claws?,Yes,Yes
+554,Can a squid fly?,Yes,No
+555,A eel has fur.,Yes,No
+556,Does a bat have horns?,Yes,Yes
+557,A butterfly climb.,Yes,Yes
+558,A beak is a body part of a octupus.,No,No
+559,A camel can breathe in the water.,No,No
+560,Does a iguana have hooves?,No,No
+561,A wolf has claws.,Yes,Yes
+562,Does a herring have claws?,Yes,No
+563,Does a fox drink coffee?,Yes,No
+564,Meat is part of a mule's diet.,Yes,No
+565,A deer has fins.,Yes,No
+566,Does a giraffe eat meat?,Yes,No
+567,Does a parrot live underwater?,No,No
+568,A sheep eats meat.,Yes,No
+569,Does a worm have teeth?,Yes,No
+570,A ostrich drinks water.,No,Yes
+571,Does a deer have fur?,Yes,Yes
+572,A jellyfish has fur.,Yes,No
+573,Does a hippo have bones?,Yes,Yes
+574,A worm has teeth.,Yes,No
+575,Does a eel drink coffee?,Yes,No
+576,Does a parrot have wings?,Yes,Yes
+577,Does a swan have hooves?,No,No
+578,Does a mule have horns?,No,No
+579,Does a hummingbird have fins?,Yes,No
+580,A shrimp has a tail.,Yes,Yes
+581,Horns are a body part of a snail.,Yes,No
+582,Can a dolphin fly?,Yes,No
+583,A bear lives in the water.,No,No
+584,Does a dolphin have at least one wing?,No,No
+585,A giraffe has legs.,Yes,Yes
+586,Does a fox have bones?,Yes,Yes
+587,Does a ostrich live underwater?,No,No
+588,A rabbit has hooves.,No,No
+589,Does a tuna have two legs?,No,No
+590,A beak is a body part of a cat.,Yes,No
+591,Does a kangaroo eat meat?,No,No
+592,A bird have four legs.,Yes,No
+593,A swan has horns.,Yes,No
+594,A horse has at least one wing.,No,No
+595,Is a beak a body part of a fox?,Yes,No
+596,A pigeon can fly.,Yes,Yes
+597,A hummingbird have four legs.,No,No
+598,Does a rat have hooves?,No,No
+599,A eagle has legs.,No,Yes
+600,Water is part of a snail's diet.,No,Yes
+601,A beak is a body part of a fox.,Yes,No
+602,A lion drinks water.,No,Yes
+603,Does a hippo have a beak?,Yes,No
+604,A parrot can breathe in the water.,No,No
+605,Does a elephant have a tail?,Yes,Yes
+606,A octupus has horns.,Yes,No
+607,A rabbit have four legs.,Yes,Yes
+608,Does a rhino have legs?,Yes,Yes
+609,A shark doesn't have legs.,No,Yes
+610,A salamander can be found on a tree.,Yes,Yes
+611,Meat is part of a ostrich's diet.,Yes,No
+612,A dog lives underwater.,No,No
+613,Water is part of a butterfly's diet.,No,Yes
+614,Water is part of a pigeon's diet.,No,Yes
+615,A eagle can breathe in the water.,No,No
+616,Can a pig climb?,No,No
+617,Does a kangaroo have hair?,No,Yes
+618,A lizard has claws.,Yes,Yes
+619,A tuna can fly.,No,No
+620,A penguin has teeth.,No,No
+621,A monkey has scales.,No,No
+622,A pig doesn't have legs.,Yes,No
+623,Does a hippo have at least one wing?,No,No
+624,Does a owl have at least one wing?,Yes,Yes
+625,Does a snail have wings?,Yes,No
+626,A cat drinks coffee.,Yes,No
+627,A cat has fins.,No,No
+628,Does a kangaroo have hooves?,No,No
+629,A beak is a body part of a deer.,Yes,No
+630,Does a shrimp have scales?,No,No
+631,A hummingbird has claws.,Yes,Yes
+632,Does a wolf have at least one wing?,Yes,No
+633,A deer has fur.,Yes,Yes
+634,A beak is a body part of a frog.,Yes,No
+635,A salamander lives underwater.,No,No
+636,Does a butterfly have hair?,Yes,No
+637,Does a mule have hair?,Yes,Yes
+638,Does a hippo have claws?,Yes,No
+639,A duck has legs.,Yes,Yes
+640,Does a butterfly have four legs?,No,No
+641,Does a monkey have hair?,Yes,Yes
+642,Does a flamingo have feathers?,Yes,Yes
+643,A zebra has feathers.,No,No
+644,A crab climb.,No,Yes
+645,Does a pig have a beak?,Yes,No
+646,A shrimp can breathe in the water.,Yes,Yes
+647,Does a iguana have teeth?,No,Yes
+648,A shrimp can breathe underwater.,Yes,Yes
+649,A giraffe has fins.,Yes,No
+650,Does a pig can breathe underwater?,No,No
+651,A mule has teeth.,No,Yes
+652,Does a kangaroo drink water?,Yes,Yes
+653,A lion has a tail.,Yes,Yes
+654,A octupus lives underwater.,Yes,Yes
+655,A cat has teeth.,Yes,Yes
+656,Can a salamander fly?,Yes,No
+657,A wolf has a tail.,Yes,Yes
+658,Does a prawn have feathers?,Yes,No
+659,A otter climb.,Yes,No
+660,A elephant have four legs.,Yes,Yes
+661,A crocodile drinks coffee.,No,No
+662,Does a bird have fins?,Yes,No
+663,A camel drinks water.,Yes,Yes
+664,Coffee is part of a cow's diet.,No,No
+665,Does a parrot have a tail?,Yes,Yes
+666,Horns are a body part of a eagle.,Yes,No
+667,Does a koala have wings?,No,No
+668,Does a eel can breathe underwater?,Yes,Yes
+669,Does a swan drink coffee?,Yes,No
+670,A parrot lives in the water.,No,No
+671,A lizard has a tail.,Yes,Yes
+672,Does a crocodile can breathe underwater?,Yes,No
+673,A turtle have four legs.,Yes,Yes
+674,A shark lives in the water.,Yes,Yes
+675,Does a dolphin drink coffee?,Yes,No
+676,A iguana has at least one wing.,No,No
+677,A bat lives in the water.,No,No
+678,Does a duck have teeth?,No,No
+679,A salamander can fly.,Yes,No
+680,Does a eagle have legs?,Yes,Yes
+681,Does a pigeon have claws?,Yes,Yes
+682,A fish can be found on a tree.,No,No
+683,A rat have four legs.,Yes,Yes
+684,Does a deer have hair?,Yes,Yes
+685,Does a cow have feathers?,Yes,No
+686,Does a pigeon live underwater?,Yes,No
+687,Does a dolphin have horns?,Yes,No
+688,A fox has feathers.,Yes,No
+689,Does a ray have a beak?,Yes,No
+690,A lion has wings.,Yes,No
+691,A lion lives in the water.,No,No
+692,Can a bear fly?,Yes,No
+693,Does a owl drink coffee?,Yes,No
+694,A dog has fur.,Yes,Yes
+695,Does a turtle have feathers?,Yes,No
+696,Does a bat have bones?,Yes,Yes
+697,A giraffe has bones.,Yes,Yes
+698,Does a hummingbird have claws?,Yes,Yes
+699,Does a eagle have two legs?,Yes,Yes
+700,Does a pigeon have legs?,Yes,Yes
+701,Water is part of a hummingbird's diet.,No,Yes
+702,A owl can breathe underwater.,Yes,No
+703,Water is part of a crocodile's diet.,No,Yes
+704,Does a fox have fins?,Yes,No
+705,Does a iguana eat meat?,No,No
+706,A worm can breathe underwater.,Yes,No
+707,A cow has legs.,No,Yes
+708,A pig has teeth.,Yes,Yes
+709,Meat is part of a hummingbird's diet.,Yes,No
+710,A crab doesn't have legs.,No,No
+711,A ostrich has legs.,Yes,Yes
+712,Can a camel climb?,Yes,No
+713,A pigeon has teeth.,Yes,No
+714,Does a camel have wings?,No,No
+715,A sheep lives in the water.,Yes,No
+716,Does a rhino have fins?,Yes,No
+717,Does a fish have fins?,Yes,Yes
+718,A whale can be found on a tree.,Yes,No
+719,Does a pig have two legs?,Yes,No
+720,Does a bear have four legs?,Yes,Yes
+721,Does a rat have teeth?,Yes,Yes
+722,Can a snake climb?,No,Yes
+723,Does a iguana have scales?,No,No
+724,A penguin can fly.,Yes,No
+725,Does a cat live underwater?,Yes,No
+726,Does a turtle live underwater?,Yes,Yes
+727,A frog can fly.,Yes,No
+728,A wolf drinks coffee.,Yes,No
+729,A pigeon has a tail.,Yes,Yes
+730,A iguana has hair.,No,No
+731,A tuna has at least one wing.,No,No
+732,A octupus has wings.,Yes,No
+733,A camel eats meat.,Yes,No
+734,Does a bat have two legs?,Yes,No
+735,Does a shark can breathe underwater?,Yes,Yes
+736,Does a elephant have two legs?,Yes,No
+737,Meat is part of a kangaroo's diet.,Yes,No
+738,Meat is part of a ray's diet.,Yes,Yes
+739,Does a rabbit have a tail?,Yes,Yes
+740,A goat has two legs.,Yes,No
+741,A salamander has at least one wing.,No,No
+742,A horse drinks water.,Yes,Yes
+743,A butterfly has claws.,Yes,No
+744,Does a squid have hooves?,Yes,No
+745,Does a zebra have four legs?,Yes,Yes
+746,A fox lives underwater.,No,No
+747,A penguin has legs.,No,Yes
+748,Does a fox eat meat?,Yes,Yes
+749,Does a elephant have hooves?,No,No
+750,Does a koala have hooves?,Yes,No
+751,Does a rhino drink water?,No,Yes
+752,Does a herring can breathe underwater?,Yes,Yes
+753,A parrot eats meat.,Yes,No
+754,A penguin has a tail.,Yes,Yes
+755,A frog has a tail.,Yes,No
+756,A pig has bones.,Yes,Yes
+757,A goat has feathers.,Yes,No
+758,A fish has legs.,No,No
+759,A sheep can be found on a tree.,Yes,No
+760,A octupus has fur.,Yes,No
+761,A wolf has hooves.,No,No
+762,A elephant climb.,Yes,No
+763,Does a kangaroo have teeth?,No,Yes
+764,Does a fish have fur?,Yes,No
+765,Does a dolphin have bones?,No,Yes
+766,A salamander has scales.,No,No
+767,A ray has two legs.,No,No
+768,A hummingbird lives underwater.,No,No
+769,A shark can breathe in the water.,Yes,Yes
+770,A whale drinks coffee.,Yes,No
+771,Is a beak a body part of a eel?,Yes,No
+772,A crocodile climb.,Yes,No
+773,Does a goat have feathers?,Yes,No
+774,Does a worm live underwater?,Yes,No
+775,A koala has horns.,No,No
+776,Does a crocodile have four legs?,Yes,Yes
+777,A mule drinks coffee.,Yes,No
+778,Is a beak a body part of a worm?,Yes,No
+779,A worm has a tail.,Yes,No
+780,A owl has horns.,Yes,No
+781,Meat is part of a rabbit's diet.,Yes,No
+782,A beak is a body part of a ray.,Yes,No
+783,Does a octupus have a beak?,Yes,No
+784,Does a mule have teeth?,No,Yes
+785,Does a crab have at least one wing?,Yes,No
+786,A shrimp lives in the water.,Yes,Yes
+787,A wolf eats meat.,Yes,Yes
+788,A hummingbird has hooves.,Yes,No
+789,A bat has bones.,No,Yes
+790,A fox eats meat.,Yes,Yes
+791,Does a camel live underwater?,Yes,No
+792,A goat has teeth.,Yes,Yes
+793,Can a eel climb?,No,No
+794,A hippo doesn't have legs.,Yes,No
+795,Can a bat climb?,Yes,Yes
+796,Does a lion have four legs?,Yes,Yes
+797,A shrimp has hooves.,No,No
+798,A bat has legs.,No,Yes
+799,Does a crocodile have teeth?,No,Yes
+800,A herring has teeth.,Yes,Yes
+801,A monkey has legs.,No,Yes
+802,Does a ostrich eat meat?,Yes,No
+803,Does a monkey have feathers?,Yes,No
+804,A pig lives underwater.,No,No
+805,A deer has two legs.,Yes,No
+806,Does a crocodile have a tail?,Yes,Yes
+807,Does a salamander have a tail?,Yes,Yes
+808,A hippo has claws.,Yes,No
+809,Coffee is part of a crocodile's diet.,No,No
+810,A rhino climb.,Yes,No
+811,A flamingo has a tail.,Yes,Yes
+812,A otter has teeth.,Yes,Yes
+813,A dog has at least one wing.,Yes,No
+814,A elephant has teeth.,Yes,Yes
+815,A otter can be found on a tree.,Yes,No
+816,Does a fox have feathers?,Yes,No
+817,Does a zebra drink water?,No,Yes
+818,Does a squid have hair?,Yes,No
+819,Does a pigeon have hair?,Yes,No
+820,A worm lives in the water.,Yes,No
+821,Does a squid have a beak?,Yes,No
+822,A owl has at least one wing.,Yes,Yes
+823,A bird has teeth.,No,No
+824,A bird has scales.,No,No
+825,A elephant has fins.,Yes,No
+826,Does a pig have at least one wing?,Yes,No
+827,Does a duck have at least one wing?,Yes,Yes
+828,A pigeon has claws.,No,Yes
+829,Meat is part of a rhino's diet.,Yes,No
+830,Does a shrimp have four legs?,No,No
+831,Does a crocodile have hair?,Yes,No
+832,Does a swan drink water?,Yes,Yes
+833,Does a hummingbird have two legs?,Yes,Yes
+834,Does a tuna have bones?,Yes,Yes
+835,A hippo has hooves.,Yes,Yes
+836,Does a parrot have legs?,Yes,Yes
+837,Does a bat have a tail?,Yes,Yes
+838,A dolphin have four legs.,Yes,No
+839,A worm lives underwater.,Yes,No
+840,A dolphin has a tail.,Yes,Yes
+841,Does a whale drink water?,Yes,No
+842,A turtle lives in the water.,Yes,Yes
+843,Does a koala have at least one wing?,No,No
+844,A pig can breathe underwater.,No,No
+845,Coffee is part of a wolf's diet.,No,No
+846,Can a ray fly?,Yes,No
+847,A eel has hair.,No,No
+848,Does a cat drink coffee?,Yes,No
+849,Does a ray have claws?,No,No
+850,A wolf has fur.,Yes,Yes
+851,A duck has hooves.,No,No
+852,Does a prawn have two legs?,Yes,No
+853,Does a lizard have hair?,Yes,No
+854,A herring climb.,No,No
+855,Does a hippo eat meat?,Yes,No
+856,Does a fish have legs?,No,No
+857,Does a snake have a tail?,Yes,Yes
+858,A parrot can fly.,Yes,Yes
+859,A eel can be found on a tree.,No,No
+860,A parrot can breathe underwater.,No,No
+861,Does a parrot have four legs?,Yes,No
+862,Does a pig have wings?,Yes,No
+863,A fish lives underwater.,Yes,Yes
+864,Can a hummingbird fly?,Yes,Yes
+865,A horse has feathers.,Yes,No
+866,Coffee is part of a bat's diet.,No,No
+867,Meat is part of a prawn's diet.,Yes,No
+868,A duck has a tail.,Yes,Yes
+869,A giraffe has scales.,No,No
+870,Water is part of a worm's diet.,No,No
+871,A goat has bones.,Yes,Yes
+872,Does a crab have a tail?,Yes,No
+873,Does a duck have legs?,Yes,Yes
+874,A frog drinks water.,Yes,No
+875,A dolphin climb.,Yes,No
+876,Does a bear have claws?,Yes,Yes
+877,Does a rabbit have fur?,Yes,Yes
+878,A rabbit lives underwater.,No,No
+879,Does a fox drink water?,Yes,Yes
+880,A shrimp can fly.,Yes,No
+881,A butterfly has fins.,Yes,No
+882,Water is part of a ostrich's diet.,No,Yes
+883,Is a beak a body part of a pigeon?,Yes,Yes
+884,A prawn can fly.,Yes,No
+885,A koala can fly.,No,No
+886,Does a prawn have fins?,Yes,Yes
+887,Does a bear eat meat?,Yes,Yes
+888,Does a rhino have hair?,Yes,No
+889,A herring can breathe in the water.,No,Yes
+890,Does a hummingbird eat meat?,No,No
+891,A squid have four legs.,Yes,No
+892,Does a hummingbird have hair?,Yes,No
+893,A ray has scales.,No,No
+894,A eel has claws.,Yes,No
+895,Does a peacock have two legs?,No,Yes
+896,A fox has at least one wing.,Yes,No
+897,A flamingo can breathe underwater.,Yes,No
+898,A dog has hooves.,No,No
+899,A owl has teeth.,No,No
+900,Meat is part of a koala's diet.,Yes,No
+901,Meat is part of a wolf's diet.,Yes,Yes
+902,A crab has fur.,Yes,No
+903,A gorilla has scales.,No,No
+904,A prawn eats meat.,Yes,No
+905,A ray has wings.,Yes,No
+906,A kangaroo has wings.,No,No
+907,A monkey has fins.,Yes,No
+908,Does a duck have hair?,Yes,No
+909,A monkey has at least one wing.,Yes,No
+910,A lizard eats meat.,Yes,No
+911,A wolf has feathers.,Yes,No
+912,A owl can breathe in the water.,Yes,No
+913,Does a horse have horns?,Yes,No
+914,Does a eel have two legs?,Yes,No
+915,Coffee is part of a hippo's diet.,No,No
+916,Horns are a body part of a pig.,No,No
+917,Does a monkey have at least one wing?,Yes,No
+918,A sheep has a tail.,Yes,Yes
+919,A gorilla has bones.,Yes,Yes
+920,A crocodile eats meat.,Yes,Yes
+921,Does a rhino have four legs?,Yes,Yes
+922,A swan lives underwater.,Yes,No
+923,A cow has hair.,No,Yes
+924,Coffee is part of a worm's diet.,No,No
+925,Does a owl have a tail?,Yes,Yes
+926,Does a koala can breathe underwater?,Yes,No
+927,A pigeon has scales.,No,No
+928,A bear has a tail.,Yes,Yes
+929,A bird drinks coffee.,Yes,No
+930,Does a wolf live underwater?,No,No
+931,A horse has fins.,Yes,No
+932,Does a rhino drink coffee?,No,No
+933,Does a giraffe have two legs?,Yes,No
+934,Does a cow have scales?,No,No
+935,Water is part of a cow's diet.,No,Yes
+936,Does a otter have four legs?,Yes,Yes
+937,A bear has legs.,Yes,Yes
+938,A rhino lives in the water.,No,No
+939,A ray has fins.,Yes,No
+940,Does a shrimp have bones?,No,No
+941,Does a bird live underwater?,Yes,No
+942,A monkey can be found on a tree.,Yes,Yes
+943,A gorilla doesn't have legs.,Yes,No
+944,Does a salamander have fins?,No,No
+945,Does a snail have at least one wing?,Yes,No
+946,A camel has at least one wing.,No,No
+947,Horns are a body part of a hippo.,Yes,No
+948,A swan has hooves.,Yes,No
+949,Can a duck climb?,Yes,No
+950,Can a fish climb?,Yes,No
+951,A giraffe has feathers.,Yes,No
+952,A flamingo drinks coffee.,Yes,No
+953,Does a goat have wings?,Yes,No
+954,A salamander can breathe in the water.,Yes,No
+955,A rhino has teeth.,Yes,Yes
+956,Does a lion live underwater?,Yes,No
+957,A butterfly drinks coffee.,Yes,No
+958,Does a fox have hooves?,Yes,No
+959,A peacock has at least one wing.,Yes,Yes
+960,A bear doesn't have legs.,Yes,No
+961,Can a penguin climb?,Yes,No
+962,Does a gorilla have legs?,Yes,Yes
+963,Does a owl have bones?,No,Yes
+964,Does a duck have claws?,Yes,Yes
+965,A fish lives in the water.,Yes,Yes
+966,A squid has horns.,Yes,No
+967,A cat has a tail.,Yes,Yes
+968,A fish drinks water.,Yes,No
+969,A iguana eats meat.,Yes,No
+970,Does a worm can breathe underwater?,Yes,No
+971,Does a otter have claws?,No,Yes
+972,A cat has bones.,No,Yes
+973,Does a peacock have a beak?,Yes,Yes
+974,Does a gorilla have a beak?,Yes,No
+975,A beak is a body part of a jellyfish.,Yes,No
+976,A horse have four legs.,Yes,Yes
+977,A hummingbird has at least one wing.,Yes,Yes
+978,Can a ostrich climb?,No,Yes
+979,Does a prawn drink water?,Yes,No
+980,Does a lion have teeth?,Yes,Yes
+981,A rat drinks water.,No,Yes
+982,Can a shark climb?,Yes,No
+983,A giraffe lives in the water.,No,No
+984,Can a hippo fly?,No,No
+985,A jellyfish has bones.,Yes,No
+986,Does a worm drink coffee?,Yes,No
+987,Can a cat fly?,Yes,No
+988,A pigeon have four legs.,Yes,No
+989,A elephant has a tail.,Yes,Yes
+990,A horse can be found on a tree.,Yes,No
+991,A otter has hooves.,No,No
+992,Does a crab have four legs?,No,No
+993,A iguana drinks coffee.,Yes,No
+994,A mule doesn't have legs.,Yes,No
+995,A duck has at least one wing.,Yes,Yes
+996,A turtle has a tail.,Yes,Yes
+997,A flamingo has claws.,Yes,Yes
+998,A elephant can breathe in the water.,Yes,No
+999,Does a turtle have hooves?,No,No
+1000,Does a dolphin have hair?,Yes,No
+1001,Does a squid have wings?,Yes,No
+1002,A ostrich has two legs.,Yes,Yes
+1003,Does a elephant have claws?,Yes,No
+1004,A rabbit has wings.,Yes,No
+1005,Does a frog have wings?,Yes,No
+1006,Coffee is part of a jellyfish's diet.,No,No
+1007,Is a beak a body part of a giraffe?,Yes,No
+1008,Does a bear can breathe underwater?,No,No
+1009,Does a flamingo have fins?,Yes,No
+1010,Can a tuna fly?,Yes,No
+1011,Does a bird have feathers?,Yes,Yes
+1012,Does a penguin have fins?,Yes,No
+1013,A duck lives underwater.,Yes,No
+1014,A eel has a tail.,Yes,Yes
+1015,Meat is part of a giraffe's diet.,Yes,No
+1016,A herring eats meat.,Yes,No
+1017,Does a dog have scales?,No,No
+1018,Does a butterfly have wings?,Yes,Yes
+1019,Water is part of a shrimp's diet.,No,No
+1020,A monkey can breathe in the water.,Yes,No
+1021,Does a bat have feathers?,Yes,No
+1022,A monkey doesn't have legs.,No,No
+1023,A otter has fins.,Yes,No
+1024,Coffee is part of a otter's diet.,No,No
+1025,Does a ray have a tail?,Yes,Yes
+1026,Does a sheep have wings?,No,No
+1027,Does a pig have bones?,Yes,Yes
+1028,Can a mule climb?,No,No
+1029,A owl has scales.,No,No
+1030,Can a bear climb?,Yes,Yes
+1031,Can a dolphin climb?,Yes,No
+1032,Does a peacock drink coffee?,Yes,No
+1033,A duck has fins.,Yes,No
+1034,A peacock has fins.,Yes,No
+1035,A rat has claws.,Yes,Yes
+1036,A camel has fur.,Yes,Yes
+1037,A bat doesn't have legs.,Yes,No
+1038,A fox has fins.,Yes,No
+1039,A gorilla has fins.,Yes,No
+1040,Does a turtle have horns?,Yes,No
+1041,Does a shark have horns?,No,No
+1042,Does a camel have feathers?,No,No
+1043,A rat has horns.,Yes,No
+1044,A owl doesn't have legs.,No,No
+1045,A shrimp has fur.,No,No
+1046,A beak is a body part of a kangaroo.,No,No
+1047,Does a bird have a tail?,Yes,Yes
+1048,A cat has fur.,Yes,Yes
+1049,A mule lives underwater.,Yes,No
+1050,A kangaroo has a tail.,No,Yes
+1051,Does a pigeon drink water?,Yes,Yes
+1052,A snake can breathe underwater.,Yes,No
+1053,Does a fish drink water?,Yes,No
+1054,Does a giraffe have fur?,Yes,Yes
+1055,A parrot has teeth.,No,No
+1056,A goat can breathe underwater.,No,No
+1057,A eagle has fur.,Yes,No
+1058,A sheep has horns.,Yes,Yes
+1059,A sheep lives underwater.,No,No
+1060,A iguana has bones.,No,Yes
+1061,Can a camel fly?,No,No
+1062,A rhino has two legs.,Yes,No
+1063,A hippo lives underwater.,No,No
+1064,A camel has claws.,Yes,No
+1065,Does a bat have four legs?,Yes,No
+1066,A deer climb.,Yes,No
+1067,A eel has fins.,Yes,Yes
+1068,A crocodile has feathers.,No,No
+1069,Does a salamander drink water?,Yes,No
+1070,Does a ray have at least one wing?,Yes,No
+1071,Does a pig have feathers?,Yes,No
+1072,Meat is part of a pigeon's diet.,Yes,No
+1073,A fox has fur.,Yes,Yes
+1074,Is a beak a body part of a shark?,Yes,No
+1075,Does a horse have legs?,Yes,Yes
+1076,Can a zebra fly?,Yes,No
+1077,A horse has two legs.,Yes,No
+1078,Can a fox climb?,No,Yes
+1079,Water is part of a tuna's diet.,No,Yes
+1080,A bat has feathers.,Yes,No
+1081,A swan can be found on a tree.,Yes,No
+1082,Does a kangaroo have four legs?,No,No
+1083,Does a rhino have feathers?,Yes,No
+1084,Horns are a body part of a salamander.,No,No
+1085,Meat is part of a eel's diet.,Yes,Yes
+1086,Does a butterfly have fur?,Yes,No
+1087,Does a jellyfish have bones?,Yes,No
+1088,A turtle has fins.,Yes,No
+1089,A ostrich can be found on a tree.,Yes,Yes
+1090,Does a worm have hair?,Yes,No
+1091,Can a lizard climb?,Yes,Yes
+1092,A pig can fly.,Yes,No
+1093,Does a bear have at least one wing?,Yes,No
+1094,Does a salamander drink coffee?,Yes,No
+1095,Does a pigeon can breathe underwater?,Yes,No
+1096,Does a cow have teeth?,Yes,Yes
+1097,Does a wolf have hair?,No,Yes
+1098,Does a lion have legs?,Yes,Yes
+1099,A eagle has two legs.,Yes,Yes
+1100,Does a fox have four legs?,Yes,Yes
+1101,Does a monkey have two legs?,Yes,No
+1102,Does a tuna have hair?,Yes,No
+1103,Meat is part of a squid's diet.,Yes,No
+1104,Horns are a body part of a bear.,Yes,No
+1105,Does a rat have wings?,No,No
+1106,A hippo can breathe underwater.,No,No
+1107,A giraffe has claws.,Yes,No
+1108,Does a flamingo have teeth?,No,No
+1109,Does a pig have legs?,Yes,Yes
+1110,A cow lives underwater.,No,No
+1111,A wolf drinks water.,Yes,Yes
+1112,A shark has teeth.,Yes,Yes
+1113,A penguin can breathe in the water.,Yes,No
+1114,A owl has legs.,No,Yes
+1115,Does a gorilla have feathers?,Yes,No
+1116,Does a peacock have legs?,No,Yes
+1117,A bird has fins.,Yes,No
+1118,Coffee is part of a owl's diet.,No,No
+1119,Does a fox live underwater?,No,No
+1120,Does a duck have bones?,No,Yes
+1121,Does a goat eat meat?,Yes,No
+1122,Does a crab have feathers?,Yes,No
+1123,A flamingo doesn't have legs.,No,No
+1124,Does a bear have scales?,No,No
+1125,Does a cat eat meat?,Yes,Yes
+1126,Does a shrimp have a tail?,Yes,Yes
+1127,Does a ray drink water?,Yes,No
+1128,A giraffe has wings.,Yes,No
+1129,A rabbit can breathe underwater.,No,No
+1130,Does a goat have fur?,Yes,Yes
+1131,A bird can breathe in the water.,Yes,No
+1132,A swan can breathe in the water.,Yes,No
+1133,Does a snail have scales?,Yes,No
+1134,A penguin drinks coffee.,Yes,No
+1135,Does a swan have fins?,Yes,No
+1136,Can a herring climb?,No,No
+1137,A eel has at least one wing.,No,No
+1138,A flamingo has hooves.,Yes,No
+1139,Does a snake have bones?,Yes,Yes
+1140,Does a parrot eat meat?,Yes,No
+1141,Is a beak a body part of a swan?,Yes,Yes
+1142,Water is part of a otter's diet.,No,Yes
+1143,A elephant has feathers.,Yes,No
+1144,Is a beak a body part of a herring?,Yes,No
+1145,A eagle has bones.,Yes,Yes
+1146,Can a snake fly?,Yes,No
+1147,Does a fish have at least one wing?,No,No
+1148,Does a flamingo have horns?,Yes,No
+1149,Does a flamingo have a beak?,No,Yes
+1150,A elephant can breathe underwater.,Yes,No
+1151,A rhino has claws.,No,No
+1152,Does a hippo can breathe underwater?,No,No
+1153,A snake can fly.,Yes,No
+1154,Water is part of a hippo's diet.,No,Yes
+1155,A otter has scales.,No,No
+1156,Can a rhino fly?,Yes,No
+1157,Does a jellyfish have a tail?,Yes,No
+1158,A ray has bones.,No,No
+1159,Does a tuna can breathe underwater?,Yes,Yes
+1160,A ostrich has horns.,Yes,No
+1161,Does a eagle have a tail?,Yes,Yes
+1162,Does a lion have hair?,Yes,Yes
+1163,Water is part of a ray's diet.,No,No
+1164,Does a deer live underwater?,No,No
+1165,A sheep has claws.,Yes,No
+1166,A iguana doesn't have legs.,No,No
+1167,A squid has at least one wing.,Yes,No
+1168,A hummingbird has hair.,Yes,No
+1169,A whale has two legs.,Yes,No
+1170,Does a mule can breathe underwater?,Yes,No
+1171,A camel has scales.,No,No
+1172,A horse doesn't have legs.,Yes,No
+1173,A kangaroo has bones.,No,Yes
+1174,A frog climb.,Yes,Yes
+1175,A deer has teeth.,Yes,Yes
+1176,Coffee is part of a penguin's diet.,No,No
+1177,A fish can breathe underwater.,Yes,Yes
+1178,A crocodile has hair.,No,No
+1179,A hippo has horns.,Yes,No
+1180,A pig has at least one wing.,Yes,No
+1181,Does a kangaroo have fur?,No,Yes
+1182,A lizard has at least one wing.,Yes,No
+1183,A shark climb.,Yes,No
+1184,A rhino can be found on a tree.,Yes,No
+1185,A cat has feathers.,No,No
+1186,Does a eel have fins?,Yes,Yes
+1187,A penguin have four legs.,No,No
+1188,Does a shark have fur?,Yes,No
+1189,Does a lion drink water?,No,Yes
+1190,A zebra has a tail.,Yes,Yes
+1191,A rabbit climb.,No,No
+1192,A jellyfish can be found on a tree.,No,No
+1193,Does a ray have teeth?,Yes,Yes
+1194,Does a parrot have horns?,Yes,No
+1195,Does a deer have scales?,No,No
+1196,Does a worm have scales?,No,No
+1197,A snake has teeth.,Yes,Yes
+1198,Does a salamander have a beak?,Yes,No
+1199,Does a turtle can breathe underwater?,Yes,No
+1200,Does a iguana live underwater?,Yes,No
+1201,A duck drinks coffee.,Yes,No
+1202,A penguin has feathers.,Yes,No
+1203,A octupus can breathe in the water.,No,Yes
+1204,Does a prawn have legs?,Yes,Yes
+1205,A shrimp has scales.,No,No
+1206,A swan has bones.,No,Yes
+1207,A jellyfish can breathe in the water.,Yes,Yes
+1208,A sheep drinks water.,No,Yes
+1209,A sheep has at least one wing.,Yes,No
+1210,Horns are a body part of a sheep.,Yes,Yes
+1211,A ray has horns.,Yes,No
+1212,Does a fox have claws?,Yes,Yes
+1213,Does a sheep have two legs?,Yes,No
+1214,Water is part of a penguin's diet.,No,Yes
+1215,Does a herring have two legs?,No,No
+1216,A bear has horns.,Yes,No
+1217,Does a ray have feathers?,No,No
+1218,A butterfly lives in the water.,Yes,No
+1219,A monkey lives in the water.,No,No
+1220,A jellyfish has at least one wing.,No,No
+1221,Does a eel have wings?,No,No
+1222,Can a worm climb?,No,Yes
+1223,Does a hippo have hair?,No,No
+1224,Coffee is part of a lion's diet.,No,No
+1225,Does a shark live underwater?,Yes,Yes
+1226,Can a swan climb?,No,No
+1227,Does a dog have hair?,Yes,Yes
+1228,Does a parrot drink water?,Yes,Yes
+1229,Does a elephant have at least one wing?,Yes,No
+1230,Does a hummingbird have four legs?,Yes,No
+1231,A wolf has horns.,Yes,No
+1232,Does a squid have teeth?,Yes,Yes
+1233,A flamingo can fly.,Yes,Yes
+1234,A turtle has hair.,Yes,No
+1235,A shrimp drinks coffee.,No,No
+1236,A turtle drinks water.,Yes,Yes
+1237,Does a frog live underwater?,Yes,No
+1238,A crab has claws.,Yes,No
+1239,A hummingbird has wings.,Yes,Yes
+1240,A hummingbird has two legs.,No,Yes
+1241,A sheep drinks coffee.,No,No
+1242,Does a whale drink coffee?,Yes,No
+1243,A beak is a body part of a squid.,Yes,No
+1244,A dog can breathe underwater.,No,No
+1245,Does a zebra have fins?,Yes,No
+1246,Does a salamander have feathers?,No,No
+1247,A cat can breathe in the water.,Yes,No
+1248,Horns are a body part of a pigeon.,No,No
+1249,Does a mule have hooves?,No,Yes
+1250,A monkey has feathers.,Yes,No
+1251,A kangaroo lives underwater.,No,No
+1252,A lizard drinks water.,Yes,Yes
+1253,A duck has horns.,Yes,No
+1254,Does a salamander have hooves?,No,No
+1255,A shrimp doesn't have legs.,No,No
+1256,A gorilla has a tail.,Yes,No
+1257,Does a eel have scales?,No,Yes
+1258,A cat has two legs.,Yes,No
+1259,Does a koala have hair?,No,Yes
+1260,A crocodile lives underwater.,No,No
+1261,A rat can breathe in the water.,No,No
+1262,Does a worm have wings?,Yes,No
+1263,Coffee is part of a salamander's diet.,No,No
+1264,A giraffe has a tail.,Yes,Yes
+1265,Horns are a body part of a goat.,No,Yes
+1266,Does a flamingo have bones?,No,Yes
+1267,A worm has two legs.,No,No
+1268,A dog can fly.,No,No
+1269,Does a pig drink water?,No,Yes
+1270,A hippo eats meat.,Yes,No
+1271,Does a eagle have scales?,No,No
+1272,A worm can breathe in the water.,Yes,No
+1273,A butterfly has legs.,No,No
+1274,A deer has hooves.,No,Yes
+1275,A sheep doesn't have legs.,Yes,No
+1276,A beak is a body part of a gorilla.,Yes,No
+1277,Does a bat have fins?,Yes,No
+1278,Meat is part of a whale's diet.,Yes,Yes
+1279,A goat has scales.,No,No
+1280,Does a shrimp have hooves?,No,No
+1281,A dog has legs.,Yes,Yes
+1282,A hummingbird can breathe in the water.,Yes,No
+1283,A otter has claws.,Yes,Yes
+1284,A salamander has hair.,No,No
+1285,A jellyfish drinks coffee.,Yes,No
+1286,Does a koala have legs?,No,Yes
+1287,A whale drinks water.,Yes,No
+1288,A squid can fly.,No,No
+1289,Does a herring have bones?,Yes,Yes
+1290,A camel has two legs.,Yes,No
+1291,A kangaroo doesn't have legs.,No,No
+1292,Does a ostrich have a tail?,Yes,Yes
+1293,Does a bat have a beak?,Yes,No
+1294,A frog can be found on a tree.,Yes,Yes
+1295,Does a frog have a beak?,Yes,No
+1296,Does a parrot drink coffee?,Yes,No
+1297,A fish has scales.,Yes,Yes
+1298,A whale has hooves.,No,No
+1299,Does a cat have at least one wing?,No,No
+1300,A worm has at least one wing.,Yes,No
+1301,A frog drinks coffee.,No,No
+1302,A lion has scales.,Yes,No
+1303,A monkey has teeth.,Yes,Yes
+1304,A elephant has bones.,Yes,Yes
+1305,A prawn has horns.,Yes,No
+1306,Does a peacock have teeth?,No,No
+1307,A gorilla eats meat.,Yes,No
+1308,A ray has a tail.,Yes,Yes
+1309,A bat has wings.,Yes,Yes
+1310,A tuna drinks water.,Yes,Yes
+1311,A rhino has hooves.,No,Yes
+1312,Does a pigeon have a tail?,Yes,Yes
+1313,A whale has fur.,Yes,No
+1314,Does a prawn have wings?,Yes,No
+1315,A bat has scales.,No,No
+1316,A lion can fly.,Yes,No
+1317,A mule eats meat.,Yes,No
+1318,A turtle has bones.,Yes,Yes
+1319,Does a shark have wings?,Yes,No
+1320,A frog has hair.,Yes,No
+1321,Does a worm have hooves?,No,No
+1322,Does a koala live underwater?,Yes,No
+1323,A pigeon drinks coffee.,Yes,No
+1324,A pig has scales.,No,No
+1325,Does a sheep have feathers?,Yes,No
+1326,A herring has feathers.,Yes,No
+1327,A flamingo lives underwater.,Yes,No
+1328,Does a hippo live underwater?,No,No
+1329,A peacock has horns.,Yes,No
+1330,Does a crab have a beak?,Yes,No
+1331,Does a goat have four legs?,Yes,Yes
+1332,Does a lizard can breathe underwater?,Yes,No
+1333,Can a cow climb?,Yes,No
+1334,Water is part of a iguana's diet.,No,Yes
+1335,A cow has two legs.,No,No
+1336,A iguana has fur.,No,No
+1337,A eel have four legs.,Yes,No
+1338,Does a eel have claws?,No,No
+1339,Does a bat live underwater?,No,No
+1340,A squid climb.,No,No
+1341,A cow has a tail.,Yes,Yes
+1342,Does a ray live underwater?,Yes,Yes
+1343,A deer have four legs.,Yes,Yes
+1344,A jellyfish can breathe underwater.,Yes,Yes
+1345,Can a fish fly?,Yes,No
+1346,A tuna doesn't have legs.,No,Yes
+1347,A fox has scales.,No,No
+1348,A bear has teeth.,Yes,Yes
+1349,Does a fish have claws?,Yes,No
+1350,Can a peacock fly?,Yes,Yes
+1351,A peacock has teeth.,No,No
+1352,A goat has wings.,No,No
+1353,A lion has hooves.,Yes,No
+1354,A cat has claws.,Yes,Yes
+1355,A giraffe doesn't have legs.,Yes,No
+1356,A mule has hooves.,No,Yes
+1357,A penguin has bones.,No,Yes
+1358,Does a ostrich have claws?,No,Yes
+1359,A parrot has two legs.,Yes,Yes
+1360,Does a mule have four legs?,Yes,Yes
+1361,A cat has legs.,Yes,Yes
+1362,A fox can fly.,Yes,No
+1363,Does a cow have hooves?,No,No
+1364,A hummingbird has scales.,No,No
+1365,A pig has claws.,Yes,No
+1366,Is a beak a body part of a jellyfish?,Yes,No
+1367,Does a cow have a beak?,Yes,No
+1368,Does a frog eat meat?,Yes,Yes
+1369,Does a mule have a tail?,Yes,Yes
+1370,A bear has two legs.,Yes,No
+1371,A horse lives in the water.,No,No
+1372,Does a crab have horns?,No,No
+1373,Does a wolf have two legs?,Yes,No
+1374,A beak is a body part of a swan.,Yes,Yes
+1375,A shrimp has at least one wing.,Yes,No
+1376,Can a rat fly?,Yes,No
+1377,A camel has horns.,Yes,No
+1378,A hippo has at least one wing.,No,No
+1379,A jellyfish has claws.,Yes,No
+1380,Does a squid have a tail?,Yes,No
+1381,Does a goat live underwater?,No,No
+1382,Does a crocodile drink coffee?,No,No
+1383,Does a salamander have four legs?,No,Yes
+1384,A gorilla has hair.,No,Yes
+1385,A jellyfish has scales.,No,No
+1386,A hippo has hair.,No,No
+1387,Does a snake have claws?,Yes,No
+1388,A peacock drinks water.,Yes,Yes
+1389,Does a deer have at least one wing?,Yes,No
+1390,A eagle drinks coffee.,No,No
+1391,Does a fish have bones?,Yes,Yes
+1392,Water is part of a crab's diet.,No,Yes
+1393,Can a worm fly?,Yes,No
+1394,Does a tuna drink coffee?,Yes,No
+1395,A deer can fly.,No,No
+1396,A bear can breathe underwater.,No,No
+1397,Can a butterfly fly?,Yes,Yes
+1398,Does a worm have fins?,Yes,No
+1399,A crab lives underwater.,Yes,Yes
+1400,A hippo has teeth.,Yes,Yes
+1401,A squid eats meat.,Yes,No
+1402,Does a elephant have a beak?,Yes,No
+1403,A crocodile has bones.,Yes,Yes
+1404,Does a pig have fur?,Yes,No
+1405,Does a monkey drink coffee?,Yes,No
+1406,A ostrich can breathe underwater.,No,No
+1407,Coffee is part of a turtle's diet.,No,No
+1408,Does a snake have fur?,Yes,No
+1409,A fox has claws.,Yes,Yes
+1410,A hippo has a tail.,Yes,Yes
+1411,A deer has feathers.,Yes,No
+1412,Does a cow have four legs?,No,Yes
+1413,A ray can be found on a tree.,Yes,No
+1414,A rat has bones.,Yes,Yes
+1415,A crab has teeth.,No,Yes
+1416,Does a worm have a tail?,Yes,No
+1417,A cat has horns.,No,No
+1418,Does a bat have teeth?,Yes,Yes
+1419,A monkey has hair.,Yes,Yes
+1420,Can a koala fly?,Yes,No
+1421,A otter can fly.,Yes,No
+1422,A lion has legs.,Yes,Yes
+1423,A bird has hooves.,No,No
+1424,Does a bear have fins?,Yes,No
+1425,A bat climb.,Yes,Yes
+1426,Does a swan have legs?,Yes,Yes
+1427,A peacock has fur.,Yes,No
+1428,Does a shark have teeth?,Yes,Yes
+1429,A tuna has legs.,No,No
+1430,A eel has teeth.,No,Yes
+1431,A fish has fins.,Yes,Yes
+1432,Does a giraffe have bones?,Yes,Yes
+1433,Does a butterfly have scales?,No,No
+1434,Does a otter can breathe underwater?,Yes,No
+1435,Does a ostrich have fur?,Yes,No
+1436,A koala doesn't have legs.,No,No
+1437,Does a ray drink coffee?,Yes,No
+1438,Does a octupus have a tail?,No,No
+1439,Does a rat have scales?,No,No
+1440,Does a squid have horns?,Yes,No
+1441,Does a cat have fins?,No,No
+1442,Does a jellyfish eat meat?,Yes,No
+1443,A herring has fur.,Yes,No
+1444,Coffee is part of a kangaroo's diet.,No,No
+1445,A herring lives in the water.,No,Yes
+1446,Coffee is part of a shrimp's diet.,No,No
+1447,Does a duck drink coffee?,Yes,No
+1448,A octupus has bones.,Yes,No
+1449,Does a penguin have horns?,Yes,No
+1450,Does a hummingbird drink water?,Yes,Yes
+1451,A frog has wings.,Yes,No
+1452,Water is part of a parrot's diet.,No,Yes
+1453,A dolphin has at least one wing.,No,No
+1454,Does a gorilla live underwater?,No,No
+1455,A hippo has feathers.,Yes,No
+1456,Does a dog have a beak?,Yes,No
+1457,A jellyfish lives underwater.,Yes,Yes
+1458,Does a snail have four legs?,Yes,No
+1459,Does a tuna eat meat?,Yes,No
+1460,A fish has at least one wing.,No,No
+1461,A dolphin lives in the water.,Yes,Yes
+1462,Does a whale have teeth?,Yes,Yes
+1463,A rhino drinks water.,No,Yes
+1464,Does a fox have scales?,No,No
+1465,Does a otter drink water?,Yes,Yes
+1466,Is a beak a body part of a squid?,Yes,No
+1467,A pig has feathers.,Yes,No
+1468,A gorilla has legs.,Yes,Yes
+1469,A hippo has bones.,Yes,Yes
+1470,A jellyfish climb.,Yes,No
+1471,Does a lion have feathers?,Yes,No
+1472,A turtle can be found on a tree.,Yes,No
+1473,Does a whale have feathers?,Yes,No
+1474,Does a frog have horns?,Yes,No
+1475,Does a koala have two legs?,No,No
+1476,Meat is part of a horse's diet.,Yes,No
+1477,A beak is a body part of a lion.,Yes,No
+1478,A whale climb.,Yes,No
+1479,Does a iguana have feathers?,No,No
+1480,Does a penguin live underwater?,Yes,No
+1481,A monkey has claws.,Yes,No
+1482,A goat can breathe in the water.,No,No
+1483,A dog has wings.,Yes,No
+1484,Does a crocodile live underwater?,Yes,No
+1485,Does a bird have hair?,No,No
+1486,Does a gorilla have hooves?,No,No
+1487,A butterfly has two legs.,No,No
+1488,A lion can breathe in the water.,No,No
+1489,Water is part of a dolphin's diet.,Yes,No
+1490,Does a worm have feathers?,Yes,No
+1491,A monkey have four legs.,Yes,No
+1492,Does a monkey live underwater?,Yes,No
+1493,A beak is a body part of a crocodile.,Yes,No
+1494,A dog has bones.,Yes,Yes
+1495,A bear drinks water.,Yes,Yes
+1496,Meat is part of a sheep's diet.,Yes,No
+1497,Can a goat climb?,Yes,No
+1498,Does a butterfly have hooves?,No,No
+1499,A ray lives in the water.,No,Yes
+1500,Horns are a body part of a crocodile.,Yes,No
+1501,Does a rhino have a tail?,Yes,Yes
+1502,Does a fox have teeth?,Yes,Yes
+1503,Does a crab have hooves?,No,No
+1504,Does a prawn drink coffee?,Yes,No
+1505,Can a hippo climb?,No,No
+1506,A snake drinks coffee.,No,No
+1507,A beak is a body part of a koala.,Yes,No
+1508,A elephant has horns.,Yes,No
+1509,Does a monkey eat meat?,Yes,No
+1510,A salamander drinks water.,Yes,No
+1511,Does a iguana drink water?,Yes,Yes
+1512,Does a rhino have claws?,No,No
+1513,Does a cat have two legs?,Yes,No
+1514,A hippo can be found on a tree.,Yes,No
+1515,Does a camel have horns?,Yes,No
+1516,Does a duck have hooves?,No,No
+1517,A dog eats meat.,Yes,Yes
+1518,Does a snake have four legs?,Yes,No
+1519,A crab has two legs.,No,No
+1520,Does a frog have legs?,Yes,Yes
+1521,A swan has scales.,No,No
+1522,A turtle drinks coffee.,No,No
+1523,Does a herring have fins?,Yes,Yes
+1524,A mule climb.,Yes,No
+1525,A bird can fly.,Yes,Yes
+1526,Does a tuna have four legs?,No,No
+1527,Horns are a body part of a giraffe.,Yes,Yes
+1528,A deer has at least one wing.,Yes,No
+1529,Does a cow live underwater?,No,No
+1530,A herring has fins.,Yes,Yes
+1531,A frog has scales.,No,No
+1532,Does a gorilla drink coffee?,Yes,No
+1533,A dog drinks water.,No,Yes
+1534,Meat is part of a deer's diet.,Yes,No
+1535,A pigeon has fur.,Yes,No
+1536,A elephant has legs.,Yes,Yes
+1537,A prawn drinks coffee.,Yes,No
+1538,A bear lives underwater.,No,No
+1539,Does a camel have two legs?,Yes,No
+1540,Does a hummingbird have hooves?,Yes,No
+1541,A iguana have four legs.,No,Yes
+1542,Horns are a body part of a bat.,Yes,Yes
+1543,A lizard has teeth.,Yes,Yes
+1544,A fish has teeth.,Yes,Yes
+1545,A tuna has two legs.,No,No
+1546,Meat is part of a iguana's diet.,Yes,No
+1547,A squid has fur.,Yes,No
+1548,Does a elephant drink coffee?,Yes,No
+1549,A peacock has scales.,No,No
+1550,Does a giraffe drink coffee?,Yes,No
+1551,A duck climb.,Yes,No
+1552,Water is part of a octupus's diet.,No,No
+1553,A dog lives in the water.,No,No
+1554,Meat is part of a lion's diet.,Yes,Yes
+1555,Does a dog have horns?,No,No
+1556,A ray drinks coffee.,No,No
+1557,A beak is a body part of a monkey.,Yes,No
+1558,A whale has wings.,No,No
+1559,Does a wolf have four legs?,Yes,Yes
+1560,Does a deer drink water?,Yes,Yes
+1561,Does a goat have hair?,Yes,Yes
+1562,A horse climb.,Yes,No
+1563,A beak is a body part of a bird.,Yes,Yes
+1564,A octupus has a tail.,Yes,No
+1565,Does a frog have claws?,Yes,No
+1566,A wolf has teeth.,Yes,Yes
+1567,Meat is part of a peacock's diet.,Yes,No
+1568,Does a worm drink water?,Yes,No
+1569,A rat lives underwater.,Yes,No
+1570,A koala has two legs.,No,No
+1571,Does a wolf have fur?,Yes,Yes
+1572,Does a fish have feathers?,No,No
+1573,Does a deer have feathers?,Yes,No
+1574,A otter lives underwater.,Yes,No
+1575,A zebra eats meat.,Yes,No
+1576,Does a owl have a beak?,Yes,Yes
+1577,A salamander has teeth.,No,Yes
+1578,A whale lives underwater.,Yes,Yes
+1579,Does a horse live underwater?,No,No
+1580,A cow can fly.,Yes,No
+1581,A zebra has fins.,Yes,No
+1582,Horns are a body part of a snake.,No,No
+1583,A snail lives underwater.,Yes,No
+1584,Does a mule have legs?,Yes,Yes
+1585,A hippo drinks water.,Yes,Yes
+1586,Does a snail eat meat?,Yes,No
+1587,A eagle has wings.,Yes,Yes
+1588,A fish drinks coffee.,Yes,No
+1589,Does a jellyfish have teeth?,Yes,No
+1590,Does a mule have two legs?,Yes,No
+1591,A camel has teeth.,No,Yes
+1592,A peacock have four legs.,No,No
+1593,A hippo have four legs.,Yes,Yes
+1594,Is a beak a body part of a deer?,Yes,No
+1595,A cat has hair.,Yes,Yes
+1596,Does a kangaroo have claws?,No,Yes
+1597,A goat drinks water.,Yes,Yes
+1598,A giraffe has hooves.,No,Yes
+1599,Meat is part of a bird's diet.,Yes,No
+1600,Coffee is part of a whale's diet.,No,No
+1601,Coffee is part of a rat's diet.,No,No
+1602,Does a pigeon have two legs?,Yes,Yes
+1603,A sheep can fly.,No,No
+1604,Does a swan have a tail?,Yes,Yes
+1605,A rhino has horns.,Yes,Yes
+1606,A beak is a body part of a camel.,Yes,No
+1607,A hummingbird can be found on a tree.,Yes,Yes
+1608,Does a ostrich have at least one wing?,Yes,Yes
+1609,A swan doesn't have legs.,Yes,No
+1610,A frog has at least one wing.,Yes,No
+1611,A beak is a body part of a pigeon.,Yes,Yes
+1612,Does a sheep have fins?,No,No
+1613,A monkey drinks coffee.,Yes,No
+1614,Does a camel have teeth?,Yes,Yes
+1615,Does a hippo have horns?,Yes,No
+1616,A beak is a body part of a dolphin.,Yes,No
+1617,Does a mule have fur?,Yes,Yes
+1618,A shrimp has legs.,No,Yes
+1619,Does a dolphin have two legs?,Yes,No
+1620,Meat is part of a zebra's diet.,Yes,No
+1621,A worm has fur.,Yes,No
+1622,Can a rhino climb?,No,No
+1623,A eagle climb.,Yes,Yes
+1624,A ray can breathe underwater.,Yes,Yes
+1625,A zebra has hooves.,No,Yes
+1626,Does a monkey have fins?,Yes,No
+1627,A bird has hair.,No,No
+1628,A deer has bones.,Yes,Yes
+1629,Does a parrot have hooves?,Yes,No
+1630,A duck drinks water.,Yes,Yes
+1631,Does a camel can breathe underwater?,Yes,No
+1632,Does a gorilla can breathe underwater?,No,No
+1633,Does a sheep have fur?,Yes,Yes
+1634,A fox has hair.,Yes,Yes
+1635,Does a worm have four legs?,No,No
+1636,A snail have four legs.,Yes,No
+1637,A snake has claws.,Yes,No
+1638,A parrot lives underwater.,No,No
+1639,Does a rhino eat meat?,No,No
+1640,A parrot drinks water.,No,Yes
+1641,A swan has fur.,Yes,No
+1642,Does a shrimp have teeth?,No,No
+1643,A iguana lives underwater.,Yes,No
+1644,Does a eel have fur?,Yes,No
+1645,A camel has bones.,No,Yes
+1646,Can a otter fly?,Yes,No
+1647,Does a turtle drink water?,Yes,Yes
+1648,A hummingbird drinks water.,No,Yes
+1649,Can a snail climb?,Yes,Yes
+1650,A duck has teeth.,Yes,No
+1651,Does a lizard drink coffee?,Yes,No
+1652,Does a lizard have legs?,Yes,Yes
+1653,Does a ostrich have hooves?,Yes,No
+1654,A zebra has scales.,No,No
+1655,A snake has scales.,Yes,No
+1656,A bird lives in the water.,Yes,No
+1657,A rhino can breathe underwater.,Yes,No
+1658,A bird has feathers.,Yes,Yes
+1659,A otter can breathe in the water.,No,No
+1660,Does a monkey have fur?,Yes,Yes
+1661,Does a jellyfish have wings?,Yes,No
+1662,Can a ray climb?,No,No
+1663,A shrimp has fins.,Yes,Yes
+1664,Does a duck live underwater?,Yes,No
+1665,A horse has hair.,Yes,Yes
+1666,A rabbit has fins.,Yes,No
+1667,Coffee is part of a swan's diet.,No,No
+1668,Does a hummingbird have bones?,No,Yes
+1669,A sheep has bones.,Yes,Yes
+1670,A duck can be found on a tree.,Yes,No
+1671,Can a monkey climb?,Yes,Yes
+1672,A koala has claws.,No,Yes
+1673,A rabbit has a tail.,Yes,Yes
+1674,A snake has two legs.,Yes,No
+1675,A bear has hooves.,No,No
+1676,A deer has wings.,Yes,No
+1677,A prawn has at least one wing.,Yes,No
+1678,Does a owl live underwater?,Yes,No
+1679,Can a elephant fly?,No,No
+1680,A crocodile has teeth.,No,Yes
+1681,Is a beak a body part of a frog?,Yes,No
+1682,A wolf can fly.,Yes,No
+1683,Does a butterfly have claws?,Yes,No
+1684,A kangaroo has fins.,No,No
+1685,Does a elephant have horns?,Yes,No
+1686,Can a lion fly?,Yes,No
+1687,A rat has hair.,No,Yes
+1688,Water is part of a shark's diet.,Yes,No
+1689,Is a beak a body part of a elephant?,Yes,No
+1690,A elephant lives in the water.,No,No
+1691,Does a tuna have a beak?,Yes,No
+1692,Does a crocodile have legs?,Yes,Yes
+1693,A turtle has scales.,Yes,No
+1694,A salamander has legs.,No,Yes
+1695,A parrot has bones.,No,Yes
+1696,Does a dolphin have wings?,Yes,No
+1697,A octupus has hooves.,Yes,No
+1698,Does a eagle have four legs?,Yes,No
+1699,A otter eats meat.,Yes,Yes
+1700,Is a beak a body part of a monkey?,Yes,No
+1701,A cow has bones.,Yes,Yes
+1702,A eagle has horns.,Yes,No
+1703,Does a camel have a tail?,Yes,Yes
+1704,Does a tuna drink water?,Yes,Yes
+1705,Does a goat have legs?,Yes,Yes
+1706,Does a bear have legs?,Yes,Yes
+1707,Does a camel have fins?,Yes,No
+1708,Can a octupus fly?,Yes,No
+1709,A eel lives in the water.,No,Yes
+1710,A bear has hair.,Yes,Yes
+1711,Horns are a body part of a worm.,Yes,No
+1712,Does a peacock have hooves?,Yes,No
+1713,Does a bear have a tail?,Yes,Yes
+1714,A goat has fins.,Yes,No
+1715,A tuna can be found on a tree.,No,No
+1716,A jellyfish has fins.,Yes,No
+1717,Can a fox fly?,Yes,No
+1718,Is a beak a body part of a lizard?,Yes,No
+1719,Is a beak a body part of a butterfly?,Yes,No
+1720,A crocodile lives in the water.,No,No
+1721,Does a eel have at least one wing?,No,No
+1722,A whale can breathe in the water.,Yes,Yes
+1723,Does a shrimp have hair?,No,No
+1724,Does a dolphin have a beak?,Yes,No
+1725,Does a parrot have a beak?,Yes,Yes
+1726,Does a shrimp have fur?,No,No
+1727,A cow doesn't have legs.,Yes,No
+1728,A eagle eats meat.,Yes,Yes
+1729,A fox has teeth.,Yes,Yes
+1730,Does a swan have a beak?,Yes,Yes
+1731,Does a cat have claws?,Yes,Yes
+1732,Does a fox can breathe underwater?,No,No
+1733,A wolf climb.,Yes,Yes
+1734,A kangaroo has horns.,No,No
+1735,Does a lizard have scales?,No,No
+1736,A tuna have four legs.,No,No
+1737,Does a fox have a beak?,Yes,No
+1738,Coffee is part of a monkey's diet.,No,No
+1739,Does a cow have fins?,Yes,No
+1740,Does a snake have two legs?,Yes,No
+1741,A herring have four legs.,No,No
+1742,A fox lives in the water.,No,No
+1743,Does a butterfly have teeth?,Yes,No
+1744,Does a prawn have teeth?,Yes,No
+1745,A flamingo drinks water.,No,Yes
+1746,Does a rat have two legs?,Yes,No
+1747,Is a beak a body part of a peacock?,Yes,Yes
+1748,Can a crocodile climb?,Yes,No
+1749,Does a shark have hooves?,No,No
+1750,Can a horse fly?,No,No
+1751,A horse has teeth.,Yes,Yes
+1752,Does a peacock eat meat?,No,No
+1753,Does a deer have wings?,Yes,No
+1754,A whale lives in the water.,Yes,Yes
+1755,Water is part of a prawn's diet.,No,No
+1756,A snail has bones.,Yes,No
+1757,A zebra can breathe underwater.,Yes,No
+1758,A hummingbird lives in the water.,No,No
+1759,Does a eagle have hooves?,Yes,No
+1760,Does a crocodile have fins?,Yes,No
+1761,A snake has horns.,Yes,No
+1762,Does a prawn have horns?,Yes,No
+1763,A bear drinks coffee.,Yes,No
+1764,Is a beak a body part of a salamander?,Yes,No
+1765,Does a goat have a beak?,Yes,No
+1766,A octupus can breathe underwater.,Yes,Yes
+1767,A lion has hair.,Yes,Yes
+1768,A flamingo lives in the water.,No,No
+1769,A peacock can breathe in the water.,No,No
+1770,A iguana has teeth.,No,Yes
+1771,Horns are a body part of a frog.,Yes,No
+1772,Does a snail have fur?,Yes,No
+1773,Does a penguin have hooves?,No,No
+1774,Does a monkey can breathe underwater?,Yes,No
+1775,A duck has bones.,Yes,Yes
+1776,Does a bat have at least one wing?,Yes,Yes
+1777,A herring has scales.,Yes,Yes
+1778,Coffee is part of a butterfly's diet.,No,No
+1779,Meat is part of a penguin's diet.,Yes,Yes
+1780,Can a parrot climb?,No,Yes
+1781,Does a snake have scales?,Yes,No
+1782,A turtle has hooves.,No,No
+1783,Does a kangaroo live underwater?,No,No
+1784,Meat is part of a butterfly's diet.,No,No
+1785,A shrimp has two legs.,No,No
+1786,A bird has horns.,Yes,No
+1787,Does a sheep have hooves?,Yes,Yes
+1788,Does a bird have wings?,Yes,Yes
+1789,Does a camel drink coffee?,Yes,No
+1790,Horns are a body part of a swan.,Yes,No
+1791,A eagle can fly.,Yes,Yes
+1792,Does a gorilla have a tail?,Yes,No
+1793,A duck doesn't have legs.,Yes,No
+1794,Does a goat have a tail?,Yes,Yes
+1795,A rabbit lives in the water.,No,No
+1796,Does a frog have at least one wing?,Yes,No
+1797,A zebra doesn't have legs.,Yes,No
+1798,Water is part of a eagle's diet.,No,Yes
+1799,A iguana can fly.,No,No
+1800,Does a fish have hooves?,No,No
+1801,A koala can be found on a tree.,No,Yes
+1802,Horns are a body part of a tuna.,No,No
+1803,A eel has legs.,Yes,No
+1804,A rat has wings.,No,No
+1805,A crocodile has scales.,Yes,Yes
+1806,A jellyfish drinks water.,Yes,No
+1807,Water is part of a turtle's diet.,No,Yes
+1808,A peacock has legs.,No,Yes
+1809,A dog has teeth.,Yes,Yes
+1810,Does a shark have legs?,Yes,No
+1811,A sheep has scales.,Yes,No
+1812,Does a horse have hair?,Yes,Yes
+1813,A cat can be found on a tree.,Yes,Yes
+1814,A tuna has hooves.,No,No
+1815,Does a snake have a beak?,Yes,No
+1816,A goat doesn't have legs.,Yes,No
+1817,Does a sheep have at least one wing?,Yes,No
+1818,Does a herring have wings?,Yes,No
+1819,Does a flamingo have hair?,Yes,No
+1820,A pigeon eats meat.,Yes,No
+1821,A crab lives in the water.,Yes,Yes
+1822,A cat climb.,Yes,Yes
+1823,Meat is part of a monkey's diet.,Yes,No
+1824,Horns are a body part of a otter.,No,No
+1825,Water is part of a salamander's diet.,Yes,No
+1826,Does a whale have hooves?,No,No
+1827,A fox can breathe in the water.,No,No
+1828,A otter has a tail.,Yes,Yes
+1829,A crab has scales.,Yes,No
+1830,Horns are a body part of a cow.,Yes,Yes
+1831,A crocodile has fins.,Yes,No
+1832,Does a pigeon have scales?,No,No
+1833,Does a horse can breathe underwater?,No,No
+1834,A snake has a tail.,Yes,Yes
+1835,A otter can breathe underwater.,Yes,No
+1836,A hippo lives in the water.,No,No
+1837,A gorilla has fur.,Yes,Yes
+1838,Does a worm have claws?,Yes,No
+1839,Does a shark eat meat?,Yes,Yes
+1840,A snail climb.,No,Yes
+1841,A horse has hooves.,Yes,Yes
+1842,Does a mule have bones?,No,Yes
+1843,Does a snail drink coffee?,Yes,No
+1844,A koala has at least one wing.,No,No
+1845,Water is part of a duck's diet.,No,Yes
+1846,Does a whale have scales?,Yes,Yes
+1847,A rat has two legs.,Yes,No
+1848,Does a camel have four legs?,Yes,Yes
+1849,A dolphin has hair.,Yes,No
+1850,A dolphin has legs.,Yes,No
+1851,Does a hummingbird have feathers?,Yes,Yes
+1852,Does a frog have two legs?,Yes,No
+1853,A wolf lives underwater.,No,No
+1854,Does a ray have fur?,Yes,No
+1855,A penguin has two legs.,No,Yes
+1856,A pig can be found on a tree.,Yes,No
+1857,A parrot has claws.,Yes,Yes
+1858,Does a bear have two legs?,Yes,No
+1859,Does a kangaroo have scales?,No,No
+1860,Does a flamingo have two legs?,Yes,Yes
+1861,Does a giraffe have feathers?,Yes,No
+1862,A bird has bones.,Yes,Yes
+1863,A tuna eats meat.,Yes,No
+1864,A fox has legs.,Yes,Yes
+1865,Can a rat climb?,No,Yes
+1866,Meat is part of a fish's diet.,Yes,No
+1867,Does a koala have fur?,Yes,Yes
+1868,Does a ostrich have feathers?,Yes,Yes
+1869,Does a rabbit have fins?,Yes,No
+1870,A lizard has hooves.,No,No
+1871,Does a cat have scales?,No,No
+1872,Does a prawn can breathe underwater?,Yes,Yes
+1873,A zebra has fur.,Yes,Yes
+1874,Does a shark have feathers?,No,No
+1875,A ostrich can fly.,Yes,Yes
+1876,A octupus has at least one wing.,No,No
+1877,Does a swan have at least one wing?,Yes,Yes
+1878,A cat has hooves.,No,No
+1879,A bat has horns.,Yes,Yes
+1880,A tuna has bones.,Yes,Yes
+1881,Meat is part of a lizard's diet.,Yes,No
+1882,Coffee is part of a squid's diet.,No,No
+1883,Does a owl have teeth?,Yes,No
+1884,A salamander can breathe underwater.,Yes,No
+1885,A rabbit has two legs.,Yes,No
+1886,A herring drinks water.,Yes,No
+1887,Does a ostrich have fins?,No,No
+1888,A shrimp eats meat.,Yes,No
+1889,A hummingbird doesn't have legs.,No,No
+1890,A beak is a body part of a tuna.,Yes,No
+1891,A rhino has bones.,Yes,Yes
+1892,A iguana has claws.,No,Yes
+1893,Is a beak a body part of a pig?,Yes,No
+1894,Does a bear drink coffee?,Yes,No
+1895,A snail can fly.,Yes,No
+1896,Does a salamander have fur?,Yes,No
+1897,A bear has feathers.,Yes,No
+1898,A dog can breathe in the water.,Yes,No
+1899,A giraffe has teeth.,Yes,Yes
+1900,A prawn has bones.,Yes,No
+1901,Does a elephant have hair?,Yes,No
+1902,A herring lives underwater.,No,Yes
+1903,Does a pigeon have wings?,Yes,Yes
+1904,A giraffe has two legs.,Yes,No
+1905,Does a rhino have hooves?,Yes,Yes
+1906,Does a hippo have wings?,Yes,No
+1907,Does a rhino have two legs?,Yes,No
+1908,A snail can breathe in the water.,Yes,No
+1909,Does a hippo have four legs?,Yes,Yes
+1910,A wolf has bones.,Yes,Yes
+1911,A rhino has hair.,No,No
+1912,A beak is a body part of a owl.,Yes,Yes
+1913,A shark can fly.,Yes,No
+1914,A whale can fly.,Yes,No
+1915,A jellyfish has hooves.,No,No
+1916,Meat is part of a shark's diet.,Yes,Yes
+1917,A wolf has wings.,Yes,No
+1918,Does a lizard have two legs?,Yes,No
+1919,Horns are a body part of a monkey.,No,No
+1920,A rat doesn't have legs.,No,No
+1921,Does a butterfly drink coffee?,Yes,No
+1922,Does a snake have fins?,Yes,No
+1923,A mule lives in the water.,Yes,No
+1924,Does a owl have claws?,Yes,Yes
+1925,A rhino drinks coffee.,No,No
+1926,A hummingbird has horns.,Yes,No
+1927,Does a rat live underwater?,Yes,No
+1928,A tuna has hair.,Yes,No
+1929,Does a crocodile have bones?,Yes,Yes
+1930,Does a otter have hair?,No,Yes
+1931,A bear has fur.,Yes,Yes
+1932,Does a bear live underwater?,No,No
+1933,Water is part of a elephant's diet.,No,Yes
+1934,A dog have four legs.,Yes,Yes
+1935,Coffee is part of a iguana's diet.,No,No
+1936,A sheep has fur.,Yes,Yes
+1937,A giraffe has at least one wing.,Yes,No
+1938,A giraffe climb.,Yes,No
+1939,Does a tuna have teeth?,Yes,Yes
+1940,A fish has two legs.,No,No
+1941,A beak is a body part of a herring.,Yes,No
+1942,Does a rhino have teeth?,Yes,Yes
+1943,Does a lion have wings?,Yes,No
+1944,A koala has wings.,No,No
+1945,A iguana has a tail.,No,Yes
+1946,Does a wolf have a beak?,Yes,No
+1947,Does a cat have teeth?,Yes,Yes
+1948,Does a camel have scales?,No,No
+1949,Coffee is part of a eagle's diet.,No,No
+1950,Does a cow have claws?,Yes,Yes
+1951,A whale has bones.,Yes,Yes
+1952,Does a dog have fur?,Yes,Yes
+1953,A koala can breathe in the water.,Yes,No
+1954,A turtle has wings.,Yes,No
+1955,Does a jellyfish have four legs?,No,No
+1956,Does a ray have scales?,No,No
+1957,A worm has fins.,Yes,No
+1958,Does a worm eat meat?,Yes,No
+1959,Does a cat have feathers?,No,No
+1960,Does a swan can breathe underwater?,Yes,No
+1961,Does a zebra have legs?,Yes,Yes
+1962,A ostrich has feathers.,Yes,Yes
+1963,A parrot has feathers.,Yes,Yes
+1964,A parrot has wings.,Yes,Yes
+1965,A kangaroo drinks water.,Yes,Yes
+1966,Does a squid have scales?,No,No
+1967,Does a herring have fur?,Yes,No
+1968,Does a lizard have fur?,Yes,No
+1969,A camel has hair.,No,Yes
+1970,Horns are a body part of a owl.,Yes,No
+1971,A whale has fins.,Yes,Yes
+1972,A squid has scales.,No,No
+1973,A zebra has legs.,Yes,Yes
+1974,A jellyfish has a tail.,Yes,No
+1975,A kangaroo has claws.,No,Yes
+1976,Does a otter have hooves?,No,No
+1977,Does a shrimp have claws?,No,No
+1978,A ostrich has teeth.,Yes,No
+1979,A flamingo has wings.,Yes,Yes
+1980,Does a giraffe have four legs?,Yes,Yes
+1981,Is a beak a body part of a snail?,Yes,No
+1982,A whale has a tail.,Yes,Yes
+1983,Does a bat have legs?,Yes,Yes
+1984,Coffee is part of a flamingo's diet.,No,No
+1985,A swan can fly.,Yes,Yes
+1986,Does a pig drink coffee?,Yes,No
+1987,Does a eagle have horns?,Yes,No
+1988,Does a pig have fins?,Yes,No
+1989,A hummingbird has a tail.,Yes,Yes
+1990,A herring can breathe underwater.,Yes,Yes
+1991,Does a bear have hooves?,No,No
+1992,A tuna has horns.,Yes,No
+1993,Is a beak a body part of a fish?,Yes,No
+1994,A peacock has bones.,No,Yes
+1995,A ray has legs.,No,No
+1996,Does a ostrich have two legs?,Yes,Yes
+1997,A snail has teeth.,Yes,No
+1998,A pigeon has fins.,Yes,No
+1999,Horns are a body part of a turtle.,Yes,No
+2000,A goat eats meat.,Yes,No
+2001,A elephant has scales.,Yes,No
+2002,A bird can breathe underwater.,Yes,No
+2003,A gorilla can breathe in the water.,No,No
+2004,A beak is a body part of a giraffe.,Yes,No
+2005,Does a horse have scales?,Yes,No
+2006,Does a iguana can breathe underwater?,Yes,No
+2007,A beak is a body part of a peacock.,Yes,Yes
+2008,Does a penguin drink water?,Yes,Yes
+2009,A swan has two legs.,Yes,No
+2010,Does a cat have wings?,Yes,No
+2011,A octupus can fly.,Yes,No
+2012,A dolphin has fins.,Yes,Yes
+2013,A beak is a body part of a whale.,Yes,No
+2014,A crocodile can fly.,Yes,No
+2015,Does a herring have teeth?,Yes,Yes
+2016,A monkey has a tail.,Yes,Yes
+2017,A beak is a body part of a wolf.,Yes,No
+2018,Does a owl have scales?,No,No
+2019,Does a shrimp live underwater?,Yes,Yes
+2020,Can a pig fly?,Yes,No
+2021,Does a zebra have fur?,Yes,Yes
+2022,Coffee is part of a ostrich's diet.,No,No
+2023,Does a rat have legs?,Yes,Yes
+2024,Does a koala have four legs?,No,No
+2025,A salamander eats meat.,Yes,Yes
+2026,Does a rabbit have horns?,Yes,No
+2027,A swan climb.,Yes,No
+2028,Does a goat have teeth?,Yes,Yes
+2029,A bird doesn't have legs.,Yes,No
+2030,A squid has feathers.,No,No
+2031,Does a dolphin have teeth?,No,Yes
+2032,Can a ostrich fly?,No,Yes
+2033,Does a hummingbird have horns?,Yes,No
+2034,Does a parrot have feathers?,Yes,Yes
+2035,Does a snake drink water?,Yes,Yes
+2036,A cow drinks water.,Yes,Yes
+2037,A rhino eats meat.,Yes,No
+2038,A salamander have four legs.,No,Yes
+2039,A flamingo has hair.,Yes,No
+2040,A prawn has two legs.,Yes,No
+2041,Does a crab drink coffee?,Yes,No
+2042,A beak is a body part of a turtle.,Yes,No
+2043,Does a swan live underwater?,Yes,No
+2044,Does a sheep have claws?,Yes,No
+2045,Does a swan eat meat?,No,No
+2046,Does a turtle have fur?,Yes,No
+2047,A pigeon has feathers.,Yes,Yes
+2048,A bat has fins.,Yes,No
+2049,Can a owl climb?,Yes,Yes
+2050,A salamander has two legs.,No,No
+2051,A monkey has hooves.,No,No
+2052,A shark has scales.,Yes,Yes
+2053,A bat can fly.,Yes,Yes
+2054,Does a prawn have hooves?,No,No
+2055,Does a hippo have two legs?,Yes,No
+2056,A frog has fins.,Yes,No
+2057,Does a jellyfish live underwater?,Yes,Yes
+2058,Does a whale have a tail?,Yes,Yes
+2059,Is a beak a body part of a crocodile?,Yes,No
+2060,Coffee is part of a sheep's diet.,No,No
+2061,A ray have four legs.,No,No
+2062,A herring has horns.,Yes,No
+2063,Coffee is part of a deer's diet.,No,No
+2064,A lion has bones.,Yes,Yes
+2065,Meat is part of a otter's diet.,Yes,Yes
+2066,Can a lion climb?,No,Yes
+2067,Does a herring have hair?,Yes,No
+2068,A butterfly has feathers.,Yes,No
+2069,A koala climb.,Yes,Yes
+2070,Does a ray have wings?,Yes,No
+2071,A mule has fur.,Yes,Yes
+2072,A lion doesn't have legs.,Yes,No
+2073,Does a pig have teeth?,Yes,Yes
+2074,A iguana has horns.,No,No
+2075,A eel doesn't have legs.,No,Yes
+2076,A iguana climb.,No,Yes
+2077,A cow climb.,Yes,No
+2078,Does a wolf drink coffee?,Yes,No
+2079,Does a lion have a tail?,Yes,Yes
+2080,A shrimp has bones.,No,No
+2081,A koala eats meat.,Yes,No
+2082,A gorilla has feathers.,Yes,No
+2083,A fox doesn't have legs.,Yes,No
+2084,Does a sheep have scales?,No,No
+2085,Does a lizard have four legs?,Yes,Yes
+2086,A snail has horns.,Yes,No
+2087,Does a monkey drink water?,Yes,Yes
+2088,Does a gorilla have claws?,No,No
+2089,Water is part of a rhino's diet.,No,Yes
+2090,Does a zebra have scales?,No,No
+2091,Does a shark have hair?,Yes,No
+2092,Does a salamander have legs?,No,Yes
+2093,A fish doesn't have legs.,No,Yes
+2094,Does a bird have scales?,No,No
+2095,A parrot has hair.,Yes,No
+2096,Does a iguana drink coffee?,Yes,No
+2097,A snake lives underwater.,Yes,No
+2098,Does a giraffe have claws?,Yes,No
+2099,Horns are a body part of a shrimp.,No,No
+2100,A salamander doesn't have legs.,No,No
+2101,Can a rabbit climb?,No,No
+2102,A ray has at least one wing.,Yes,No
+2103,A crab has legs.,No,Yes
+2104,Does a kangaroo have feathers?,Yes,No
+2105,A owl has wings.,Yes,Yes
+2106,Does a fish have teeth?,Yes,Yes
+2107,A deer drinks coffee.,Yes,No
+2108,A bear can be found on a tree.,Yes,Yes
+2109,A wolf has scales.,No,No
+2110,Does a squid have two legs?,Yes,No
+2111,Does a snail have teeth?,Yes,No
+2112,A hummingbird has fur.,Yes,No
+2113,Does a ostrich drink coffee?,Yes,No
+2114,Does a herring have a tail?,Yes,Yes
+2115,A flamingo has horns.,Yes,No
+2116,Does a kangaroo can breathe underwater?,No,No
+2117,Does a giraffe have horns?,Yes,Yes
+2118,Can a rabbit fly?,Yes,No
+2119,Does a shrimp have at least one wing?,Yes,No
+2120,Does a pig have claws?,Yes,No
+2121,Coffee is part of a herring's diet.,No,No
+2122,Does a pig have scales?,No,No
+2123,Is a beak a body part of a octupus?,No,No
+2124,A elephant has at least one wing.,Yes,No
+2125,Does a whale have bones?,Yes,Yes
+2126,Horns are a body part of a zebra.,No,No
+2127,A snake drinks water.,Yes,Yes
+2128,A bear has claws.,Yes,Yes
+2129,A fish has a tail.,Yes,Yes
+2130,A butterfly has teeth.,Yes,No
+2131,Does a rat have a beak?,Yes,No
+2132,Does a kangaroo drink coffee?,Yes,No
+2133,Can a whale climb?,Yes,No
+2134,A bat has teeth.,No,Yes
+2135,A shark has hooves.,No,No
+2136,Does a whale have claws?,No,No
+2137,Does a squid eat meat?,Yes,No
+2138,Does a elephant eat meat?,No,No
+2139,Is a beak a body part of a penguin?,Yes,Yes
+2140,A herring has legs.,No,No
+2141,A rabbit has horns.,Yes,No
+2142,A herring doesn't have legs.,No,Yes
+2143,Does a ray can breathe underwater?,Yes,Yes
+2144,Does a bear have fur?,Yes,Yes
+2145,Horns are a body part of a squid.,Yes,No
+2146,A snake has feathers.,Yes,No
+2147,A hippo has fur.,Yes,No
+2148,Does a penguin have claws?,Yes,Yes
+2149,A prawn has hair.,Yes,No
+2150,Is a beak a body part of a sheep?,Yes,No
+2151,Does a snake have teeth?,Yes,Yes
+2152,A cow has feathers.,Yes,No
+2153,Does a penguin eat meat?,Yes,Yes
+2154,A turtle has fur.,Yes,No
+2155,A crab can fly.,Yes,No
+2156,Does a eagle have fur?,Yes,No
+2157,Does a hummingbird have at least one wing?,Yes,Yes
+2158,Does a duck have two legs?,Yes,Yes
+2159,A fox has hooves.,No,No
+2160,Does a peacock can breathe underwater?,Yes,No
+2161,A beak is a body part of a snake.,Yes,No
+2162,A dolphin has feathers.,No,No
+2163,Does a otter drink coffee?,Yes,No
+2164,A butterfly can be found on a tree.,Yes,Yes
+2165,A iguana drinks water.,Yes,Yes
+2166,A hippo has legs.,Yes,Yes
+2167,Does a rabbit have hooves?,Yes,No
+2168,Is a beak a body part of a dog?,Yes,No
+2169,Does a fish eat meat?,Yes,No
+2170,Can a iguana climb?,Yes,Yes
+2171,Does a rat have bones?,No,Yes
+2172,Horns are a body part of a elephant.,Yes,No
+2173,Coffee is part of a eel's diet.,No,No
+2174,Does a otter have feathers?,Yes,No
+2175,Water is part of a kangaroo's diet.,No,Yes
+2176,A fox can be found on a tree.,Yes,Yes
+2177,Is a beak a body part of a shrimp?,Yes,No
+2178,A shrimp drinks water.,Yes,No
+2179,A horse lives underwater.,No,No
+2180,Does a wolf eat meat?,Yes,Yes
+2181,Does a frog have fur?,Yes,No
+2182,A zebra has at least one wing.,Yes,No
+2183,A ostrich has a tail.,Yes,Yes
+2184,Does a horse have bones?,Yes,Yes
+2185,Does a pig have horns?,Yes,No
+2186,A pig has a tail.,Yes,Yes
+2187,A prawn have four legs.,Yes,No
+2188,Does a camel drink water?,Yes,Yes
+2189,Does a bat have fur?,Yes,Yes
+2190,Does a shark have bones?,No,Yes
+2191,Does a ray have bones?,No,No
+2192,A lizard has fur.,Yes,No
+2193,Does a owl have legs?,No,Yes
+2194,A dog climb.,Yes,Yes
+2195,A owl lives underwater.,Yes,No
+2196,A dolphin can be found on a tree.,No,No
+2197,A flamingo has at least one wing.,Yes,Yes
+2198,A tuna can breathe in the water.,Yes,Yes
+2199,A lizard has scales.,No,No
+2200,A horse has claws.,Yes,No
+2201,Does a turtle have legs?,Yes,Yes
+2202,Does a iguana have a tail?,No,Yes
+2203,A kangaroo eats meat.,No,No
+2204,Does a prawn have claws?,Yes,No
+2205,Does a wolf have legs?,Yes,Yes
+2206,Does a eagle drink water?,No,Yes
+2207,A fox has wings.,Yes,No
+2208,Does a gorilla have scales?,No,No
+2209,Does a frog drink coffee?,Yes,No
+2210,Does a rabbit have at least one wing?,Yes,No
+2211,Does a goat have hooves?,No,Yes
+2212,A salamander has fur.,Yes,No
+2213,Does a ostrich drink water?,Yes,Yes
+2214,Does a flamingo have scales?,No,No
+2215,Does a koala drink coffee?,Yes,No
+2216,A deer can breathe in the water.,No,No
+2217,Does a giraffe have scales?,No,No
+2218,Does a lion drink coffee?,No,No
+2219,Does a monkey have horns?,No,No
+2220,A eel has scales.,Yes,Yes
+2221,Does a iguana have horns?,No,No
+2222,A dog can be found on a tree.,Yes,Yes
+2223,A beak is a body part of a hummingbird.,Yes,Yes
+2224,A bird has a tail.,Yes,Yes
+2225,Does a snail have horns?,Yes,No
+2226,Does a duck have fur?,Yes,No
+2227,Does a dolphin live underwater?,Yes,Yes
+2228,Does a jellyfish have two legs?,No,No
+2229,Is a beak a body part of a hummingbird?,Yes,Yes
+2230,Does a cow have at least one wing?,Yes,No
+2231,Does a lion have bones?,Yes,Yes
+2232,A cat has at least one wing.,No,No
+2233,Does a kangaroo have two legs?,No,Yes
+2234,A herring has a tail.,Yes,Yes
+2235,A mule has bones.,No,Yes
+2236,Does a gorilla have horns?,Yes,No
+2237,Meat is part of a crab's diet.,Yes,No
+2238,A frog doesn't have legs.,Yes,No
+2239,Is a beak a body part of a hippo?,Yes,No
+2240,Does a eel have hair?,Yes,No
+2241,A parrot drinks coffee.,Yes,No
+2242,Does a ostrich have horns?,Yes,No
+2243,A squid lives in the water.,Yes,Yes
+2244,A frog has legs.,Yes,Yes
+2245,Meat is part of a tuna's diet.,Yes,No
+2246,Does a zebra can breathe underwater?,Yes,No
+2247,Does a dog have feathers?,No,No
+2248,Does a dolphin have claws?,No,No
+2249,Does a owl eat meat?,No,No
+2250,A dolphin can fly.,Yes,No
+2251,A giraffe can fly.,Yes,No
+2252,A bear can breathe in the water.,No,No
+2253,Does a hippo have hooves?,Yes,Yes
+2254,Horns are a body part of a rat.,No,No
+2255,A kangaroo has scales.,No,No
+2256,A eel has two legs.,Yes,No
+2257,Does a penguin have bones?,No,Yes
+2258,A elephant lives underwater.,No,No
+2259,Can a gorilla fly?,Yes,No
+2260,A frog has fur.,Yes,No
+2261,A koala has teeth.,No,Yes
+2262,Does a dolphin can breathe underwater?,Yes,Yes
+2263,Does a monkey have scales?,No,No
+2264,Does a horse have fur?,Yes,Yes
+2265,Does a herring have scales?,No,Yes
+2266,A kangaroo has hooves.,No,No
+2267,Can a sheep climb?,Yes,No
+2268,A penguin has horns.,Yes,No
+2269,Does a hippo have fur?,Yes,No
+2270,A butterfly has hair.,Yes,No
+2271,Does a koala have claws?,No,Yes
+2272,Does a squid have fins?,Yes,No
+2273,A rhino has fur.,Yes,No
+2274,A snake has hair.,Yes,No
+2275,Does a worm have fur?,Yes,No
+2276,Is a beak a body part of a dolphin?,Yes,No
+2277,Does a bird have bones?,Yes,Yes
+2278,Can a wolf fly?,Yes,No
+2279,Does a elephant have fins?,Yes,No
+2280,Does a gorilla eat meat?,Yes,No
+2281,Does a horse have fins?,No,No
+2282,A rat can fly.,Yes,No
+2283,A shark have four legs.,No,No
+2284,Does a peacock live underwater?,Yes,No
+2285,Does a pigeon have fur?,Yes,No
+2286,Horns are a body part of a fish.,Yes,No
+2287,A giraffe has fur.,Yes,Yes
+2288,Does a shark have two legs?,No,No
+2289,A peacock has wings.,Yes,Yes
+2290,Is a beak a body part of a prawn?,Yes,No
+2291,Does a shark have a beak?,Yes,No
+2292,A goat can be found on a tree.,Yes,No
+2293,Water is part of a dog's diet.,No,Yes
+2294,Does a rabbit have wings?,Yes,No
+2295,Horns are a body part of a crab.,No,No
+2296,Does a cow have wings?,Yes,No
+2297,Does a bear have hair?,Yes,Yes
+2298,Does a fox have wings?,Yes,No
+2299,A beak is a body part of a rat.,Yes,No
+2300,A penguin has scales.,No,No
+2301,A otter has two legs.,No,No
+2302,Does a shrimp have a beak?,Yes,No
+2303,Does a tuna have fins?,Yes,Yes
+2304,Does a jellyfish have a beak?,Yes,No
+2305,A worm has bones.,Yes,No
+2306,A snail drinks water.,Yes,Yes
+2307,A jellyfish have four legs.,No,No
+2308,Does a horse have a beak?,Yes,No
+2309,Does a wolf can breathe underwater?,No,No
+2310,Does a deer have a tail?,Yes,Yes
+2311,Does a wolf have scales?,No,No
+2312,A flamingo has legs.,No,Yes
+2313,A shrimp can be found on a tree.,No,No
+2314,Does a goat drink water?,Yes,Yes
+2315,Does a cow drink coffee?,Yes,No
+2316,Is a beak a body part of a owl?,Yes,Yes
+2317,A dolphin has horns.,Yes,No
+2318,Does a pig eat meat?,Yes,No
+2319,Does a snake have at least one wing?,Yes,No
+2320,Does a gorilla have fins?,Yes,No
+2321,A peacock can be found on a tree.,Yes,Yes
+2322,Does a fish have four legs?,No,No
+2323,Does a flamingo have claws?,Yes,Yes
+2324,A crab drinks coffee.,Yes,No
+2325,A shark drinks coffee.,No,No
+2326,Meat is part of a dolphin's diet.,No,Yes
+2327,A hippo can fly.,Yes,No
+2328,Does a rat have horns?,Yes,No
+2329,Does a lion have scales?,Yes,No
+2330,A snail has fur.,Yes,No
+2331,A bat has hair.,No,Yes
+2332,Does a peacock have feathers?,Yes,Yes
+2333,A pig can breathe in the water.,No,No
+2334,A otter has hair.,No,Yes
+2335,Does a crocodile have at least one wing?,Yes,No
+2336,Does a penguin have feathers?,Yes,No
+2337,Can a duck fly?,Yes,No
+2338,A zebra has bones.,Yes,Yes
+2339,A hippo has two legs.,Yes,No
+2340,A crab has fins.,Yes,No
+2341,A sheep has feathers.,Yes,No
+2342,A herring can fly.,No,No
+2343,Does a parrot have fins?,Yes,No
+2344,A swan has teeth.,No,No
+2345,A wolf can be found on a tree.,Yes,Yes
+2346,Does a jellyfish drink water?,Yes,No
+2347,A fish has claws.,Yes,No
+2348,A eagle lives underwater.,No,No
+2349,A beak is a body part of a duck.,Yes,Yes
+2350,A whale has feathers.,Yes,No
+2351,Does a mule live underwater?,Yes,No
+2352,Does a shrimp drink water?,Yes,No
+2353,Does a eagle have a beak?,Yes,Yes
+2354,Does a mule have fins?,No,No
+2355,Does a bat can breathe underwater?,No,No
+2356,A snail eats meat.,Yes,No
+2357,Does a rat drink water?,Yes,Yes
+2358,A deer drinks water.,Yes,Yes
+2359,A kangaroo has teeth.,No,Yes
+2360,Does a squid have claws?,Yes,No
+2361,Does a tuna have scales?,Yes,Yes
+2362,A dolphin has bones.,No,Yes
+2363,A kangaroo has legs.,No,Yes
+2364,Does a peacock have scales?,No,No
+2365,A horse has bones.,Yes,Yes
+2366,Does a rat have claws?,No,Yes
+2367,A penguin has hooves.,No,No
+2368,A deer doesn't have legs.,Yes,No
+2369,Meat is part of a cow's diet.,Yes,No
+2370,Meat is part of a herring's diet.,Yes,No
+2371,Does a butterfly have feathers?,Yes,No
+2372,A shrimp has horns.,No,No
+2373,A beak is a body part of a horse.,Yes,No
+2374,A sheep has fins.,Yes,No
+2375,Does a whale live underwater?,Yes,Yes
+2376,A ostrich has hooves.,No,No
+2377,A horse has fur.,Yes,Yes
+2378,Does a penguin can breathe underwater?,Yes,No
+2379,A camel has wings.,No,No
+2380,A crocodile has legs.,Yes,Yes
+2381,Does a peacock have fur?,Yes,No
+2382,Does a penguin have a beak?,Yes,Yes
+2383,A dolphin drinks coffee.,Yes,No
+2384,Does a iguana have four legs?,No,Yes
+2385,A monkey has horns.,Yes,No
+2386,A otter drinks coffee.,Yes,No
+2387,A mule has at least one wing.,No,No
+2388,A pig has wings.,Yes,No
+2389,Does a crocodile have hooves?,Yes,No
+2390,Does a gorilla drink water?,Yes,Yes
+2391,Does a hippo have legs?,Yes,Yes
+2392,A ostrich have four legs.,Yes,No
+2393,Does a fish drink coffee?,Yes,No
+2394,A snake has wings.,Yes,No
+2395,Does a gorilla have fur?,Yes,Yes
+2396,A hummingbird has fins.,Yes,No
+2397,Does a frog have teeth?,Yes,Yes
+2398,A parrot have four legs.,Yes,No
+2399,A monkey eats meat.,Yes,No
+2400,A otter have four legs.,Yes,Yes
+2401,A butterfly drinks water.,No,Yes
+2402,Does a pig have four legs?,Yes,Yes
+2403,Does a lizard have at least one wing?,Yes,No
+2404,A fish eats meat.,Yes,No
+2405,A gorilla can breathe underwater.,No,No
+2406,Does a eel have legs?,Yes,No
+2407,Does a shrimp have two legs?,No,No
+2408,A mule has wings.,Yes,No
+2409,A shark has wings.,Yes,No
+2410,Does a bear drink water?,Yes,Yes
+2411,Does a giraffe have hair?,Yes,Yes
+2412,Can a octupus climb?,Yes,No
+2413,A deer lives underwater.,No,No
+2414,A parrot has fins.,Yes,No
+2415,Does a eel live underwater?,Yes,Yes
+2416,Coffee is part of a giraffe's diet.,No,No
+2417,A rhino has legs.,Yes,Yes
+2418,Coffee is part of a prawn's diet.,No,No
+2419,A ray lives underwater.,Yes,Yes
+2420,Water is part of a jellyfish's diet.,Yes,No
+2421,Does a horse have four legs?,Yes,Yes
+2422,A herring has claws.,Yes,No
+2423,Does a herring have horns?,Yes,No
+2424,A prawn lives in the water.,No,Yes
+2425,Does a mule have wings?,No,No
+2426,A shrimp has feathers.,No,No
+2427,Meat is part of a elephant's diet.,Yes,No
+2428,Does a butterfly drink water?,Yes,Yes
+2429,Is a beak a body part of a cat?,Yes,No
+2430,Does a deer have a beak?,Yes,No
+2431,Does a snail have bones?,Yes,No
+2432,A rabbit has bones.,Yes,Yes
+2433,Meat is part of a bat's diet.,Yes,No
+2434,A eel has feathers.,No,No
+2435,A dolphin has scales.,Yes,No
+2436,A eagle can be found on a tree.,Yes,Yes
+2437,Does a kangaroo have fins?,No,No
+2438,A wolf lives in the water.,No,No
+2439,A whale eats meat.,Yes,Yes
+2440,Does a dog have legs?,Yes,Yes
+2441,Horns are a body part of a hummingbird.,Yes,No
+2442,A snail has at least one wing.,Yes,No
+2443,A eel climb.,Yes,No
+2444,A cat drinks water.,Yes,Yes
+2445,A eel can breathe in the water.,No,Yes
+2446,A worm has feathers.,Yes,No
+2447,Does a otter have a tail?,Yes,Yes
+2448,A iguana can be found on a tree.,No,Yes
+2449,Does a crab can breathe underwater?,Yes,Yes
+2450,Does a sheep live underwater?,No,No
+2451,A kangaroo drinks coffee.,Yes,No
+2452,Does a whale have two legs?,Yes,No
+2453,A tuna lives in the water.,Yes,Yes
+2454,A squid doesn't have legs.,No,No
+2455,A pig has hair.,No,No
+2456,Does a crocodile have claws?,Yes,Yes
+2457,Is a beak a body part of a bear?,Yes,No
+2458,Does a swan have four legs?,Yes,No
+2459,A swan drinks water.,Yes,Yes
+2460,A snake have four legs.,Yes,No
+2461,A herring has at least one wing.,Yes,No
+2462,A salamander has hooves.,No,No
+2463,A owl eats meat.,No,No
+2464,Does a iguana have legs?,No,Yes
+2465,A salamander has claws.,No,No
+2466,Does a horse drink water?,Yes,Yes
+2467,Coffee is part of a lizard's diet.,No,No
+2468,A duck lives in the water.,Yes,No
+2469,Does a octupus have hooves?,Yes,No
+2470,A elephant has fur.,Yes,No
+2471,A hummingbird eats meat.,No,No
+2472,A peacock drinks coffee.,Yes,No
+2473,A worm doesn't have legs.,No,Yes
+2474,A owl drinks coffee.,Yes,No
+2475,Does a lizard drink water?,Yes,Yes
+2476,Is a beak a body part of a mule?,Yes,No
+2477,A eagle have four legs.,Yes,No
+2478,Coffee is part of a dolphin's diet.,No,No
+2479,Does a pig have hair?,No,No
+2480,A squid drinks water.,Yes,No
+2481,A bat has at least one wing.,Yes,Yes
+2482,A bat has two legs.,Yes,No
+2483,A butterfly has bones.,No,No
+2484,A duck can breathe in the water.,Yes,No
+2485,A mule has fins.,No,No
+2486,Does a jellyfish have feathers?,No,No
+2487,A shark drinks water.,Yes,No
+2488,Coffee is part of a mule's diet.,Yes,No
+2489,Does a octupus have legs?,Yes,Yes
+2490,Does a crocodile have feathers?,Yes,No
+2491,Does a bear have a beak?,Yes,No
+2492,Does a duck have four legs?,Yes,No
+2493,A shrimp has wings.,Yes,No
+2494,Does a hippo have a tail?,Yes,Yes
+2495,A penguin can breathe underwater.,Yes,No
+2496,Is a beak a body part of a iguana?,No,No
+2497,Does a duck have a beak?,Yes,Yes
+2498,A hummingbird has legs.,No,Yes
+2499,A turtle doesn't have legs.,Yes,No
+2500,A herring can be found on a tree.,Yes,No
+2501,Does a whale have fur?,Yes,No
+2502,A beak is a body part of a butterfly.,Yes,No
+2503,A salamander has a tail.,Yes,Yes
+2504,A crab can breathe underwater.,Yes,Yes
+2505,A owl can fly.,Yes,Yes
+2506,A whale has claws.,No,No
+2507,A gorilla climb.,Yes,Yes
+2508,Does a zebra live underwater?,No,No
+2509,Does a sheep have legs?,Yes,Yes
+2510,Does a bird eat meat?,Yes,No
+2511,A pigeon lives in the water.,No,No
+2512,A jellyfish doesn't have legs.,No,Yes
+2513,Coffee is part of a snail's diet.,No,No
+2514,A goat climb.,Yes,No
+2515,Does a hummingbird can breathe underwater?,Yes,No
+2516,Does a salamander have horns?,No,No
+2517,Does a bat drink coffee?,No,No
+2518,A rabbit can fly.,Yes,No
+2519,Does a hummingbird have fur?,Yes,No
+2520,Does a iguana have at least one wing?,No,No
+2521,Does a cow have hair?,Yes,Yes
+2522,Does a swan have horns?,Yes,No
+2523,Does a crab live underwater?,Yes,Yes
+2524,Does a crab have wings?,Yes,No
+2525,Does a cat have legs?,Yes,Yes
+2526,Does a giraffe have wings?,Yes,No
+2527,Does a ostrich have teeth?,Yes,No
+2528,Can a pigeon climb?,Yes,Yes
+2529,A zebra climb.,Yes,No
+2530,Does a koala have scales?,Yes,No
+2531,A koala has scales.,No,No
+2532,Horns are a body part of a flamingo.,Yes,No
+2533,Does a turtle have four legs?,Yes,Yes
+2534,A owl climb.,Yes,Yes
+2535,A penguin lives underwater.,Yes,No
+2536,A rabbit has teeth.,Yes,Yes
+2537,Does a frog can breathe underwater?,Yes,No
+2538,Meat is part of a fox's diet.,Yes,Yes
+2539,A cat can fly.,Yes,No
+2540,Does a salamander eat meat?,Yes,Yes
+2541,Does a zebra have bones?,Yes,Yes
+2542,Does a salamander have hair?,No,No
+2543,Meat is part of a salamander's diet.,Yes,Yes
+2544,A squid can breathe in the water.,Yes,Yes
+2545,Does a rat have hair?,No,Yes
+2546,A ostrich has claws.,No,Yes
+2547,A wolf doesn't have legs.,Yes,No
+2548,A snail drinks coffee.,Yes,No
+2549,A prawn has legs.,Yes,Yes
+2550,A worm drinks water.,Yes,No
+2551,A lion has at least one wing.,Yes,No
+2552,A lion has horns.,Yes,No
+2553,A gorilla has horns.,Yes,No
+2554,Does a horse drink coffee?,Yes,No
+2555,Does a hippo have teeth?,Yes,Yes
+2556,A lizard doesn't have legs.,Yes,No
+2557,A whale has hair.,No,No
+2558,A horse has a tail.,Yes,Yes
+2559,Is a beak a body part of a bat?,Yes,No
+2560,A elephant drinks coffee.,Yes,No
+2561,Does a butterfly live underwater?,Yes,No
+2562,Does a fox have a tail?,Yes,Yes
+2563,Does a wolf have feathers?,Yes,No
+2564,A tuna has feathers.,Yes,No
+2565,Is a beak a body part of a tuna?,Yes,No
+2566,A koala lives in the water.,Yes,No
+2567,A mule has legs.,Yes,Yes
+2568,A turtle can breathe in the water.,Yes,No
+2569,A butterfly eats meat.,No,No
+2570,Does a bird have claws?,Yes,Yes
+2571,Can a parrot fly?,Yes,Yes
+2572,Meat is part of a duck's diet.,Yes,No
+2573,Meat is part of a frog's diet.,Yes,Yes
+2574,Does a peacock have a tail?,Yes,Yes
+2575,A worm has claws.,Yes,No
+2576,A koala drinks coffee.,Yes,No
+2577,A turtle can breathe underwater.,Yes,No
+2578,A owl has hair.,Yes,No
+2579,A swan lives in the water.,Yes,No
+2580,A cat eats meat.,Yes,Yes
+2581,Does a jellyfish have at least one wing?,Yes,No
+2582,A snake can be found on a tree.,Yes,Yes
+2583,A butterfly has horns.,Yes,No
+2584,A kangaroo have four legs.,No,No
+2585,A crocodile has fur.,Yes,No
+2586,Can a shrimp climb?,No,No
+2587,Does a fox have at least one wing?,Yes,No
+2588,A zebra has horns.,No,No
+2589,Does a rhino have horns?,Yes,Yes
+2590,Does a octupus have claws?,Yes,No
+2591,Does a cat have fur?,Yes,Yes
+2592,Does a duck have wings?,Yes,Yes
+2593,A herring has bones.,Yes,Yes
+2594,A monkey has fur.,Yes,Yes
+2595,Does a pigeon have bones?,Yes,Yes
+2596,Does a crocodile have horns?,Yes,No
+2597,A swan drinks coffee.,Yes,No
+2598,Horns are a body part of a prawn.,Yes,No
+2599,A bear have four legs.,Yes,Yes
+2600,A pigeon climb.,Yes,Yes
+2601,Does a ostrich have legs?,Yes,Yes
+2602,Does a pigeon have hooves?,Yes,No
+2603,Water is part of a fox's diet.,No,Yes
+2604,A wolf has fins.,Yes,No
+2605,A otter has wings.,Yes,No
+2606,A parrot has legs.,No,Yes
+2607,Does a bat have wings?,Yes,Yes
+2608,A peacock can fly.,Yes,Yes
+2609,Does a turtle have a tail?,Yes,Yes
+2610,A crocodile has hooves.,No,No
+2611,Meat is part of a flamingo's diet.,No,No
+2612,Does a elephant have bones?,Yes,Yes
+2613,Does a tuna have horns?,Yes,No
+2614,A eagle has at least one wing.,Yes,Yes
+2615,A butterfly has a tail.,Yes,No
+2616,A beak is a body part of a shark.,Yes,No
+2617,A owl has two legs.,No,Yes
+2618,Does a bird have hooves?,Yes,No
+2619,A flamingo has fins.,Yes,No
+2620,Does a hummingbird have wings?,Yes,Yes
+2621,Does a whale have legs?,Yes,No
+2622,Can a lizard fly?,Yes,No
+2623,Does a ray have legs?,No,No
+2624,Coffee is part of a pig's diet.,No,No
+2625,A jellyfish has wings.,Yes,No
+2626,A hippo drinks coffee.,Yes,No
+2627,Does a koala eat meat?,Yes,No
+2628,Does a rat have fur?,Yes,Yes
+2629,Does a otter have fur?,Yes,Yes
+2630,Horns are a body part of a whale.,Yes,No
+2631,Does a monkey have legs?,No,Yes
+2632,A parrot doesn't have legs.,Yes,No
+2633,A flamingo climb.,No,No
+2634,A wolf has at least one wing.,Yes,No
+2635,A hummingbird has feathers.,Yes,Yes
+2636,Does a cow have legs?,Yes,Yes
+2637,A prawn has fins.,Yes,Yes
+2638,A koala can breathe underwater.,Yes,No
+2639,A rat can breathe underwater.,Yes,No
+2640,Does a camel have bones?,Yes,Yes
+2641,Horns are a body part of a ostrich.,Yes,No
+2642,Can a elephant climb?,No,No
+2643,A crocodile doesn't have legs.,Yes,No
+2644,Does a zebra have hooves?,No,Yes
+2645,A dolphin drinks water.,Yes,No
+2646,Does a swan have hair?,Yes,No
+2647,Does a turtle have two legs?,Yes,No
+2648,A dolphin has wings.,No,No
+2649,A prawn has fur.,Yes,No
+2650,Does a dog live underwater?,No,No
+2651,A tuna has claws.,No,No
+2652,Can a frog climb?,No,Yes
+2653,A turtle has horns.,Yes,No
+2654,A elephant drinks water.,Yes,Yes
+2655,Does a ray have hooves?,No,No
+2656,Does a tuna have claws?,No,No
+2657,A mule can fly.,No,No
+2658,Does a goat have fins?,Yes,No
+2659,Does a horse have two legs?,Yes,No
+2660,A zebra has hair.,No,Yes
+2661,A rat has scales.,No,No
+2662,Horns are a body part of a herring.,Yes,No
+2663,Does a snail have a beak?,Yes,No
+2664,Meat is part of a dog's diet.,Yes,Yes
+2665,Is a beak a body part of a ray?,Yes,No
+2666,A eel has bones.,No,Yes
+2667,A pigeon has horns.,Yes,No
+2668,Horns are a body part of a lion.,Yes,No
+2669,Does a owl have fins?,Yes,No
+2670,A squid has a tail.,Yes,No
+2671,Horns are a body part of a wolf.,Yes,No
+2672,Coffee is part of a rhino's diet.,No,No
+2673,Does a dolphin have hooves?,No,No
+2674,A bird climb.,Yes,Yes
+2675,A gorilla have four legs.,Yes,No
+2676,A otter has fur.,Yes,Yes
+2677,Does a ostrich can breathe underwater?,No,No
+2678,A rabbit has scales.,No,No
+2679,Does a bat have hooves?,Yes,No
+2680,A beak is a body part of a elephant.,Yes,No
+2681,Does a ray have fins?,Yes,No
+2682,Does a otter have bones?,No,Yes
+2683,Does a tuna live underwater?,Yes,Yes
+2684,A horse has legs.,Yes,Yes
+2685,Water is part of a flamingo's diet.,Yes,Yes
+2686,A lizard has bones.,Yes,Yes
+2687,A pigeon drinks water.,Yes,Yes
+2688,Does a rat drink coffee?,Yes,No
+2689,Does a iguana have bones?,No,Yes
+2690,Can a turtle climb?,Yes,No
+2691,Does a cow have fur?,Yes,Yes
+2692,A eel eats meat.,Yes,Yes
+2693,Does a hummingbird live underwater?,Yes,No
+2694,A giraffe lives underwater.,No,No
+2695,A lizard have four legs.,Yes,Yes
+2696,Does a turtle have hair?,Yes,No
+2697,Does a deer have fins?,Yes,No
+2698,Does a sheep have bones?,Yes,Yes
+2699,Does a sheep have four legs?,Yes,Yes
+2700,Does a cat drink water?,Yes,Yes
+2701,A parrot has hooves.,Yes,No
+2702,Does a swan have wings?,Yes,Yes
+2703,A lion lives underwater.,Yes,No
+2704,Does a swan have teeth?,No,No
+2705,Does a goat have claws?,Yes,Yes
+2706,A ostrich has fins.,No,No
+2707,A crab drinks water.,Yes,Yes
+2708,Does a eel drink water?,Yes,No
+2709,Does a bat have hair?,No,Yes
+2710,Does a bird have teeth?,No,No
+2711,A jellyfish has horns.,Yes,No
+2712,A frog eats meat.,Yes,Yes
+2713,A beak is a body part of a mule.,Yes,No
+2714,A ray eats meat.,No,Yes
+2715,Does a dog drink water?,Yes,Yes
+2716,A rabbit has fur.,Yes,Yes
+2717,Does a lion have a beak?,Yes,No
+2718,A koala has fins.,No,No
+2719,Does a elephant have four legs?,Yes,Yes
+2720,Coffee is part of a horse's diet.,No,No
+2721,Does a iguana have fur?,No,No
+2722,Does a deer have teeth?,Yes,Yes
+2723,A tuna can breathe underwater.,Yes,Yes
+2724,Does a otter have wings?,Yes,No
+2725,A rat has feathers.,No,No
+2726,Does a koala drink water?,Yes,Yes
+2727,A squid has fins.,Yes,No
+2728,Does a flamingo have legs?,No,Yes
+2729,Does a bear have teeth?,Yes,Yes
+2730,A squid has wings.,Yes,No
+2731,A rabbit has hair.,Yes,Yes
+2732,A goat has at least one wing.,No,No
+2733,A peacock lives underwater.,No,No
+2734,A fox drinks water.,Yes,Yes
+2735,Does a penguin have scales?,No,No
+2736,Horns are a body part of a lizard.,No,No
+2737,Does a dolphin have fur?,Yes,No
+2738,A snail has scales.,Yes,No
+2739,Does a dog have hooves?,Yes,No
+2740,A frog lives underwater.,Yes,No
+2741,A dog has a tail.,Yes,Yes
+2742,A peacock climb.,Yes,Yes
+2743,Does a eagle eat meat?,No,Yes
+2744,A squid can breathe underwater.,Yes,Yes
+2745,A eel can fly.,Yes,No
+2746,A hippo has wings.,Yes,No
+2747,Does a giraffe have a tail?,Yes,Yes
+2748,Does a flamingo drink coffee?,Yes,No
+2749,Does a shrimp have fins?,Yes,Yes
+2750,A herring drinks coffee.,Yes,No
+2751,A rhino can breathe in the water.,Yes,No
+2752,Horns are a body part of a octupus.,Yes,No
+2753,A otter has legs.,No,Yes
+2754,Does a ray have horns?,No,No
+2755,Does a swan have feathers?,Yes,Yes
+2756,Can a jellyfish climb?,Yes,No
+2757,A camel has feathers.,No,No
+2758,A zebra have four legs.,Yes,Yes
+2759,A beak is a body part of a rhino.,Yes,No
+2760,A shark has bones.,No,Yes
+2761,Does a zebra have a beak?,Yes,No
+2762,Horns are a body part of a rabbit.,Yes,No
+2763,Water is part of a peacock's diet.,No,Yes
+2764,A snake can breathe in the water.,Yes,No
+2765,A hippo can breathe in the water.,No,No
+2766,A elephant has hooves.,No,No
+2767,Does a dolphin have fins?,Yes,Yes
+2768,Coffee is part of a dog's diet.,No,No
+2769,A cow has wings.,No,No
+2770,Does a hippo drink water?,Yes,Yes
+2771,Does a deer can breathe underwater?,No,No
+2772,A snake has fur.,Yes,No
+2773,Can a crab climb?,No,Yes
+2774,A jellyfish has feathers.,No,No
+2775,A zebra has two legs.,Yes,No
+2776,A mule have four legs.,Yes,Yes
+2777,A zebra lives underwater.,No,No
+2778,Does a goat have bones?,Yes,Yes
+2779,A octupus doesn't have legs.,Yes,No
+2780,A flamingo has bones.,No,Yes
+2781,Does a eagle have hair?,Yes,No
+2782,Can a monkey fly?,Yes,No
+2783,Does a tuna have hooves?,No,No
+2784,A hummingbird can fly.,Yes,Yes
+2785,A beak is a body part of a salamander.,Yes,No
+2786,Does a whale have four legs?,Yes,No
+2787,A rhino has wings.,Yes,No
+2788,A cow has claws.,Yes,Yes
+2789,A giraffe has horns.,Yes,Yes
+2790,A eel has horns.,Yes,No
+2791,A beak is a body part of a zebra.,No,No
+2792,Can a sheep fly?,No,No
+2793,Does a deer eat meat?,Yes,No
+2794,Does a rabbit have two legs?,Yes,No
+2795,A bird lives underwater.,Yes,No
+2796,Does a dog have two legs?,Yes,No
+2797,A sheep has hair.,Yes,Yes
+2798,A zebra drinks coffee.,Yes,No
+2799,Does a goat can breathe underwater?,No,No
+2800,A crab has horns.,Yes,No
+2801,Does a prawn have at least one wing?,Yes,No
+2802,A crab eats meat.,Yes,No
+2803,A salamander has bones.,No,Yes
+2804,A penguin has claws.,Yes,Yes
+2805,A rabbit has feathers.,Yes,No
+2806,Can a flamingo climb?,No,No
+2807,Water is part of a goat's diet.,No,Yes
+2808,A cat lives in the water.,Yes,No
+2809,Meat is part of a swan's diet.,Yes,No
+2810,Water is part of a snake's diet.,No,Yes
+2811,Does a rabbit have feathers?,Yes,No
+2812,Does a eagle have wings?,Yes,Yes
+2813,A tuna drinks coffee.,Yes,No
+2814,A koala have four legs.,No,No
+2815,Does a shrimp have wings?,Yes,No
+2816,A ostrich has hair.,Yes,No
+2817,A koala lives underwater.,Yes,No
+2818,A pigeon doesn't have legs.,No,No
+2819,A shrimp climb.,No,No
+2820,Does a bird can breathe underwater?,Yes,No
+2821,A worm has legs.,No,No
+2822,Does a kangaroo have bones?,No,Yes
+2823,Does a eagle have feathers?,Yes,Yes
+2824,A pig has two legs.,Yes,No
+2825,A squid drinks coffee.,Yes,No
+2826,A duck can fly.,Yes,No
+2827,A snail can breathe underwater.,Yes,No
+2828,A swan has at least one wing.,Yes,Yes
+2829,Can a horse climb?,Yes,No
+2830,Does a cow have bones?,Yes,Yes
+2831,Does a snail have claws?,Yes,No
+2832,Does a sheep have teeth?,Yes,Yes
+2833,Does a peacock have fins?,Yes,No
+2834,A monkey has bones.,No,Yes
+2835,A beak is a body part of a eel.,Yes,No
+2836,Does a parrot have scales?,No,No
+2837,Can a koala climb?,Yes,Yes
+2838,Does a horse have teeth?,Yes,Yes
+2839,Coffee is part of a pigeon's diet.,No,No
+2840,A tuna has scales.,Yes,Yes
+2841,Does a octupus have fins?,Yes,No
+2842,Does a squid have fur?,Yes,No
+2843,A snail has hooves.,No,No
+2844,Does a hummingbird have a beak?,Yes,Yes
+2845,Can a bird climb?,Yes,Yes
+2846,Does a giraffe have at least one wing?,Yes,No
+2847,A lion eats meat.,Yes,Yes
+2848,A crocodile has at least one wing.,No,No
+2849,Water is part of a mule's diet.,Yes,Yes
+2850,A gorilla has two legs.,Yes,No
+2851,A kangaroo can breathe in the water.,No,No
+2852,Does a rat have four legs?,Yes,Yes
+2853,Does a turtle have teeth?,Yes,No
+2854,A snail has claws.,Yes,No
+2855,Does a peacock have claws?,Yes,Yes
+2856,A mule drinks water.,Yes,Yes
+2857,Does a ostrich have four legs?,Yes,No
+2858,A cow can be found on a tree.,Yes,No
+2859,A shrimp has claws.,Yes,No
+2860,Does a owl have four legs?,Yes,No
+2861,Does a elephant have scales?,No,No
+2862,A bear has at least one wing.,Yes,No
+2863,Does a snail drink water?,Yes,Yes
+2864,A snail has a tail.,Yes,No
+2865,Does a swan have two legs?,Yes,No
+2866,Horns are a body part of a iguana.,No,No
+2867,Does a rabbit have hair?,Yes,Yes
+2868,Does a whale eat meat?,Yes,Yes
+2869,A fox has a tail.,Yes,Yes
+2870,Does a koala have fins?,Yes,No
+2871,Does a prawn have a tail?,Yes,Yes
+2872,A butterfly doesn't have legs.,No,Yes
+2873,A lizard has two legs.,Yes,No
+2874,Does a horse have wings?,No,No
+2875,A monkey can fly.,Yes,No
+2876,Does a gorilla have four legs?,Yes,No
+2877,Coffee is part of a elephant's diet.,No,No
+2878,A shark has fur.,Yes,No
+2879,A lizard can breathe underwater.,Yes,No
+2880,A koala has hair.,No,Yes
+2881,Can a pigeon fly?,Yes,Yes
+2882,Does a kangaroo have legs?,No,Yes
+2883,A crab has hooves.,No,No
+2884,A whale has horns.,Yes,No
+2885,A shrimp have four legs.,No,No
+2886,A iguana has hooves.,No,No
+2887,Does a lizard have teeth?,Yes,Yes
+2888,Does a cow eat meat?,Yes,No
+2889,A whale can breathe underwater.,Yes,Yes
+2890,A squid has bones.,No,No
+2891,A peacock doesn't have legs.,No,No
+2892,A zebra lives in the water.,No,No
+2893,Horns are a body part of a dog.,No,No
+2894,A squid has two legs.,Yes,No
+2895,Can a wolf climb?,No,Yes
+2896,A mule can be found on a tree.,Yes,No
+2897,Does a penguin have four legs?,Yes,No
+2898,Does a eagle drink coffee?,Yes,No
+2899,A rat has fur.,Yes,Yes
+2900,Does a crab have claws?,Yes,No
+2901,A elephant has hair.,No,No
+2902,Does a duck have horns?,Yes,No
+2903,Horns are a body part of a kangaroo.,No,No
+2904,A eel drinks coffee.,Yes,No
+2905,Water is part of a whale's diet.,Yes,No
+2906,Can a swan fly?,Yes,Yes
+2907,Meat is part of a octupus's diet.,Yes,No
+2908,Does a gorilla have at least one wing?,Yes,No
+2909,Does a pigeon have feathers?,Yes,Yes
+2910,Does a owl have horns?,Yes,No
+2911,Does a pigeon have four legs?,Yes,No
+2912,Does a snake have wings?,Yes,No
+2913,Does a frog have a tail?,Yes,No
+2914,A lizard lives underwater.,Yes,No
+2915,Does a deer have horns?,Yes,Yes
+2916,Water is part of a bear's diet.,No,Yes
+2917,Does a dolphin have a tail?,Yes,Yes
+2918,A goat has fur.,Yes,Yes
+2919,Does a penguin have teeth?,No,No
+2920,A camel can be found on a tree.,Yes,No
+2921,Does a crocodile have wings?,Yes,No
+2922,A octupus has legs.,Yes,Yes
+2923,A ray has teeth.,Yes,Yes
+2924,Can a crab fly?,Yes,No
+2925,A rat has at least one wing.,Yes,No
+2926,A ostrich has at least one wing.,Yes,Yes
+2927,A kangaroo has fur.,No,Yes
+2928,A duck has fur.,Yes,No
+2929,A hummingbird has teeth.,No,No
+2930,Does a squid have legs?,Yes,Yes
+2931,Does a koala have feathers?,No,No
+2932,A pig has hooves.,No,Yes
+2933,Does a cat have hooves?,No,No
+2934,Does a zebra eat meat?,Yes,No
+2935,A beak is a body part of a parrot.,Yes,Yes
+2936,A cat has scales.,No,No
+2937,A fish has fur.,Yes,No
+2938,A dog has feathers.,No,No
+2939,A giraffe has hair.,No,Yes
+2940,Does a jellyfish drink coffee?,Yes,No
+2941,A owl has claws.,Yes,Yes
+2942,A tuna has a tail.,Yes,Yes
+2943,Does a herring have a beak?,Yes,No
+2944,A lion has two legs.,Yes,No
+2945,A shark lives underwater.,Yes,Yes
+2946,A pigeon has hooves.,No,No
+2947,A bird has legs.,Yes,Yes
+2948,A shark has two legs.,No,No
+2949,Does a deer have claws?,Yes,No
+2950,Does a crocodile have a beak?,Yes,No
+2951,A octupus has teeth.,Yes,Yes
+2952,A snail lives in the water.,Yes,No
+2953,Does a eagle have teeth?,Yes,No
+2954,Does a dolphin have feathers?,No,No
+2955,A squid has legs.,No,Yes
+2956,Does a lizard have wings?,Yes,No
+2957,A squid has teeth.,Yes,Yes
+2958,Water is part of a gorilla's diet.,No,Yes
+2959,A horse can fly.,No,No
+2960,A frog has two legs.,Yes,No
+2961,Does a bat eat meat?,Yes,No
+2962,Does a ray have two legs?,No,No
+2963,A crocodile have four legs.,Yes,Yes
+2964,A swan have four legs.,Yes,No
+2965,Does a peacock have horns?,Yes,No
+2966,Is a beak a body part of a whale?,Yes,No
+2967,Does a crab have hair?,No,No
+2968,A bat has claws.,Yes,Yes
+2969,A goat drinks coffee.,No,No
+2970,A monkey drinks water.,Yes,Yes
+2971,A pigeon lives underwater.,No,No
+2972,A otter has at least one wing.,Yes,No
+2973,A prawn can breathe in the water.,Yes,Yes
+2974,A tuna lives underwater.,Yes,Yes
+2975,Does a duck have a tail?,Yes,Yes
+2976,Horns are a body part of a camel.,Yes,No
+2977,Meat is part of a gorilla's diet.,Yes,No
+2978,A cow has at least one wing.,Yes,No
+2979,Does a eel have hooves?,Yes,No
+2980,A cow drinks coffee.,Yes,No
+2981,A eagle has scales.,Yes,No
+2982,A parrot has scales.,No,No
+2983,Does a horse have at least one wing?,No,No
+2984,A peacock has two legs.,No,Yes
+2985,A zebra has claws.,Yes,No
+2986,Does a octupus have horns?,Yes,No
+2987,Does a worm have at least one wing?,Yes,No
+2988,A rabbit doesn't have legs.,Yes,No
+2989,Does a bird have a beak?,Yes,Yes
+2990,Can a dog climb?,Yes,Yes
+2991,A butterfly has wings.,Yes,Yes
+2992,Is a beak a body part of a wolf?,Yes,No
+2993,Does a zebra have hair?,No,Yes
+2994,A bear has bones.,Yes,Yes
+2995,A pig climb.,No,No
+2996,Does a bear have bones?,Yes,Yes
+2997,A salamander has feathers.,No,No
+2998,A prawn has claws.,Yes,No
+2999,A eel drinks water.,Yes,No
+3000,Does a snail have legs?,Yes,No
+3001,A flamingo has fur.,Yes,No
+3002,A eagle has a tail.,Yes,Yes
+3003,A zebra can breathe in the water.,No,No
+3004,A penguin climb.,Yes,No
+3005,A octupus lives in the water.,No,Yes
+3006,A iguana has fins.,Yes,No
+3007,A butterfly can fly.,Yes,Yes
+3008,A lion can breathe underwater.,Yes,No
+3009,A dolphin can breathe in the water.,Yes,Yes
+3010,A lizard has legs.,Yes,Yes
+3011,A ray has claws.,No,No
+3012,Does a mule have claws?,No,No
+3013,A jellyfish has two legs.,No,No
+3014,A lizard lives in the water.,Yes,No
+3015,Horns are a body part of a horse.,Yes,No
+3016,Does a shark have four legs?,No,No
+3017,A cat has wings.,Yes,No
+3018,A whale doesn't have legs.,Yes,Yes
+3019,Does a crocodile have scales?,Yes,Yes
+3020,A peacock has a tail.,Yes,Yes
+3021,A flamingo has feathers.,Yes,Yes
+3022,A eagle lives in the water.,No,No
+3023,A gorilla has at least one wing.,Yes,No
+3024,Can a butterfly climb?,Yes,Yes
+3025,Does a fish live underwater?,Yes,Yes
+3026,Does a worm have horns?,Yes,No
+3027,A camel drinks coffee.,Yes,No
+3028,A beak is a body part of a eagle.,Yes,Yes
+3029,Does a iguana have fins?,Yes,No
+3030,Meat is part of a hippo's diet.,Yes,No
+3031,A deer has a tail.,Yes,Yes
+3032,Does a duck have feathers?,Yes,Yes
+3033,Does a shark drink coffee?,Yes,No
+3034,Does a bear have horns?,Yes,No
+3035,Does a lizard have hooves?,No,No
+3036,A lizard climb.,Yes,Yes
+3037,Does a cat have a tail?,Yes,Yes
+3038,Does a jellyfish have legs?,No,No
+3039,Does a butterfly can breathe underwater?,Yes,No
+3040,Meat is part of a eagle's diet.,Yes,Yes
+3041,Does a octupus drink water?,Yes,No
+3042,Does a octupus eat meat?,No,No
+3043,A duck has scales.,No,No
+3044,Does a lion can breathe underwater?,Yes,No
+3045,Does a swan have fur?,Yes,No
+3046,Does a horse have feathers?,Yes,No
+3047,A ray can breathe in the water.,No,Yes
+3048,Does a lion have two legs?,Yes,No
+3049,Does a butterfly have bones?,No,No
+3050,Does a snail have a tail?,Yes,No
+3051,A rat eats meat.,Yes,No
+3052,Does a shrimp have feathers?,Yes,No
+3053,A sheep can breathe underwater.,No,No
+3054,Does a dog have at least one wing?,No,No
+3055,A octupus has scales.,Yes,No
+3056,A koala has bones.,No,Yes
+3057,A cat lives underwater.,No,No
+3058,Does a snail have hooves?,No,No
+3059,A snake has legs.,Yes,No
+3060,Is a beak a body part of a rat?,Yes,No
+3061,Does a mule drink water?,Yes,Yes
+3062,A pig lives in the water.,No,No
+3063,Does a shrimp have horns?,No,No
+3064,Can a otter climb?,Yes,No
+3065,Does a flamingo have fur?,Yes,No
+3066,Does a rhino have a beak?,Yes,No
+3067,Does a duck can breathe underwater?,Yes,No
+3068,A flamingo has teeth.,No,No
+3069,A whale has teeth.,Yes,Yes
+3070,Does a lion have hooves?,Yes,No
+3071,A camel climb.,No,No
+3072,A cow has hooves.,No,No
+3073,Does a squid have bones?,Yes,No
+3074,A swan has a tail.,Yes,Yes
+3075,A rat has hooves.,No,No
+3076,Does a snail have feathers?,Yes,No
+3077,A mule can breathe underwater.,Yes,No
+3078,A flamingo has scales.,No,No
+3079,A beak is a body part of a ostrich.,Yes,Yes
+3080,Does a lion have fins?,Yes,No
+3081,A ray has fur.,Yes,No
+3082,Does a herring have at least one wing?,Yes,No
+3083,Coffee is part of a parrot's diet.,No,No
+3084,A gorilla lives in the water.,No,No
+3085,A eagle has fins.,Yes,No
+3086,Does a iguana have wings?,No,No
+3087,A octupus drinks water.,Yes,No
+3088,Water is part of a rat's diet.,No,Yes
+3089,A bat drinks coffee.,No,No
+3090,A ostrich has fur.,Yes,No
+3091,Meat is part of a pig's diet.,Yes,No
+3092,Does a flamingo eat meat?,No,No
+3093,Does a swan have scales?,No,No
+3094,Does a frog have hair?,Yes,No
+3095,Does a peacock have at least one wing?,Yes,Yes
+3096,Does a herring have legs?,No,No
+3097,Does a dolphin have legs?,Yes,No
+3098,A penguin has fins.,Yes,No
+3099,A zebra can fly.,Yes,No
+3100,A deer lives in the water.,No,No
+3101,Does a worm have legs?,Yes,No
+3102,Does a kangaroo have horns?,No,No
+3103,Does a bat have scales?,No,No
+3104,A octupus has feathers.,No,No
+3105,A ostrich has wings.,Yes,Yes
+3106,Water is part of a lizard's diet.,No,Yes
+3107,Does a eel have four legs?,Yes,No
+3108,Does a butterfly have two legs?,No,No
+3109,A jellyfish has hair.,No,No
+3110,A elephant has wings.,Yes,No
+3111,Does a owl have fur?,Yes,No
+3112,Meat is part of a goat's diet.,Yes,No
+3113,Does a wolf have a tail?,Yes,Yes
+3114,A parrot climb.,No,Yes
+3115,A koala has fur.,No,Yes
+3116,Does a shrimp drink coffee?,Yes,No
+3117,Does a herring have four legs?,No,No
+3118,A bat has a tail.,Yes,Yes
+3119,A duck has claws.,Yes,Yes
+3120,Does a sheep drink water?,Yes,Yes
+3121,Does a prawn have scales?,No,No
+3122,A prawn has feathers.,Yes,No
+3123,A prawn climb.,Yes,No
+3124,Does a pigeon drink coffee?,Yes,No
+3125,Does a turtle eat meat?,Yes,No
+3126,Does a snake have feathers?,Yes,No
+3127,Does a herring live underwater?,Yes,Yes
+3128,Does a eel have bones?,No,Yes
+3129,A swan has hair.,Yes,No
+3130,Does a snail have two legs?,Yes,No
+3131,A dolphin has two legs.,Yes,No
+3132,Does a fox have horns?,Yes,No
+3133,A pig drinks water.,No,Yes
+3134,Does a squid have four legs?,Yes,No
+3135,A turtle has claws.,Yes,Yes
+3136,A prawn has scales.,No,No
+3137,Does a crocodile eat meat?,Yes,Yes
+3138,A bat can be found on a tree.,Yes,Yes
+3139,Does a iguana have hair?,Yes,No
+3140,A turtle has teeth.,Yes,No
+3141,Does a salamander have two legs?,No,No
+3142,A monkey can breathe underwater.,Yes,No
+3143,A fish has hooves.,No,No
+3144,A elephant can fly.,Yes,No
+3145,A fish climb.,Yes,No
+3146,A dog has hair.,Yes,Yes
+3147,Does a ostrich have bones?,Yes,Yes
+3148,Does a frog have bones?,No,Yes
+3149,Does a duck have scales?,No,No
+3150,A gorilla drinks water.,No,Yes
+3151,Does a ray have four legs?,No,No
+3152,Does a mule have scales?,No,No
+3153,A zebra drinks water.,No,Yes
+3154,Can a dog fly?,No,No
+3155,A penguin lives in the water.,Yes,No
+3156,A octupus eats meat.,Yes,No
+3157,A rhino have four legs.,Yes,Yes
+3158,A frog can breathe in the water.,Yes,No
+3159,Does a shark have fins?,Yes,Yes
+3160,A elephant doesn't have legs.,Yes,No
+3161,Does a goat drink coffee?,Yes,No
+3162,Does a snake eat meat?,No,Yes
+3163,A snake has at least one wing.,Yes,No
+3164,Does a shark drink water?,Yes,No
+3165,Can a tuna climb?,Yes,No
+3166,Does a lion eat meat?,Yes,Yes
+3167,A koala has feathers.,No,No
+3168,A shark has feathers.,No,No
+3169,A bear can fly.,Yes,No
+3170,A rhino has feathers.,Yes,No
+3171,A zebra has teeth.,Yes,Yes
+3172,Does a deer have two legs?,Yes,No
+3173,A goat have four legs.,Yes,Yes
+3174,A lizard has hair.,Yes,No
+3175,Does a turtle have bones?,Yes,Yes
+3176,Does a sheep have a tail?,Yes,Yes
+3177,A rat has teeth.,Yes,Yes
+3178,Does a kangaroo have a beak?,Yes,No
+3179,A eagle drinks water.,No,Yes
+3180,Does a shrimp eat meat?,Yes,No
+3181,A wolf has hair.,No,Yes
+3182,A lion has fins.,Yes,No
+3183,Does a squid live underwater?,Yes,Yes
+3184,A giraffe can breathe underwater.,No,No
+3185,Meat is part of a shrimp's diet.,Yes,No
+3186,A salamander climb.,No,Yes
+3187,A gorilla has claws.,Yes,No
+3188,Does a ostrich have a beak?,Yes,Yes
+3189,A mule has two legs.,Yes,No
+3190,A mule can breathe in the water.,Yes,No
+3191,A kangaroo climb.,No,No
+3192,Does a butterfly have a beak?,Yes,No
+3193,Does a butterfly have at least one wing?,Yes,Yes
+3194,A tuna has wings.,No,No
+3195,A bird can be found on a tree.,Yes,Yes
+3196,Does a fox have hair?,Yes,Yes
+3197,Water is part of a pig's diet.,No,Yes
+3198,A shark has legs.,No,No
+3199,A cow eats meat.,Yes,No
+3200,Does a zebra have two legs?,Yes,No
+3201,A mule has claws.,No,No
+3202,Does a lizard have a beak?,Yes,No
+3203,A rhino has at least one wing.,Yes,No
+3204,Does a crocodile have fur?,Yes,No
+3205,A cow has scales.,No,No
+3206,A peacock eats meat.,No,No
+3207,Water is part of a squid's diet.,Yes,No
+3208,Does a fish have scales?,Yes,Yes
+3209,A eagle has teeth.,Yes,No
+3210,A whale has legs.,Yes,No
+3211,A hippo climb.,Yes,No
+3212,Does a shrimp can breathe underwater?,Yes,Yes
+3213,Does a dog have a tail?,Yes,Yes
+3214,A jellyfish has teeth.,Yes,No
+3215,A mule has horns.,Yes,No
+3216,Does a monkey have a beak?,Yes,No
+3217,Is a beak a body part of a koala?,Yes,No
+3218,A crocodile has a tail.,Yes,Yes
+3219,Does a salamander can breathe underwater?,Yes,No
+3220,A herring has hooves.,No,No
+3221,Does a crab have two legs?,No,No
+3222,A wolf has two legs.,Yes,No
+3223,Does a camel eat meat?,Yes,No
+3224,Water is part of a deer's diet.,No,Yes
+3225,Does a penguin have at least one wing?,Yes,Yes
+3226,A beak is a body part of a lizard.,Yes,No
+3227,A worm can fly.,Yes,No
+3228,Can a kangaroo fly?,No,No
+3229,A deer has hair.,Yes,Yes
+3230,A iguana has legs.,No,Yes
+3231,A bird has fur.,Yes,No
+3232,Does a flamingo have hooves?,Yes,No
+3233,A prawn can be found on a tree.,Yes,No
+3234,A rat lives in the water.,No,No
+3235,Does a jellyfish have horns?,Yes,No
+3236,Does a rabbit can breathe underwater?,No,No
+3237,Is a beak a body part of a camel?,Yes,No
+3238,A deer has horns.,Yes,Yes
+3239,Does a octupus have fur?,No,No
+3240,A pig drinks coffee.,No,No
+3241,Water is part of a bat's diet.,No,Yes
+3242,Does a rhino have wings?,Yes,No
+3243,Horns are a body part of a ray.,Yes,No
+3244,A cow has teeth.,Yes,Yes
+3245,A penguin can be found on a tree.,Yes,No
+3246,A dog has claws.,Yes,Yes
+3247,Does a snail live underwater?,Yes,No
+3248,A duck eats meat.,Yes,No
+3249,A mule has hair.,Yes,Yes
+3250,Does a ray have hair?,Yes,No
+3251,Does a sheep have horns?,Yes,Yes
+3252,A cow can breathe in the water.,Yes,No
+3253,Does a giraffe have fins?,Yes,No
+3254,Does a octupus drink coffee?,Yes,No
+3255,Is a beak a body part of a gorilla?,Yes,No
+3256,A crocodile has claws.,Yes,Yes
+3257,A gorilla drinks coffee.,Yes,No
+3258,Does a turtle have at least one wing?,Yes,No
+3259,A shrimp lives underwater.,Yes,Yes
+3260,Horns are a body part of a cat.,Yes,No
+3261,Does a cow drink water?,Yes,Yes
+3262,A rat drinks coffee.,Yes,No
+3263,A fox has horns.,Yes,No
+3264,Does a giraffe have legs?,Yes,Yes
+3265,Does a prawn have four legs?,Yes,No
+3266,Horns are a body part of a shark.,No,No
+3267,A giraffe have four legs.,Yes,Yes
+3268,A monkey lives underwater.,Yes,No
+3269,Is a beak a body part of a eagle?,Yes,Yes
+3270,A fox can breathe underwater.,No,No
+3271,Does a hummingbird drink coffee?,Yes,No
+3272,Does a cat have a beak?,Yes,No
+3273,Does a turtle have scales?,No,No
+3274,Does a zebra have feathers?,No,No
+3275,Is a beak a body part of a kangaroo?,No,No
+3276,Is a beak a body part of a rhino?,Yes,No
+3277,Meat is part of a owl's diet.,Yes,No
+3278,Does a prawn have fur?,Yes,No
+3279,A camel lives in the water.,No,No
+3280,Does a mule have at least one wing?,No,No
+3281,A rhino has a tail.,Yes,Yes
+3282,Does a fish have a beak?,Yes,No
+3283,A flamingo can breathe in the water.,No,No
+3284,Does a bear have feathers?,Yes,No
+3285,Can a peacock climb?,Yes,Yes
+3286,Does a zebra drink coffee?,Yes,No
+3287,A snake eats meat.,Yes,Yes
+3288,Meat is part of a snake's diet.,Yes,Yes
+3289,A mule has scales.,No,No
+3290,Does a crab have bones?,Yes,No
+3291,A shark has fins.,Yes,Yes
+3292,A crab can breathe in the water.,Yes,Yes
+3293,A fox climb.,Yes,Yes
+3294,Does a rat have feathers?,No,No
+3295,Coffee is part of a rabbit's diet.,No,No
+3296,Does a camel have hair?,Yes,Yes
+3297,Does a lizard have feathers?,No,No
+3298,Does a squid drink coffee?,Yes,No
+3299,A dog doesn't have legs.,Yes,No
+3300,Does a owl drink water?,Yes,Yes
+3301,Does a horse have claws?,Yes,No
+3302,Does a otter have scales?,No,No
+3303,A crab has bones.,Yes,No
+3304,Can a whale fly?,Yes,No
+3305,A ray climb.,No,No
+3306,A dolphin has hooves.,No,No
+3307,A goat has claws.,Yes,Yes
+3308,A sheep can breathe in the water.,Yes,No
+3309,Does a hippo have scales?,No,No
+3310,Is a beak a body part of a snake?,Yes,No
+3311,Does a rhino live underwater?,No,No
+3312,A rat has a tail.,Yes,Yes
+3313,A snail has hair.,Yes,No
+3314,Does a octupus have two legs?,Yes,No
+3315,Can a gorilla climb?,No,Yes
+3316,A herring has wings.,Yes,No
+3317,A whale has at least one wing.,No,No
+3318,A deer has scales.,Yes,No
+3319,Does a elephant live underwater?,Yes,No
+3320,Can a salamander climb?,No,Yes
+3321,A pig eats meat.,Yes,No
+3322,A beak is a body part of a flamingo.,No,Yes
+3323,A octupus climb.,Yes,No
+3324,A rabbit can breathe in the water.,No,No
+3325,A duck has hair.,Yes,No
+3326,Meat is part of a cat's diet.,Yes,Yes
+3327,Does a wolf have hooves?,No,No
+3328,Does a fox have fur?,Yes,Yes
+3329,Does a frog have four legs?,Yes,Yes
+3330,Is a beak a body part of a goat?,Yes,No
+3331,A rhino lives underwater.,No,No
+3332,Can a bat fly?,Yes,Yes
+3333,A pigeon has at least one wing.,Yes,Yes
+3334,Horns are a body part of a bird.,Yes,No
+3335,A flamingo eats meat.,No,No
+3336,Does a snake have hair?,Yes,No
+3337,Water is part of a swan's diet.,No,Yes
+3338,Does a whale have fins?,Yes,Yes
+3339,Does a prawn live underwater?,Yes,Yes
+3340,Does a rabbit drink coffee?,Yes,No
+3341,Meat is part of a jellyfish's diet.,Yes,No
+3342,A fish can fly.,Yes,No
+3343,Does a iguana have a beak?,No,No
+3344,Does a prawn have hair?,Yes,No
+3345,A beak is a body part of a penguin.,Yes,Yes
+3346,A gorilla has hooves.,No,No
+3347,Does a rhino have scales?,No,No
+3348,A parrot has fur.,Yes,No
+3349,Is a beak a body part of a ostrich?,Yes,Yes
+3350,Can a cat climb?,Yes,Yes
+3351,Does a zebra have horns?,No,No
+3352,Does a elephant have wings?,Yes,No
+3353,A jellyfish has legs.,No,No
+3354,Meat is part of a rat's diet.,Yes,No
+3355,Does a bat drink water?,No,Yes
+3356,A beak is a body part of a snail.,Yes,No
+3357,Coffee is part of a fox's diet.,No,No
+3358,Does a dog have fins?,No,No
+3359,A owl have four legs.,No,No
+3360,Does a rabbit have claws?,Yes,Yes
+3361,Does a peacock have bones?,No,Yes
+3362,Does a flamingo have a tail?,Yes,Yes
+3363,Can a prawn fly?,Yes,No
+3364,A crab has a tail.,Yes,No
+3365,A giraffe can be found on a tree.,Yes,No
+3366,A eagle has feathers.,Yes,Yes
+3367,Does a monkey have hooves?,No,No
+3368,A hummingbird drinks coffee.,Yes,No
+3369,Does a fish have two legs?,No,No
+3370,A giraffe drinks water.,No,Yes
+3371,A bird has at least one wing.,Yes,Yes
+3372,A bear has fins.,Yes,No
+3373,A tuna has fins.,Yes,Yes
+3374,Horns are a body part of a koala.,No,No
+3375,Does a dog have teeth?,Yes,Yes
+3376,A goat lives underwater.,No,No
+3377,A snake climb.,Yes,Yes
+3378,Does a worm have two legs?,No,No
+3379,A salamander lives in the water.,Yes,No
+3380,A swan has claws.,Yes,Yes
+3381,Does a crab eat meat?,Yes,No
+3382,Does a otter have at least one wing?,Yes,No
+3383,Does a jellyfish have hair?,Yes,No
+3384,A prawn drinks water.,Yes,No
+3385,Does a mule have feathers?,No,No
+3386,A beak is a body part of a iguana.,No,No
+3387,A fish has horns.,Yes,No
+3388,A beak is a body part of a bat.,Yes,No
+3389,A otter doesn't have legs.,Yes,No
+3390,Can a jellyfish fly?,Yes,No
+3391,A herring has two legs.,No,No
+3392,Does a crab drink water?,Yes,Yes
+3393,A dolphin can breathe underwater.,Yes,Yes
+3394,A sheep have four legs.,Yes,Yes
+3395,Does a dog have claws?,Yes,Yes
+3396,Does a octupus have hair?,Yes,No
+3397,Does a snake can breathe underwater?,Yes,No
+3398,A salamander has fins.,Yes,No
+3399,Does a kangaroo have a tail?,No,Yes
+3400,Can a shark fly?,Yes,No
+3401,A worm can be found on a tree.,Yes,Yes
+3402,Does a cat have four legs?,Yes,Yes
+3403,A worm has scales.,No,No
+3404,A rhino has fins.,Yes,No
+3405,Can a deer climb?,No,No
+3406,A ray has hooves.,No,No
+3407,A gorilla has wings.,Yes,No
+3408,Water is part of a cat's diet.,No,Yes
+3409,Does a eel have a tail?,Yes,Yes
+3410,A dolphin has teeth.,No,Yes
+3411,A penguin drinks water.,Yes,Yes
+3412,A butterfly can breathe underwater.,Yes,No
+3413,A camel can breathe underwater.,No,No
+3414,Does a rat have at least one wing?,Yes,No
+3415,Does a sheep have a beak?,Yes,No
+3416,Does a crocodile have two legs?,Yes,No
+3417,Does a koala have a beak?,Yes,No
+3418,A salamander has horns.,No,No
+3419,A crocodile has wings.,Yes,No
+3420,Does a parrot have two legs?,Yes,Yes
+3421,A dolphin doesn't have legs.,Yes,Yes
+3422,Does a turtle have fins?,Yes,No
+3423,Does a shark have claws?,Yes,No
+3424,A cat have four legs.,Yes,Yes
+3425,Does a rat have a tail?,Yes,Yes
+3426,Is a beak a body part of a turtle?,Yes,No
+3427,Does a wolf have horns?,Yes,No
+3428,A ostrich lives underwater.,No,No
+3429,Does a mule drink coffee?,Yes,No
+3430,Does a owl have feathers?,Yes,Yes
+3431,A cow has fur.,Yes,Yes
+3432,A camel have four legs.,Yes,Yes
+3433,Does a giraffe drink water?,Yes,Yes
+3434,A penguin has hair.,No,Yes
+3435,Does a owl have two legs?,No,Yes
+3436,A rabbit has legs.,Yes,Yes
+3437,A duck have four legs.,Yes,No
+3438,Coffee is part of a cat's diet.,No,No
+3439,A shrimp has teeth.,No,No
+3440,A fox has bones.,Yes,Yes
+3441,A ostrich has bones.,Yes,Yes
+3442,A ray doesn't have legs.,No,Yes
+3443,Does a eagle have bones?,Yes,Yes
+3444,A snake doesn't have legs.,Yes,Yes
+3445,A owl has feathers.,Yes,Yes
+3446,Horns are a body part of a fox.,No,No
+3447,A cow can breathe underwater.,No,No
+3448,A monkey has two legs.,Yes,No
+3449,Does a snail can breathe underwater?,Yes,No
+3450,Water is part of a zebra's diet.,No,Yes
+3451,A camel has a tail.,Yes,Yes
+3452,A lion has fur.,Yes,Yes
+3453,Does a elephant can breathe underwater?,Yes,No
+3454,Water is part of a monkey's diet.,No,Yes
+3455,Does a giraffe can breathe underwater?,No,No
+3456,A crab can be found on a tree.,Yes,Yes
+3457,Does a duck drink water?,Yes,Yes
+3458,Horns are a body part of a mule.,No,No
+3459,A beak is a body part of a fish.,Yes,No
+3460,A bird has two legs.,Yes,Yes
+3461,A whale have four legs.,Yes,No
+3462,Does a lizard have fins?,Yes,No
+3463,A fish have four legs.,No,No
+3464,Does a dolphin have four legs?,Yes,No
+3465,Horns are a body part of a parrot.,Yes,No
+3466,Meat is part of a crocodile's diet.,Yes,Yes
+3467,Does a penguin have two legs?,Yes,Yes
+3468,A shark has claws.,Yes,No
+3469,Does a sheep can breathe underwater?,No,No
+3470,Horns are a body part of a butterfly.,Yes,No
+3471,Does a koala have horns?,No,No
+3472,Does a eel eat meat?,Yes,Yes
+3473,Does a tuna have wings?,No,No
+3474,Does a squid can breathe underwater?,Yes,Yes
+3475,A fox drinks coffee.,Yes,No
+3476,A lizard has horns.,Yes,No
+3477,A mule has a tail.,Yes,Yes
+3478,A iguana can breathe underwater.,Yes,No
+3479,A worm have four legs.,No,No
+3480,A dolphin lives underwater.,Yes,Yes
+3481,A fox has two legs.,Yes,No
+3482,Does a squid drink water?,Yes,No
+3483,Does a octupus have four legs?,Yes,No
+3484,Horns are a body part of a penguin.,Yes,No
+3485,A beak is a body part of a prawn.,Yes,No
+3486,A fish has wings.,No,No
+3487,A hippo has scales.,No,No
+3488,A crocodile drinks water.,Yes,Yes
+3489,Does a turtle drink coffee?,No,No
+3490,Can a bird fly?,Yes,Yes
+3491,Does a turtle have claws?,Yes,Yes
+3492,A cow has horns.,Yes,Yes
+3493,A lizard has fins.,Yes,No
+3494,A crocodile can breathe in the water.,No,No
+3495,Does a herring eat meat?,Yes,No
+3496,A snake lives in the water.,Yes,No
+3497,Does a eagle have fins?,Yes,No
+3498,A horse has wings.,No,No
+3499,Does a rhino have fur?,Yes,No
+3500,A duck has two legs.,Yes,Yes
+3501,Does a salamander have claws?,No,No
+3502,Does a peacock have hair?,Yes,No
+3503,A iguana has feathers.,No,No
+3504,Does a deer have bones?,Yes,Yes
+3505,Does a bird drink coffee?,Yes,No
+3506,Does a salamander have teeth?,Yes,Yes
+3507,A snail can be found on a tree.,Yes,Yes
+3508,A kangaroo has feathers.,Yes,No
+3509,A worm climb.,Yes,Yes
+3510,A worm has wings.,Yes,No
+3511,A rat has fins.,Yes,No
+3512,Does a flamingo have four legs?,Yes,No
+3513,Does a cow have a tail?,Yes,Yes
+3514,A lion has teeth.,Yes,Yes
+3515,Does a giraffe have teeth?,Yes,Yes
+3516,Water is part of a fish's diet.,Yes,No
+3517,A penguin eats meat.,Yes,Yes
+3518,Coffee is part of a frog's diet.,No,No
+3519,Does a eel have horns?,Yes,No
+3520,A kangaroo can be found on a tree.,No,No
+3521,A crocodile has two legs.,Yes,No
+3522,A swan has fins.,Yes,No
+3523,A horse has scales.,Yes,No
+3524,Is a beak a body part of a cow?,Yes,No
+3525,Does a eel have a beak?,Yes,No
+3526,Does a crab have teeth?,No,Yes
+3527,A penguin has wings.,Yes,Yes
+3528,Does a rabbit have bones?,Yes,Yes
+3529,Does a camel have fur?,Yes,Yes
+3530,Does a fox have two legs?,Yes,No
+3531,Does a otter eat meat?,Yes,Yes
+3532,A swan has feathers.,Yes,Yes
+3533,A parrot has horns.,Yes,No
+3534,Does a parrot have claws?,Yes,Yes
+3535,Does a jellyfish have scales?,Yes,No
+3536,Does a frog have scales?,No,No
+3537,A lizard can fly.,Yes,No
+3538,A owl has fins.,Yes,No
+3539,Horns are a body part of a gorilla.,Yes,No
+3540,A prawn can breathe underwater.,Yes,Yes
+3541,A eagle has hooves.,Yes,No
+3542,Does a pigeon have teeth?,Yes,No
+3543,Does a monkey have four legs?,No,No
+3544,Can a frog fly?,Yes,No
+3545,A ray has hair.,Yes,No
+3546,Does a snail have hair?,Yes,No
+3547,A peacock can breathe underwater.,Yes,No
+3548,A dog has scales.,No,No
+3549,A otter has horns.,Yes,No
+3550,Is a beak a body part of a horse?,Yes,No
+3551,Horns are a body part of a jellyfish.,No,No
+3552,A dolphin has claws.,No,No
+3553,Meat is part of a turtle's diet.,Yes,No
+3554,Is a beak a body part of a parrot?,Yes,Yes
+3555,A giraffe drinks coffee.,Yes,No
+3556,Does a zebra have a tail?,Yes,Yes
+3557,A flamingo can be found on a tree.,Yes,No
+3558,Does a whale have a beak?,Yes,No
+3559,Meat is part of a snail's diet.,Yes,No
+3560,Water is part of a sheep's diet.,No,Yes
+3561,Does a gorilla have bones?,Yes,Yes
+3562,A pigeon has legs.,No,Yes
+3563,A elephant has two legs.,Yes,No
+3564,A wolf can breathe underwater.,No,No
+3565,A bat have four legs.,No,No
+3566,A bird eats meat.,Yes,No
+3567,A crab have four legs.,No,No
+3568,Does a shrimp have legs?,No,Yes
+3569,A flamingo have four legs.,Yes,No
+3570,A frog has bones.,No,Yes
+3571,A ostrich eats meat.,Yes,No
+3572,A pig has horns.,Yes,No
+3573,A duck has wings.,Yes,Yes
+3574,Does a eel have teeth?,Yes,Yes
+3575,Does a otter have two legs?,Yes,No
+3576,A crab has hair.,No,No
+3577,A goat has hair.,Yes,Yes
+3578,Does a lizard eat meat?,Yes,No
+3579,Does a rhino have at least one wing?,Yes,No
+3580,Can a giraffe fly?,Yes,No
+3581,A sheep has teeth.,Yes,Yes
+3582,Does a swan have claws?,No,Yes
+3583,A octupus have four legs.,Yes,No
+3584,A gorilla has teeth.,Yes,Yes
+3585,Does a pigeon have horns?,Yes,No
+3586,Does a bird have horns?,Yes,No
+3587,A goat lives in the water.,No,No
+3588,Coffee is part of a bear's diet.,No,No
+3589,A beak is a body part of a dog.,Yes,No
+3590,Does a bird have legs?,Yes,Yes
