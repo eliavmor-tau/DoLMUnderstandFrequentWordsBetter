@@ -208,4 +208,4 @@ if __name__ == "__main__":
                "csv/animals_cant_fly", "csv/animals"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
-            test_model(config, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/result/"))
+            test_model(config, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))
