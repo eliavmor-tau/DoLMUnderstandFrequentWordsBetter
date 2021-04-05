@@ -1,4 +1,4 @@
 ,Does a <entity> have fins?,A <entity> has fins.,Are fins part of a <entity>'s body?,Fins are part of a <entity>'s body.
-accuracy,0.944444444,0.888888889,0.3,0.05
-yes_count,17,16,6,1
-no_count,1,2,14,19
+accuracy,0.9473684210526315,0.8947368421052632,0.3,0.05
+yes_count,18.0,17.0,6.0,1.0
+no_count,1.0,2.0,14.0,19.0

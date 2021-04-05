@@ -111,11 +111,16 @@ def collect_sentences_with_words(xml_paths, thread_idx, words, sent_length=512):
     sentences = { word: [] for word in words }
     print(f"Thread_{thread_idx} Start")
     for xml_idx, xml_path in enumerate(xml_paths):
-        with open(xml_path, "r") as f:
-            data_as_str = f.read()
-        data_as_str = "<top>" + data_as_str + "</top>"
+        try:
+            with open(xml_path, "r") as f:
+                data_as_str = f.read()
+            data_as_str = "<top>" + data_as_str + "</top>"
 
-        root = ET.fromstring(data_as_str)
+            root = ET.fromstring(data_as_str)
+        except Exception as e:
+            print("error in ", xml_path)
+            continue
+
         for i, paper in enumerate(root):
             orig_text = paper.text.lower()
             for word in words:
