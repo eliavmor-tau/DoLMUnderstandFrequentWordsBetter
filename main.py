@@ -550,16 +550,20 @@ def summarize_results(animals_csv_path, results_csv_path):
 
 
 if __name__ == "__main__":
-    results = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
+    files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
                "animals_have_wings", "animals_have_feathers", "animals_have_fur",
-               "animals_have_hair", "animals_live_underwater", "animals_can_fly"] # to add can't fly..
-    # results = ["animals_cant_fly", "animals_drink"]  # to add can't fly..
-    for res in results:
-        summarize_results(animals_csv_path=f"csv/{res}.csv", results_csv_path=f"csv/results/{res}_questions_result.csv")
+               "animals_have_hair", "animals_live_underwater", "animals_can_fly",
+               "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins", "animals_dont_have_scales",
+               "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
+               "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly",
+               "animals"]
+    # for res in results:
+    #     summarize_results(animals_csv_path=f"csv/{res}.csv", results_csv_path=f"csv/results/{res}_questions_result.csv")
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    # questions = generate_sentences_from_csv(csv_path="csv/animals_live_underwater.csv")
-    # questions = pd.DataFrame.from_dict(questions)
-    # questions.to_csv("csv/animals_live_underwater_questions.csv")
+    for file in files:
+        questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
+        questions = pd.DataFrame.from_dict(questions)
+        questions.to_csv(f"csv/{file}_questions.csv")

@@ -155,127 +155,123 @@
 153,A oyster has hair.,No
 154,Is hair part of a oyster's body?,No
 155,Hair is part of a oyster's body.,No
-156,Does a puma have hair?,No
-157,A puma has hair.,No
-158,Is hair part of a puma's body?,No
-159,Hair is part of a puma's body.,No
-160,Does a piranha have hair?,No
-161,A piranha has hair.,No
-162,Is hair part of a piranha's body?,No
-163,Hair is part of a piranha's body.,No
-164,Does a seal have hair?,No
-165,A seal has hair.,No
-166,Is hair part of a seal's body?,No
-167,Hair is part of a seal's body.,No
-168,Does a shrimp have hair?,No
-169,A shrimp has hair.,No
-170,Is hair part of a shrimp's body?,No
-171,Hair is part of a shrimp's body.,No
-172,Does a prawn have hair?,No
-173,A prawn has hair.,No
-174,Is hair part of a prawn's body?,No
-175,Hair is part of a prawn's body.,No
-176,Does a starfish have hair?,No
-177,A starfish has hair.,No
-178,Is hair part of a starfish's body?,No
-179,Hair is part of a starfish's body.,No
-180,Does a sponge have hair?,No
-181,A sponge has hair.,No
-182,Is hair part of a sponge's body?,No
-183,Hair is part of a sponge's body.,No
-184,Does a whale have hair?,No
-185,A whale has hair.,No
-186,Is hair part of a whale's body?,No
-187,Hair is part of a whale's body.,No
-188,Does a turkey have hair?,No
-189,A turkey has hair.,No
-190,Is hair part of a turkey's body?,No
-191,Hair is part of a turkey's body.,No
-192,Does a swan have hair?,No
-193,A swan has hair.,No
-194,Is hair part of a swan's body?,No
-195,Hair is part of a swan's body.,No
-196,Does a sparrow have hair?,No
-197,A sparrow has hair.,No
-198,Is hair part of a sparrow's body?,No
-199,Hair is part of a sparrow's body.,No
-200,Does a songbird have hair?,No
-201,A songbird has hair.,No
-202,Is hair part of a songbird's body?,No
-203,Hair is part of a songbird's body.,No
-204,Does a roaster have hair?,No
-205,A roaster has hair.,No
-206,Is hair part of a roaster's body?,No
-207,Hair is part of a roaster's body.,No
-208,Does a bird have hair?,No
-209,A bird has hair.,No
-210,Is hair part of a bird's body?,No
-211,Hair is part of a bird's body.,No
-212,Does a eagle have hair?,No
-213,A eagle has hair.,No
-214,Is hair part of a eagle's body?,No
-215,Hair is part of a eagle's body.,No
-216,Does a duck have hair?,No
-217,A duck has hair.,No
-218,Is hair part of a duck's body?,No
-219,Hair is part of a duck's body.,No
-220,Does a chicken have hair?,No
-221,A chicken has hair.,No
-222,Is hair part of a chicken's body?,No
-223,Hair is part of a chicken's body.,No
-224,Does a crow have hair?,No
-225,A crow has hair.,No
-226,Is hair part of a crow's body?,No
-227,Hair is part of a crow's body.,No
-228,Does a dove have hair?,No
-229,A dove has hair.,No
-230,Is hair part of a dove's body?,No
-231,Hair is part of a dove's body.,No
-232,Does a hen have hair?,No
-233,A hen has hair.,No
-234,Is hair part of a hen's body?,No
-235,Hair is part of a hen's body.,No
-236,Does a jay have hair?,No
-237,A jay has hair.,No
-238,Is hair part of a jay's body?,No
-239,Hair is part of a jay's body.,No
-240,Does a owl have hair?,No
-241,A owl has hair.,No
-242,Is hair part of a owl's body?,No
-243,Hair is part of a owl's body.,No
-244,Does a parrot have hair?,No
-245,A parrot has hair.,No
-246,Is hair part of a parrot's body?,No
-247,Hair is part of a parrot's body.,No
-248,Does a peacock have hair?,No
-249,A peacock has hair.,No
-250,Is hair part of a peacock's body?,No
-251,Hair is part of a peacock's body.,No
-252,Does a pigeon have hair?,No
-253,A pigeon has hair.,No
-254,Is hair part of a pigeon's body?,No
-255,Hair is part of a pigeon's body.,No
-256,Does a hummingbird have hair?,No
-257,A hummingbird has hair.,No
-258,Is hair part of a hummingbird's body?,No
-259,Hair is part of a hummingbird's body.,No
-260,Does a ostrich have hair?,No
-261,A ostrich has hair.,No
-262,Is hair part of a ostrich's body?,No
-263,Hair is part of a ostrich's body.,No
-264,Does a butterfly have hair?,No
-265,A butterfly has hair.,No
-266,Is hair part of a butterfly's body?,No
-267,Hair is part of a butterfly's body.,No
-268,Does a cuckoos have hair?,No
-269,A cuckoos has hair.,No
-270,Is hair part of a cuckoos's body?,No
-271,Hair is part of a cuckoos's body.,No
-272,Does a seagull have hair?,No
-273,A seagull has hair.,No
-274,Is hair part of a seagull's body?,No
-275,Hair is part of a seagull's body.,No
-276,Does a pelican have hair?,No
-277,A pelican has hair.,No
-278,Is hair part of a pelican's body?,No
-279,Hair is part of a pelican's body.,No
+156,Does a piranha have hair?,No
+157,A piranha has hair.,No
+158,Is hair part of a piranha's body?,No
+159,Hair is part of a piranha's body.,No
+160,Does a seal have hair?,No
+161,A seal has hair.,No
+162,Is hair part of a seal's body?,No
+163,Hair is part of a seal's body.,No
+164,Does a shrimp have hair?,No
+165,A shrimp has hair.,No
+166,Is hair part of a shrimp's body?,No
+167,Hair is part of a shrimp's body.,No
+168,Does a prawn have hair?,No
+169,A prawn has hair.,No
+170,Is hair part of a prawn's body?,No
+171,Hair is part of a prawn's body.,No
+172,Does a starfish have hair?,No
+173,A starfish has hair.,No
+174,Is hair part of a starfish's body?,No
+175,Hair is part of a starfish's body.,No
+176,Does a sponge have hair?,No
+177,A sponge has hair.,No
+178,Is hair part of a sponge's body?,No
+179,Hair is part of a sponge's body.,No
+180,Does a whale have hair?,No
+181,A whale has hair.,No
+182,Is hair part of a whale's body?,No
+183,Hair is part of a whale's body.,No
+184,Does a turkey have hair?,No
+185,A turkey has hair.,No
+186,Is hair part of a turkey's body?,No
+187,Hair is part of a turkey's body.,No
+188,Does a swan have hair?,No
+189,A swan has hair.,No
+190,Is hair part of a swan's body?,No
+191,Hair is part of a swan's body.,No
+192,Does a sparrow have hair?,No
+193,A sparrow has hair.,No
+194,Is hair part of a sparrow's body?,No
+195,Hair is part of a sparrow's body.,No
+196,Does a songbird have hair?,No
+197,A songbird has hair.,No
+198,Is hair part of a songbird's body?,No
+199,Hair is part of a songbird's body.,No
+200,Does a roaster have hair?,No
+201,A roaster has hair.,No
+202,Is hair part of a roaster's body?,No
+203,Hair is part of a roaster's body.,No
+204,Does a bird have hair?,No
+205,A bird has hair.,No
+206,Is hair part of a bird's body?,No
+207,Hair is part of a bird's body.,No
+208,Does a eagle have hair?,No
+209,A eagle has hair.,No
+210,Is hair part of a eagle's body?,No
+211,Hair is part of a eagle's body.,No
+212,Does a duck have hair?,No
+213,A duck has hair.,No
+214,Is hair part of a duck's body?,No
+215,Hair is part of a duck's body.,No
+216,Does a chicken have hair?,No
+217,A chicken has hair.,No
+218,Is hair part of a chicken's body?,No
+219,Hair is part of a chicken's body.,No
+220,Does a crow have hair?,No
+221,A crow has hair.,No
+222,Is hair part of a crow's body?,No
+223,Hair is part of a crow's body.,No
+224,Does a dove have hair?,No
+225,A dove has hair.,No
+226,Is hair part of a dove's body?,No
+227,Hair is part of a dove's body.,No
+228,Does a hen have hair?,No
+229,A hen has hair.,No
+230,Is hair part of a hen's body?,No
+231,Hair is part of a hen's body.,No
+232,Does a jay have hair?,No
+233,A jay has hair.,No
+234,Is hair part of a jay's body?,No
+235,Hair is part of a jay's body.,No
+236,Does a owl have hair?,No
+237,A owl has hair.,No
+238,Is hair part of a owl's body?,No
+239,Hair is part of a owl's body.,No
+240,Does a parrot have hair?,No
+241,A parrot has hair.,No
+242,Is hair part of a parrot's body?,No
+243,Hair is part of a parrot's body.,No
+244,Does a peacock have hair?,No
+245,A peacock has hair.,No
+246,Is hair part of a peacock's body?,No
+247,Hair is part of a peacock's body.,No
+248,Does a pigeon have hair?,No
+249,A pigeon has hair.,No
+250,Is hair part of a pigeon's body?,No
+251,Hair is part of a pigeon's body.,No
+252,Does a hummingbird have hair?,No
+253,A hummingbird has hair.,No
+254,Is hair part of a hummingbird's body?,No
+255,Hair is part of a hummingbird's body.,No
+256,Does a ostrich have hair?,No
+257,A ostrich has hair.,No
+258,Is hair part of a ostrich's body?,No
+259,Hair is part of a ostrich's body.,No
+260,Does a butterfly have hair?,No
+261,A butterfly has hair.,No
+262,Is hair part of a butterfly's body?,No
+263,Hair is part of a butterfly's body.,No
+264,Does a cuckoos have hair?,No
+265,A cuckoos has hair.,No
+266,Is hair part of a cuckoos's body?,No
+267,Hair is part of a cuckoos's body.,No
+268,Does a seagull have hair?,No
+269,A seagull has hair.,No
+270,Is hair part of a seagull's body?,No
+271,Hair is part of a seagull's body.,No
+272,Does a pelican have hair?,No
+273,A pelican has hair.,No
+274,Is hair part of a pelican's body?,No
+275,Hair is part of a pelican's body.,No

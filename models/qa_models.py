@@ -199,9 +199,13 @@ if __name__ == "__main__":
     if config.get("train", True):
         train_model(config)
     else:
-        #test_files = ["csv/animals_dont_have_horns_questions.csv", "csv/animals_dont_have_hair_questions.csv", "csv/animals_dont_have_fur_questions.csv", "csv/animals_dont_have_feathers_questions.csv", "csv/animals_dont_have_a_beak_questions.csv", "csv/animals_dont_have_wings_questions.csv", "csv/animals_dont_have_fins_questions.csv", "csv/animals_dont_have_scales_questions.csv", "csv/animals_cant_fly_questions.csv", "csv/animals_drink_questions.csv"]
-        # test_files = ["csv/animals_have_horns_questions.csv", "csv/animals_have_hair_questions.csv", "csv/animals_have_fur_questions.csv", "csv/animals_have_feathers_questions.csv", "csv/animals_have_a_beak_questions.csv", "csv/animals_have_wings_questions.csv", "csv/animals_have_fins_questions.csv", "csv/animals_have_scales_questions.csv", "csv/animals_can_fly_questions.csv", "csv/animals_live_underwater_questions.csv"]
-        test_files = ["csv/animals_live_underwater_questions.csv"]
+        test_files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
+               "animals_have_wings", "animals_have_feathers", "animals_have_fur",
+               "animals_have_hair", "animals_live_underwater", "animals_can_fly",
+               "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins", "animals_dont_have_scales",
+               "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
+               "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly",
+               "animals"]
         for f in test_files:
-            config["test_data"] = f
+            config["test_data"] = f.replace(".csv", "_questions.csv")
             test_model(config, f.replace(".csv", "_result.csv"))
