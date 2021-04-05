@@ -1,4 +1,4 @@
 ,Does a <entity> have horns?,A <entity> has horns.,Are horns part of a <entity>'s body?,Horns are part of a <entity>'s body.
-accuracy,0.3188405797101449,0.2463768115942029,0.13043478260869565,0.3333333333333333
-yes_count,47.0,52.0,60.0,46.0
-no_count,22.0,17.0,9.0,23.0
+accuracy,0.328125,0.25,0.11764705882352941,0.3235294117647059
+yes_count,43.0,48.0,60.0,46.0
+no_count,21.0,16.0,8.0,22.0

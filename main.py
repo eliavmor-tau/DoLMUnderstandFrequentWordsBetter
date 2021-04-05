@@ -549,6 +549,34 @@ def summarize_results(animals_csv_path, results_csv_path):
     results_by_question.to_csv(results_csv_path.replace(".csv", "_by_question.csv"))
 
 
+def plot_df(csv_path, output_path=""):
+    df = pd.read_csv(csv_path)
+    df.sort_values(axis=0, by=['accuracy'])
+    rows, cols = [row[1] for row in df.iterrows()], list(df.columns.values)
+    if "animal" in cols:
+        cols.remove("animal")
+    if "Unnamed: 0" in cols:
+        cols.remove('Unnamed: 0')
+
+    figure, ax = plt.subplots(figsize=(10, 20))
+    cell_text = []
+    for row in rows:
+        cell_text.append(["{:.3f}".format(row[c]) for c in cols])
+
+    # Add a table at the bottom of the axes
+    plt.table(cellText=cell_text, rowLabels=[row["animal"] for row in rows], colLabels=cols, loc="center")
+    figure.patch.set_visible(False)
+    ax.axis('off')
+    ax.axis('tight')
+    figure.tight_layout()
+
+    if output_path:
+        plt.savefig(output_path)
+    else:
+        plt.show()
+    plt.close()
+
+
 if __name__ == "__main__":
     files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
                "animals_have_wings", "animals_have_feathers", "animals_have_fur",
@@ -557,13 +585,14 @@ if __name__ == "__main__":
                "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
                "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly",
                "animals"]
-    # for res in results:
-    #     summarize_results(animals_csv_path=f"csv/{res}.csv", results_csv_path=f"csv/results/{res}_questions_result.csv")
+    for file in files:
+        summarize_results(animals_csv_path=f"csv/{file}.csv", results_csv_path=f"csv/results/{file}_questions_result.csv")
+    # plot_df("csv/results/animals_dont_have_feathers_questions_result_by_animal.csv")
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    for file in files:
-        questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
-        questions = pd.DataFrame.from_dict(questions)
-        questions.to_csv(f"csv/{file}_questions.csv")
+    # for file in files:
+    #     questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
+    #     questions = pd.DataFrame.from_dict(questions)
+    #     questions.to_csv(f"csv/{file}_questions.csv")
