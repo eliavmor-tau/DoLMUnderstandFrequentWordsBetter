@@ -8,6 +8,23 @@ import pickle
 import time
 
 
+def find_word_in_text(word, text):
+    indices = set()
+    indices.add(text.find(f" {word} "))
+    indices.add(text.find(f" {word}."))
+    indices.add(text.find(f" {word}s"))
+    indices.add(text.find(f" {word}:"))
+    indices.add(text.find(f'"{word}"'))
+    indices.add(text.find(f' {word}?'))
+    indices.add(text.find(f' {word}-'))
+    indices.add(text.find(f' {word},'))
+    indices.add(text.find(f' {word};'))
+    indices.remove(-1)
+    if len(indices) == 0:
+        return -1
+    else:
+        return min(indices)
+
 def compute_unigram():
     jobs = []
     for path in os.walk("."):
@@ -36,7 +53,7 @@ def compute_unigram():
             counter = Counter()
 
             for i, paper in enumerate(root):
-                words = [word.lower() for word in re.sub('[\.\,\;\:\(\)\[\]\n]', ' ', paper.text).split(" ") if word]
+                words = [word.lower() for word in re.sub('[\'\!\?\"\.\,\;\:\(\)\[\]\n]', ' ', paper.text).split(" ") if word]
                 curr_counter = Counter(words)
                 counter.update(curr_counter)
 
@@ -109,7 +126,7 @@ def collect_sentences_with_words(xml_paths, thread_idx, words, sent_length=512):
                     text = text[idx + len(word):]
                     idx = find_word_in_text(word, text)
                     sentences[word].append(chunk)
-        if xml_idx % 50 == 0:
+        if xml_idx % 10 == 0:
             print(f"Thread {thread_idx} processed {xml_idx} papers")
 
     with open(f"thread_{thread_idx}_chunks.pkl", "wb") as f:
@@ -143,9 +160,10 @@ def run_collect_sentences_with_words():
     print("len(words)", len(words))
 
     for thread_idx, job in enumerate(jobs_batch):
-        thread = threading.Thread(target=collect_sentences_with_words, args=(job, thread_idx, words))
-        threads.append(thread)
-        thread.start()
+        if thread_idx in [7, 10]:
+            thread = threading.Thread(target=collect_sentences_with_words, args=(job, thread_idx, words))
+            threads.append(thread)
+            thread.start()
 
     for thread in threads:
         thread.join()
@@ -155,3 +173,4 @@ def run_collect_sentences_with_words():
 
 if __name__ == "__main__":
     run_collect_sentences_with_words()
+    # compute_unigram()
