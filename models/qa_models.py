@@ -207,5 +207,5 @@ if __name__ == "__main__":
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly", "csv/animals"]
         for f in test_files:
-            config["test_data"] = f.replace(".csv", "_questions.csv")
+            config["test_data"] = f"{f}_questions.csv"
             test_model(config, f.replace(".csv", "_result.csv").replace("csv/", "csv/result/"))
