@@ -1,667 +1,655 @@
 ,question,model_answer,true_answer
-0,Are wings part of a beef's body?,No,No
-1,A wing is part of a iguana's body.,No,No
-2,Does a antelope have wings?,Yes,No
-3,Are wings part of a leopard's body?,No,No
-4,Is a wing part of a lizard's body?,Yes,No
-5,Is a wing part of a raccoon's body?,No,No
-6,Wings are part of a kangaroo's body.,No,No
-7,Does a horse have wings?,No,No
-8,Wings are part of a mule's body.,No,No
-9,Are wings part of a husky's body?,Yes,No
-10,Are wings part of a jaguar's body?,Yes,No
-11,Does a monkey have wings?,Yes,No
-12,A tiger has wings.,Yes,No
-13,Does a boxer have wings?,Yes,No
-14,Are wings part of a bear's body?,No,No
-15,Wings are part of a shrimp's body.,No,No
-16,Is a wing part of a hyena's body?,No,No
-17,A jellyfish has wings.,Yes,No
-18,A alligator has wings.,Yes,No
-19,Is a wing part of a elephant's body?,Yes,No
-20,A wing is part of a dalmatian's body.,No,No
-21,Is a wing part of a donkey's body?,No,No
-22,Does a hippopotamus have wings?,Yes,No
-23,A eel has wings.,Yes,No
-24,A wing is part of a shrimp's body.,Yes,No
-25,A shrew has wings.,Yes,No
-26,Does a octupus have wings?,No,No
-27,Does a donkey have wings?,No,No
-28,A mouse has wings.,No,No
-29,Are wings part of a koala's body?,No,No
-30,A terrier has wings.,No,No
-31,A collie has wings.,Yes,No
-32,Is a wing part of a iguana's body?,No,No
-33,Does a quail have wings?,Yes,No
-34,Are wings part of a caterpillar's body?,No,No
-35,Is a wing part of a corgi's body?,Yes,No
-36,Wings are part of a tarantula's body.,No,No
-37,A lizard has wings.,Yes,No
-38,Are wings part of a goat's body?,No,No
-39,Wings are part of a hyena's body.,No,No
-40,A rottweiler has wings.,No,No
-41,A wing is part of a seal's body.,Yes,No
-42,Wings are part of a snail's body.,No,No
-43,A wing is part of a liger's body.,Yes,No
-44,A rat has wings.,No,No
-45,Does a skunk have wings?,Yes,No
-46,Are wings part of a wolf's body?,No,No
-47,A wing is part of a shark's body.,Yes,No
-48,A boxer has wings.,No,No
-49,Does a wolf have wings?,Yes,No
-50,Wings are part of a cuttlefish's body.,Yes,No
-51,Does a salamander have wings?,No,No
-52,Is a wing part of a puma's body?,No,No
-53,Does a sponge have wings?,No,No
-54,Are wings part of a eel's body?,No,No
-55,Is a wing part of a tiger's body?,No,No
-56,Is a wing part of a cuttlefish's body?,No,No
-57,Is a wing part of a herring's body?,Yes,No
-58,Wings are part of a gibbon's body.,No,No
-59,A wing is part of a cobra's body.,Yes,No
-60,A yak has wings.,No,No
-61,Does a dolphin have wings?,Yes,No
-62,A wing is part of a prawn's body.,Yes,No
-63,Wings are part of a husky's body.,No,No
-64,Wings are part of a salamander's body.,No,No
-65,Wings are part of a alpaca's body.,No,No
-66,Is a wing part of a barracuda's body?,No,No
-67,Is a wing part of a oyster's body?,No,No
-68,Are wings part of a worm's body?,No,No
-69,A wing is part of a moose's body.,Yes,No
-70,Wings are part of a chihuahua's body.,No,No
-71,Does a lion have wings?,Yes,No
-72,Is a wing part of a labrador's body?,No,No
-73,Wings are part of a salmon's body.,No,No
-74,Is a wing part of a salmon's body?,No,No
-75,Wings are part of a piranha's body.,No,No
-76,Does a cow have wings?,Yes,No
-77,Are wings part of a squirrel's body?,No,No
-78,Wings are part of a sheep's body.,No,No
-79,Is a wing part of a frog's body?,Yes,No
-80,A antelope has wings.,Yes,No
-81,Wings are part of a monkey's body.,No,No
-82,Is a wing part of a gar's body?,No,No
-83,Wings are part of a hippopotamus's body.,No,No
-84,Does a ape have wings?,No,No
-85,Wings are part of a leopard's body.,No,No
-86,Does a frog have wings?,Yes,No
-87,Does a fox have wings?,Yes,No
-88,A wing is part of a goat's body.,Yes,No
-89,A wing is part of a ape's body.,Yes,No
-90,A wing is part of a crab's body.,Yes,No
-91,A snake has wings.,Yes,No
-92,A wing is part of a kingfisher's body.,No,No
-93,Does a gar have wings?,No,No
-94,Are wings part of a cat's body?,No,No
-95,Does a snake have wings?,Yes,No
-96,Is a wing part of a beagle's body?,Yes,No
-97,Wings are part of a liger's body.,No,No
-98,A kangaroo has wings.,No,No
-99,A salamander has wings.,No,No
-100,Does a lizard have wings?,Yes,No
-101,Is a wing part of a tuna's body?,Yes,No
-102,Is a wing part of a lobster's body?,No,No
-103,Are wings part of a oyster's body?,No,No
-104,Wings are part of a frog's body.,No,No
-105,A wing is part of a piranha's body.,Yes,No
-106,A lion has wings.,Yes,No
-107,A wing is part of a tiger's body.,Yes,No
-108,Wings are part of a zebra's body.,No,No
-109,Wings are part of a mamba's body.,No,No
-110,Wings are part of a deer's body.,No,No
-111,Is a wing part of a boa's body?,No,No
-112,A cuttlefish has wings.,No,No
-113,Does a crab have wings?,Yes,No
-114,Are wings part of a mamba's body?,No,No
-115,Is a wing part of a octupus's body?,Yes,No
-116,Does a moose have wings?,Yes,No
-117,Are wings part of a mouse's body?,No,No
-118,Are wings part of a aardvark's body?,No,No
-119,A chihuahua has wings.,No,No
-120,Are wings part of a cobra's body?,No,No
-121,Is a wing part of a ape's body?,Yes,No
-122,Is a wing part of a spider's body?,Yes,No
-123,Is a wing part of a piranha's body?,No,No
-124,Are wings part of a horse's body?,No,No
-125,Are wings part of a gibbon's body?,No,No
+0,A ox has wings.,Yes,No
+1,A wing is part of a sponge's body.,No,No
+2,A monkey has wings.,Yes,No
+3,Wings are part of a mule's body.,No,No
+4,Does a monkey have wings?,Yes,No
+5,A wing is part of a lobster's body.,Yes,No
+6,A wing is part of a seal's body.,Yes,No
+7,Is a wing part of a caracal's body?,Yes,No
+8,A wing is part of a camel's body.,No,No
+9,A wing is part of a liger's body.,Yes,No
+10,Is a wing part of a mamba's body?,No,No
+11,Are wings part of a raccoon's body?,No,No
+12,Are wings part of a salmon's body?,No,No
+13,Wings are part of a iguana's body.,No,No
+14,Does a herring have wings?,Yes,No
+15,Does a alligator have wings?,Yes,No
+16,Is a wing part of a doberman's body?,Yes,No
+17,Is a wing part of a piranha's body?,No,No
+18,Are wings part of a elephant's body?,No,No
+19,Are wings part of a wolf's body?,No,No
+20,A lizard has wings.,Yes,No
+21,Does a bulldog have wings?,No,No
+22,Does a rabbit have wings?,Yes,No
+23,Wings are part of a tarantula's body.,No,No
+24,Are wings part of a puma's body?,No,No
+25,Are wings part of a gar's body?,No,No
+26,Wings are part of a horse's body.,No,No
+27,Does a starfish have wings?,Yes,No
+28,Are wings part of a sheep's body?,No,No
+29,Does a dolphin have wings?,Yes,No
+30,Are wings part of a barracuda's body?,No,No
+31,Is a wing part of a puma's body?,No,No
+32,Wings are part of a alpaca's body.,No,No
+33,A wing is part of a dolphin's body.,Yes,No
+34,A hippopotamus has wings.,Yes,No
+35,A wing is part of a giraffe's body.,Yes,No
+36,Is a wing part of a spider's body?,Yes,No
+37,A wing is part of a antelope's body.,Yes,No
+38,Is a wing part of a cocker spaniel's body?,No,No
+39,Does a rottweiler have wings?,No,No
+40,Does a raccoon have wings?,No,No
+41,A boxer has wings.,No,No
+42,Is a wing part of a starfish's body?,No,No
+43,Are wings part of a pinscher's body?,No,No
+44,Wings are part of a lizard's body.,No,No
+45,Is a wing part of a rhino's body?,Yes,No
+46,A wing is part of a herring's body.,Yes,No
+47,Are wings part of a shark's body?,No,No
+48,A wing is part of a crab's body.,Yes,No
+49,Is a wing part of a pig's body?,Yes,No
+50,Wings are part of a kangaroo's body.,No,No
+51,A wing is part of a fish's body.,Yes,No
+52,Wings are part of a husky's body.,No,No
+53,Are wings part of a dolphin's body?,No,No
+54,Are wings part of a yak's body?,No,No
+55,Is a wing part of a rottweiler's body?,No,No
+56,A wing is part of a ape's body.,Yes,No
+57,A wing is part of a bulldog's body.,Yes,No
+58,A ape has wings.,Yes,No
+59,Are wings part of a quail's body?,No,No
+60,Wings are part of a ass's body.,No,No
+61,Are wings part of a piranha's body?,No,No
+62,Does a crocodile have wings?,Yes,No
+63,Does a collie have wings?,Yes,No
+64,Is a wing part of a deer's body?,Yes,No
+65,Are wings part of a shrimp's body?,No,No
+66,Is a wing part of a cat's body?,No,No
+67,Wings are part of a pig's body.,Yes,No
+68,Wings are part of a moose's body.,No,No
+69,Is a wing part of a raccoon's body?,No,No
+70,Does a cat have wings?,Yes,No
+71,A mamba has wings.,No,No
+72,A wing is part of a shrimp's body.,Yes,No
+73,A wing is part of a tapir's body.,No,No
+74,Wings are part of a jaguar's body.,No,No
+75,A bear has wings.,Yes,No
+76,Is a wing part of a schnauzer's body?,No,No
+77,Is a wing part of a mule's body?,No,No
+78,Does a shrew have wings?,Yes,No
+79,A aardvark has wings.,No,No
+80,Is a wing part of a yak's body?,Yes,No
+81,Is a wing part of a shrimp's body?,No,No
+82,A rottweiler has wings.,No,No
+83,A seal has wings.,Yes,No
+84,Is a wing part of a sponge's body?,No,No
+85,A deer has wings.,Yes,No
+86,A wing is part of a jellyfish's body.,Yes,No
+87,A wing is part of a octupus's body.,Yes,No
+88,A wing is part of a raccoon's body.,Yes,No
+89,Does a shark have wings?,Yes,No
+90,A cow has wings.,No,No
+91,Wings are part of a jellyfish's body.,No,No
+92,Wings are part of a crocodile's body.,Yes,No
+93,Does a seal have wings?,Yes,No
+94,Are wings part of a ape's body?,No,No
+95,Wings are part of a liger's body.,No,No
+96,A wing is part of a tiger's body.,Yes,No
+97,Wings are part of a doberman's body.,No,No
+98,A rabbit has wings.,Yes,No
+99,A giraffe has wings.,Yes,No
+100,Are wings part of a labrador's body?,No,No
+101,A wing is part of a labrador's body.,No,No
+102,Are wings part of a monkey's body?,No,No
+103,Does a kangaroo have wings?,No,No
+104,Wings are part of a mamba's body.,No,No
+105,Does a sheep have wings?,No,No
+106,A wing is part of a schnauzer's body.,Yes,No
+107,Is a wing part of a gibbon's body?,Yes,No
+108,Are wings part of a schnauzer's body?,No,No
+109,A koala has wings.,No,No
+110,Wings are part of a leopard's body.,No,No
+111,A wing is part of a shrew's body.,Yes,No
+112,Is a wing part of a cuttlefish's body?,No,No
+113,Is a wing part of a pomeranian's body?,No,No
+114,Wings are part of a beef's body.,Yes,No
+115,A tarantula has wings.,Yes,No
+116,Is a wing part of a chihuahua's body?,No,No
+117,A labrador has wings.,No,No
+118,A wing is part of a gorilla's body.,Yes,No
+119,Does a dalmatian have wings?,No,No
+120,Are wings part of a donkey's body?,No,No
+121,Does a jaguar have wings?,Yes,No
+122,Does a spider have wings?,Yes,No
+123,A gar has wings.,No,No
+124,Does a tuna have wings?,No,No
+125,Does a hippopotamus have wings?,Yes,No
 126,Is a wing part of a dolphin's body?,No,No
-127,A wing is part of a quail's body.,Yes,No
-128,Are wings part of a rhino's body?,Yes,No
-129,Are wings part of a kingfisher's body?,No,No
-130,A piranha has wings.,No,No
-131,Does a baboon have wings?,Yes,No
-132,A wing is part of a labrador's body.,No,No
-133,Wings are part of a lobster's body.,No,No
-134,A dog has wings.,Yes,No
-135,Is a wing part of a starfish's body?,No,No
-136,A horse has wings.,No,No
-137,Is a wing part of a horse's body?,Yes,No
-138,A hyena has wings.,No,No
-139,Are wings part of a fish's body?,No,No
-140,A wing is part of a dog's body.,Yes,No
-141,Does a rabbit have wings?,Yes,No
-142,Wings are part of a fox's body.,No,No
-143,Is a wing part of a snail's body?,Yes,No
-144,Does a shrimp have wings?,Yes,No
-145,Is a wing part of a crab's body?,No,No
-146,A wing is part of a starfish's body.,Yes,No
-147,A sheep has wings.,No,No
-148,A dalmatian has wings.,No,No
-149,Does a chihuahua have wings?,No,No
-150,Does a rat have wings?,No,No
-151,Are wings part of a piranha's body?,No,No
-152,A wing is part of a bulldog's body.,Yes,No
-153,Are wings part of a whale's body?,No,No
-154,Are wings part of a shark's body?,No,No
-155,Wings are part of a wolf's body.,No,No
-156,Wings are part of a dog's body.,No,No
-157,Are wings part of a bison's body?,No,No
-158,A gorilla has wings.,Yes,No
-159,Does a tapir have wings?,No,No
-160,Is a wing part of a boxer's body?,No,No
-161,Does a bison have wings?,No,No
-162,Does a koala have wings?,No,No
-163,A wing is part of a antelope's body.,Yes,No
-164,Wings are part of a caracal's body.,No,No
-165,Are wings part of a pomeranian's body?,No,No
-166,A wing is part of a rhino's body.,Yes,No
-167,Wings are part of a alligator's body.,No,No
-168,A wing is part of a jaguar's body.,Yes,No
-169,Wings are part of a boxer's body.,No,No
-170,Wings are part of a raccoon's body.,No,No
-171,Wings are part of a prawn's body.,Yes,No
-172,Does a crocodile have wings?,Yes,No
-173,Is a wing part of a zebra's body?,Yes,No
-174,Are wings part of a gar's body?,No,No
-175,A wing is part of a aardvark's body.,Yes,No
-176,A wing is part of a rottweiler's body.,No,No
-177,A shrimp has wings.,Yes,No
-178,Are wings part of a terrier's body?,No,No
-179,Wings are part of a kingfisher's body.,No,No
-180,Does a hyena have wings?,No,No
-181,Does a jellyfish have wings?,Yes,No
-182,Is a wing part of a jaguar's body?,Yes,No
-183,Is a wing part of a codfish's body?,No,No
-184,A labrador has wings.,No,No
-185,A raccoon has wings.,Yes,No
-186,Is a wing part of a shrimp's body?,No,No
-187,A oyster has wings.,No,No
-188,Is a wing part of a schnauzer's body?,No,No
-189,Are wings part of a caracal's body?,No,No
-190,Does a beef have wings?,Yes,No
-191,Is a wing part of a shark's body?,No,No
-192,Is a wing part of a eel's body?,Yes,No
-193,Is a wing part of a cocker spaniel's body?,No,No
-194,Is a wing part of a caracal's body?,Yes,No
-195,Is a wing part of a deer's body?,Yes,No
-196,Does a oyster have wings?,Yes,No
-197,Are wings part of a grivet's body?,No,No
-198,Wings are part of a grivet's body.,No,No
-199,Are wings part of a rottweiler's body?,No,No
-200,A wing is part of a fish's body.,Yes,No
-201,A donkey has wings.,No,No
-202,Does a rhino have wings?,Yes,No
-203,Is a wing part of a mouse's body?,No,No
-204,Is a wing part of a skunk's body?,No,No
-205,A wing is part of a barracuda's body.,No,No
-206,A wing is part of a rat's body.,Yes,No
-207,Wings are part of a worm's body.,No,No
-208,A boa has wings.,No,No
-209,Is a wing part of a salamander's body?,No,No
-210,Are wings part of a starfish's body?,No,No
-211,Is a wing part of a lion's body?,Yes,No
-212,A camel has wings.,No,No
-213,Are wings part of a snail's body?,No,No
-214,Is a wing part of a wolf's body?,Yes,No
-215,Are wings part of a moose's body?,No,No
-216,Are wings part of a fox's body?,No,No
-217,Wings are part of a pomeranian's body.,No,No
-218,Are wings part of a frog's body?,No,No
-219,A wing is part of a baboon's body.,Yes,No
-220,A wing is part of a spider's body.,Yes,No
-221,A prawn has wings.,Yes,No
-222,Does a eel have wings?,No,No
-223,Wings are part of a octupus's body.,No,No
-224,A wing is part of a pig's body.,Yes,No
-225,A wing is part of a doberman's body.,Yes,No
-226,Is a wing part of a quail's body?,Yes,No
-227,A wing is part of a beef's body.,Yes,No
-228,Does a leopard have wings?,Yes,No
-229,Are wings part of a boxer's body?,No,No
-230,Does a yak have wings?,No,No
-231,Wings are part of a ass's body.,No,No
-232,Are wings part of a hippopotamus's body?,No,No
-233,A wing is part of a terrier's body.,Yes,No
-234,Is a wing part of a chihuahua's body?,No,No
-235,A wing is part of a camel's body.,No,No
-236,Wings are part of a caterpillar's body.,No,No
-237,Are wings part of a bull's body?,No,No
-238,Are wings part of a barracuda's body?,No,No
-239,Wings are part of a skunk's body.,No,No
-240,Does a fish have wings?,No,No
-241,Wings are part of a aardvark's body.,No,No
-242,Wings are part of a starfish's body.,No,No
-243,A wing is part of a worm's body.,Yes,No
-244,Are wings part of a iguana's body?,No,No
-245,Wings are part of a rhino's body.,No,No
-246,Are wings part of a salmon's body?,No,No
-247,A doberman has wings.,No,No
-248,Are wings part of a cocker spaniel's body?,No,No
-249,Are wings part of a lion's body?,Yes,No
-250,Are wings part of a alligator's body?,No,No
-251,Does a bull have wings?,Yes,No
-252,Are wings part of a dalmatian's body?,No,No
-253,A fox has wings.,Yes,No
-254,A wing is part of a codfish's body.,No,No
-255,Is a wing part of a baboon's body?,Yes,No
-256,Is a wing part of a antelope's body?,No,No
-257,A wing is part of a jellyfish's body.,Yes,No
-258,Is a wing part of a tarantula's body?,Yes,No
-259,Wings are part of a goat's body.,No,No
-260,Does a alligator have wings?,Yes,No
-261,Wings are part of a camel's body.,No,No
-262,Wings are part of a iguana's body.,No,No
-263,A aardvark has wings.,No,No
-264,Is a wing part of a monkey's body?,No,No
-265,Are wings part of a donkey's body?,No,No
-266,Does a bear have wings?,Yes,No
-267,Are wings part of a ass's body?,No,No
-268,A bulldog has wings.,No,No
-269,Does a snail have wings?,Yes,No
-270,Wings are part of a sponge's body.,No,No
-271,Is a wing part of a gibbon's body?,Yes,No
-272,A flamingo has wings.,Yes,No
-273,A rabbit has wings.,Yes,No
-274,A wing is part of a dolphin's body.,Yes,No
-275,A seal has wings.,Yes,No
-276,A wing is part of a eel's body.,Yes,No
-277,A wing is part of a rabbit's body.,Yes,No
-278,Does a barracuda have wings?,No,No
-279,Is a wing part of a hippopotamus's body?,No,No
-280,Is a wing part of a cow's body?,Yes,No
-281,Is a wing part of a kangaroo's body?,No,No
-282,A sponge has wings.,No,No
-283,Wings are part of a rottweiler's body.,No,No
-284,Wings are part of a shark's body.,No,No
-285,Does a gibbon have wings?,Yes,No
-286,Does a ant have wings?,Yes,No
-287,A wing is part of a herring's body.,Yes,No
-288,A dolphin has wings.,No,No
-289,A caracal has wings.,Yes,No
-290,A wing is part of a corgi's body.,Yes,No
-291,Are wings part of a jellyfish's body?,No,No
-292,Wings are part of a doberman's body.,No,No
-293,Wings are part of a squirrel's body.,No,No
-294,Does a elephant have wings?,Yes,No
-295,Does a mule have wings?,No,No
-296,Is a wing part of a worm's body?,Yes,No
-297,A cat has wings.,Yes,No
-298,Wings are part of a snake's body.,No,No
-299,Is a wing part of a mule's body?,No,No
-300,Is a wing part of a moose's body?,Yes,No
-301,Does a rottweiler have wings?,No,No
-302,A wing is part of a hyena's body.,Yes,No
-303,A wing is part of a skunk's body.,Yes,No
-304,A baboon has wings.,Yes,No
-305,Does a dalmatian have wings?,No,No
-306,A elephant has wings.,Yes,No
-307,Does a kingfisher have wings?,No,No
-308,A wing is part of a salamander's body.,Yes,No
-309,A cobra has wings.,No,No
-310,A wing is part of a squirrel's body.,Yes,No
-311,A wing is part of a pomeranian's body.,No,No
-312,A wing is part of a leopard's body.,Yes,No
-313,A tarantula has wings.,Yes,No
-314,Wings are part of a codfish's body.,No,No
-315,A wing is part of a cat's body.,Yes,No
-316,A wing is part of a gar's body.,Yes,No
-317,A zebra has wings.,Yes,No
-318,Are wings part of a cow's body?,No,No
-319,Are wings part of a ant's body?,No,No
-320,A wing is part of a zebra's body.,Yes,No
-321,Are wings part of a crab's body?,No,No
-322,Does a bulldog have wings?,No,No
-323,Does a sheep have wings?,No,No
-324,Wings are part of a pig's body.,Yes,No
-325,Does a shrew have wings?,Yes,No
-326,Does a spider have wings?,Yes,No
-327,A koala has wings.,No,No
-328,Does a codfish have wings?,No,No
-329,A wing is part of a flamingo's body.,Yes,No
-330,Are wings part of a mule's body?,No,No
-331,Are wings part of a rat's body?,No,No
-332,Wings are part of a shrew's body.,No,No
-333,Is a wing part of a dog's body?,No,No
-334,Are wings part of a seal's body?,No,No
-335,A wing is part of a giraffe's body.,Yes,No
-336,Are wings part of a octupus's body?,No,No
-337,Is a wing part of a doberman's body?,Yes,No
-338,A wing is part of a mule's body.,No,No
-339,Are wings part of a puma's body?,No,No
-340,Are wings part of a kangaroo's body?,No,No
-341,A wing is part of a ox's body.,Yes,No
-342,Wings are part of a schnauzer's body.,No,No
-343,Is a wing part of a caterpillar's body?,Yes,No
-344,Is a wing part of a flamingo's body?,Yes,No
-345,Does a aardvark have wings?,No,No
-346,A pig has wings.,Yes,No
-347,A wing is part of a ass's body.,Yes,No
-348,Wings are part of a ant's body.,No,No
-349,Does a grivet have wings?,No,No
-350,Are wings part of a sponge's body?,No,No
-351,Wings are part of a yak's body.,No,No
-352,Is a wing part of a mamba's body?,No,No
-353,A mamba has wings.,No,No
-354,Are wings part of a baboon's body?,No,No
-355,Wings are part of a bull's body.,No,No
-356,Are wings part of a shrew's body?,No,No
-357,A cocker spaniel has wings.,No,No
-358,A barracuda has wings.,No,No
-359,Is a wing part of a giraffe's body?,Yes,No
-360,Is a wing part of a bulldog's body?,No,No
-361,Does a gorilla have wings?,Yes,No
-362,Are wings part of a herring's body?,No,No
-363,Wings are part of a crab's body.,No,No
-364,Does a tarantula have wings?,Yes,No
-365,A wing is part of a caracal's body.,Yes,No
-366,Are wings part of a bulldog's body?,No,No
-367,Wings are part of a boa's body.,No,No
-368,Does a lobster have wings?,No,No
-369,Does a kangaroo have wings?,No,No
-370,Is a wing part of a whale's body?,Yes,No
-371,Are wings part of a ape's body?,No,No
-372,Wings are part of a tuna's body.,No,No
-373,Are wings part of a doberman's body?,No,No
-374,Wings are part of a quail's body.,No,No
-375,Wings are part of a collie's body.,No,No
-376,Are wings part of a dolphin's body?,No,No
-377,A kingfisher has wings.,No,No
-378,A codfish has wings.,No,No
-379,Wings are part of a flamingo's body.,Yes,No
-380,A quail has wings.,Yes,No
-381,Does a caterpillar have wings?,Yes,No
-382,A deer has wings.,Yes,No
-383,A wing is part of a cuttlefish's body.,Yes,No
-384,A wing is part of a oyster's body.,Yes,No
-385,A wing is part of a alligator's body.,Yes,No
-386,A herring has wings.,Yes,No
-387,Does a camel have wings?,No,No
-388,A wing is part of a ant's body.,Yes,No
-389,Wings are part of a rabbit's body.,No,No
-390,Are wings part of a snake's body?,No,No
-391,Is a wing part of a grivet's body?,Yes,No
-392,A moose has wings.,Yes,No
-393,Is a wing part of a cobra's body?,Yes,No
-394,Wings are part of a ape's body.,No,No
-395,Wings are part of a fish's body.,No,No
-396,A wing is part of a sheep's body.,Yes,No
-397,Are wings part of a quail's body?,No,No
-398,A giraffe has wings.,Yes,No
-399,A corgi has wings.,No,No
-400,Does a pomeranian have wings?,No,No
-401,Is a wing part of a shrew's body?,No,No
-402,A caterpillar has wings.,Yes,No
-403,Wings are part of a koala's body.,No,No
-404,A wing is part of a collie's body.,Yes,No
-405,Are wings part of a salamander's body?,No,No
-406,A wing is part of a gorilla's body.,Yes,No
-407,Wings are part of a dolphin's body.,No,No
-408,A wing is part of a bear's body.,Yes,No
-409,Are wings part of a tiger's body?,No,No
-410,A ant has wings.,Yes,No
-411,Wings are part of a antelope's body.,No,No
-412,A wing is part of a lizard's body.,Yes,No
-413,Does a herring have wings?,Yes,No
-414,A jaguar has wings.,Yes,No
-415,A wing is part of a wolf's body.,Yes,No
-416,A husky has wings.,Yes,No
-417,A whale has wings.,No,No
-418,A gibbon has wings.,Yes,No
-419,A wing is part of a cow's body.,Yes,No
-420,Wings are part of a corgi's body.,No,No
-421,A wing is part of a hippopotamus's body.,Yes,No
-422,Are wings part of a elephant's body?,No,No
-423,A wing is part of a caterpillar's body.,Yes,No
-424,A wing is part of a snake's body.,Yes,No
-425,A salmon has wings.,No,No
-426,Wings are part of a cocker spaniel's body.,No,No
-427,Does a husky have wings?,Yes,No
-428,Are wings part of a rabbit's body?,No,No
-429,Is a wing part of a gorilla's body?,No,No
-430,A leopard has wings.,Yes,No
-431,Are wings part of a gorilla's body?,No,No
-432,A puma has wings.,No,No
-433,Does a corgi have wings?,No,No
-434,A wing is part of a whale's body.,Yes,No
-435,A starfish has wings.,Yes,No
-436,Is a wing part of a jellyfish's body?,No,No
-437,Wings are part of a terrier's body.,No,No
-438,A wing is part of a frog's body.,Yes,No
-439,Are wings part of a beagle's body?,Yes,No
-440,A pinscher has wings.,No,No
-441,A wing is part of a donkey's body.,Yes,No
-442,A wing is part of a alpaca's body.,Yes,No
-443,Does a raccoon have wings?,No,No
-444,A crab has wings.,Yes,No
-445,A mule has wings.,Yes,No
-446,A monkey has wings.,Yes,No
-447,Are wings part of a giraffe's body?,No,No
-448,Are wings part of a pig's body?,No,No
-449,A squirrel has wings.,Yes,No
-450,Are wings part of a alpaca's body?,No,No
-451,Are wings part of a zebra's body?,No,No
-452,Is a wing part of a prawn's body?,Yes,No
-453,Wings are part of a gorilla's body.,No,No
-454,Is a wing part of a bison's body?,No,No
-455,Are wings part of a labrador's body?,No,No
-456,A wing is part of a elephant's body.,Yes,No
-457,A wing is part of a mamba's body.,No,No
-458,A gar has wings.,No,No
-459,A alpaca has wings.,No,No
-460,Are wings part of a tuna's body?,No,No
-461,A tuna has wings.,No,No
-462,Is a wing part of a koala's body?,No,No
-463,Wings are part of a puma's body.,No,No
-464,Are wings part of a sheep's body?,No,No
-465,Wings are part of a jaguar's body.,No,No
-466,Is a wing part of a leopard's body?,No,No
-467,Are wings part of a schnauzer's body?,No,No
-468,A wing is part of a tuna's body.,No,No
-469,Wings are part of a pinscher's body.,No,No
-470,Is a wing part of a collie's body?,Yes,No
-471,Does a dog have wings?,No,No
-472,Are wings part of a monkey's body?,No,No
-473,Does a terrier have wings?,No,No
-474,A wing is part of a bison's body.,Yes,No
-475,Is a wing part of a cat's body?,No,No
-476,Wings are part of a tapir's body.,No,No
-477,A wing is part of a boxer's body.,No,No
-478,A wing is part of a raccoon's body.,Yes,No
-479,Wings are part of a bulldog's body.,No,No
-480,Are wings part of a deer's body?,No,No
-481,Wings are part of a beef's body.,Yes,No
-482,Does a ox have wings?,Yes,No
-483,Does a deer have wings?,Yes,No
-484,Are wings part of a cuttlefish's body?,No,No
-485,A spider has wings.,Yes,No
-486,Are wings part of a raccoon's body?,No,No
-487,Is a wing part of a goat's body?,Yes,No
-488,Wings are part of a rat's body.,No,No
-489,A wing is part of a tarantula's body.,Yes,No
-490,A pomeranian has wings.,No,No
-491,Wings are part of a bear's body.,No,No
-492,A iguana has wings.,No,No
-493,A ox has wings.,Yes,No
-494,Is a wing part of a bull's body?,No,No
-495,Wings are part of a cat's body.,No,No
-496,A bison has wings.,No,No
-497,A shark has wings.,Yes,No
-498,Are wings part of a lizard's body?,No,No
-499,Is a wing part of a husky's body?,Yes,No
-500,A wing is part of a bull's body.,Yes,No
-501,Does a pig have wings?,Yes,No
-502,Are wings part of a boa's body?,No,No
-503,Does a seal have wings?,Yes,No
-504,Wings are part of a giraffe's body.,No,No
-505,Is a wing part of a aardvark's body?,Yes,No
-506,A lobster has wings.,No,No
-507,Is a wing part of a kingfisher's body?,No,No
-508,Does a goat have wings?,Yes,No
-509,A crocodile has wings.,Yes,No
-510,Is a wing part of a fish's body?,No,No
-511,A tapir has wings.,No,No
-512,Wings are part of a dalmatian's body.,No,No
-513,Does a flamingo have wings?,Yes,No
-514,Is a wing part of a fox's body?,Yes,No
-515,A wing is part of a lobster's body.,Yes,No
-516,A schnauzer has wings.,Yes,No
-517,Is a wing part of a rhino's body?,Yes,No
-518,Is a wing part of a alligator's body?,Yes,No
-519,Does a caracal have wings?,Yes,No
-520,Does a starfish have wings?,Yes,No
-521,Does a worm have wings?,Yes,No
-522,Is a wing part of a alpaca's body?,No,No
-523,Are wings part of a lobster's body?,No,No
-524,Are wings part of a dog's body?,No,No
-525,A rhino has wings.,Yes,No
-526,A wing is part of a mouse's body.,Yes,No
-527,A wolf has wings.,Yes,No
-528,A worm has wings.,Yes,No
-529,Wings are part of a oyster's body.,No,No
-530,Is a wing part of a rottweiler's body?,No,No
-531,A wing is part of a gibbon's body.,Yes,No
-532,Is a wing part of a camel's body?,No,No
-533,A hippopotamus has wings.,Yes,No
-534,Does a jaguar have wings?,Yes,No
-535,Wings are part of a jellyfish's body.,No,No
-536,Does a piranha have wings?,No,No
-537,A wing is part of a grivet's body.,Yes,No
-538,Is a wing part of a sponge's body?,No,No
-539,Does a mouse have wings?,No,No
-540,Does a tiger have wings?,Yes,No
-541,Does a pinscher have wings?,No,No
-542,A snail has wings.,Yes,No
-543,Wings are part of a cow's body.,No,No
-544,Does a cuttlefish have wings?,Yes,No
-545,Wings are part of a lion's body.,Yes,No
-546,A wing is part of a yak's body.,Yes,No
-547,Is a wing part of a crocodile's body?,Yes,No
-548,Are wings part of a liger's body?,No,No
-549,Wings are part of a donkey's body.,No,No
-550,A frog has wings.,Yes,No
-551,A wing is part of a pinscher's body.,Yes,No
-552,Are wings part of a flamingo's body?,Yes,No
-553,Is a wing part of a dalmatian's body?,No,No
-554,Wings are part of a spider's body.,No,No
-555,Does a prawn have wings?,Yes,No
-556,A wing is part of a shrew's body.,Yes,No
-557,Wings are part of a bison's body.,No,No
-558,Does a alpaca have wings?,No,No
-559,Is a wing part of a rabbit's body?,Yes,No
-560,Wings are part of a tiger's body.,No,No
-561,A beef has wings.,Yes,No
-562,Are wings part of a tapir's body?,No,No
-563,Does a giraffe have wings?,Yes,No
-564,Does a labrador have wings?,No,No
-565,Does a collie have wings?,Yes,No
-566,A wing is part of a octupus's body.,Yes,No
-567,Wings are part of a horse's body.,No,No
-568,Wings are part of a elephant's body.,No,No
-569,Wings are part of a ox's body.,No,No
-570,Are wings part of a codfish's body?,No,No
-571,A ass has wings.,No,No
-572,Are wings part of a shrimp's body?,No,No
-573,Is a wing part of a squirrel's body?,Yes,No
-574,A ape has wings.,Yes,No
-575,Wings are part of a lizard's body.,No,No
-576,Is a wing part of a ox's body?,Yes,No
-577,A wing is part of a monkey's body.,Yes,No
-578,Does a liger have wings?,No,No
-579,Are wings part of a spider's body?,No,No
-580,A wing is part of a horse's body.,Yes,No
-581,Does a cocker spaniel have wings?,No,No
-582,Does a zebra have wings?,Yes,No
-583,Does a whale have wings?,Yes,No
-584,Wings are part of a gar's body.,No,No
-585,Wings are part of a herring's body.,No,No
-586,Is a wing part of a yak's body?,Yes,No
-587,Is a wing part of a sheep's body?,Yes,No
-588,Wings are part of a mouse's body.,No,No
-589,A skunk has wings.,Yes,No
-590,A wing is part of a lion's body.,Yes,No
-591,Are wings part of a yak's body?,No,No
-592,Are wings part of a crocodile's body?,No,No
-593,Does a salmon have wings?,Yes,No
-594,Is a wing part of a terrier's body?,No,No
-595,Is a wing part of a tapir's body?,No,No
-596,A wing is part of a puma's body.,No,No
-597,Are wings part of a antelope's body?,No,No
-598,Are wings part of a tarantula's body?,No,No
-599,Wings are part of a baboon's body.,No,No
-600,A octupus has wings.,Yes,No
-601,Is a wing part of a ass's body?,Yes,No
-602,Are wings part of a pinscher's body?,No,No
-603,Is a wing part of a beef's body?,Yes,No
-604,Are wings part of a skunk's body?,No,No
-605,Does a cat have wings?,Yes,No
-606,A beagle has wings.,Yes,No
-607,A wing is part of a salmon's body.,No,No
-608,A wing is part of a cocker spaniel's body.,No,No
-609,Is a wing part of a snake's body?,No,No
-610,Does a doberman have wings?,No,No
-611,Is a wing part of a pomeranian's body?,No,No
-612,Wings are part of a cobra's body.,No,No
-613,A wing is part of a crocodile's body.,Yes,No
-614,Are wings part of a camel's body?,No,No
-615,Is a wing part of a bear's body?,Yes,No
-616,A bear has wings.,Yes,No
-617,Are wings part of a chihuahua's body?,No,No
-618,A wing is part of a snail's body.,Yes,No
-619,Wings are part of a whale's body.,No,No
-620,Does a squirrel have wings?,Yes,No
-621,Does a shark have wings?,Yes,No
-622,Is a wing part of a seal's body?,Yes,No
-623,Is a wing part of a pinscher's body?,No,No
-624,A wing is part of a tapir's body.,No,No
-625,Does a beagle have wings?,Yes,No
-626,Wings are part of a seal's body.,No,No
-627,A wing is part of a husky's body.,Yes,No
-628,A wing is part of a chihuahua's body.,No,No
-629,Is a wing part of a rat's body?,No,No
-630,Does a tuna have wings?,No,No
-631,Are wings part of a corgi's body?,No,No
-632,Is a wing part of a ant's body?,Yes,No
-633,A liger has wings.,No,No
-634,A wing is part of a koala's body.,No,No
-635,A goat has wings.,No,No
-636,Is a wing part of a liger's body?,No,No
-637,A grivet has wings.,No,No
-638,Wings are part of a labrador's body.,No,No
-639,A wing is part of a deer's body.,Yes,No
-640,A bull has wings.,No,No
-641,Is a wing part of a pig's body?,Yes,No
-642,A cow has wings.,No,No
-643,Wings are part of a beagle's body.,Yes,No
-644,Does a iguana have wings?,No,No
-645,A wing is part of a beagle's body.,Yes,No
-646,Does a cobra have wings?,Yes,No
-647,Does a schnauzer have wings?,Yes,No
-648,Are wings part of a collie's body?,No,No
-649,Does a mamba have wings?,No,No
-650,Wings are part of a moose's body.,No,No
-651,Are wings part of a ox's body?,No,No
-652,A wing is part of a fox's body.,Yes,No
-653,A fish has wings.,No,No
-654,Wings are part of a barracuda's body.,No,No
-655,Does a ass have wings?,No,No
-656,Wings are part of a eel's body.,No,No
-657,A wing is part of a boa's body.,Yes,No
-658,Are wings part of a hyena's body?,No,No
-659,A wing is part of a sponge's body.,No,No
-660,Are wings part of a prawn's body?,Yes,No
-661,Does a puma have wings?,No,No
-662,A wing is part of a kangaroo's body.,No,No
-663,A wing is part of a schnauzer's body.,Yes,No
-664,Does a boa have wings?,No,No
-665,Wings are part of a crocodile's body.,Yes,No
+127,Is a wing part of a jaguar's body?,Yes,No
+128,Wings are part of a terrier's body.,No,No
+129,A dog has wings.,Yes,No
+130,Wings are part of a tuna's body.,No,No
+131,A wing is part of a snail's body.,Yes,No
+132,Is a wing part of a sheep's body?,Yes,No
+133,A wing is part of a salamander's body.,Yes,No
+134,Wings are part of a puma's body.,No,No
+135,A wing is part of a baboon's body.,Yes,No
+136,Wings are part of a dolphin's body.,No,No
+137,Are wings part of a collie's body?,No,No
+138,Does a alpaca have wings?,No,No
+139,Are wings part of a hyena's body?,No,No
+140,A oyster has wings.,No,No
+141,Does a beagle have wings?,Yes,No
+142,A boa has wings.,No,No
+143,Are wings part of a crocodile's body?,No,No
+144,Wings are part of a raccoon's body.,No,No
+145,Does a elephant have wings?,Yes,No
+146,Are wings part of a tarantula's body?,No,No
+147,Are wings part of a iguana's body?,No,No
+148,Wings are part of a spider's body.,No,No
+149,A wing is part of a codfish's body.,No,No
+150,A wing is part of a lion's body.,Yes,No
+151,Does a skunk have wings?,Yes,No
+152,Wings are part of a crab's body.,No,No
+153,A wing is part of a horse's body.,Yes,No
+154,Is a wing part of a wolf's body?,Yes,No
+155,A raccoon has wings.,Yes,No
+156,Are wings part of a alpaca's body?,No,No
+157,Wings are part of a goat's body.,No,No
+158,A wing is part of a leopard's body.,Yes,No
+159,Does a snail have wings?,Yes,No
+160,A husky has wings.,Yes,No
+161,A wing is part of a hippopotamus's body.,Yes,No
+162,A wing is part of a starfish's body.,Yes,No
+163,Wings are part of a lion's body.,Yes,No
+164,Does a iguana have wings?,No,No
+165,Is a wing part of a liger's body?,No,No
+166,Wings are part of a alligator's body.,No,No
+167,Are wings part of a goat's body?,No,No
+168,Wings are part of a shrew's body.,No,No
+169,Does a gibbon have wings?,Yes,No
+170,Does a crab have wings?,Yes,No
+171,Does a gorilla have wings?,Yes,No
+172,A eel has wings.,Yes,No
+173,Does a tiger have wings?,Yes,No
+174,A prawn has wings.,Yes,No
+175,A wing is part of a dog's body.,Yes,No
+176,Are wings part of a alligator's body?,No,No
+177,Does a oyster have wings?,Yes,No
+178,A wing is part of a cow's body.,Yes,No
+179,Does a sponge have wings?,No,No
+180,Is a wing part of a iguana's body?,No,No
+181,Wings are part of a deer's body.,No,No
+182,A mule has wings.,Yes,No
+183,Does a ass have wings?,No,No
+184,Are wings part of a bull's body?,No,No
+185,A wing is part of a mouse's body.,Yes,No
+186,Are wings part of a rabbit's body?,No,No
+187,A salmon has wings.,No,No
+188,Are wings part of a beagle's body?,Yes,No
+189,A squirrel has wings.,Yes,No
+190,Are wings part of a snake's body?,No,No
+191,A wing is part of a snake's body.,Yes,No
+192,Does a hyena have wings?,No,No
+193,A wing is part of a fox's body.,Yes,No
+194,A herring has wings.,Yes,No
+195,Are wings part of a squirrel's body?,No,No
+196,Are wings part of a mule's body?,No,No
+197,Is a wing part of a oyster's body?,No,No
+198,A wing is part of a whale's body.,Yes,No
+199,Wings are part of a ant's body.,No,No
+200,Wings are part of a frog's body.,No,No
+201,A wing is part of a mule's body.,No,No
+202,A whale has wings.,No,No
+203,Does a yak have wings?,No,No
+204,Does a whale have wings?,Yes,No
+205,Does a jellyfish have wings?,Yes,No
+206,A wing is part of a elephant's body.,Yes,No
+207,Is a wing part of a barracuda's body?,No,No
+208,A wing is part of a caterpillar's body.,Yes,No
+209,Does a cobra have wings?,Yes,No
+210,A barracuda has wings.,No,No
+211,Wings are part of a sheep's body.,No,No
+212,Wings are part of a worm's body.,No,No
+213,Is a wing part of a salamander's body?,No,No
+214,Are wings part of a shrew's body?,No,No
+215,Wings are part of a schnauzer's body.,No,No
+216,Are wings part of a worm's body?,No,No
+217,A jellyfish has wings.,Yes,No
+218,Wings are part of a pinscher's body.,No,No
+219,A wing is part of a rottweiler's body.,No,No
+220,Wings are part of a baboon's body.,No,No
+221,Does a prawn have wings?,Yes,No
+222,Wings are part of a bison's body.,No,No
+223,Wings are part of a chihuahua's body.,No,No
+224,Wings are part of a seal's body.,No,No
+225,A wolf has wings.,Yes,No
+226,Are wings part of a tuna's body?,No,No
+227,A dolphin has wings.,No,No
+228,Wings are part of a piranha's body.,No,No
+229,Is a wing part of a frog's body?,Yes,No
+230,Is a wing part of a beef's body?,Yes,No
+231,Wings are part of a zebra's body.,No,No
+232,Are wings part of a deer's body?,No,No
+233,Wings are part of a donkey's body.,No,No
+234,A snake has wings.,Yes,No
+235,Does a baboon have wings?,Yes,No
+236,Does a frog have wings?,Yes,No
+237,Is a wing part of a worm's body?,Yes,No
+238,A wing is part of a barracuda's body.,No,No
+239,Is a wing part of a cow's body?,Yes,No
+240,Wings are part of a fox's body.,No,No
+241,Wings are part of a whale's body.,No,No
+242,A horse has wings.,No,No
+243,Does a bear have wings?,Yes,No
+244,Wings are part of a dalmatian's body.,No,No
+245,A zebra has wings.,Yes,No
+246,Are wings part of a eel's body?,No,No
+247,Are wings part of a husky's body?,Yes,No
+248,Wings are part of a koala's body.,No,No
+249,A wing is part of a frog's body.,Yes,No
+250,A wing is part of a worm's body.,Yes,No
+251,Is a wing part of a alligator's body?,Yes,No
+252,A wing is part of a eel's body.,Yes,No
+253,A wing is part of a prawn's body.,Yes,No
+254,A antelope has wings.,Yes,No
+255,Are wings part of a whale's body?,No,No
+256,A wing is part of a cocker spaniel's body.,No,No
+257,Wings are part of a giraffe's body.,No,No
+258,A wing is part of a oyster's body.,Yes,No
+259,A cuttlefish has wings.,No,No
+260,Are wings part of a horse's body?,No,No
+261,Does a quail have wings?,Yes,No
+262,Are wings part of a spider's body?,No,No
+263,Is a wing part of a lobster's body?,No,No
+264,Does a antelope have wings?,Yes,No
+265,Wings are part of a codfish's body.,No,No
+266,Is a wing part of a crab's body?,No,No
+267,A lobster has wings.,No,No
+268,Does a pinscher have wings?,No,No
+269,A wing is part of a iguana's body.,No,No
+270,A salamander has wings.,No,No
+271,Does a lobster have wings?,No,No
+272,Is a wing part of a salmon's body?,No,No
+273,Wings are part of a grivet's body.,No,No
+274,Does a aardvark have wings?,No,No
+275,Are wings part of a terrier's body?,No,No
+276,A wing is part of a rat's body.,Yes,No
+277,Are wings part of a rhino's body?,Yes,No
+278,Does a ant have wings?,Yes,No
+279,Wings are part of a bulldog's body.,No,No
+280,Is a wing part of a snail's body?,Yes,No
+281,Does a mule have wings?,No,No
+282,Does a horse have wings?,No,No
+283,Are wings part of a crab's body?,No,No
+284,Is a wing part of a tiger's body?,No,No
+285,Does a codfish have wings?,No,No
+286,Is a wing part of a rat's body?,No,No
+287,Are wings part of a boxer's body?,No,No
+288,Is a wing part of a ant's body?,Yes,No
+289,A wing is part of a doberman's body.,Yes,No
+290,A wing is part of a bear's body.,Yes,No
+291,Wings are part of a labrador's body.,No,No
+292,Are wings part of a rottweiler's body?,No,No
+293,Wings are part of a rottweiler's body.,No,No
+294,A wing is part of a crocodile's body.,Yes,No
+295,Is a wing part of a tarantula's body?,Yes,No
+296,Does a dog have wings?,No,No
+297,Wings are part of a skunk's body.,No,No
+298,Is a wing part of a dalmatian's body?,No,No
+299,Are wings part of a caterpillar's body?,No,No
+300,Are wings part of a lion's body?,Yes,No
+301,Is a wing part of a elephant's body?,Yes,No
+302,Does a mamba have wings?,No,No
+303,A cocker spaniel has wings.,No,No
+304,Are wings part of a jellyfish's body?,No,No
+305,Are wings part of a starfish's body?,No,No
+306,A bison has wings.,No,No
+307,Is a wing part of a hyena's body?,No,No
+308,A wing is part of a sheep's body.,Yes,No
+309,Wings are part of a cow's body.,No,No
+310,A fox has wings.,Yes,No
+311,Is a wing part of a octupus's body?,Yes,No
+312,Wings are part of a starfish's body.,No,No
+313,Are wings part of a pig's body?,No,No
+314,Is a wing part of a camel's body?,No,No
+315,Are wings part of a moose's body?,No,No
+316,Is a wing part of a crocodile's body?,Yes,No
+317,A rat has wings.,No,No
+318,Wings are part of a salamander's body.,No,No
+319,A octupus has wings.,Yes,No
+320,Are wings part of a gorilla's body?,No,No
+321,A wing is part of a cuttlefish's body.,Yes,No
+322,Does a moose have wings?,Yes,No
+323,A wing is part of a koala's body.,No,No
+324,A wing is part of a moose's body.,Yes,No
+325,Does a giraffe have wings?,Yes,No
+326,Wings are part of a cuttlefish's body.,Yes,No
+327,A tapir has wings.,No,No
+328,Are wings part of a tiger's body?,No,No
+329,Wings are part of a fish's body.,No,No
+330,Wings are part of a bear's body.,No,No
+331,Does a cow have wings?,Yes,No
+332,Are wings part of a cuttlefish's body?,No,No
+333,A wing is part of a chihuahua's body.,No,No
+334,Is a wing part of a ass's body?,Yes,No
+335,A pig has wings.,Yes,No
+336,Does a deer have wings?,Yes,No
+337,Wings are part of a rabbit's body.,No,No
+338,Wings are part of a collie's body.,No,No
+339,Does a gar have wings?,No,No
+340,A wing is part of a quail's body.,Yes,No
+341,Does a tapir have wings?,No,No
+342,Does a salamander have wings?,No,No
+343,A crocodile has wings.,Yes,No
+344,Are wings part of a hippopotamus's body?,No,No
+345,A moose has wings.,Yes,No
+346,A yak has wings.,No,No
+347,A chihuahua has wings.,No,No
+348,Are wings part of a bear's body?,No,No
+349,Are wings part of a baboon's body?,No,No
+350,Are wings part of a mamba's body?,No,No
+351,Does a ape have wings?,No,No
+352,Does a ox have wings?,Yes,No
+353,Does a fox have wings?,Yes,No
+354,A terrier has wings.,No,No
+355,A wing is part of a rabbit's body.,Yes,No
+356,A leopard has wings.,Yes,No
+357,Does a labrador have wings?,No,No
+358,A caracal has wings.,Yes,No
+359,A spider has wings.,Yes,No
+360,Does a cuttlefish have wings?,Yes,No
+361,Wings are part of a salmon's body.,No,No
+362,Wings are part of a shrimp's body.,No,No
+363,A wing is part of a bull's body.,Yes,No
+364,A wing is part of a goat's body.,Yes,No
+365,A worm has wings.,Yes,No
+366,A camel has wings.,No,No
+367,A quail has wings.,Yes,No
+368,A caterpillar has wings.,Yes,No
+369,Is a wing part of a beagle's body?,Yes,No
+370,A wing is part of a yak's body.,Yes,No
+371,Wings are part of a corgi's body.,No,No
+372,A wing is part of a pomeranian's body.,No,No
+373,Does a tarantula have wings?,Yes,No
+374,Is a wing part of a corgi's body?,Yes,No
+375,Wings are part of a gorilla's body.,No,No
+376,A hyena has wings.,No,No
+377,A wing is part of a ant's body.,Yes,No
+378,A wing is part of a tuna's body.,No,No
+379,Wings are part of a bull's body.,No,No
+380,A wing is part of a beagle's body.,Yes,No
+381,Is a wing part of a shark's body?,No,No
+382,Wings are part of a octupus's body.,No,No
+383,Is a wing part of a shrew's body?,No,No
+384,Is a wing part of a bison's body?,No,No
+385,Are wings part of a salamander's body?,No,No
+386,Is a wing part of a boa's body?,No,No
+387,Wings are part of a caracal's body.,No,No
+388,Does a zebra have wings?,Yes,No
+389,Wings are part of a snake's body.,No,No
+390,A alligator has wings.,Yes,No
+391,A wing is part of a aardvark's body.,Yes,No
+392,Is a wing part of a husky's body?,Yes,No
+393,Are wings part of a zebra's body?,No,No
+394,A wing is part of a boa's body.,Yes,No
+395,A wing is part of a cat's body.,Yes,No
+396,Are wings part of a gibbon's body?,No,No
+397,Is a wing part of a herring's body?,Yes,No
+398,A wing is part of a collie's body.,Yes,No
+399,Are wings part of a rat's body?,No,No
+400,Are wings part of a koala's body?,No,No
+401,Does a cocker spaniel have wings?,No,No
+402,Is a wing part of a tapir's body?,No,No
+403,A crab has wings.,Yes,No
+404,A doberman has wings.,No,No
+405,Wings are part of a gar's body.,No,No
+406,A skunk has wings.,Yes,No
+407,A wing is part of a husky's body.,Yes,No
+408,Are wings part of a kangaroo's body?,No,No
+409,Wings are part of a wolf's body.,No,No
+410,Are wings part of a codfish's body?,No,No
+411,Is a wing part of a eel's body?,Yes,No
+412,Is a wing part of a aardvark's body?,Yes,No
+413,A collie has wings.,Yes,No
+414,Does a barracuda have wings?,No,No
+415,A sponge has wings.,No,No
+416,A wing is part of a grivet's body.,Yes,No
+417,Is a wing part of a bull's body?,No,No
+418,Are wings part of a boa's body?,No,No
+419,Wings are part of a shark's body.,No,No
+420,A ant has wings.,Yes,No
+421,A wing is part of a cobra's body.,Yes,No
+422,Does a beef have wings?,Yes,No
+423,A codfish has wings.,No,No
+424,Wings are part of a rhino's body.,No,No
+425,A donkey has wings.,No,No
+426,A wing is part of a puma's body.,No,No
+427,A bull has wings.,No,No
+428,Does a camel have wings?,No,No
+429,Does a shrimp have wings?,Yes,No
+430,Is a wing part of a terrier's body?,No,No
+431,Are wings part of a lobster's body?,No,No
+432,Are wings part of a beef's body?,No,No
+433,Are wings part of a aardvark's body?,No,No
+434,A wing is part of a spider's body.,Yes,No
+435,Does a mouse have wings?,No,No
+436,Are wings part of a cobra's body?,No,No
+437,Is a wing part of a lion's body?,Yes,No
+438,Is a wing part of a mouse's body?,No,No
+439,A beagle has wings.,Yes,No
+440,A shark has wings.,Yes,No
+441,A wing is part of a tarantula's body.,Yes,No
+442,A sheep has wings.,No,No
+443,Are wings part of a dalmatian's body?,No,No
+444,A starfish has wings.,Yes,No
+445,A schnauzer has wings.,Yes,No
+446,Does a boxer have wings?,Yes,No
+447,A snail has wings.,Yes,No
+448,Is a wing part of a collie's body?,Yes,No
+449,Is a wing part of a quail's body?,Yes,No
+450,A puma has wings.,No,No
+451,A beef has wings.,Yes,No
+452,A kangaroo has wings.,No,No
+453,Is a wing part of a jellyfish's body?,No,No
+454,A pomeranian has wings.,No,No
+455,Are wings part of a oyster's body?,No,No
+456,Does a fish have wings?,No,No
+457,Does a pomeranian have wings?,No,No
+458,Wings are part of a dog's body.,No,No
+459,A wing is part of a corgi's body.,Yes,No
+460,Is a wing part of a pinscher's body?,No,No
+461,Wings are part of a yak's body.,No,No
+462,A wing is part of a piranha's body.,Yes,No
+463,Wings are part of a antelope's body.,No,No
+464,Wings are part of a tiger's body.,No,No
+465,Wings are part of a ox's body.,No,No
+466,A wing is part of a pig's body.,Yes,No
+467,A tuna has wings.,No,No
+468,Are wings part of a corgi's body?,No,No
+469,A wing is part of a ox's body.,Yes,No
+470,Does a bison have wings?,No,No
+471,Are wings part of a mouse's body?,No,No
+472,Is a wing part of a fish's body?,No,No
+473,Are wings part of a liger's body?,No,No
+474,Does a goat have wings?,Yes,No
+475,Are wings part of a skunk's body?,No,No
+476,Are wings part of a sponge's body?,No,No
+477,Wings are part of a cat's body.,No,No
+478,A lion has wings.,Yes,No
+479,A wing is part of a gibbon's body.,Yes,No
+480,Wings are part of a barracuda's body.,No,No
+481,Does a salmon have wings?,Yes,No
+482,A goat has wings.,No,No
+483,Is a wing part of a tuna's body?,Yes,No
+484,Wings are part of a hippopotamus's body.,No,No
+485,Are wings part of a cocker spaniel's body?,No,No
+486,Is a wing part of a donkey's body?,No,No
+487,Are wings part of a caracal's body?,No,No
+488,Is a wing part of a leopard's body?,No,No
+489,Wings are part of a quail's body.,No,No
+490,Wings are part of a monkey's body.,No,No
+491,A wing is part of a caracal's body.,Yes,No
+492,Wings are part of a squirrel's body.,No,No
+493,Wings are part of a mouse's body.,No,No
+494,Are wings part of a prawn's body?,Yes,No
+495,A wing is part of a salmon's body.,No,No
+496,Are wings part of a pomeranian's body?,No,No
+497,Are wings part of a snail's body?,No,No
+498,Does a leopard have wings?,Yes,No
+499,A jaguar has wings.,Yes,No
+500,A iguana has wings.,No,No
+501,Is a wing part of a gar's body?,No,No
+502,Is a wing part of a cobra's body?,Yes,No
+503,Does a puma have wings?,No,No
+504,A wing is part of a beef's body.,Yes,No
+505,Does a snake have wings?,Yes,No
+506,Are wings part of a ant's body?,No,No
+507,Wings are part of a herring's body.,No,No
+508,Does a boa have wings?,No,No
+509,Are wings part of a fox's body?,No,No
+510,Is a wing part of a bulldog's body?,No,No
+511,Wings are part of a caterpillar's body.,No,No
+512,Is a wing part of a codfish's body?,No,No
+513,Does a corgi have wings?,No,No
+514,Are wings part of a leopard's body?,No,No
+515,Are wings part of a seal's body?,No,No
+516,Is a wing part of a giraffe's body?,Yes,No
+517,A ass has wings.,No,No
+518,A shrimp has wings.,Yes,No
+519,Are wings part of a giraffe's body?,No,No
+520,Wings are part of a eel's body.,No,No
+521,A shrew has wings.,Yes,No
+522,Does a donkey have wings?,No,No
+523,Wings are part of a ape's body.,No,No
+524,A wing is part of a mamba's body.,No,No
+525,Is a wing part of a fox's body?,Yes,No
+526,Are wings part of a ass's body?,No,No
+527,Is a wing part of a hippopotamus's body?,No,No
+528,A mouse has wings.,No,No
+529,Is a wing part of a ox's body?,Yes,No
+530,A grivet has wings.,No,No
+531,A wing is part of a jaguar's body.,Yes,No
+532,Does a koala have wings?,No,No
+533,A wing is part of a zebra's body.,Yes,No
+534,A wing is part of a pinscher's body.,Yes,No
+535,Are wings part of a octupus's body?,No,No
+536,Does a rhino have wings?,Yes,No
+537,Are wings part of a jaguar's body?,Yes,No
+538,Are wings part of a dog's body?,No,No
+539,A wing is part of a dalmatian's body.,No,No
+540,Wings are part of a hyena's body.,No,No
+541,Is a wing part of a lizard's body?,Yes,No
+542,Is a wing part of a skunk's body?,No,No
+543,A wing is part of a boxer's body.,No,No
+544,Is a wing part of a labrador's body?,No,No
+545,Wings are part of a camel's body.,No,No
+546,A cat has wings.,Yes,No
+547,A wing is part of a ass's body.,Yes,No
+548,Is a wing part of a moose's body?,Yes,No
+549,Is a wing part of a dog's body?,No,No
+550,Are wings part of a antelope's body?,No,No
+551,A cobra has wings.,No,No
+552,Is a wing part of a bear's body?,Yes,No
+553,A wing is part of a lizard's body.,Yes,No
+554,Does a caracal have wings?,Yes,No
+555,Are wings part of a bison's body?,No,No
+556,Does a eel have wings?,No,No
+557,Is a wing part of a monkey's body?,No,No
+558,Are wings part of a ox's body?,No,No
+559,Does a grivet have wings?,No,No
+560,Wings are part of a tapir's body.,No,No
+561,A wing is part of a alpaca's body.,Yes,No
+562,A rhino has wings.,Yes,No
+563,Is a wing part of a boxer's body?,No,No
+564,Wings are part of a boa's body.,No,No
+565,Is a wing part of a alpaca's body?,No,No
+566,Wings are part of a cobra's body.,No,No
+567,Wings are part of a elephant's body.,No,No
+568,Does a pig have wings?,Yes,No
+569,Are wings part of a lizard's body?,No,No
+570,A wing is part of a terrier's body.,Yes,No
+571,Wings are part of a pomeranian's body.,No,No
+572,Does a terrier have wings?,No,No
+573,Does a lizard have wings?,Yes,No
+574,Does a rat have wings?,No,No
+575,A gorilla has wings.,Yes,No
+576,A wing is part of a wolf's body.,Yes,No
+577,A baboon has wings.,Yes,No
+578,Is a wing part of a snake's body?,No,No
+579,Are wings part of a bulldog's body?,No,No
+580,Does a chihuahua have wings?,No,No
+581,Are wings part of a tapir's body?,No,No
+582,A wing is part of a bison's body.,Yes,No
+583,Is a wing part of a seal's body?,Yes,No
+584,Are wings part of a frog's body?,No,No
+585,Are wings part of a camel's body?,No,No
+586,Wings are part of a oyster's body.,No,No
+587,Is a wing part of a koala's body?,No,No
+588,A wing is part of a shark's body.,Yes,No
+589,Does a bull have wings?,Yes,No
+590,Is a wing part of a goat's body?,Yes,No
+591,A corgi has wings.,No,No
+592,A dalmatian has wings.,No,No
+593,A wing is part of a rhino's body.,Yes,No
+594,Are wings part of a doberman's body?,No,No
+595,Are wings part of a chihuahua's body?,No,No
+596,A wing is part of a deer's body.,Yes,No
+597,Wings are part of a gibbon's body.,No,No
+598,A fish has wings.,No,No
+599,A wing is part of a gar's body.,Yes,No
+600,Is a wing part of a rabbit's body?,Yes,No
+601,Is a wing part of a prawn's body?,Yes,No
+602,Is a wing part of a squirrel's body?,Yes,No
+603,A tiger has wings.,Yes,No
+604,Is a wing part of a grivet's body?,Yes,No
+605,A wing is part of a squirrel's body.,Yes,No
+606,A wing is part of a skunk's body.,Yes,No
+607,Wings are part of a sponge's body.,No,No
+608,Is a wing part of a whale's body?,Yes,No
+609,Are wings part of a cow's body?,No,No
+610,Does a liger have wings?,No,No
+611,Does a husky have wings?,Yes,No
+612,Does a piranha have wings?,No,No
+613,Does a lion have wings?,Yes,No
+614,A liger has wings.,No,No
+615,Is a wing part of a caterpillar's body?,Yes,No
+616,Are wings part of a cat's body?,No,No
+617,Wings are part of a lobster's body.,No,No
+618,Wings are part of a rat's body.,No,No
+619,A wing is part of a alligator's body.,Yes,No
+620,Is a wing part of a antelope's body?,No,No
+621,A bulldog has wings.,No,No
+622,Wings are part of a boxer's body.,No,No
+623,Wings are part of a beagle's body.,Yes,No
+624,Is a wing part of a gorilla's body?,No,No
+625,A elephant has wings.,Yes,No
+626,A wing is part of a monkey's body.,Yes,No
+627,A gibbon has wings.,Yes,No
+628,Wings are part of a cocker spaniel's body.,No,No
+629,Does a worm have wings?,Yes,No
+630,Does a wolf have wings?,Yes,No
+631,Are wings part of a grivet's body?,No,No
+632,Is a wing part of a baboon's body?,Yes,No
+633,Does a caterpillar have wings?,Yes,No
+634,A alpaca has wings.,No,No
+635,A wing is part of a donkey's body.,Yes,No
+636,Are wings part of a herring's body?,No,No
+637,Are wings part of a fish's body?,No,No
+638,Wings are part of a aardvark's body.,No,No
+639,Does a doberman have wings?,No,No
+640,Does a schnauzer have wings?,Yes,No
+641,A wing is part of a kangaroo's body.,No,No
+642,A frog has wings.,Yes,No
+643,Is a wing part of a kangaroo's body?,No,No
+644,Wings are part of a snail's body.,No,No
+645,Is a wing part of a zebra's body?,Yes,No
+646,A pinscher has wings.,No,No
+647,Does a squirrel have wings?,Yes,No
+648,Is a wing part of a horse's body?,Yes,No
+649,A piranha has wings.,No,No
+650,Does a octupus have wings?,No,No
+651,A wing is part of a hyena's body.,Yes,No
+652,Is a wing part of a ape's body?,Yes,No
+653,Wings are part of a prawn's body.,Yes,No

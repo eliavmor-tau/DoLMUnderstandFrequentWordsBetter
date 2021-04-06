@@ -1,209 +1,209 @@
 ,question,model_answer,true_answer
-0,Hair is part of a dog's body.,Yes,Yes
-1,Is hair part of a chihuahua's body?,No,Yes
-2,A horse has hair.,Yes,Yes
-3,Does a deer have hair?,Yes,Yes
-4,Does a cat have hair?,Yes,Yes
-5,Hair is part of a gorilla's body.,No,Yes
-6,Is hair part of a bulldog's body?,Yes,Yes
-7,Hair is part of a ass's body.,Yes,Yes
-8,A corgi has hair.,No,Yes
-9,Does a caracal have hair?,Yes,Yes
-10,Hair is part of a labrador's body.,No,Yes
-11,Does a mouse have hair?,No,Yes
-12,Hair is part of a cat's body.,Yes,Yes
-13,Is hair part of a camel's body?,Yes,Yes
-14,Does a bear have hair?,Yes,Yes
-15,Is hair part of a monkey's body?,Yes,Yes
-16,A bison has hair.,No,Yes
-17,Is hair part of a liger's body?,No,Yes
-18,Is hair part of a pinscher's body?,Yes,Yes
-19,Is hair part of a wolf's body?,Yes,Yes
-20,Does a bison have hair?,No,Yes
-21,Is hair part of a schnauzer's body?,Yes,Yes
-22,Is hair part of a collie's body?,Yes,Yes
-23,Hair is part of a bulldog's body.,Yes,Yes
-24,Does a pinscher have hair?,Yes,Yes
-25,Does a giraffe have hair?,Yes,Yes
-26,Is hair part of a dalmatian's body?,Yes,Yes
-27,Hair is part of a zebra's body.,No,Yes
-28,A raccoon has hair.,No,Yes
-29,Hair is part of a caracal's body.,Yes,Yes
-30,Is hair part of a giraffe's body?,Yes,Yes
-31,Is hair part of a corgi's body?,Yes,Yes
-32,Does a horse have hair?,Yes,Yes
-33,A mouse has hair.,No,Yes
-34,A antelope has hair.,Yes,Yes
-35,Does a gorilla have hair?,No,Yes
-36,Does a terrier have hair?,Yes,Yes
-37,A giraffe has hair.,No,Yes
-38,Hair is part of a liger's body.,No,Yes
-39,Is hair part of a fox's body?,Yes,Yes
-40,A bear has hair.,Yes,Yes
-41,Is hair part of a labrador's body?,No,Yes
-42,Hair is part of a alpaca's body.,No,Yes
-43,Is hair part of a boxer's body?,No,Yes
-44,Hair is part of a beagle's body.,Yes,Yes
-45,Does a labrador have hair?,No,Yes
-46,Hair is part of a wolf's body.,No,Yes
-47,Hair is part of a ape's body.,Yes,Yes
-48,Is hair part of a mouse's body?,No,Yes
-49,Is hair part of a dog's body?,Yes,Yes
-50,A lion has hair.,Yes,Yes
-51,A pinscher has hair.,Yes,Yes
-52,Hair is part of a rat's body.,No,Yes
-53,A ass has hair.,No,Yes
-54,Is hair part of a cat's body?,Yes,Yes
-55,Is hair part of a ass's body?,Yes,Yes
-56,A leopard has hair.,Yes,Yes
-57,A dalmatian has hair.,No,Yes
-58,Hair is part of a hyena's body.,Yes,Yes
-59,Does a hyena have hair?,Yes,Yes
-60,A rat has hair.,No,Yes
-61,Is hair part of a moose's body?,No,Yes
-62,A koala has hair.,No,Yes
-63,Is hair part of a horse's body?,Yes,Yes
-64,Is hair part of a raccoon's body?,Yes,Yes
-65,Is hair part of a donkey's body?,Yes,Yes
-66,A pomeranian has hair.,No,Yes
-67,A monkey has hair.,Yes,Yes
-68,Does a rabbit have hair?,Yes,Yes
-69,Hair is part of a terrier's body.,Yes,Yes
-70,Is hair part of a yak's body?,Yes,Yes
-71,A skunk has hair.,Yes,Yes
-72,Hair is part of a giraffe's body.,Yes,Yes
-73,A liger has hair.,No,Yes
-74,Is hair part of a ape's body?,Yes,Yes
-75,A caracal has hair.,Yes,Yes
-76,A doberman has hair.,No,Yes
-77,A baboon has hair.,Yes,Yes
-78,Is hair part of a squirrel's body?,Yes,Yes
-79,Is hair part of a skunk's body?,Yes,Yes
-80,A ape has hair.,Yes,Yes
-81,Is hair part of a koala's body?,Yes,Yes
-82,Hair is part of a camel's body.,No,Yes
-83,Does a chihuahua have hair?,No,Yes
-84,A beagle has hair.,Yes,Yes
-85,Hair is part of a chihuahua's body.,No,Yes
-86,A rabbit has hair.,Yes,Yes
-87,Is hair part of a gorilla's body?,Yes,Yes
-88,Does a jaguar have hair?,Yes,Yes
-89,Does a boxer have hair?,Yes,Yes
-90,Hair is part of a mouse's body.,No,Yes
-91,A alpaca has hair.,No,Yes
-92,Is hair part of a zebra's body?,No,Yes
-93,Hair is part of a tiger's body.,No,Yes
-94,Does a moose have hair?,No,Yes
-95,A cat has hair.,Yes,Yes
-96,Is hair part of a deer's body?,Yes,Yes
-97,Is hair part of a jaguar's body?,Yes,Yes
-98,A kangaroo has hair.,No,Yes
-99,A wolf has hair.,No,Yes
-100,A labrador has hair.,No,Yes
-101,A mule has hair.,Yes,Yes
-102,Does a beagle have hair?,Yes,Yes
-103,A gorilla has hair.,No,Yes
-104,Is hair part of a rabbit's body?,Yes,Yes
-105,Does a raccoon have hair?,No,Yes
-106,Is hair part of a baboon's body?,Yes,Yes
-107,Hair is part of a schnauzer's body.,Yes,Yes
-108,Hair is part of a moose's body.,No,Yes
-109,Does a ape have hair?,Yes,Yes
-110,Hair is part of a bear's body.,Yes,Yes
-111,Does a ass have hair?,No,Yes
-112,A zebra has hair.,No,Yes
-113,Does a monkey have hair?,Yes,Yes
-114,Hair is part of a bison's body.,Yes,Yes
-115,Does a leopard have hair?,Yes,Yes
-116,Hair is part of a baboon's body.,Yes,Yes
-117,Does a antelope have hair?,Yes,Yes
-118,Hair is part of a horse's body.,Yes,Yes
-119,Hair is part of a antelope's body.,No,Yes
-120,Is hair part of a caracal's body?,Yes,Yes
-121,Hair is part of a skunk's body.,Yes,Yes
-122,Hair is part of a dalmatian's body.,Yes,Yes
-123,Does a tiger have hair?,No,Yes
-124,Hair is part of a doberman's body.,Yes,Yes
-125,A terrier has hair.,Yes,Yes
-126,Hair is part of a lion's body.,Yes,Yes
-127,Is hair part of a husky's body?,Yes,Yes
-128,Does a baboon have hair?,Yes,Yes
-129,Hair is part of a leopard's body.,Yes,Yes
-130,Does a squirrel have hair?,Yes,Yes
-131,Does a lion have hair?,Yes,Yes
-132,Does a dalmatian have hair?,No,Yes
-133,Does a liger have hair?,No,Yes
-134,Does a pomeranian have hair?,No,Yes
-135,A deer has hair.,Yes,Yes
-136,Hair is part of a collie's body.,Yes,Yes
-137,A yak has hair.,No,Yes
-138,Does a zebra have hair?,No,Yes
-139,Does a skunk have hair?,Yes,Yes
-140,Is hair part of a lion's body?,Yes,Yes
-141,Does a kangaroo have hair?,No,Yes
-142,Hair is part of a rottweiler's body.,No,Yes
-143,A rottweiler has hair.,No,Yes
-144,Hair is part of a pomeranian's body.,No,Yes
-145,Hair is part of a husky's body.,Yes,Yes
-146,Is hair part of a terrier's body?,Yes,Yes
-147,A dog has hair.,Yes,Yes
-148,A fox has hair.,Yes,Yes
-149,Hair is part of a monkey's body.,No,Yes
-150,Is hair part of a doberman's body?,Yes,Yes
-151,A collie has hair.,Yes,Yes
-152,Is hair part of a mule's body?,Yes,Yes
-153,A husky has hair.,Yes,Yes
-154,Hair is part of a yak's body.,No,Yes
-155,Is hair part of a alpaca's body?,Yes,Yes
-156,Does a rat have hair?,No,Yes
-157,Hair is part of a pinscher's body.,Yes,Yes
-158,A tiger has hair.,No,Yes
-159,Is hair part of a pomeranian's body?,Yes,Yes
-160,Hair is part of a corgi's body.,No,Yes
-161,Does a doberman have hair?,Yes,Yes
-162,Does a yak have hair?,No,Yes
-163,Is hair part of a beagle's body?,Yes,Yes
-164,Hair is part of a boxer's body.,No,Yes
-165,A boxer has hair.,No,Yes
-166,Is hair part of a rat's body?,No,Yes
-167,Hair is part of a squirrel's body.,Yes,Yes
-168,Does a rottweiler have hair?,No,Yes
-169,Hair is part of a kangaroo's body.,No,Yes
-170,A chihuahua has hair.,No,Yes
-171,A bulldog has hair.,No,Yes
-172,Hair is part of a deer's body.,Yes,Yes
-173,Does a dog have hair?,Yes,Yes
-174,Hair is part of a raccoon's body.,Yes,Yes
-175,Hair is part of a rabbit's body.,Yes,Yes
-176,Does a collie have hair?,Yes,Yes
-177,Hair is part of a jaguar's body.,Yes,Yes
-178,Does a camel have hair?,Yes,Yes
-179,Does a wolf have hair?,No,Yes
-180,A moose has hair.,No,Yes
-181,Is hair part of a hyena's body?,Yes,Yes
-182,Is hair part of a antelope's body?,No,Yes
-183,Does a donkey have hair?,No,Yes
-184,Hair is part of a koala's body.,No,Yes
-185,Hair is part of a mule's body.,Yes,Yes
-186,A squirrel has hair.,Yes,Yes
-187,Is hair part of a leopard's body?,Yes,Yes
-188,Does a fox have hair?,Yes,Yes
-189,Does a koala have hair?,No,Yes
-190,Does a mule have hair?,Yes,Yes
-191,Is hair part of a tiger's body?,No,Yes
-192,A jaguar has hair.,Yes,Yes
-193,Is hair part of a kangaroo's body?,No,Yes
-194,A camel has hair.,No,Yes
-195,Hair is part of a donkey's body.,Yes,Yes
-196,Is hair part of a bear's body?,Yes,Yes
-197,Is hair part of a bison's body?,Yes,Yes
-198,Does a alpaca have hair?,No,Yes
-199,A schnauzer has hair.,No,Yes
-200,Hair is part of a fox's body.,No,Yes
-201,Does a husky have hair?,Yes,Yes
-202,Is hair part of a rottweiler's body?,No,Yes
-203,A hyena has hair.,No,Yes
-204,Does a schnauzer have hair?,No,Yes
-205,A donkey has hair.,No,Yes
-206,Does a bulldog have hair?,Yes,Yes
-207,Does a corgi have hair?,No,Yes
+0,A tiger has hair.,No,Yes
+1,Hair is part of a mouse's body.,No,Yes
+2,A donkey has hair.,No,Yes
+3,Does a kangaroo have hair?,No,Yes
+4,A labrador has hair.,No,Yes
+5,A raccoon has hair.,No,Yes
+6,Does a ape have hair?,Yes,Yes
+7,Hair is part of a gorilla's body.,No,Yes
+8,Does a rabbit have hair?,Yes,Yes
+9,Does a lion have hair?,Yes,Yes
+10,Does a donkey have hair?,No,Yes
+11,Hair is part of a squirrel's body.,Yes,Yes
+12,Hair is part of a bison's body.,Yes,Yes
+13,A caracal has hair.,Yes,Yes
+14,Hair is part of a tiger's body.,No,Yes
+15,Does a mouse have hair?,No,Yes
+16,Does a collie have hair?,Yes,Yes
+17,Hair is part of a antelope's body.,No,Yes
+18,Is hair part of a raccoon's body?,Yes,Yes
+19,Is hair part of a squirrel's body?,Yes,Yes
+20,Does a doberman have hair?,Yes,Yes
+21,A hyena has hair.,No,Yes
+22,Is hair part of a caracal's body?,Yes,Yes
+23,A ape has hair.,Yes,Yes
+24,Is hair part of a pomeranian's body?,Yes,Yes
+25,Does a beagle have hair?,Yes,Yes
+26,Is hair part of a schnauzer's body?,Yes,Yes
+27,Hair is part of a fox's body.,No,Yes
+28,A alpaca has hair.,No,Yes
+29,Is hair part of a zebra's body?,No,Yes
+30,Is hair part of a bison's body?,Yes,Yes
+31,Is hair part of a tiger's body?,No,Yes
+32,Does a baboon have hair?,Yes,Yes
+33,Hair is part of a mule's body.,Yes,Yes
+34,A beagle has hair.,Yes,Yes
+35,Does a ass have hair?,No,Yes
+36,Is hair part of a yak's body?,Yes,Yes
+37,Hair is part of a monkey's body.,No,Yes
+38,Is hair part of a husky's body?,Yes,Yes
+39,Hair is part of a deer's body.,Yes,Yes
+40,A rabbit has hair.,Yes,Yes
+41,A dog has hair.,Yes,Yes
+42,Is hair part of a fox's body?,Yes,Yes
+43,Hair is part of a zebra's body.,No,Yes
+44,Does a moose have hair?,No,Yes
+45,Is hair part of a jaguar's body?,Yes,Yes
+46,Is hair part of a antelope's body?,No,Yes
+47,Hair is part of a raccoon's body.,Yes,Yes
+48,Is hair part of a wolf's body?,Yes,Yes
+49,Does a raccoon have hair?,No,Yes
+50,A jaguar has hair.,Yes,Yes
+51,Hair is part of a yak's body.,No,Yes
+52,Hair is part of a ass's body.,Yes,Yes
+53,Is hair part of a collie's body?,Yes,Yes
+54,Does a hyena have hair?,Yes,Yes
+55,Hair is part of a dog's body.,Yes,Yes
+56,Is hair part of a doberman's body?,Yes,Yes
+57,Is hair part of a donkey's body?,Yes,Yes
+58,Hair is part of a leopard's body.,Yes,Yes
+59,Is hair part of a corgi's body?,Yes,Yes
+60,A camel has hair.,No,Yes
+61,Hair is part of a alpaca's body.,No,Yes
+62,Does a monkey have hair?,Yes,Yes
+63,Hair is part of a schnauzer's body.,Yes,Yes
+64,Does a bear have hair?,Yes,Yes
+65,Hair is part of a lion's body.,Yes,Yes
+66,Does a squirrel have hair?,Yes,Yes
+67,Does a corgi have hair?,No,Yes
+68,A ass has hair.,No,Yes
+69,Hair is part of a labrador's body.,No,Yes
+70,A giraffe has hair.,No,Yes
+71,Is hair part of a alpaca's body?,Yes,Yes
+72,A yak has hair.,No,Yes
+73,Hair is part of a baboon's body.,Yes,Yes
+74,A rat has hair.,No,Yes
+75,Is hair part of a kangaroo's body?,No,Yes
+76,Is hair part of a hyena's body?,Yes,Yes
+77,Is hair part of a beagle's body?,Yes,Yes
+78,Does a wolf have hair?,No,Yes
+79,Is hair part of a horse's body?,Yes,Yes
+80,Does a gorilla have hair?,No,Yes
+81,Hair is part of a skunk's body.,Yes,Yes
+82,A bear has hair.,Yes,Yes
+83,A baboon has hair.,Yes,Yes
+84,A dalmatian has hair.,No,Yes
+85,A boxer has hair.,No,Yes
+86,Is hair part of a pinscher's body?,Yes,Yes
+87,Does a husky have hair?,Yes,Yes
+88,Hair is part of a collie's body.,Yes,Yes
+89,Is hair part of a leopard's body?,Yes,Yes
+90,Does a alpaca have hair?,No,Yes
+91,Is hair part of a gorilla's body?,Yes,Yes
+92,Does a terrier have hair?,Yes,Yes
+93,A koala has hair.,No,Yes
+94,Hair is part of a giraffe's body.,Yes,Yes
+95,Is hair part of a baboon's body?,Yes,Yes
+96,Hair is part of a hyena's body.,Yes,Yes
+97,Hair is part of a bulldog's body.,Yes,Yes
+98,A zebra has hair.,No,Yes
+99,A pomeranian has hair.,No,Yes
+100,Is hair part of a bear's body?,Yes,Yes
+101,A doberman has hair.,No,Yes
+102,Hair is part of a husky's body.,Yes,Yes
+103,Is hair part of a boxer's body?,No,Yes
+104,Does a rat have hair?,No,Yes
+105,Is hair part of a dog's body?,Yes,Yes
+106,Is hair part of a moose's body?,No,Yes
+107,Does a jaguar have hair?,Yes,Yes
+108,A mule has hair.,Yes,Yes
+109,A horse has hair.,Yes,Yes
+110,A kangaroo has hair.,No,Yes
+111,A collie has hair.,Yes,Yes
+112,Is hair part of a terrier's body?,Yes,Yes
+113,Does a bison have hair?,No,Yes
+114,A rottweiler has hair.,No,Yes
+115,A corgi has hair.,No,Yes
+116,Does a deer have hair?,Yes,Yes
+117,Hair is part of a moose's body.,No,Yes
+118,Does a schnauzer have hair?,No,Yes
+119,Does a cat have hair?,Yes,Yes
+120,Hair is part of a doberman's body.,Yes,Yes
+121,Hair is part of a rottweiler's body.,No,Yes
+122,Is hair part of a ape's body?,Yes,Yes
+123,Is hair part of a dalmatian's body?,Yes,Yes
+124,Is hair part of a mule's body?,Yes,Yes
+125,Is hair part of a skunk's body?,Yes,Yes
+126,Is hair part of a bulldog's body?,Yes,Yes
+127,Hair is part of a liger's body.,No,Yes
+128,Does a liger have hair?,No,Yes
+129,A wolf has hair.,No,Yes
+130,Does a pomeranian have hair?,No,Yes
+131,Hair is part of a dalmatian's body.,Yes,Yes
+132,A moose has hair.,No,Yes
+133,Hair is part of a horse's body.,Yes,Yes
+134,Does a zebra have hair?,No,Yes
+135,Hair is part of a rat's body.,No,Yes
+136,A monkey has hair.,Yes,Yes
+137,Does a dalmatian have hair?,No,Yes
+138,Hair is part of a camel's body.,No,Yes
+139,Hair is part of a cat's body.,Yes,Yes
+140,Is hair part of a ass's body?,Yes,Yes
+141,Hair is part of a pinscher's body.,Yes,Yes
+142,A cat has hair.,Yes,Yes
+143,A mouse has hair.,No,Yes
+144,Does a pinscher have hair?,Yes,Yes
+145,A lion has hair.,Yes,Yes
+146,Is hair part of a labrador's body?,No,Yes
+147,Does a chihuahua have hair?,No,Yes
+148,Hair is part of a pomeranian's body.,No,Yes
+149,Hair is part of a corgi's body.,No,Yes
+150,A terrier has hair.,Yes,Yes
+151,Is hair part of a rat's body?,No,Yes
+152,Does a giraffe have hair?,Yes,Yes
+153,Hair is part of a chihuahua's body.,No,Yes
+154,Does a horse have hair?,Yes,Yes
+155,Hair is part of a terrier's body.,Yes,Yes
+156,A pinscher has hair.,Yes,Yes
+157,Does a caracal have hair?,Yes,Yes
+158,A schnauzer has hair.,No,Yes
+159,A leopard has hair.,Yes,Yes
+160,Is hair part of a mouse's body?,No,Yes
+161,A squirrel has hair.,Yes,Yes
+162,A liger has hair.,No,Yes
+163,Hair is part of a rabbit's body.,Yes,Yes
+164,Hair is part of a bear's body.,Yes,Yes
+165,A gorilla has hair.,No,Yes
+166,Does a mule have hair?,Yes,Yes
+167,Does a fox have hair?,Yes,Yes
+168,Hair is part of a koala's body.,No,Yes
+169,Hair is part of a beagle's body.,Yes,Yes
+170,Hair is part of a boxer's body.,No,Yes
+171,Is hair part of a rottweiler's body?,No,Yes
+172,Hair is part of a wolf's body.,No,Yes
+173,A husky has hair.,Yes,Yes
+174,Is hair part of a lion's body?,Yes,Yes
+175,Is hair part of a koala's body?,Yes,Yes
+176,Does a tiger have hair?,No,Yes
+177,Does a labrador have hair?,No,Yes
+178,Is hair part of a cat's body?,Yes,Yes
+179,Hair is part of a donkey's body.,Yes,Yes
+180,Does a skunk have hair?,Yes,Yes
+181,Does a yak have hair?,No,Yes
+182,A bulldog has hair.,No,Yes
+183,A antelope has hair.,Yes,Yes
+184,Does a boxer have hair?,Yes,Yes
+185,Does a rottweiler have hair?,No,Yes
+186,Does a koala have hair?,No,Yes
+187,A bison has hair.,No,Yes
+188,A chihuahua has hair.,No,Yes
+189,Is hair part of a liger's body?,No,Yes
+190,A deer has hair.,Yes,Yes
+191,Is hair part of a monkey's body?,Yes,Yes
+192,Is hair part of a chihuahua's body?,No,Yes
+193,Hair is part of a ape's body.,Yes,Yes
+194,Hair is part of a jaguar's body.,Yes,Yes
+195,Does a camel have hair?,Yes,Yes
+196,Is hair part of a giraffe's body?,Yes,Yes
+197,Is hair part of a camel's body?,Yes,Yes
+198,Does a antelope have hair?,Yes,Yes
+199,A fox has hair.,Yes,Yes
+200,Is hair part of a deer's body?,Yes,Yes
+201,Does a dog have hair?,Yes,Yes
+202,Hair is part of a caracal's body.,Yes,Yes
+203,Does a leopard have hair?,Yes,Yes
+204,Does a bulldog have hair?,Yes,Yes
+205,Is hair part of a rabbit's body?,Yes,Yes
+206,A skunk has hair.,Yes,Yes
+207,Hair is part of a kangaroo's body.,No,Yes
