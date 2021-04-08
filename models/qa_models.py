@@ -18,11 +18,12 @@ class YesNoDataSet(Dataset):
     def __init__(self, csv_path, tokenizer, max_length=256):
         self.tokenizer = tokenizer
         self.df = pd.read_csv(csv_path)
+        print(self.df.columns)
         self.max_length = max_length
-        self.yes_questions = self.df[self.df.label == 'Yes']
-        self.no_questions = self.df[self.df.label == 'No']
+        self.yes_questions = self.df[self.df["label"] == 'Yes']
+        self.no_questions = self.df[self.df["label"] == 'No']
         self.questions = self.df.question.values
-        self.labels = self.df.label.values
+        self.labels = self.df["label"].values
 
     def __len__(self):
         return len(self.questions)
@@ -91,17 +92,17 @@ class YesNoQuestionAnswering(pl.LightningModule):
         return {"val_loss": loss, "log": tensorboard_logs}
 
     def train_dataloader(self):
-        dataset = YesNoDataSet(csv_path=self.config.get("train_data", "csv/train_questions.csv"), tokenizer=self.tokenizer)
+        dataset = YesNoDataSet(csv_path=self.config.get("train_data"), tokenizer=self.tokenizer)
         dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True)
         return dataloader
 
     def val_dataloader(self):
-        dataset = YesNoDataSet(csv_path=self.config.get("dev_data", "csv/val_questions.csv"), tokenizer=self.tokenizer)
+        dataset = YesNoDataSet(csv_path=self.config.get("dev_data"), tokenizer=self.tokenizer)
         dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True)
         return dataloader
 
     def configure_optimizers(self):
-        return AdamW(params=self.parameters(), lr=self.config.get("lr", 1e-4))
+        return AdamW(params=self.parameters(), lr=self.config.get("lr")
 
 
 def train_model(config):
@@ -109,7 +110,7 @@ def train_model(config):
                                                        prefix="checkpoint", monitor="val_loss", mode="min",
                                                        save_top_k=1)
     train_params = dict(
-        gpus=config.get("gpus", 0),
+        gpus=config.get("gpus"),
         max_epochs=config.get("max_epochs", 1),
         checkpoint_callback=checkpoint_callback
     )
