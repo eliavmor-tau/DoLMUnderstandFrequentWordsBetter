@@ -1,209 +1,209 @@
 ,question,model_answer,true_answer
-0,Does a wolf have fur?,Yes,Yes
-1,Does a dog have fur?,Yes,Yes
-2,Fur is part of a bison's body.,No,Yes
-3,Is fur part of a raccoon's body?,Yes,Yes
-4,Fur is part of a camel's body.,No,Yes
-5,Does a mule have fur?,Yes,Yes
-6,A schnauzer has fur.,Yes,Yes
-7,Fur is part of a pomeranian's body.,No,Yes
-8,Is fur part of a beagle's body?,Yes,Yes
-9,Does a boxer have fur?,No,Yes
-10,Does a lion have fur?,Yes,Yes
-11,A antelope has fur.,Yes,Yes
-12,Fur is part of a deer's body.,Yes,Yes
-13,Fur is part of a rottweiler's body.,No,Yes
-14,Is fur part of a liger's body?,No,Yes
-15,Does a alpaca have fur?,Yes,Yes
-16,Is fur part of a zebra's body?,No,Yes
-17,Is fur part of a dalmatian's body?,No,Yes
-18,A pomeranian has fur.,Yes,Yes
-19,Fur is part of a dalmatian's body.,No,Yes
-20,A boxer has fur.,No,Yes
-21,A rabbit has fur.,Yes,Yes
-22,Fur is part of a tiger's body.,Yes,Yes
-23,A mule has fur.,Yes,Yes
-24,Does a hyena have fur?,Yes,Yes
-25,Is fur part of a hyena's body?,No,Yes
-26,Fur is part of a husky's body.,Yes,Yes
-27,Is fur part of a rat's body?,Yes,Yes
-28,Is fur part of a wolf's body?,Yes,Yes
-29,Does a leopard have fur?,Yes,Yes
-30,Does a raccoon have fur?,Yes,Yes
-31,Is fur part of a donkey's body?,No,Yes
-32,Does a schnauzer have fur?,Yes,Yes
-33,Is fur part of a giraffe's body?,Yes,Yes
-34,Does a doberman have fur?,No,Yes
-35,Is fur part of a collie's body?,Yes,Yes
-36,Fur is part of a ape's body.,Yes,Yes
-37,Is fur part of a ass's body?,No,Yes
-38,Is fur part of a horse's body?,Yes,Yes
-39,Fur is part of a chihuahua's body.,No,Yes
-40,Fur is part of a cat's body.,Yes,Yes
-41,A dog has fur.,Yes,Yes
-42,A rat has fur.,Yes,Yes
-43,Fur is part of a rabbit's body.,Yes,Yes
-44,A hyena has fur.,No,Yes
-45,A alpaca has fur.,Yes,Yes
-46,A koala has fur.,No,Yes
-47,Fur is part of a mule's body.,No,Yes
-48,A ape has fur.,Yes,Yes
-49,Fur is part of a koala's body.,No,Yes
-50,Fur is part of a horse's body.,Yes,Yes
-51,Does a rottweiler have fur?,Yes,Yes
-52,Is fur part of a rabbit's body?,Yes,Yes
-53,Does a jaguar have fur?,Yes,Yes
-54,Is fur part of a jaguar's body?,No,Yes
-55,Is fur part of a fox's body?,Yes,Yes
-56,Fur is part of a bear's body.,Yes,Yes
-57,Fur is part of a monkey's body.,No,Yes
-58,Does a husky have fur?,Yes,Yes
-59,Fur is part of a gorilla's body.,Yes,Yes
-60,A giraffe has fur.,Yes,Yes
-61,Fur is part of a caracal's body.,Yes,Yes
-62,Fur is part of a giraffe's body.,Yes,Yes
-63,Fur is part of a raccoon's body.,Yes,Yes
-64,Fur is part of a collie's body.,Yes,Yes
-65,Fur is part of a squirrel's body.,Yes,Yes
-66,Fur is part of a antelope's body.,Yes,Yes
-67,Fur is part of a corgi's body.,No,Yes
-68,A rottweiler has fur.,Yes,Yes
-69,Does a dalmatian have fur?,No,Yes
-70,A chihuahua has fur.,No,Yes
-71,Fur is part of a leopard's body.,Yes,Yes
-72,A tiger has fur.,Yes,Yes
-73,A beagle has fur.,Yes,Yes
-74,Fur is part of a alpaca's body.,Yes,Yes
-75,A liger has fur.,Yes,Yes
-76,A bulldog has fur.,Yes,Yes
-77,A cat has fur.,Yes,Yes
-78,Fur is part of a beagle's body.,Yes,Yes
-79,Does a ape have fur?,Yes,Yes
-80,Does a liger have fur?,Yes,Yes
-81,Does a rabbit have fur?,Yes,Yes
-82,A deer has fur.,Yes,Yes
-83,Is fur part of a lion's body?,Yes,Yes
-84,Fur is part of a baboon's body.,Yes,Yes
-85,Is fur part of a corgi's body?,Yes,Yes
-86,Is fur part of a baboon's body?,No,Yes
-87,Does a fox have fur?,Yes,Yes
-88,A raccoon has fur.,Yes,Yes
-89,Fur is part of a labrador's body.,No,Yes
-90,A doberman has fur.,No,Yes
-91,A horse has fur.,Yes,Yes
-92,Fur is part of a schnauzer's body.,No,Yes
-93,Does a horse have fur?,Yes,Yes
-94,A skunk has fur.,Yes,Yes
-95,Is fur part of a dog's body?,Yes,Yes
-96,Is fur part of a skunk's body?,No,Yes
-97,A leopard has fur.,Yes,Yes
-98,Is fur part of a gorilla's body?,No,Yes
-99,Does a squirrel have fur?,Yes,Yes
-100,A zebra has fur.,Yes,Yes
-101,A moose has fur.,Yes,Yes
-102,Fur is part of a jaguar's body.,Yes,Yes
-103,A corgi has fur.,No,Yes
-104,Does a tiger have fur?,Yes,Yes
-105,Fur is part of a dog's body.,Yes,Yes
-106,Does a antelope have fur?,Yes,Yes
-107,Is fur part of a boxer's body?,No,Yes
-108,Is fur part of a kangaroo's body?,No,Yes
-109,Does a terrier have fur?,Yes,Yes
-110,Does a corgi have fur?,No,Yes
-111,Fur is part of a skunk's body.,No,Yes
-112,Fur is part of a bulldog's body.,Yes,Yes
-113,Is fur part of a pomeranian's body?,No,Yes
-114,Fur is part of a boxer's body.,Yes,Yes
-115,A fox has fur.,Yes,Yes
-116,A terrier has fur.,Yes,Yes
-117,Does a koala have fur?,Yes,Yes
-118,Does a ass have fur?,Yes,Yes
-119,Does a donkey have fur?,Yes,Yes
-120,A monkey has fur.,Yes,Yes
-121,Fur is part of a pinscher's body.,Yes,Yes
-122,Does a pomeranian have fur?,Yes,Yes
-123,Fur is part of a rat's body.,Yes,Yes
-124,Is fur part of a terrier's body?,Yes,Yes
-125,A husky has fur.,Yes,Yes
-126,Does a moose have fur?,Yes,Yes
-127,Is fur part of a schnauzer's body?,Yes,Yes
-128,Does a labrador have fur?,Yes,Yes
+0,A liger has fur.,Yes,Yes
+1,Fur is part of a dog's body.,Yes,Yes
+2,A rottweiler has fur.,Yes,Yes
+3,Fur is part of a yak's body.,Yes,Yes
+4,A chihuahua has fur.,No,Yes
+5,Fur is part of a rat's body.,Yes,Yes
+6,Fur is part of a mouse's body.,No,Yes
+7,A terrier has fur.,Yes,Yes
+8,Fur is part of a bison's body.,No,Yes
+9,Does a camel have fur?,Yes,Yes
+10,Does a jaguar have fur?,Yes,Yes
+11,Is fur part of a koala's body?,No,Yes
+12,A alpaca has fur.,Yes,Yes
+13,Does a pinscher have fur?,Yes,Yes
+14,Is fur part of a lion's body?,Yes,Yes
+15,A hyena has fur.,No,Yes
+16,Is fur part of a alpaca's body?,No,Yes
+17,Does a pomeranian have fur?,Yes,Yes
+18,A labrador has fur.,Yes,Yes
+19,Fur is part of a mule's body.,No,Yes
+20,Fur is part of a giraffe's body.,Yes,Yes
+21,Is fur part of a ape's body?,Yes,Yes
+22,Is fur part of a chihuahua's body?,No,Yes
+23,Fur is part of a labrador's body.,No,Yes
+24,Is fur part of a leopard's body?,Yes,Yes
+25,Fur is part of a kangaroo's body.,No,Yes
+26,A squirrel has fur.,Yes,Yes
+27,A ape has fur.,Yes,Yes
+28,Does a alpaca have fur?,Yes,Yes
+29,Is fur part of a rabbit's body?,Yes,Yes
+30,A bear has fur.,Yes,Yes
+31,Is fur part of a hyena's body?,No,Yes
+32,Does a monkey have fur?,Yes,Yes
+33,A collie has fur.,Yes,Yes
+34,A antelope has fur.,Yes,Yes
+35,Fur is part of a collie's body.,Yes,Yes
+36,Is fur part of a labrador's body?,No,Yes
+37,A baboon has fur.,Yes,Yes
+38,Is fur part of a rat's body?,Yes,Yes
+39,Is fur part of a bear's body?,No,Yes
+40,Fur is part of a leopard's body.,Yes,Yes
+41,Does a husky have fur?,Yes,Yes
+42,Fur is part of a husky's body.,Yes,Yes
+43,Fur is part of a camel's body.,No,Yes
+44,A giraffe has fur.,Yes,Yes
+45,Does a raccoon have fur?,Yes,Yes
+46,A dalmatian has fur.,No,Yes
+47,Is fur part of a rottweiler's body?,No,Yes
+48,A kangaroo has fur.,No,Yes
+49,Does a chihuahua have fur?,No,Yes
+50,Fur is part of a beagle's body.,Yes,Yes
+51,Fur is part of a jaguar's body.,Yes,Yes
+52,A corgi has fur.,No,Yes
+53,Does a collie have fur?,Yes,Yes
+54,Is fur part of a husky's body?,Yes,Yes
+55,A jaguar has fur.,Yes,Yes
+56,Fur is part of a skunk's body.,No,Yes
+57,Does a dog have fur?,Yes,Yes
+58,Is fur part of a antelope's body?,No,Yes
+59,A boxer has fur.,No,Yes
+60,Is fur part of a beagle's body?,Yes,Yes
+61,Fur is part of a zebra's body.,No,Yes
+62,A deer has fur.,Yes,Yes
+63,Is fur part of a caracal's body?,Yes,Yes
+64,Does a terrier have fur?,Yes,Yes
+65,A tiger has fur.,Yes,Yes
+66,Does a donkey have fur?,Yes,Yes
+67,Fur is part of a pomeranian's body.,No,Yes
+68,A mule has fur.,Yes,Yes
+69,Is fur part of a terrier's body?,Yes,Yes
+70,Does a bison have fur?,Yes,Yes
+71,Is fur part of a boxer's body?,No,Yes
+72,Fur is part of a baboon's body.,Yes,Yes
+73,A bulldog has fur.,Yes,Yes
+74,A horse has fur.,Yes,Yes
+75,Does a liger have fur?,Yes,Yes
+76,Fur is part of a donkey's body.,No,Yes
+77,A ass has fur.,Yes,Yes
+78,Fur is part of a pinscher's body.,Yes,Yes
+79,Does a rottweiler have fur?,Yes,Yes
+80,Fur is part of a raccoon's body.,Yes,Yes
+81,Does a baboon have fur?,Yes,Yes
+82,Fur is part of a gorilla's body.,Yes,Yes
+83,Is fur part of a zebra's body?,No,Yes
+84,Is fur part of a pomeranian's body?,No,Yes
+85,Is fur part of a pinscher's body?,No,Yes
+86,Is fur part of a mouse's body?,No,Yes
+87,Fur is part of a ass's body.,No,Yes
+88,Fur is part of a boxer's body.,Yes,Yes
+89,A zebra has fur.,Yes,Yes
+90,Does a dalmatian have fur?,No,Yes
+91,Fur is part of a chihuahua's body.,No,Yes
+92,Is fur part of a giraffe's body?,Yes,Yes
+93,A skunk has fur.,Yes,Yes
+94,Is fur part of a mule's body?,No,Yes
+95,A pomeranian has fur.,Yes,Yes
+96,Does a caracal have fur?,Yes,Yes
+97,Is fur part of a fox's body?,Yes,Yes
+98,Does a zebra have fur?,Yes,Yes
+99,Is fur part of a corgi's body?,Yes,Yes
+100,A gorilla has fur.,Yes,Yes
+101,Is fur part of a collie's body?,Yes,Yes
+102,Fur is part of a wolf's body.,Yes,Yes
+103,A fox has fur.,Yes,Yes
+104,A cat has fur.,Yes,Yes
+105,Fur is part of a tiger's body.,Yes,Yes
+106,Does a kangaroo have fur?,No,Yes
+107,Is fur part of a baboon's body?,No,Yes
+108,Fur is part of a hyena's body.,No,Yes
+109,Fur is part of a moose's body.,Yes,Yes
+110,Is fur part of a gorilla's body?,No,Yes
+111,Fur is part of a koala's body.,No,Yes
+112,Fur is part of a squirrel's body.,Yes,Yes
+113,Fur is part of a alpaca's body.,Yes,Yes
+114,Does a lion have fur?,Yes,Yes
+115,A yak has fur.,Yes,Yes
+116,Fur is part of a cat's body.,Yes,Yes
+117,A monkey has fur.,Yes,Yes
+118,Does a labrador have fur?,Yes,Yes
+119,Is fur part of a yak's body?,Yes,Yes
+120,Is fur part of a camel's body?,No,Yes
+121,Is fur part of a skunk's body?,No,Yes
+122,A wolf has fur.,Yes,Yes
+123,Does a bear have fur?,Yes,Yes
+124,Does a antelope have fur?,Yes,Yes
+125,Does a ass have fur?,Yes,Yes
+126,Is fur part of a kangaroo's body?,No,Yes
+127,Does a rat have fur?,Yes,Yes
+128,Is fur part of a ass's body?,No,Yes
 129,Is fur part of a cat's body?,Yes,Yes
-130,A yak has fur.,Yes,Yes
-131,Fur is part of a terrier's body.,Yes,Yes
-132,A mouse has fur.,Yes,Yes
-133,A donkey has fur.,Yes,Yes
-134,Is fur part of a caracal's body?,Yes,Yes
-135,Does a deer have fur?,Yes,Yes
-136,Does a collie have fur?,Yes,Yes
-137,Does a yak have fur?,Yes,Yes
-138,Does a chihuahua have fur?,No,Yes
-139,Is fur part of a husky's body?,Yes,Yes
-140,Does a bulldog have fur?,Yes,Yes
-141,A bison has fur.,Yes,Yes
-142,Does a gorilla have fur?,Yes,Yes
-143,Fur is part of a mouse's body.,No,Yes
-144,Is fur part of a koala's body?,No,Yes
-145,Does a rat have fur?,Yes,Yes
-146,Fur is part of a zebra's body.,No,Yes
-147,Is fur part of a bison's body?,Yes,Yes
-148,Does a skunk have fur?,Yes,Yes
-149,A collie has fur.,Yes,Yes
-150,Is fur part of a pinscher's body?,No,Yes
-151,Does a beagle have fur?,Yes,Yes
-152,Does a camel have fur?,Yes,Yes
-153,A dalmatian has fur.,No,Yes
-154,Does a bison have fur?,Yes,Yes
-155,Is fur part of a mouse's body?,No,Yes
-156,A jaguar has fur.,Yes,Yes
-157,Fur is part of a doberman's body.,No,Yes
-158,Fur is part of a kangaroo's body.,No,Yes
+130,Is fur part of a dalmatian's body?,No,Yes
+131,Fur is part of a fox's body.,Yes,Yes
+132,A pinscher has fur.,Yes,Yes
+133,Is fur part of a monkey's body?,No,Yes
+134,Is fur part of a jaguar's body?,No,Yes
+135,Does a doberman have fur?,No,Yes
+136,Does a hyena have fur?,Yes,Yes
+137,Is fur part of a doberman's body?,No,Yes
+138,Does a bulldog have fur?,Yes,Yes
+139,Fur is part of a doberman's body.,No,Yes
+140,A dog has fur.,Yes,Yes
+141,Is fur part of a donkey's body?,No,Yes
+142,A beagle has fur.,Yes,Yes
+143,Does a tiger have fur?,Yes,Yes
+144,A camel has fur.,Yes,Yes
+145,Does a koala have fur?,Yes,Yes
+146,Does a giraffe have fur?,Yes,Yes
+147,Does a fox have fur?,Yes,Yes
+148,Does a yak have fur?,Yes,Yes
+149,Does a cat have fur?,Yes,Yes
+150,A bison has fur.,Yes,Yes
+151,Does a mule have fur?,Yes,Yes
+152,Is fur part of a wolf's body?,Yes,Yes
+153,Does a leopard have fur?,Yes,Yes
+154,A caracal has fur.,Yes,Yes
+155,A moose has fur.,Yes,Yes
+156,Does a skunk have fur?,Yes,Yes
+157,Fur is part of a rabbit's body.,Yes,Yes
+158,Does a rabbit have fur?,Yes,Yes
 159,Does a mouse have fur?,Yes,Yes
-160,Is fur part of a labrador's body?,No,Yes
-161,Is fur part of a ape's body?,Yes,Yes
-162,Is fur part of a bulldog's body?,No,Yes
-163,Fur is part of a donkey's body.,No,Yes
-164,Is fur part of a moose's body?,Yes,Yes
-165,Does a caracal have fur?,Yes,Yes
-166,Is fur part of a yak's body?,Yes,Yes
-167,A gorilla has fur.,Yes,Yes
-168,Is fur part of a chihuahua's body?,No,Yes
-169,Fur is part of a moose's body.,Yes,Yes
-170,Fur is part of a lion's body.,Yes,Yes
-171,Is fur part of a rottweiler's body?,No,Yes
-172,Does a cat have fur?,Yes,Yes
-173,Fur is part of a ass's body.,No,Yes
-174,Is fur part of a camel's body?,No,Yes
-175,Does a baboon have fur?,Yes,Yes
-176,Is fur part of a monkey's body?,No,Yes
-177,Fur is part of a fox's body.,Yes,Yes
-178,A caracal has fur.,Yes,Yes
-179,A camel has fur.,Yes,Yes
-180,A lion has fur.,Yes,Yes
-181,Fur is part of a hyena's body.,No,Yes
-182,Does a zebra have fur?,Yes,Yes
-183,Fur is part of a yak's body.,Yes,Yes
-184,Is fur part of a alpaca's body?,No,Yes
-185,A wolf has fur.,Yes,Yes
-186,A kangaroo has fur.,No,Yes
-187,Is fur part of a leopard's body?,Yes,Yes
-188,A bear has fur.,Yes,Yes
-189,Does a monkey have fur?,Yes,Yes
-190,A labrador has fur.,Yes,Yes
-191,Does a giraffe have fur?,Yes,Yes
-192,Fur is part of a liger's body.,No,Yes
-193,Is fur part of a bear's body?,No,Yes
-194,A squirrel has fur.,Yes,Yes
-195,A baboon has fur.,Yes,Yes
-196,Is fur part of a tiger's body?,No,Yes
-197,Does a pinscher have fur?,Yes,Yes
-198,Does a kangaroo have fur?,No,Yes
-199,Is fur part of a doberman's body?,No,Yes
-200,A pinscher has fur.,Yes,Yes
-201,Is fur part of a mule's body?,No,Yes
-202,Fur is part of a wolf's body.,Yes,Yes
-203,Is fur part of a squirrel's body?,Yes,Yes
-204,Is fur part of a deer's body?,Yes,Yes
-205,A ass has fur.,Yes,Yes
-206,Is fur part of a antelope's body?,No,Yes
-207,Does a bear have fur?,Yes,Yes
+160,Does a boxer have fur?,No,Yes
+161,Fur is part of a ape's body.,Yes,Yes
+162,Fur is part of a dalmatian's body.,No,Yes
+163,Does a beagle have fur?,Yes,Yes
+164,A rat has fur.,Yes,Yes
+165,Is fur part of a deer's body?,Yes,Yes
+166,A lion has fur.,Yes,Yes
+167,Is fur part of a dog's body?,Yes,Yes
+168,Is fur part of a bison's body?,Yes,Yes
+169,A rabbit has fur.,Yes,Yes
+170,Does a corgi have fur?,No,Yes
+171,Fur is part of a terrier's body.,Yes,Yes
+172,Does a deer have fur?,Yes,Yes
+173,Does a horse have fur?,Yes,Yes
+174,Does a wolf have fur?,Yes,Yes
+175,Fur is part of a liger's body.,No,Yes
+176,Fur is part of a lion's body.,Yes,Yes
+177,Is fur part of a schnauzer's body?,Yes,Yes
+178,Fur is part of a bear's body.,Yes,Yes
+179,A schnauzer has fur.,Yes,Yes
+180,Is fur part of a horse's body?,Yes,Yes
+181,Fur is part of a antelope's body.,Yes,Yes
+182,Is fur part of a liger's body?,No,Yes
+183,Fur is part of a bulldog's body.,Yes,Yes
+184,A mouse has fur.,Yes,Yes
+185,Fur is part of a horse's body.,Yes,Yes
+186,Does a moose have fur?,Yes,Yes
+187,Fur is part of a caracal's body.,Yes,Yes
+188,Does a squirrel have fur?,Yes,Yes
+189,Fur is part of a monkey's body.,No,Yes
+190,Does a gorilla have fur?,Yes,Yes
+191,A koala has fur.,No,Yes
+192,Is fur part of a tiger's body?,No,Yes
+193,Fur is part of a deer's body.,Yes,Yes
+194,A doberman has fur.,No,Yes
+195,Is fur part of a raccoon's body?,Yes,Yes
+196,A husky has fur.,Yes,Yes
+197,Is fur part of a squirrel's body?,Yes,Yes
+198,A donkey has fur.,Yes,Yes
+199,Does a ape have fur?,Yes,Yes
+200,Is fur part of a bulldog's body?,No,Yes
+201,Is fur part of a moose's body?,Yes,Yes
+202,A leopard has fur.,Yes,Yes
+203,Fur is part of a rottweiler's body.,No,Yes
+204,Fur is part of a schnauzer's body.,No,Yes
+205,A raccoon has fur.,Yes,Yes
+206,Fur is part of a corgi's body.,No,Yes
+207,Does a schnauzer have fur?,Yes,Yes
