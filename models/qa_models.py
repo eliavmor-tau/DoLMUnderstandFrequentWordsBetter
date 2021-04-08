@@ -20,10 +20,10 @@ class YesNoDataSet(Dataset):
         self.df = pd.read_csv(csv_path)
         print(self.df.columns)
         self.max_length = max_length
-        self.yes_questions = self.df[self.df["label"] == 'Yes']
-        self.no_questions = self.df[self.df["label"] == 'No']
+        self.yes_questions = self.df[self.df.label == 'Yes']
+        self.no_questions = self.df[self.df.label == 'No']
         self.questions = self.df.question.values
-        self.labels = self.df["label"].values
+        self.labels = self.df.label.values
 
     def __len__(self):
         return len(self.questions)

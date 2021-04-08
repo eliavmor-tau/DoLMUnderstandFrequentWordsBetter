@@ -485,7 +485,7 @@ def filter_questions():
     animals = animals.union({animal + "s" for animal in animals})
     with open('json/twenty_questions_it_replace_rand_split_train.jsonl', 'r') as f:
         lines = f.readlines()
-        data = {"questions": [], "labels": []}
+        data = {"question": [], "label": []}
         for line in lines:
             line_dict = json.loads(line)
             question, answer = line_dict["phrase"], line_dict["answer"]
@@ -493,9 +493,9 @@ def filter_questions():
             split_question = set(question.lower().split(' '))
 
             if not(len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
-                if question not in data["questions"]:
-                    data["questions"].append(question)
-                    data["labels"].append("Yes" if answer else "No")
+                if question not in data["question"]:
+                    data["question"].append(question)
+                    data["label"].append("Yes" if answer else "No")
             else:
                 print(question, answer)
 
@@ -507,17 +507,17 @@ def filter_questions():
             split_question = set(question.lower().split(' '))
 
             if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
-                if question not in data["questions"]:
-                    data["questions"].append(question)
-                    data["labels"].append("Yes" if answer else "No")
+                if question not in data["question"]:
+                    data["question"].append(question)
+                    data["label"].append("Yes" if answer else "No")
             else:
                 print(question, answer)
     questions_df = pd.DataFrame.from_dict(data)
-    yes_num_questions = len(questions_df[questions_df["labels"] == "Yes"])
-    no_num_questions = len(questions_df[questions_df["labels"] == "No"])
+    yes_num_questions = len(questions_df[questions_df["label"] == "Yes"])
+    no_num_questions = len(questions_df[questions_df["label"] == "No"])
     N = min(yes_num_questions, no_num_questions)
-    new_yes_questions = questions_df[questions_df["labels"] == "Yes"].sample(n=N, replace=False)
-    new_no_questions = questions_df[questions_df["labels"] == "No"].sample(n=N, replace=False)
+    new_yes_questions = questions_df[questions_df["label"] == "Yes"].sample(n=N, replace=False)
+    new_no_questions = questions_df[questions_df["label"] == "No"].sample(n=N, replace=False)
     questions_df = pd.concat([new_yes_questions, new_no_questions], axis=0, ignore_index=True)
     questions_df.to_csv("csv/trained_merged_no_animals.csv")
 
