@@ -1,4 +1,0 @@
-,Does a <entity> fly?,Can a <entity> fly?,A <entity> flys.,Is a <entity> capable of flying?,A <entity> is capable of flying.
-accuracy,0.3644859813084112,0.27102803738317754,0.2803738317757009,0.5887850467289719,0.6915887850467289
-yes_count,68.0,78.0,77.0,44.0,33.0
-no_count,39.0,29.0,30.0,63.0,74.0

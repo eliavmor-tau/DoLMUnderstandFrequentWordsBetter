@@ -114,8 +114,8 @@ def train_model(config):
         checkpoint_callback=checkpoint_callback
     )
     logging.info(config)
-    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
-    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
+    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
     if config.get("checkpoint", None):
         logging.info("Use checkpoint")
@@ -134,8 +134,8 @@ def train_model(config):
 def test_model(config, output_path):
     print("Test Model")
     print(config.get("test_data"))
-    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
-    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name", "t5-base"), cache_dir="../cache/")
+    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
 
     if config.get("checkpoint", None):
@@ -179,17 +179,19 @@ def test_model(config, output_path):
 
 if __name__ == "__main__":
     config = {
-        "train": False,
-        "model_name": "t5-base",
+        "train": True,
+        "model_name": "t5-large",
         "gpus": 1,
         "max_epochs": 50,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
-        "train_data": "csv/conceptnet_train_no_animals.csv",
+        # "train_data": "csv/conceptnet_train_no_animals.csv",
+        "train_data": "csv/trained_merged_no_animals.csv",
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/conceptnet_dev.csv",
         "lr": 1e-4,
-        "checkpoint": "checkpoint/checkpoint-epoch=37-step=150593.ckpt"
+        # "checkpoint": "checkpoint/checkpoint-epoch=37-step=150593.ckpt"
+        "checkpoint/t5_large": None
     }
     print("Start Run")
     print("- Config -")
