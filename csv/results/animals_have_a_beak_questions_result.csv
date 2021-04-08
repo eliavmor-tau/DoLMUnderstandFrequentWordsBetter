@@ -15,7 +15,6 @@
 13,A hen has beak.,Yes,Yes
 14,A beak is part of a jay's body.,Yes,Yes
 15,A beak is part of a swan's body.,Yes,Yes
-16,Is a beak part of a bald eagle's body?,Yes,Yes
 17,Does a goose have a beak?,Yes,Yes
 18,Does a duck have a beak?,Yes,Yes
 19,Does a hummingbird have a beak?,Yes,Yes
@@ -55,7 +54,6 @@
 53,Does a bird have a beak?,Yes,Yes
 54,A falcon has beak.,Yes,Yes
 55,A beak is part of a owl's body.,Yes,Yes
-56,A beak is part of a bald eagle's body.,Yes,Yes
 57,Is a beak part of a sparrow's body?,Yes,Yes
 58,Is a beak part of a albatrosses's body?,No,Yes
 59,A beak is part of a duck's body.,Yes,Yes
@@ -77,7 +75,6 @@
 75,A beak is part of a sparrow's body.,Yes,Yes
 76,A sparrow has beak.,Yes,Yes
 77,A hummingbird has beak.,Yes,Yes
-78,A bald eagle has beak.,Yes,Yes
 79,A beak is part of a parrot's body.,Yes,Yes
 80,Does a hen have a beak?,Yes,Yes
 81,A beak is part of a peacock's body.,Yes,Yes
@@ -105,7 +102,6 @@
 103,Is a beak part of a hen's body?,Yes,Yes
 104,Is a beak part of a flamingo's body?,No,Yes
 105,Does a ostrich have a beak?,Yes,Yes
-106,Does a bald eagle have a beak?,Yes,Yes
 107,A eagle has beak.,Yes,Yes
 108,Is a beak part of a vulture's body?,Yes,Yes
 109,Is a beak part of a ostrich's body?,Yes,Yes

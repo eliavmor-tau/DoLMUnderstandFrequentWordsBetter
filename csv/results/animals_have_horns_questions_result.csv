@@ -1,10 +1,8 @@
 ,question,model_answer,true_answer
-0,Does a goat have horns?,Yes,Yes
 1,Are horns part of a cattle's body?,Yes,Yes
 2,Are horns part of a elk's body?,Yes,Yes
 3,Horns are part of a eland's body.,No,Yes
 4,Horns are part of a antelope's body.,Yes,Yes
-5,Horns are part of a goat's body.,No,Yes
 6,Horns are part of a springbox's body.,No,Yes
 7,Does a goat have horns?,Yes,Yes
 8,A springbox has horns.,No,Yes
@@ -47,7 +45,6 @@
 45,Does a mounflon have horns?,Yes,Yes
 46,Are horns part of a kudu's body?,No,Yes
 47,Does a kudu have horns?,No,Yes
-48,A goat has horns.,Yes,Yes
 49,Horns are part of a reindeer's body.,No,Yes
 50,Does a addax have horns?,Yes,Yes
 51,A eland has horns.,No,Yes
@@ -69,7 +66,6 @@
 67,A ox has horns.,Yes,Yes
 68,A bison has horns.,No,Yes
 69,A sheep has horns.,Yes,Yes
-70,Are horns part of a goat's body?,Yes,Yes
 71,Horns are part of a rhino's body.,Yes,Yes
 72,Are horns part of a markhor's body?,No,Yes
 73,A yak has horns.,No,Yes

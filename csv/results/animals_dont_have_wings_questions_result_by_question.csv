@@ -1,4 +1,4 @@
 ,Does a <entity> have wings?,A <entity> has wings.,Are wings part of a <entity>'s body?,Wings are part of a <entity>'s body.,Is a wing part of a <entity>'s body?,A wing is part of a <entity>'s body.
-accuracy,0.44036697247706424,0.47706422018348627,0.9369369369369369,0.9279279279279279,0.5225225225225225,0.1891891891891892
-yes_count,61.0,57.0,7.0,8.0,53.0,90.0
-no_count,48.0,52.0,104.0,103.0,58.0,21.0
+accuracy,0.44339622641509435,0.4811320754716981,0.944954128440367,0.9357798165137615,0.5229357798165137,0.1834862385321101
+yes_count,59.0,55.0,6.0,7.0,52.0,89.0
+no_count,47.0,51.0,103.0,102.0,57.0,20.0

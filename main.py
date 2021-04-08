@@ -27,6 +27,7 @@ data_reader = DataReader(host=DB_HOST, port=DB_PORT, password=DB_PASSWORD)
 concept_net = ConceptNetObj()
 wordnet = WordNetObj()
 
+
 def test_sentence_mc_mlm(sentence, mask_index, batch_size, target_index, multi_choice_answers, k=1):
     input_sent = tokenizer.encode(sentence, add_special_tokens=True) # TODO: move to config?
 
@@ -452,40 +453,63 @@ def animal_accuracy(animal, result_df):
     return animal, "{:.2f}".format(accuracy), yes_count, no_count
 
 
-def filter_questions():
-    animals_df = pd.read_csv("csv/animals.csv")
-    # animals = set(animals_df["entity"].values)
-    properties = {'live', 'lives', 'underwater', 'wing', 'wings', 'drink', 'drinks', 'coffee', 'eat', 'meat', 'fin',
-                  'fins',
-                  'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly', 'flies', 'climb', 'climbs',
-                  'carnivore',
-                  'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth', 'feathers', 'feather', 'horn', 'horns',
-                  'hooves', 'claws', 'blooded'}
-    # properties = set()
-    animals = set(WordNetObj.get_entity_hyponyms("animal"))
-    # animals = set()
+def clean_question(question):
+    question = question.replace("?", "")
+    question = question.replace(".", "")
+    question = question.replace(",", "")
+    question = question.replace(":", "")
+    question = question.replace(";", "")
+    question = question.replace("'", "")
+    question = question.replace('"', "")
+    question = question.replace('=', "")
+    question = question.replace('-', "")
+    question = question.replace(">", "")
+    question = question.replace(")", "")
+    question = question.replace("(", "")
+    question = question.replace("/", "")
+    question = question.replace("\\", "")
+    question = question.replace("@", "")
+    question = question.replace("#", "")
+    question = question.replace("%", "")
+    question = question.replace("&", "")
+    question = question.replace("*", "")
+    return question
 
+
+def filter_questions():
+    properties = {'live', 'lives', 'underwater', 'wing', 'wings', 'drink', 'drinks', 'coffee', 'eat', 'meat', 'fin',
+                  'fins', 'animal', 'animals', 'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly',
+                  'flies', 'climb', 'climbs', 'carnivore', 'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth',
+                  'feathers', 'feather', 'horn', 'horns', 'hooves', 'claws', 'blooded'}
+    animals = set(WordNetObj.get_entity_hyponyms("animal"))
+    animals = animals.union({animal + "s" for animal in animals})
     with open('json/conceptnet_train.jsonl', 'r') as f:
         lines = f.readlines()
         data = {"questions": [], "labels": []}
         for line in lines:
             line_dict = json.loads(line)
             question, answer = line_dict["phrase"], line_dict["answer"]
+            question = clean_question(question)
             split_question = set(question.lower().split(' '))
-            question_words = set()
-            for word in split_question:
-                question_words.add(word)
-                question_words.add(word.replace("s", ""))
-                question_words.add(word.replace("es", ""))
-                question_words.add(word.replace("ies", ""))
-                question_words.add(word.replace("ing", ""))
 
-            if not animals.intersection(question_words) and not properties.intersection(question_words):
+            if not(len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
                 data["questions"].append(question)
                 data["labels"].append("Yes" if answer else "No")
             else:
                 print(question, answer)
 
+    with open('json/twenty_questions_it_replace_rand_split_train.jsonl', 'r') as f:
+        lines = f.readlines()
+        for line in lines:
+            line_dict = json.loads(line)
+            question = clean_question(question)
+            split_question = set(question.lower().split(' '))
+
+            if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
+                data["questions"].append(question)
+                data["labels"].append("Yes" if answer else "No")
+            else:
+                print(question, answer)
     questions_df = pd.DataFrame.from_dict(data)
     yes_num_questions = len(questions_df[questions_df["labels"] == "Yes"])
     no_num_questions = len(questions_df[questions_df["labels"] == "No"])
@@ -493,8 +517,7 @@ def filter_questions():
     new_yes_questions = questions_df[questions_df["labels"] == "Yes"].sample(n=N, replace=False)
     new_no_questions = questions_df[questions_df["labels"] == "No"].sample(n=N, replace=False)
     questions_df = pd.concat([new_yes_questions, new_no_questions], axis=0, ignore_index=True)
-    print(questions_df)
-    questions_df.to_csv("csv/conceptnet_train_no_animals.csv")
+    questions_df.to_csv("csv/trained_merged_no_animals.csv")
 
 
 def aggregate_results_by_animal(result_df, animals_df):
@@ -535,7 +558,7 @@ def aggregate_results_by_question(result_df, animals_df):
                 break
 
     for q in results_by_question.keys():
-        print(q)
+        # print(q)
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
     return pd.DataFrame.from_dict(results_by_question)
 
@@ -545,6 +568,7 @@ def summarize_results(animals_csv_path, results_csv_path):
     result_df = pd.read_csv(results_csv_path)
     results_by_animal = aggregate_results_by_animal(result_df, animals_df)
     results_by_question = aggregate_results_by_question(result_df, animals_df)
+    results_by_animal.sort_values(axis=0, by=["accuracy"])
     results_by_animal.to_csv(results_csv_path.replace(".csv", "_by_animal.csv"))
     results_by_question.to_csv(results_csv_path.replace(".csv", "_by_question.csv"))
 
@@ -577,22 +601,29 @@ def plot_df(csv_path, output_path=""):
     plt.close()
 
 
-if __name__ == "__main__":
+def run_summarize_results():
     files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
-               "animals_have_wings", "animals_have_feathers", "animals_have_fur",
-               "animals_have_hair", "animals_live_underwater", "animals_can_fly",
-               "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins", "animals_dont_have_scales",
-               "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
-               "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly",
-               "animals"]
-    # for file in files:
-    #     summarize_results(animals_csv_path=f"csv/{file}.csv", results_csv_path=f"csv/results/{file}_questions_result.csv")
+             "animals_have_wings", "animals_have_feathers", "animals_have_fur",
+             "animals_have_hair", "animals_live_underwater", "animals_can_fly",
+             "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
+             "animals_dont_have_scales",
+             "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]
+    for file in files:
+        print(f"summarize {file}")
+        summarize_results(animals_csv_path=f"csv/{file}.csv",
+                          results_csv_path=f"csv/results/{file}_questions_result.csv")
+
+
+if __name__ == "__main__":
+    # run_summarize_results()
+    filter_questions()
     # plot_df("csv/results/animals_dont_have_feathers_questions_result_by_animal.csv")
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    for file in files:
-        questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
-        questions = pd.DataFrame.from_dict(questions)
-        questions.to_csv(f"csv/{file}_questions.csv")
+    # for file in files:
+    #     questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
+    #     questions = pd.DataFrame.from_dict(questions)
+    #     questions.to_csv(f"csv/{file}_questions.csv")

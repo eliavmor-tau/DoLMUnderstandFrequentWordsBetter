@@ -1,4 +1,4 @@
 ,Does a <entity> have hair?,A <entity> has hair.,Is hair part of a <entity>'s body?,Hair is part of a <entity>'s body.
-accuracy,0.265625,0.46875,0.18840579710144928,0.37681159420289856
-yes_count,47.0,34.0,56.0,43.0
-no_count,17.0,30.0,13.0,26.0
+accuracy,0.28125,0.5,0.18840579710144928,0.37681159420289856
+yes_count,46.0,32.0,56.0,43.0
+no_count,18.0,32.0,13.0,26.0

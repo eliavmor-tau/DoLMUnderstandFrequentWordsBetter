@@ -5,7 +5,7 @@
 3,sparrow,0.80,4,1
 4,songbird,0.60,3,2
 5,bird,1.00,5,0
-6,eagle,1.00,10,0
+6,eagle,1.00,5,0
 7,duck,1.00,5,0
 8,chicken,0.60,3,2
 9,crow,1.00,5,0
@@ -26,6 +26,5 @@
 24,albatrosses,1.00,5,0
 25,macaw,0.80,4,1
 26,heron,0.60,3,2
-27,bald eagle,1.00,5,0
-28,vulture,1.00,5,0
-29,wader,0.60,3,2
+27,vulture,1.00,5,0
+28,wader,0.60,3,2
