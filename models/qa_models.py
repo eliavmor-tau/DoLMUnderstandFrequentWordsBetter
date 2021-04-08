@@ -102,7 +102,7 @@ class YesNoQuestionAnswering(pl.LightningModule):
         return dataloader
 
     def configure_optimizers(self):
-        return AdamW(params=self.parameters(), lr=self.config.get("lr")
+        return AdamW(params=self.parameters(), lr=self.config.get("lr"))
 
 
 def train_model(config):

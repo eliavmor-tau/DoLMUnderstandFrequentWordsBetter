@@ -483,7 +483,7 @@ def filter_questions():
                   'feathers', 'feather', 'horn', 'horns', 'hooves', 'claws', 'blooded'}
     animals = set(WordNetObj.get_entity_hyponyms("animal"))
     animals = animals.union({animal + "s" for animal in animals})
-    with open('json/conceptnet_train.jsonl', 'r') as f:
+    with open('json/twenty_questions_it_replace_rand_split_train.jsonl', 'r') as f:
         lines = f.readlines()
         data = {"questions": [], "labels": []}
         for line in lines:
@@ -493,12 +493,13 @@ def filter_questions():
             split_question = set(question.lower().split(' '))
 
             if not(len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
-                data["questions"].append(question)
-                data["labels"].append("Yes" if answer else "No")
+                if question not in data["questions"]:
+                    data["questions"].append(question)
+                    data["labels"].append("Yes" if answer else "No")
             else:
                 print(question, answer)
 
-    with open('json/twenty_questions_it_replace_rand_split_train.jsonl', 'r') as f:
+    with open('json/conceptnet_train.jsonl', 'r') as f:
         lines = f.readlines()
         for line in lines:
             line_dict = json.loads(line)
@@ -506,8 +507,9 @@ def filter_questions():
             split_question = set(question.lower().split(' '))
 
             if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
-                data["questions"].append(question)
-                data["labels"].append("Yes" if answer else "No")
+                if question not in data["questions"]:
+                    data["questions"].append(question)
+                    data["labels"].append("Yes" if answer else "No")
             else:
                 print(question, answer)
     questions_df = pd.DataFrame.from_dict(data)
