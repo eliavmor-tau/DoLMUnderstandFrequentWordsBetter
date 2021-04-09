@@ -405,7 +405,7 @@ def generate_questions_from_csv(csv_path):
     return data
 
 
-def merge_questions(csv_paths, output_path="csv/questions.csv", split=True, p=0.7):
+def merge_questions(csv_paths, output_path="csv/train_questions.csv", split=True, p=0.7):
     np.random.seed(seed=100)
     data = {"question": [], "label": []}
     for csv_path in csv_paths:
@@ -468,7 +468,7 @@ def clean_question(question):
     question = question.replace("%", "")
     question = question.replace("&", "")
     question = question.replace("*", "")
-    return question
+    return question.lower()
 
 
 def filter_questions():
@@ -485,7 +485,7 @@ def filter_questions():
             line_dict = json.loads(line)
             question, answer = line_dict["phrase"], line_dict["answer"]
             question = clean_question(question)
-            split_question = set(question.lower().split(' '))
+            split_question = set(question.split(' '))
 
             if not(len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
                 if question not in data["question"]:
@@ -498,8 +498,9 @@ def filter_questions():
         lines = f.readlines()
         for line in lines:
             line_dict = json.loads(line)
+            question, answer = line_dict["phrase"], line_dict["answer"]
             question = clean_question(question)
-            split_question = set(question.lower().split(' '))
+            split_question = set(question.split(' '))
 
             if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
                 if question not in data["question"]:
@@ -508,6 +509,9 @@ def filter_questions():
             else:
                 print(question, answer)
     questions_df = pd.DataFrame.from_dict(data)
+    extra_questions = pd.read_csv("csv/train_questions.csv")
+    questions_df = pd.concat([questions_df, extra_questions], axis=0, ignore_index=True)
+    
     yes_num_questions = len(questions_df[questions_df["label"] == "Yes"])
     no_num_questions = len(questions_df[questions_df["label"] == "No"])
     N = min(yes_num_questions, no_num_questions)
@@ -530,7 +534,7 @@ def aggregate_results_by_animal(result_df, animals_df):
 
 
 def aggregate_results_by_question(result_df, animals_df):
-    questions = list(animals_df.columns.values)
+    questions = [q.lower() for q in list(animals_df.columns.values)]
     questions.remove("entity")
     animals = set(animals_df["entity"].values)
     results_by_question = {q: {"accuracy": 0, "yes_count": 0, "no_count": 0} for q in questions}
@@ -555,7 +559,6 @@ def aggregate_results_by_question(result_df, animals_df):
                 break
 
     for q in results_by_question.keys():
-        # print(q)
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
     return pd.DataFrame.from_dict(results_by_question)
 
@@ -605,7 +608,7 @@ def run_summarize_results():
              "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
              "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
-             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "train"]
     for file in files:
         print(f"summarize {file}")
         summarize_results(animals_csv_path=f"csv/{file}.csv",
@@ -630,10 +633,10 @@ def run_generate_questions():
 if __name__ == "__main__":
     # run_summarize_results()
     # run_generate_questions()
-    # filter_questions()
+    filter_questions()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    merge_questions(["csv/old/food.csv", "csv/old/furniture.csv", "csv/old/vehicle.csv",
-                     "csv/old/musical_instruments.csv"])
+    # merge_questions(["csv/old/food.csv", "csv/old/furniture.csv", "csv/old/vehicle.csv",
+    #                  "csv/old/musical_instruments.csv"], split=False)
