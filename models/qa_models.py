@@ -183,13 +183,14 @@ if __name__ == "__main__":
         "train": False,
         "model_name": "t5-base",
         "gpus": 1,
-        "max_epochs": 50,
+        "max_epochs": 10,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
-        # "train_data": "csv/conceptnet_train_no_animals.csv",
-        "train_data": "csv/trained_merged_no_animals.csv",
+        #"train_data": "csv/trained_merged_no_animals.csv",
+        "train_data": "csv/train_questions.csv",
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
-        "dev_data": "csv/conceptnet_dev.csv",
+        #"dev_data": "csv/conceptnet_dev.csv",
+        "dev_data": "csv/val_questions.csv",
         "lr": 1e-4,
         "checkpoint": "checkpoint/checkpoint-epoch=8-step=22994.ckpt",
         "checkpoint/t5_large": None
@@ -209,9 +210,8 @@ if __name__ == "__main__":
                "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly", "csv/animals", "csv/train_questions"]
-        # test_files = ["csv/animals_cant_fly", "csv/animals_can_fly", "csv/animals_have_wings", "csv/animals_dont_have_wings",
-        #               "csv/animals_dont_have_a_beak", "csv/animals_have_a_beak", "csv/animals_dont_have_feathers",
-        #               "csv/animals_have_feathers", "csv/animals_have_fur", "csv/animals_dont_have_fur"]
+
+#        test_files = ["csv/train"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
             test_model(config, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))

@@ -1,0 +1,273 @@
+,question,model_answer,true_answer
+0,does a peacock have fur?,Yes,No
+1,does a kingfisher have fur?,Yes,No
+2,is fur part of a pig's body?,No,No
+3,is fur part of a crocodile's body?,No,No
+4,fur is part of a elephant's body.,No,No
+5,is fur part of a kingfisher's body?,No,No
+6,a hen has fur.,Yes,No
+7,fur is part of a salmon's body.,No,No
+8,fur is part of a gar's body.,No,No
+9,a turkey has fur.,Yes,No
+10,does a shark have fur?,Yes,No
+11,fur is part of a fish's body.,No,No
+12,does a jay have fur?,Yes,No
+13,fur is part of a songbird's body.,No,No
+14,is fur part of a pelican's body?,No,No
+15,fur is part of a peacock's body.,No,No
+16,a chicken has fur.,Yes,No
+17,is fur part of a hummingbird's body?,No,No
+18,does a fish have fur?,Yes,No
+19,does a gar have fur?,Yes,No
+20,does a shrimp have fur?,Yes,No
+21,does a elephant have fur?,Yes,No
+22,a duck has fur.,Yes,No
+23,fur is part of a tuna's body.,No,No
+24,does a sponge have fur?,No,No
+25,fur is part of a hummingbird's body.,No,No
+26,does a hen have fur?,Yes,No
+27,does a chicken have fur?,Yes,No
+28,a pig has fur.,Yes,No
+29,a boa has fur.,Yes,No
+30,fur is part of a swan's body.,No,No
+31,a mamba has fur.,No,No
+32,a flamingo has fur.,Yes,No
+33,a ant has fur.,Yes,No
+34,a herring has fur.,No,No
+35,is fur part of a pigeon's body?,No,No
+36,fur is part of a lizard's body.,No,No
+37,is fur part of a snail's body?,No,No
+38,does a codfish have fur?,No,No
+39,a ostrich has fur.,Yes,No
+40,is fur part of a ostrich's body?,No,No
+41,a alligator has fur.,Yes,No
+42,does a hippopotamus have fur?,Yes,No
+43,fur is part of a caterpillar's body.,No,No
+44,does a bird have fur?,Yes,No
+45,fur is part of a prawn's body.,No,No
+46,a shark has fur.,No,No
+47,fur is part of a herring's body.,No,No
+48,fur is part of a jellyfish's body.,No,No
+49,does a crocodile have fur?,Yes,No
+50,fur is part of a jay's body.,No,No
+51,is fur part of a cuttlefish's body?,No,No
+52,fur is part of a seagull's body.,No,No
+53,is fur part of a lizard's body?,No,No
+54,does a turkey have fur?,Yes,No
+55,fur is part of a frog's body.,No,No
+56,does a dolphin have fur?,Yes,No
+57,a snake has fur.,Yes,No
+58,does a jellyfish have fur?,No,No
+59,a iguana has fur.,Yes,No
+60,a jay has fur.,Yes,No
+61,is fur part of a crab's body?,No,No
+62,fur is part of a turkey's body.,No,No
+63,does a swan have fur?,Yes,No
+64,is fur part of a rhino's body?,No,No
+65,a dolphin has fur.,Yes,No
+66,is fur part of a ant's body?,No,No
+67,is fur part of a sponge's body?,No,No
+68,is fur part of a parrot's body?,No,No
+69,is fur part of a dove's body?,No,No
+70,is fur part of a fish's body?,No,No
+71,does a snake have fur?,Yes,No
+72,is fur part of a oyster's body?,No,No
+73,is fur part of a piranha's body?,No,No
+74,does a pig have fur?,Yes,No
+75,fur is part of a sponge's body.,No,No
+76,a sparrow has fur.,Yes,No
+77,a crow has fur.,Yes,No
+78,a puma has fur.,Yes,No
+79,is fur part of a chicken's body?,No,No
+80,is fur part of a flamingo's body?,No,No
+81,is fur part of a jay's body?,No,No
+82,does a crow have fur?,Yes,No
+83,fur is part of a cuckoos's body.,No,No
+84,a hummingbird has fur.,Yes,No
+85,a worm has fur.,No,No
+86,fur is part of a starfish's body.,No,No
+87,does a ostrich have fur?,Yes,No
+88,fur is part of a codfish's body.,No,No
+89,is fur part of a starfish's body?,No,No
+90,does a caterpillar have fur?,Yes,No
+91,fur is part of a cuttlefish's body.,Yes,No
+92,does a hummingbird have fur?,Yes,No
+93,does a herring have fur?,No,No
+94,a lobster has fur.,No,No
+95,a frog has fur.,Yes,No
+96,a seal has fur.,No,No
+97,a tuna has fur.,Yes,No
+98,is fur part of a dolphin's body?,No,No
+99,a fish has fur.,No,No
+100,a oyster has fur.,No,No
+101,a barracuda has fur.,No,No
+102,is fur part of a iguana's body?,No,No
+103,does a seagull have fur?,Yes,No
+104,fur is part of a snake's body.,No,No
+105,a butterfly has fur.,No,No
+106,fur is part of a octupus's body.,No,No
+107,is fur part of a cuckoos's body?,No,No
+108,a whale has fur.,Yes,No
+109,a pigeon has fur.,Yes,No
+110,does a pigeon have fur?,Yes,No
+111,does a piranha have fur?,Yes,No
+112,fur is part of a salamander's body.,No,No
+113,a octupus has fur.,No,No
+114,fur is part of a dove's body.,No,No
+115,a prawn has fur.,Yes,No
+116,does a alligator have fur?,Yes,No
+117,is fur part of a salamander's body?,No,No
+118,a gar has fur.,Yes,No
+119,is fur part of a hippopotamus's body?,No,No
+120,is fur part of a eel's body?,No,No
+121,a piranha has fur.,Yes,No
+122,a crocodile has fur.,Yes,No
+123,is fur part of a seagull's body?,No,No
+124,does a tuna have fur?,Yes,No
+125,does a crab have fur?,Yes,No
+126,is fur part of a crow's body?,No,No
+127,is fur part of a mamba's body?,No,No
+128,a sponge has fur.,No,No
+129,is fur part of a elephant's body?,No,No
+130,is fur part of a hen's body?,No,No
+131,is fur part of a tarantula's body?,No,No
+132,is fur part of a tuna's body?,No,No
+133,a jellyfish has fur.,No,No
+134,fur is part of a iguana's body.,No,No
+135,does a frog have fur?,Yes,No
+136,is fur part of a whale's body?,No,No
+137,does a spider have fur?,Yes,No
+138,does a cobra have fur?,Yes,No
+139,a salamander has fur.,Yes,No
+140,fur is part of a crab's body.,Yes,No
+141,a swan has fur.,Yes,No
+142,a eel has fur.,Yes,No
+143,does a rhino have fur?,Yes,No
+144,is fur part of a turkey's body?,No,No
+145,a starfish has fur.,No,No
+146,fur is part of a seal's body.,No,No
+147,a dove has fur.,Yes,No
+148,a seagull has fur.,Yes,No
+149,does a seal have fur?,Yes,No
+150,fur is part of a piranha's body.,No,No
+151,fur is part of a pelican's body.,No,No
+152,a hippopotamus has fur.,Yes,No
+153,fur is part of a sparrow's body.,Yes,No
+154,is fur part of a owl's body?,No,No
+155,a salmon has fur.,No,No
+156,a kingfisher has fur.,No,No
+157,does a tarantula have fur?,Yes,No
+158,a cobra has fur.,Yes,No
+159,fur is part of a lobster's body.,No,No
+160,does a boa have fur?,Yes,No
+161,fur is part of a cobra's body.,No,No
+162,a eagle has fur.,Yes,No
+163,a cuckoos has fur.,Yes,No
+164,does a barracuda have fur?,No,No
+165,a pelican has fur.,No,No
+166,fur is part of a shrimp's body.,No,No
+167,is fur part of a gar's body?,No,No
+168,is fur part of a sparrow's body?,No,No
+169,fur is part of a chicken's body.,Yes,No
+170,does a eagle have fur?,Yes,No
+171,fur is part of a pig's body.,No,No
+172,a lizard has fur.,Yes,No
+173,does a whale have fur?,Yes,No
+174,does a starfish have fur?,No,No
+175,a crab has fur.,Yes,No
+176,does a mamba have fur?,Yes,No
+177,fur is part of a crow's body.,No,No
+178,does a snail have fur?,No,No
+179,fur is part of a tarantula's body.,No,No
+180,does a songbird have fur?,Yes,No
+181,a caterpillar has fur.,No,No
+182,does a lobster have fur?,No,No
+183,is fur part of a shrimp's body?,No,No
+184,fur is part of a shark's body.,No,No
+185,is fur part of a alligator's body?,No,No
+186,fur is part of a butterfly's body.,No,No
+187,fur is part of a rhino's body.,No,No
+188,a snail has fur.,No,No
+189,is fur part of a seal's body?,No,No
+190,fur is part of a worm's body.,No,No
+191,fur is part of a parrot's body.,No,No
+192,a elephant has fur.,Yes,No
+193,is fur part of a duck's body?,No,No
+194,is fur part of a snake's body?,No,No
+195,a owl has fur.,Yes,No
+196,is fur part of a butterfly's body?,No,No
+197,does a octupus have fur?,No,No
+198,is fur part of a codfish's body?,No,No
+199,does a lizard have fur?,Yes,No
+200,a peacock has fur.,Yes,No
+201,a tarantula has fur.,Yes,No
+202,fur is part of a hippopotamus's body.,No,No
+203,is fur part of a frog's body?,No,No
+204,is fur part of a shark's body?,No,No
+205,does a ant have fur?,Yes,No
+206,does a oyster have fur?,No,No
+207,is fur part of a cobra's body?,No,No
+208,is fur part of a jellyfish's body?,No,No
+209,fur is part of a whale's body.,Yes,No
+210,does a flamingo have fur?,Yes,No
+211,does a eel have fur?,Yes,No
+212,a bird has fur.,Yes,No
+213,does a prawn have fur?,Yes,No
+214,is fur part of a caterpillar's body?,No,No
+215,does a duck have fur?,Yes,No
+216,does a salamander have fur?,Yes,No
+217,does a iguana have fur?,Yes,No
+218,does a salmon have fur?,Yes,No
+219,does a dove have fur?,Yes,No
+220,does a owl have fur?,Yes,No
+221,fur is part of a barracuda's body.,No,No
+222,is fur part of a boa's body?,No,No
+223,does a pelican have fur?,No,No
+224,is fur part of a spider's body?,No,No
+225,fur is part of a ant's body.,No,No
+226,a songbird has fur.,No,No
+227,fur is part of a crocodile's body.,No,No
+228,does a puma have fur?,Yes,No
+229,fur is part of a kingfisher's body.,No,No
+230,fur is part of a pigeon's body.,No,No
+231,a cuttlefish has fur.,Yes,No
+232,is fur part of a bird's body?,No,No
+233,fur is part of a eel's body.,No,No
+234,is fur part of a barracuda's body?,No,No
+235,is fur part of a songbird's body?,No,No
+236,is fur part of a worm's body?,No,No
+237,is fur part of a salmon's body?,No,No
+238,fur is part of a puma's body.,No,No
+239,is fur part of a lobster's body?,No,No
+240,fur is part of a duck's body.,Yes,No
+241,does a cuckoos have fur?,Yes,No
+242,does a worm have fur?,No,No
+243,fur is part of a owl's body.,Yes,No
+244,fur is part of a snail's body.,No,No
+245,fur is part of a hen's body.,No,No
+246,does a cuttlefish have fur?,Yes,No
+247,fur is part of a flamingo's body.,No,No
+248,a rhino has fur.,Yes,No
+249,is fur part of a octupus's body?,No,No
+250,does a parrot have fur?,No,No
+251,a codfish has fur.,No,No
+252,fur is part of a oyster's body.,No,No
+253,a parrot has fur.,No,No
+254,fur is part of a alligator's body.,No,No
+255,fur is part of a spider's body.,No,No
+256,is fur part of a herring's body?,No,No
+257,is fur part of a prawn's body?,No,No
+258,fur is part of a eagle's body.,No,No
+259,a spider has fur.,Yes,No
+260,fur is part of a ostrich's body.,No,No
+261,a shrimp has fur.,No,No
+262,fur is part of a dolphin's body.,No,No
+263,is fur part of a eagle's body?,No,No
+264,is fur part of a peacock's body?,No,No
+265,fur is part of a bird's body.,No,No
+266,does a sparrow have fur?,Yes,No
+267,is fur part of a swan's body?,No,No
+268,fur is part of a boa's body.,Yes,No
+269,is fur part of a puma's body?,No,No
+270,fur is part of a mamba's body.,No,No
+271,does a butterfly have fur?,No,No

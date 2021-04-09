@@ -1,0 +1,713 @@
+,question,model_answer,true_answer
+0,is artichoke a vegetable?,Yes,Yes
+1,is chili an animal product?,No,No
+2,is tomato a dessert?,No,No
+3,is blueberry liquid?,No,No
+4,does a van have wheels?,Yes,Yes
+5,is punch alcoholic?,Yes,Yes
+6,is rice a cold beverage?,No,No
+7,is cinnamon meat?,No,No
+8,is a microwave oven used for cooking?,Yes,Yes
+9,is a oboe a woodwind instrument?,Yes,Yes
+10,is ham a vegetable?,No,No
+11,is lavender a vegetable?,Yes,No
+12,does a snowboard have two wheels?,Yes,No
+13,can a bed be found in a living room?,Yes,No
+14,is a knife used for cooking?,Yes,Yes
+15,is rice liquid?,No,No
+16,does a mountain bike travel on land?,No,Yes
+17,can a air conditioner be found in a bathroom?,No,Yes
+18,does a sofa have legs?,Yes,Yes
+19,is parmesan a cold beverage?,No,No
+20,is fig a spice?,No,No
+21,is a lyre a string instrument?,No,Yes
+22,is crack pie an animal product?,No,Yes
+23,is gouda dairy?,No,Yes
+24,does a van have a steering wheel?,Yes,Yes
+25,is sausage meat?,Yes,Yes
+26,is muscat a fruit?,No,No
+27,is a food processor used for cooking?,Yes,Yes
+28,is jalapeno a cold beverage?,Yes,No
+29,does a ambulance have a steering wheel?,No,Yes
+30,is kiwi alcoholic?,No,No
+31,does a satellite travel on water?,No,No
+32,is ghee a spice?,No,No
+33,is a pot used for cooking?,Yes,Yes
+34,is ice tea alcoholic?,No,No
+35,does a boat have a steering wheel?,Yes,Yes
+36,can a dresser be found in a bedroom?,Yes,Yes
+37,is rosemary a spice?,Yes,Yes
+38,is cheddar alcoholic?,No,No
+39,can a air conditioner be found in a kitchen?,No,Yes
+40,does a dump truck travel on land?,Yes,Yes
+41,is rum alcoholic?,Yes,Yes
+42,is chili a vegetable?,No,Yes
+43,is ice cream an animal product?,No,Yes
+44,does a jeep have a motor?,Yes,Yes
+45,is lettuce meat?,No,No
+46,is ouzo a vegetable?,No,No
+47,is papaya alcoholic?,No,No
+48,is souffle dairy?,No,Yes
+49,is pork dairy?,No,No
+50,is a food processor used for sitting?,No,No
+51,is asparagus a hot beverage?,No,No
+52,is punch liquid?,No,Yes
+53,is ice cream a hot beverage?,No,No
+54,is a piano a brass instrument?,Yes,No
+55,is chicken liver a grain?,No,No
+56,is tomato alcoholic?,No,No
+57,does a satellite travel in space?,Yes,Yes
+58,is basil a cold beverage?,No,No
+59,can a refrigerator be found in a bedroom?,No,No
+60,is cumin dairy?,No,No
+61,is cream cheese an animal product?,Yes,Yes
+62,does a ship have a steering wheel?,Yes,Yes
+63,is brie an animal product?,Yes,Yes
+64,is short rib an animal product?,Yes,Yes
+65,is zucchini a dessert?,No,No
+66,does a taxi have a steering wheel?,Yes,Yes
+67,is cinnamon a fruit?,No,No
+68,does a spacecraft have a motor?,Yes,Yes
+69,is a acoustic guitar a keyboard instrument?,No,No
+70,does a train have a motor?,Yes,Yes
+71,can a spoon be found in a kitchen?,Yes,Yes
+72,is kava a cold beverage?,No,Yes
+73,is broccoli dairy?,No,No
+74,is thyme a spice?,No,Yes
+75,is a armchair electrical?,No,No
+76,is beef meat?,Yes,Yes
+77,can a rug be found in a bathroom?,Yes,Yes
+78,is pork an animal product?,Yes,Yes
+79,is a refrigerator used for storage?,Yes,Yes
+80,is cheddar dairy?,Yes,Yes
+81,is black pepper a spice?,Yes,Yes
+82,does a crane have a steering wheel?,No,Yes
+83,does a dump truck have wheels?,Yes,Yes
+84,is spinach a hot beverage?,No,No
+85,is arrack liquid?,No,Yes
+86,is pork alcoholic?,No,No
+87,does a bus have a steering wheel?,Yes,Yes
+88,does a dump truck have two wheels?,Yes,No
+89,is citron liquid?,Yes,No
+90,does a skateboard travel on water?,Yes,No
+91,is grape a fruit?,Yes,Yes
+92,is camembert a grain?,No,No
+93,is bacon meat?,Yes,Yes
+94,is a plate used for cooking?,Yes,No
+95,is cottage cheese an animal product?,Yes,Yes
+96,does a boat travel in space?,Yes,No
+97,is fig an animal product?,Yes,No
+98,does a tram have wheels?,Yes,Yes
+99,does a taxi have wheels?,Yes,Yes
+100,can a refrigerator be found in a kitchen?,Yes,Yes
+101,does a bus fly?,Yes,No
+102,is a bassoon a percussion instrument?,Yes,No
+103,does a ambulance travel on land?,Yes,Yes
+104,is a clarinet a woodwind instrument?,Yes,Yes
+105,is steak a cold beverage?,No,No
+106,is bread meat?,No,No
+107,is wine a cold beverage?,Yes,Yes
+108,is turmeric a fruit?,No,No
+109,is cauliflower an animal product?,Yes,No
+110,is ham liquid?,No,No
+111,is a ukulele a percussion instrument?,Yes,No
+112,is a sitar a string instrument?,Yes,Yes
+113,is bacon an animal product?,Yes,Yes
+114,can a chair be found in a living room?,Yes,Yes
+115,does a car travel on water?,Yes,No
+116,does a ship have a motor?,Yes,Yes
+117,does a mountain bike carry one person?,No,Yes
+118,can a air conditioner be found in a living room?,Yes,Yes
+119,is chili a hot beverage?,Yes,No
+120,is corn alcoholic?,No,No
+121,does a car have a motor?,Yes,Yes
+122,is punch a dessert?,No,No
+123,is a saxophone a woodwind instrument?,Yes,No
+124,does a tram fly?,Yes,No
+125,is arrack a vegetable?,No,No
+126,is grape an animal product?,No,No
+127,is parmesan alcoholic?,No,No
+128,is paprika meat?,No,No
+129,is beer a cold beverage?,Yes,Yes
+130,is a chair electrical?,Yes,No
+131,is thyme alcoholic?,No,No
+132,does a sports car have a steering wheel?,Yes,Yes
+133,is a trombone a woodwind instrument?,Yes,No
+134,can a desk be found in a bathroom?,No,No
+135,is potato a cold beverage?,No,No
+136,does a satellite have a motor?,Yes,Yes
+137,is apple a fruit?,Yes,Yes
+138,does a satellite fly?,Yes,Yes
+139,is steak meat?,Yes,Yes
+140,can a microwave oven be found in a kitchen?,Yes,Yes
+141,does a motorcycle have four wheels?,Yes,No
+142,is bergamot a spice?,No,Yes
+143,is a piano a keyboard instrument?,Yes,Yes
+144,is brie meat?,Yes,No
+145,is a koto a keyboard instrument?,No,No
+146,does a satellite carry one person?,No,No
+147,is rosemary dairy?,No,No
+148,is a bombardon a brass instrument?,No,Yes
+149,is oregano liquid?,No,No
+150,is ghee an animal product?,No,Yes
+151,does a chair have legs?,Yes,Yes
+152,is kale alcoholic?,No,No
+153,does a ambulance carry one person?,Yes,No
+154,is gouda a grain?,No,No
+155,does a cab have a motor?,Yes,Yes
+156,is a microwave oven used for sitting?,No,No
+157,is lettuce an animal product?,No,No
+158,is a violin a string instrument?,Yes,Yes
+159,is berry a fruit?,Yes,Yes
+160,can a battleship carry cargo?,Yes,Yes
+161,is a psaltery a string instrument?,Yes,Yes
+162,is a lamp used for cooking?,No,No
+163,is a television electrical?,Yes,Yes
+164,is cauliflower a vegetable?,Yes,Yes
+165,does a shower have legs?,No,No
+166,is apple a spice?,No,No
+167,is a banjo a keyboard instrument?,No,No
+168,does a cement mixer have wings?,No,No
+169,is chocolate cake a grain?,No,No
+170,does a bus have a motor?,Yes,Yes
+171,is ouzo a cold beverage?,Yes,Yes
+172,is shallot a grain?,No,No
+173,is arrack alcoholic?,No,Yes
+174,does a battleship travel on water?,Yes,Yes
+175,is melon alcoholic?,Yes,No
+176,does a cement mixer have a steering wheel?,No,Yes
+177,is cheddar a hot beverage?,No,No
+178,is ham an animal product?,Yes,Yes
+179,does a jeep have wheels?,Yes,Yes
+180,is tiramisu a cold beverage?,No,No
+181,is scotch meat?,No,No
+182,does a dump truck have a motor?,Yes,Yes
+183,is kava liquid?,Yes,Yes
+184,is quinoa a grain?,Yes,Yes
+185,is a accordion a percussion instrument?,Yes,No
+186,is cucumber liquid?,No,No
+187,can a bed be found in a bedroom?,Yes,Yes
+188,is broccoli a fruit?,No,No
+189,is quinoa a cold beverage?,No,No
+190,is radish a cold beverage?,No,No
+191,is turkey dairy?,No,No
+192,is a bongo a percussion instrument?,No,Yes
+193,does a van have four wheels?,Yes,Yes
+194,is quinoa a spice?,No,No
+195,is chicken liver an animal product?,Yes,Yes
+196,does a police car have wheels?,Yes,Yes
+197,is carrot dairy?,No,No
+198,is pepsi alcoholic?,Yes,No
+199,is parmesan dairy?,No,Yes
+200,can a surfboard carry cargo?,Yes,No
+201,does a fire truck have a motor?,Yes,Yes
+202,is potato an animal product?,Yes,No
+203,is thyme meat?,No,No
+204,is cherry dairy?,No,No
+205,is cream an animal product?,No,Yes
+206,is a refrigerator electrical?,Yes,Yes
+207,is thyme a dessert?,No,No
+208,is a clarinet a string instrument?,Yes,No
+209,is chicken breast a fruit?,No,No
+210,is carrot alcoholic?,No,No
+211,is a towel used for cooking?,No,No
+212,can a lamp be found in a kitchen?,Yes,Yes
+213,is whiskey liquid?,Yes,Yes
+214,is paprika dairy?,No,No
+215,is gouda a dessert?,Yes,No
+216,is a timbrel a percussion instrument?,Yes,Yes
+217,does a car have a steering wheel?,Yes,Yes
+218,is rib an animal product?,Yes,Yes
+219,does a recycling truck have wheels?,Yes,Yes
+220,is a forklift used for construction?,Yes,Yes
+221,is a chair used for sitting?,Yes,Yes
+222,is a spinet a woodwind instrument?,No,No
+223,is cumin a spice?,Yes,Yes
+224,is a oven used for cooking?,Yes,Yes
+225,does a desk have legs?,No,Yes
+226,is kale a dessert?,No,No
+227,is saffron a fruit?,No,No
+228,does a motorcycle have two wheels?,Yes,Yes
+229,can a table be found in a bedroom?,Yes,Yes
+230,is saffron a grain?,No,No
+231,is a oven electrical?,Yes,Yes
+232,is leek alcoholic?,No,No
+233,is radish a hot beverage?,No,No
+234,can a lamp be found in a living room?,Yes,Yes
+235,can a knife be found in a bedroom?,No,No
+236,does a wagon have four wheels?,Yes,Yes
+237,is veal an animal product?,Yes,Yes
+238,is mozzarella a cold beverage?,No,No
+239,does a forklift have a motor?,Yes,Yes
+240,is spinach a fruit?,No,No
+241,is arrack an animal product?,No,No
+242,is corn a cold beverage?,No,No
+243,can a table be found in a living room?,Yes,Yes
+244,does a skateboard have four wheels?,Yes,Yes
+245,is paprika a spice?,Yes,Yes
+246,does a van travel in space?,Yes,No
+247,does a plate have legs?,No,No
+248,is tiramisu an animal product?,No,Yes
+249,is cabbage a dessert?,No,No
+250,is cumin an animal product?,No,No
+251,is rosemary a fruit?,No,No
+252,does a helicopter fly?,Yes,Yes
+253,is grape a vegetable?,No,No
+254,does a airship fly?,Yes,Yes
+255,can a armchair be found in a bedroom?,Yes,Yes
+256,is a couch used for sitting?,Yes,Yes
+257,does a forklift have a steering wheel?,Yes,Yes
+258,is oregano a hot beverage?,No,No
+259,does a scooter travel on land?,No,Yes
+260,is lavender a fruit?,No,No
+261,is carrot a cold beverage?,No,No
+262,does a airplane have a motor?,Yes,Yes
+263,is oregano a spice?,Yes,Yes
+264,does a police car have wings?,No,No
+265,is lettuce a grain?,Yes,No
+266,is ouzo an animal product?,Yes,No
+267,does a forklift travel on water?,No,No
+268,can a dresser be found in a bathroom?,No,No
+269,is potato dairy?,No,No
+270,is cumin alcoholic?,No,No
+271,is a electric guitar a string instrument?,Yes,Yes
+272,is a trombone a brass instrument?,Yes,Yes
+273,does a spacecraft carry one person?,No,No
+274,is yogurt an animal product?,No,Yes
+275,is a viola a string instrument?,Yes,Yes
+276,is a plate electrical?,Yes,No
+277,is cabbage a grain?,No,No
+278,is rice a vegetable?,No,No
+279,is gin a dessert?,No,No
+280,is rosemary alcoholic?,No,No
+281,is cream dairy?,Yes,Yes
+282,does a motorcycle have a motor?,Yes,Yes
+283,can a spatula be found in a kitchen?,Yes,Yes
+284,is a bassoon a string instrument?,Yes,No
+285,is sausage an animal product?,Yes,Yes
+286,is a mandola a keyboard instrument?,No,No
+287,is a tenoroon a woodwind instrument?,Yes,Yes
+288,is tequila a cold beverage?,Yes,Yes
+289,is a ocarina a string instrument?,No,No
+290,is bacon a vegetable?,No,No
+291,is melon a fruit?,Yes,Yes
+292,is a dulcimer a string instrument?,Yes,Yes
+293,is blueberry a fruit?,Yes,Yes
+294,is papaya a vegetable?,No,No
+295,does a satellite have a steering wheel?,No,No
+296,does a skateboard travel in space?,No,No
+297,can a stool be found in a bedroom?,Yes,No
+298,does a police car have a motor?,Yes,Yes
+299,is scotch an animal product?,No,No
+300,does a boat have a motor?,Yes,Yes
+301,is tea a hot beverage?,Yes,Yes
+302,does a van have a motor?,Yes,Yes
+303,is gin an animal product?,No,No
+304,is broccoli a dessert?,No,No
+305,can a submarine carry cargo?,Yes,Yes
+306,can a blanket be found in a bedroom?,Yes,Yes
+307,is onion a hot beverage?,No,No
+308,is shallot liquid?,No,No
+309,is brie a hot beverage?,No,No
+310,is a television used for cooking?,No,No
+311,is pepsi an animal product?,No,No
+312,is jalapeno a vegetable?,No,Yes
+313,can a spatula be found in a living room?,Yes,No
+314,is anise dairy?,No,No
+315,is avocado a cold beverage?,Yes,No
+316,does a spoon have legs?,No,No
+317,is chocolate cake an animal product?,No,Yes
+318,is quinoa liquid?,No,No
+319,is gin liquid?,Yes,Yes
+320,does a aircraft have a motor?,Yes,Yes
+321,does a scooter fly?,Yes,No
+322,is a tractor used for construction?,Yes,Yes
+323,is tomato a vegetable?,Yes,Yes
+324,is cherry a spice?,No,No
+325,is vodka an animal product?,No,No
+326,is a closet used for cooking?,No,No
+327,can a bus carry cargo?,Yes,No
+328,is lemon a hot beverage?,Yes,No
+329,is a gong a brass instrument?,No,No
+330,can a rug be found in a bedroom?,Yes,Yes
+331,does a surfboard have wings?,No,No
+332,does a battleship have a steering wheel?,Yes,Yes
+333,is whiskey alcoholic?,Yes,Yes
+334,is muscat a cold beverage?,No,Yes
+335,is ice cream liquid?,Yes,No
+336,is chorizo alcoholic?,No,No
+337,does a police car have four wheels?,Yes,Yes
+338,is ricotta dairy?,Yes,Yes
+339,is a flute a keyboard instrument?,No,No
+340,is carrot a hot beverage?,No,No
+341,is lime a fruit?,Yes,Yes
+342,is milk a cold beverage?,Yes,Yes
+343,does a surfboard travel on land?,Yes,Yes
+344,is a stool used for sitting?,Yes,Yes
+345,is oregano meat?,No,No
+346,is a sofa electrical?,Yes,No
+347,is pork meat?,Yes,Yes
+348,does a aircraft have wheels?,Yes,Yes
+349,does a forklift have four wheels?,Yes,No
+350,does a car have wheels?,Yes,Yes
+351,can a television be found in a kitchen?,Yes,Yes
+352,does a carriage have four wheels?,Yes,Yes
+353,is kava a dessert?,No,No
+354,is salami an animal product?,Yes,Yes
+355,is blueberry a cold beverage?,Yes,No
+356,can a stool be found in a living room?,Yes,Yes
+357,is cheese cake a dessert?,Yes,Yes
+358,does a wagon have a steering wheel?,Yes,No
+359,is a spatula used for storage?,No,No
+360,is a gong a percussion instrument?,No,Yes
+361,does a hot air balloon fly?,Yes,Yes
+362,is thyme liquid?,No,No
+363,does a airplane travel in space?,Yes,No
+364,does a bus have wheels?,Yes,Yes
+365,is short rib alcoholic?,Yes,No
+366,does a bed have legs?,No,Yes
+367,is lemon grass a spice?,No,Yes
+368,does a airship have four wheels?,Yes,No
+369,does a cab travel on land?,Yes,Yes
+370,is blackberry dairy?,No,No
+371,is souffle an animal product?,No,Yes
+372,does a bicycle travel on land?,Yes,Yes
+373,is carrot a spice?,No,No
+374,is cumin a grain?,Yes,No
+375,is a drum a woodwind instrument?,Yes,No
+376,is camembert an animal product?,No,Yes
+377,is tea liquid?,Yes,Yes
+378,is turkey a grain?,Yes,No
+379,is a cornet a brass instrument?,No,Yes
+380,can a pillow be found in a bedroom?,Yes,Yes
+381,can a dishwasher be found in a bedroom?,No,No
+382,is anise a spice?,No,Yes
+383,is a spatula used for sitting?,No,No
+384,is watermelon a vegetable?,No,No
+385,does a aircraft travel on land?,Yes,No
+386,is milk a vegetable?,No,No
+387,does a aircraft have a steering wheel?,Yes,Yes
+388,is orange alcoholic?,No,No
+389,can a towel be found in a bathroom?,Yes,Yes
+390,does a airship travel in space?,Yes,No
+391,can a television be found in a bedroom?,Yes,Yes
+392,is a bassoon a woodwind instrument?,Yes,Yes
+393,does a car have four wheels?,Yes,Yes
+394,is salami alcoholic?,No,No
+395,is cream cheese alcoholic?,No,No
+396,does a bicycle have wheels?,Yes,Yes
+397,can a table be found in a kitchen?,Yes,Yes
+398,is cherry a fruit?,Yes,Yes
+399,is papaya a fruit?,Yes,Yes
+400,can a air conditioner be found in a bedroom?,Yes,Yes
+401,is ham a hot beverage?,No,No
+402,does a scooter have two wheels?,Yes,Yes
+403,does a ambulance have wheels?,Yes,Yes
+404,can a ship carry cargo?,Yes,No
+405,does a ship travel on water?,Yes,Yes
+406,is a clarion a keyboard instrument?,No,No
+407,is a drum a percussion instrument?,Yes,Yes
+408,is a mountain bike used for construction?,No,No
+409,is ham a cold beverage?,No,No
+410,is a clarinet a keyboard instrument?,No,No
+411,is kale a vegetable?,Yes,Yes
+412,does a aircraft fly?,Yes,Yes
+413,is pork a cold beverage?,No,No
+414,is radish dairy?,No,No
+415,is lemon a fruit?,Yes,Yes
+416,is short rib meat?,Yes,Yes
+417,is arrack a dessert?,No,No
+418,is a shawm a keyboard instrument?,No,No
+419,is zucchini a vegetable?,Yes,Yes
+420,does a recycling truck travel on land?,Yes,Yes
+421,is kava a vegetable?,No,No
+422,is kale dairy?,No,No
+423,is a recycling truck used for construction?,Yes,Yes
+424,is corn dairy?,No,No
+425,is turkey a spice?,No,No
+426,is a euphonium a percussion instrument?,Yes,No
+427,can a stove be found in a kitchen?,Yes,Yes
+428,does a ambulance fly?,No,No
+429,is radish liquid?,No,No
+430,does a tractor have four wheels?,Yes,Yes
+431,is short rib a fruit?,No,No
+432,can a airplane carry cargo?,Yes,Yes
+433,is cucumber a hot beverage?,No,No
+434,can a armchair be found in a living room?,Yes,Yes
+435,is a shawm a woodwind instrument?,No,Yes
+436,is camembert dairy?,No,Yes
+437,is a lute a string instrument?,Yes,Yes
+438,is peach a fruit?,Yes,Yes
+439,is vodka alcoholic?,Yes,Yes
+440,does a scooter carry one person?,Yes,Yes
+441,is wine meat?,No,No
+442,is a sitar a brass instrument?,No,No
+443,does a airplane have two wheels?,Yes,No
+444,is lemon grass an animal product?,No,No
+445,is chocolate milk a cold beverage?,Yes,No
+446,does a table have legs?,Yes,Yes
+447,is a toilet used for sitting?,No,No
+448,is a pillow used for cooking?,No,No
+449,is lemon a vegetable?,No,No
+450,does a helicopter have a motor?,Yes,Yes
+451,is apple an animal product?,No,No
+452,is arrack a cold beverage?,No,Yes
+453,does a recycling truck have a steering wheel?,No,Yes
+454,does a ambulance have a motor?,Yes,Yes
+455,is rum a cold beverage?,Yes,Yes
+456,is turmeric a spice?,Yes,Yes
+457,does a scooter have wings?,No,No
+458,is salami a hot beverage?,No,No
+459,is gin alcoholic?,Yes,Yes
+460,is a dishwasher electrical?,Yes,Yes
+461,is fig a dessert?,No,No
+462,does a spacecraft have four wheels?,Yes,No
+463,does a satellite travel on land?,No,Yes
+464,is pork a grain?,Yes,No
+465,is grape liquid?,No,No
+466,is wine a hot beverage?,Yes,No
+467,is ricotta a cold beverage?,Yes,No
+468,does a hot air balloon have wings?,Yes,No
+469,is liqueur alcoholic?,Yes,Yes
+470,is jalapeno a fruit?,No,No
+471,is guava a fruit?,Yes,Yes
+472,does a airship have two wheels?,Yes,No
+473,is spinach liquid?,No,No
+474,is basil liquid?,No,No
+475,does a tractor have a motor?,Yes,Yes
+476,does a helicopter travel in space?,Yes,No
+477,does a dump truck carry one person?,Yes,No
+478,is asparagus dairy?,No,No
+479,can a bicycle carry cargo?,Yes,No
+480,is souffle a dessert?,No,Yes
+481,does a tractor have wheels?,Yes,Yes
+482,is veal meat?,Yes,Yes
+483,is orange a fruit?,Yes,Yes
+484,can a sink be found in a kitchen?,Yes,Yes
+485,is ham meat?,Yes,Yes
+486,is shallot a vegetable?,Yes,Yes
+487,does a satellite have wings?,Yes,No
+488,is milk an animal product?,Yes,Yes
+489,is orange a vegetable?,No,No
+490,is a food processor electrical?,Yes,Yes
+491,is apricot dairy?,No,No
+492,is yogurt dairy?,Yes,Yes
+493,is cream a hot beverage?,No,No
+494,is a celesta a keyboard instrument?,No,Yes
+495,is pepsi liquid?,Yes,Yes
+496,is a cittern a string instrument?,No,Yes
+497,is cabbage a vegetable?,Yes,Yes
+498,is mozzarella a spice?,No,No
+499,is carrot meat?,No,No
+500,does a snowboard travel on land?,Yes,Yes
+501,is ice tea liquid?,Yes,Yes
+502,is pork a spice?,No,No
+503,is a couch used for storage?,No,No
+504,is vodka a cold beverage?,Yes,Yes
+505,is a flute a woodwind instrument?,Yes,Yes
+506,is liqueur meat?,No,No
+507,is citron alcoholic?,Yes,No
+508,is rosemary a cold beverage?,No,No
+509,can a cradle be found in a bedroom?,No,Yes
+510,is salami a dessert?,No,No
+511,can a fork be found in a kitchen?,Yes,Yes
+512,is corn a grain?,Yes,Yes
+513,is cream a dessert?,Yes,No
+514,does a recycling truck have a motor?,Yes,Yes
+515,does a spacecraft have wheels?,Yes,Yes
+516,does a sports car have wheels?,Yes,Yes
+517,is rum a dessert?,No,No
+518,is short rib a vegetable?,No,No
+519,is tequila alcoholic?,Yes,Yes
+520,does a carriage have two wheels?,Yes,No
+521,does a battleship have wheels?,Yes,No
+522,does a jeep have a steering wheel?,Yes,Yes
+523,is ricotta an animal product?,No,Yes
+524,is avocado dairy?,Yes,No
+525,is chicken breast dairy?,No,No
+526,is tea dairy?,No,No
+527,is radish a vegetable?,Yes,Yes
+528,is a viol a keyboard instrument?,No,No
+529,does a surfboard carry one person?,No,Yes
+530,does a airplane fly?,Yes,Yes
+531,is parmesan an animal product?,No,Yes
+532,is lemon a grain?,No,No
+533,can a crane carry cargo?,Yes,Yes
+534,can a couch be found in a living room?,Yes,Yes
+535,is muscat an animal product?,Yes,No
+536,is a cement mixer used for construction?,Yes,Yes
+537,does a sports car have wings?,No,No
+538,does a battleship carry one person?,Yes,No
+539,is cheese a hot beverage?,No,No
+540,is a mandolin a string instrument?,Yes,Yes
+541,is kohlrabi a hot beverage?,No,No
+542,does a submarine fly?,Yes,No
+543,is a sink electrical?,Yes,No
+544,is chicken breast meat?,Yes,Yes
+545,is corn a vegetable?,Yes,No
+546,does a police car travel on water?,No,No
+547,is coffee a spice?,No,No
+548,is ouzo liquid?,Yes,Yes
+549,is a koto a string instrument?,No,Yes
+550,is a clarion a woodwind instrument?,Yes,Yes
+551,is cheese an animal product?,Yes,Yes
+552,is avocado a hot beverage?,No,No
+553,does a snowboard have four wheels?,Yes,No
+554,is lemon grass meat?,No,No
+555,can a dishwasher be found in a bathroom?,No,No
+556,can a armchair be found in a kitchen?,No,No
+557,is ice tea a cold beverage?,Yes,Yes
+558,is a stove used for cooking?,Yes,Yes
+559,does a airship have wheels?,Yes,No
+560,is lamb meat?,Yes,Yes
+561,does a stool have legs?,Yes,Yes
+562,does a dump truck have a steering wheel?,No,Yes
+563,is cabbage dairy?,No,No
+564,can a chair be found in a kitchen?,Yes,Yes
+565,is wine alcoholic?,Yes,Yes
+566,is scotch a cold beverage?,Yes,Yes
+567,does a scooter have a motor?,Yes,Yes
+568,is turmeric a hot beverage?,No,No
+569,is liqueur a cold beverage?,Yes,Yes
+570,is a sourdine a percussion instrument?,No,No
+571,is a oboe a percussion instrument?,Yes,No
+572,is a cello a keyboard instrument?,No,No
+573,does a motorcycle have wheels?,Yes,Yes
+574,is a cello a string instrument?,Yes,Yes
+575,is watermelon a spice?,No,No
+576,does a train have wheels?,Yes,Yes
+577,is cucumber a vegetable?,Yes,Yes
+578,is butter a vegetable?,No,No
+579,is apricot a fruit?,Yes,Yes
+580,can a oven be found in a kitchen?,Yes,Yes
+581,is a bongo a keyboard instrument?,No,No
+582,is souffle a fruit?,No,No
+583,is avocado a fruit?,Yes,Yes
+584,does a aircraft travel on water?,Yes,No
+585,can a food processor be found in a kitchen?,Yes,Yes
+586,can a rug be found in a living room?,Yes,Yes
+587,is cheese cake dairy?,Yes,Yes
+588,is chocolate milk liquid?,Yes,Yes
+589,is curry an animal product?,No,No
+590,is eggplant dairy?,No,No
+591,does a microwave oven have legs?,No,No
+592,is coffee liquid?,Yes,Yes
+593,is milk a dessert?,No,No
+594,can a pot be found in a kitchen?,Yes,Yes
+595,is gouda a spice?,No,No
+596,is asparagus a vegetable?,Yes,Yes
+597,does a cradle have legs?,No,Yes
+598,is wheat liquid?,No,No
+599,is kiwi liquid?,No,No
+600,is sausage liquid?,No,No
+601,does a ambulance have four wheels?,Yes,Yes
+602,is rib a grain?,No,No
+603,is quinoa a hot beverage?,No,No
+604,is cottage cheese dairy?,Yes,Yes
+605,is a ocarina a percussion instrument?,No,No
+606,does a tractor travel on land?,Yes,Yes
+607,does a boat have wheels?,Yes,No
+608,is lemon grass liquid?,No,No
+609,is chorizo liquid?,No,No
+610,does a wagon fly?,Yes,No
+611,is bacon a cold beverage?,No,No
+612,is asparagus an animal product?,Yes,No
+613,is a lute a keyboard instrument?,No,No
+614,does a cement mixer fly?,No,No
+615,does a snowboard carry one person?,No,Yes
+616,does a tram have a motor?,Yes,Yes
+617,is camembert a hot beverage?,No,No
+618,does a sports car have four wheels?,Yes,Yes
+619,is grapefruit dairy?,No,No
+620,does a airplane have wings?,Yes,Yes
+621,is brie a grain?,Yes,No
+622,does a cement mixer travel on land?,No,Yes
+623,is ice cream alcoholic?,No,No
+624,is cheese cake an animal product?,No,Yes
+625,can a train carry cargo?,Yes,Yes
+626,is a fork used for cooking?,Yes,Yes
+627,is eggplant a vegetable?,Yes,Yes
+628,does a police car travel on land?,Yes,Yes
+629,does a couch have legs?,Yes,Yes
+630,is a dresser used for cooking?,No,No
+631,is banana a spice?,No,No
+632,is a stove electrical?,Yes,Yes
+633,is a spinet a percussion instrument?,No,No
+634,is a tambourine a brass instrument?,Yes,No
+635,is cream alcoholic?,No,No
+636,is radish an animal product?,Yes,No
+637,is chorizo an animal product?,Yes,Yes
+638,is tiramisu dairy?,No,Yes
+639,is litchi a hot beverage?,No,No
+640,is ouzo alcoholic?,Yes,Yes
+641,is a guitar a percussion instrument?,Yes,No
+642,can a spacecraft carry cargo?,Yes,Yes
+643,can a lamp be found in a bathroom?,Yes,Yes
+644,is chocolate milk a hot beverage?,Yes,Yes
+645,does a boat fly?,Yes,No
+646,is brie dairy?,No,Yes
+647,can a television be found in a bathroom?,Yes,No
+648,can a airship carry cargo?,Yes,Yes
+649,is ice cream dairy?,Yes,Yes
+650,is cauliflower dairy?,No,No
+651,does a armchair have legs?,Yes,Yes
+652,does a recycling truck have two wheels?,Yes,No
+653,is vodka liquid?,Yes,Yes
+654,is a pan used for cooking?,Yes,Yes
+655,is a saxophone a brass instrument?,Yes,Yes
+656,is black cumin a spice?,Yes,Yes
+657,is a air conditioner used for sitting?,No,No
+658,can a refrigerator be found in a bathroom?,No,No
+659,does a ambulance travel on water?,No,No
+660,is liqueur dairy?,No,No
+661,does a spacecraft have wings?,Yes,Yes
+662,is rum liquid?,Yes,Yes
+663,is asparagus liquid?,No,No
+664,is orange a spice?,No,No
+665,is a dresser used for storage?,Yes,Yes
+666,is a krummhorn a woodwind instrument?,Yes,Yes
+667,is fig a fruit?,Yes,Yes
+668,does a submarine travel on water?,Yes,Yes
+669,can a aircraft carry cargo?,Yes,Yes
+670,is butter a fruit?,No,No
+671,is a sourdine a brass instrument?,No,Yes
+672,does a cement mixer have a motor?,Yes,Yes
+673,is lamb an animal product?,Yes,Yes
+674,is bacon dairy?,No,No
+675,does a battleship travel in space?,Yes,No
+676,does a tractor have a steering wheel?,Yes,Yes
+677,does a train travel on land?,Yes,Yes
+678,can a television be found in a living room?,Yes,Yes
+679,is steak an animal product?,Yes,Yes
+680,is banana an animal product?,No,No
+681,does a ship fly?,Yes,No
+682,does a spacecraft travel in space?,Yes,Yes
+683,is artichoke liquid?,No,No
+684,is a marimba a percussion instrument?,Yes,Yes
+685,does a sports car have a motor?,Yes,Yes
+686,can a kettle be found in a kitchen?,Yes,Yes
+687,is coffee a hot beverage?,Yes,Yes
+688,does a motorcycle carry one person?,No,Yes
+689,is butter dairy?,Yes,Yes
+690,is tonic a cold beverage?,Yes,Yes
+691,does a aircraft have wings?,Yes,Yes
+692,is veal a vegetable?,Yes,No
+693,does a tram travel on land?,Yes,Yes
+694,is lime meat?,No,No
+695,is salami a grain?,Yes,No
+696,is tequila a spice?,No,No
+697,is ham a grain?,No,No
+698,is sausage a dessert?,No,No
+699,is wheat a cold beverage?,No,No
+700,does a spacecraft have a steering wheel?,Yes,Yes
+701,is a celesta a brass instrument?,No,No
+702,is ouzo dairy?,Yes,No
+703,is a closet used for storage?,Yes,Yes
+704,is a euphonium a string instrument?,Yes,No
+705,is curry a spice?,Yes,Yes
+706,is zucchini meat?,No,No
+707,is a cradle used for sitting?,No,No
+708,is whiskey a cold beverage?,Yes,Yes
+709,is kava dairy?,No,No
+710,is curry a dessert?,No,No
+711,is a viol a string instrument?,Yes,Yes

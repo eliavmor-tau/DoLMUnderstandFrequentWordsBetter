@@ -1,0 +1,449 @@
+,question,model_answer,true_answer
+0,are fins part of a labrador's body?,Yes,No
+1,does a husky have fins?,Yes,No
+2,does a pinscher have fins?,Yes,No
+3,does a songbird have fins?,Yes,No
+4,a sparrow has fins.,Yes,No
+5,are fins part of a alligator's body?,No,No
+6,does a dove have fins?,Yes,No
+7,does a collie have fins?,Yes,No
+8,are fins part of a bull's body?,No,No
+9,are fins part of a cockatoo's body?,No,No
+10,fins are part of a hen's body.,No,No
+11,does a ape have fins?,Yes,No
+12,a songbird has fins.,Yes,No
+13,are fins part of a tarantula's body?,No,No
+14,a chihuahua has fins.,Yes,No
+15,a lion has fins.,Yes,No
+16,fins are part of a snail's body.,Yes,No
+17,does a gibbon have fins?,Yes,No
+18,are fins part of a boxer's body?,No,No
+19,are fins part of a falcon's body?,No,No
+20,a chicken has fins.,Yes,No
+21,are fins part of a eagle's body?,No,No
+22,fins are part of a gorilla's body.,No,No
+23,a terrier has fins.,Yes,No
+24,are fins part of a cobra's body?,No,No
+25,does a shrew have fins?,No,No
+26,does a duck have fins?,Yes,No
+27,fins are part of a donkey's body.,No,No
+28,are fins part of a squirrel's body?,Yes,No
+29,a dalmatian has fins.,No,No
+30,fins are part of a snake's body.,Yes,No
+31,fins are part of a cuckoos's body.,No,No
+32,fins are part of a falcon's body.,No,No
+33,are fins part of a bird's body?,Yes,No
+34,fins are part of a rabbit's body.,Yes,No
+35,does a camel have fins?,Yes,No
+36,are fins part of a crocodile's body?,No,No
+37,does a snail have fins?,Yes,No
+38,are fins part of a rat's body?,Yes,No
+39,a crocodile has fins.,Yes,No
+40,does a rabbit have fins?,Yes,No
+41,are fins part of a koala's body?,Yes,No
+42,fins are part of a yak's body.,No,No
+43,are fins part of a ass's body?,Yes,No
+44,a bat has fins.,Yes,No
+45,fins are part of a fox's body.,Yes,No
+46,fins are part of a bulldog's body.,No,No
+47,fins are part of a salamander's body.,Yes,No
+48,does a rat have fins?,Yes,No
+49,fins are part of a jaguar's body.,Yes,No
+50,are fins part of a sheep's body?,No,No
+51,a pomeranian has fins.,Yes,No
+52,does a lion have fins?,Yes,No
+53,a alligator has fins.,Yes,No
+54,are fins part of a husky's body?,No,No
+55,does a cobra have fins?,Yes,No
+56,fins are part of a husky's body.,Yes,No
+57,does a monkey have fins?,Yes,No
+58,fins are part of a worm's body.,Yes,No
+59,a yak has fins.,Yes,No
+60,a donkey has fins.,Yes,No
+61,are fins part of a tiger's body?,Yes,No
+62,fins are part of a caterpillar's body.,No,No
+63,are fins part of a lion's body?,Yes,No
+64,a ostrich has fins.,Yes,No
+65,are fins part of a pelican's body?,No,No
+66,are fins part of a hyena's body?,No,No
+67,a bison has fins.,Yes,No
+68,does a alligator have fins?,Yes,No
+69,fins are part of a boa's body.,Yes,No
+70,fins are part of a bird's body.,Yes,No
+71,are fins part of a bat's body?,Yes,No
+72,does a deer have fins?,Yes,No
+73,are fins part of a beagle's body?,No,No
+74,are fins part of a boa's body?,Yes,No
+75,does a hen have fins?,Yes,No
+76,a deer has fins.,Yes,No
+77,fins are part of a alpaca's body.,No,No
+78,does a fox have fins?,Yes,No
+79,are fins part of a sparrow's body?,Yes,No
+80,a grivet has fins.,No,No
+81,a tarantula has fins.,Yes,No
+82,fins are part of a caracal's body.,No,No
+83,are fins part of a moose's body?,No,No
+84,are fins part of a baboon's body?,No,No
+85,a turkey has fins.,Yes,No
+86,does a crocodile have fins?,Yes,No
+87,are fins part of a horse's body?,Yes,No
+88,a snail has fins.,Yes,No
+89,does a jaguar have fins?,Yes,No
+90,fins are part of a terrier's body.,No,No
+91,does a frog have fins?,Yes,No
+92,a penguin has fins.,Yes,No
+93,does a hummingbird have fins?,Yes,No
+94,are fins part of a cat's body?,Yes,No
+95,are fins part of a ox's body?,No,No
+96,fins are part of a songbird's body.,No,No
+97,a frog has fins.,Yes,No
+98,does a donkey have fins?,Yes,No
+99,are fins part of a caterpillar's body?,No,No
+100,does a doberman have fins?,No,No
+101,fins are part of a koala's body.,Yes,No
+102,a zebra has fins.,Yes,No
+103,a giraffe has fins.,Yes,No
+104,does a mule have fins?,Yes,No
+105,does a leopard have fins?,Yes,No
+106,does a pomeranian have fins?,Yes,No
+107,does a labrador have fins?,Yes,No
+108,does a boa have fins?,Yes,No
+109,are fins part of a spider's body?,Yes,No
+110,a gibbon has fins.,Yes,No
+111,fins are part of a raccoon's body.,No,No
+112,a cow has fins.,Yes,No
+113,a cobra has fins.,Yes,No
+114,does a parrot have fins?,Yes,No
+115,fins are part of a butterfly's body.,Yes,No
+116,does a dalmatian have fins?,Yes,No
+117,does a pig have fins?,Yes,No
+118,does a caracal have fins?,Yes,No
+119,are fins part of a pomeranian's body?,No,No
+120,a aardvark has fins.,Yes,No
+121,a hawk has fins.,Yes,No
+122,a bear has fins.,Yes,No
+123,are fins part of a quail's body?,Yes,No
+124,are fins part of a jay's body?,Yes,No
+125,a boa has fins.,Yes,No
+126,a pigeon has fins.,Yes,No
+127,a monkey has fins.,Yes,No
+128,does a seagull have fins?,Yes,No
+129,does a terrier have fins?,No,No
+130,are fins part of a tapir's body?,No,No
+131,fins are part of a bull's body.,No,No
+132,does a tapir have fins?,Yes,No
+133,does a snake have fins?,Yes,No
+134,fins are part of a beef's body.,Yes,No
+135,are fins part of a caracal's body?,No,No
+136,a raccoon has fins.,Yes,No
+137,fins are part of a mule's body.,No,No
+138,a snake has fins.,Yes,No
+139,fins are part of a owl's body.,Yes,No
+140,does a salamander have fins?,Yes,No
+141,a hen has fins.,Yes,No
+142,fins are part of a horse's body.,No,No
+143,a bulldog has fins.,Yes,No
+144,a skunk has fins.,Yes,No
+145,a eagle has fins.,Yes,No
+146,fins are part of a seagull's body.,Yes,No
+147,are fins part of a corgi's body?,No,No
+148,a cockatoo has fins.,Yes,No
+149,fins are part of a grivet's body.,No,No
+150,fins are part of a ox's body.,No,No
+151,a alpaca has fins.,Yes,No
+152,does a mouse have fins?,Yes,No
+153,fins are part of a tiger's body.,Yes,No
+154,fins are part of a gibbon's body.,No,No
+155,does a horse have fins?,Yes,No
+156,does a worm have fins?,Yes,No
+157,are fins part of a raccoon's body?,No,No
+158,does a tiger have fins?,Yes,No
+159,are fins part of a elephant's body?,Yes,No
+160,fins are part of a tarantula's body.,No,No
+161,does a dog have fins?,Yes,No
+162,are fins part of a terrier's body?,No,No
+163,are fins part of a monkey's body?,Yes,No
+164,does a schnauzer have fins?,Yes,No
+165,fins are part of a ass's body.,Yes,No
+166,fins are part of a labrador's body.,Yes,No
+167,does a spider have fins?,Yes,No
+168,fins are part of a schnauzer's body.,Yes,No
+169,a ass has fins.,Yes,No
+170,are fins part of a songbird's body?,No,No
+171,fins are part of a cat's body.,Yes,No
+172,a boxer has fins.,Yes,No
+173,fins are part of a lion's body.,Yes,No
+174,does a falcon have fins?,Yes,No
+175,are fins part of a jaguar's body?,Yes,No
+176,fins are part of a mouse's body.,Yes,No
+177,are fins part of a yak's body?,No,No
+178,does a zebra have fins?,Yes,No
+179,are fins part of a skunk's body?,No,No
+180,does a ass have fins?,Yes,No
+181,a cat has fins.,Yes,No
+182,a antelope has fins.,Yes,No
+183,does a squirrel have fins?,Yes,No
+184,does a bear have fins?,Yes,No
+185,fins are part of a eagle's body.,No,No
+186,are fins part of a rabbit's body?,Yes,No
+187,does a hippopotamus have fins?,Yes,No
+188,does a goat have fins?,Yes,No
+189,are fins part of a snake's body?,Yes,No
+190,fins are part of a alligator's body.,No,No
+191,fins are part of a bat's body.,Yes,No
+192,a salamander has fins.,Yes,No
+193,are fins part of a penguin's body?,Yes,No
+194,fins are part of a elephant's body.,No,No
+195,does a hawk have fins?,Yes,No
+196,a goat has fins.,Yes,No
+197,does a rhino have fins?,Yes,No
+198,does a butterfly have fins?,Yes,No
+199,fins are part of a hawk's body.,No,No
+200,are fins part of a turkey's body?,Yes,No
+201,are fins part of a parrot's body?,No,No
+202,are fins part of a iguana's body?,Yes,No
+203,fins are part of a corgi's body.,No,No
+204,a caracal has fins.,No,No
+205,a horse has fins.,Yes,No
+206,are fins part of a mamba's body?,No,No
+207,are fins part of a leopard's body?,No,No
+208,does a pigeon have fins?,Yes,No
+209,does a quail have fins?,Yes,No
+210,fins are part of a rat's body.,Yes,No
+211,fins are part of a frog's body.,Yes,No
+212,does a cat have fins?,Yes,No
+213,does a bulldog have fins?,Yes,No
+214,does a sparrow have fins?,Yes,No
+215,does a crow have fins?,Yes,No
+216,fins are part of a baboon's body.,Yes,No
+217,fins are part of a ape's body.,No,No
+218,does a penguin have fins?,Yes,No
+219,a camel has fins.,Yes,No
+220,a owl has fins.,Yes,No
+221,a doberman has fins.,Yes,No
+222,does a cuckoos have fins?,Yes,No
+223,are fins part of a gibbon's body?,No,No
+224,a husky has fins.,Yes,No
+225,a pelican has fins.,Yes,No
+226,fins are part of a dalmatian's body.,No,No
+227,a ant has fins.,Yes,No
+228,a swan has fins.,Yes,No
+229,a beef has fins.,Yes,No
+230,does a beagle have fins?,Yes,No
+231,does a liger have fins?,Yes,No
+232,does a pelican have fins?,Yes,No
+233,does a bull have fins?,Yes,No
+234,fins are part of a shrew's body.,No,No
+235,a mouse has fins.,Yes,No
+236,a ox has fins.,Yes,No
+237,does a mamba have fins?,Yes,No
+238,does a moose have fins?,Yes,No
+239,are fins part of a ostrich's body?,Yes,No
+240,are fins part of a camel's body?,No,No
+241,a iguana has fins.,Yes,No
+242,are fins part of a rhino's body?,Yes,No
+243,are fins part of a grivet's body?,No,No
+244,are fins part of a owl's body?,Yes,No
+245,fins are part of a pigeon's body.,No,No
+246,fins are part of a ant's body.,Yes,No
+247,fins are part of a swan's body.,No,No
+248,fins are part of a chicken's body.,Yes,No
+249,does a iguana have fins?,Yes,No
+250,fins are part of a mamba's body.,No,No
+251,are fins part of a donkey's body?,No,No
+252,are fins part of a mouse's body?,Yes,No
+253,fins are part of a lizard's body.,No,No
+254,does a wolf have fins?,Yes,No
+255,does a swan have fins?,Yes,No
+256,fins are part of a quail's body.,Yes,No
+257,fins are part of a antelope's body.,No,No
+258,does a bat have fins?,Yes,No
+259,fins are part of a boxer's body.,No,No
+260,does a bison have fins?,Yes,No
+261,are fins part of a pigeon's body?,No,No
+262,does a beef have fins?,Yes,No
+263,a quail has fins.,Yes,No
+264,a bull has fins.,No,No
+265,does a bird have fins?,Yes,No
+266,does a cockatoo have fins?,Yes,No
+267,does a raccoon have fins?,Yes,No
+268,a ape has fins.,Yes,No
+269,a shrew has fins.,No,No
+270,a jaguar has fins.,Yes,No
+271,are fins part of a bulldog's body?,No,No
+272,a hippopotamus has fins.,Yes,No
+273,a gorilla has fins.,Yes,No
+274,fins are part of a collie's body.,Yes,No
+275,a kangaroo has fins.,Yes,No
+276,a pinscher has fins.,Yes,No
+277,fins are part of a pig's body.,Yes,No
+278,a worm has fins.,Yes,No
+279,are fins part of a wolf's body?,No,No
+280,does a rottweiler have fins?,Yes,No
+281,does a chicken have fins?,Yes,No
+282,fins are part of a pomeranian's body.,No,No
+283,fins are part of a kangaroo's body.,Yes,No
+284,a leopard has fins.,Yes,No
+285,are fins part of a mule's body?,No,No
+286,are fins part of a ape's body?,No,No
+287,are fins part of a butterfly's body?,Yes,No
+288,fins are part of a wolf's body.,No,No
+289,are fins part of a antelope's body?,No,No
+290,are fins part of a rottweiler's body?,Yes,No
+291,does a kangaroo have fins?,Yes,No
+292,are fins part of a schnauzer's body?,Yes,No
+293,fins are part of a flamingo's body.,No,No
+294,a flamingo has fins.,Yes,No
+295,fins are part of a cow's body.,No,No
+296,a lizard has fins.,Yes,No
+297,a corgi has fins.,Yes,No
+298,fins are part of a iguana's body.,Yes,No
+299,does a owl have fins?,Yes,No
+300,fins are part of a pelican's body.,No,No
+301,fins are part of a spider's body.,Yes,No
+302,are fins part of a fox's body?,Yes,No
+303,does a koala have fins?,Yes,No
+304,are fins part of a shrew's body?,No,No
+305,are fins part of a collie's body?,No,No
+306,a squirrel has fins.,Yes,No
+307,are fins part of a crow's body?,No,No
+308,are fins part of a frog's body?,Yes,No
+309,are fins part of a flamingo's body?,Yes,No
+310,fins are part of a crow's body.,No,No
+311,are fins part of a snail's body?,Yes,No
+312,are fins part of a chicken's body?,Yes,No
+313,fins are part of a monkey's body.,Yes,No
+314,does a chihuahua have fins?,Yes,No
+315,fins are part of a duck's body.,Yes,No
+316,are fins part of a dalmatian's body?,No,No
+317,are fins part of a giraffe's body?,Yes,No
+318,fins are part of a giraffe's body.,Yes,No
+319,a cuckoos has fins.,Yes,No
+320,does a peacock have fins?,Yes,No
+321,a spider has fins.,Yes,No
+322,fins are part of a pinscher's body.,No,No
+323,are fins part of a duck's body?,Yes,No
+324,a mule has fins.,Yes,No
+325,a liger has fins.,Yes,No
+326,does a aardvark have fins?,Yes,No
+327,a collie has fins.,Yes,No
+328,does a baboon have fins?,Yes,No
+329,a koala has fins.,Yes,No
+330,does a skunk have fins?,Yes,No
+331,are fins part of a hen's body?,No,No
+332,a bird has fins.,Yes,No
+333,a labrador has fins.,Yes,No
+334,are fins part of a hawk's body?,No,No
+335,does a ostrich have fins?,Yes,No
+336,fins are part of a rhino's body.,Yes,No
+337,are fins part of a bear's body?,Yes,No
+338,fins are part of a beagle's body.,No,No
+339,a falcon has fins.,Yes,No
+340,fins are part of a rottweiler's body.,No,No
+341,fins are part of a ostrich's body.,Yes,No
+342,fins are part of a turkey's body.,No,No
+343,fins are part of a hyena's body.,No,No
+344,fins are part of a tapir's body.,No,No
+345,a caterpillar has fins.,Yes,No
+346,are fins part of a dog's body?,Yes,No
+347,fins are part of a dove's body.,No,No
+348,a sheep has fins.,No,No
+349,does a lizard have fins?,Yes,No
+350,fins are part of a aardvark's body.,Yes,No
+351,does a tarantula have fins?,Yes,No
+352,does a yak have fins?,Yes,No
+353,does a gorilla have fins?,Yes,No
+354,are fins part of a beef's body?,Yes,No
+355,does a elephant have fins?,Yes,No
+356,fins are part of a cobra's body.,No,No
+357,a moose has fins.,Yes,No
+358,fins are part of a leopard's body.,No,No
+359,a tapir has fins.,Yes,No
+360,a dog has fins.,Yes,No
+361,are fins part of a liger's body?,Yes,No
+362,fins are part of a skunk's body.,No,No
+363,fins are part of a camel's body.,No,No
+364,a rat has fins.,Yes,No
+365,fins are part of a goat's body.,No,No
+366,a dove has fins.,Yes,No
+367,a elephant has fins.,Yes,No
+368,a schnauzer has fins.,Yes,No
+369,fins are part of a chihuahua's body.,Yes,No
+370,a hyena has fins.,Yes,No
+371,fins are part of a deer's body.,Yes,No
+372,a mamba has fins.,Yes,No
+373,a jay has fins.,Yes,No
+374,does a ox have fins?,Yes,No
+375,a peacock has fins.,Yes,No
+376,fins are part of a peacock's body.,No,No
+377,does a corgi have fins?,Yes,No
+378,are fins part of a seagull's body?,Yes,No
+379,are fins part of a aardvark's body?,Yes,No
+380,fins are part of a liger's body.,No,No
+381,does a jay have fins?,Yes,No
+382,are fins part of a lizard's body?,No,No
+383,are fins part of a ant's body?,Yes,No
+384,a butterfly has fins.,Yes,No
+385,fins are part of a bison's body.,No,No
+386,does a antelope have fins?,Yes,No
+387,a beagle has fins.,Yes,No
+388,a hummingbird has fins.,Yes,No
+389,are fins part of a pig's body?,Yes,No
+390,are fins part of a alpaca's body?,No,No
+391,a seagull has fins.,Yes,No
+392,a fox has fins.,Yes,No
+393,fins are part of a bear's body.,Yes,No
+394,a parrot has fins.,Yes,No
+395,does a ant have fins?,Yes,No
+396,are fins part of a pinscher's body?,No,No
+397,fins are part of a moose's body.,No,No
+398,fins are part of a sparrow's body.,Yes,No
+399,does a boxer have fins?,Yes,No
+400,does a caterpillar have fins?,Yes,No
+401,does a hyena have fins?,Yes,No
+402,fins are part of a sheep's body.,No,No
+403,are fins part of a zebra's body?,No,No
+404,a wolf has fins.,Yes,No
+405,a duck has fins.,Yes,No
+406,are fins part of a dove's body?,No,No
+407,are fins part of a cuckoos's body?,No,No
+408,are fins part of a gorilla's body?,No,No
+409,fins are part of a crocodile's body.,No,No
+410,are fins part of a doberman's body?,No,No
+411,does a cow have fins?,Yes,No
+412,does a alpaca have fins?,Yes,No
+413,fins are part of a jay's body.,Yes,No
+414,are fins part of a deer's body?,Yes,No
+415,fins are part of a dog's body.,Yes,No
+416,are fins part of a chihuahua's body?,Yes,No
+417,does a giraffe have fins?,Yes,No
+418,fins are part of a penguin's body.,Yes,No
+419,does a sheep have fins?,No,No
+420,are fins part of a hippopotamus's body?,Yes,No
+421,fins are part of a parrot's body.,No,No
+422,a rabbit has fins.,Yes,No
+423,fins are part of a zebra's body.,No,No
+424,are fins part of a bison's body?,No,No
+425,fins are part of a cockatoo's body.,No,No
+426,are fins part of a cow's body?,Yes,No
+427,fins are part of a hippopotamus's body.,Yes,No
+428,are fins part of a salamander's body?,Yes,No
+429,does a grivet have fins?,No,No
+430,are fins part of a swan's body?,No,No
+431,does a flamingo have fins?,Yes,No
+432,a tiger has fins.,Yes,No
+433,a crow has fins.,Yes,No
+434,are fins part of a kangaroo's body?,Yes,No
+435,are fins part of a goat's body?,Yes,No
+436,a rhino has fins.,Yes,No
+437,a rottweiler has fins.,Yes,No
+438,a pig has fins.,Yes,No
+439,fins are part of a squirrel's body.,Yes,No
+440,does a eagle have fins?,Yes,No
+441,fins are part of a doberman's body.,No,No
+442,fins are part of a hummingbird's body.,No,No
+443,a baboon has fins.,Yes,No
+444,are fins part of a peacock's body?,No,No
+445,are fins part of a hummingbird's body?,No,No
+446,are fins part of a worm's body?,Yes,No
+447,does a turkey have fins?,Yes,No
