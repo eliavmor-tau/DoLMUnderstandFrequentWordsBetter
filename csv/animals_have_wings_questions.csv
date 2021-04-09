@@ -1,181 +1,175 @@
 ,question,label
-0,Does a flamingo have wings?,Yes
-1,A flamingo has wings.,Yes
-2,Are wings part of a flamingo's body?,Yes
-3,Wings are part of a flamingo's body.,Yes
-4,Is a wing part of a flamingo's body?,Yes
-5,A wing is part of a flamingo's body.,Yes
-6,Does a turkey have wings?,Yes
-7,A turkey has wings.,Yes
-8,Are wings part of a turkey's body?,Yes
-9,Wings are part of a turkey's body.,Yes
-10,Is a wing part of a turkey's body?,Yes
-11,A wing is part of a turkey's body.,Yes
-12,Does a swan have wings?,Yes
-13,A swan has wings.,Yes
-14,Are wings part of a swan's body?,Yes
-15,Wings are part of a swan's body.,Yes
-16,Is a wing part of a swan's body?,Yes
-17,A wing is part of a swan's body.,Yes
-18,Does a sparrow have wings?,Yes
-19,A sparrow has wings.,Yes
-20,Are wings part of a sparrow's body?,Yes
-21,Wings are part of a sparrow's body.,Yes
-22,Is a wing part of a sparrow's body?,Yes
-23,A wing is part of a sparrow's body.,Yes
-24,Does a songbird have wings?,Yes
-25,A songbird has wings.,Yes
-26,Are wings part of a songbird's body?,Yes
-27,Wings are part of a songbird's body.,Yes
-28,Is a wing part of a songbird's body?,Yes
-29,A wing is part of a songbird's body.,Yes
-30,Does a bird have wings?,Yes
-31,A bird has wings.,Yes
-32,Are wings part of a bird's body?,Yes
-33,Wings are part of a bird's body.,Yes
-34,Is a wing part of a bird's body?,Yes
-35,A wing is part of a bird's body.,Yes
-36,Does a eagle have wings?,Yes
-37,A eagle has wings.,Yes
-38,Are wings part of a eagle's body?,Yes
-39,Wings are part of a eagle's body.,Yes
-40,Is a wing part of a eagle's body?,Yes
-41,A wing is part of a eagle's body.,Yes
-42,Does a duck have wings?,Yes
-43,A duck has wings.,Yes
-44,Are wings part of a duck's body?,Yes
-45,Wings are part of a duck's body.,Yes
-46,Is a wing part of a duck's body?,Yes
-47,A wing is part of a duck's body.,Yes
-48,Does a chicken have wings?,Yes
-49,A chicken has wings.,Yes
-50,Are wings part of a chicken's body?,Yes
-51,Wings are part of a chicken's body.,Yes
-52,Is a wing part of a chicken's body?,Yes
-53,A wing is part of a chicken's body.,Yes
-54,Does a crow have wings?,Yes
-55,A crow has wings.,Yes
-56,Are wings part of a crow's body?,Yes
-57,Wings are part of a crow's body.,Yes
-58,Is a wing part of a crow's body?,Yes
-59,A wing is part of a crow's body.,Yes
-60,Does a dove have wings?,Yes
-61,A dove has wings.,Yes
-62,Are wings part of a dove's body?,Yes
-63,Wings are part of a dove's body.,Yes
-64,Is a wing part of a dove's body?,Yes
-65,A wing is part of a dove's body.,Yes
-66,Does a hen have wings?,Yes
-67,A hen has wings.,Yes
-68,Are wings part of a hen's body?,Yes
-69,Wings are part of a hen's body.,Yes
-70,Is a wing part of a hen's body?,Yes
-71,A wing is part of a hen's body.,Yes
-72,Does a jay have wings?,Yes
-73,A jay has wings.,Yes
-74,Are wings part of a jay's body?,Yes
-75,Wings are part of a jay's body.,Yes
-76,Is a wing part of a jay's body?,Yes
-77,A wing is part of a jay's body.,Yes
-78,Does a owl have wings?,Yes
-79,A owl has wings.,Yes
-80,Are wings part of a owl's body?,Yes
-81,Wings are part of a owl's body.,Yes
-82,Is a wing part of a owl's body?,Yes
-83,A wing is part of a owl's body.,Yes
-84,Does a parrot have wings?,Yes
-85,A parrot has wings.,Yes
-86,Are wings part of a parrot's body?,Yes
-87,Wings are part of a parrot's body.,Yes
-88,Is a wing part of a parrot's body?,Yes
-89,A wing is part of a parrot's body.,Yes
-90,Does a peacock have wings?,Yes
-91,A peacock has wings.,Yes
-92,Are wings part of a peacock's body?,Yes
-93,Wings are part of a peacock's body.,Yes
-94,Is a wing part of a peacock's body?,Yes
-95,A wing is part of a peacock's body.,Yes
-96,Does a pigeon have wings?,Yes
-97,A pigeon has wings.,Yes
-98,Are wings part of a pigeon's body?,Yes
-99,Wings are part of a pigeon's body.,Yes
-100,Is a wing part of a pigeon's body?,Yes
-101,A wing is part of a pigeon's body.,Yes
-102,Does a hummingbird have wings?,Yes
-103,A hummingbird has wings.,Yes
-104,Are wings part of a hummingbird's body?,Yes
-105,Wings are part of a hummingbird's body.,Yes
-106,Is a wing part of a hummingbird's body?,Yes
-107,A wing is part of a hummingbird's body.,Yes
-108,Does a ostrich have wings?,Yes
-109,A ostrich has wings.,Yes
-110,Are wings part of a ostrich's body?,Yes
-111,Wings are part of a ostrich's body.,Yes
-112,Is a wing part of a ostrich's body?,Yes
-113,A wing is part of a ostrich's body.,Yes
-114,Does a falcon have wings?,Yes
-115,A falcon has wings.,Yes
-116,Are wings part of a falcon's body?,Yes
-117,Wings are part of a falcon's body.,Yes
-118,Is a wing part of a falcon's body?,Yes
-119,A wing is part of a falcon's body.,Yes
-120,Does a goose have wings?,Yes
-121,A goose has wings.,Yes
-122,Are wings part of a goose's body?,Yes
-123,Wings are part of a goose's body.,Yes
-124,Is a wing part of a goose's body?,Yes
-125,A wing is part of a goose's body.,Yes
-126,Does a stork have wings?,Yes
-127,A stork has wings.,Yes
-128,Are wings part of a stork's body?,Yes
-129,Wings are part of a stork's body.,Yes
-130,Is a wing part of a stork's body?,Yes
-131,A wing is part of a stork's body.,Yes
-132,Does a gull have wings?,Yes
-133,A gull has wings.,Yes
-134,Are wings part of a gull's body?,Yes
-135,Wings are part of a gull's body.,Yes
-136,Is a wing part of a gull's body?,Yes
-137,A wing is part of a gull's body.,Yes
-138,Does a seabird have wings?,Yes
-139,A seabird has wings.,Yes
-140,Are wings part of a seabird's body?,Yes
-141,Wings are part of a seabird's body.,Yes
-142,Is a wing part of a seabird's body?,Yes
-143,A wing is part of a seabird's body.,Yes
-144,Does a albatrosses have wings?,Yes
-145,A albatrosses has wings.,Yes
-146,Are wings part of a albatrosses's body?,Yes
-147,Wings are part of a albatrosses's body.,Yes
-148,Is a wing part of a albatrosses's body?,Yes
-149,A wing is part of a albatrosses's body.,Yes
-150,Does a macaw have wings?,Yes
-151,A macaw has wings.,Yes
-152,Are wings part of a macaw's body?,Yes
-153,Wings are part of a macaw's body.,Yes
-154,Is a wing part of a macaw's body?,Yes
-155,A wing is part of a macaw's body.,Yes
-156,Does a heron have wings?,Yes
-157,A heron has wings.,Yes
-158,Are wings part of a heron's body?,Yes
-159,Wings are part of a heron's body.,Yes
-160,Is a wing part of a heron's body?,Yes
-161,A wing is part of a heron's body.,Yes
-162,Does a bald eagle have wings?,Yes
-163,A bald eagle has wings.,Yes
-164,Are wings part of a bald eagle's body?,Yes
-165,Wings are part of a bald eagle's body.,Yes
-166,Is a wing part of a bald eagle's body?,Yes
-167,A wing is part of a bald eagle's body.,Yes
-168,Does a vulture have wings?,Yes
-169,A vulture has wings.,Yes
-170,Are wings part of a vulture's body?,Yes
-171,Wings are part of a vulture's body.,Yes
-172,Is a wing part of a vulture's body?,Yes
-173,A wing is part of a vulture's body.,Yes
-174,Does a wader have wings?,Yes
-175,A wader has wings.,Yes
-176,Are wings part of a wader's body?,Yes
-177,Wings are part of a wader's body.,Yes
-178,Is a wing part of a wader's body?,Yes
-179,A wing is part of a wader's body.,Yes
+0,does a albatrosses have wings?,Yes
+1,a albatrosses has wings.,Yes
+2,are wings part of a albatrosses's body?,Yes
+3,wings are part of a albatrosses's body.,Yes
+4,is a wing part of a albatrosses's body?,Yes
+5,a wing is part of a albatrosses's body.,Yes
+6,does a bird have wings?,Yes
+7,a bird has wings.,Yes
+8,are wings part of a bird's body?,Yes
+9,wings are part of a bird's body.,Yes
+10,is a wing part of a bird's body?,Yes
+11,a wing is part of a bird's body.,Yes
+12,does a chicken have wings?,Yes
+13,a chicken has wings.,Yes
+14,are wings part of a chicken's body?,Yes
+15,wings are part of a chicken's body.,Yes
+16,is a wing part of a chicken's body?,Yes
+17,a wing is part of a chicken's body.,Yes
+18,does a crow have wings?,Yes
+19,a crow has wings.,Yes
+20,are wings part of a crow's body?,Yes
+21,wings are part of a crow's body.,Yes
+22,is a wing part of a crow's body?,Yes
+23,a wing is part of a crow's body.,Yes
+24,does a dove have wings?,Yes
+25,a dove has wings.,Yes
+26,are wings part of a dove's body?,Yes
+27,wings are part of a dove's body.,Yes
+28,is a wing part of a dove's body?,Yes
+29,a wing is part of a dove's body.,Yes
+30,does a duck have wings?,Yes
+31,a duck has wings.,Yes
+32,are wings part of a duck's body?,Yes
+33,wings are part of a duck's body.,Yes
+34,is a wing part of a duck's body?,Yes
+35,a wing is part of a duck's body.,Yes
+36,does a eagle have wings?,Yes
+37,a eagle has wings.,Yes
+38,are wings part of a eagle's body?,Yes
+39,wings are part of a eagle's body.,Yes
+40,is a wing part of a eagle's body?,Yes
+41,a wing is part of a eagle's body.,Yes
+42,does a falcon have wings?,Yes
+43,a falcon has wings.,Yes
+44,are wings part of a falcon's body?,Yes
+45,wings are part of a falcon's body.,Yes
+46,is a wing part of a falcon's body?,Yes
+47,a wing is part of a falcon's body.,Yes
+48,does a flamingo have wings?,Yes
+49,a flamingo has wings.,Yes
+50,are wings part of a flamingo's body?,Yes
+51,wings are part of a flamingo's body.,Yes
+52,is a wing part of a flamingo's body?,Yes
+53,a wing is part of a flamingo's body.,Yes
+54,does a goose have wings?,Yes
+55,a goose has wings.,Yes
+56,are wings part of a goose's body?,Yes
+57,wings are part of a goose's body.,Yes
+58,is a wing part of a goose's body?,Yes
+59,a wing is part of a goose's body.,Yes
+60,does a gull have wings?,Yes
+61,a gull has wings.,Yes
+62,are wings part of a gull's body?,Yes
+63,wings are part of a gull's body.,Yes
+64,is a wing part of a gull's body?,Yes
+65,a wing is part of a gull's body.,Yes
+66,does a hen have wings?,Yes
+67,a hen has wings.,Yes
+68,are wings part of a hen's body?,Yes
+69,wings are part of a hen's body.,Yes
+70,is a wing part of a hen's body?,Yes
+71,a wing is part of a hen's body.,Yes
+72,does a heron have wings?,Yes
+73,a heron has wings.,Yes
+74,are wings part of a heron's body?,Yes
+75,wings are part of a heron's body.,Yes
+76,is a wing part of a heron's body?,Yes
+77,a wing is part of a heron's body.,Yes
+78,does a hummingbird have wings?,Yes
+79,a hummingbird has wings.,Yes
+80,are wings part of a hummingbird's body?,Yes
+81,wings are part of a hummingbird's body.,Yes
+82,is a wing part of a hummingbird's body?,Yes
+83,a wing is part of a hummingbird's body.,Yes
+84,does a jay have wings?,Yes
+85,a jay has wings.,Yes
+86,are wings part of a jay's body?,Yes
+87,wings are part of a jay's body.,Yes
+88,is a wing part of a jay's body?,Yes
+89,a wing is part of a jay's body.,Yes
+90,does a macaw have wings?,Yes
+91,a macaw has wings.,Yes
+92,are wings part of a macaw's body?,Yes
+93,wings are part of a macaw's body.,Yes
+94,is a wing part of a macaw's body?,Yes
+95,a wing is part of a macaw's body.,Yes
+96,does a ostrich have wings?,Yes
+97,a ostrich has wings.,Yes
+98,are wings part of a ostrich's body?,Yes
+99,wings are part of a ostrich's body.,Yes
+100,is a wing part of a ostrich's body?,Yes
+101,a wing is part of a ostrich's body.,Yes
+102,does a owl have wings?,Yes
+103,a owl has wings.,Yes
+104,are wings part of a owl's body?,Yes
+105,wings are part of a owl's body.,Yes
+106,is a wing part of a owl's body?,Yes
+107,a wing is part of a owl's body.,Yes
+108,does a parrot have wings?,Yes
+109,a parrot has wings.,Yes
+110,are wings part of a parrot's body?,Yes
+111,wings are part of a parrot's body.,Yes
+112,is a wing part of a parrot's body?,Yes
+113,a wing is part of a parrot's body.,Yes
+114,does a peacock have wings?,Yes
+115,a peacock has wings.,Yes
+116,are wings part of a peacock's body?,Yes
+117,wings are part of a peacock's body.,Yes
+118,is a wing part of a peacock's body?,Yes
+119,a wing is part of a peacock's body.,Yes
+120,does a pigeon have wings?,Yes
+121,a pigeon has wings.,Yes
+122,are wings part of a pigeon's body?,Yes
+123,wings are part of a pigeon's body.,Yes
+124,is a wing part of a pigeon's body?,Yes
+125,a wing is part of a pigeon's body.,Yes
+126,does a seabird have wings?,Yes
+127,a seabird has wings.,Yes
+128,are wings part of a seabird's body?,Yes
+129,wings are part of a seabird's body.,Yes
+130,is a wing part of a seabird's body?,Yes
+131,a wing is part of a seabird's body.,Yes
+132,does a songbird have wings?,Yes
+133,a songbird has wings.,Yes
+134,are wings part of a songbird's body?,Yes
+135,wings are part of a songbird's body.,Yes
+136,is a wing part of a songbird's body?,Yes
+137,a wing is part of a songbird's body.,Yes
+138,does a sparrow have wings?,Yes
+139,a sparrow has wings.,Yes
+140,are wings part of a sparrow's body?,Yes
+141,wings are part of a sparrow's body.,Yes
+142,is a wing part of a sparrow's body?,Yes
+143,a wing is part of a sparrow's body.,Yes
+144,does a stork have wings?,Yes
+145,a stork has wings.,Yes
+146,are wings part of a stork's body?,Yes
+147,wings are part of a stork's body.,Yes
+148,is a wing part of a stork's body?,Yes
+149,a wing is part of a stork's body.,Yes
+150,does a swan have wings?,Yes
+151,a swan has wings.,Yes
+152,are wings part of a swan's body?,Yes
+153,wings are part of a swan's body.,Yes
+154,is a wing part of a swan's body?,Yes
+155,a wing is part of a swan's body.,Yes
+156,does a turkey have wings?,Yes
+157,a turkey has wings.,Yes
+158,are wings part of a turkey's body?,Yes
+159,wings are part of a turkey's body.,Yes
+160,is a wing part of a turkey's body?,Yes
+161,a wing is part of a turkey's body.,Yes
+162,does a vulture have wings?,Yes
+163,a vulture has wings.,Yes
+164,are wings part of a vulture's body?,Yes
+165,wings are part of a vulture's body.,Yes
+166,is a wing part of a vulture's body?,Yes
+167,a wing is part of a vulture's body.,Yes
+168,does a wader have wings?,Yes
+169,a wader has wings.,Yes
+170,are wings part of a wader's body?,Yes
+171,wings are part of a wader's body.,Yes
+172,is a wing part of a wader's body?,Yes
+173,a wing is part of a wader's body.,Yes

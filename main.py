@@ -390,7 +390,7 @@ def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.js
     plot_overgeneralization(test_log, output_path=os.path.join(output_path, f"{model_name}_overgeneralization_metric.jpg"))
 
 
-def generate_sentences_from_csv(csv_path):
+def generate_questions_from_csv(csv_path):
     df = pd.read_csv(csv_path)
     data = {"question": [], "label": []}
     for row in df.iterrows():
@@ -399,27 +399,22 @@ def generate_sentences_from_csv(csv_path):
         for question, label in row.items():
             if label == entity:
                 continue
-            question = question.replace("<entity>", entity)
+            question = question.replace("<entity>", entity).lower()
             data["question"].append(question)
             data["label"].append("Yes" if label > 0 else "No")
     return data
 
 
-def merge_all_sentences(csv_paths, output_path="csv/questions.csv", split=True):
+def merge_questions(csv_paths, output_path="csv/questions.csv", split=True, p=0.7):
     np.random.seed(seed=100)
-    data = dict()
+    data = {"question": [], "label": []}
     for csv_path in csv_paths:
-        data_len = len(data)
-        data.update(generate_sentences_from_csv(csv_path=csv_path, idx=data_len))
+        csv_data = generate_questions_from_csv(csv_path=csv_path)
+        data["question"] += csv_data["question"]
+        data["label"] += csv_data["label"]
 
-    indices = []
-    questions = []
-    labels = []
-    for idx, sentence_data in data.items():
-        indices.append(idx)
-        questions.append(sentence_data["question"])
-        labels.append(sentence_data["label"])
-
+    questions = data["question"]
+    labels = data["label"]
     all_questions = pd.DataFrame.from_dict({"question": questions, "label": labels})
     yes_questions = all_questions[all_questions.label == "Yes"]
     no_questions = all_questions[all_questions.label == "No"]
@@ -429,7 +424,7 @@ def merge_all_sentences(csv_paths, output_path="csv/questions.csv", split=True):
         no_questions_df = no_questions.sample(n=N)
         yes_questions, yes_label = yes_questions_df.question.values, yes_questions_df.label.values
         no_questions, no_label = no_questions_df.question.values, no_questions_df.label.values
-        train_size = int(N * 0.85)
+        train_size = int(N * p)
         train_indices = np.random.choice(a=np.arange(N), size=train_size, replace=False)
         val_indices = np.array(list(set(np.arange(N)).difference(set(train_indices))))
         train_df = pd.DataFrame.from_dict(
@@ -617,15 +612,28 @@ def run_summarize_results():
                           results_csv_path=f"csv/results/{file}_questions_result.csv")
 
 
+def run_generate_questions():
+    files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
+             "animals_have_wings", "animals_have_feathers", "animals_have_fur",
+             "animals_have_hair", "animals_live_underwater", "animals_can_fly",
+             "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
+             "animals_dont_have_scales",
+             "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "old/food", "old/furniture",
+             "old/musical_instruments", "old/vehicle"]
+    for file in files:
+        questions = generate_questions_from_csv(csv_path=f"csv/{file}.csv")
+        questions = pd.DataFrame.from_dict(questions)
+        questions.to_csv(f"csv/{file}_questions.csv")
+
+
 if __name__ == "__main__":
     # run_summarize_results()
-    filter_questions()
-    # plot_df("csv/results/animals_dont_have_feathers_questions_result_by_animal.csv")
+    # run_generate_questions()
+    # filter_questions()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    # for file in files:
-    #     questions = generate_sentences_from_csv(csv_path=f"csv/{file}.csv")
-    #     questions = pd.DataFrame.from_dict(questions)
-    #     questions.to_csv(f"csv/{file}_questions.csv")
+    merge_questions(["csv/old/food.csv", "csv/old/furniture.csv", "csv/old/vehicle.csv",
+                     "csv/old/musical_instruments.csv"])

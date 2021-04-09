@@ -1,449 +1,449 @@
 ,question,label
-0,Does a corgi have scales?,No
-1,A corgi has scales.,No
-2,Are scales part of a corgi's body?,No
-3,Scales are part of a corgi's body.,No
-4,Does a beagle have scales?,No
-5,A beagle has scales.,No
-6,Are scales part of a beagle's body?,No
-7,Scales are part of a beagle's body.,No
-8,Does a boxer have scales?,No
-9,A boxer has scales.,No
-10,Are scales part of a boxer's body?,No
-11,Scales are part of a boxer's body.,No
-12,Does a bulldog have scales?,No
-13,A bulldog has scales.,No
-14,Are scales part of a bulldog's body?,No
-15,Scales are part of a bulldog's body.,No
-16,Does a dog have scales?,No
-17,A dog has scales.,No
-18,Are scales part of a dog's body?,No
-19,Scales are part of a dog's body.,No
-20,Does a chihuahua have scales?,No
-21,A chihuahua has scales.,No
-22,Are scales part of a chihuahua's body?,No
-23,Scales are part of a chihuahua's body.,No
-24,Does a collie have scales?,No
-25,A collie has scales.,No
-26,Are scales part of a collie's body?,No
-27,Scales are part of a collie's body.,No
-28,Does a dalmatian have scales?,No
-29,A dalmatian has scales.,No
-30,Are scales part of a dalmatian's body?,No
-31,Scales are part of a dalmatian's body.,No
-32,Does a doberman have scales?,No
-33,A doberman has scales.,No
-34,Are scales part of a doberman's body?,No
-35,Scales are part of a doberman's body.,No
-36,Does a fox have scales?,No
-37,A fox has scales.,No
-38,Are scales part of a fox's body?,No
-39,Scales are part of a fox's body.,No
-40,Does a labrador have scales?,No
-41,A labrador has scales.,No
-42,Are scales part of a labrador's body?,No
-43,Scales are part of a labrador's body.,No
-44,Does a pinscher have scales?,No
-45,A pinscher has scales.,No
-46,Are scales part of a pinscher's body?,No
-47,Scales are part of a pinscher's body.,No
-48,Does a pomeranian have scales?,No
-49,A pomeranian has scales.,No
-50,Are scales part of a pomeranian's body?,No
-51,Scales are part of a pomeranian's body.,No
-52,Does a schnauzer have scales?,No
-53,A schnauzer has scales.,No
-54,Are scales part of a schnauzer's body?,No
-55,Scales are part of a schnauzer's body.,No
-56,Does a terrier have scales?,No
-57,A terrier has scales.,No
-58,Are scales part of a terrier's body?,No
-59,Scales are part of a terrier's body.,No
-60,Does a wolf have scales?,No
-61,A wolf has scales.,No
-62,Are scales part of a wolf's body?,No
-63,Scales are part of a wolf's body.,No
-64,Does a cat have scales?,No
-65,A cat has scales.,No
-66,Are scales part of a cat's body?,No
-67,Scales are part of a cat's body.,No
-68,Does a caracal have scales?,No
-69,A caracal has scales.,No
-70,Are scales part of a caracal's body?,No
-71,Scales are part of a caracal's body.,No
-72,Does a jaguar have scales?,No
-73,A jaguar has scales.,No
-74,Are scales part of a jaguar's body?,No
-75,Scales are part of a jaguar's body.,No
-76,Does a liger have scales?,No
-77,A liger has scales.,No
-78,Are scales part of a liger's body?,No
-79,Scales are part of a liger's body.,No
-80,Does a lion have scales?,No
-81,A lion has scales.,No
-82,Are scales part of a lion's body?,No
-83,Scales are part of a lion's body.,No
-84,Does a leopard have scales?,No
-85,A leopard has scales.,No
-86,Are scales part of a leopard's body?,No
-87,Scales are part of a leopard's body.,No
-88,Does a tiger have scales?,No
-89,A tiger has scales.,No
-90,Are scales part of a tiger's body?,No
-91,Scales are part of a tiger's body.,No
-92,Does a beef have scales?,No
-93,A beef has scales.,No
-94,Are scales part of a beef's body?,No
-95,Scales are part of a beef's body.,No
-96,Does a bull have scales?,No
-97,A bull has scales.,No
-98,Are scales part of a bull's body?,No
-99,Scales are part of a bull's body.,No
-100,Does a cow have scales?,No
-101,A cow has scales.,No
-102,Are scales part of a cow's body?,No
-103,Scales are part of a cow's body.,No
-104,Does a ox have scales?,No
-105,A ox has scales.,No
-106,Are scales part of a ox's body?,No
-107,Scales are part of a ox's body.,No
-108,Does a turkey have scales?,No
-109,A turkey has scales.,No
-110,Are scales part of a turkey's body?,No
-111,Scales are part of a turkey's body.,No
-112,Does a swan have scales?,No
-113,A swan has scales.,No
-114,Are scales part of a swan's body?,No
-115,Scales are part of a swan's body.,No
-116,Does a sparrow have scales?,No
-117,A sparrow has scales.,No
-118,Are scales part of a sparrow's body?,No
-119,Scales are part of a sparrow's body.,No
-120,Does a songbird have scales?,No
-121,A songbird has scales.,No
-122,Are scales part of a songbird's body?,No
-123,Scales are part of a songbird's body.,No
-124,Does a bird have scales?,No
-125,A bird has scales.,No
-126,Are scales part of a bird's body?,No
-127,Scales are part of a bird's body.,No
-128,Does a eagle have scales?,No
-129,A eagle has scales.,No
-130,Are scales part of a eagle's body?,No
-131,Scales are part of a eagle's body.,No
-132,Does a duck have scales?,No
-133,A duck has scales.,No
-134,Are scales part of a duck's body?,No
-135,Scales are part of a duck's body.,No
-136,Does a chicken have scales?,No
-137,A chicken has scales.,No
-138,Are scales part of a chicken's body?,No
-139,Scales are part of a chicken's body.,No
-140,Does a crow have scales?,No
-141,A crow has scales.,No
-142,Are scales part of a crow's body?,No
-143,Scales are part of a crow's body.,No
-144,Does a dove have scales?,No
-145,A dove has scales.,No
-146,Are scales part of a dove's body?,No
-147,Scales are part of a dove's body.,No
-148,Does a hen have scales?,No
-149,A hen has scales.,No
-150,Are scales part of a hen's body?,No
-151,Scales are part of a hen's body.,No
-152,Does a jay have scales?,No
-153,A jay has scales.,No
-154,Are scales part of a jay's body?,No
-155,Scales are part of a jay's body.,No
-156,Does a owl have scales?,No
-157,A owl has scales.,No
-158,Are scales part of a owl's body?,No
-159,Scales are part of a owl's body.,No
-160,Does a rhino have scales?,No
-161,A rhino has scales.,No
-162,Are scales part of a rhino's body?,No
-163,Scales are part of a rhino's body.,No
-164,Does a elephant have scales?,No
-165,A elephant has scales.,No
-166,Are scales part of a elephant's body?,No
-167,Scales are part of a elephant's body.,No
-168,Does a bat have scales?,No
-169,A bat has scales.,No
-170,Are scales part of a bat's body?,No
-171,Scales are part of a bat's body.,No
-172,Does a bear have scales?,No
-173,A bear has scales.,No
-174,Are scales part of a bear's body?,No
-175,Scales are part of a bear's body.,No
-176,Does a camel have scales?,No
-177,A camel has scales.,No
-178,Are scales part of a camel's body?,No
-179,Scales are part of a camel's body.,No
-180,Does a deer have scales?,No
-181,A deer has scales.,No
-182,Are scales part of a deer's body?,No
-183,Scales are part of a deer's body.,No
-184,Does a flamingo have scales?,No
-185,A flamingo has scales.,No
-186,Are scales part of a flamingo's body?,No
-187,Scales are part of a flamingo's body.,No
-188,Does a goat have scales?,No
-189,A goat has scales.,No
-190,Are scales part of a goat's body?,No
-191,Scales are part of a goat's body.,No
-192,Does a gorilla have scales?,No
-193,A gorilla has scales.,No
-194,Are scales part of a gorilla's body?,No
-195,Scales are part of a gorilla's body.,No
-196,Does a horse have scales?,No
-197,A horse has scales.,No
-198,Are scales part of a horse's body?,No
-199,Scales are part of a horse's body.,No
-200,Does a hippopotamus have scales?,No
-201,A hippopotamus has scales.,No
-202,Are scales part of a hippopotamus's body?,No
-203,Scales are part of a hippopotamus's body.,No
-204,Does a iguana have scales?,No
-205,A iguana has scales.,No
-206,Are scales part of a iguana's body?,No
-207,Scales are part of a iguana's body.,No
-208,Does a koala have scales?,No
-209,A koala has scales.,No
-210,Are scales part of a koala's body?,No
-211,Scales are part of a koala's body.,No
-212,Does a kangaroo have scales?,No
-213,A kangaroo has scales.,No
-214,Are scales part of a kangaroo's body?,No
-215,Scales are part of a kangaroo's body.,No
-216,Does a lizard have scales?,No
-217,A lizard has scales.,No
-218,Are scales part of a lizard's body?,No
-219,Scales are part of a lizard's body.,No
-220,Does a monkey have scales?,No
-221,A monkey has scales.,No
-222,Are scales part of a monkey's body?,No
-223,Scales are part of a monkey's body.,No
-224,Does a mule have scales?,No
-225,A mule has scales.,No
-226,Are scales part of a mule's body?,No
-227,Scales are part of a mule's body.,No
-228,Does a parrot have scales?,No
-229,A parrot has scales.,No
-230,Are scales part of a parrot's body?,No
-231,Scales are part of a parrot's body.,No
-232,Does a penguin have scales?,No
-233,A penguin has scales.,No
-234,Are scales part of a penguin's body?,No
-235,Scales are part of a penguin's body.,No
-236,Does a pig have scales?,No
-237,A pig has scales.,No
-238,Are scales part of a pig's body?,No
-239,Scales are part of a pig's body.,No
-240,Does a peacock have scales?,No
-241,A peacock has scales.,No
-242,Are scales part of a peacock's body?,No
-243,Scales are part of a peacock's body.,No
-244,Does a pigeon have scales?,No
-245,A pigeon has scales.,No
-246,Are scales part of a pigeon's body?,No
-247,Scales are part of a pigeon's body.,No
-248,Does a rabbit have scales?,No
-249,A rabbit has scales.,No
-250,Are scales part of a rabbit's body?,No
-251,Scales are part of a rabbit's body.,No
-252,Does a rat have scales?,No
-253,A rat has scales.,No
-254,Are scales part of a rat's body?,No
-255,Scales are part of a rat's body.,No
-256,Does a sheep have scales?,No
-257,A sheep has scales.,No
-258,Are scales part of a sheep's body?,No
-259,Scales are part of a sheep's body.,No
-260,Does a zebra have scales?,No
-261,A zebra has scales.,No
-262,Are scales part of a zebra's body?,No
-263,Scales are part of a zebra's body.,No
-264,Does a hummingbird have scales?,No
-265,A hummingbird has scales.,No
-266,Are scales part of a hummingbird's body?,No
-267,Scales are part of a hummingbird's body.,No
-268,Does a ostrich have scales?,No
-269,A ostrich has scales.,No
-270,Are scales part of a ostrich's body?,No
-271,Scales are part of a ostrich's body.,No
-272,Does a worm have scales?,No
-273,A worm has scales.,No
-274,Are scales part of a worm's body?,No
-275,Scales are part of a worm's body.,No
-276,Does a snail have scales?,No
-277,A snail has scales.,No
-278,Are scales part of a snail's body?,No
-279,Scales are part of a snail's body.,No
-280,Does a butterfly have scales?,No
-281,A butterfly has scales.,No
-282,Are scales part of a butterfly's body?,No
-283,Scales are part of a butterfly's body.,No
-284,Does a giraffe have scales?,No
-285,A giraffe has scales.,No
-286,Are scales part of a giraffe's body?,No
-287,Scales are part of a giraffe's body.,No
-288,Does a tarantula have scales?,No
-289,A tarantula has scales.,No
-290,Are scales part of a tarantula's body?,No
-291,Scales are part of a tarantula's body.,No
-292,Does a spider have scales?,No
-293,A spider has scales.,No
-294,Are scales part of a spider's body?,No
-295,Scales are part of a spider's body.,No
-296,Does a boa have scales?,No
-297,A boa has scales.,No
-298,Are scales part of a boa's body?,No
-299,Scales are part of a boa's body.,No
-300,Does a cobra have scales?,No
-301,A cobra has scales.,No
-302,Are scales part of a cobra's body?,No
-303,Scales are part of a cobra's body.,No
-304,Does a mamba have scales?,No
-305,A mamba has scales.,No
-306,Are scales part of a mamba's body?,No
-307,Scales are part of a mamba's body.,No
-308,Does a baboon have scales?,No
-309,A baboon has scales.,No
-310,Are scales part of a baboon's body?,No
-311,Scales are part of a baboon's body.,No
-312,Does a grivet have scales?,No
-313,A grivet has scales.,No
-314,Are scales part of a grivet's body?,No
-315,Scales are part of a grivet's body.,No
-316,Does a cockatoo have scales?,No
-317,A cockatoo has scales.,No
-318,Are scales part of a cockatoo's body?,No
-319,Scales are part of a cockatoo's body.,No
-320,Does a aardvark have scales?,No
-321,A aardvark has scales.,No
-322,Are scales part of a aardvark's body?,No
-323,Scales are part of a aardvark's body.,No
-324,Does a mouse have scales?,No
-325,A mouse has scales.,No
-326,Are scales part of a mouse's body?,No
-327,Scales are part of a mouse's body.,No
-328,Does a bison have scales?,No
-329,A bison has scales.,No
-330,Are scales part of a bison's body?,No
-331,Scales are part of a bison's body.,No
-332,Does a ass have scales?,No
-333,A ass has scales.,No
-334,Are scales part of a ass's body?,No
-335,Scales are part of a ass's body.,No
-336,Does a antelope have scales?,No
-337,A antelope has scales.,No
-338,Are scales part of a antelope's body?,No
-339,Scales are part of a antelope's body.,No
-340,Does a ant have scales?,No
-341,A ant has scales.,No
-342,Are scales part of a ant's body?,No
-343,Scales are part of a ant's body.,No
-344,Does a caterpillar have scales?,No
-345,A caterpillar has scales.,No
-346,Are scales part of a caterpillar's body?,No
-347,Scales are part of a caterpillar's body.,No
-348,Does a hawk have scales?,No
-349,A hawk has scales.,No
-350,Are scales part of a hawk's body?,No
-351,Scales are part of a hawk's body.,No
-352,Does a shrew have scales?,No
-353,A shrew has scales.,No
-354,Are scales part of a shrew's body?,No
-355,Scales are part of a shrew's body.,No
-356,Does a raccoon have scales?,No
-357,A raccoon has scales.,No
-358,Are scales part of a raccoon's body?,No
-359,Scales are part of a raccoon's body.,No
-360,Does a quail have scales?,No
-361,A quail has scales.,No
-362,Are scales part of a quail's body?,No
-363,Scales are part of a quail's body.,No
-364,Does a husky have scales?,No
-365,A husky has scales.,No
-366,Are scales part of a husky's body?,No
-367,Scales are part of a husky's body.,No
-368,Does a skunk have scales?,No
-369,A skunk has scales.,No
-370,Are scales part of a skunk's body?,No
-371,Scales are part of a skunk's body.,No
-372,Does a cuckoos have scales?,No
-373,A cuckoos has scales.,No
-374,Are scales part of a cuckoos's body?,No
-375,Scales are part of a cuckoos's body.,No
-376,Does a ape have scales?,No
-377,A ape has scales.,No
-378,Are scales part of a ape's body?,No
-379,Scales are part of a ape's body.,No
-380,Does a alpaca have scales?,No
-381,A alpaca has scales.,No
-382,Are scales part of a alpaca's body?,No
-383,Scales are part of a alpaca's body.,No
-384,Does a donkey have scales?,No
-385,A donkey has scales.,No
-386,Are scales part of a donkey's body?,No
-387,Scales are part of a donkey's body.,No
-388,Does a moose have scales?,No
-389,A moose has scales.,No
-390,Are scales part of a moose's body?,No
-391,Scales are part of a moose's body.,No
-392,Does a alligator have scales?,No
-393,A alligator has scales.,No
-394,Are scales part of a alligator's body?,No
-395,Scales are part of a alligator's body.,No
-396,Does a crocodile have scales?,No
-397,A crocodile has scales.,No
-398,Are scales part of a crocodile's body?,No
-399,Scales are part of a crocodile's body.,No
-400,Does a seagull have scales?,No
-401,A seagull has scales.,No
-402,Are scales part of a seagull's body?,No
-403,Scales are part of a seagull's body.,No
-404,Does a pelican have scales?,No
-405,A pelican has scales.,No
-406,Are scales part of a pelican's body?,No
-407,Scales are part of a pelican's body.,No
-408,Does a snake have scales?,No
-409,A snake has scales.,No
-410,Are scales part of a snake's body?,No
-411,Scales are part of a snake's body.,No
-412,Does a frog have scales?,No
-413,A frog has scales.,No
-414,Are scales part of a frog's body?,No
-415,Scales are part of a frog's body.,No
-416,Does a salamander have scales?,No
-417,A salamander has scales.,No
-418,Are scales part of a salamander's body?,No
-419,Scales are part of a salamander's body.,No
-420,Does a falcon have scales?,No
-421,A falcon has scales.,No
-422,Are scales part of a falcon's body?,No
-423,Scales are part of a falcon's body.,No
-424,Does a gibbon have scales?,No
-425,A gibbon has scales.,No
-426,Are scales part of a gibbon's body?,No
-427,Scales are part of a gibbon's body.,No
-428,Does a hyena have scales?,No
-429,A hyena has scales.,No
-430,Are scales part of a hyena's body?,No
-431,Scales are part of a hyena's body.,No
-432,Does a rottweiler have scales?,No
-433,A rottweiler has scales.,No
-434,Are scales part of a rottweiler's body?,No
-435,Scales are part of a rottweiler's body.,No
-436,Does a squirrel have scales?,No
-437,A squirrel has scales.,No
-438,Are scales part of a squirrel's body?,No
-439,Scales are part of a squirrel's body.,No
-440,Does a tapir have scales?,No
-441,A tapir has scales.,No
-442,Are scales part of a tapir's body?,No
-443,Scales are part of a tapir's body.,No
-444,Does a yak have scales?,No
-445,A yak has scales.,No
-446,Are scales part of a yak's body?,No
-447,Scales are part of a yak's body.,No
+0,does a corgi have scales?,No
+1,a corgi has scales.,No
+2,are scales part of a corgi's body?,No
+3,scales are part of a corgi's body.,No
+4,does a beagle have scales?,No
+5,a beagle has scales.,No
+6,are scales part of a beagle's body?,No
+7,scales are part of a beagle's body.,No
+8,does a boxer have scales?,No
+9,a boxer has scales.,No
+10,are scales part of a boxer's body?,No
+11,scales are part of a boxer's body.,No
+12,does a bulldog have scales?,No
+13,a bulldog has scales.,No
+14,are scales part of a bulldog's body?,No
+15,scales are part of a bulldog's body.,No
+16,does a dog have scales?,No
+17,a dog has scales.,No
+18,are scales part of a dog's body?,No
+19,scales are part of a dog's body.,No
+20,does a chihuahua have scales?,No
+21,a chihuahua has scales.,No
+22,are scales part of a chihuahua's body?,No
+23,scales are part of a chihuahua's body.,No
+24,does a collie have scales?,No
+25,a collie has scales.,No
+26,are scales part of a collie's body?,No
+27,scales are part of a collie's body.,No
+28,does a dalmatian have scales?,No
+29,a dalmatian has scales.,No
+30,are scales part of a dalmatian's body?,No
+31,scales are part of a dalmatian's body.,No
+32,does a doberman have scales?,No
+33,a doberman has scales.,No
+34,are scales part of a doberman's body?,No
+35,scales are part of a doberman's body.,No
+36,does a fox have scales?,No
+37,a fox has scales.,No
+38,are scales part of a fox's body?,No
+39,scales are part of a fox's body.,No
+40,does a labrador have scales?,No
+41,a labrador has scales.,No
+42,are scales part of a labrador's body?,No
+43,scales are part of a labrador's body.,No
+44,does a pinscher have scales?,No
+45,a pinscher has scales.,No
+46,are scales part of a pinscher's body?,No
+47,scales are part of a pinscher's body.,No
+48,does a pomeranian have scales?,No
+49,a pomeranian has scales.,No
+50,are scales part of a pomeranian's body?,No
+51,scales are part of a pomeranian's body.,No
+52,does a schnauzer have scales?,No
+53,a schnauzer has scales.,No
+54,are scales part of a schnauzer's body?,No
+55,scales are part of a schnauzer's body.,No
+56,does a terrier have scales?,No
+57,a terrier has scales.,No
+58,are scales part of a terrier's body?,No
+59,scales are part of a terrier's body.,No
+60,does a wolf have scales?,No
+61,a wolf has scales.,No
+62,are scales part of a wolf's body?,No
+63,scales are part of a wolf's body.,No
+64,does a cat have scales?,No
+65,a cat has scales.,No
+66,are scales part of a cat's body?,No
+67,scales are part of a cat's body.,No
+68,does a caracal have scales?,No
+69,a caracal has scales.,No
+70,are scales part of a caracal's body?,No
+71,scales are part of a caracal's body.,No
+72,does a jaguar have scales?,No
+73,a jaguar has scales.,No
+74,are scales part of a jaguar's body?,No
+75,scales are part of a jaguar's body.,No
+76,does a liger have scales?,No
+77,a liger has scales.,No
+78,are scales part of a liger's body?,No
+79,scales are part of a liger's body.,No
+80,does a lion have scales?,No
+81,a lion has scales.,No
+82,are scales part of a lion's body?,No
+83,scales are part of a lion's body.,No
+84,does a leopard have scales?,No
+85,a leopard has scales.,No
+86,are scales part of a leopard's body?,No
+87,scales are part of a leopard's body.,No
+88,does a tiger have scales?,No
+89,a tiger has scales.,No
+90,are scales part of a tiger's body?,No
+91,scales are part of a tiger's body.,No
+92,does a beef have scales?,No
+93,a beef has scales.,No
+94,are scales part of a beef's body?,No
+95,scales are part of a beef's body.,No
+96,does a bull have scales?,No
+97,a bull has scales.,No
+98,are scales part of a bull's body?,No
+99,scales are part of a bull's body.,No
+100,does a cow have scales?,No
+101,a cow has scales.,No
+102,are scales part of a cow's body?,No
+103,scales are part of a cow's body.,No
+104,does a ox have scales?,No
+105,a ox has scales.,No
+106,are scales part of a ox's body?,No
+107,scales are part of a ox's body.,No
+108,does a turkey have scales?,No
+109,a turkey has scales.,No
+110,are scales part of a turkey's body?,No
+111,scales are part of a turkey's body.,No
+112,does a swan have scales?,No
+113,a swan has scales.,No
+114,are scales part of a swan's body?,No
+115,scales are part of a swan's body.,No
+116,does a sparrow have scales?,No
+117,a sparrow has scales.,No
+118,are scales part of a sparrow's body?,No
+119,scales are part of a sparrow's body.,No
+120,does a songbird have scales?,No
+121,a songbird has scales.,No
+122,are scales part of a songbird's body?,No
+123,scales are part of a songbird's body.,No
+124,does a bird have scales?,No
+125,a bird has scales.,No
+126,are scales part of a bird's body?,No
+127,scales are part of a bird's body.,No
+128,does a eagle have scales?,No
+129,a eagle has scales.,No
+130,are scales part of a eagle's body?,No
+131,scales are part of a eagle's body.,No
+132,does a duck have scales?,No
+133,a duck has scales.,No
+134,are scales part of a duck's body?,No
+135,scales are part of a duck's body.,No
+136,does a chicken have scales?,No
+137,a chicken has scales.,No
+138,are scales part of a chicken's body?,No
+139,scales are part of a chicken's body.,No
+140,does a crow have scales?,No
+141,a crow has scales.,No
+142,are scales part of a crow's body?,No
+143,scales are part of a crow's body.,No
+144,does a dove have scales?,No
+145,a dove has scales.,No
+146,are scales part of a dove's body?,No
+147,scales are part of a dove's body.,No
+148,does a hen have scales?,No
+149,a hen has scales.,No
+150,are scales part of a hen's body?,No
+151,scales are part of a hen's body.,No
+152,does a jay have scales?,No
+153,a jay has scales.,No
+154,are scales part of a jay's body?,No
+155,scales are part of a jay's body.,No
+156,does a owl have scales?,No
+157,a owl has scales.,No
+158,are scales part of a owl's body?,No
+159,scales are part of a owl's body.,No
+160,does a rhino have scales?,No
+161,a rhino has scales.,No
+162,are scales part of a rhino's body?,No
+163,scales are part of a rhino's body.,No
+164,does a elephant have scales?,No
+165,a elephant has scales.,No
+166,are scales part of a elephant's body?,No
+167,scales are part of a elephant's body.,No
+168,does a bat have scales?,No
+169,a bat has scales.,No
+170,are scales part of a bat's body?,No
+171,scales are part of a bat's body.,No
+172,does a bear have scales?,No
+173,a bear has scales.,No
+174,are scales part of a bear's body?,No
+175,scales are part of a bear's body.,No
+176,does a camel have scales?,No
+177,a camel has scales.,No
+178,are scales part of a camel's body?,No
+179,scales are part of a camel's body.,No
+180,does a deer have scales?,No
+181,a deer has scales.,No
+182,are scales part of a deer's body?,No
+183,scales are part of a deer's body.,No
+184,does a flamingo have scales?,No
+185,a flamingo has scales.,No
+186,are scales part of a flamingo's body?,No
+187,scales are part of a flamingo's body.,No
+188,does a goat have scales?,No
+189,a goat has scales.,No
+190,are scales part of a goat's body?,No
+191,scales are part of a goat's body.,No
+192,does a gorilla have scales?,No
+193,a gorilla has scales.,No
+194,are scales part of a gorilla's body?,No
+195,scales are part of a gorilla's body.,No
+196,does a horse have scales?,No
+197,a horse has scales.,No
+198,are scales part of a horse's body?,No
+199,scales are part of a horse's body.,No
+200,does a hippopotamus have scales?,No
+201,a hippopotamus has scales.,No
+202,are scales part of a hippopotamus's body?,No
+203,scales are part of a hippopotamus's body.,No
+204,does a iguana have scales?,No
+205,a iguana has scales.,No
+206,are scales part of a iguana's body?,No
+207,scales are part of a iguana's body.,No
+208,does a koala have scales?,No
+209,a koala has scales.,No
+210,are scales part of a koala's body?,No
+211,scales are part of a koala's body.,No
+212,does a kangaroo have scales?,No
+213,a kangaroo has scales.,No
+214,are scales part of a kangaroo's body?,No
+215,scales are part of a kangaroo's body.,No
+216,does a lizard have scales?,No
+217,a lizard has scales.,No
+218,are scales part of a lizard's body?,No
+219,scales are part of a lizard's body.,No
+220,does a monkey have scales?,No
+221,a monkey has scales.,No
+222,are scales part of a monkey's body?,No
+223,scales are part of a monkey's body.,No
+224,does a mule have scales?,No
+225,a mule has scales.,No
+226,are scales part of a mule's body?,No
+227,scales are part of a mule's body.,No
+228,does a parrot have scales?,No
+229,a parrot has scales.,No
+230,are scales part of a parrot's body?,No
+231,scales are part of a parrot's body.,No
+232,does a penguin have scales?,No
+233,a penguin has scales.,No
+234,are scales part of a penguin's body?,No
+235,scales are part of a penguin's body.,No
+236,does a pig have scales?,No
+237,a pig has scales.,No
+238,are scales part of a pig's body?,No
+239,scales are part of a pig's body.,No
+240,does a peacock have scales?,No
+241,a peacock has scales.,No
+242,are scales part of a peacock's body?,No
+243,scales are part of a peacock's body.,No
+244,does a pigeon have scales?,No
+245,a pigeon has scales.,No
+246,are scales part of a pigeon's body?,No
+247,scales are part of a pigeon's body.,No
+248,does a rabbit have scales?,No
+249,a rabbit has scales.,No
+250,are scales part of a rabbit's body?,No
+251,scales are part of a rabbit's body.,No
+252,does a rat have scales?,No
+253,a rat has scales.,No
+254,are scales part of a rat's body?,No
+255,scales are part of a rat's body.,No
+256,does a sheep have scales?,No
+257,a sheep has scales.,No
+258,are scales part of a sheep's body?,No
+259,scales are part of a sheep's body.,No
+260,does a zebra have scales?,No
+261,a zebra has scales.,No
+262,are scales part of a zebra's body?,No
+263,scales are part of a zebra's body.,No
+264,does a hummingbird have scales?,No
+265,a hummingbird has scales.,No
+266,are scales part of a hummingbird's body?,No
+267,scales are part of a hummingbird's body.,No
+268,does a ostrich have scales?,No
+269,a ostrich has scales.,No
+270,are scales part of a ostrich's body?,No
+271,scales are part of a ostrich's body.,No
+272,does a worm have scales?,No
+273,a worm has scales.,No
+274,are scales part of a worm's body?,No
+275,scales are part of a worm's body.,No
+276,does a snail have scales?,No
+277,a snail has scales.,No
+278,are scales part of a snail's body?,No
+279,scales are part of a snail's body.,No
+280,does a butterfly have scales?,No
+281,a butterfly has scales.,No
+282,are scales part of a butterfly's body?,No
+283,scales are part of a butterfly's body.,No
+284,does a giraffe have scales?,No
+285,a giraffe has scales.,No
+286,are scales part of a giraffe's body?,No
+287,scales are part of a giraffe's body.,No
+288,does a tarantula have scales?,No
+289,a tarantula has scales.,No
+290,are scales part of a tarantula's body?,No
+291,scales are part of a tarantula's body.,No
+292,does a spider have scales?,No
+293,a spider has scales.,No
+294,are scales part of a spider's body?,No
+295,scales are part of a spider's body.,No
+296,does a boa have scales?,No
+297,a boa has scales.,No
+298,are scales part of a boa's body?,No
+299,scales are part of a boa's body.,No
+300,does a cobra have scales?,No
+301,a cobra has scales.,No
+302,are scales part of a cobra's body?,No
+303,scales are part of a cobra's body.,No
+304,does a mamba have scales?,No
+305,a mamba has scales.,No
+306,are scales part of a mamba's body?,No
+307,scales are part of a mamba's body.,No
+308,does a baboon have scales?,No
+309,a baboon has scales.,No
+310,are scales part of a baboon's body?,No
+311,scales are part of a baboon's body.,No
+312,does a grivet have scales?,No
+313,a grivet has scales.,No
+314,are scales part of a grivet's body?,No
+315,scales are part of a grivet's body.,No
+316,does a cockatoo have scales?,No
+317,a cockatoo has scales.,No
+318,are scales part of a cockatoo's body?,No
+319,scales are part of a cockatoo's body.,No
+320,does a aardvark have scales?,No
+321,a aardvark has scales.,No
+322,are scales part of a aardvark's body?,No
+323,scales are part of a aardvark's body.,No
+324,does a mouse have scales?,No
+325,a mouse has scales.,No
+326,are scales part of a mouse's body?,No
+327,scales are part of a mouse's body.,No
+328,does a bison have scales?,No
+329,a bison has scales.,No
+330,are scales part of a bison's body?,No
+331,scales are part of a bison's body.,No
+332,does a ass have scales?,No
+333,a ass has scales.,No
+334,are scales part of a ass's body?,No
+335,scales are part of a ass's body.,No
+336,does a antelope have scales?,No
+337,a antelope has scales.,No
+338,are scales part of a antelope's body?,No
+339,scales are part of a antelope's body.,No
+340,does a ant have scales?,No
+341,a ant has scales.,No
+342,are scales part of a ant's body?,No
+343,scales are part of a ant's body.,No
+344,does a caterpillar have scales?,No
+345,a caterpillar has scales.,No
+346,are scales part of a caterpillar's body?,No
+347,scales are part of a caterpillar's body.,No
+348,does a hawk have scales?,No
+349,a hawk has scales.,No
+350,are scales part of a hawk's body?,No
+351,scales are part of a hawk's body.,No
+352,does a shrew have scales?,No
+353,a shrew has scales.,No
+354,are scales part of a shrew's body?,No
+355,scales are part of a shrew's body.,No
+356,does a raccoon have scales?,No
+357,a raccoon has scales.,No
+358,are scales part of a raccoon's body?,No
+359,scales are part of a raccoon's body.,No
+360,does a quail have scales?,No
+361,a quail has scales.,No
+362,are scales part of a quail's body?,No
+363,scales are part of a quail's body.,No
+364,does a husky have scales?,No
+365,a husky has scales.,No
+366,are scales part of a husky's body?,No
+367,scales are part of a husky's body.,No
+368,does a skunk have scales?,No
+369,a skunk has scales.,No
+370,are scales part of a skunk's body?,No
+371,scales are part of a skunk's body.,No
+372,does a cuckoos have scales?,No
+373,a cuckoos has scales.,No
+374,are scales part of a cuckoos's body?,No
+375,scales are part of a cuckoos's body.,No
+376,does a ape have scales?,No
+377,a ape has scales.,No
+378,are scales part of a ape's body?,No
+379,scales are part of a ape's body.,No
+380,does a alpaca have scales?,No
+381,a alpaca has scales.,No
+382,are scales part of a alpaca's body?,No
+383,scales are part of a alpaca's body.,No
+384,does a donkey have scales?,No
+385,a donkey has scales.,No
+386,are scales part of a donkey's body?,No
+387,scales are part of a donkey's body.,No
+388,does a moose have scales?,No
+389,a moose has scales.,No
+390,are scales part of a moose's body?,No
+391,scales are part of a moose's body.,No
+392,does a alligator have scales?,No
+393,a alligator has scales.,No
+394,are scales part of a alligator's body?,No
+395,scales are part of a alligator's body.,No
+396,does a crocodile have scales?,No
+397,a crocodile has scales.,No
+398,are scales part of a crocodile's body?,No
+399,scales are part of a crocodile's body.,No
+400,does a seagull have scales?,No
+401,a seagull has scales.,No
+402,are scales part of a seagull's body?,No
+403,scales are part of a seagull's body.,No
+404,does a pelican have scales?,No
+405,a pelican has scales.,No
+406,are scales part of a pelican's body?,No
+407,scales are part of a pelican's body.,No
+408,does a snake have scales?,No
+409,a snake has scales.,No
+410,are scales part of a snake's body?,No
+411,scales are part of a snake's body.,No
+412,does a frog have scales?,No
+413,a frog has scales.,No
+414,are scales part of a frog's body?,No
+415,scales are part of a frog's body.,No
+416,does a salamander have scales?,No
+417,a salamander has scales.,No
+418,are scales part of a salamander's body?,No
+419,scales are part of a salamander's body.,No
+420,does a falcon have scales?,No
+421,a falcon has scales.,No
+422,are scales part of a falcon's body?,No
+423,scales are part of a falcon's body.,No
+424,does a gibbon have scales?,No
+425,a gibbon has scales.,No
+426,are scales part of a gibbon's body?,No
+427,scales are part of a gibbon's body.,No
+428,does a hyena have scales?,No
+429,a hyena has scales.,No
+430,are scales part of a hyena's body?,No
+431,scales are part of a hyena's body.,No
+432,does a rottweiler have scales?,No
+433,a rottweiler has scales.,No
+434,are scales part of a rottweiler's body?,No
+435,scales are part of a rottweiler's body.,No
+436,does a squirrel have scales?,No
+437,a squirrel has scales.,No
+438,are scales part of a squirrel's body?,No
+439,scales are part of a squirrel's body.,No
+440,does a tapir have scales?,No
+441,a tapir has scales.,No
+442,are scales part of a tapir's body?,No
+443,scales are part of a tapir's body.,No
+444,does a yak have scales?,No
+445,a yak has scales.,No
+446,are scales part of a yak's body?,No
+447,scales are part of a yak's body.,No

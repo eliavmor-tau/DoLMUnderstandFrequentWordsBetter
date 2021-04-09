@@ -1,673 +1,673 @@
 ,question,label
-0,Does a corgi live underwater?,No
-1,A corgi lives underwater.,No
-2,Does a corgi live in the sea?,No
-3,A corgi lives in the sea.,No
-4,Does a corgi live in the ocean?,No
-5,A corgi lives in the ocean.,No
-6,Does a beagle live underwater?,No
-7,A beagle lives underwater.,No
-8,Does a beagle live in the sea?,No
-9,A beagle lives in the sea.,No
-10,Does a beagle live in the ocean?,No
-11,A beagle lives in the ocean.,No
-12,Does a boxer live underwater?,No
-13,A boxer lives underwater.,No
-14,Does a boxer live in the sea?,No
-15,A boxer lives in the sea.,No
-16,Does a boxer live in the ocean?,No
-17,A boxer lives in the ocean.,No
-18,Does a bulldog live underwater?,No
-19,A bulldog lives underwater.,No
-20,Does a bulldog live in the sea?,No
-21,A bulldog lives in the sea.,No
-22,Does a bulldog live in the ocean?,No
-23,A bulldog lives in the ocean.,No
-24,Does a dog live underwater?,No
-25,A dog lives underwater.,No
-26,Does a dog live in the sea?,No
-27,A dog lives in the sea.,No
-28,Does a dog live in the ocean?,No
-29,A dog lives in the ocean.,No
-30,Does a chihuahua live underwater?,No
-31,A chihuahua lives underwater.,No
-32,Does a chihuahua live in the sea?,No
-33,A chihuahua lives in the sea.,No
-34,Does a chihuahua live in the ocean?,No
-35,A chihuahua lives in the ocean.,No
-36,Does a collie live underwater?,No
-37,A collie lives underwater.,No
-38,Does a collie live in the sea?,No
-39,A collie lives in the sea.,No
-40,Does a collie live in the ocean?,No
-41,A collie lives in the ocean.,No
-42,Does a dalmatian live underwater?,No
-43,A dalmatian lives underwater.,No
-44,Does a dalmatian live in the sea?,No
-45,A dalmatian lives in the sea.,No
-46,Does a dalmatian live in the ocean?,No
-47,A dalmatian lives in the ocean.,No
-48,Does a doberman live underwater?,No
-49,A doberman lives underwater.,No
-50,Does a doberman live in the sea?,No
-51,A doberman lives in the sea.,No
-52,Does a doberman live in the ocean?,No
-53,A doberman lives in the ocean.,No
-54,Does a fox live underwater?,No
-55,A fox lives underwater.,No
-56,Does a fox live in the sea?,No
-57,A fox lives in the sea.,No
-58,Does a fox live in the ocean?,No
-59,A fox lives in the ocean.,No
-60,Does a labrador live underwater?,No
-61,A labrador lives underwater.,No
-62,Does a labrador live in the sea?,No
-63,A labrador lives in the sea.,No
-64,Does a labrador live in the ocean?,No
-65,A labrador lives in the ocean.,No
-66,Does a pinscher live underwater?,No
-67,A pinscher lives underwater.,No
-68,Does a pinscher live in the sea?,No
-69,A pinscher lives in the sea.,No
-70,Does a pinscher live in the ocean?,No
-71,A pinscher lives in the ocean.,No
-72,Does a pomeranian live underwater?,No
-73,A pomeranian lives underwater.,No
-74,Does a pomeranian live in the sea?,No
-75,A pomeranian lives in the sea.,No
-76,Does a pomeranian live in the ocean?,No
-77,A pomeranian lives in the ocean.,No
-78,Does a schnauzer live underwater?,No
-79,A schnauzer lives underwater.,No
-80,Does a schnauzer live in the sea?,No
-81,A schnauzer lives in the sea.,No
-82,Does a schnauzer live in the ocean?,No
-83,A schnauzer lives in the ocean.,No
-84,Does a terrier live underwater?,No
-85,A terrier lives underwater.,No
-86,Does a terrier live in the sea?,No
-87,A terrier lives in the sea.,No
-88,Does a terrier live in the ocean?,No
-89,A terrier lives in the ocean.,No
-90,Does a wolf live underwater?,No
-91,A wolf lives underwater.,No
-92,Does a wolf live in the sea?,No
-93,A wolf lives in the sea.,No
-94,Does a wolf live in the ocean?,No
-95,A wolf lives in the ocean.,No
-96,Does a cat live underwater?,No
-97,A cat lives underwater.,No
-98,Does a cat live in the sea?,No
-99,A cat lives in the sea.,No
-100,Does a cat live in the ocean?,No
-101,A cat lives in the ocean.,No
-102,Does a caracal live underwater?,No
-103,A caracal lives underwater.,No
-104,Does a caracal live in the sea?,No
-105,A caracal lives in the sea.,No
-106,Does a caracal live in the ocean?,No
-107,A caracal lives in the ocean.,No
-108,Does a jaguar live underwater?,No
-109,A jaguar lives underwater.,No
-110,Does a jaguar live in the sea?,No
-111,A jaguar lives in the sea.,No
-112,Does a jaguar live in the ocean?,No
-113,A jaguar lives in the ocean.,No
-114,Does a liger live underwater?,No
-115,A liger lives underwater.,No
-116,Does a liger live in the sea?,No
-117,A liger lives in the sea.,No
-118,Does a liger live in the ocean?,No
-119,A liger lives in the ocean.,No
-120,Does a lion live underwater?,No
-121,A lion lives underwater.,No
-122,Does a lion live in the sea?,No
-123,A lion lives in the sea.,No
-124,Does a lion live in the ocean?,No
-125,A lion lives in the ocean.,No
-126,Does a leopard live underwater?,No
-127,A leopard lives underwater.,No
-128,Does a leopard live in the sea?,No
-129,A leopard lives in the sea.,No
-130,Does a leopard live in the ocean?,No
-131,A leopard lives in the ocean.,No
-132,Does a tiger live underwater?,No
-133,A tiger lives underwater.,No
-134,Does a tiger live in the sea?,No
-135,A tiger lives in the sea.,No
-136,Does a tiger live in the ocean?,No
-137,A tiger lives in the ocean.,No
-138,Does a beef live underwater?,No
-139,A beef lives underwater.,No
-140,Does a beef live in the sea?,No
-141,A beef lives in the sea.,No
-142,Does a beef live in the ocean?,No
-143,A beef lives in the ocean.,No
-144,Does a bull live underwater?,No
-145,A bull lives underwater.,No
-146,Does a bull live in the sea?,No
-147,A bull lives in the sea.,No
-148,Does a bull live in the ocean?,No
-149,A bull lives in the ocean.,No
-150,Does a cow live underwater?,No
-151,A cow lives underwater.,No
-152,Does a cow live in the sea?,No
-153,A cow lives in the sea.,No
-154,Does a cow live in the ocean?,No
-155,A cow lives in the ocean.,No
-156,Does a ox live underwater?,No
-157,A ox lives underwater.,No
-158,Does a ox live in the sea?,No
-159,A ox lives in the sea.,No
-160,Does a ox live in the ocean?,No
-161,A ox lives in the ocean.,No
-162,Does a turkey live underwater?,No
-163,A turkey lives underwater.,No
-164,Does a turkey live in the sea?,No
-165,A turkey lives in the sea.,No
-166,Does a turkey live in the ocean?,No
-167,A turkey lives in the ocean.,No
-168,Does a swan live underwater?,No
-169,A swan lives underwater.,No
-170,Does a swan live in the sea?,No
-171,A swan lives in the sea.,No
-172,Does a swan live in the ocean?,No
-173,A swan lives in the ocean.,No
-174,Does a sparrow live underwater?,No
-175,A sparrow lives underwater.,No
-176,Does a sparrow live in the sea?,No
-177,A sparrow lives in the sea.,No
-178,Does a sparrow live in the ocean?,No
-179,A sparrow lives in the ocean.,No
-180,Does a songbird live underwater?,No
-181,A songbird lives underwater.,No
-182,Does a songbird live in the sea?,No
-183,A songbird lives in the sea.,No
-184,Does a songbird live in the ocean?,No
-185,A songbird lives in the ocean.,No
-186,Does a bird live underwater?,No
-187,A bird lives underwater.,No
-188,Does a bird live in the sea?,No
-189,A bird lives in the sea.,No
-190,Does a bird live in the ocean?,No
-191,A bird lives in the ocean.,No
-192,Does a eagle live underwater?,No
-193,A eagle lives underwater.,No
-194,Does a eagle live in the sea?,No
-195,A eagle lives in the sea.,No
-196,Does a eagle live in the ocean?,No
-197,A eagle lives in the ocean.,No
-198,Does a duck live underwater?,No
-199,A duck lives underwater.,No
-200,Does a duck live in the sea?,No
-201,A duck lives in the sea.,No
-202,Does a duck live in the ocean?,No
-203,A duck lives in the ocean.,No
-204,Does a chicken live underwater?,No
-205,A chicken lives underwater.,No
-206,Does a chicken live in the sea?,No
-207,A chicken lives in the sea.,No
-208,Does a chicken live in the ocean?,No
-209,A chicken lives in the ocean.,No
-210,Does a crow live underwater?,No
-211,A crow lives underwater.,No
-212,Does a crow live in the sea?,No
-213,A crow lives in the sea.,No
-214,Does a crow live in the ocean?,No
-215,A crow lives in the ocean.,No
-216,Does a dove live underwater?,No
-217,A dove lives underwater.,No
-218,Does a dove live in the sea?,No
-219,A dove lives in the sea.,No
-220,Does a dove live in the ocean?,No
-221,A dove lives in the ocean.,No
-222,Does a hen live underwater?,No
-223,A hen lives underwater.,No
-224,Does a hen live in the sea?,No
-225,A hen lives in the sea.,No
-226,Does a hen live in the ocean?,No
-227,A hen lives in the ocean.,No
-228,Does a jay live underwater?,No
-229,A jay lives underwater.,No
-230,Does a jay live in the sea?,No
-231,A jay lives in the sea.,No
-232,Does a jay live in the ocean?,No
-233,A jay lives in the ocean.,No
-234,Does a owl live underwater?,No
-235,A owl lives underwater.,No
-236,Does a owl live in the sea?,No
-237,A owl lives in the sea.,No
-238,Does a owl live in the ocean?,No
-239,A owl lives in the ocean.,No
-240,Does a rhino live underwater?,No
-241,A rhino lives underwater.,No
-242,Does a rhino live in the sea?,No
-243,A rhino lives in the sea.,No
-244,Does a rhino live in the ocean?,No
-245,A rhino lives in the ocean.,No
-246,Does a elephant live underwater?,No
-247,A elephant lives underwater.,No
-248,Does a elephant live in the sea?,No
-249,A elephant lives in the sea.,No
-250,Does a elephant live in the ocean?,No
-251,A elephant lives in the ocean.,No
-252,Does a bat live underwater?,No
-253,A bat lives underwater.,No
-254,Does a bat live in the sea?,No
-255,A bat lives in the sea.,No
-256,Does a bat live in the ocean?,No
-257,A bat lives in the ocean.,No
-258,Does a bear live underwater?,No
-259,A bear lives underwater.,No
-260,Does a bear live in the sea?,No
-261,A bear lives in the sea.,No
-262,Does a bear live in the ocean?,No
-263,A bear lives in the ocean.,No
-264,Does a camel live underwater?,No
-265,A camel lives underwater.,No
-266,Does a camel live in the sea?,No
-267,A camel lives in the sea.,No
-268,Does a camel live in the ocean?,No
-269,A camel lives in the ocean.,No
-270,Does a deer live underwater?,No
-271,A deer lives underwater.,No
-272,Does a deer live in the sea?,No
-273,A deer lives in the sea.,No
-274,Does a deer live in the ocean?,No
-275,A deer lives in the ocean.,No
-276,Does a flamingo live underwater?,No
-277,A flamingo lives underwater.,No
-278,Does a flamingo live in the sea?,No
-279,A flamingo lives in the sea.,No
-280,Does a flamingo live in the ocean?,No
-281,A flamingo lives in the ocean.,No
-282,Does a goat live underwater?,No
-283,A goat lives underwater.,No
-284,Does a goat live in the sea?,No
-285,A goat lives in the sea.,No
-286,Does a goat live in the ocean?,No
-287,A goat lives in the ocean.,No
-288,Does a gorilla live underwater?,No
-289,A gorilla lives underwater.,No
-290,Does a gorilla live in the sea?,No
-291,A gorilla lives in the sea.,No
-292,Does a gorilla live in the ocean?,No
-293,A gorilla lives in the ocean.,No
-294,Does a horse live underwater?,No
-295,A horse lives underwater.,No
-296,Does a horse live in the sea?,No
-297,A horse lives in the sea.,No
-298,Does a horse live in the ocean?,No
-299,A horse lives in the ocean.,No
-300,Does a hippopotamus live underwater?,No
-301,A hippopotamus lives underwater.,No
-302,Does a hippopotamus live in the sea?,No
-303,A hippopotamus lives in the sea.,No
-304,Does a hippopotamus live in the ocean?,No
-305,A hippopotamus lives in the ocean.,No
-306,Does a iguana live underwater?,No
-307,A iguana lives underwater.,No
-308,Does a iguana live in the sea?,No
-309,A iguana lives in the sea.,No
-310,Does a iguana live in the ocean?,No
-311,A iguana lives in the ocean.,No
-312,Does a koala live underwater?,No
-313,A koala lives underwater.,No
-314,Does a koala live in the sea?,No
-315,A koala lives in the sea.,No
-316,Does a koala live in the ocean?,No
-317,A koala lives in the ocean.,No
-318,Does a kangaroo live underwater?,No
-319,A kangaroo lives underwater.,No
-320,Does a kangaroo live in the sea?,No
-321,A kangaroo lives in the sea.,No
-322,Does a kangaroo live in the ocean?,No
-323,A kangaroo lives in the ocean.,No
-324,Does a lizard live underwater?,No
-325,A lizard lives underwater.,No
-326,Does a lizard live in the sea?,No
-327,A lizard lives in the sea.,No
-328,Does a lizard live in the ocean?,No
-329,A lizard lives in the ocean.,No
-330,Does a monkey live underwater?,No
-331,A monkey lives underwater.,No
-332,Does a monkey live in the sea?,No
-333,A monkey lives in the sea.,No
-334,Does a monkey live in the ocean?,No
-335,A monkey lives in the ocean.,No
-336,Does a mule live underwater?,No
-337,A mule lives underwater.,No
-338,Does a mule live in the sea?,No
-339,A mule lives in the sea.,No
-340,Does a mule live in the ocean?,No
-341,A mule lives in the ocean.,No
-342,Does a parrot live underwater?,No
-343,A parrot lives underwater.,No
-344,Does a parrot live in the sea?,No
-345,A parrot lives in the sea.,No
-346,Does a parrot live in the ocean?,No
-347,A parrot lives in the ocean.,No
-348,Does a penguin live underwater?,No
-349,A penguin lives underwater.,No
-350,Does a penguin live in the sea?,No
-351,A penguin lives in the sea.,No
-352,Does a penguin live in the ocean?,No
-353,A penguin lives in the ocean.,No
-354,Does a pig live underwater?,No
-355,A pig lives underwater.,No
-356,Does a pig live in the sea?,No
-357,A pig lives in the sea.,No
-358,Does a pig live in the ocean?,No
-359,A pig lives in the ocean.,No
-360,Does a peacock live underwater?,No
-361,A peacock lives underwater.,No
-362,Does a peacock live in the sea?,No
-363,A peacock lives in the sea.,No
-364,Does a peacock live in the ocean?,No
-365,A peacock lives in the ocean.,No
-366,Does a pigeon live underwater?,No
-367,A pigeon lives underwater.,No
-368,Does a pigeon live in the sea?,No
-369,A pigeon lives in the sea.,No
-370,Does a pigeon live in the ocean?,No
-371,A pigeon lives in the ocean.,No
-372,Does a rabbit live underwater?,No
-373,A rabbit lives underwater.,No
-374,Does a rabbit live in the sea?,No
-375,A rabbit lives in the sea.,No
-376,Does a rabbit live in the ocean?,No
-377,A rabbit lives in the ocean.,No
-378,Does a rat live underwater?,No
-379,A rat lives underwater.,No
-380,Does a rat live in the sea?,No
-381,A rat lives in the sea.,No
-382,Does a rat live in the ocean?,No
-383,A rat lives in the ocean.,No
-384,Does a sheep live underwater?,No
-385,A sheep lives underwater.,No
-386,Does a sheep live in the sea?,No
-387,A sheep lives in the sea.,No
-388,Does a sheep live in the ocean?,No
-389,A sheep lives in the ocean.,No
-390,Does a zebra live underwater?,No
-391,A zebra lives underwater.,No
-392,Does a zebra live in the sea?,No
-393,A zebra lives in the sea.,No
-394,Does a zebra live in the ocean?,No
-395,A zebra lives in the ocean.,No
-396,Does a hummingbird live underwater?,No
-397,A hummingbird lives underwater.,No
-398,Does a hummingbird live in the sea?,No
-399,A hummingbird lives in the sea.,No
-400,Does a hummingbird live in the ocean?,No
-401,A hummingbird lives in the ocean.,No
-402,Does a ostrich live underwater?,No
-403,A ostrich lives underwater.,No
-404,Does a ostrich live in the sea?,No
-405,A ostrich lives in the sea.,No
-406,Does a ostrich live in the ocean?,No
-407,A ostrich lives in the ocean.,No
-408,Does a worm live underwater?,No
-409,A worm lives underwater.,No
-410,Does a worm live in the sea?,No
-411,A worm lives in the sea.,No
-412,Does a worm live in the ocean?,No
-413,A worm lives in the ocean.,No
-414,Does a snail live underwater?,No
-415,A snail lives underwater.,No
-416,Does a snail live in the sea?,No
-417,A snail lives in the sea.,No
-418,Does a snail live in the ocean?,No
-419,A snail lives in the ocean.,No
-420,Does a butterfly live underwater?,No
-421,A butterfly lives underwater.,No
-422,Does a butterfly live in the sea?,No
-423,A butterfly lives in the sea.,No
-424,Does a butterfly live in the ocean?,No
-425,A butterfly lives in the ocean.,No
-426,Does a giraffe live underwater?,No
-427,A giraffe lives underwater.,No
-428,Does a giraffe live in the sea?,No
-429,A giraffe lives in the sea.,No
-430,Does a giraffe live in the ocean?,No
-431,A giraffe lives in the ocean.,No
-432,Does a tarantula live underwater?,No
-433,A tarantula lives underwater.,No
-434,Does a tarantula live in the sea?,No
-435,A tarantula lives in the sea.,No
-436,Does a tarantula live in the ocean?,No
-437,A tarantula lives in the ocean.,No
-438,Does a spider live underwater?,No
-439,A spider lives underwater.,No
-440,Does a spider live in the sea?,No
-441,A spider lives in the sea.,No
-442,Does a spider live in the ocean?,No
-443,A spider lives in the ocean.,No
-444,Does a boa live underwater?,No
-445,A boa lives underwater.,No
-446,Does a boa live in the sea?,No
-447,A boa lives in the sea.,No
-448,Does a boa live in the ocean?,No
-449,A boa lives in the ocean.,No
-450,Does a cobra live underwater?,No
-451,A cobra lives underwater.,No
-452,Does a cobra live in the sea?,No
-453,A cobra lives in the sea.,No
-454,Does a cobra live in the ocean?,No
-455,A cobra lives in the ocean.,No
-456,Does a mamba live underwater?,No
-457,A mamba lives underwater.,No
-458,Does a mamba live in the sea?,No
-459,A mamba lives in the sea.,No
-460,Does a mamba live in the ocean?,No
-461,A mamba lives in the ocean.,No
-462,Does a baboon live underwater?,No
-463,A baboon lives underwater.,No
-464,Does a baboon live in the sea?,No
-465,A baboon lives in the sea.,No
-466,Does a baboon live in the ocean?,No
-467,A baboon lives in the ocean.,No
-468,Does a grivet live underwater?,No
-469,A grivet lives underwater.,No
-470,Does a grivet live in the sea?,No
-471,A grivet lives in the sea.,No
-472,Does a grivet live in the ocean?,No
-473,A grivet lives in the ocean.,No
-474,Does a cockatoo live underwater?,No
-475,A cockatoo lives underwater.,No
-476,Does a cockatoo live in the sea?,No
-477,A cockatoo lives in the sea.,No
-478,Does a cockatoo live in the ocean?,No
-479,A cockatoo lives in the ocean.,No
-480,Does a aardvark live underwater?,No
-481,A aardvark lives underwater.,No
-482,Does a aardvark live in the sea?,No
-483,A aardvark lives in the sea.,No
-484,Does a aardvark live in the ocean?,No
-485,A aardvark lives in the ocean.,No
-486,Does a mouse live underwater?,No
-487,A mouse lives underwater.,No
-488,Does a mouse live in the sea?,No
-489,A mouse lives in the sea.,No
-490,Does a mouse live in the ocean?,No
-491,A mouse lives in the ocean.,No
-492,Does a bison live underwater?,No
-493,A bison lives underwater.,No
-494,Does a bison live in the sea?,No
-495,A bison lives in the sea.,No
-496,Does a bison live in the ocean?,No
-497,A bison lives in the ocean.,No
-498,Does a ass live underwater?,No
-499,A ass lives underwater.,No
-500,Does a ass live in the sea?,No
-501,A ass lives in the sea.,No
-502,Does a ass live in the ocean?,No
-503,A ass lives in the ocean.,No
-504,Does a antelope live underwater?,No
-505,A antelope lives underwater.,No
-506,Does a antelope live in the sea?,No
-507,A antelope lives in the sea.,No
-508,Does a antelope live in the ocean?,No
-509,A antelope lives in the ocean.,No
-510,Does a ant live underwater?,No
-511,A ant lives underwater.,No
-512,Does a ant live in the sea?,No
-513,A ant lives in the sea.,No
-514,Does a ant live in the ocean?,No
-515,A ant lives in the ocean.,No
-516,Does a caterpillar live underwater?,No
-517,A caterpillar lives underwater.,No
-518,Does a caterpillar live in the sea?,No
-519,A caterpillar lives in the sea.,No
-520,Does a caterpillar live in the ocean?,No
-521,A caterpillar lives in the ocean.,No
-522,Does a hawk live underwater?,No
-523,A hawk lives underwater.,No
-524,Does a hawk live in the sea?,No
-525,A hawk lives in the sea.,No
-526,Does a hawk live in the ocean?,No
-527,A hawk lives in the ocean.,No
-528,Does a shrew live underwater?,No
-529,A shrew lives underwater.,No
-530,Does a shrew live in the sea?,No
-531,A shrew lives in the sea.,No
-532,Does a shrew live in the ocean?,No
-533,A shrew lives in the ocean.,No
-534,Does a raccoon live underwater?,No
-535,A raccoon lives underwater.,No
-536,Does a raccoon live in the sea?,No
-537,A raccoon lives in the sea.,No
-538,Does a raccoon live in the ocean?,No
-539,A raccoon lives in the ocean.,No
-540,Does a quail live underwater?,No
-541,A quail lives underwater.,No
-542,Does a quail live in the sea?,No
-543,A quail lives in the sea.,No
-544,Does a quail live in the ocean?,No
-545,A quail lives in the ocean.,No
-546,Does a husky live underwater?,No
-547,A husky lives underwater.,No
-548,Does a husky live in the sea?,No
-549,A husky lives in the sea.,No
-550,Does a husky live in the ocean?,No
-551,A husky lives in the ocean.,No
-552,Does a skunk live underwater?,No
-553,A skunk lives underwater.,No
-554,Does a skunk live in the sea?,No
-555,A skunk lives in the sea.,No
-556,Does a skunk live in the ocean?,No
-557,A skunk lives in the ocean.,No
-558,Does a cuckoos live underwater?,No
-559,A cuckoos lives underwater.,No
-560,Does a cuckoos live in the sea?,No
-561,A cuckoos lives in the sea.,No
-562,Does a cuckoos live in the ocean?,No
-563,A cuckoos lives in the ocean.,No
-564,Does a ape live underwater?,No
-565,A ape lives underwater.,No
-566,Does a ape live in the sea?,No
-567,A ape lives in the sea.,No
-568,Does a ape live in the ocean?,No
-569,A ape lives in the ocean.,No
-570,Does a alpaca live underwater?,No
-571,A alpaca lives underwater.,No
-572,Does a alpaca live in the sea?,No
-573,A alpaca lives in the sea.,No
-574,Does a alpaca live in the ocean?,No
-575,A alpaca lives in the ocean.,No
-576,Does a donkey live underwater?,No
-577,A donkey lives underwater.,No
-578,Does a donkey live in the sea?,No
-579,A donkey lives in the sea.,No
-580,Does a donkey live in the ocean?,No
-581,A donkey lives in the ocean.,No
-582,Does a moose live underwater?,No
-583,A moose lives underwater.,No
-584,Does a moose live in the sea?,No
-585,A moose lives in the sea.,No
-586,Does a moose live in the ocean?,No
-587,A moose lives in the ocean.,No
-588,Does a alligator live underwater?,No
-589,A alligator lives underwater.,No
-590,Does a alligator live in the sea?,No
-591,A alligator lives in the sea.,No
-592,Does a alligator live in the ocean?,No
-593,A alligator lives in the ocean.,No
-594,Does a crocodile live underwater?,No
-595,A crocodile lives underwater.,No
-596,Does a crocodile live in the sea?,No
-597,A crocodile lives in the sea.,No
-598,Does a crocodile live in the ocean?,No
-599,A crocodile lives in the ocean.,No
-600,Does a seagull live underwater?,No
-601,A seagull lives underwater.,No
-602,Does a seagull live in the sea?,No
-603,A seagull lives in the sea.,No
-604,Does a seagull live in the ocean?,No
-605,A seagull lives in the ocean.,No
-606,Does a pelican live underwater?,No
-607,A pelican lives underwater.,No
-608,Does a pelican live in the sea?,No
-609,A pelican lives in the sea.,No
-610,Does a pelican live in the ocean?,No
-611,A pelican lives in the ocean.,No
-612,Does a snake live underwater?,No
-613,A snake lives underwater.,No
-614,Does a snake live in the sea?,No
-615,A snake lives in the sea.,No
-616,Does a snake live in the ocean?,No
-617,A snake lives in the ocean.,No
-618,Does a frog live underwater?,No
-619,A frog lives underwater.,No
-620,Does a frog live in the sea?,No
-621,A frog lives in the sea.,No
-622,Does a frog live in the ocean?,No
-623,A frog lives in the ocean.,No
-624,Does a salamander live underwater?,No
-625,A salamander lives underwater.,No
-626,Does a salamander live in the sea?,No
-627,A salamander lives in the sea.,No
-628,Does a salamander live in the ocean?,No
-629,A salamander lives in the ocean.,No
-630,Does a falcon live underwater?,No
-631,A falcon lives underwater.,No
-632,Does a falcon live in the sea?,No
-633,A falcon lives in the sea.,No
-634,Does a falcon live in the ocean?,No
-635,A falcon lives in the ocean.,No
-636,Does a gibbon live underwater?,No
-637,A gibbon lives underwater.,No
-638,Does a gibbon live in the sea?,No
-639,A gibbon lives in the sea.,No
-640,Does a gibbon live in the ocean?,No
-641,A gibbon lives in the ocean.,No
-642,Does a hyena live underwater?,No
-643,A hyena lives underwater.,No
-644,Does a hyena live in the sea?,No
-645,A hyena lives in the sea.,No
-646,Does a hyena live in the ocean?,No
-647,A hyena lives in the ocean.,No
-648,Does a rottweiler live underwater?,No
-649,A rottweiler lives underwater.,No
-650,Does a rottweiler live in the sea?,No
-651,A rottweiler lives in the sea.,No
-652,Does a rottweiler live in the ocean?,No
-653,A rottweiler lives in the ocean.,No
-654,Does a squirrel live underwater?,No
-655,A squirrel lives underwater.,No
-656,Does a squirrel live in the sea?,No
-657,A squirrel lives in the sea.,No
-658,Does a squirrel live in the ocean?,No
-659,A squirrel lives in the ocean.,No
-660,Does a tapir live underwater?,No
-661,A tapir lives underwater.,No
-662,Does a tapir live in the sea?,No
-663,A tapir lives in the sea.,No
-664,Does a tapir live in the ocean?,No
-665,A tapir lives in the ocean.,No
-666,Does a yak live underwater?,No
-667,A yak lives underwater.,No
-668,Does a yak live in the sea?,No
-669,A yak lives in the sea.,No
-670,Does a yak live in the ocean?,No
-671,A yak lives in the ocean.,No
+0,does a corgi live underwater?,No
+1,a corgi lives underwater.,No
+2,does a corgi live in the sea?,No
+3,a corgi lives in the sea.,No
+4,does a corgi live in the ocean?,No
+5,a corgi lives in the ocean.,No
+6,does a beagle live underwater?,No
+7,a beagle lives underwater.,No
+8,does a beagle live in the sea?,No
+9,a beagle lives in the sea.,No
+10,does a beagle live in the ocean?,No
+11,a beagle lives in the ocean.,No
+12,does a boxer live underwater?,No
+13,a boxer lives underwater.,No
+14,does a boxer live in the sea?,No
+15,a boxer lives in the sea.,No
+16,does a boxer live in the ocean?,No
+17,a boxer lives in the ocean.,No
+18,does a bulldog live underwater?,No
+19,a bulldog lives underwater.,No
+20,does a bulldog live in the sea?,No
+21,a bulldog lives in the sea.,No
+22,does a bulldog live in the ocean?,No
+23,a bulldog lives in the ocean.,No
+24,does a dog live underwater?,No
+25,a dog lives underwater.,No
+26,does a dog live in the sea?,No
+27,a dog lives in the sea.,No
+28,does a dog live in the ocean?,No
+29,a dog lives in the ocean.,No
+30,does a chihuahua live underwater?,No
+31,a chihuahua lives underwater.,No
+32,does a chihuahua live in the sea?,No
+33,a chihuahua lives in the sea.,No
+34,does a chihuahua live in the ocean?,No
+35,a chihuahua lives in the ocean.,No
+36,does a collie live underwater?,No
+37,a collie lives underwater.,No
+38,does a collie live in the sea?,No
+39,a collie lives in the sea.,No
+40,does a collie live in the ocean?,No
+41,a collie lives in the ocean.,No
+42,does a dalmatian live underwater?,No
+43,a dalmatian lives underwater.,No
+44,does a dalmatian live in the sea?,No
+45,a dalmatian lives in the sea.,No
+46,does a dalmatian live in the ocean?,No
+47,a dalmatian lives in the ocean.,No
+48,does a doberman live underwater?,No
+49,a doberman lives underwater.,No
+50,does a doberman live in the sea?,No
+51,a doberman lives in the sea.,No
+52,does a doberman live in the ocean?,No
+53,a doberman lives in the ocean.,No
+54,does a fox live underwater?,No
+55,a fox lives underwater.,No
+56,does a fox live in the sea?,No
+57,a fox lives in the sea.,No
+58,does a fox live in the ocean?,No
+59,a fox lives in the ocean.,No
+60,does a labrador live underwater?,No
+61,a labrador lives underwater.,No
+62,does a labrador live in the sea?,No
+63,a labrador lives in the sea.,No
+64,does a labrador live in the ocean?,No
+65,a labrador lives in the ocean.,No
+66,does a pinscher live underwater?,No
+67,a pinscher lives underwater.,No
+68,does a pinscher live in the sea?,No
+69,a pinscher lives in the sea.,No
+70,does a pinscher live in the ocean?,No
+71,a pinscher lives in the ocean.,No
+72,does a pomeranian live underwater?,No
+73,a pomeranian lives underwater.,No
+74,does a pomeranian live in the sea?,No
+75,a pomeranian lives in the sea.,No
+76,does a pomeranian live in the ocean?,No
+77,a pomeranian lives in the ocean.,No
+78,does a schnauzer live underwater?,No
+79,a schnauzer lives underwater.,No
+80,does a schnauzer live in the sea?,No
+81,a schnauzer lives in the sea.,No
+82,does a schnauzer live in the ocean?,No
+83,a schnauzer lives in the ocean.,No
+84,does a terrier live underwater?,No
+85,a terrier lives underwater.,No
+86,does a terrier live in the sea?,No
+87,a terrier lives in the sea.,No
+88,does a terrier live in the ocean?,No
+89,a terrier lives in the ocean.,No
+90,does a wolf live underwater?,No
+91,a wolf lives underwater.,No
+92,does a wolf live in the sea?,No
+93,a wolf lives in the sea.,No
+94,does a wolf live in the ocean?,No
+95,a wolf lives in the ocean.,No
+96,does a cat live underwater?,No
+97,a cat lives underwater.,No
+98,does a cat live in the sea?,No
+99,a cat lives in the sea.,No
+100,does a cat live in the ocean?,No
+101,a cat lives in the ocean.,No
+102,does a caracal live underwater?,No
+103,a caracal lives underwater.,No
+104,does a caracal live in the sea?,No
+105,a caracal lives in the sea.,No
+106,does a caracal live in the ocean?,No
+107,a caracal lives in the ocean.,No
+108,does a jaguar live underwater?,No
+109,a jaguar lives underwater.,No
+110,does a jaguar live in the sea?,No
+111,a jaguar lives in the sea.,No
+112,does a jaguar live in the ocean?,No
+113,a jaguar lives in the ocean.,No
+114,does a liger live underwater?,No
+115,a liger lives underwater.,No
+116,does a liger live in the sea?,No
+117,a liger lives in the sea.,No
+118,does a liger live in the ocean?,No
+119,a liger lives in the ocean.,No
+120,does a lion live underwater?,No
+121,a lion lives underwater.,No
+122,does a lion live in the sea?,No
+123,a lion lives in the sea.,No
+124,does a lion live in the ocean?,No
+125,a lion lives in the ocean.,No
+126,does a leopard live underwater?,No
+127,a leopard lives underwater.,No
+128,does a leopard live in the sea?,No
+129,a leopard lives in the sea.,No
+130,does a leopard live in the ocean?,No
+131,a leopard lives in the ocean.,No
+132,does a tiger live underwater?,No
+133,a tiger lives underwater.,No
+134,does a tiger live in the sea?,No
+135,a tiger lives in the sea.,No
+136,does a tiger live in the ocean?,No
+137,a tiger lives in the ocean.,No
+138,does a beef live underwater?,No
+139,a beef lives underwater.,No
+140,does a beef live in the sea?,No
+141,a beef lives in the sea.,No
+142,does a beef live in the ocean?,No
+143,a beef lives in the ocean.,No
+144,does a bull live underwater?,No
+145,a bull lives underwater.,No
+146,does a bull live in the sea?,No
+147,a bull lives in the sea.,No
+148,does a bull live in the ocean?,No
+149,a bull lives in the ocean.,No
+150,does a cow live underwater?,No
+151,a cow lives underwater.,No
+152,does a cow live in the sea?,No
+153,a cow lives in the sea.,No
+154,does a cow live in the ocean?,No
+155,a cow lives in the ocean.,No
+156,does a ox live underwater?,No
+157,a ox lives underwater.,No
+158,does a ox live in the sea?,No
+159,a ox lives in the sea.,No
+160,does a ox live in the ocean?,No
+161,a ox lives in the ocean.,No
+162,does a turkey live underwater?,No
+163,a turkey lives underwater.,No
+164,does a turkey live in the sea?,No
+165,a turkey lives in the sea.,No
+166,does a turkey live in the ocean?,No
+167,a turkey lives in the ocean.,No
+168,does a swan live underwater?,No
+169,a swan lives underwater.,No
+170,does a swan live in the sea?,No
+171,a swan lives in the sea.,No
+172,does a swan live in the ocean?,No
+173,a swan lives in the ocean.,No
+174,does a sparrow live underwater?,No
+175,a sparrow lives underwater.,No
+176,does a sparrow live in the sea?,No
+177,a sparrow lives in the sea.,No
+178,does a sparrow live in the ocean?,No
+179,a sparrow lives in the ocean.,No
+180,does a songbird live underwater?,No
+181,a songbird lives underwater.,No
+182,does a songbird live in the sea?,No
+183,a songbird lives in the sea.,No
+184,does a songbird live in the ocean?,No
+185,a songbird lives in the ocean.,No
+186,does a bird live underwater?,No
+187,a bird lives underwater.,No
+188,does a bird live in the sea?,No
+189,a bird lives in the sea.,No
+190,does a bird live in the ocean?,No
+191,a bird lives in the ocean.,No
+192,does a eagle live underwater?,No
+193,a eagle lives underwater.,No
+194,does a eagle live in the sea?,No
+195,a eagle lives in the sea.,No
+196,does a eagle live in the ocean?,No
+197,a eagle lives in the ocean.,No
+198,does a duck live underwater?,No
+199,a duck lives underwater.,No
+200,does a duck live in the sea?,No
+201,a duck lives in the sea.,No
+202,does a duck live in the ocean?,No
+203,a duck lives in the ocean.,No
+204,does a chicken live underwater?,No
+205,a chicken lives underwater.,No
+206,does a chicken live in the sea?,No
+207,a chicken lives in the sea.,No
+208,does a chicken live in the ocean?,No
+209,a chicken lives in the ocean.,No
+210,does a crow live underwater?,No
+211,a crow lives underwater.,No
+212,does a crow live in the sea?,No
+213,a crow lives in the sea.,No
+214,does a crow live in the ocean?,No
+215,a crow lives in the ocean.,No
+216,does a dove live underwater?,No
+217,a dove lives underwater.,No
+218,does a dove live in the sea?,No
+219,a dove lives in the sea.,No
+220,does a dove live in the ocean?,No
+221,a dove lives in the ocean.,No
+222,does a hen live underwater?,No
+223,a hen lives underwater.,No
+224,does a hen live in the sea?,No
+225,a hen lives in the sea.,No
+226,does a hen live in the ocean?,No
+227,a hen lives in the ocean.,No
+228,does a jay live underwater?,No
+229,a jay lives underwater.,No
+230,does a jay live in the sea?,No
+231,a jay lives in the sea.,No
+232,does a jay live in the ocean?,No
+233,a jay lives in the ocean.,No
+234,does a owl live underwater?,No
+235,a owl lives underwater.,No
+236,does a owl live in the sea?,No
+237,a owl lives in the sea.,No
+238,does a owl live in the ocean?,No
+239,a owl lives in the ocean.,No
+240,does a rhino live underwater?,No
+241,a rhino lives underwater.,No
+242,does a rhino live in the sea?,No
+243,a rhino lives in the sea.,No
+244,does a rhino live in the ocean?,No
+245,a rhino lives in the ocean.,No
+246,does a elephant live underwater?,No
+247,a elephant lives underwater.,No
+248,does a elephant live in the sea?,No
+249,a elephant lives in the sea.,No
+250,does a elephant live in the ocean?,No
+251,a elephant lives in the ocean.,No
+252,does a bat live underwater?,No
+253,a bat lives underwater.,No
+254,does a bat live in the sea?,No
+255,a bat lives in the sea.,No
+256,does a bat live in the ocean?,No
+257,a bat lives in the ocean.,No
+258,does a bear live underwater?,No
+259,a bear lives underwater.,No
+260,does a bear live in the sea?,No
+261,a bear lives in the sea.,No
+262,does a bear live in the ocean?,No
+263,a bear lives in the ocean.,No
+264,does a camel live underwater?,No
+265,a camel lives underwater.,No
+266,does a camel live in the sea?,No
+267,a camel lives in the sea.,No
+268,does a camel live in the ocean?,No
+269,a camel lives in the ocean.,No
+270,does a deer live underwater?,No
+271,a deer lives underwater.,No
+272,does a deer live in the sea?,No
+273,a deer lives in the sea.,No
+274,does a deer live in the ocean?,No
+275,a deer lives in the ocean.,No
+276,does a flamingo live underwater?,No
+277,a flamingo lives underwater.,No
+278,does a flamingo live in the sea?,No
+279,a flamingo lives in the sea.,No
+280,does a flamingo live in the ocean?,No
+281,a flamingo lives in the ocean.,No
+282,does a goat live underwater?,No
+283,a goat lives underwater.,No
+284,does a goat live in the sea?,No
+285,a goat lives in the sea.,No
+286,does a goat live in the ocean?,No
+287,a goat lives in the ocean.,No
+288,does a gorilla live underwater?,No
+289,a gorilla lives underwater.,No
+290,does a gorilla live in the sea?,No
+291,a gorilla lives in the sea.,No
+292,does a gorilla live in the ocean?,No
+293,a gorilla lives in the ocean.,No
+294,does a horse live underwater?,No
+295,a horse lives underwater.,No
+296,does a horse live in the sea?,No
+297,a horse lives in the sea.,No
+298,does a horse live in the ocean?,No
+299,a horse lives in the ocean.,No
+300,does a hippopotamus live underwater?,No
+301,a hippopotamus lives underwater.,No
+302,does a hippopotamus live in the sea?,No
+303,a hippopotamus lives in the sea.,No
+304,does a hippopotamus live in the ocean?,No
+305,a hippopotamus lives in the ocean.,No
+306,does a iguana live underwater?,No
+307,a iguana lives underwater.,No
+308,does a iguana live in the sea?,No
+309,a iguana lives in the sea.,No
+310,does a iguana live in the ocean?,No
+311,a iguana lives in the ocean.,No
+312,does a koala live underwater?,No
+313,a koala lives underwater.,No
+314,does a koala live in the sea?,No
+315,a koala lives in the sea.,No
+316,does a koala live in the ocean?,No
+317,a koala lives in the ocean.,No
+318,does a kangaroo live underwater?,No
+319,a kangaroo lives underwater.,No
+320,does a kangaroo live in the sea?,No
+321,a kangaroo lives in the sea.,No
+322,does a kangaroo live in the ocean?,No
+323,a kangaroo lives in the ocean.,No
+324,does a lizard live underwater?,No
+325,a lizard lives underwater.,No
+326,does a lizard live in the sea?,No
+327,a lizard lives in the sea.,No
+328,does a lizard live in the ocean?,No
+329,a lizard lives in the ocean.,No
+330,does a monkey live underwater?,No
+331,a monkey lives underwater.,No
+332,does a monkey live in the sea?,No
+333,a monkey lives in the sea.,No
+334,does a monkey live in the ocean?,No
+335,a monkey lives in the ocean.,No
+336,does a mule live underwater?,No
+337,a mule lives underwater.,No
+338,does a mule live in the sea?,No
+339,a mule lives in the sea.,No
+340,does a mule live in the ocean?,No
+341,a mule lives in the ocean.,No
+342,does a parrot live underwater?,No
+343,a parrot lives underwater.,No
+344,does a parrot live in the sea?,No
+345,a parrot lives in the sea.,No
+346,does a parrot live in the ocean?,No
+347,a parrot lives in the ocean.,No
+348,does a penguin live underwater?,No
+349,a penguin lives underwater.,No
+350,does a penguin live in the sea?,No
+351,a penguin lives in the sea.,No
+352,does a penguin live in the ocean?,No
+353,a penguin lives in the ocean.,No
+354,does a pig live underwater?,No
+355,a pig lives underwater.,No
+356,does a pig live in the sea?,No
+357,a pig lives in the sea.,No
+358,does a pig live in the ocean?,No
+359,a pig lives in the ocean.,No
+360,does a peacock live underwater?,No
+361,a peacock lives underwater.,No
+362,does a peacock live in the sea?,No
+363,a peacock lives in the sea.,No
+364,does a peacock live in the ocean?,No
+365,a peacock lives in the ocean.,No
+366,does a pigeon live underwater?,No
+367,a pigeon lives underwater.,No
+368,does a pigeon live in the sea?,No
+369,a pigeon lives in the sea.,No
+370,does a pigeon live in the ocean?,No
+371,a pigeon lives in the ocean.,No
+372,does a rabbit live underwater?,No
+373,a rabbit lives underwater.,No
+374,does a rabbit live in the sea?,No
+375,a rabbit lives in the sea.,No
+376,does a rabbit live in the ocean?,No
+377,a rabbit lives in the ocean.,No
+378,does a rat live underwater?,No
+379,a rat lives underwater.,No
+380,does a rat live in the sea?,No
+381,a rat lives in the sea.,No
+382,does a rat live in the ocean?,No
+383,a rat lives in the ocean.,No
+384,does a sheep live underwater?,No
+385,a sheep lives underwater.,No
+386,does a sheep live in the sea?,No
+387,a sheep lives in the sea.,No
+388,does a sheep live in the ocean?,No
+389,a sheep lives in the ocean.,No
+390,does a zebra live underwater?,No
+391,a zebra lives underwater.,No
+392,does a zebra live in the sea?,No
+393,a zebra lives in the sea.,No
+394,does a zebra live in the ocean?,No
+395,a zebra lives in the ocean.,No
+396,does a hummingbird live underwater?,No
+397,a hummingbird lives underwater.,No
+398,does a hummingbird live in the sea?,No
+399,a hummingbird lives in the sea.,No
+400,does a hummingbird live in the ocean?,No
+401,a hummingbird lives in the ocean.,No
+402,does a ostrich live underwater?,No
+403,a ostrich lives underwater.,No
+404,does a ostrich live in the sea?,No
+405,a ostrich lives in the sea.,No
+406,does a ostrich live in the ocean?,No
+407,a ostrich lives in the ocean.,No
+408,does a worm live underwater?,No
+409,a worm lives underwater.,No
+410,does a worm live in the sea?,No
+411,a worm lives in the sea.,No
+412,does a worm live in the ocean?,No
+413,a worm lives in the ocean.,No
+414,does a snail live underwater?,No
+415,a snail lives underwater.,No
+416,does a snail live in the sea?,No
+417,a snail lives in the sea.,No
+418,does a snail live in the ocean?,No
+419,a snail lives in the ocean.,No
+420,does a butterfly live underwater?,No
+421,a butterfly lives underwater.,No
+422,does a butterfly live in the sea?,No
+423,a butterfly lives in the sea.,No
+424,does a butterfly live in the ocean?,No
+425,a butterfly lives in the ocean.,No
+426,does a giraffe live underwater?,No
+427,a giraffe lives underwater.,No
+428,does a giraffe live in the sea?,No
+429,a giraffe lives in the sea.,No
+430,does a giraffe live in the ocean?,No
+431,a giraffe lives in the ocean.,No
+432,does a tarantula live underwater?,No
+433,a tarantula lives underwater.,No
+434,does a tarantula live in the sea?,No
+435,a tarantula lives in the sea.,No
+436,does a tarantula live in the ocean?,No
+437,a tarantula lives in the ocean.,No
+438,does a spider live underwater?,No
+439,a spider lives underwater.,No
+440,does a spider live in the sea?,No
+441,a spider lives in the sea.,No
+442,does a spider live in the ocean?,No
+443,a spider lives in the ocean.,No
+444,does a boa live underwater?,No
+445,a boa lives underwater.,No
+446,does a boa live in the sea?,No
+447,a boa lives in the sea.,No
+448,does a boa live in the ocean?,No
+449,a boa lives in the ocean.,No
+450,does a cobra live underwater?,No
+451,a cobra lives underwater.,No
+452,does a cobra live in the sea?,No
+453,a cobra lives in the sea.,No
+454,does a cobra live in the ocean?,No
+455,a cobra lives in the ocean.,No
+456,does a mamba live underwater?,No
+457,a mamba lives underwater.,No
+458,does a mamba live in the sea?,No
+459,a mamba lives in the sea.,No
+460,does a mamba live in the ocean?,No
+461,a mamba lives in the ocean.,No
+462,does a baboon live underwater?,No
+463,a baboon lives underwater.,No
+464,does a baboon live in the sea?,No
+465,a baboon lives in the sea.,No
+466,does a baboon live in the ocean?,No
+467,a baboon lives in the ocean.,No
+468,does a grivet live underwater?,No
+469,a grivet lives underwater.,No
+470,does a grivet live in the sea?,No
+471,a grivet lives in the sea.,No
+472,does a grivet live in the ocean?,No
+473,a grivet lives in the ocean.,No
+474,does a cockatoo live underwater?,No
+475,a cockatoo lives underwater.,No
+476,does a cockatoo live in the sea?,No
+477,a cockatoo lives in the sea.,No
+478,does a cockatoo live in the ocean?,No
+479,a cockatoo lives in the ocean.,No
+480,does a aardvark live underwater?,No
+481,a aardvark lives underwater.,No
+482,does a aardvark live in the sea?,No
+483,a aardvark lives in the sea.,No
+484,does a aardvark live in the ocean?,No
+485,a aardvark lives in the ocean.,No
+486,does a mouse live underwater?,No
+487,a mouse lives underwater.,No
+488,does a mouse live in the sea?,No
+489,a mouse lives in the sea.,No
+490,does a mouse live in the ocean?,No
+491,a mouse lives in the ocean.,No
+492,does a bison live underwater?,No
+493,a bison lives underwater.,No
+494,does a bison live in the sea?,No
+495,a bison lives in the sea.,No
+496,does a bison live in the ocean?,No
+497,a bison lives in the ocean.,No
+498,does a ass live underwater?,No
+499,a ass lives underwater.,No
+500,does a ass live in the sea?,No
+501,a ass lives in the sea.,No
+502,does a ass live in the ocean?,No
+503,a ass lives in the ocean.,No
+504,does a antelope live underwater?,No
+505,a antelope lives underwater.,No
+506,does a antelope live in the sea?,No
+507,a antelope lives in the sea.,No
+508,does a antelope live in the ocean?,No
+509,a antelope lives in the ocean.,No
+510,does a ant live underwater?,No
+511,a ant lives underwater.,No
+512,does a ant live in the sea?,No
+513,a ant lives in the sea.,No
+514,does a ant live in the ocean?,No
+515,a ant lives in the ocean.,No
+516,does a caterpillar live underwater?,No
+517,a caterpillar lives underwater.,No
+518,does a caterpillar live in the sea?,No
+519,a caterpillar lives in the sea.,No
+520,does a caterpillar live in the ocean?,No
+521,a caterpillar lives in the ocean.,No
+522,does a hawk live underwater?,No
+523,a hawk lives underwater.,No
+524,does a hawk live in the sea?,No
+525,a hawk lives in the sea.,No
+526,does a hawk live in the ocean?,No
+527,a hawk lives in the ocean.,No
+528,does a shrew live underwater?,No
+529,a shrew lives underwater.,No
+530,does a shrew live in the sea?,No
+531,a shrew lives in the sea.,No
+532,does a shrew live in the ocean?,No
+533,a shrew lives in the ocean.,No
+534,does a raccoon live underwater?,No
+535,a raccoon lives underwater.,No
+536,does a raccoon live in the sea?,No
+537,a raccoon lives in the sea.,No
+538,does a raccoon live in the ocean?,No
+539,a raccoon lives in the ocean.,No
+540,does a quail live underwater?,No
+541,a quail lives underwater.,No
+542,does a quail live in the sea?,No
+543,a quail lives in the sea.,No
+544,does a quail live in the ocean?,No
+545,a quail lives in the ocean.,No
+546,does a husky live underwater?,No
+547,a husky lives underwater.,No
+548,does a husky live in the sea?,No
+549,a husky lives in the sea.,No
+550,does a husky live in the ocean?,No
+551,a husky lives in the ocean.,No
+552,does a skunk live underwater?,No
+553,a skunk lives underwater.,No
+554,does a skunk live in the sea?,No
+555,a skunk lives in the sea.,No
+556,does a skunk live in the ocean?,No
+557,a skunk lives in the ocean.,No
+558,does a cuckoos live underwater?,No
+559,a cuckoos lives underwater.,No
+560,does a cuckoos live in the sea?,No
+561,a cuckoos lives in the sea.,No
+562,does a cuckoos live in the ocean?,No
+563,a cuckoos lives in the ocean.,No
+564,does a ape live underwater?,No
+565,a ape lives underwater.,No
+566,does a ape live in the sea?,No
+567,a ape lives in the sea.,No
+568,does a ape live in the ocean?,No
+569,a ape lives in the ocean.,No
+570,does a alpaca live underwater?,No
+571,a alpaca lives underwater.,No
+572,does a alpaca live in the sea?,No
+573,a alpaca lives in the sea.,No
+574,does a alpaca live in the ocean?,No
+575,a alpaca lives in the ocean.,No
+576,does a donkey live underwater?,No
+577,a donkey lives underwater.,No
+578,does a donkey live in the sea?,No
+579,a donkey lives in the sea.,No
+580,does a donkey live in the ocean?,No
+581,a donkey lives in the ocean.,No
+582,does a moose live underwater?,No
+583,a moose lives underwater.,No
+584,does a moose live in the sea?,No
+585,a moose lives in the sea.,No
+586,does a moose live in the ocean?,No
+587,a moose lives in the ocean.,No
+588,does a alligator live underwater?,No
+589,a alligator lives underwater.,No
+590,does a alligator live in the sea?,No
+591,a alligator lives in the sea.,No
+592,does a alligator live in the ocean?,No
+593,a alligator lives in the ocean.,No
+594,does a crocodile live underwater?,No
+595,a crocodile lives underwater.,No
+596,does a crocodile live in the sea?,No
+597,a crocodile lives in the sea.,No
+598,does a crocodile live in the ocean?,No
+599,a crocodile lives in the ocean.,No
+600,does a seagull live underwater?,No
+601,a seagull lives underwater.,No
+602,does a seagull live in the sea?,No
+603,a seagull lives in the sea.,No
+604,does a seagull live in the ocean?,No
+605,a seagull lives in the ocean.,No
+606,does a pelican live underwater?,No
+607,a pelican lives underwater.,No
+608,does a pelican live in the sea?,No
+609,a pelican lives in the sea.,No
+610,does a pelican live in the ocean?,No
+611,a pelican lives in the ocean.,No
+612,does a snake live underwater?,No
+613,a snake lives underwater.,No
+614,does a snake live in the sea?,No
+615,a snake lives in the sea.,No
+616,does a snake live in the ocean?,No
+617,a snake lives in the ocean.,No
+618,does a frog live underwater?,No
+619,a frog lives underwater.,No
+620,does a frog live in the sea?,No
+621,a frog lives in the sea.,No
+622,does a frog live in the ocean?,No
+623,a frog lives in the ocean.,No
+624,does a salamander live underwater?,No
+625,a salamander lives underwater.,No
+626,does a salamander live in the sea?,No
+627,a salamander lives in the sea.,No
+628,does a salamander live in the ocean?,No
+629,a salamander lives in the ocean.,No
+630,does a falcon live underwater?,No
+631,a falcon lives underwater.,No
+632,does a falcon live in the sea?,No
+633,a falcon lives in the sea.,No
+634,does a falcon live in the ocean?,No
+635,a falcon lives in the ocean.,No
+636,does a gibbon live underwater?,No
+637,a gibbon lives underwater.,No
+638,does a gibbon live in the sea?,No
+639,a gibbon lives in the sea.,No
+640,does a gibbon live in the ocean?,No
+641,a gibbon lives in the ocean.,No
+642,does a hyena live underwater?,No
+643,a hyena lives underwater.,No
+644,does a hyena live in the sea?,No
+645,a hyena lives in the sea.,No
+646,does a hyena live in the ocean?,No
+647,a hyena lives in the ocean.,No
+648,does a rottweiler live underwater?,No
+649,a rottweiler lives underwater.,No
+650,does a rottweiler live in the sea?,No
+651,a rottweiler lives in the sea.,No
+652,does a rottweiler live in the ocean?,No
+653,a rottweiler lives in the ocean.,No
+654,does a squirrel live underwater?,No
+655,a squirrel lives underwater.,No
+656,does a squirrel live in the sea?,No
+657,a squirrel lives in the sea.,No
+658,does a squirrel live in the ocean?,No
+659,a squirrel lives in the ocean.,No
+660,does a tapir live underwater?,No
+661,a tapir lives underwater.,No
+662,does a tapir live in the sea?,No
+663,a tapir lives in the sea.,No
+664,does a tapir live in the ocean?,No
+665,a tapir lives in the ocean.,No
+666,does a yak live underwater?,No
+667,a yak lives underwater.,No
+668,does a yak live in the sea?,No
+669,a yak lives in the sea.,No
+670,does a yak live in the ocean?,No
+671,a yak lives in the ocean.,No
