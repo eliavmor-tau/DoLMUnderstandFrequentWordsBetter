@@ -145,7 +145,7 @@ def test_model(config, output_path):
     print("Load checkpoint")
     model.eval()
     data_set = YesNoDataSet(csv_path=config.get("test_data", "csv/test_questions.csv"), tokenizer=tokenizer)
-    data_loader = DataLoader(data_set, batch_size=config.get("batch_size", 16), shuffle=True)
+    data_loader = DataLoader(data_set, batch_size=config.get("batch_size"), shuffle=True)
 
     accuracy = 0.0
     count = 0.0
@@ -180,8 +180,8 @@ def test_model(config, output_path):
 
 if __name__ == "__main__":
     config = {
-        "train": True,
-        "model_name": "t5-large",
+        "train": False,
+        "model_name": "t5-base",
         "gpus": 1,
         "max_epochs": 50,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
@@ -191,7 +191,7 @@ if __name__ == "__main__":
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/conceptnet_dev.csv",
         "lr": 1e-4,
-        # "checkpoint": "checkpoint/checkpoint-epoch=37-step=150593.ckpt"
+        "checkpoint": "checkpoint/checkpoint-epoch=8-step=22994.ckpt",
         "checkpoint/t5_large": None
     }
     print("Start Run")
@@ -208,7 +208,7 @@ if __name__ == "__main__":
                "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
                "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
-               "csv/animals_cant_fly", "csv/animals"]
+               "csv/animals_cant_fly", "csv/animals", "csv/train_questions"]
         # test_files = ["csv/animals_cant_fly", "csv/animals_can_fly", "csv/animals_have_wings", "csv/animals_dont_have_wings",
         #               "csv/animals_dont_have_a_beak", "csv/animals_have_a_beak", "csv/animals_dont_have_feathers",
         #               "csv/animals_have_feathers", "csv/animals_have_fur", "csv/animals_dont_have_fur"]
