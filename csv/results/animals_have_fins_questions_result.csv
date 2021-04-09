@@ -1,73 +1,73 @@
 ,question,model_answer,true_answer
-0,are fins part of a salmon's body?,Yes,Yes
-1,are fins part of a shark's body?,Yes,Yes
-2,fins are part of a shark's body.,Yes,Yes
-3,fins are part of a eel's body.,No,Yes
-4,fins are part of a cuttlefish's body.,Yes,Yes
-5,does a bluefish have fins?,Yes,Yes
-6,are fins part of a gar's body?,No,Yes
-7,fins are part of a dolphin's body.,Yes,Yes
-8,does a buri have fins?,Yes,Yes
-9,a fish has fins.,Yes,Yes
-10,a bluefish has fins.,Yes,Yes
-11,fins are part of a bass's body.,No,Yes
-12,a cuttlefish has fins.,Yes,Yes
-13,fins are part of a knifefish's body.,Yes,Yes
-14,fins are part of a salmon's body.,Yes,Yes
-15,are fins part of a eel's body?,No,Yes
-16,fins are part of a bluefish's body.,Yes,Yes
-17,fins are part of a fish's body.,Yes,Yes
-18,a herring has fins.,Yes,Yes
-19,are fins part of a tuna's body?,No,Yes
-20,are fins part of a buri's body?,No,Yes
-21,are fins part of a kingfisher's body?,No,Yes
-22,are fins part of a knifefish's body?,Yes,Yes
-23,fins are part of a barracuda's body.,No,Yes
-24,does a shark have fins?,Yes,Yes
-25,a bass has fins.,Yes,Yes
-26,a shark has fins.,Yes,Yes
-27,does a cuttlefish have fins?,Yes,Yes
-28,fins are part of a gar's body.,No,Yes
-29,are fins part of a piranha's body?,No,Yes
-30,does a eel have fins?,Yes,Yes
-31,fins are part of a kingfisher's body.,No,Yes
-32,are fins part of a octupus's body?,Yes,Yes
-33,a kingfisher has fins.,Yes,Yes
-34,fins are part of a codfish's body.,Yes,Yes
-35,are fins part of a herring's body?,No,Yes
-36,a tuna has fins.,Yes,Yes
-37,does a fish have fins?,Yes,Yes
-38,are fins part of a bluefish's body?,Yes,Yes
-39,a barracuda has fins.,Yes,Yes
-40,a octupus has fins.,No,Yes
-41,fins are part of a buri's body.,No,Yes
-42,does a octupus have fins?,No,Yes
-43,fins are part of a herring's body.,No,Yes
-44,are fins part of a codfish's body?,Yes,Yes
-45,a salmon has fins.,Yes,Yes
-46,are fins part of a dolphin's body?,Yes,Yes
-47,are fins part of a bass's body?,Yes,Yes
-48,does a barracuda have fins?,Yes,Yes
-49,does a piranha have fins?,Yes,Yes
-50,fins are part of a octupus's body.,Yes,Yes
-51,does a salmon have fins?,Yes,Yes
-52,does a gar have fins?,No,Yes
-53,fins are part of a tuna's body.,Yes,Yes
-54,a piranha has fins.,Yes,Yes
-55,a gar has fins.,No,Yes
-56,are fins part of a fish's body?,Yes,Yes
-57,does a herring have fins?,Yes,Yes
-58,a eel has fins.,Yes,Yes
-59,a dolphin has fins.,Yes,Yes
-60,does a bass have fins?,Yes,Yes
-61,does a tuna have fins?,Yes,Yes
-62,a buri has fins.,Yes,Yes
-63,does a codfish have fins?,Yes,Yes
-64,are fins part of a cuttlefish's body?,Yes,Yes
-65,a codfish has fins.,Yes,Yes
-66,does a dolphin have fins?,Yes,Yes
-67,are fins part of a barracuda's body?,No,Yes
-68,a knifefish has fins.,Yes,Yes
-69,does a knifefish have fins?,Yes,Yes
-70,does a kingfisher have fins?,Yes,Yes
-71,fins are part of a piranha's body.,No,Yes
+0,does a piranha have fins?,Yes,Yes
+1,fins are part of a octupus's body.,No,Yes
+2,fins are part of a cuttlefish's body.,No,Yes
+3,are fins part of a fish's body?,Yes,Yes
+4,fins are part of a bluefish's body.,No,Yes
+5,does a knifefish have fins?,Yes,Yes
+6,are fins part of a tuna's body?,No,Yes
+7,fins are part of a herring's body.,No,Yes
+8,fins are part of a kingfisher's body.,No,Yes
+9,a knifefish has fins.,Yes,Yes
+10,does a salmon have fins?,Yes,Yes
+11,a herring has fins.,No,Yes
+12,a barracuda has fins.,No,Yes
+13,a gar has fins.,No,Yes
+14,a salmon has fins.,Yes,Yes
+15,does a fish have fins?,Yes,Yes
+16,does a gar have fins?,No,Yes
+17,fins are part of a barracuda's body.,No,Yes
+18,fins are part of a bass's body.,No,Yes
+19,fins are part of a shark's body.,No,Yes
+20,are fins part of a knifefish's body?,No,Yes
+21,fins are part of a fish's body.,Yes,Yes
+22,does a herring have fins?,No,Yes
+23,a piranha has fins.,Yes,Yes
+24,does a cuttlefish have fins?,Yes,Yes
+25,are fins part of a herring's body?,No,Yes
+26,does a buri have fins?,No,Yes
+27,are fins part of a dolphin's body?,Yes,Yes
+28,are fins part of a shark's body?,Yes,Yes
+29,are fins part of a kingfisher's body?,No,Yes
+30,a buri has fins.,No,Yes
+31,fins are part of a codfish's body.,No,Yes
+32,fins are part of a buri's body.,No,Yes
+33,a octupus has fins.,No,Yes
+34,a tuna has fins.,No,Yes
+35,does a codfish have fins?,Yes,Yes
+36,a bluefish has fins.,Yes,Yes
+37,a bass has fins.,Yes,Yes
+38,a kingfisher has fins.,Yes,Yes
+39,fins are part of a piranha's body.,No,Yes
+40,a fish has fins.,Yes,Yes
+41,a shark has fins.,Yes,Yes
+42,are fins part of a buri's body?,No,Yes
+43,does a shark have fins?,Yes,Yes
+44,does a tuna have fins?,No,Yes
+45,are fins part of a gar's body?,No,Yes
+46,are fins part of a octupus's body?,Yes,Yes
+47,are fins part of a eel's body?,No,Yes
+48,are fins part of a codfish's body?,No,Yes
+49,a cuttlefish has fins.,Yes,Yes
+50,are fins part of a salmon's body?,Yes,Yes
+51,a dolphin has fins.,Yes,Yes
+52,are fins part of a barracuda's body?,No,Yes
+53,fins are part of a salmon's body.,No,Yes
+54,a eel has fins.,Yes,Yes
+55,fins are part of a tuna's body.,No,Yes
+56,fins are part of a eel's body.,No,Yes
+57,are fins part of a cuttlefish's body?,No,Yes
+58,are fins part of a bluefish's body?,No,Yes
+59,are fins part of a piranha's body?,No,Yes
+60,fins are part of a knifefish's body.,No,Yes
+61,does a kingfisher have fins?,Yes,Yes
+62,fins are part of a gar's body.,No,Yes
+63,does a octupus have fins?,No,Yes
+64,does a barracuda have fins?,No,Yes
+65,does a bass have fins?,Yes,Yes
+66,does a eel have fins?,Yes,Yes
+67,are fins part of a bass's body?,No,Yes
+68,does a dolphin have fins?,Yes,Yes
+69,does a bluefish have fins?,Yes,Yes
+70,fins are part of a dolphin's body.,Yes,Yes
+71,a codfish has fins.,Yes,Yes

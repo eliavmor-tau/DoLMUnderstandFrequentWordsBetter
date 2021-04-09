@@ -185,15 +185,14 @@ if __name__ == "__main__":
         "gpus": 1,
         "max_epochs": 10,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
-        "batch_size": 16,
+        "batch_size": 8,
         #"train_data": "csv/trained_merged_no_animals.csv",
         "train_data": "csv/train_questions.csv",
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         #"dev_data": "csv/conceptnet_dev.csv",
         "dev_data": "csv/val_questions.csv",
         "lr": 1e-4,
-        "checkpoint": "checkpoint/checkpoint-epoch=8-step=22994.ckpt",
-        "checkpoint/t5_large": None
+        "checkpoint": "checkpoint/checkpoint-epoch=6-step=2211.ckpt",
     }
     print("Start Run")
     print("- Config -")
