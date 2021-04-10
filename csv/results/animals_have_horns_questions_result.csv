@@ -1,109 +1,109 @@
 ,question,model_answer,true_answer
-0,does a cow have horns?,Yes,Yes
+0,a goat has horns.,Yes,Yes
 1,a rhino has horns.,Yes,Yes
-2,a oryx has horns.,No,Yes
-3,a blackbuck has horns.,Yes,Yes
-4,does a antelope have horns?,Yes,Yes
-5,a eland has horns.,No,Yes
-6,does a kudu have horns?,No,Yes
-7,a markhor has horns.,Yes,Yes
-8,are horns part of a eland's body?,No,Yes
-9,does a markhor have horns?,Yes,Yes
-10,horns are part of a ibex's body.,Yes,Yes
-11,does a addax have horns?,No,Yes
-12,a antelope has horns.,Yes,Yes
-13,are horns part of a antelope's body?,Yes,Yes
-14,horns are part of a springbox's body.,No,Yes
-15,are horns part of a bison's body?,Yes,Yes
-16,a cow has horns.,Yes,Yes
+2,does a buffalo have horns?,No,Yes
+3,does a addax have horns?,No,Yes
+4,a buffalo has horns.,No,Yes
+5,horns are part of a ox's body.,Yes,Yes
+6,does a springbox have horns?,No,Yes
+7,does a elk have horns?,No,Yes
+8,a impala has horns.,No,Yes
+9,a sheep has horns.,Yes,Yes
+10,does a markhor have horns?,No,Yes
+11,horns are part of a kudu's body.,Yes,Yes
+12,are horns part of a cattle's body?,Yes,Yes
+13,a bison has horns.,Yes,Yes
+14,a antelope has horns.,Yes,Yes
+15,does a ibex have horns?,No,Yes
+16,does a impala have horns?,No,Yes
 17,a reindeer has horns.,Yes,Yes
-18,a deer has horns.,Yes,Yes
-19,are horns part of a buffalo's body?,Yes,Yes
-20,horns are part of a cow's body.,Yes,Yes
-21,horns are part of a reindeer's body.,No,Yes
-22,horns are part of a rhino's body.,Yes,Yes
-23,are horns part of a ox's body?,Yes,Yes
-24,horns are part of a yak's body.,No,Yes
-25,horns are part of a bison's body.,No,Yes
-26,a wildbeest has horns.,Yes,Yes
-27,are horns part of a addax's body?,Yes,Yes
-28,horns are part of a moose's body.,No,Yes
-29,horns are part of a eland's body.,No,Yes
-30,a springbox has horns.,No,Yes
-31,a ibex has horns.,No,Yes
-32,horns are part of a ox's body.,No,Yes
-33,does a goat have horns?,Yes,Yes
-34,does a eland have horns?,No,Yes
-35,a elk has horns.,Yes,Yes
-36,are horns part of a reindeer's body?,No,Yes
-37,does a sheep have horns?,Yes,Yes
-38,horns are part of a buffalo's body.,No,Yes
-39,horns are part of a wildbeest's body.,Yes,Yes
-40,does a mounflon have horns?,Yes,Yes
-41,are horns part of a kudu's body?,No,Yes
-42,does a elk have horns?,Yes,Yes
-43,a addax has horns.,No,Yes
-44,does a cattle have horns?,Yes,Yes
-45,does a ibex have horns?,No,Yes
-46,are horns part of a mounflon's body?,Yes,Yes
-47,horns are part of a oryx's body.,Yes,Yes
-48,horns are part of a cattle's body.,Yes,Yes
-49,a bharal has horns.,No,Yes
-50,does a bharal have horns?,No,Yes
-51,are horns part of a goat's body?,Yes,Yes
-52,a bison has horns.,Yes,Yes
-53,horns are part of a elk's body.,No,Yes
-54,are horns part of a cattle's body?,Yes,Yes
-55,are horns part of a impala's body?,Yes,Yes
-56,horns are part of a deer's body.,Yes,Yes
-57,a ox has horns.,No,Yes
-58,horns are part of a goat's body.,Yes,Yes
-59,a sheep has horns.,Yes,Yes
-60,a buffalo has horns.,Yes,Yes
-61,does a rhino have horns?,Yes,Yes
-62,horns are part of a bharal's body.,Yes,Yes
-63,are horns part of a moose's body?,No,Yes
-64,horns are part of a goat's body.,Yes,Yes
-65,does a blackbuck have horns?,Yes,Yes
-66,horns are part of a markhor's body.,Yes,Yes
-67,horns are part of a sheep's body.,Yes,Yes
-68,are horns part of a oryx's body?,Yes,Yes
-69,are horns part of a yak's body?,No,Yes
-70,are horns part of a rhino's body?,Yes,Yes
-71,are horns part of a cow's body?,Yes,Yes
-72,horns are part of a impala's body.,Yes,Yes
-73,are horns part of a sheep's body?,Yes,Yes
-74,a yak has horns.,No,Yes
-75,does a moose have horns?,Yes,Yes
-76,does a wildbeest have horns?,Yes,Yes
-77,a cattle has horns.,Yes,Yes
-78,does a reindeer have horns?,Yes,Yes
-79,does a impala have horns?,Yes,Yes
-80,are horns part of a blackbuck's body?,Yes,Yes
-81,a kudu has horns.,No,Yes
-82,are horns part of a markhor's body?,Yes,Yes
-83,does a ox have horns?,No,Yes
-84,are horns part of a springbox's body?,No,Yes
-85,a goat has horns.,Yes,Yes
-86,does a buffalo have horns?,Yes,Yes
-87,does a bison have horns?,Yes,Yes
-88,a moose has horns.,Yes,Yes
-89,a mounflon has horns.,Yes,Yes
-90,does a springbox have horns?,No,Yes
-91,a impala has horns.,Yes,Yes
-92,does a goat have horns?,Yes,Yes
-93,are horns part of a bharal's body?,Yes,Yes
-94,horns are part of a antelope's body.,Yes,Yes
-95,horns are part of a mounflon's body.,Yes,Yes
-96,does a yak have horns?,No,Yes
-97,horns are part of a addax's body.,No,Yes
-98,a goat has horns.,Yes,Yes
-99,does a oryx have horns?,No,Yes
-100,are horns part of a elk's body?,Yes,Yes
-101,are horns part of a goat's body?,Yes,Yes
-102,are horns part of a deer's body?,Yes,Yes
-103,horns are part of a blackbuck's body.,Yes,Yes
-104,are horns part of a wildbeest's body?,Yes,Yes
-105,horns are part of a kudu's body.,No,Yes
-106,does a deer have horns?,Yes,Yes
-107,are horns part of a ibex's body?,Yes,Yes
+18,horns are part of a wildbeest's body.,Yes,Yes
+19,are horns part of a reindeer's body?,Yes,Yes
+20,horns are part of a goat's body.,Yes,Yes
+21,horns are part of a bharal's body.,Yes,Yes
+22,are horns part of a bharal's body?,No,Yes
+23,a blackbuck has horns.,No,Yes
+24,horns are part of a impala's body.,Yes,Yes
+25,does a sheep have horns?,No,Yes
+26,horns are part of a bison's body.,Yes,Yes
+27,a oryx has horns.,Yes,Yes
+28,does a bharal have horns?,No,Yes
+29,does a ox have horns?,No,Yes
+30,are horns part of a rhino's body?,Yes,Yes
+31,a addax has horns.,No,Yes
+32,does a reindeer have horns?,Yes,Yes
+33,a springbox has horns.,No,Yes
+34,are horns part of a wildbeest's body?,Yes,Yes
+35,horns are part of a springbox's body.,Yes,Yes
+36,a moose has horns.,Yes,Yes
+37,a cattle has horns.,Yes,Yes
+38,are horns part of a kudu's body?,No,Yes
+39,a yak has horns.,No,Yes
+40,a ox has horns.,Yes,Yes
+41,does a oryx have horns?,No,Yes
+42,horns are part of a goat's body.,Yes,Yes
+43,a wildbeest has horns.,Yes,Yes
+44,does a yak have horns?,No,Yes
+45,does a kudu have horns?,No,Yes
+46,horns are part of a buffalo's body.,Yes,Yes
+47,are horns part of a goat's body?,Yes,Yes
+48,a cow has horns.,Yes,Yes
+49,does a goat have horns?,No,Yes
+50,does a blackbuck have horns?,No,Yes
+51,horns are part of a cow's body.,Yes,Yes
+52,horns are part of a ibex's body.,Yes,Yes
+53,are horns part of a buffalo's body?,No,Yes
+54,does a cattle have horns?,Yes,Yes
+55,are horns part of a blackbuck's body?,Yes,Yes
+56,horns are part of a cattle's body.,Yes,Yes
+57,a deer has horns.,Yes,Yes
+58,a eland has horns.,No,Yes
+59,horns are part of a moose's body.,Yes,Yes
+60,are horns part of a markhor's body?,No,Yes
+61,are horns part of a ox's body?,Yes,Yes
+62,are horns part of a cow's body?,Yes,Yes
+63,are horns part of a elk's body?,Yes,Yes
+64,does a antelope have horns?,No,Yes
+65,does a deer have horns?,No,Yes
+66,are horns part of a impala's body?,Yes,Yes
+67,a elk has horns.,Yes,Yes
+68,horns are part of a blackbuck's body.,Yes,Yes
+69,a bharal has horns.,No,Yes
+70,does a rhino have horns?,Yes,Yes
+71,are horns part of a mounflon's body?,Yes,Yes
+72,are horns part of a deer's body?,Yes,Yes
+73,a ibex has horns.,Yes,Yes
+74,are horns part of a addax's body?,No,Yes
+75,are horns part of a antelope's body?,Yes,Yes
+76,horns are part of a rhino's body.,Yes,Yes
+77,a kudu has horns.,No,Yes
+78,horns are part of a deer's body.,Yes,Yes
+79,horns are part of a markhor's body.,Yes,Yes
+80,are horns part of a springbox's body?,No,Yes
+81,a mounflon has horns.,Yes,Yes
+82,a goat has horns.,Yes,Yes
+83,horns are part of a elk's body.,Yes,Yes
+84,are horns part of a moose's body?,Yes,Yes
+85,are horns part of a ibex's body?,Yes,Yes
+86,horns are part of a sheep's body.,Yes,Yes
+87,horns are part of a eland's body.,No,Yes
+88,are horns part of a sheep's body?,Yes,Yes
+89,horns are part of a addax's body.,Yes,Yes
+90,horns are part of a antelope's body.,Yes,Yes
+91,does a mounflon have horns?,Yes,Yes
+92,a markhor has horns.,No,Yes
+93,are horns part of a bison's body?,No,Yes
+94,are horns part of a goat's body?,Yes,Yes
+95,horns are part of a yak's body.,Yes,Yes
+96,are horns part of a oryx's body?,Yes,Yes
+97,are horns part of a eland's body?,No,Yes
+98,horns are part of a mounflon's body.,Yes,Yes
+99,horns are part of a reindeer's body.,Yes,Yes
+100,does a moose have horns?,Yes,Yes
+101,does a cow have horns?,Yes,Yes
+102,does a goat have horns?,No,Yes
+103,does a eland have horns?,No,Yes
+104,does a wildbeest have horns?,No,Yes
+105,does a bison have horns?,No,Yes
+106,are horns part of a yak's body?,Yes,Yes
+107,horns are part of a oryx's body.,Yes,Yes

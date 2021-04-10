@@ -180,19 +180,20 @@ def test_model(config, output_path):
 
 if __name__ == "__main__":
     config = {
-        "train": False,
+            "train": False,
         "model_name": "t5-base",
         "gpus": 1,
-        "max_epochs": 10,
+        "max_epochs": 30,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
-        "batch_size": 8,
-        #"train_data": "csv/trained_merged_no_animals.csv",
-        "train_data": "csv/train_questions.csv",
+        "batch_size": 16,
+        "train_data": "csv/trained_merged_no_animals.csv",
+        #"train_data": "csv/train_questions.csv",
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
-        #"dev_data": "csv/conceptnet_dev.csv",
-        "dev_data": "csv/val_questions.csv",
+        "dev_data": "csv/conceptnet_dev.csv",
+        #"dev_data": "csv/val_questions.csv",
         "lr": 1e-4,
-        "checkpoint": "checkpoint/checkpoint-epoch=6-step=2211.ckpt",
+        "checkpoint": "checkpoint/checkpoint-epoch=7-step=52567.ckpt",
+        #"checkpoint": None
     }
     print("Start Run")
     print("- Config -")
@@ -208,7 +209,7 @@ if __name__ == "__main__":
                "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
                "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
-               "csv/animals_cant_fly", "csv/animals", "csv/train_questions"]
+               "csv/animals_cant_fly", "csv/train_questions"]
 
 #        test_files = ["csv/train"]
         for f in test_files:
