@@ -472,11 +472,10 @@ def clean_question(question):
 
 
 def filter_questions():
-    properties = {'live', 'lives', 'underwater', 'wing', 'wings', 'drink', 'drinks', 'coffee', 'eat', 'meat', 'fin',
-                  'fins', 'animal', 'animals', 'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly',
+    properties = {"animal", 'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly',
                   'flies', 'climb', 'climbs', 'carnivore', 'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth',
                   'feathers', 'feather', 'horn', 'horns', 'hooves', 'claws', 'blooded'}
-    animals = set(WordNetObj.get_entity_hyponyms("animal"))
+    animals = {x.replace("-", " ").replace("_", " ") for x in WordNetObj.get_entity_hyponyms("animal")}
     animals = animals.union({animal + "s" for animal in animals})
     with open('json/twenty_questions_it_replace_rand_split_train.jsonl', 'r') as f:
         lines = f.readlines()
@@ -494,31 +493,47 @@ def filter_questions():
             else:
                 print(question, answer)
 
-    with open('json/conceptnet_train.jsonl', 'r') as f:
-        lines = f.readlines()
-        for line in lines:
-            line_dict = json.loads(line)
-            question, answer = line_dict["phrase"], line_dict["answer"]
-            question = clean_question(question)
-            split_question = set(question.split(' '))
-
-            if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
-                if question not in data["question"]:
-                    data["question"].append(question)
-                    data["label"].append("Yes" if answer else "No")
-            else:
-                print(question, answer)
-    questions_df = pd.DataFrame.from_dict(data)
+    # with open('json/conceptnet_train.jsonl', 'r') as f:
+    #     lines = f.readlines()
+    #     for line in lines:
+    #         line_dict = json.loads(line)
+    #         question, answer = line_dict["phrase"], line_dict["answer"]
+    #         question = clean_question(question)
+    #         split_question = set(question.split(' '))
+    #
+    #         if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
+    #             if question not in data["question"]:
+    #                 data["question"].append(question)
+    #                 data["label"].append("Yes" if answer else "No")
+    #         else:
+    #             print(question, answer)
     extra_questions = pd.read_csv("csv/train_questions.csv")
-    questions_df = pd.concat([questions_df, extra_questions], axis=0, ignore_index=True)
+    for row in extra_questions.iterrows():
+        row = row[1]
+        question, answer = row["question"], row["label"]
+        question = clean_question(question)
+        split_question = set(question.split(' '))
+
+        if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
+            if question not in data["question"]:
+                data["question"].append(question)
+                data["label"].append(answer)
+            else:
+                print(question)
+
+
+    questions_df = pd.DataFrame.from_dict(data)
+    # questions_df = pd.concat([questions_df,], axis=0, ignore_index=True)
     
     yes_num_questions = len(questions_df[questions_df["label"] == "Yes"])
     no_num_questions = len(questions_df[questions_df["label"] == "No"])
+    print(yes_num_questions, no_num_questions)
     N = min(yes_num_questions, no_num_questions)
+    print(N)
     new_yes_questions = questions_df[questions_df["label"] == "Yes"].sample(n=N, replace=False)
     new_no_questions = questions_df[questions_df["label"] == "No"].sample(n=N, replace=False)
     questions_df = pd.concat([new_yes_questions, new_no_questions], axis=0, ignore_index=True)
-    questions_df.to_csv("csv/trained_merged_no_animals.csv")
+    questions_df.to_csv("csv/train_twenty_questions.csv")
 
 
 def aggregate_results_by_animal(result_df, animals_df):
@@ -608,7 +623,7 @@ def run_summarize_results():
              "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
              "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
-             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "train"]
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]
     for file in files:
         print(f"summarize {file}")
         summarize_results(animals_csv_path=f"csv/{file}.csv",
