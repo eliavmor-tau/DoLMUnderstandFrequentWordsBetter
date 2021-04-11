@@ -1,73 +1,37 @@
 ,question,model_answer,true_answer
-0,scales are part of a tuna's body.,No,Yes
-1,are scales part of a salmon's body?,No,Yes
-2,are scales part of a barracuda's body?,No,Yes
-3,scales are part of a eel's body.,No,Yes
-4,a salmon has scales.,Yes,Yes
-5,are scales part of a herring's body?,No,Yes
-6,scales are part of a herring's body.,No,Yes
-7,scales are part of a octupus's body.,No,Yes
-8,scales are part of a cuttlefish's body.,No,Yes
-9,scales are part of a kingfisher's body.,No,Yes
-10,scales are part of a fish's body.,No,Yes
-11,a bluefish has scales.,Yes,Yes
-12,a fish has scales.,Yes,Yes
-13,does a cuttlefish have scales?,Yes,Yes
-14,a piranha has scales.,No,Yes
-15,does a knifefish have scales?,Yes,Yes
-16,scales are part of a salmon's body.,No,Yes
-17,does a gar have scales?,No,Yes
-18,a eel has scales.,No,Yes
-19,scales are part of a knifefish's body.,No,Yes
-20,does a salmon have scales?,Yes,Yes
-21,scales are part of a piranha's body.,No,Yes
-22,a octupus has scales.,No,Yes
-23,does a kingfisher have scales?,Yes,Yes
-24,does a shark have scales?,Yes,Yes
-25,does a herring have scales?,No,Yes
-26,does a piranha have scales?,No,Yes
-27,are scales part of a knifefish's body?,No,Yes
-28,are scales part of a dolphin's body?,No,Yes
-29,a cuttlefish has scales.,Yes,Yes
-30,a tuna has scales.,No,Yes
+0,does a octupus have scales?,Yes,Yes
+1,a gar has scales.,No,Yes
+2,a shark has scales.,No,Yes
+3,a piranha has scales.,No,Yes
+4,a octupus has scales.,Yes,Yes
+5,a barracuda has scales.,No,Yes
+6,does a tuna have scales?,No,Yes
+7,does a shark have scales?,No,Yes
+8,does a piranha have scales?,No,Yes
+9,does a gar have scales?,No,Yes
+10,does a eel have scales?,No,Yes
+11,a kingfisher has scales.,No,Yes
+12,does a barracuda have scales?,No,Yes
+13,a fish has scales.,No,Yes
+14,does a bass have scales?,No,Yes
+15,a salmon has scales.,No,Yes
+16,does a salmon have scales?,No,Yes
+17,a bluefish has scales.,No,Yes
+18,does a buri have scales?,No,Yes
+19,a knifefish has scales.,Yes,Yes
+20,does a knifefish have scales?,Yes,Yes
+21,a tuna has scales.,No,Yes
+22,a bass has scales.,No,Yes
+23,a codfish has scales.,No,Yes
+24,does a herring have scales?,No,Yes
+25,does a bluefish have scales?,No,Yes
+26,a eel has scales.,Yes,Yes
+27,a cuttlefish has scales.,No,Yes
+28,does a fish have scales?,No,Yes
+29,does a codfish have scales?,No,Yes
+30,does a kingfisher have scales?,No,Yes
 31,does a dolphin have scales?,No,Yes
-32,are scales part of a fish's body?,No,Yes
-33,does a bass have scales?,No,Yes
-34,a barracuda has scales.,No,Yes
-35,are scales part of a octupus's body?,No,Yes
-36,a shark has scales.,Yes,Yes
-37,a gar has scales.,No,Yes
-38,does a eel have scales?,Yes,Yes
-39,a buri has scales.,No,Yes
-40,scales are part of a shark's body.,No,Yes
-41,a dolphin has scales.,No,Yes
-42,does a octupus have scales?,No,Yes
-43,a knifefish has scales.,Yes,Yes
-44,does a bluefish have scales?,Yes,Yes
-45,scales are part of a dolphin's body.,No,Yes
-46,are scales part of a shark's body?,No,Yes
-47,does a codfish have scales?,Yes,Yes
-48,scales are part of a buri's body.,No,Yes
-49,scales are part of a bass's body.,No,Yes
-50,are scales part of a buri's body?,No,Yes
-51,a bass has scales.,No,Yes
-52,are scales part of a kingfisher's body?,No,Yes
-53,are scales part of a piranha's body?,No,Yes
-54,are scales part of a cuttlefish's body?,No,Yes
-55,are scales part of a bass's body?,No,Yes
-56,scales are part of a codfish's body.,No,Yes
-57,a codfish has scales.,Yes,Yes
-58,scales are part of a barracuda's body.,No,Yes
-59,does a tuna have scales?,No,Yes
-60,scales are part of a bluefish's body.,No,Yes
-61,are scales part of a gar's body?,No,Yes
-62,does a fish have scales?,Yes,Yes
-63,a kingfisher has scales.,No,Yes
-64,are scales part of a tuna's body?,No,Yes
-65,are scales part of a bluefish's body?,No,Yes
-66,a herring has scales.,No,Yes
-67,scales are part of a gar's body.,No,Yes
-68,does a buri have scales?,No,Yes
-69,does a barracuda have scales?,No,Yes
-70,are scales part of a eel's body?,No,Yes
-71,are scales part of a codfish's body?,No,Yes
+32,a herring has scales.,Yes,Yes
+33,a dolphin has scales.,No,Yes
+34,a buri has scales.,No,Yes
+35,does a cuttlefish have scales?,No,Yes

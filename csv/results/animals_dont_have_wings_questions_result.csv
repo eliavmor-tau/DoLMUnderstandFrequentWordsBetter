@@ -1,117 +1,117 @@
 ,question,model_answer,true_answer
-0,does a dog have wings?,No,Yes
-1,does a giraffe have a wing?,Yes,Yes
-2,does a frog have wings?,No,Yes
-3,a horse has a wing.,No,Yes
-4,a lion has a wing.,No,Yes
-5,a rhino has wings.,Yes,Yes
-6,does a tiger have a wing?,No,Yes
-7,a monkey has a wing.,No,Yes
-8,does a cat have a wing?,No,Yes
-9,a fox has wings.,Yes,Yes
-10,a pig has wings.,No,Yes
-11,a pig has a wing.,No,Yes
-12,does a bull have wings?,No,Yes
-13,does a pig have a wing?,No,Yes
-14,a ox has wings.,No,Yes
-15,a bat has a wing.,Yes,Yes
-16,does a fox have wings?,No,Yes
-17,does a bear have a wing?,No,Yes
-18,does a camel have a wing?,No,Yes
-19,does a zebra have a wing?,Yes,Yes
-20,does a wolf have a wing?,No,Yes
-21,does a bat have a wing?,No,Yes
-22,a bat has wings.,Yes,Yes
-23,a bull has wings.,No,Yes
-24,does a cow have wings?,No,Yes
-25,a snake has wings.,No,Yes
-26,does a rabbit have a wing?,No,Yes
-27,a worm has a wing.,No,Yes
-28,a worm has wings.,No,Yes
-29,a rat has a wing.,No,Yes
-30,a donkey has a wing.,No,Yes
-31,does a lion have a wing?,Yes,Yes
-32,does a tiger have wings?,No,Yes
-33,a camel has a wing.,No,Yes
-34,a cat has wings.,Yes,Yes
-35,does a lizard have wings?,Yes,Yes
-36,a goat has a wing.,No,Yes
-37,does a rat have a wing?,No,Yes
-38,does a monkey have a wing?,No,Yes
-39,a monkey has wings.,Yes,Yes
-40,a sheep has wings.,No,Yes
-41,does a elephant have a wing?,No,Yes
-42,does a bull have a wing?,No,Yes
-43,a camel has wings.,No,Yes
-44,a tiger has a wing.,No,Yes
-45,does a bat have wings?,Yes,Yes
-46,does a goat have a wing?,No,Yes
-47,a frog has wings.,Yes,Yes
-48,does a rhino have wings?,No,Yes
-49,does a horse have wings?,No,Yes
-50,a zebra has a wing.,Yes,Yes
-51,a tiger has wings.,Yes,Yes
-52,does a horse have a wing?,No,Yes
-53,does a cow have a wing?,No,Yes
-54,a lion has wings.,Yes,Yes
-55,does a rat have wings?,No,Yes
-56,does a sheep have wings?,No,Yes
-57,does a lizard have a wing?,Yes,Yes
-58,does a camel have wings?,No,Yes
-59,does a pig have wings?,No,Yes
-60,does a monkey have wings?,No,Yes
-61,does a lion have wings?,Yes,Yes
-62,does a donkey have wings?,No,Yes
-63,does a deer have a wing?,No,Yes
-64,a bull has a wing.,No,Yes
-65,does a zebra have wings?,Yes,Yes
-66,a ox has a wing.,Yes,Yes
-67,a rabbit has a wing.,Yes,Yes
-68,a giraffe has wings.,Yes,Yes
-69,does a ox have wings?,No,Yes
-70,does a rhino have a wing?,No,Yes
-71,does a goat have wings?,No,Yes
-72,a dog has a wing.,No,Yes
-73,a cow has a wing.,No,Yes
-74,a frog has a wing.,Yes,Yes
-75,a deer has a wing.,Yes,Yes
-76,a rat has wings.,No,Yes
-77,does a elephant have wings?,No,Yes
-78,does a snake have wings?,No,Yes
-79,a fox has a wing.,No,Yes
-80,a horse has wings.,No,Yes
-81,does a worm have wings?,No,Yes
-82,a lizard has wings.,Yes,Yes
-83,a wolf has wings.,No,Yes
-84,a snake has a wing.,No,Yes
-85,a rabbit has wings.,Yes,Yes
-86,a goat has wings.,No,Yes
-87,does a donkey have a wing?,No,Yes
-88,a wolf has a wing.,No,Yes
-89,a donkey has wings.,No,Yes
-90,a giraffe has a wing.,Yes,Yes
-91,does a sheep have a wing?,No,Yes
-92,a bear has wings.,No,Yes
-93,a dog has wings.,No,Yes
-94,a elephant has wings.,Yes,Yes
-95,does a ox have a wing?,No,Yes
-96,a rhino has a wing.,No,Yes
-97,a lizard has a wing.,Yes,Yes
-98,does a fox have a wing?,No,Yes
-99,does a snake have a wing?,No,Yes
-100,a zebra has wings.,Yes,Yes
-101,does a wolf have wings?,No,Yes
-102,does a bear have wings?,No,Yes
-103,a cat has a wing.,No,Yes
-104,does a giraffe have wings?,Yes,Yes
-105,does a rabbit have wings?,Yes,Yes
-106,a sheep has a wing.,No,Yes
-107,does a frog have a wing?,No,Yes
-108,a deer has wings.,No,Yes
-109,does a worm have a wing?,No,Yes
-110,does a deer have wings?,No,Yes
-111,does a dog have a wing?,No,Yes
-112,does a cat have wings?,No,Yes
-113,a bear has a wing.,No,Yes
-114,a cow has wings.,No,Yes
-115,a elephant has a wing.,No,Yes
+0,does a zebra have wings?,Yes,No
+1,a goat has wings.,No,No
+2,a cat has wings.,Yes,No
+3,does a wolf have wings?,No,No
+4,does a ox have wings?,No,No
+5,does a ox have a wing?,No,No
+6,does a goat have a wing?,No,No
+7,does a pig have a wing?,No,No
+8,does a camel have a wing?,No,No
+9,a monkey has a wing.,No,No
+10,a sheep has wings.,No,No
+11,a monkey has wings.,Yes,No
+12,a bull has wings.,No,No
+13,a cat has a wing.,No,No
+14,a deer has wings.,No,No
+15,a elephant has a wing.,No,No
+16,a zebra has wings.,Yes,No
+17,a lion has a wing.,No,No
+18,does a frog have a wing?,No,No
+19,a ox has wings.,No,No
+20,does a bull have wings?,No,No
+21,does a frog have wings?,No,No
+22,a giraffe has wings.,Yes,No
+23,a worm has wings.,No,No
+24,does a rat have wings?,No,No
+25,does a rhino have wings?,No,No
+26,a rhino has wings.,Yes,No
+27,a zebra has a wing.,Yes,No
+28,does a camel have wings?,No,No
+29,a lizard has a wing.,Yes,No
+30,does a donkey have a wing?,No,No
+31,a wolf has a wing.,No,No
+32,a rhino has a wing.,No,No
+33,a elephant has wings.,Yes,No
+34,a fox has wings.,Yes,No
+35,a worm has a wing.,No,No
+36,a cow has wings.,No,No
+37,does a horse have a wing?,No,No
+38,does a lizard have a wing?,Yes,No
+39,does a cat have a wing?,No,No
+40,a donkey has a wing.,No,No
+41,does a tiger have wings?,No,No
+42,a lion has wings.,Yes,No
+43,does a shark have wings?,No,No
+44,a sheep has a wing.,No,No
+45,a pig has a wing.,No,No
+46,a horse has wings.,No,No
+47,a frog has a wing.,Yes,No
+48,does a goat have wings?,No,No
+49,a bull has a wing.,No,No
+50,a rat has wings.,No,No
+51,does a cow have a wing?,No,No
+52,a snake has a wing.,No,No
+53,does a bull have a wing?,No,No
+54,does a dog have a wing?,No,No
+55,does a elephant have wings?,No,No
+56,a pig has wings.,No,No
+57,a bear has a wing.,No,No
+58,does a fox have wings?,No,No
+59,a tiger has a wing.,No,No
+60,does a bear have wings?,No,No
+61,a shark has a wing.,No,No
+62,does a deer have wings?,No,No
+63,does a deer have a wing?,No,No
+64,a deer has a wing.,Yes,No
+65,a shark has wings.,No,No
+66,a lizard has wings.,Yes,No
+67,does a rabbit have wings?,Yes,No
+68,a goat has a wing.,No,No
+69,does a lizard have wings?,Yes,No
+70,a dog has a wing.,No,No
+71,does a horse have wings?,No,No
+72,does a zebra have a wing?,Yes,No
+73,does a dog have wings?,No,No
+74,a ox has a wing.,Yes,No
+75,a dog has wings.,No,No
+76,does a donkey have wings?,No,No
+77,does a pig have wings?,No,No
+78,a camel has wings.,No,No
+79,does a fox have a wing?,No,No
+80,does a giraffe have a wing?,Yes,No
+81,does a worm have wings?,No,No
+82,does a worm have a wing?,No,No
+83,does a cat have wings?,No,No
+84,does a rhino have a wing?,No,No
+85,does a monkey have a wing?,No,No
+86,a rat has a wing.,No,No
+87,a fox has a wing.,No,No
+88,does a wolf have a wing?,No,No
+89,a horse has a wing.,No,No
+90,does a rat have a wing?,No,No
+91,does a giraffe have wings?,Yes,No
+92,a cow has a wing.,No,No
+93,a tiger has wings.,Yes,No
+94,a frog has wings.,Yes,No
+95,a giraffe has a wing.,Yes,No
+96,a wolf has wings.,No,No
+97,does a lion have a wing?,Yes,No
+98,does a sheep have a wing?,No,No
+99,a rabbit has a wing.,Yes,No
+100,a bear has wings.,No,No
+101,does a snake have a wing?,No,No
+102,does a shark have a wing?,No,No
+103,does a sheep have wings?,No,No
+104,does a snake have wings?,No,No
+105,a camel has a wing.,No,No
+106,a rabbit has wings.,Yes,No
+107,does a cow have wings?,No,No
+108,does a elephant have a wing?,No,No
+109,does a monkey have wings?,No,No
+110,a snake has wings.,No,No
+111,a donkey has wings.,No,No
+112,does a tiger have a wing?,No,No
+113,does a bear have a wing?,No,No
+114,does a rabbit have a wing?,No,No
+115,does a lion have wings?,Yes,No

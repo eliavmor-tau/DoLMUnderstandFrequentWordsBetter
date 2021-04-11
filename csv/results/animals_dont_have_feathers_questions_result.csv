@@ -1,429 +1,59 @@
 ,question,model_answer,true_answer
-0,does a monkey have feathers?,No,No
-1,does a sheep have feathers?,No,No
-2,are feathers part of a barracuda's body?,No,No
-3,does a eel have feathers?,No,No
-4,are feathers part of a shrimp's body?,No,No
-5,are feathers part of a snake's body?,No,No
-6,feathers are part of a codfish's body.,No,No
-7,a terrier has feathers.,No,No
-8,are feathers part of a gibbon's body?,No,No
-9,a herring has feathers.,No,No
-10,a gar has feathers.,Yes,No
-11,a jellyfish has feathers.,No,No
-12,does a rat have feathers?,No,No
-13,a zebra has feathers.,No,No
-14,feathers are part of a liger's body.,No,No
-15,are feathers part of a bulldog's body?,No,No
-16,feathers are part of a rabbit's body.,Yes,No
-17,a skunk has feathers.,No,No
-18,are feathers part of a bull's body?,No,No
-19,are feathers part of a schnauzer's body?,No,No
-20,does a wolf have feathers?,No,No
-21,a labrador has feathers.,Yes,No
-22,a bear has feathers.,Yes,No
-23,feathers are part of a ant's body.,Yes,No
-24,feathers are part of a schnauzer's body.,Yes,No
-25,are feathers part of a snail's body?,No,No
-26,a worm has feathers.,No,No
-27,are feathers part of a bear's body?,No,No
-28,a leopard has feathers.,Yes,No
-29,are feathers part of a alpaca's body?,No,No
-30,a whale has feathers.,Yes,No
-31,does a antelope have feathers?,No,No
-32,are feathers part of a caterpillar's body?,No,No
-33,a shrimp has feathers.,No,No
-34,feathers are part of a aardvark's body.,Yes,No
-35,are feathers part of a yak's body?,No,No
-36,does a squirrel have feathers?,Yes,No
-37,does a baboon have feathers?,No,No
-38,a yak has feathers.,No,No
-39,are feathers part of a tiger's body?,No,No
-40,does a pomeranian have feathers?,No,No
-41,feathers are part of a fox's body.,Yes,No
-42,does a codfish have feathers?,No,No
-43,does a collie have feathers?,No,No
-44,does a boa have feathers?,No,No
-45,does a snail have feathers?,No,No
-46,are feathers part of a mouse's body?,No,No
-47,are feathers part of a mule's body?,No,No
-48,feathers are part of a husky's body.,Yes,No
-49,a octupus has feathers.,No,No
-50,are feathers part of a ant's body?,No,No
-51,does a shrimp have feathers?,No,No
-52,does a alligator have feathers?,No,No
-53,does a kangaroo have feathers?,No,No
-54,feathers are part of a jaguar's body.,No,No
-55,are feathers part of a pinscher's body?,No,No
-56,a moose has feathers.,No,No
-57,a boxer has feathers.,No,No
-58,does a snake have feathers?,No,No
-59,are feathers part of a cobra's body?,No,No
-60,feathers are part of a bear's body.,Yes,No
-61,feathers are part of a boa's body.,Yes,No
-62,are feathers part of a skunk's body?,No,No
-63,a cuttlefish has feathers.,No,No
-64,are feathers part of a cuttlefish's body?,No,No
-65,are feathers part of a tuna's body?,No,No
-66,are feathers part of a beagle's body?,No,No
-67,does a elephant have feathers?,Yes,No
-68,are feathers part of a rhino's body?,No,No
-69,feathers are part of a collie's body.,Yes,No
-70,feathers are part of a caracal's body.,No,No
-71,a alpaca has feathers.,No,No
-72,feathers are part of a alpaca's body.,Yes,No
-73,are feathers part of a shark's body?,No,No
-74,a beagle has feathers.,No,No
-75,feathers are part of a pomeranian's body.,Yes,No
-76,are feathers part of a starfish's body?,No,No
-77,does a raccoon have feathers?,No,No
-78,a bulldog has feathers.,No,No
-79,a caterpillar has feathers.,No,No
-80,does a lizard have feathers?,No,No
-81,are feathers part of a liger's body?,No,No
-82,feathers are part of a hippopotamus's body.,Yes,No
-83,feathers are part of a oyster's body.,No,No
-84,a doberman has feathers.,No,No
-85,a lion has feathers.,No,No
-86,does a dalmatian have feathers?,No,No
-87,feathers are part of a caterpillar's body.,Yes,No
-88,are feathers part of a rottweiler's body?,No,No
-89,does a cuttlefish have feathers?,No,No
-90,are feathers part of a squirrel's body?,No,No
-91,feathers are part of a hyena's body.,No,No
-92,a beef has feathers.,Yes,No
-93,feathers are part of a giraffe's body.,Yes,No
-94,a squirrel has feathers.,Yes,No
-95,are feathers part of a bison's body?,No,No
-96,does a bison have feathers?,No,No
-97,does a husky have feathers?,No,No
-98,does a lion have feathers?,No,No
-99,a salamander has feathers.,No,No
-100,a koala has feathers.,No,No
-101,a sheep has feathers.,No,No
-102,does a pinscher have feathers?,No,No
-103,are feathers part of a doberman's body?,No,No
-104,feathers are part of a snail's body.,Yes,No
-105,feathers are part of a crocodile's body.,Yes,No
-106,are feathers part of a goat's body?,No,No
-107,does a piranha have feathers?,No,No
-108,a snake has feathers.,No,No
-109,feathers are part of a puma's body.,No,No
-110,feathers are part of a dolphin's body.,Yes,No
-111,a sponge has feathers.,No,No
-112,feathers are part of a worm's body.,Yes,No
-113,are feathers part of a lobster's body?,No,No
-114,feathers are part of a eel's body.,Yes,No
-115,are feathers part of a ox's body?,No,No
-116,are feathers part of a corgi's body?,No,No
-117,does a zebra have feathers?,No,No
-118,a wolf has feathers.,No,No
-119,feathers are part of a pinscher's body.,Yes,No
-120,feathers are part of a baboon's body.,No,No
-121,a puma has feathers.,No,No
-122,a baboon has feathers.,No,No
-123,are feathers part of a deer's body?,No,No
-124,a dolphin has feathers.,Yes,No
-125,are feathers part of a donkey's body?,No,No
-126,does a mamba have feathers?,No,No
-127,feathers are part of a mule's body.,No,No
-128,a salmon has feathers.,No,No
-129,does a schnauzer have feathers?,No,No
-130,does a mule have feathers?,No,No
-131,a lizard has feathers.,No,No
-132,feathers are part of a salamander's body.,No,No
-133,are feathers part of a lion's body?,No,No
-134,feathers are part of a fish's body.,Yes,No
-135,does a moose have feathers?,No,No
-136,feathers are part of a moose's body.,Yes,No
-137,a boa has feathers.,Yes,No
-138,feathers are part of a tarantula's body.,Yes,No
-139,does a grivet have feathers?,No,No
-140,does a crocodile have feathers?,No,No
-141,a iguana has feathers.,No,No
-142,are feathers part of a salamander's body?,No,No
-143,are feathers part of a antelope's body?,No,No
-144,are feathers part of a beef's body?,No,No
-145,feathers are part of a snake's body.,Yes,No
-146,feathers are part of a cobra's body.,Yes,No
-147,does a liger have feathers?,No,No
-148,a ass has feathers.,No,No
-149,does a ox have feathers?,No,No
-150,are feathers part of a horse's body?,No,No
-151,feathers are part of a bull's body.,Yes,No
-152,does a horse have feathers?,No,No
-153,a alligator has feathers.,Yes,No
-154,are feathers part of a octupus's body?,No,No
-155,are feathers part of a terrier's body?,No,No
-156,are feathers part of a salmon's body?,No,No
-157,feathers are part of a zebra's body.,No,No
-158,does a chihuahua have feathers?,No,No
-159,feathers are part of a yak's body.,Yes,No
-160,feathers are part of a leopard's body.,Yes,No
-161,feathers are part of a donkey's body.,Yes,No
-162,a hyena has feathers.,No,No
-163,feathers are part of a boxer's body.,Yes,No
-164,feathers are part of a chihuahua's body.,No,No
-165,a hippopotamus has feathers.,Yes,No
-166,a chihuahua has feathers.,No,No
-167,are feathers part of a fish's body?,No,No
-168,are feathers part of a boxer's body?,No,No
-169,are feathers part of a caracal's body?,No,No
-170,does a fox have feathers?,No,No
-171,does a barracuda have feathers?,No,No
-172,are feathers part of a camel's body?,No,No
-173,feathers are part of a frog's body.,Yes,No
-174,are feathers part of a spider's body?,No,No
-175,feathers are part of a antelope's body.,Yes,No
-176,feathers are part of a grivet's body.,Yes,No
-177,are feathers part of a collie's body?,No,No
-178,does a bulldog have feathers?,No,No
-179,a elephant has feathers.,Yes,No
-180,a monkey has feathers.,Yes,No
-181,does a cow have feathers?,No,No
-182,does a starfish have feathers?,No,No
-183,feathers are part of a sheep's body.,Yes,No
-184,a rabbit has feathers.,Yes,No
-185,are feathers part of a worm's body?,No,No
-186,a ape has feathers.,No,No
-187,does a rhino have feathers?,No,No
-188,feathers are part of a beef's body.,Yes,No
-189,does a dog have feathers?,No,No
-190,does a goat have feathers?,No,No
-191,are feathers part of a cow's body?,No,No
-192,a dog has feathers.,No,No
-193,feathers are part of a skunk's body.,Yes,No
-194,feathers are part of a horse's body.,Yes,No
-195,does a spider have feathers?,No,No
-196,a husky has feathers.,No,No
-197,does a gar have feathers?,Yes,No
-198,does a dolphin have feathers?,No,No
-199,feathers are part of a rat's body.,Yes,No
-200,are feathers part of a eel's body?,No,No
-201,does a mouse have feathers?,No,No
-202,does a salamander have feathers?,No,No
-203,are feathers part of a gorilla's body?,No,No
-204,a ox has feathers.,No,No
-205,does a oyster have feathers?,No,No
-206,are feathers part of a herring's body?,No,No
-207,does a deer have feathers?,No,No
-208,are feathers part of a rat's body?,No,No
-209,feathers are part of a koala's body.,Yes,No
-210,a oyster has feathers.,No,No
-211,are feathers part of a hyena's body?,No,No
-212,does a shark have feathers?,No,No
-213,are feathers part of a gar's body?,No,No
-214,does a whale have feathers?,No,No
-215,a horse has feathers.,No,No
-216,feathers are part of a deer's body.,Yes,No
-217,does a camel have feathers?,No,No
-218,does a lobster have feathers?,No,No
-219,feathers are part of a dog's body.,No,No
-220,a collie has feathers.,Yes,No
-221,feathers are part of a bison's body.,Yes,No
-222,a piranha has feathers.,No,No
-223,a tiger has feathers.,No,No
-224,feathers are part of a alligator's body.,Yes,No
-225,feathers are part of a goat's body.,Yes,No
-226,does a caracal have feathers?,No,No
-227,does a prawn have feathers?,No,No
-228,does a sponge have feathers?,No,No
-229,a gorilla has feathers.,No,No
-230,are feathers part of a grivet's body?,No,No
-231,does a leopard have feathers?,No,No
-232,feathers are part of a squirrel's body.,Yes,No
-233,feathers are part of a pig's body.,Yes,No
-234,are feathers part of a seal's body?,No,No
-235,are feathers part of a mamba's body?,No,No
-236,a jaguar has feathers.,No,No
-237,feathers are part of a salmon's body.,Yes,No
-238,does a octupus have feathers?,No,No
-239,are feathers part of a pig's body?,Yes,No
-240,a pinscher has feathers.,No,No
-241,feathers are part of a gorilla's body.,Yes,No
-242,does a beagle have feathers?,No,No
-243,does a tuna have feathers?,No,No
-244,are feathers part of a leopard's body?,No,No
-245,are feathers part of a kangaroo's body?,No,No
-246,does a tapir have feathers?,No,No
-247,are feathers part of a puma's body?,No,No
-248,are feathers part of a koala's body?,No,No
-249,a mamba has feathers.,No,No
-250,are feathers part of a jaguar's body?,No,No
-251,does a worm have feathers?,No,No
-252,a tarantula has feathers.,Yes,No
-253,feathers are part of a mamba's body.,Yes,No
-254,does a ant have feathers?,No,No
-255,are feathers part of a oyster's body?,No,No
-256,feathers are part of a labrador's body.,No,No
-257,a grivet has feathers.,No,No
-258,does a tarantula have feathers?,No,No
-259,feathers are part of a doberman's body.,Yes,No
-260,does a iguana have feathers?,No,No
-261,a rhino has feathers.,No,No
-262,feathers are part of a cuttlefish's body.,Yes,No
-263,does a caterpillar have feathers?,No,No
-264,are feathers part of a prawn's body?,No,No
-265,feathers are part of a lobster's body.,Yes,No
-266,does a aardvark have feathers?,No,No
-267,feathers are part of a starfish's body.,Yes,No
-268,feathers are part of a sponge's body.,Yes,No
-269,a gibbon has feathers.,No,No
-270,are feathers part of a wolf's body?,No,No
-271,feathers are part of a gar's body.,Yes,No
-272,feathers are part of a gibbon's body.,Yes,No
-273,does a cobra have feathers?,No,No
-274,does a yak have feathers?,No,No
-275,feathers are part of a dalmatian's body.,No,No
-276,feathers are part of a rhino's body.,Yes,No
-277,a fox has feathers.,Yes,No
-278,does a ass have feathers?,No,No
-279,does a doberman have feathers?,No,No
-280,feathers are part of a monkey's body.,Yes,No
-281,does a seal have feathers?,No,No
-282,are feathers part of a lizard's body?,Yes,No
-283,feathers are part of a whale's body.,Yes,No
-284,are feathers part of a sponge's body?,No,No
-285,are feathers part of a frog's body?,No,No
-286,feathers are part of a kangaroo's body.,No,No
-287,are feathers part of a ass's body?,No,No
-288,a mouse has feathers.,No,No
-289,a donkey has feathers.,No,No
-290,does a cat have feathers?,No,No
-291,are feathers part of a iguana's body?,No,No
-292,a codfish has feathers.,No,No
-293,a liger has feathers.,No,No
-294,feathers are part of a wolf's body.,Yes,No
-295,a tuna has feathers.,No,No
-296,are feathers part of a cat's body?,Yes,No
-297,does a terrier have feathers?,No,No
-298,feathers are part of a bulldog's body.,No,No
-299,a bison has feathers.,Yes,No
-300,feathers are part of a barracuda's body.,No,No
-301,a spider has feathers.,No,No
-302,a barracuda has feathers.,No,No
-303,does a donkey have feathers?,No,No
-304,feathers are part of a ape's body.,Yes,No
-305,a giraffe has feathers.,Yes,No
-306,are feathers part of a alligator's body?,No,No
-307,feathers are part of a crab's body.,Yes,No
-308,are feathers part of a rabbit's body?,No,No
-309,a goat has feathers.,No,No
-310,does a ape have feathers?,No,No
-311,a seal has feathers.,No,No
-312,feathers are part of a mouse's body.,Yes,No
-313,does a hippopotamus have feathers?,No,No
-314,does a skunk have feathers?,No,No
-315,are feathers part of a tarantula's body?,No,No
-316,feathers are part of a ox's body.,No,No
-317,does a alpaca have feathers?,No,No
-318,does a jellyfish have feathers?,No,No
-319,a shark has feathers.,No,No
-320,a shrew has feathers.,No,No
-321,are feathers part of a crocodile's body?,No,No
-322,feathers are part of a cat's body.,Yes,No
-323,a rottweiler has feathers.,No,No
-324,feathers are part of a lizard's body.,Yes,No
-325,does a bull have feathers?,No,No
-326,does a corgi have feathers?,No,No
-327,are feathers part of a pomeranian's body?,No,No
-328,feathers are part of a elephant's body.,Yes,No
-329,does a shrew have feathers?,No,No
-330,does a jaguar have feathers?,No,No
-331,a crab has feathers.,No,No
-332,a caracal has feathers.,No,No
-333,does a hyena have feathers?,No,No
-334,feathers are part of a shrew's body.,Yes,No
-335,a snail has feathers.,No,No
-336,a mule has feathers.,No,No
-337,are feathers part of a crab's body?,No,No
-338,does a giraffe have feathers?,Yes,No
-339,feathers are part of a tapir's body.,Yes,No
-340,are feathers part of a chihuahua's body?,No,No
-341,feathers are part of a tuna's body.,No,No
-342,feathers are part of a piranha's body.,No,No
-343,are feathers part of a jellyfish's body?,No,No
-344,does a gorilla have feathers?,No,No
-345,a crocodile has feathers.,No,No
-346,does a pig have feathers?,No,No
-347,are feathers part of a aardvark's body?,No,No
-348,does a tiger have feathers?,No,No
-349,a cat has feathers.,Yes,No
-350,are feathers part of a shrew's body?,No,No
-351,a corgi has feathers.,No,No
-352,are feathers part of a giraffe's body?,Yes,No
-353,a lobster has feathers.,No,No
-354,are feathers part of a boa's body?,No,No
-355,does a fish have feathers?,No,No
-356,are feathers part of a ape's body?,No,No
-357,a eel has feathers.,No,No
-358,are feathers part of a hippopotamus's body?,No,No
-359,are feathers part of a dalmatian's body?,No,No
-360,does a salmon have feathers?,No,No
-361,feathers are part of a seal's body.,Yes,No
-362,feathers are part of a iguana's body.,Yes,No
-363,a tapir has feathers.,No,No
-364,are feathers part of a sheep's body?,No,No
-365,a bull has feathers.,No,No
-366,feathers are part of a corgi's body.,No,No
-367,a deer has feathers.,No,No
-368,a frog has feathers.,No,No
-369,are feathers part of a dog's body?,No,No
-370,feathers are part of a beagle's body.,Yes,No
-371,a kangaroo has feathers.,No,No
-372,are feathers part of a tapir's body?,No,No
-373,are feathers part of a labrador's body?,No,No
-374,are feathers part of a zebra's body?,No,No
-375,feathers are part of a camel's body.,No,No
-376,a starfish has feathers.,No,No
-377,does a beef have feathers?,Yes,No
-378,does a boxer have feathers?,No,No
-379,feathers are part of a lion's body.,Yes,No
-380,a fish has feathers.,No,No
-381,feathers are part of a raccoon's body.,Yes,No
-382,a cobra has feathers.,No,No
-383,a ant has feathers.,Yes,No
-384,feathers are part of a herring's body.,No,No
-385,are feathers part of a monkey's body?,Yes,No
-386,a dalmatian has feathers.,No,No
-387,are feathers part of a dolphin's body?,Yes,No
-388,does a crab have feathers?,No,No
-389,a cow has feathers.,No,No
-390,does a koala have feathers?,No,No
-391,are feathers part of a husky's body?,No,No
-392,are feathers part of a baboon's body?,No,No
-393,does a rabbit have feathers?,No,No
-394,does a herring have feathers?,No,No
-395,are feathers part of a piranha's body?,No,No
-396,are feathers part of a elephant's body?,Yes,No
-397,are feathers part of a fox's body?,No,No
-398,feathers are part of a prawn's body.,Yes,No
-399,feathers are part of a ass's body.,No,No
-400,feathers are part of a octupus's body.,Yes,No
-401,are feathers part of a raccoon's body?,No,No
-402,a pomeranian has feathers.,No,No
-403,feathers are part of a spider's body.,Yes,No
-404,a rat has feathers.,No,No
-405,a raccoon has feathers.,No,No
-406,feathers are part of a rottweiler's body.,No,No
-407,a antelope has feathers.,No,No
-408,does a gibbon have feathers?,No,No
-409,feathers are part of a tiger's body.,Yes,No
-410,are feathers part of a whale's body?,Yes,No
-411,a pig has feathers.,Yes,No
-412,does a bear have feathers?,No,No
-413,a camel has feathers.,No,No
-414,feathers are part of a cow's body.,Yes,No
-415,does a frog have feathers?,No,No
-416,does a rottweiler have feathers?,No,No
-417,are feathers part of a moose's body?,No,No
-418,feathers are part of a terrier's body.,Yes,No
-419,a prawn has feathers.,No,No
-420,feathers are part of a jellyfish's body.,Yes,No
-421,feathers are part of a shark's body.,Yes,No
-422,a aardvark has feathers.,No,No
-423,does a puma have feathers?,No,No
-424,a schnauzer has feathers.,No,No
-425,are feathers part of a codfish's body?,No,No
-426,feathers are part of a shrimp's body.,Yes,No
-427,does a labrador have feathers?,No,No
+0,a bear has feathers.,Yes,No
+1,does a cow have feathers?,Yes,No
+2,a bull has feathers.,No,No
+3,a pig has feathers.,Yes,No
+4,does a bear have feathers?,Yes,No
+5,does a frog have feathers?,No,No
+6,does a bat have feathers?,No,No
+7,does a fox have feathers?,No,No
+8,does a ox have feathers?,No,No
+9,a cat has feathers.,Yes,No
+10,does a rhino have feathers?,No,No
+11,a worm has feathers.,No,No
+12,a bat has feathers.,No,No
+13,a horse has feathers.,No,No
+14,a ox has feathers.,No,No
+15,does a camel have feathers?,No,No
+16,does a monkey have feathers?,Yes,No
+17,does a lion have feathers?,Yes,No
+18,a donkey has feathers.,No,No
+19,a wolf has feathers.,No,No
+20,does a dog have feathers?,No,No
+21,does a donkey have feathers?,No,No
+22,a monkey has feathers.,Yes,No
+23,a lion has feathers.,No,No
+24,a zebra has feathers.,No,No
+25,does a sheep have feathers?,Yes,No
+26,a sheep has feathers.,Yes,No
+27,does a horse have feathers?,No,No
+28,does a lizard have feathers?,No,No
+29,a cow has feathers.,Yes,No
+30,does a goat have feathers?,Yes,No
+31,a deer has feathers.,No,No
+32,a snake has feathers.,No,No
+33,does a cat have feathers?,No,No
+34,a rat has feathers.,No,No
+35,a goat has feathers.,Yes,No
+36,a giraffe has feathers.,Yes,No
+37,does a wolf have feathers?,No,No
+38,a camel has feathers.,No,No
+39,a frog has feathers.,No,No
+40,does a rabbit have feathers?,Yes,No
+41,does a pig have feathers?,Yes,No
+42,does a elephant have feathers?,Yes,No
+43,does a snake have feathers?,No,No
+44,does a tiger have feathers?,No,No
+45,does a zebra have feathers?,No,No
+46,does a rat have feathers?,No,No
+47,does a deer have feathers?,No,No
+48,a lizard has feathers.,No,No
+49,a elephant has feathers.,Yes,No
+50,a dog has feathers.,No,No
+51,a tiger has feathers.,No,No
+52,a fox has feathers.,No,No
+53,a rhino has feathers.,Yes,No
+54,a rabbit has feathers.,Yes,No
+55,does a worm have feathers?,No,No
+56,does a bull have feathers?,No,No
+57,does a giraffe have feathers?,Yes,No

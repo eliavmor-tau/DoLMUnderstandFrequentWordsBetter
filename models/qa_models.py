@@ -203,14 +203,14 @@ if __name__ == "__main__":
     if config.get("train", True):
         train_model(config)
     else:
-        #test_files = ["csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
-        #       "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
-        #       "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
-        #       "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
-        #       "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
-        #       "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
-        #       "csv/animals_cant_fly", "csv/train_questions"]
-        test_files = ["csv/animals_have_wings",  "csv/animals_can_fly", "csv/animals_dont_have_wings", "csv/animals_cant_fly"]
+        test_files = ["csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
+               "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
+               "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
+               "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
+               "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
+               "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
+               "csv/animals_cant_fly"]
+        #test_files = ["csv/animals_have_wings",  "csv/animals_can_fly", "csv/animals_dont_have_wings", "csv/animals_cant_fly"]
 #        test_files = ["csv/train"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
