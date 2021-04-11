@@ -18,7 +18,7 @@ from collections import defaultdict
 import time
 import os
 
-model_name = 'bert-large-uncased'
+model_name = 'roberta-large'
 mc_mlm = True
 config = AutoConfig.from_pretrained(model_name)
 tokenizer = Tokenizer(model_name)
@@ -495,7 +495,7 @@ def clean_question(question):
 def filter_questions():
     properties = {"animal", 'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly',
                   'flies', 'climb', 'climbs', 'carnivore', 'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth',
-                  'feathers', 'feather', 'horn', 'horns', 'hooves', 'claws', 'blooded', "wing", "wings"}
+                  'feathers', 'feather', 'horn', 'horns', 'hooves', 'claws', 'blooded', "wing", "wings "}
 
     files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
              "animals_have_wings", "animals_have_feathers", "animals_have_fur",
@@ -683,10 +683,15 @@ def run_generate_questions():
 if __name__ == "__main__":
     # run_summarize_results()
     # run_generate_questions()
-    filter_questions()
+    # filter_questions()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
     # merge_questions(["csv/train_twenty_questions"], split=True, p=0.8)
-    split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
+    # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
+    mask = tokenizer.mask_token()
+    sentence = f"A {mask} lives underwater."
+    result = test_sentence_mlm(sentence, mask_index=2, batch_size=1, k=20)
+    for result in result:
+        print(result)
