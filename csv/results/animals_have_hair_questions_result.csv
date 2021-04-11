@@ -1,105 +1,105 @@
 ,question,model_answer,true_answer
-0,a bison has hair.,No,Yes
-1,does a fox have hair?,No,Yes
-2,does a ass have hair?,No,Yes
-3,does a schnauzer have hair?,No,Yes
-4,does a giraffe have hair?,No,Yes
-5,does a jaguar have hair?,No,Yes
-6,a camel has hair.,No,Yes
-7,does a moose have hair?,No,Yes
+0,a giraffe has hair.,No,Yes
+1,a antelope has hair.,Yes,Yes
+2,does a giraffe have hair?,No,Yes
+3,a ape has hair.,No,Yes
+4,does a kangaroo have hair?,No,Yes
+5,a collie has hair.,Yes,Yes
+6,a horse has hair.,No,Yes
+7,does a jaguar have hair?,No,Yes
 8,a deer has hair.,No,Yes
-9,a labrador has hair.,No,Yes
-10,a mouse has hair.,No,Yes
-11,does a dog have hair?,No,Yes
-12,a wolf has hair.,No,Yes
-13,a rabbit has hair.,Yes,Yes
-14,a bear has hair.,Yes,Yes
-15,does a ape have hair?,No,Yes
-16,does a tiger have hair?,No,Yes
-17,a bulldog has hair.,Yes,Yes
-18,does a donkey have hair?,No,Yes
-19,a kangaroo has hair.,No,Yes
-20,a baboon has hair.,No,Yes
-21,does a wolf have hair?,No,Yes
-22,a monkey has hair.,Yes,Yes
-23,does a caracal have hair?,No,Yes
-24,does a pinscher have hair?,No,Yes
-25,does a terrier have hair?,No,Yes
-26,does a mule have hair?,No,Yes
-27,a dalmatian has hair.,No,Yes
-28,a gorilla has hair.,No,Yes
-29,a corgi has hair.,No,Yes
-30,does a alpaca have hair?,No,Yes
-31,does a bison have hair?,No,Yes
-32,a koala has hair.,No,Yes
-33,a pomeranian has hair.,No,Yes
-34,a husky has hair.,Yes,Yes
-35,does a koala have hair?,No,Yes
-36,does a hyena have hair?,No,Yes
-37,does a camel have hair?,No,Yes
-38,a dog has hair.,No,Yes
-39,does a antelope have hair?,Yes,Yes
-40,does a zebra have hair?,No,Yes
-41,a beagle has hair.,Yes,Yes
-42,does a cat have hair?,Yes,Yes
-43,a skunk has hair.,No,Yes
-44,does a rottweiler have hair?,No,Yes
-45,does a rat have hair?,No,Yes
-46,a boxer has hair.,No,Yes
-47,does a husky have hair?,Yes,Yes
-48,a moose has hair.,No,Yes
-49,a rat has hair.,No,Yes
-50,a terrier has hair.,No,Yes
-51,a hyena has hair.,No,Yes
-52,does a squirrel have hair?,Yes,Yes
-53,does a boxer have hair?,No,Yes
-54,a pinscher has hair.,No,Yes
-55,a ape has hair.,No,Yes
-56,does a skunk have hair?,Yes,Yes
-57,does a corgi have hair?,No,Yes
-58,does a rabbit have hair?,Yes,Yes
-59,a fox has hair.,No,Yes
-60,does a deer have hair?,No,Yes
-61,does a baboon have hair?,No,Yes
-62,does a raccoon have hair?,No,Yes
-63,a cat has hair.,Yes,Yes
-64,does a pomeranian have hair?,No,Yes
-65,a chihuahua has hair.,No,Yes
-66,does a leopard have hair?,No,Yes
-67,does a labrador have hair?,No,Yes
-68,a rottweiler has hair.,No,Yes
-69,a liger has hair.,No,Yes
-70,does a liger have hair?,No,Yes
-71,a mule has hair.,No,Yes
-72,does a collie have hair?,Yes,Yes
-73,does a chihuahua have hair?,No,Yes
-74,does a monkey have hair?,Yes,Yes
-75,a horse has hair.,No,Yes
-76,does a kangaroo have hair?,No,Yes
-77,a squirrel has hair.,Yes,Yes
-78,a ass has hair.,No,Yes
-79,a zebra has hair.,No,Yes
-80,does a bear have hair?,Yes,Yes
-81,does a lion have hair?,No,Yes
-82,a schnauzer has hair.,No,Yes
-83,a doberman has hair.,No,Yes
-84,a tiger has hair.,No,Yes
-85,does a horse have hair?,No,Yes
-86,a antelope has hair.,Yes,Yes
-87,a raccoon has hair.,No,Yes
-88,does a dalmatian have hair?,No,Yes
-89,does a gorilla have hair?,No,Yes
-90,does a doberman have hair?,No,Yes
-91,does a mouse have hair?,No,Yes
-92,a jaguar has hair.,No,Yes
-93,a leopard has hair.,Yes,Yes
-94,a lion has hair.,No,Yes
-95,a giraffe has hair.,No,Yes
-96,a yak has hair.,No,Yes
-97,a donkey has hair.,No,Yes
-98,does a yak have hair?,No,Yes
-99,does a beagle have hair?,Yes,Yes
-100,a collie has hair.,Yes,Yes
-101,a alpaca has hair.,No,Yes
-102,a caracal has hair.,No,Yes
-103,does a bulldog have hair?,Yes,Yes
+9,a boxer has hair.,No,Yes
+10,does a corgi have hair?,No,Yes
+11,does a alpaca have hair?,No,Yes
+12,a beagle has hair.,Yes,Yes
+13,does a bison have hair?,No,Yes
+14,a jaguar has hair.,No,Yes
+15,a rat has hair.,No,Yes
+16,does a ass have hair?,No,Yes
+17,a yak has hair.,No,Yes
+18,does a husky have hair?,Yes,Yes
+19,does a pinscher have hair?,No,Yes
+20,a zebra has hair.,No,Yes
+21,does a camel have hair?,No,Yes
+22,does a boxer have hair?,No,Yes
+23,a alpaca has hair.,No,Yes
+24,does a donkey have hair?,No,Yes
+25,does a doberman have hair?,No,Yes
+26,does a antelope have hair?,Yes,Yes
+27,a donkey has hair.,No,Yes
+28,a dog has hair.,No,Yes
+29,does a caracal have hair?,No,Yes
+30,a squirrel has hair.,Yes,Yes
+31,does a skunk have hair?,Yes,Yes
+32,does a schnauzer have hair?,No,Yes
+33,does a baboon have hair?,No,Yes
+34,a gorilla has hair.,No,Yes
+35,a rabbit has hair.,Yes,Yes
+36,does a horse have hair?,No,Yes
+37,does a yak have hair?,No,Yes
+38,a hyena has hair.,No,Yes
+39,does a gorilla have hair?,No,Yes
+40,a corgi has hair.,No,Yes
+41,does a bear have hair?,Yes,Yes
+42,does a lion have hair?,No,Yes
+43,does a koala have hair?,No,Yes
+44,a chihuahua has hair.,No,Yes
+45,does a fox have hair?,No,Yes
+46,a baboon has hair.,No,Yes
+47,does a dalmatian have hair?,No,Yes
+48,a liger has hair.,No,Yes
+49,a kangaroo has hair.,No,Yes
+50,does a ape have hair?,No,Yes
+51,does a pomeranian have hair?,No,Yes
+52,a schnauzer has hair.,No,Yes
+53,does a squirrel have hair?,Yes,Yes
+54,a lion has hair.,No,Yes
+55,does a moose have hair?,No,Yes
+56,does a liger have hair?,No,Yes
+57,does a wolf have hair?,No,Yes
+58,does a monkey have hair?,Yes,Yes
+59,does a chihuahua have hair?,No,Yes
+60,does a rat have hair?,No,Yes
+61,does a labrador have hair?,No,Yes
+62,a ass has hair.,No,Yes
+63,a koala has hair.,No,Yes
+64,a camel has hair.,No,Yes
+65,a mule has hair.,No,Yes
+66,a leopard has hair.,Yes,Yes
+67,a terrier has hair.,No,Yes
+68,does a dog have hair?,No,Yes
+69,a caracal has hair.,No,Yes
+70,a skunk has hair.,No,Yes
+71,a rottweiler has hair.,No,Yes
+72,does a deer have hair?,No,Yes
+73,a doberman has hair.,No,Yes
+74,a mouse has hair.,No,Yes
+75,a wolf has hair.,No,Yes
+76,does a leopard have hair?,No,Yes
+77,a pinscher has hair.,No,Yes
+78,does a collie have hair?,Yes,Yes
+79,a bison has hair.,No,Yes
+80,a bulldog has hair.,Yes,Yes
+81,does a terrier have hair?,No,Yes
+82,a moose has hair.,No,Yes
+83,a labrador has hair.,No,Yes
+84,does a tiger have hair?,No,Yes
+85,does a raccoon have hair?,No,Yes
+86,a fox has hair.,No,Yes
+87,does a bulldog have hair?,Yes,Yes
+88,does a rottweiler have hair?,No,Yes
+89,does a zebra have hair?,No,Yes
+90,a bear has hair.,Yes,Yes
+91,a monkey has hair.,Yes,Yes
+92,does a mule have hair?,No,Yes
+93,a raccoon has hair.,No,Yes
+94,a cat has hair.,Yes,Yes
+95,a tiger has hair.,No,Yes
+96,does a rabbit have hair?,Yes,Yes
+97,a husky has hair.,Yes,Yes
+98,does a beagle have hair?,Yes,Yes
+99,does a hyena have hair?,No,Yes
+100,does a cat have hair?,Yes,Yes
+101,does a mouse have hair?,No,Yes
+102,a pomeranian has hair.,No,Yes
+103,a dalmatian has hair.,No,Yes

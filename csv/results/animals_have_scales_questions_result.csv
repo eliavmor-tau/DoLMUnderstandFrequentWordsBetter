@@ -1,37 +1,37 @@
 ,question,model_answer,true_answer
-0,does a octupus have scales?,Yes,Yes
-1,a gar has scales.,No,Yes
-2,a shark has scales.,No,Yes
-3,a piranha has scales.,No,Yes
-4,a octupus has scales.,Yes,Yes
-5,a barracuda has scales.,No,Yes
-6,does a tuna have scales?,No,Yes
-7,does a shark have scales?,No,Yes
-8,does a piranha have scales?,No,Yes
-9,does a gar have scales?,No,Yes
-10,does a eel have scales?,No,Yes
-11,a kingfisher has scales.,No,Yes
-12,does a barracuda have scales?,No,Yes
-13,a fish has scales.,No,Yes
-14,does a bass have scales?,No,Yes
-15,a salmon has scales.,No,Yes
-16,does a salmon have scales?,No,Yes
-17,a bluefish has scales.,No,Yes
-18,does a buri have scales?,No,Yes
-19,a knifefish has scales.,Yes,Yes
-20,does a knifefish have scales?,Yes,Yes
-21,a tuna has scales.,No,Yes
-22,a bass has scales.,No,Yes
-23,a codfish has scales.,No,Yes
-24,does a herring have scales?,No,Yes
-25,does a bluefish have scales?,No,Yes
-26,a eel has scales.,Yes,Yes
-27,a cuttlefish has scales.,No,Yes
-28,does a fish have scales?,No,Yes
-29,does a codfish have scales?,No,Yes
-30,does a kingfisher have scales?,No,Yes
-31,does a dolphin have scales?,No,Yes
-32,a herring has scales.,Yes,Yes
-33,a dolphin has scales.,No,Yes
-34,a buri has scales.,No,Yes
-35,does a cuttlefish have scales?,No,Yes
+0,a fish has scales.,No,Yes
+1,a knifefish has scales.,Yes,Yes
+2,does a eel have scales?,No,Yes
+3,does a piranha have scales?,No,Yes
+4,a salmon has scales.,No,Yes
+5,a herring has scales.,Yes,Yes
+6,does a shark have scales?,No,Yes
+7,a buri has scales.,No,Yes
+8,does a octupus have scales?,Yes,Yes
+9,a shark has scales.,No,Yes
+10,does a cuttlefish have scales?,No,Yes
+11,a bass has scales.,No,Yes
+12,a codfish has scales.,No,Yes
+13,does a buri have scales?,No,Yes
+14,a barracuda has scales.,No,Yes
+15,does a knifefish have scales?,Yes,Yes
+16,does a dolphin have scales?,No,Yes
+17,does a bass have scales?,No,Yes
+18,does a gar have scales?,No,Yes
+19,does a kingfisher have scales?,No,Yes
+20,a tuna has scales.,No,Yes
+21,does a tuna have scales?,No,Yes
+22,does a herring have scales?,No,Yes
+23,a cuttlefish has scales.,No,Yes
+24,does a fish have scales?,No,Yes
+25,does a barracuda have scales?,No,Yes
+26,a gar has scales.,No,Yes
+27,does a codfish have scales?,No,Yes
+28,does a salmon have scales?,No,Yes
+29,a eel has scales.,Yes,Yes
+30,a octupus has scales.,Yes,Yes
+31,does a bluefish have scales?,No,Yes
+32,a bluefish has scales.,No,Yes
+33,a kingfisher has scales.,No,Yes
+34,a piranha has scales.,No,Yes
+35,a dolphin has scales.,No,Yes

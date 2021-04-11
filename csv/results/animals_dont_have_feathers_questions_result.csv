@@ -1,59 +1,59 @@
 ,question,model_answer,true_answer
-0,a bear has feathers.,Yes,No
-1,does a cow have feathers?,Yes,No
-2,a bull has feathers.,No,No
-3,a pig has feathers.,Yes,No
-4,does a bear have feathers?,Yes,No
-5,does a frog have feathers?,No,No
-6,does a bat have feathers?,No,No
-7,does a fox have feathers?,No,No
-8,does a ox have feathers?,No,No
-9,a cat has feathers.,Yes,No
-10,does a rhino have feathers?,No,No
-11,a worm has feathers.,No,No
-12,a bat has feathers.,No,No
-13,a horse has feathers.,No,No
-14,a ox has feathers.,No,No
-15,does a camel have feathers?,No,No
-16,does a monkey have feathers?,Yes,No
-17,does a lion have feathers?,Yes,No
-18,a donkey has feathers.,No,No
-19,a wolf has feathers.,No,No
-20,does a dog have feathers?,No,No
-21,does a donkey have feathers?,No,No
-22,a monkey has feathers.,Yes,No
-23,a lion has feathers.,No,No
-24,a zebra has feathers.,No,No
-25,does a sheep have feathers?,Yes,No
-26,a sheep has feathers.,Yes,No
-27,does a horse have feathers?,No,No
-28,does a lizard have feathers?,No,No
-29,a cow has feathers.,Yes,No
-30,does a goat have feathers?,Yes,No
-31,a deer has feathers.,No,No
-32,a snake has feathers.,No,No
-33,does a cat have feathers?,No,No
+0,a sheep has feathers.,Yes,No
+1,a worm has feathers.,No,No
+2,a dog has feathers.,No,No
+3,does a zebra have feathers?,No,No
+4,a bat has feathers.,No,No
+5,a horse has feathers.,No,No
+6,a elephant has feathers.,Yes,No
+7,does a bear have feathers?,Yes,No
+8,does a elephant have feathers?,Yes,No
+9,a pig has feathers.,Yes,No
+10,does a bull have feathers?,No,No
+11,a camel has feathers.,No,No
+12,a deer has feathers.,No,No
+13,a frog has feathers.,No,No
+14,does a ox have feathers?,No,No
+15,a cat has feathers.,Yes,No
+16,does a wolf have feathers?,No,No
+17,does a cow have feathers?,Yes,No
+18,does a frog have feathers?,No,No
+19,a rabbit has feathers.,Yes,No
+20,a lizard has feathers.,No,No
+21,does a sheep have feathers?,Yes,No
+22,does a fox have feathers?,No,No
+23,does a dog have feathers?,No,No
+24,a cow has feathers.,Yes,No
+25,a rhino has feathers.,Yes,No
+26,a bull has feathers.,No,No
+27,a ox has feathers.,No,No
+28,a tiger has feathers.,No,No
+29,does a rhino have feathers?,No,No
+30,does a snake have feathers?,No,No
+31,does a bat have feathers?,No,No
+32,a goat has feathers.,Yes,No
+33,a wolf has feathers.,No,No
 34,a rat has feathers.,No,No
-35,a goat has feathers.,Yes,No
-36,a giraffe has feathers.,Yes,No
-37,does a wolf have feathers?,No,No
-38,a camel has feathers.,No,No
-39,a frog has feathers.,No,No
-40,does a rabbit have feathers?,Yes,No
-41,does a pig have feathers?,Yes,No
-42,does a elephant have feathers?,Yes,No
-43,does a snake have feathers?,No,No
-44,does a tiger have feathers?,No,No
-45,does a zebra have feathers?,No,No
-46,does a rat have feathers?,No,No
-47,does a deer have feathers?,No,No
-48,a lizard has feathers.,No,No
-49,a elephant has feathers.,Yes,No
-50,a dog has feathers.,No,No
-51,a tiger has feathers.,No,No
-52,a fox has feathers.,No,No
-53,a rhino has feathers.,Yes,No
-54,a rabbit has feathers.,Yes,No
-55,does a worm have feathers?,No,No
-56,does a bull have feathers?,No,No
-57,does a giraffe have feathers?,Yes,No
+35,does a lion have feathers?,Yes,No
+36,does a camel have feathers?,No,No
+37,does a rat have feathers?,No,No
+38,a bear has feathers.,Yes,No
+39,does a worm have feathers?,No,No
+40,does a monkey have feathers?,Yes,No
+41,does a deer have feathers?,No,No
+42,a giraffe has feathers.,Yes,No
+43,does a lizard have feathers?,No,No
+44,does a horse have feathers?,No,No
+45,does a tiger have feathers?,No,No
+46,a fox has feathers.,No,No
+47,does a cat have feathers?,No,No
+48,does a goat have feathers?,Yes,No
+49,a donkey has feathers.,No,No
+50,does a pig have feathers?,Yes,No
+51,a zebra has feathers.,No,No
+52,does a donkey have feathers?,No,No
+53,does a rabbit have feathers?,Yes,No
+54,does a giraffe have feathers?,Yes,No
+55,a snake has feathers.,No,No
+56,a lion has feathers.,No,No
+57,a monkey has feathers.,Yes,No

@@ -1,55 +1,55 @@
 ,question,model_answer,true_answer
-0,a lizard has horns.,No,No
-1,a worm has horns.,No,No
-2,a spider has horns.,No,No
-3,does a elephant have horns?,Yes,No
-4,does a snail have horns?,No,No
-5,does a octupus have horns?,No,No
-6,does a jellyfish have horns?,No,No
-7,does a pig have horns?,No,No
-8,a elephant has horns.,Yes,No
-9,does a spider have horns?,No,No
-10,a jellyfish has horns.,No,No
-11,does a worm have horns?,No,No
-12,a salmon has horns.,No,No
-13,does a hippopotamus have horns?,Yes,No
-14,does a crocodile have horns?,No,No
-15,a dog has horns.,Yes,No
-16,does a cat have horns?,No,No
-17,a tapir has horns.,No,No
-18,a snail has horns.,No,No
-19,a alligator has horns.,No,No
-20,does a cobra have horns?,No,No
-21,a shark has horns.,No,No
+0,a shark has horns.,No,No
+1,does a spider have horns?,No,No
+2,a worm has horns.,No,No
+3,does a salamander have horns?,No,No
+4,does a dog have horns?,No,No
+5,a snail has horns.,No,No
+6,a alligator has horns.,No,No
+7,does a hippopotamus have horns?,Yes,No
+8,a tapir has horns.,No,No
+9,a jellyfish has horns.,No,No
+10,does a tarantula have horns?,No,No
+11,does a crocodile have horns?,No,No
+12,does a pig have horns?,No,No
+13,a caterpillar has horns.,No,No
+14,does a frog have horns?,No,No
+15,a iguana has horns.,No,No
+16,a dog has horns.,Yes,No
+17,a tuna has horns.,No,No
+18,a frog has horns.,No,No
+19,does a alligator have horns?,No,No
+20,a elephant has horns.,Yes,No
+21,does a iguana have horns?,No,No
 22,a tarantula has horns.,No,No
-23,a cobra has horns.,No,No
-24,does a dog have horns?,No,No
-25,a crocodile has horns.,Yes,No
-26,a cat has horns.,No,No
-27,does a snake have horns?,No,No
-28,a tuna has horns.,No,No
-29,a hippopotamus has horns.,Yes,No
-30,a frog has horns.,No,No
-31,does a alligator have horns?,No,No
-32,does a salamander have horns?,No,No
-33,does a lizard have horns?,No,No
+23,does a boa have horns?,No,No
+24,a pig has horns.,No,No
+25,does a snail have horns?,No,No
+26,a lizard has horns.,No,No
+27,a snake has horns.,No,No
+28,does a snake have horns?,No,No
+29,a salamander has horns.,No,No
+30,does a shark have horns?,No,No
+31,a hippopotamus has horns.,Yes,No
+32,does a salmon have horns?,No,No
+33,a boa has horns.,No,No
 34,does a caterpillar have horns?,No,No
-35,a pig has horns.,No,No
-36,does a tapir have horns?,No,No
-37,a fish has horns.,No,No
-38,a iguana has horns.,No,No
-39,a boa has horns.,No,No
-40,does a salmon have horns?,No,No
-41,does a flamingo have horns?,No,No
-42,does a frog have horns?,No,No
-43,a octupus has horns.,No,No
-44,a salamander has horns.,No,No
-45,does a iguana have horns?,No,No
-46,a caterpillar has horns.,No,No
-47,a snake has horns.,No,No
-48,does a fish have horns?,No,No
-49,does a tuna have horns?,No,No
-50,a flamingo has horns.,Yes,No
-51,does a shark have horns?,No,No
-52,does a tarantula have horns?,No,No
-53,does a boa have horns?,No,No
+35,does a lizard have horns?,No,No
+36,does a tuna have horns?,No,No
+37,a octupus has horns.,No,No
+38,a fish has horns.,No,No
+39,does a elephant have horns?,Yes,No
+40,a spider has horns.,No,No
+41,a salmon has horns.,No,No
+42,a cobra has horns.,No,No
+43,does a fish have horns?,No,No
+44,does a cobra have horns?,No,No
+45,does a cat have horns?,No,No
+46,a crocodile has horns.,Yes,No
+47,does a octupus have horns?,No,No
+48,does a tapir have horns?,No,No
+49,does a jellyfish have horns?,No,No
+50,a cat has horns.,No,No
+51,does a worm have horns?,No,No
+52,a flamingo has horns.,Yes,No
+53,does a flamingo have horns?,No,No
