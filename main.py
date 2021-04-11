@@ -682,7 +682,7 @@ def run_generate_questions():
 
 if __name__ == "__main__":
     # run_summarize_results()
-    # run_generate_questions()
+    run_generate_questions()
     # filter_questions()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
@@ -690,8 +690,8 @@ if __name__ == "__main__":
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
     # merge_questions(["csv/train_twenty_questions"], split=True, p=0.8)
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
-    mask = tokenizer.mask_token()
-    sentence = f"A {mask} lives underwater."
-    result = test_sentence_mlm(sentence, mask_index=2, batch_size=1, k=20)
-    for result in result:
-        print(result)
+    # mask = tokenizer.mask_token()
+    # sentence = f"A {mask} lives underwater."
+    # result = test_sentence_mlm(sentence, mask_index=2, batch_size=1, k=20)
+    # for result in result:
+    #     print(result)
