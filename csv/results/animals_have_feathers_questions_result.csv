@@ -1,117 +1,117 @@
 ,question,model_answer,true_answer
-0,a falcon has feathers.,Yes,Yes
-1,are feathers part of a songbird's body?,No,Yes
-2,are feathers part of a falcon's body?,Yes,Yes
-3,does a jay have feathers?,No,Yes
-4,a seabird has feathers.,Yes,Yes
-5,are feathers part of a wader's body?,No,Yes
-6,are feathers part of a goose's body?,No,Yes
-7,does a pigeon have feathers?,Yes,Yes
-8,feathers are part of a pigeon's body.,Yes,Yes
-9,does a vulture have feathers?,No,Yes
-10,feathers are part of a hen's body.,Yes,Yes
-11,are feathers part of a dove's body?,No,Yes
-12,are feathers part of a gull's body?,No,Yes
-13,feathers are part of a chicken's body.,Yes,Yes
-14,a pigeon has feathers.,Yes,Yes
-15,does a hummingbird have feathers?,Yes,Yes
-16,a hen has feathers.,Yes,Yes
-17,does a dove have feathers?,No,Yes
-18,a duck has feathers.,Yes,Yes
-19,feathers are part of a seabird's body.,Yes,Yes
-20,are feathers part of a ostrich's body?,No,Yes
-21,does a hen have feathers?,No,Yes
-22,does a falcon have feathers?,Yes,Yes
-23,are feathers part of a eagle's body?,No,Yes
-24,are feathers part of a albatrosses's body?,No,Yes
-25,are feathers part of a seabird's body?,Yes,Yes
-26,feathers are part of a stork's body.,Yes,Yes
-27,does a flamingo have feathers?,No,Yes
-28,does a peacock have feathers?,Yes,Yes
-29,a hummingbird has feathers.,Yes,Yes
-30,feathers are part of a albatrosses's body.,Yes,Yes
-31,does a parrot have feathers?,Yes,Yes
-32,feathers are part of a sparrow's body.,Yes,Yes
-33,are feathers part of a parrot's body?,Yes,Yes
-34,are feathers part of a hen's body?,Yes,Yes
-35,feathers are part of a flamingo's body.,Yes,Yes
-36,feathers are part of a vulture's body.,Yes,Yes
-37,a jay has feathers.,No,Yes
-38,a sparrow has feathers.,Yes,Yes
-39,are feathers part of a turkey's body?,No,Yes
-40,a goose has feathers.,Yes,Yes
-41,does a swan have feathers?,No,Yes
-42,are feathers part of a heron's body?,No,Yes
-43,feathers are part of a dove's body.,Yes,Yes
-44,a eagle has feathers.,No,Yes
-45,a bird has feathers.,Yes,Yes
-46,are feathers part of a macaw's body?,Yes,Yes
-47,a macaw has feathers.,Yes,Yes
-48,does a ostrich have feathers?,No,Yes
-49,a chicken has feathers.,Yes,Yes
-50,a owl has feathers.,No,Yes
-51,are feathers part of a sparrow's body?,No,Yes
-52,does a duck have feathers?,Yes,Yes
-53,are feathers part of a chicken's body?,No,Yes
+0,a stork has feathers.,Yes,Yes
+1,a seabird has feathers.,Yes,Yes
+2,does a ostrich have feathers?,Yes,Yes
+3,a falcon has feathers.,Yes,Yes
+4,are feathers part of a wader's body?,No,Yes
+5,are feathers part of a eagle's body?,No,Yes
+6,does a eagle have feathers?,Yes,Yes
+7,feathers are part of a jay's body.,Yes,Yes
+8,are feathers part of a peacock's body?,No,Yes
+9,a vulture has feathers.,Yes,Yes
+10,does a macaw have feathers?,Yes,Yes
+11,does a hummingbird have feathers?,Yes,Yes
+12,does a peacock have feathers?,Yes,Yes
+13,feathers are part of a stork's body.,Yes,Yes
+14,are feathers part of a falcon's body?,Yes,Yes
+15,a jay has feathers.,Yes,Yes
+16,does a duck have feathers?,Yes,Yes
+17,a peacock has feathers.,Yes,Yes
+18,a chicken has feathers.,Yes,Yes
+19,are feathers part of a sparrow's body?,Yes,Yes
+20,a eagle has feathers.,Yes,Yes
+21,feathers are part of a peacock's body.,Yes,Yes
+22,does a parrot have feathers?,Yes,Yes
+23,feathers are part of a pigeon's body.,Yes,Yes
+24,a heron has feathers.,Yes,Yes
+25,feathers are part of a chicken's body.,Yes,Yes
+26,feathers are part of a dove's body.,No,Yes
+27,a parrot has feathers.,Yes,Yes
+28,does a swan have feathers?,Yes,Yes
+29,are feathers part of a macaw's body?,Yes,Yes
+30,does a hen have feathers?,Yes,Yes
+31,are feathers part of a seabird's body?,Yes,Yes
+32,does a gull have feathers?,Yes,Yes
+33,feathers are part of a heron's body.,Yes,Yes
+34,feathers are part of a swan's body.,No,Yes
+35,does a dove have feathers?,Yes,Yes
+36,feathers are part of a wader's body.,Yes,Yes
+37,are feathers part of a albatrosses's body?,No,Yes
+38,are feathers part of a chicken's body?,No,Yes
+39,does a turkey have feathers?,Yes,Yes
+40,are feathers part of a heron's body?,Yes,Yes
+41,feathers are part of a ostrich's body.,Yes,Yes
+42,does a albatrosses have feathers?,Yes,Yes
+43,are feathers part of a jay's body?,No,Yes
+44,a wader has feathers.,No,Yes
+45,feathers are part of a parrot's body.,Yes,Yes
+46,does a bird have feathers?,Yes,Yes
+47,does a sparrow have feathers?,Yes,Yes
+48,does a goose have feathers?,Yes,Yes
+49,does a pigeon have feathers?,Yes,Yes
+50,does a heron have feathers?,Yes,Yes
+51,does a stork have feathers?,Yes,Yes
+52,feathers are part of a goose's body.,Yes,Yes
+53,are feathers part of a dove's body?,No,Yes
 54,are feathers part of a pigeon's body?,Yes,Yes
-55,feathers are part of a jay's body.,No,Yes
-56,does a stork have feathers?,No,Yes
-57,are feathers part of a stork's body?,No,Yes
-58,does a bird have feathers?,Yes,Yes
-59,does a turkey have feathers?,Yes,Yes
-60,a wader has feathers.,No,Yes
-61,does a seabird have feathers?,Yes,Yes
-62,does a sparrow have feathers?,No,Yes
-63,are feathers part of a peacock's body?,No,Yes
-64,a crow has feathers.,No,Yes
-65,a songbird has feathers.,Yes,Yes
-66,does a wader have feathers?,No,Yes
-67,feathers are part of a turkey's body.,Yes,Yes
-68,feathers are part of a macaw's body.,Yes,Yes
-69,does a macaw have feathers?,No,Yes
-70,does a gull have feathers?,No,Yes
-71,a albatrosses has feathers.,Yes,Yes
-72,feathers are part of a ostrich's body.,Yes,Yes
-73,a gull has feathers.,No,Yes
-74,feathers are part of a eagle's body.,Yes,Yes
-75,a ostrich has feathers.,No,Yes
-76,are feathers part of a flamingo's body?,No,Yes
-77,a turkey has feathers.,Yes,Yes
-78,does a eagle have feathers?,No,Yes
-79,are feathers part of a duck's body?,Yes,Yes
-80,feathers are part of a heron's body.,Yes,Yes
-81,a swan has feathers.,Yes,Yes
-82,a stork has feathers.,No,Yes
-83,feathers are part of a owl's body.,Yes,Yes
-84,feathers are part of a falcon's body.,Yes,Yes
-85,a peacock has feathers.,Yes,Yes
-86,are feathers part of a crow's body?,No,Yes
-87,feathers are part of a crow's body.,Yes,Yes
-88,a vulture has feathers.,No,Yes
-89,feathers are part of a duck's body.,Yes,Yes
-90,feathers are part of a swan's body.,Yes,Yes
-91,does a owl have feathers?,No,Yes
-92,does a chicken have feathers?,Yes,Yes
-93,feathers are part of a peacock's body.,Yes,Yes
-94,are feathers part of a bird's body?,Yes,Yes
-95,a heron has feathers.,No,Yes
-96,does a goose have feathers?,Yes,Yes
-97,feathers are part of a bird's body.,Yes,Yes
-98,feathers are part of a hummingbird's body.,Yes,Yes
-99,feathers are part of a gull's body.,Yes,Yes
-100,are feathers part of a owl's body?,Yes,Yes
-101,a flamingo has feathers.,No,Yes
-102,feathers are part of a wader's body.,Yes,Yes
-103,does a songbird have feathers?,Yes,Yes
-104,a dove has feathers.,No,Yes
-105,are feathers part of a jay's body?,No,Yes
-106,does a albatrosses have feathers?,No,Yes
-107,are feathers part of a vulture's body?,No,Yes
-108,does a crow have feathers?,No,Yes
-109,a parrot has feathers.,Yes,Yes
-110,are feathers part of a hummingbird's body?,Yes,Yes
-111,feathers are part of a songbird's body.,Yes,Yes
-112,are feathers part of a swan's body?,No,Yes
-113,feathers are part of a parrot's body.,Yes,Yes
-114,does a heron have feathers?,No,Yes
-115,feathers are part of a goose's body.,Yes,Yes
+55,feathers are part of a falcon's body.,Yes,Yes
+56,feathers are part of a turkey's body.,Yes,Yes
+57,feathers are part of a crow's body.,No,Yes
+58,does a flamingo have feathers?,Yes,Yes
+59,feathers are part of a flamingo's body.,Yes,Yes
+60,a albatrosses has feathers.,Yes,Yes
+61,a pigeon has feathers.,Yes,Yes
+62,a dove has feathers.,No,Yes
+63,feathers are part of a hummingbird's body.,Yes,Yes
+64,are feathers part of a vulture's body?,No,Yes
+65,does a seabird have feathers?,Yes,Yes
+66,does a songbird have feathers?,Yes,Yes
+67,are feathers part of a ostrich's body?,No,Yes
+68,a crow has feathers.,Yes,Yes
+69,feathers are part of a duck's body.,Yes,Yes
+70,a flamingo has feathers.,Yes,Yes
+71,does a jay have feathers?,Yes,Yes
+72,feathers are part of a songbird's body.,Yes,Yes
+73,a bird has feathers.,Yes,Yes
+74,feathers are part of a vulture's body.,No,Yes
+75,are feathers part of a parrot's body?,No,Yes
+76,does a falcon have feathers?,Yes,Yes
+77,feathers are part of a gull's body.,Yes,Yes
+78,a hummingbird has feathers.,Yes,Yes
+79,does a vulture have feathers?,Yes,Yes
+80,a hen has feathers.,Yes,Yes
+81,a ostrich has feathers.,No,Yes
+82,does a wader have feathers?,No,Yes
+83,are feathers part of a crow's body?,No,Yes
+84,are feathers part of a gull's body?,No,Yes
+85,are feathers part of a swan's body?,No,Yes
+86,a goose has feathers.,Yes,Yes
+87,are feathers part of a owl's body?,No,Yes
+88,feathers are part of a hen's body.,Yes,Yes
+89,a songbird has feathers.,Yes,Yes
+90,are feathers part of a flamingo's body?,No,Yes
+91,a owl has feathers.,Yes,Yes
+92,a duck has feathers.,Yes,Yes
+93,feathers are part of a seabird's body.,Yes,Yes
+94,feathers are part of a macaw's body.,Yes,Yes
+95,a swan has feathers.,Yes,Yes
+96,are feathers part of a hummingbird's body?,Yes,Yes
+97,feathers are part of a sparrow's body.,Yes,Yes
+98,are feathers part of a turkey's body?,No,Yes
+99,a macaw has feathers.,Yes,Yes
+100,feathers are part of a eagle's body.,No,Yes
+101,are feathers part of a duck's body?,Yes,Yes
+102,feathers are part of a owl's body.,Yes,Yes
+103,does a owl have feathers?,Yes,Yes
+104,a turkey has feathers.,Yes,Yes
+105,does a chicken have feathers?,Yes,Yes
+106,feathers are part of a bird's body.,Yes,Yes
+107,are feathers part of a bird's body?,Yes,Yes
+108,are feathers part of a stork's body?,No,Yes
+109,a sparrow has feathers.,Yes,Yes
+110,feathers are part of a albatrosses's body.,Yes,Yes
+111,are feathers part of a goose's body?,Yes,Yes
+112,a gull has feathers.,Yes,Yes
+113,are feathers part of a hen's body?,Yes,Yes
+114,are feathers part of a songbird's body?,Yes,Yes
+115,does a crow have feathers?,Yes,Yes

@@ -180,7 +180,7 @@ def test_model(config, output_path):
 
 if __name__ == "__main__":
     config = {
-            "train": False,
+        "train": False,
         "model_name": "t5-base",
         "gpus": 1,
         "max_epochs": 30,
@@ -192,7 +192,7 @@ if __name__ == "__main__":
         "dev_data": "csv/conceptnet_dev.csv",
         #"dev_data": "csv/val_questions.csv",
         "lr": 1e-4,
-        "checkpoint": "checkpoint/checkpoint-epoch=7-step=52567.ckpt",
+        "checkpoint": "checkpoint/checkpoint-epoch=8-step=59138.ckpt",
         #"checkpoint": None
     }
     print("Start Run")
@@ -203,14 +203,20 @@ if __name__ == "__main__":
     if config.get("train", True):
         train_model(config)
     else:
+        #test_files = ["csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
+        #       "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
+        #       "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
+        #       "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
+        #       "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
+        #       "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
+        #       "csv/animals_cant_fly", "csv/train_questions"]
         test_files = ["csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
                "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
                "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
                "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
                "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
-               "csv/animals_cant_fly", "csv/train_questions"]
-
+               "csv/animals_cant_fly"]
 #        test_files = ["csv/train"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
