@@ -108,7 +108,8 @@ class YesNoQuestionAnswering(pl.LightningModule):
 def train_model(config):
     checkpoint_callback = pl.callbacks.ModelCheckpoint(dirpath="checkpoint",
                                                        prefix="checkpoint", monitor="val_loss", mode="min",
-                                                       save_top_k=1)
+                                                       save_top_k=5,
+                                                       )
     train_params = dict(
         gpus=config.get("gpus"),
         max_epochs=config.get("max_epochs", 1),

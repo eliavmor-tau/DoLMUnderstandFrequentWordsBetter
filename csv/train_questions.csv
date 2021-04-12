@@ -1,2526 +1,485 @@
 ,question,label
-0,is butter dairy?,Yes
-1,is butter meat?,No
-2,is butter a vegetable?,No
-3,is butter a fruit?,No
-4,is butter alcoholic?,No
-5,is butter liquid?,No
-6,is butter a grain?,No
-7,is butter a cold beverage?,No
-8,is butter a hot beverage?,No
-9,is butter a dessert?,No
-10,is butter an animal product?,Yes
-11,is butter a spice?,No
-12,is cheese dairy?,Yes
-13,is cheese meat?,No
-14,is cheese a vegetable?,No
-15,is cheese a fruit?,No
-16,is cheese alcoholic?,No
-17,is cheese liquid?,No
-18,is cheese a grain?,No
-19,is cheese a cold beverage?,No
-20,is cheese a hot beverage?,No
-21,is cheese a dessert?,No
-22,is cheese an animal product?,Yes
-23,is cheese a spice?,No
-24,is cream dairy?,Yes
-25,is cream meat?,No
-26,is cream a vegetable?,No
-27,is cream a fruit?,No
-28,is cream alcoholic?,No
-29,is cream liquid?,No
-30,is cream a grain?,No
-31,is cream a cold beverage?,No
-32,is cream a hot beverage?,No
-33,is cream a dessert?,No
-34,is cream an animal product?,Yes
-35,is cream a spice?,No
-36,is milk dairy?,Yes
-37,is milk meat?,No
-38,is milk a vegetable?,No
-39,is milk a fruit?,No
-40,is milk alcoholic?,No
-41,is milk liquid?,Yes
-42,is milk a grain?,No
-43,is milk a cold beverage?,Yes
-44,is milk a hot beverage?,No
-45,is milk a dessert?,No
-46,is milk an animal product?,Yes
-47,is milk a spice?,No
-48,is yogurt dairy?,Yes
-49,is yogurt meat?,No
-50,is yogurt a vegetable?,No
-51,is yogurt a fruit?,No
-52,is yogurt alcoholic?,No
-53,is yogurt liquid?,No
-54,is yogurt a grain?,No
-55,is yogurt a cold beverage?,No
-56,is yogurt a hot beverage?,No
-57,is yogurt a dessert?,No
-58,is yogurt an animal product?,Yes
-59,is yogurt a spice?,No
-60,is brie dairy?,Yes
-61,is brie meat?,No
-62,is brie a vegetable?,No
-63,is brie a fruit?,No
-64,is brie alcoholic?,No
-65,is brie liquid?,No
-66,is brie a grain?,No
-67,is brie a cold beverage?,No
-68,is brie a hot beverage?,No
-69,is brie a dessert?,No
-70,is brie an animal product?,Yes
-71,is brie a spice?,No
-72,is camembert dairy?,Yes
-73,is camembert meat?,No
-74,is camembert a vegetable?,No
-75,is camembert a fruit?,No
-76,is camembert alcoholic?,No
-77,is camembert liquid?,No
-78,is camembert a grain?,No
-79,is camembert a cold beverage?,No
-80,is camembert a hot beverage?,No
-81,is camembert a dessert?,No
-82,is camembert an animal product?,Yes
-83,is camembert a spice?,No
-84,is cheddar dairy?,Yes
-85,is cheddar meat?,No
-86,is cheddar a vegetable?,No
-87,is cheddar a fruit?,No
-88,is cheddar alcoholic?,No
-89,is cheddar liquid?,No
-90,is cheddar a grain?,No
-91,is cheddar a cold beverage?,No
-92,is cheddar a hot beverage?,No
-93,is cheddar a dessert?,No
-94,is cheddar an animal product?,Yes
-95,is cheddar a spice?,No
-96,is cottage cheese dairy?,Yes
-97,is cottage cheese meat?,No
-98,is cottage cheese a vegetable?,No
-99,is cottage cheese a fruit?,No
-100,is cottage cheese alcoholic?,No
-101,is cottage cheese liquid?,No
-102,is cottage cheese a grain?,No
-103,is cottage cheese a cold beverage?,No
-104,is cottage cheese a hot beverage?,No
-105,is cottage cheese a dessert?,No
-106,is cottage cheese an animal product?,Yes
-107,is cottage cheese a spice?,No
-108,is cream cheese dairy?,Yes
-109,is cream cheese meat?,No
-110,is cream cheese a vegetable?,No
-111,is cream cheese a fruit?,No
-112,is cream cheese alcoholic?,No
-113,is cream cheese liquid?,No
-114,is cream cheese a grain?,No
-115,is cream cheese a cold beverage?,No
-116,is cream cheese a hot beverage?,No
-117,is cream cheese a dessert?,No
-118,is cream cheese an animal product?,Yes
-119,is cream cheese a spice?,No
-120,is gouda dairy?,Yes
-121,is gouda meat?,No
-122,is gouda a vegetable?,No
-123,is gouda a fruit?,No
-124,is gouda alcoholic?,No
-125,is gouda liquid?,No
-126,is gouda a grain?,No
-127,is gouda a cold beverage?,No
-128,is gouda a hot beverage?,No
-129,is gouda a dessert?,No
-130,is gouda an animal product?,Yes
-131,is gouda a spice?,No
-132,is mozzarella dairy?,Yes
-133,is mozzarella meat?,No
-134,is mozzarella a vegetable?,No
-135,is mozzarella a fruit?,No
-136,is mozzarella alcoholic?,No
-137,is mozzarella liquid?,No
-138,is mozzarella a grain?,No
-139,is mozzarella a cold beverage?,No
-140,is mozzarella a hot beverage?,No
-141,is mozzarella a dessert?,No
-142,is mozzarella an animal product?,Yes
-143,is mozzarella a spice?,No
-144,is parmesan dairy?,Yes
-145,is parmesan meat?,No
-146,is parmesan a vegetable?,No
-147,is parmesan a fruit?,No
-148,is parmesan alcoholic?,No
-149,is parmesan liquid?,No
-150,is parmesan a grain?,No
-151,is parmesan a cold beverage?,No
-152,is parmesan a hot beverage?,No
-153,is parmesan a dessert?,No
-154,is parmesan an animal product?,Yes
-155,is parmesan a spice?,No
-156,is ricotta dairy?,Yes
-157,is ricotta meat?,No
-158,is ricotta a vegetable?,No
-159,is ricotta a fruit?,No
-160,is ricotta alcoholic?,No
-161,is ricotta liquid?,No
-162,is ricotta a grain?,No
-163,is ricotta a cold beverage?,No
-164,is ricotta a hot beverage?,No
-165,is ricotta a dessert?,No
-166,is ricotta an animal product?,Yes
-167,is ricotta a spice?,No
-168,is ghee dairy?,Yes
-169,is ghee meat?,No
-170,is ghee a vegetable?,No
-171,is ghee a fruit?,No
-172,is ghee alcoholic?,No
-173,is ghee liquid?,No
-174,is ghee a grain?,No
-175,is ghee a cold beverage?,No
-176,is ghee a hot beverage?,No
-177,is ghee a dessert?,No
-178,is ghee an animal product?,Yes
-179,is ghee a spice?,No
-180,is beef dairy?,No
-181,is beef meat?,Yes
-182,is beef a vegetable?,No
-183,is beef a fruit?,No
-184,is beef alcoholic?,No
-185,is beef liquid?,No
-186,is beef a grain?,No
-187,is beef a cold beverage?,No
-188,is beef a hot beverage?,No
-189,is beef a dessert?,No
-190,is beef an animal product?,Yes
-191,is beef a spice?,No
-192,is lamb dairy?,No
-193,is lamb meat?,Yes
-194,is lamb a vegetable?,No
-195,is lamb a fruit?,No
-196,is lamb alcoholic?,No
-197,is lamb liquid?,No
-198,is lamb a grain?,No
-199,is lamb a cold beverage?,No
-200,is lamb a hot beverage?,No
-201,is lamb a dessert?,No
-202,is lamb an animal product?,Yes
-203,is lamb a spice?,No
-204,is pork dairy?,No
-205,is pork meat?,Yes
-206,is pork a vegetable?,No
-207,is pork a fruit?,No
-208,is pork alcoholic?,No
-209,is pork liquid?,No
-210,is pork a grain?,No
-211,is pork a cold beverage?,No
-212,is pork a hot beverage?,No
-213,is pork a dessert?,No
-214,is pork an animal product?,Yes
-215,is pork a spice?,No
-216,is sausage dairy?,No
-217,is sausage meat?,Yes
-218,is sausage a vegetable?,No
-219,is sausage a fruit?,No
-220,is sausage alcoholic?,No
-221,is sausage liquid?,No
-222,is sausage a grain?,No
-223,is sausage a cold beverage?,No
-224,is sausage a hot beverage?,No
-225,is sausage a dessert?,No
-226,is sausage an animal product?,Yes
-227,is sausage a spice?,No
-228,is veal dairy?,No
-229,is veal meat?,Yes
-230,is veal a vegetable?,No
-231,is veal a fruit?,No
-232,is veal alcoholic?,No
-233,is veal liquid?,No
-234,is veal a grain?,No
-235,is veal a cold beverage?,No
-236,is veal a hot beverage?,No
-237,is veal a dessert?,No
-238,is veal an animal product?,Yes
-239,is veal a spice?,No
-240,is rib dairy?,No
-241,is rib meat?,Yes
-242,is rib a vegetable?,No
-243,is rib a fruit?,No
-244,is rib alcoholic?,No
-245,is rib liquid?,No
-246,is rib a grain?,No
-247,is rib a cold beverage?,No
-248,is rib a hot beverage?,No
-249,is rib a dessert?,No
-250,is rib an animal product?,Yes
-251,is rib a spice?,No
-252,is steak dairy?,No
-253,is steak meat?,Yes
-254,is steak a vegetable?,No
-255,is steak a fruit?,No
-256,is steak alcoholic?,No
-257,is steak liquid?,No
-258,is steak a grain?,No
-259,is steak a cold beverage?,No
-260,is steak a hot beverage?,No
-261,is steak a dessert?,No
-262,is steak an animal product?,Yes
-263,is steak a spice?,No
-264,is salami dairy?,No
-265,is salami meat?,Yes
-266,is salami a vegetable?,No
-267,is salami a fruit?,No
-268,is salami alcoholic?,No
-269,is salami liquid?,No
-270,is salami a grain?,No
-271,is salami a cold beverage?,No
-272,is salami a hot beverage?,No
-273,is salami a dessert?,No
-274,is salami an animal product?,Yes
-275,is salami a spice?,No
-276,is chorizo dairy?,No
-277,is chorizo meat?,Yes
-278,is chorizo a vegetable?,No
-279,is chorizo a fruit?,No
-280,is chorizo alcoholic?,No
-281,is chorizo liquid?,No
-282,is chorizo a grain?,No
-283,is chorizo a cold beverage?,No
-284,is chorizo a hot beverage?,No
-285,is chorizo a dessert?,No
-286,is chorizo an animal product?,Yes
-287,is chorizo a spice?,No
-288,is turkey dairy?,No
-289,is turkey meat?,Yes
-290,is turkey a vegetable?,No
-291,is turkey a fruit?,No
-292,is turkey alcoholic?,No
-293,is turkey liquid?,No
-294,is turkey a grain?,No
-295,is turkey a cold beverage?,No
-296,is turkey a hot beverage?,No
-297,is turkey a dessert?,No
-298,is turkey an animal product?,Yes
-299,is turkey a spice?,No
-300,is short rib dairy?,No
-301,is short rib meat?,Yes
-302,is short rib a vegetable?,No
-303,is short rib a fruit?,No
-304,is short rib alcoholic?,No
-305,is short rib liquid?,No
-306,is short rib a grain?,No
-307,is short rib a cold beverage?,No
-308,is short rib a hot beverage?,No
-309,is short rib a dessert?,No
-310,is short rib an animal product?,Yes
-311,is short rib a spice?,No
-312,is bacon dairy?,No
-313,is bacon meat?,Yes
-314,is bacon a vegetable?,No
-315,is bacon a fruit?,No
-316,is bacon alcoholic?,No
-317,is bacon liquid?,No
-318,is bacon a grain?,No
-319,is bacon a cold beverage?,No
-320,is bacon a hot beverage?,No
-321,is bacon a dessert?,No
-322,is bacon an animal product?,Yes
-323,is bacon a spice?,No
-324,is ham dairy?,No
-325,is ham meat?,Yes
-326,is ham a vegetable?,No
-327,is ham a fruit?,No
-328,is ham alcoholic?,No
-329,is ham liquid?,No
-330,is ham a grain?,No
-331,is ham a cold beverage?,No
-332,is ham a hot beverage?,No
-333,is ham a dessert?,No
-334,is ham an animal product?,Yes
-335,is ham a spice?,No
-336,is chicken liver dairy?,No
-337,is chicken liver meat?,Yes
-338,is chicken liver a vegetable?,No
-339,is chicken liver a fruit?,No
-340,is chicken liver alcoholic?,No
-341,is chicken liver liquid?,No
-342,is chicken liver a grain?,No
-343,is chicken liver a cold beverage?,No
-344,is chicken liver a hot beverage?,No
-345,is chicken liver a dessert?,No
-346,is chicken liver an animal product?,Yes
-347,is chicken liver a spice?,No
-348,is chicken breast dairy?,No
-349,is chicken breast meat?,Yes
-350,is chicken breast a vegetable?,No
-351,is chicken breast a fruit?,No
-352,is chicken breast alcoholic?,No
-353,is chicken breast liquid?,No
-354,is chicken breast a grain?,No
-355,is chicken breast a cold beverage?,No
-356,is chicken breast a hot beverage?,No
-357,is chicken breast a dessert?,No
-358,is chicken breast an animal product?,Yes
-359,is chicken breast a spice?,No
-360,is artichoke dairy?,No
-361,is artichoke meat?,No
-362,is artichoke a vegetable?,Yes
-363,is artichoke a fruit?,No
-364,is artichoke alcoholic?,No
-365,is artichoke liquid?,No
-366,is artichoke a grain?,No
-367,is artichoke a cold beverage?,No
-368,is artichoke a hot beverage?,No
-369,is artichoke a dessert?,No
-370,is artichoke an animal product?,No
-371,is artichoke a spice?,No
-372,is asparagus dairy?,No
-373,is asparagus meat?,No
-374,is asparagus a vegetable?,Yes
-375,is asparagus a fruit?,No
-376,is asparagus alcoholic?,No
-377,is asparagus liquid?,No
-378,is asparagus a grain?,No
-379,is asparagus a cold beverage?,No
-380,is asparagus a hot beverage?,No
-381,is asparagus a dessert?,No
-382,is asparagus an animal product?,No
-383,is asparagus a spice?,No
-384,is broccoli dairy?,No
-385,is broccoli meat?,No
-386,is broccoli a vegetable?,Yes
-387,is broccoli a fruit?,No
-388,is broccoli alcoholic?,No
-389,is broccoli liquid?,No
-390,is broccoli a grain?,No
-391,is broccoli a cold beverage?,No
-392,is broccoli a hot beverage?,No
-393,is broccoli a dessert?,No
-394,is broccoli an animal product?,No
-395,is broccoli a spice?,No
-396,is cabbage dairy?,No
-397,is cabbage meat?,No
-398,is cabbage a vegetable?,Yes
-399,is cabbage a fruit?,No
-400,is cabbage alcoholic?,No
-401,is cabbage liquid?,No
-402,is cabbage a grain?,No
-403,is cabbage a cold beverage?,No
-404,is cabbage a hot beverage?,No
-405,is cabbage a dessert?,No
-406,is cabbage an animal product?,No
-407,is cabbage a spice?,No
-408,is carrot dairy?,No
-409,is carrot meat?,No
-410,is carrot a vegetable?,Yes
-411,is carrot a fruit?,No
-412,is carrot alcoholic?,No
-413,is carrot liquid?,No
-414,is carrot a grain?,No
-415,is carrot a cold beverage?,No
-416,is carrot a hot beverage?,No
-417,is carrot a dessert?,No
-418,is carrot an animal product?,No
-419,is carrot a spice?,No
-420,is cauliflower dairy?,No
-421,is cauliflower meat?,No
-422,is cauliflower a vegetable?,Yes
-423,is cauliflower a fruit?,No
-424,is cauliflower alcoholic?,No
-425,is cauliflower liquid?,No
-426,is cauliflower a grain?,No
-427,is cauliflower a cold beverage?,No
-428,is cauliflower a hot beverage?,No
-429,is cauliflower a dessert?,No
-430,is cauliflower an animal product?,No
-431,is cauliflower a spice?,No
-432,is celery dairy?,No
-433,is celery meat?,No
-434,is celery a vegetable?,Yes
-435,is celery a fruit?,No
-436,is celery alcoholic?,No
-437,is celery liquid?,No
-438,is celery a grain?,No
-439,is celery a cold beverage?,No
-440,is celery a hot beverage?,No
-441,is celery a dessert?,No
-442,is celery an animal product?,No
-443,is celery a spice?,No
-444,is chili dairy?,No
-445,is chili meat?,No
-446,is chili a vegetable?,Yes
-447,is chili a fruit?,No
-448,is chili alcoholic?,No
-449,is chili liquid?,No
-450,is chili a grain?,No
-451,is chili a cold beverage?,No
-452,is chili a hot beverage?,No
-453,is chili a dessert?,No
-454,is chili an animal product?,No
-455,is chili a spice?,No
-456,is eggplant dairy?,No
-457,is eggplant meat?,No
-458,is eggplant a vegetable?,Yes
-459,is eggplant a fruit?,No
-460,is eggplant alcoholic?,No
-461,is eggplant liquid?,No
-462,is eggplant a grain?,No
-463,is eggplant a cold beverage?,No
-464,is eggplant a hot beverage?,No
-465,is eggplant a dessert?,No
-466,is eggplant an animal product?,No
-467,is eggplant a spice?,No
-468,is jalapeno dairy?,No
-469,is jalapeno meat?,No
-470,is jalapeno a vegetable?,Yes
-471,is jalapeno a fruit?,No
-472,is jalapeno alcoholic?,No
-473,is jalapeno liquid?,No
-474,is jalapeno a grain?,No
-475,is jalapeno a cold beverage?,No
-476,is jalapeno a hot beverage?,No
-477,is jalapeno a dessert?,No
-478,is jalapeno an animal product?,No
-479,is jalapeno a spice?,No
-480,is kale dairy?,No
-481,is kale meat?,No
-482,is kale a vegetable?,Yes
-483,is kale a fruit?,No
-484,is kale alcoholic?,No
-485,is kale liquid?,No
-486,is kale a grain?,No
-487,is kale a cold beverage?,No
-488,is kale a hot beverage?,No
-489,is kale a dessert?,No
-490,is kale an animal product?,No
-491,is kale a spice?,No
-492,is kohlrabi dairy?,No
-493,is kohlrabi meat?,No
-494,is kohlrabi a vegetable?,Yes
-495,is kohlrabi a fruit?,No
-496,is kohlrabi alcoholic?,No
-497,is kohlrabi liquid?,No
-498,is kohlrabi a grain?,No
-499,is kohlrabi a cold beverage?,No
-500,is kohlrabi a hot beverage?,No
-501,is kohlrabi a dessert?,No
-502,is kohlrabi an animal product?,No
-503,is kohlrabi a spice?,No
-504,is leek dairy?,No
-505,is leek meat?,No
-506,is leek a vegetable?,Yes
-507,is leek a fruit?,No
-508,is leek alcoholic?,No
-509,is leek liquid?,No
-510,is leek a grain?,No
-511,is leek a cold beverage?,No
-512,is leek a hot beverage?,No
-513,is leek a dessert?,No
-514,is leek an animal product?,No
-515,is leek a spice?,No
-516,is lettuce dairy?,No
-517,is lettuce meat?,No
-518,is lettuce a vegetable?,Yes
-519,is lettuce a fruit?,No
-520,is lettuce alcoholic?,No
-521,is lettuce liquid?,No
-522,is lettuce a grain?,No
-523,is lettuce a cold beverage?,No
-524,is lettuce a hot beverage?,No
-525,is lettuce a dessert?,No
-526,is lettuce an animal product?,No
-527,is lettuce a spice?,No
-528,is onion dairy?,No
-529,is onion meat?,No
-530,is onion a vegetable?,Yes
-531,is onion a fruit?,No
-532,is onion alcoholic?,No
-533,is onion liquid?,No
-534,is onion a grain?,No
-535,is onion a cold beverage?,No
-536,is onion a hot beverage?,No
-537,is onion a dessert?,No
-538,is onion an animal product?,No
-539,is onion a spice?,No
-540,is potato dairy?,No
-541,is potato meat?,No
-542,is potato a vegetable?,Yes
-543,is potato a fruit?,No
-544,is potato alcoholic?,No
-545,is potato liquid?,No
-546,is potato a grain?,No
-547,is potato a cold beverage?,No
-548,is potato a hot beverage?,No
-549,is potato a dessert?,No
-550,is potato an animal product?,No
-551,is potato a spice?,No
-552,is radish dairy?,No
-553,is radish meat?,No
-554,is radish a vegetable?,Yes
-555,is radish a fruit?,No
-556,is radish alcoholic?,No
-557,is radish liquid?,No
-558,is radish a grain?,No
-559,is radish a cold beverage?,No
-560,is radish a hot beverage?,No
-561,is radish a dessert?,No
-562,is radish an animal product?,No
-563,is radish a spice?,No
-564,is shallot dairy?,No
-565,is shallot meat?,No
-566,is shallot a vegetable?,Yes
-567,is shallot a fruit?,No
-568,is shallot alcoholic?,No
-569,is shallot liquid?,No
-570,is shallot a grain?,No
-571,is shallot a cold beverage?,No
-572,is shallot a hot beverage?,No
-573,is shallot a dessert?,No
-574,is shallot an animal product?,No
-575,is shallot a spice?,No
-576,is spinach dairy?,No
-577,is spinach meat?,No
-578,is spinach a vegetable?,Yes
-579,is spinach a fruit?,No
-580,is spinach alcoholic?,No
-581,is spinach liquid?,No
-582,is spinach a grain?,No
-583,is spinach a cold beverage?,No
-584,is spinach a hot beverage?,No
-585,is spinach a dessert?,No
-586,is spinach an animal product?,No
-587,is spinach a spice?,No
-588,is tomato dairy?,No
-589,is tomato meat?,No
-590,is tomato a vegetable?,Yes
-591,is tomato a fruit?,No
-592,is tomato alcoholic?,No
-593,is tomato liquid?,No
-594,is tomato a grain?,No
-595,is tomato a cold beverage?,No
-596,is tomato a hot beverage?,No
-597,is tomato a dessert?,No
-598,is tomato an animal product?,No
-599,is tomato a spice?,No
-600,is zucchini dairy?,No
-601,is zucchini meat?,No
-602,is zucchini a vegetable?,Yes
-603,is zucchini a fruit?,No
-604,is zucchini alcoholic?,No
-605,is zucchini liquid?,No
-606,is zucchini a grain?,No
-607,is zucchini a cold beverage?,No
-608,is zucchini a hot beverage?,No
-609,is zucchini a dessert?,No
-610,is zucchini an animal product?,No
-611,is zucchini a spice?,No
-612,is cucumber dairy?,No
-613,is cucumber meat?,No
-614,is cucumber a vegetable?,Yes
-615,is cucumber a fruit?,No
-616,is cucumber alcoholic?,No
-617,is cucumber liquid?,No
-618,is cucumber a grain?,No
-619,is cucumber a cold beverage?,No
-620,is cucumber a hot beverage?,No
-621,is cucumber a dessert?,No
-622,is cucumber an animal product?,No
-623,is cucumber a spice?,No
-624,is apple dairy?,No
-625,is apple meat?,No
-626,is apple a vegetable?,No
-627,is apple a fruit?,Yes
-628,is apple alcoholic?,No
-629,is apple liquid?,No
-630,is apple a grain?,No
-631,is apple a cold beverage?,No
-632,is apple a hot beverage?,No
-633,is apple a dessert?,No
-634,is apple an animal product?,No
-635,is apple a spice?,No
-636,is apricot dairy?,No
-637,is apricot meat?,No
-638,is apricot a vegetable?,No
-639,is apricot a fruit?,Yes
-640,is apricot alcoholic?,No
-641,is apricot liquid?,No
-642,is apricot a grain?,No
-643,is apricot a cold beverage?,No
-644,is apricot a hot beverage?,No
-645,is apricot a dessert?,No
-646,is apricot an animal product?,No
-647,is apricot a spice?,No
-648,is avocado dairy?,No
-649,is avocado meat?,No
-650,is avocado a vegetable?,No
-651,is avocado a fruit?,Yes
-652,is avocado alcoholic?,No
-653,is avocado liquid?,No
-654,is avocado a grain?,No
-655,is avocado a cold beverage?,No
-656,is avocado a hot beverage?,No
-657,is avocado a dessert?,No
-658,is avocado an animal product?,No
-659,is avocado a spice?,No
-660,is banana dairy?,No
-661,is banana meat?,No
-662,is banana a vegetable?,No
-663,is banana a fruit?,Yes
-664,is banana alcoholic?,No
-665,is banana liquid?,No
-666,is banana a grain?,No
-667,is banana a cold beverage?,No
-668,is banana a hot beverage?,No
-669,is banana a dessert?,No
-670,is banana an animal product?,No
-671,is banana a spice?,No
-672,is berry dairy?,No
-673,is berry meat?,No
-674,is berry a vegetable?,No
-675,is berry a fruit?,Yes
-676,is berry alcoholic?,No
-677,is berry liquid?,No
-678,is berry a grain?,No
-679,is berry a cold beverage?,No
-680,is berry a hot beverage?,No
-681,is berry a dessert?,No
-682,is berry an animal product?,No
-683,is berry a spice?,No
-684,is blackberry dairy?,No
-685,is blackberry meat?,No
-686,is blackberry a vegetable?,No
-687,is blackberry a fruit?,Yes
-688,is blackberry alcoholic?,No
-689,is blackberry liquid?,No
-690,is blackberry a grain?,No
-691,is blackberry a cold beverage?,No
-692,is blackberry a hot beverage?,No
-693,is blackberry a dessert?,No
-694,is blackberry an animal product?,No
-695,is blackberry a spice?,No
-696,is blueberry dairy?,No
-697,is blueberry meat?,No
-698,is blueberry a vegetable?,No
-699,is blueberry a fruit?,Yes
-700,is blueberry alcoholic?,No
-701,is blueberry liquid?,No
-702,is blueberry a grain?,No
-703,is blueberry a cold beverage?,No
-704,is blueberry a hot beverage?,No
-705,is blueberry a dessert?,No
-706,is blueberry an animal product?,No
-707,is blueberry a spice?,No
-708,is cherry dairy?,No
-709,is cherry meat?,No
-710,is cherry a vegetable?,No
-711,is cherry a fruit?,Yes
-712,is cherry alcoholic?,No
-713,is cherry liquid?,No
-714,is cherry a grain?,No
-715,is cherry a cold beverage?,No
-716,is cherry a hot beverage?,No
-717,is cherry a dessert?,No
-718,is cherry an animal product?,No
-719,is cherry a spice?,No
-720,is citron dairy?,No
-721,is citron meat?,No
-722,is citron a vegetable?,No
-723,is citron a fruit?,Yes
-724,is citron alcoholic?,No
-725,is citron liquid?,No
-726,is citron a grain?,No
-727,is citron a cold beverage?,No
-728,is citron a hot beverage?,No
-729,is citron a dessert?,No
-730,is citron an animal product?,No
-731,is citron a spice?,No
-732,is fig dairy?,No
-733,is fig meat?,No
-734,is fig a vegetable?,No
-735,is fig a fruit?,Yes
-736,is fig alcoholic?,No
-737,is fig liquid?,No
-738,is fig a grain?,No
-739,is fig a cold beverage?,No
-740,is fig a hot beverage?,No
-741,is fig a dessert?,No
-742,is fig an animal product?,No
-743,is fig a spice?,No
-744,is grape dairy?,No
-745,is grape meat?,No
-746,is grape a vegetable?,No
-747,is grape a fruit?,Yes
-748,is grape alcoholic?,No
-749,is grape liquid?,No
-750,is grape a grain?,No
-751,is grape a cold beverage?,No
-752,is grape a hot beverage?,No
-753,is grape a dessert?,No
-754,is grape an animal product?,No
-755,is grape a spice?,No
-756,is grapefruit dairy?,No
-757,is grapefruit meat?,No
-758,is grapefruit a vegetable?,No
-759,is grapefruit a fruit?,Yes
-760,is grapefruit alcoholic?,No
-761,is grapefruit liquid?,No
-762,is grapefruit a grain?,No
-763,is grapefruit a cold beverage?,No
-764,is grapefruit a hot beverage?,No
-765,is grapefruit a dessert?,No
-766,is grapefruit an animal product?,No
-767,is grapefruit a spice?,No
-768,is guava dairy?,No
-769,is guava meat?,No
-770,is guava a vegetable?,No
-771,is guava a fruit?,Yes
-772,is guava alcoholic?,No
-773,is guava liquid?,No
-774,is guava a grain?,No
-775,is guava a cold beverage?,No
-776,is guava a hot beverage?,No
-777,is guava a dessert?,No
-778,is guava an animal product?,No
-779,is guava a spice?,No
-780,is kiwi dairy?,No
-781,is kiwi meat?,No
-782,is kiwi a vegetable?,No
-783,is kiwi a fruit?,Yes
-784,is kiwi alcoholic?,No
-785,is kiwi liquid?,No
-786,is kiwi a grain?,No
-787,is kiwi a cold beverage?,No
-788,is kiwi a hot beverage?,No
-789,is kiwi a dessert?,No
-790,is kiwi an animal product?,No
-791,is kiwi a spice?,No
-792,is lemon dairy?,No
-793,is lemon meat?,No
-794,is lemon a vegetable?,No
-795,is lemon a fruit?,Yes
-796,is lemon alcoholic?,No
-797,is lemon liquid?,No
-798,is lemon a grain?,No
-799,is lemon a cold beverage?,No
-800,is lemon a hot beverage?,No
-801,is lemon a dessert?,No
-802,is lemon an animal product?,No
-803,is lemon a spice?,No
-804,is lime dairy?,No
-805,is lime meat?,No
-806,is lime a vegetable?,No
-807,is lime a fruit?,Yes
-808,is lime alcoholic?,No
-809,is lime liquid?,No
-810,is lime a grain?,No
-811,is lime a cold beverage?,No
-812,is lime a hot beverage?,No
-813,is lime a dessert?,No
-814,is lime an animal product?,No
-815,is lime a spice?,No
-816,is litchi dairy?,No
-817,is litchi meat?,No
-818,is litchi a vegetable?,No
-819,is litchi a fruit?,Yes
-820,is litchi alcoholic?,No
-821,is litchi liquid?,No
-822,is litchi a grain?,No
-823,is litchi a cold beverage?,No
-824,is litchi a hot beverage?,No
-825,is litchi a dessert?,No
-826,is litchi an animal product?,No
-827,is litchi a spice?,No
-828,is melon dairy?,No
-829,is melon meat?,No
-830,is melon a vegetable?,No
-831,is melon a fruit?,Yes
-832,is melon alcoholic?,No
-833,is melon liquid?,No
-834,is melon a grain?,No
-835,is melon a cold beverage?,No
-836,is melon a hot beverage?,No
-837,is melon a dessert?,No
-838,is melon an animal product?,No
-839,is melon a spice?,No
-840,is orange dairy?,No
-841,is orange meat?,No
-842,is orange a vegetable?,No
-843,is orange a fruit?,Yes
-844,is orange alcoholic?,No
-845,is orange liquid?,No
-846,is orange a grain?,No
-847,is orange a cold beverage?,No
-848,is orange a hot beverage?,No
-849,is orange a dessert?,No
-850,is orange an animal product?,No
-851,is orange a spice?,No
-852,is papaya dairy?,No
-853,is papaya meat?,No
-854,is papaya a vegetable?,No
-855,is papaya a fruit?,Yes
-856,is papaya alcoholic?,No
-857,is papaya liquid?,No
-858,is papaya a grain?,No
-859,is papaya a cold beverage?,No
-860,is papaya a hot beverage?,No
-861,is papaya a dessert?,No
-862,is papaya an animal product?,No
-863,is papaya a spice?,No
-864,is peach dairy?,No
-865,is peach meat?,No
-866,is peach a vegetable?,No
-867,is peach a fruit?,Yes
-868,is peach alcoholic?,No
-869,is peach liquid?,No
-870,is peach a grain?,No
-871,is peach a cold beverage?,No
-872,is peach a hot beverage?,No
-873,is peach a dessert?,No
-874,is peach an animal product?,No
-875,is peach a spice?,No
-876,is watermelon dairy?,No
-877,is watermelon meat?,No
-878,is watermelon a vegetable?,No
-879,is watermelon a fruit?,Yes
-880,is watermelon alcoholic?,No
-881,is watermelon liquid?,No
-882,is watermelon a grain?,No
-883,is watermelon a cold beverage?,No
-884,is watermelon a hot beverage?,No
-885,is watermelon a dessert?,No
-886,is watermelon an animal product?,No
-887,is watermelon a spice?,No
-888,is arrack dairy?,No
-889,is arrack meat?,No
-890,is arrack a vegetable?,No
-891,is arrack a fruit?,No
-892,is arrack alcoholic?,Yes
-893,is arrack liquid?,Yes
-894,is arrack a grain?,No
-895,is arrack a cold beverage?,Yes
-896,is arrack a hot beverage?,No
-897,is arrack a dessert?,No
-898,is arrack an animal product?,No
-899,is arrack a spice?,No
-900,is beer dairy?,No
-901,is beer meat?,No
-902,is beer a vegetable?,No
-903,is beer a fruit?,No
-904,is beer alcoholic?,Yes
-905,is beer liquid?,Yes
-906,is beer a grain?,No
-907,is beer a cold beverage?,Yes
-908,is beer a hot beverage?,No
-909,is beer a dessert?,No
-910,is beer an animal product?,No
-911,is beer a spice?,No
-912,is gin dairy?,No
-913,is gin meat?,No
-914,is gin a vegetable?,No
-915,is gin a fruit?,No
-916,is gin alcoholic?,Yes
-917,is gin liquid?,Yes
-918,is gin a grain?,No
-919,is gin a cold beverage?,Yes
-920,is gin a hot beverage?,No
-921,is gin a dessert?,No
-922,is gin an animal product?,No
-923,is gin a spice?,No
-924,is kava dairy?,No
-925,is kava meat?,No
-926,is kava a vegetable?,No
-927,is kava a fruit?,No
-928,is kava alcoholic?,Yes
-929,is kava liquid?,Yes
-930,is kava a grain?,No
-931,is kava a cold beverage?,Yes
-932,is kava a hot beverage?,No
-933,is kava a dessert?,No
-934,is kava an animal product?,No
-935,is kava a spice?,No
-936,is liqueur dairy?,No
-937,is liqueur meat?,No
-938,is liqueur a vegetable?,No
-939,is liqueur a fruit?,No
-940,is liqueur alcoholic?,Yes
-941,is liqueur liquid?,Yes
-942,is liqueur a grain?,No
-943,is liqueur a cold beverage?,Yes
-944,is liqueur a hot beverage?,No
-945,is liqueur a dessert?,No
-946,is liqueur an animal product?,No
-947,is liqueur a spice?,No
-948,is muscat dairy?,No
-949,is muscat meat?,No
-950,is muscat a vegetable?,No
-951,is muscat a fruit?,No
-952,is muscat alcoholic?,Yes
-953,is muscat liquid?,Yes
-954,is muscat a grain?,No
-955,is muscat a cold beverage?,Yes
-956,is muscat a hot beverage?,No
-957,is muscat a dessert?,No
-958,is muscat an animal product?,No
-959,is muscat a spice?,No
-960,is ouzo dairy?,No
-961,is ouzo meat?,No
-962,is ouzo a vegetable?,No
-963,is ouzo a fruit?,No
-964,is ouzo alcoholic?,Yes
-965,is ouzo liquid?,Yes
-966,is ouzo a grain?,No
-967,is ouzo a cold beverage?,Yes
-968,is ouzo a hot beverage?,No
-969,is ouzo a dessert?,No
-970,is ouzo an animal product?,No
-971,is ouzo a spice?,No
-972,is punch dairy?,No
-973,is punch meat?,No
-974,is punch a vegetable?,No
-975,is punch a fruit?,No
-976,is punch alcoholic?,Yes
-977,is punch liquid?,Yes
-978,is punch a grain?,No
-979,is punch a cold beverage?,Yes
-980,is punch a hot beverage?,No
-981,is punch a dessert?,No
-982,is punch an animal product?,No
-983,is punch a spice?,No
-984,is rum dairy?,No
-985,is rum meat?,No
-986,is rum a vegetable?,No
-987,is rum a fruit?,No
-988,is rum alcoholic?,Yes
-989,is rum liquid?,Yes
-990,is rum a grain?,No
-991,is rum a cold beverage?,Yes
-992,is rum a hot beverage?,No
-993,is rum a dessert?,No
-994,is rum an animal product?,No
-995,is rum a spice?,No
-996,is scotch dairy?,No
-997,is scotch meat?,No
-998,is scotch a vegetable?,No
-999,is scotch a fruit?,No
-1000,is scotch alcoholic?,Yes
-1001,is scotch liquid?,Yes
-1002,is scotch a grain?,No
-1003,is scotch a cold beverage?,Yes
-1004,is scotch a hot beverage?,No
-1005,is scotch a dessert?,No
-1006,is scotch an animal product?,No
-1007,is scotch a spice?,No
-1008,is tequila dairy?,No
-1009,is tequila meat?,No
-1010,is tequila a vegetable?,No
-1011,is tequila a fruit?,No
-1012,is tequila alcoholic?,Yes
-1013,is tequila liquid?,Yes
-1014,is tequila a grain?,No
-1015,is tequila a cold beverage?,Yes
-1016,is tequila a hot beverage?,No
-1017,is tequila a dessert?,No
-1018,is tequila an animal product?,No
-1019,is tequila a spice?,No
-1020,is vodka dairy?,No
-1021,is vodka meat?,No
-1022,is vodka a vegetable?,No
-1023,is vodka a fruit?,No
-1024,is vodka alcoholic?,Yes
-1025,is vodka liquid?,Yes
-1026,is vodka a grain?,No
-1027,is vodka a cold beverage?,Yes
-1028,is vodka a hot beverage?,No
-1029,is vodka a dessert?,No
-1030,is vodka an animal product?,No
-1031,is vodka a spice?,No
-1032,is whiskey dairy?,No
-1033,is whiskey meat?,No
-1034,is whiskey a vegetable?,No
-1035,is whiskey a fruit?,No
-1036,is whiskey alcoholic?,Yes
-1037,is whiskey liquid?,Yes
-1038,is whiskey a grain?,No
-1039,is whiskey a cold beverage?,Yes
-1040,is whiskey a hot beverage?,No
-1041,is whiskey a dessert?,No
-1042,is whiskey an animal product?,No
-1043,is whiskey a spice?,No
-1044,is wine dairy?,No
-1045,is wine meat?,No
-1046,is wine a vegetable?,No
-1047,is wine a fruit?,No
-1048,is wine alcoholic?,Yes
-1049,is wine liquid?,Yes
-1050,is wine a grain?,No
-1051,is wine a cold beverage?,Yes
-1052,is wine a hot beverage?,No
-1053,is wine a dessert?,No
-1054,is wine an animal product?,No
-1055,is wine a spice?,No
-1056,is chocolate milk dairy?,No
-1057,is chocolate milk meat?,No
-1058,is chocolate milk a vegetable?,No
-1059,is chocolate milk a fruit?,No
-1060,is chocolate milk alcoholic?,No
-1061,is chocolate milk liquid?,Yes
-1062,is chocolate milk a grain?,No
-1063,is chocolate milk a cold beverage?,No
-1064,is chocolate milk a hot beverage?,Yes
-1065,is chocolate milk a dessert?,No
-1066,is chocolate milk an animal product?,Yes
-1067,is chocolate milk a spice?,No
-1068,is coffee dairy?,No
-1069,is coffee meat?,No
-1070,is coffee a vegetable?,No
-1071,is coffee a fruit?,No
-1072,is coffee alcoholic?,No
-1073,is coffee liquid?,Yes
-1074,is coffee a grain?,No
-1075,is coffee a cold beverage?,No
-1076,is coffee a hot beverage?,Yes
-1077,is coffee a dessert?,No
-1078,is coffee an animal product?,No
-1079,is coffee a spice?,No
-1080,is ice tea dairy?,No
-1081,is ice tea meat?,No
-1082,is ice tea a vegetable?,No
-1083,is ice tea a fruit?,No
-1084,is ice tea alcoholic?,No
-1085,is ice tea liquid?,Yes
-1086,is ice tea a grain?,No
-1087,is ice tea a cold beverage?,Yes
-1088,is ice tea a hot beverage?,No
-1089,is ice tea a dessert?,No
-1090,is ice tea an animal product?,No
-1091,is ice tea a spice?,No
-1092,is pepsi dairy?,No
-1093,is pepsi meat?,No
-1094,is pepsi a vegetable?,No
-1095,is pepsi a fruit?,No
-1096,is pepsi alcoholic?,No
-1097,is pepsi liquid?,Yes
-1098,is pepsi a grain?,No
-1099,is pepsi a cold beverage?,Yes
-1100,is pepsi a hot beverage?,No
-1101,is pepsi a dessert?,No
-1102,is pepsi an animal product?,No
-1103,is pepsi a spice?,No
-1104,is tea dairy?,No
-1105,is tea meat?,No
-1106,is tea a vegetable?,No
-1107,is tea a fruit?,No
-1108,is tea alcoholic?,No
-1109,is tea liquid?,Yes
-1110,is tea a grain?,No
-1111,is tea a cold beverage?,No
-1112,is tea a hot beverage?,Yes
-1113,is tea a dessert?,No
-1114,is tea an animal product?,No
-1115,is tea a spice?,No
-1116,is tonic dairy?,No
-1117,is tonic meat?,No
-1118,is tonic a vegetable?,No
-1119,is tonic a fruit?,No
-1120,is tonic alcoholic?,No
-1121,is tonic liquid?,Yes
-1122,is tonic a grain?,No
-1123,is tonic a cold beverage?,Yes
-1124,is tonic a hot beverage?,No
-1125,is tonic a dessert?,No
-1126,is tonic an animal product?,No
-1127,is tonic a spice?,No
-1128,is corn dairy?,No
-1129,is corn meat?,No
-1130,is corn a vegetable?,No
-1131,is corn a fruit?,No
-1132,is corn alcoholic?,No
-1133,is corn liquid?,No
-1134,is corn a grain?,Yes
-1135,is corn a cold beverage?,No
-1136,is corn a hot beverage?,No
-1137,is corn a dessert?,No
-1138,is corn an animal product?,No
-1139,is corn a spice?,No
-1140,is rice dairy?,No
-1141,is rice meat?,No
-1142,is rice a vegetable?,No
-1143,is rice a fruit?,No
-1144,is rice alcoholic?,No
-1145,is rice liquid?,No
-1146,is rice a grain?,Yes
-1147,is rice a cold beverage?,No
-1148,is rice a hot beverage?,No
-1149,is rice a dessert?,No
-1150,is rice an animal product?,No
-1151,is rice a spice?,No
-1152,is wheat dairy?,No
-1153,is wheat meat?,No
-1154,is wheat a vegetable?,No
-1155,is wheat a fruit?,No
-1156,is wheat alcoholic?,No
-1157,is wheat liquid?,No
-1158,is wheat a grain?,Yes
-1159,is wheat a cold beverage?,No
-1160,is wheat a hot beverage?,No
-1161,is wheat a dessert?,No
-1162,is wheat an animal product?,No
-1163,is wheat a spice?,No
-1164,is quinoa dairy?,No
-1165,is quinoa meat?,No
-1166,is quinoa a vegetable?,No
-1167,is quinoa a fruit?,No
-1168,is quinoa alcoholic?,No
-1169,is quinoa liquid?,No
-1170,is quinoa a grain?,Yes
-1171,is quinoa a cold beverage?,No
-1172,is quinoa a hot beverage?,No
-1173,is quinoa a dessert?,No
-1174,is quinoa an animal product?,No
-1175,is quinoa a spice?,No
-1176,is bread dairy?,No
-1177,is bread meat?,No
-1178,is bread a vegetable?,No
-1179,is bread a fruit?,No
-1180,is bread alcoholic?,No
-1181,is bread liquid?,No
-1182,is bread a grain?,Yes
-1183,is bread a cold beverage?,No
-1184,is bread a hot beverage?,No
-1185,is bread a dessert?,No
-1186,is bread an animal product?,No
-1187,is bread a spice?,No
-1188,is ice cream dairy?,Yes
-1189,is ice cream meat?,No
-1190,is ice cream a vegetable?,No
-1191,is ice cream a fruit?,No
-1192,is ice cream alcoholic?,No
-1193,is ice cream liquid?,No
-1194,is ice cream a grain?,No
-1195,is ice cream a cold beverage?,No
-1196,is ice cream a hot beverage?,No
-1197,is ice cream a dessert?,Yes
-1198,is ice cream an animal product?,Yes
-1199,is ice cream a spice?,No
-1200,is chocolate cake dairy?,Yes
-1201,is chocolate cake meat?,No
-1202,is chocolate cake a vegetable?,No
-1203,is chocolate cake a fruit?,No
-1204,is chocolate cake alcoholic?,No
-1205,is chocolate cake liquid?,No
-1206,is chocolate cake a grain?,No
-1207,is chocolate cake a cold beverage?,No
-1208,is chocolate cake a hot beverage?,No
-1209,is chocolate cake a dessert?,Yes
-1210,is chocolate cake an animal product?,Yes
-1211,is chocolate cake a spice?,No
-1212,is cheese cake dairy?,Yes
-1213,is cheese cake meat?,No
-1214,is cheese cake a vegetable?,No
-1215,is cheese cake a fruit?,No
-1216,is cheese cake alcoholic?,No
-1217,is cheese cake liquid?,No
-1218,is cheese cake a grain?,No
-1219,is cheese cake a cold beverage?,No
-1220,is cheese cake a hot beverage?,No
-1221,is cheese cake a dessert?,Yes
-1222,is cheese cake an animal product?,Yes
-1223,is cheese cake a spice?,No
-1224,is tiramisu dairy?,Yes
-1225,is tiramisu meat?,No
-1226,is tiramisu a vegetable?,No
-1227,is tiramisu a fruit?,No
-1228,is tiramisu alcoholic?,No
-1229,is tiramisu liquid?,No
-1230,is tiramisu a grain?,No
-1231,is tiramisu a cold beverage?,No
-1232,is tiramisu a hot beverage?,No
-1233,is tiramisu a dessert?,Yes
-1234,is tiramisu an animal product?,Yes
-1235,is tiramisu a spice?,No
-1236,is crack pie dairy?,Yes
-1237,is crack pie meat?,No
-1238,is crack pie a vegetable?,No
-1239,is crack pie a fruit?,No
-1240,is crack pie alcoholic?,No
-1241,is crack pie liquid?,No
-1242,is crack pie a grain?,No
-1243,is crack pie a cold beverage?,No
-1244,is crack pie a hot beverage?,No
-1245,is crack pie a dessert?,Yes
-1246,is crack pie an animal product?,Yes
-1247,is crack pie a spice?,No
-1248,is souffle dairy?,Yes
-1249,is souffle meat?,No
-1250,is souffle a vegetable?,No
-1251,is souffle a fruit?,No
-1252,is souffle alcoholic?,No
-1253,is souffle liquid?,No
-1254,is souffle a grain?,No
-1255,is souffle a cold beverage?,No
-1256,is souffle a hot beverage?,No
-1257,is souffle a dessert?,Yes
-1258,is souffle an animal product?,Yes
-1259,is souffle a spice?,No
-1260,is anise dairy?,No
-1261,is anise meat?,No
-1262,is anise a vegetable?,No
-1263,is anise a fruit?,No
-1264,is anise alcoholic?,No
-1265,is anise liquid?,No
-1266,is anise a grain?,No
-1267,is anise a cold beverage?,No
-1268,is anise a hot beverage?,No
-1269,is anise a dessert?,No
-1270,is anise an animal product?,No
-1271,is anise a spice?,Yes
-1272,is basil dairy?,No
-1273,is basil meat?,No
-1274,is basil a vegetable?,No
-1275,is basil a fruit?,No
-1276,is basil alcoholic?,No
-1277,is basil liquid?,No
-1278,is basil a grain?,No
-1279,is basil a cold beverage?,No
-1280,is basil a hot beverage?,No
-1281,is basil a dessert?,No
-1282,is basil an animal product?,No
-1283,is basil a spice?,Yes
-1284,is bergamot dairy?,No
-1285,is bergamot meat?,No
-1286,is bergamot a vegetable?,No
-1287,is bergamot a fruit?,No
-1288,is bergamot alcoholic?,No
-1289,is bergamot liquid?,No
-1290,is bergamot a grain?,No
-1291,is bergamot a cold beverage?,No
-1292,is bergamot a hot beverage?,No
-1293,is bergamot a dessert?,No
-1294,is bergamot an animal product?,No
-1295,is bergamot a spice?,Yes
-1296,is black cumin dairy?,No
-1297,is black cumin meat?,No
-1298,is black cumin a vegetable?,No
-1299,is black cumin a fruit?,No
-1300,is black cumin alcoholic?,No
-1301,is black cumin liquid?,No
-1302,is black cumin a grain?,No
-1303,is black cumin a cold beverage?,No
-1304,is black cumin a hot beverage?,No
-1305,is black cumin a dessert?,No
-1306,is black cumin an animal product?,No
-1307,is black cumin a spice?,Yes
-1308,is black pepper dairy?,No
-1309,is black pepper meat?,No
-1310,is black pepper a vegetable?,No
-1311,is black pepper a fruit?,No
-1312,is black pepper alcoholic?,No
-1313,is black pepper liquid?,No
-1314,is black pepper a grain?,No
-1315,is black pepper a cold beverage?,No
-1316,is black pepper a hot beverage?,No
-1317,is black pepper a dessert?,No
-1318,is black pepper an animal product?,No
-1319,is black pepper a spice?,Yes
-1320,is cinnamon dairy?,No
-1321,is cinnamon meat?,No
-1322,is cinnamon a vegetable?,No
-1323,is cinnamon a fruit?,No
-1324,is cinnamon alcoholic?,No
-1325,is cinnamon liquid?,No
-1326,is cinnamon a grain?,No
-1327,is cinnamon a cold beverage?,No
-1328,is cinnamon a hot beverage?,No
-1329,is cinnamon a dessert?,No
-1330,is cinnamon an animal product?,No
-1331,is cinnamon a spice?,Yes
-1332,is cumin dairy?,No
-1333,is cumin meat?,No
-1334,is cumin a vegetable?,No
-1335,is cumin a fruit?,No
-1336,is cumin alcoholic?,No
-1337,is cumin liquid?,No
-1338,is cumin a grain?,No
-1339,is cumin a cold beverage?,No
-1340,is cumin a hot beverage?,No
-1341,is cumin a dessert?,No
-1342,is cumin an animal product?,No
-1343,is cumin a spice?,Yes
-1344,is curry dairy?,No
-1345,is curry meat?,No
-1346,is curry a vegetable?,No
-1347,is curry a fruit?,No
-1348,is curry alcoholic?,No
-1349,is curry liquid?,No
-1350,is curry a grain?,No
-1351,is curry a cold beverage?,No
-1352,is curry a hot beverage?,No
-1353,is curry a dessert?,No
-1354,is curry an animal product?,No
-1355,is curry a spice?,Yes
-1356,is lavender dairy?,No
-1357,is lavender meat?,No
-1358,is lavender a vegetable?,No
-1359,is lavender a fruit?,No
-1360,is lavender alcoholic?,No
-1361,is lavender liquid?,No
-1362,is lavender a grain?,No
-1363,is lavender a cold beverage?,No
-1364,is lavender a hot beverage?,No
-1365,is lavender a dessert?,No
-1366,is lavender an animal product?,No
-1367,is lavender a spice?,Yes
-1368,is lemon grass dairy?,No
-1369,is lemon grass meat?,No
-1370,is lemon grass a vegetable?,No
-1371,is lemon grass a fruit?,No
-1372,is lemon grass alcoholic?,No
-1373,is lemon grass liquid?,No
-1374,is lemon grass a grain?,No
-1375,is lemon grass a cold beverage?,No
-1376,is lemon grass a hot beverage?,No
-1377,is lemon grass a dessert?,No
-1378,is lemon grass an animal product?,No
-1379,is lemon grass a spice?,Yes
-1380,is oregano dairy?,No
-1381,is oregano meat?,No
-1382,is oregano a vegetable?,No
-1383,is oregano a fruit?,No
-1384,is oregano alcoholic?,No
-1385,is oregano liquid?,No
-1386,is oregano a grain?,No
-1387,is oregano a cold beverage?,No
-1388,is oregano a hot beverage?,No
-1389,is oregano a dessert?,No
-1390,is oregano an animal product?,No
-1391,is oregano a spice?,Yes
-1392,is paprika dairy?,No
-1393,is paprika meat?,No
-1394,is paprika a vegetable?,No
-1395,is paprika a fruit?,No
-1396,is paprika alcoholic?,No
-1397,is paprika liquid?,No
-1398,is paprika a grain?,No
-1399,is paprika a cold beverage?,No
-1400,is paprika a hot beverage?,No
-1401,is paprika a dessert?,No
-1402,is paprika an animal product?,No
-1403,is paprika a spice?,Yes
-1404,is rosemary dairy?,No
-1405,is rosemary meat?,No
-1406,is rosemary a vegetable?,No
-1407,is rosemary a fruit?,No
-1408,is rosemary alcoholic?,No
-1409,is rosemary liquid?,No
-1410,is rosemary a grain?,No
-1411,is rosemary a cold beverage?,No
-1412,is rosemary a hot beverage?,No
-1413,is rosemary a dessert?,No
-1414,is rosemary an animal product?,No
-1415,is rosemary a spice?,Yes
-1416,is saffron dairy?,No
-1417,is saffron meat?,No
-1418,is saffron a vegetable?,No
-1419,is saffron a fruit?,No
-1420,is saffron alcoholic?,No
-1421,is saffron liquid?,No
-1422,is saffron a grain?,No
-1423,is saffron a cold beverage?,No
-1424,is saffron a hot beverage?,No
-1425,is saffron a dessert?,No
-1426,is saffron an animal product?,No
-1427,is saffron a spice?,Yes
-1428,is thyme dairy?,No
-1429,is thyme meat?,No
-1430,is thyme a vegetable?,No
-1431,is thyme a fruit?,No
-1432,is thyme alcoholic?,No
-1433,is thyme liquid?,No
-1434,is thyme a grain?,No
-1435,is thyme a cold beverage?,No
-1436,is thyme a hot beverage?,No
-1437,is thyme a dessert?,No
-1438,is thyme an animal product?,No
-1439,is thyme a spice?,Yes
-1440,is turmeric dairy?,No
-1441,is turmeric meat?,No
-1442,is turmeric a vegetable?,No
-1443,is turmeric a fruit?,No
-1444,is turmeric alcoholic?,No
-1445,is turmeric liquid?,No
-1446,is turmeric a grain?,No
-1447,is turmeric a cold beverage?,No
-1448,is turmeric a hot beverage?,No
-1449,is turmeric a dessert?,No
-1450,is turmeric an animal product?,No
-1451,is turmeric a spice?,Yes
-1452,does a bed have legs?,Yes
-1453,is a bed used for storage?,No
-1454,is a bed electrical?,No
-1455,is a bed used for sitting?,No
-1456,can a bed be found in a kitchen?,No
-1457,can a bed be found in a bedroom?,Yes
-1458,can a bed be found in a living room?,No
-1459,can a bed be found in a bathroom?,No
-1460,is a bed used for cooking?,No
-1461,does a chair have legs?,Yes
-1462,is a chair used for storage?,No
-1463,is a chair electrical?,No
-1464,is a chair used for sitting?,Yes
-1465,can a chair be found in a kitchen?,Yes
-1466,can a chair be found in a bedroom?,Yes
-1467,can a chair be found in a living room?,Yes
-1468,can a chair be found in a bathroom?,No
-1469,is a chair used for cooking?,No
-1470,does a couch have legs?,Yes
-1471,is a couch used for storage?,No
-1472,is a couch electrical?,No
-1473,is a couch used for sitting?,Yes
-1474,can a couch be found in a kitchen?,No
-1475,can a couch be found in a bedroom?,Yes
-1476,can a couch be found in a living room?,Yes
-1477,can a couch be found in a bathroom?,No
-1478,is a couch used for cooking?,No
-1479,does a cradle have legs?,Yes
-1480,is a cradle used for storage?,No
-1481,is a cradle electrical?,No
-1482,is a cradle used for sitting?,No
-1483,can a cradle be found in a kitchen?,No
-1484,can a cradle be found in a bedroom?,Yes
-1485,can a cradle be found in a living room?,No
-1486,can a cradle be found in a bathroom?,No
-1487,is a cradle used for cooking?,No
-1488,does a desk have legs?,Yes
-1489,is a desk used for storage?,No
-1490,is a desk electrical?,No
-1491,is a desk used for sitting?,No
-1492,can a desk be found in a kitchen?,No
-1493,can a desk be found in a bedroom?,Yes
-1494,can a desk be found in a living room?,Yes
-1495,can a desk be found in a bathroom?,No
-1496,is a desk used for cooking?,No
-1497,does a dresser have legs?,Yes
-1498,is a dresser used for storage?,Yes
-1499,is a dresser electrical?,No
-1500,is a dresser used for sitting?,No
-1501,can a dresser be found in a kitchen?,No
-1502,can a dresser be found in a bedroom?,Yes
-1503,can a dresser be found in a living room?,No
-1504,can a dresser be found in a bathroom?,No
-1505,is a dresser used for cooking?,No
-1506,does a lamp have legs?,No
-1507,is a lamp used for storage?,No
-1508,is a lamp electrical?,Yes
-1509,is a lamp used for sitting?,No
-1510,can a lamp be found in a kitchen?,Yes
-1511,can a lamp be found in a bedroom?,Yes
-1512,can a lamp be found in a living room?,Yes
-1513,can a lamp be found in a bathroom?,Yes
-1514,is a lamp used for cooking?,No
-1515,does a armchair have legs?,Yes
-1516,is a armchair used for storage?,No
-1517,is a armchair electrical?,No
-1518,is a armchair used for sitting?,Yes
-1519,can a armchair be found in a kitchen?,No
-1520,can a armchair be found in a bedroom?,Yes
-1521,can a armchair be found in a living room?,Yes
-1522,can a armchair be found in a bathroom?,No
-1523,is a armchair used for cooking?,No
-1524,does a sofa have legs?,Yes
-1525,is a sofa used for storage?,No
-1526,is a sofa electrical?,No
-1527,is a sofa used for sitting?,Yes
-1528,can a sofa be found in a kitchen?,No
-1529,can a sofa be found in a bedroom?,No
-1530,can a sofa be found in a living room?,Yes
-1531,can a sofa be found in a bathroom?,No
-1532,is a sofa used for cooking?,No
-1533,does a stool have legs?,Yes
-1534,is a stool used for storage?,No
-1535,is a stool electrical?,No
-1536,is a stool used for sitting?,Yes
-1537,can a stool be found in a kitchen?,Yes
-1538,can a stool be found in a bedroom?,No
-1539,can a stool be found in a living room?,Yes
-1540,can a stool be found in a bathroom?,No
-1541,is a stool used for cooking?,No
-1542,does a table have legs?,Yes
-1543,is a table used for storage?,No
-1544,is a table electrical?,No
-1545,is a table used for sitting?,No
-1546,can a table be found in a kitchen?,Yes
-1547,can a table be found in a bedroom?,Yes
-1548,can a table be found in a living room?,Yes
-1549,can a table be found in a bathroom?,No
-1550,is a table used for cooking?,No
-1551,does a closet have legs?,No
-1552,is a closet used for storage?,Yes
-1553,is a closet electrical?,No
-1554,is a closet used for sitting?,No
-1555,can a closet be found in a kitchen?,No
-1556,can a closet be found in a bedroom?,Yes
-1557,can a closet be found in a living room?,No
-1558,can a closet be found in a bathroom?,No
-1559,is a closet used for cooking?,No
-1560,does a dishwasher have legs?,No
-1561,is a dishwasher used for storage?,No
-1562,is a dishwasher electrical?,Yes
-1563,is a dishwasher used for sitting?,No
-1564,can a dishwasher be found in a kitchen?,Yes
-1565,can a dishwasher be found in a bedroom?,No
-1566,can a dishwasher be found in a living room?,No
-1567,can a dishwasher be found in a bathroom?,No
-1568,is a dishwasher used for cooking?,No
-1569,does a refrigerator have legs?,No
-1570,is a refrigerator used for storage?,Yes
-1571,is a refrigerator electrical?,Yes
-1572,is a refrigerator used for sitting?,No
-1573,can a refrigerator be found in a kitchen?,Yes
-1574,can a refrigerator be found in a bedroom?,No
-1575,can a refrigerator be found in a living room?,No
-1576,can a refrigerator be found in a bathroom?,No
-1577,is a refrigerator used for cooking?,No
-1578,does a oven have legs?,No
-1579,is a oven used for storage?,No
-1580,is a oven electrical?,Yes
-1581,is a oven used for sitting?,No
-1582,can a oven be found in a kitchen?,Yes
-1583,can a oven be found in a bedroom?,No
-1584,can a oven be found in a living room?,No
-1585,can a oven be found in a bathroom?,No
-1586,is a oven used for cooking?,Yes
-1587,does a microwave oven have legs?,No
-1588,is a microwave oven used for storage?,No
-1589,is a microwave oven electrical?,Yes
-1590,is a microwave oven used for sitting?,No
-1591,can a microwave oven be found in a kitchen?,Yes
-1592,can a microwave oven be found in a bedroom?,No
-1593,can a microwave oven be found in a living room?,No
-1594,can a microwave oven be found in a bathroom?,No
-1595,is a microwave oven used for cooking?,Yes
-1596,does a stove have legs?,No
-1597,is a stove used for storage?,No
-1598,is a stove electrical?,Yes
-1599,is a stove used for sitting?,No
-1600,can a stove be found in a kitchen?,Yes
-1601,can a stove be found in a bedroom?,No
-1602,can a stove be found in a living room?,No
-1603,can a stove be found in a bathroom?,No
-1604,is a stove used for cooking?,Yes
-1605,does a food processor have legs?,No
-1606,is a food processor used for storage?,No
-1607,is a food processor electrical?,Yes
-1608,is a food processor used for sitting?,No
-1609,can a food processor be found in a kitchen?,Yes
-1610,can a food processor be found in a bedroom?,No
-1611,can a food processor be found in a living room?,No
-1612,can a food processor be found in a bathroom?,No
-1613,is a food processor used for cooking?,Yes
-1614,does a pot have legs?,No
-1615,is a pot used for storage?,No
-1616,is a pot electrical?,No
-1617,is a pot used for sitting?,No
-1618,can a pot be found in a kitchen?,Yes
-1619,can a pot be found in a bedroom?,No
-1620,can a pot be found in a living room?,No
-1621,can a pot be found in a bathroom?,No
-1622,is a pot used for cooking?,Yes
-1623,does a pan have legs?,No
-1624,is a pan used for storage?,No
-1625,is a pan electrical?,No
-1626,is a pan used for sitting?,No
-1627,can a pan be found in a kitchen?,Yes
-1628,can a pan be found in a bedroom?,No
-1629,can a pan be found in a living room?,No
-1630,can a pan be found in a bathroom?,No
-1631,is a pan used for cooking?,Yes
-1632,does a plate have legs?,No
-1633,is a plate used for storage?,No
-1634,is a plate electrical?,No
-1635,is a plate used for sitting?,No
-1636,can a plate be found in a kitchen?,Yes
-1637,can a plate be found in a bedroom?,No
-1638,can a plate be found in a living room?,No
-1639,can a plate be found in a bathroom?,No
-1640,is a plate used for cooking?,No
-1641,does a knife have legs?,No
-1642,is a knife used for storage?,No
-1643,is a knife electrical?,No
-1644,is a knife used for sitting?,No
-1645,can a knife be found in a kitchen?,Yes
-1646,can a knife be found in a bedroom?,No
-1647,can a knife be found in a living room?,No
-1648,can a knife be found in a bathroom?,No
-1649,is a knife used for cooking?,Yes
-1650,does a fork have legs?,No
-1651,is a fork used for storage?,No
-1652,is a fork electrical?,No
-1653,is a fork used for sitting?,No
-1654,can a fork be found in a kitchen?,Yes
-1655,can a fork be found in a bedroom?,No
-1656,can a fork be found in a living room?,No
-1657,can a fork be found in a bathroom?,No
-1658,is a fork used for cooking?,Yes
-1659,does a spoon have legs?,No
-1660,is a spoon used for storage?,No
-1661,is a spoon electrical?,No
-1662,is a spoon used for sitting?,No
-1663,can a spoon be found in a kitchen?,Yes
-1664,can a spoon be found in a bedroom?,No
-1665,can a spoon be found in a living room?,No
-1666,can a spoon be found in a bathroom?,No
-1667,is a spoon used for cooking?,Yes
-1668,does a spatula have legs?,No
-1669,is a spatula used for storage?,No
-1670,is a spatula electrical?,No
-1671,is a spatula used for sitting?,No
-1672,can a spatula be found in a kitchen?,Yes
-1673,can a spatula be found in a bedroom?,No
-1674,can a spatula be found in a living room?,No
-1675,can a spatula be found in a bathroom?,No
-1676,is a spatula used for cooking?,Yes
-1677,does a kettle have legs?,No
-1678,is a kettle used for storage?,No
-1679,is a kettle electrical?,No
-1680,is a kettle used for sitting?,No
-1681,can a kettle be found in a kitchen?,Yes
-1682,can a kettle be found in a bedroom?,No
-1683,can a kettle be found in a living room?,No
-1684,can a kettle be found in a bathroom?,No
-1685,is a kettle used for cooking?,Yes
-1686,does a rug have legs?,No
-1687,is a rug used for storage?,No
-1688,is a rug electrical?,No
-1689,is a rug used for sitting?,No
-1690,can a rug be found in a kitchen?,No
-1691,can a rug be found in a bedroom?,Yes
-1692,can a rug be found in a living room?,Yes
-1693,can a rug be found in a bathroom?,Yes
-1694,is a rug used for cooking?,No
-1695,does a television have legs?,No
-1696,is a television used for storage?,No
-1697,is a television electrical?,Yes
-1698,is a television used for sitting?,No
-1699,can a television be found in a kitchen?,Yes
-1700,can a television be found in a bedroom?,Yes
-1701,can a television be found in a living room?,Yes
-1702,can a television be found in a bathroom?,No
-1703,is a television used for cooking?,No
-1704,does a pillow have legs?,No
-1705,is a pillow used for storage?,No
-1706,is a pillow electrical?,No
-1707,is a pillow used for sitting?,No
-1708,can a pillow be found in a kitchen?,No
-1709,can a pillow be found in a bedroom?,Yes
-1710,can a pillow be found in a living room?,Yes
-1711,can a pillow be found in a bathroom?,No
-1712,is a pillow used for cooking?,No
-1713,does a blanket have legs?,No
-1714,is a blanket used for storage?,No
-1715,is a blanket electrical?,No
-1716,is a blanket used for sitting?,No
-1717,can a blanket be found in a kitchen?,No
-1718,can a blanket be found in a bedroom?,Yes
-1719,can a blanket be found in a living room?,No
-1720,can a blanket be found in a bathroom?,No
-1721,is a blanket used for cooking?,No
-1722,does a toilet have legs?,No
-1723,is a toilet used for storage?,No
-1724,is a toilet electrical?,No
-1725,is a toilet used for sitting?,No
-1726,can a toilet be found in a kitchen?,No
-1727,can a toilet be found in a bedroom?,No
-1728,can a toilet be found in a living room?,No
-1729,can a toilet be found in a bathroom?,Yes
-1730,is a toilet used for cooking?,No
-1731,does a bath have legs?,No
-1732,is a bath used for storage?,No
-1733,is a bath electrical?,No
-1734,is a bath used for sitting?,No
-1735,can a bath be found in a kitchen?,No
-1736,can a bath be found in a bedroom?,No
-1737,can a bath be found in a living room?,No
-1738,can a bath be found in a bathroom?,Yes
-1739,is a bath used for cooking?,No
-1740,does a shower have legs?,No
-1741,is a shower used for storage?,No
-1742,is a shower electrical?,No
-1743,is a shower used for sitting?,No
-1744,can a shower be found in a kitchen?,No
-1745,can a shower be found in a bedroom?,No
-1746,can a shower be found in a living room?,No
-1747,can a shower be found in a bathroom?,Yes
-1748,is a shower used for cooking?,No
-1749,does a sink have legs?,No
-1750,is a sink used for storage?,No
-1751,is a sink electrical?,No
-1752,is a sink used for sitting?,No
-1753,can a sink be found in a kitchen?,Yes
-1754,can a sink be found in a bedroom?,No
-1755,can a sink be found in a living room?,No
-1756,can a sink be found in a bathroom?,Yes
-1757,is a sink used for cooking?,No
-1758,does a towel have legs?,No
-1759,is a towel used for storage?,No
-1760,is a towel electrical?,No
-1761,is a towel used for sitting?,No
-1762,can a towel be found in a kitchen?,Yes
-1763,can a towel be found in a bedroom?,No
-1764,can a towel be found in a living room?,No
-1765,can a towel be found in a bathroom?,Yes
-1766,is a towel used for cooking?,No
-1767,does a air conditioner have legs?,No
-1768,is a air conditioner used for storage?,No
-1769,is a air conditioner electrical?,No
-1770,is a air conditioner used for sitting?,No
-1771,can a air conditioner be found in a kitchen?,Yes
-1772,can a air conditioner be found in a bedroom?,Yes
-1773,can a air conditioner be found in a living room?,Yes
-1774,can a air conditioner be found in a bathroom?,Yes
-1775,is a air conditioner used for cooking?,No
-1776,does a aircraft have wheels?,Yes
-1777,does a aircraft have four wheels?,No
-1778,does a aircraft have two wheels?,No
-1779,does a aircraft have wings?,Yes
-1780,does a aircraft fly?,Yes
-1781,does a aircraft travel on land?,No
-1782,does a aircraft travel on water?,No
-1783,does a aircraft travel in space?,No
-1784,is a aircraft used for construction?,No
-1785,does a aircraft carry one person?,No
-1786,does a aircraft have a steering wheel?,Yes
-1787,can a aircraft carry cargo?,Yes
-1788,does a aircraft have  a motor?,Yes
-1789,does a airplane have wheels?,Yes
-1790,does a airplane have four wheels?,No
-1791,does a airplane have two wheels?,No
-1792,does a airplane have wings?,Yes
-1793,does a airplane fly?,Yes
-1794,does a airplane travel on land?,No
-1795,does a airplane travel on water?,No
-1796,does a airplane travel in space?,No
-1797,is a airplane used for construction?,No
-1798,does a airplane carry one person?,No
-1799,does a airplane have a steering wheel?,Yes
-1800,can a airplane carry cargo?,Yes
-1801,does a airplane have  a motor?,Yes
-1802,does a airship have wheels?,No
-1803,does a airship have four wheels?,No
-1804,does a airship have two wheels?,No
-1805,does a airship have wings?,No
-1806,does a airship fly?,Yes
-1807,does a airship travel on land?,No
-1808,does a airship travel on water?,No
-1809,does a airship travel in space?,No
-1810,is a airship used for construction?,No
-1811,does a airship carry one person?,No
-1812,does a airship have a steering wheel?,No
-1813,can a airship carry cargo?,Yes
-1814,does a airship have  a motor?,Yes
-1815,does a ambulance have wheels?,Yes
-1816,does a ambulance have four wheels?,Yes
-1817,does a ambulance have two wheels?,No
-1818,does a ambulance have wings?,No
-1819,does a ambulance fly?,No
-1820,does a ambulance travel on land?,Yes
-1821,does a ambulance travel on water?,No
-1822,does a ambulance travel in space?,No
-1823,is a ambulance used for construction?,No
-1824,does a ambulance carry one person?,No
-1825,does a ambulance have a steering wheel?,Yes
-1826,can a ambulance carry cargo?,No
-1827,does a ambulance have  a motor?,Yes
-1828,does a battleship have wheels?,No
-1829,does a battleship have four wheels?,No
-1830,does a battleship have two wheels?,No
-1831,does a battleship have wings?,No
-1832,does a battleship fly?,No
-1833,does a battleship travel on land?,No
-1834,does a battleship travel on water?,Yes
-1835,does a battleship travel in space?,No
-1836,is a battleship used for construction?,No
-1837,does a battleship carry one person?,No
-1838,does a battleship have a steering wheel?,Yes
-1839,can a battleship carry cargo?,Yes
-1840,does a battleship have  a motor?,Yes
-1841,does a bicycle have wheels?,Yes
-1842,does a bicycle have four wheels?,No
-1843,does a bicycle have two wheels?,Yes
-1844,does a bicycle have wings?,No
-1845,does a bicycle fly?,No
-1846,does a bicycle travel on land?,Yes
-1847,does a bicycle travel on water?,No
-1848,does a bicycle travel in space?,No
-1849,is a bicycle used for construction?,No
-1850,does a bicycle carry one person?,Yes
-1851,does a bicycle have a steering wheel?,No
-1852,can a bicycle carry cargo?,No
-1853,does a bicycle have  a motor?,No
-1854,does a boat have wheels?,No
-1855,does a boat have four wheels?,No
-1856,does a boat have two wheels?,No
-1857,does a boat have wings?,No
-1858,does a boat fly?,No
-1859,does a boat travel on land?,No
-1860,does a boat travel on water?,Yes
-1861,does a boat travel in space?,No
-1862,is a boat used for construction?,No
-1863,does a boat carry one person?,No
-1864,does a boat have a steering wheel?,Yes
-1865,can a boat carry cargo?,No
-1866,does a boat have  a motor?,Yes
-1867,does a bus have wheels?,Yes
-1868,does a bus have four wheels?,No
-1869,does a bus have two wheels?,No
-1870,does a bus have wings?,No
-1871,does a bus fly?,No
-1872,does a bus travel on land?,Yes
-1873,does a bus travel on water?,No
-1874,does a bus travel in space?,No
-1875,is a bus used for construction?,No
-1876,does a bus carry one person?,No
-1877,does a bus have a steering wheel?,Yes
-1878,can a bus carry cargo?,No
-1879,does a bus have  a motor?,Yes
-1880,does a cab have wheels?,Yes
-1881,does a cab have four wheels?,Yes
-1882,does a cab have two wheels?,No
-1883,does a cab have wings?,No
-1884,does a cab fly?,No
-1885,does a cab travel on land?,Yes
-1886,does a cab travel on water?,No
-1887,does a cab travel in space?,No
-1888,is a cab used for construction?,No
-1889,does a cab carry one person?,No
-1890,does a cab have a steering wheel?,Yes
-1891,can a cab carry cargo?,No
-1892,does a cab have  a motor?,Yes
-1893,does a car have wheels?,Yes
-1894,does a car have four wheels?,Yes
-1895,does a car have two wheels?,No
-1896,does a car have wings?,No
-1897,does a car fly?,No
-1898,does a car travel on land?,Yes
-1899,does a car travel on water?,No
-1900,does a car travel in space?,No
-1901,is a car used for construction?,No
-1902,does a car carry one person?,No
-1903,does a car have a steering wheel?,Yes
-1904,can a car carry cargo?,No
-1905,does a car have  a motor?,Yes
-1906,does a jeep have wheels?,Yes
-1907,does a jeep have four wheels?,Yes
-1908,does a jeep have two wheels?,No
-1909,does a jeep have wings?,No
-1910,does a jeep fly?,No
-1911,does a jeep travel on land?,Yes
-1912,does a jeep travel on water?,No
-1913,does a jeep travel in space?,No
-1914,is a jeep used for construction?,No
-1915,does a jeep carry one person?,No
-1916,does a jeep have a steering wheel?,Yes
-1917,can a jeep carry cargo?,No
-1918,does a jeep have  a motor?,Yes
-1919,does a ship have wheels?,No
-1920,does a ship have four wheels?,No
-1921,does a ship have two wheels?,No
-1922,does a ship have wings?,No
-1923,does a ship fly?,No
-1924,does a ship travel on land?,No
-1925,does a ship travel on water?,Yes
-1926,does a ship travel in space?,No
-1927,is a ship used for construction?,No
-1928,does a ship carry one person?,No
-1929,does a ship have a steering wheel?,Yes
-1930,can a ship carry cargo?,No
-1931,does a ship have  a motor?,Yes
-1932,does a spacecraft have wheels?,Yes
-1933,does a spacecraft have four wheels?,No
-1934,does a spacecraft have two wheels?,No
-1935,does a spacecraft have wings?,Yes
-1936,does a spacecraft fly?,Yes
-1937,does a spacecraft travel on land?,No
-1938,does a spacecraft travel on water?,No
-1939,does a spacecraft travel in space?,Yes
-1940,is a spacecraft used for construction?,No
-1941,does a spacecraft carry one person?,No
-1942,does a spacecraft have a steering wheel?,Yes
-1943,can a spacecraft carry cargo?,Yes
-1944,does a spacecraft have  a motor?,Yes
-1945,does a van have wheels?,Yes
-1946,does a van have four wheels?,Yes
-1947,does a van have two wheels?,No
-1948,does a van have wings?,No
-1949,does a van fly?,No
-1950,does a van travel on land?,Yes
-1951,does a van travel on water?,No
-1952,does a van travel in space?,No
-1953,is a van used for construction?,No
-1954,does a van carry one person?,No
-1955,does a van have a steering wheel?,Yes
-1956,can a van carry cargo?,Yes
-1957,does a van have  a motor?,Yes
-1958,does a helicopter have wheels?,No
-1959,does a helicopter have four wheels?,No
-1960,does a helicopter have two wheels?,No
-1961,does a helicopter have wings?,No
-1962,does a helicopter fly?,Yes
-1963,does a helicopter travel on land?,No
-1964,does a helicopter travel on water?,No
-1965,does a helicopter travel in space?,No
-1966,is a helicopter used for construction?,No
-1967,does a helicopter carry one person?,No
-1968,does a helicopter have a steering wheel?,No
-1969,can a helicopter carry cargo?,Yes
-1970,does a helicopter have  a motor?,Yes
-1971,does a submarine have wheels?,No
-1972,does a submarine have four wheels?,No
-1973,does a submarine have two wheels?,No
-1974,does a submarine have wings?,No
-1975,does a submarine fly?,No
-1976,does a submarine travel on land?,No
-1977,does a submarine travel on water?,Yes
-1978,does a submarine travel in space?,No
-1979,is a submarine used for construction?,No
-1980,does a submarine carry one person?,No
-1981,does a submarine have a steering wheel?,No
-1982,can a submarine carry cargo?,Yes
-1983,does a submarine have  a motor?,Yes
-1984,does a scooter have wheels?,Yes
-1985,does a scooter have four wheels?,No
-1986,does a scooter have two wheels?,Yes
-1987,does a scooter have wings?,No
-1988,does a scooter fly?,No
-1989,does a scooter travel on land?,Yes
-1990,does a scooter travel on water?,No
-1991,does a scooter travel in space?,No
-1992,is a scooter used for construction?,No
-1993,does a scooter carry one person?,Yes
-1994,does a scooter have a steering wheel?,No
-1995,can a scooter carry cargo?,No
-1996,does a scooter have  a motor?,Yes
-1997,does a sports car have wheels?,Yes
-1998,does a sports car have four wheels?,Yes
-1999,does a sports car have two wheels?,No
-2000,does a sports car have wings?,No
-2001,does a sports car fly?,No
-2002,does a sports car travel on land?,Yes
-2003,does a sports car travel on water?,No
-2004,does a sports car travel in space?,No
-2005,is a sports car used for construction?,No
-2006,does a sports car carry one person?,No
-2007,does a sports car have a steering wheel?,Yes
-2008,can a sports car carry cargo?,No
-2009,does a sports car have  a motor?,Yes
-2010,does a taxi have wheels?,Yes
-2011,does a taxi have four wheels?,Yes
-2012,does a taxi have two wheels?,No
-2013,does a taxi have wings?,No
-2014,does a taxi fly?,No
-2015,does a taxi travel on land?,Yes
-2016,does a taxi travel on water?,No
-2017,does a taxi travel in space?,No
-2018,is a taxi used for construction?,No
-2019,does a taxi carry one person?,No
-2020,does a taxi have a steering wheel?,Yes
-2021,can a taxi carry cargo?,No
-2022,does a taxi have  a motor?,Yes
-2023,does a police car have wheels?,Yes
-2024,does a police car have four wheels?,Yes
-2025,does a police car have two wheels?,No
-2026,does a police car have wings?,No
-2027,does a police car fly?,No
-2028,does a police car travel on land?,Yes
-2029,does a police car travel on water?,No
-2030,does a police car travel in space?,No
-2031,is a police car used for construction?,No
-2032,does a police car carry one person?,No
-2033,does a police car have a steering wheel?,Yes
-2034,can a police car carry cargo?,No
-2035,does a police car have  a motor?,Yes
-2036,does a skateboard have wheels?,Yes
-2037,does a skateboard have four wheels?,Yes
-2038,does a skateboard have two wheels?,No
-2039,does a skateboard have wings?,No
-2040,does a skateboard fly?,No
-2041,does a skateboard travel on land?,Yes
-2042,does a skateboard travel on water?,No
-2043,does a skateboard travel in space?,No
-2044,is a skateboard used for construction?,No
-2045,does a skateboard carry one person?,Yes
-2046,does a skateboard have a steering wheel?,No
-2047,can a skateboard carry cargo?,No
-2048,does a skateboard have  a motor?,No
-2049,does a mountain bike have wheels?,Yes
-2050,does a mountain bike have four wheels?,No
-2051,does a mountain bike have two wheels?,Yes
-2052,does a mountain bike have wings?,No
-2053,does a mountain bike fly?,No
-2054,does a mountain bike travel on land?,Yes
-2055,does a mountain bike travel on water?,No
-2056,does a mountain bike travel in space?,No
-2057,is a mountain bike used for construction?,No
-2058,does a mountain bike carry one person?,Yes
-2059,does a mountain bike have a steering wheel?,No
-2060,can a mountain bike carry cargo?,No
-2061,does a mountain bike have  a motor?,No
-2062,does a motorcycle have wheels?,Yes
-2063,does a motorcycle have four wheels?,No
-2064,does a motorcycle have two wheels?,Yes
-2065,does a motorcycle have wings?,No
-2066,does a motorcycle fly?,No
-2067,does a motorcycle travel on land?,Yes
-2068,does a motorcycle travel on water?,No
-2069,does a motorcycle travel in space?,No
-2070,is a motorcycle used for construction?,No
-2071,does a motorcycle carry one person?,Yes
-2072,does a motorcycle have a steering wheel?,No
-2073,can a motorcycle carry cargo?,No
-2074,does a motorcycle have  a motor?,Yes
-2075,does a fire truck have wheels?,Yes
-2076,does a fire truck have four wheels?,No
-2077,does a fire truck have two wheels?,No
-2078,does a fire truck have wings?,No
-2079,does a fire truck fly?,No
-2080,does a fire truck travel on land?,Yes
-2081,does a fire truck travel on water?,No
-2082,does a fire truck travel in space?,No
-2083,is a fire truck used for construction?,No
-2084,does a fire truck carry one person?,No
-2085,does a fire truck have a steering wheel?,Yes
-2086,can a fire truck carry cargo?,No
-2087,does a fire truck have  a motor?,Yes
-2088,does a crane have wheels?,Yes
-2089,does a crane have four wheels?,No
-2090,does a crane have two wheels?,No
-2091,does a crane have wings?,No
-2092,does a crane fly?,No
-2093,does a crane travel on land?,Yes
-2094,does a crane travel on water?,No
-2095,does a crane travel in space?,No
-2096,is a crane used for construction?,Yes
-2097,does a crane carry one person?,No
-2098,does a crane have a steering wheel?,Yes
-2099,can a crane carry cargo?,Yes
-2100,does a crane have  a motor?,Yes
-2101,does a forklift have wheels?,Yes
-2102,does a forklift have four wheels?,No
-2103,does a forklift have two wheels?,No
-2104,does a forklift have wings?,No
-2105,does a forklift fly?,No
-2106,does a forklift travel on land?,Yes
-2107,does a forklift travel on water?,No
-2108,does a forklift travel in space?,No
-2109,is a forklift used for construction?,Yes
-2110,does a forklift carry one person?,No
-2111,does a forklift have a steering wheel?,Yes
-2112,can a forklift carry cargo?,Yes
-2113,does a forklift have  a motor?,Yes
-2114,does a tractor have wheels?,Yes
-2115,does a tractor have four wheels?,Yes
-2116,does a tractor have two wheels?,No
-2117,does a tractor have wings?,No
-2118,does a tractor fly?,No
-2119,does a tractor travel on land?,Yes
-2120,does a tractor travel on water?,No
-2121,does a tractor travel in space?,No
-2122,is a tractor used for construction?,Yes
-2123,does a tractor carry one person?,No
-2124,does a tractor have a steering wheel?,Yes
-2125,can a tractor carry cargo?,Yes
-2126,does a tractor have  a motor?,Yes
-2127,does a recycling truck have wheels?,Yes
-2128,does a recycling truck have four wheels?,No
-2129,does a recycling truck have two wheels?,No
-2130,does a recycling truck have wings?,No
-2131,does a recycling truck fly?,No
-2132,does a recycling truck travel on land?,Yes
-2133,does a recycling truck travel on water?,No
-2134,does a recycling truck travel in space?,No
-2135,is a recycling truck used for construction?,Yes
-2136,does a recycling truck carry one person?,No
-2137,does a recycling truck have a steering wheel?,Yes
-2138,can a recycling truck carry cargo?,No
-2139,does a recycling truck have  a motor?,Yes
-2140,does a cement mixer have wheels?,Yes
-2141,does a cement mixer have four wheels?,No
-2142,does a cement mixer have two wheels?,No
-2143,does a cement mixer have wings?,No
-2144,does a cement mixer fly?,No
-2145,does a cement mixer travel on land?,Yes
-2146,does a cement mixer travel on water?,No
-2147,does a cement mixer travel in space?,No
-2148,is a cement mixer used for construction?,Yes
-2149,does a cement mixer carry one person?,No
-2150,does a cement mixer have a steering wheel?,Yes
-2151,can a cement mixer carry cargo?,No
-2152,does a cement mixer have  a motor?,Yes
-2153,does a dump truck have wheels?,Yes
-2154,does a dump truck have four wheels?,No
-2155,does a dump truck have two wheels?,No
-2156,does a dump truck have wings?,No
-2157,does a dump truck fly?,No
-2158,does a dump truck travel on land?,Yes
-2159,does a dump truck travel on water?,No
-2160,does a dump truck travel in space?,No
-2161,is a dump truck used for construction?,No
-2162,does a dump truck carry one person?,No
-2163,does a dump truck have a steering wheel?,Yes
-2164,can a dump truck carry cargo?,No
-2165,does a dump truck have  a motor?,Yes
-2166,does a hot air balloon have wheels?,No
-2167,does a hot air balloon have four wheels?,No
-2168,does a hot air balloon have two wheels?,No
-2169,does a hot air balloon have wings?,No
-2170,does a hot air balloon fly?,Yes
-2171,does a hot air balloon travel on land?,No
-2172,does a hot air balloon travel on water?,No
-2173,does a hot air balloon travel in space?,No
-2174,is a hot air balloon used for construction?,No
-2175,does a hot air balloon carry one person?,No
-2176,does a hot air balloon have a steering wheel?,No
-2177,can a hot air balloon carry cargo?,No
-2178,does a hot air balloon have  a motor?,No
-2179,does a tram have wheels?,Yes
-2180,does a tram have four wheels?,No
-2181,does a tram have two wheels?,No
-2182,does a tram have wings?,No
-2183,does a tram fly?,No
-2184,does a tram travel on land?,Yes
-2185,does a tram travel on water?,No
-2186,does a tram travel in space?,No
-2187,is a tram used for construction?,No
-2188,does a tram carry one person?,No
-2189,does a tram have a steering wheel?,No
-2190,can a tram carry cargo?,No
-2191,does a tram have  a motor?,Yes
-2192,does a carriage have wheels?,Yes
-2193,does a carriage have four wheels?,Yes
-2194,does a carriage have two wheels?,No
-2195,does a carriage have wings?,No
-2196,does a carriage fly?,No
-2197,does a carriage travel on land?,Yes
-2198,does a carriage travel on water?,No
-2199,does a carriage travel in space?,No
-2200,is a carriage used for construction?,No
-2201,does a carriage carry one person?,No
-2202,does a carriage have a steering wheel?,No
-2203,can a carriage carry cargo?,No
-2204,does a carriage have  a motor?,No
-2205,does a train have wheels?,Yes
-2206,does a train have four wheels?,No
-2207,does a train have two wheels?,No
-2208,does a train have wings?,No
-2209,does a train fly?,No
-2210,does a train travel on land?,Yes
-2211,does a train travel on water?,No
-2212,does a train travel in space?,No
-2213,is a train used for construction?,No
-2214,does a train carry one person?,No
-2215,does a train have a steering wheel?,No
-2216,can a train carry cargo?,Yes
-2217,does a train have  a motor?,Yes
-2218,does a snowboard have wheels?,No
-2219,does a snowboard have four wheels?,No
-2220,does a snowboard have two wheels?,No
-2221,does a snowboard have wings?,No
-2222,does a snowboard fly?,No
-2223,does a snowboard travel on land?,Yes
-2224,does a snowboard travel on water?,No
-2225,does a snowboard travel in space?,No
-2226,is a snowboard used for construction?,No
-2227,does a snowboard carry one person?,Yes
-2228,does a snowboard have a steering wheel?,No
-2229,can a snowboard carry cargo?,No
-2230,does a snowboard have  a motor?,No
-2231,does a surfboard have wheels?,No
-2232,does a surfboard have four wheels?,No
-2233,does a surfboard have two wheels?,No
-2234,does a surfboard have wings?,No
-2235,does a surfboard fly?,No
-2236,does a surfboard travel on land?,Yes
-2237,does a surfboard travel on water?,No
-2238,does a surfboard travel in space?,No
-2239,is a surfboard used for construction?,No
-2240,does a surfboard carry one person?,Yes
-2241,does a surfboard have a steering wheel?,No
-2242,can a surfboard carry cargo?,No
-2243,does a surfboard have  a motor?,No
-2244,does a satellite have wheels?,No
-2245,does a satellite have four wheels?,No
-2246,does a satellite have two wheels?,No
-2247,does a satellite have wings?,No
-2248,does a satellite fly?,Yes
-2249,does a satellite travel on land?,Yes
-2250,does a satellite travel on water?,No
-2251,does a satellite travel in space?,Yes
-2252,is a satellite used for construction?,No
-2253,does a satellite carry one person?,No
-2254,does a satellite have a steering wheel?,No
-2255,can a satellite carry cargo?,No
-2256,does a satellite have  a motor?,Yes
-2257,does a wagon have wheels?,Yes
-2258,does a wagon have four wheels?,Yes
-2259,does a wagon have two wheels?,No
-2260,does a wagon have wings?,No
-2261,does a wagon fly?,No
-2262,does a wagon travel on land?,Yes
-2263,does a wagon travel on water?,No
-2264,does a wagon travel in space?,No
-2265,is a wagon used for construction?,No
-2266,does a wagon carry one person?,No
-2267,does a wagon have a steering wheel?,No
-2268,can a wagon carry cargo?,No
-2269,does a wagon have  a motor?,No
-2270,is a accordion a woodwind instrument?,Yes
-2271,is a accordion a string instrument?,No
-2272,is a accordion a percussion instrument?,No
-2273,is a accordion a keyboard instrument?,No
-2274,is a accordion a brass instrument?,No
-2275,is a acoustic guitar a woodwind instrument?,No
-2276,is a acoustic guitar a string instrument?,Yes
-2277,is a acoustic guitar a percussion instrument?,No
-2278,is a acoustic guitar a keyboard instrument?,No
-2279,is a acoustic guitar a brass instrument?,No
-2280,is a banjo a woodwind instrument?,No
-2281,is a banjo a string instrument?,No
-2282,is a banjo a percussion instrument?,Yes
-2283,is a banjo a keyboard instrument?,No
-2284,is a banjo a brass instrument?,No
-2285,is a baritone a woodwind instrument?,No
-2286,is a baritone a string instrument?,No
-2287,is a baritone a percussion instrument?,No
-2288,is a baritone a keyboard instrument?,No
-2289,is a baritone a brass instrument?,Yes
-2290,is a bass a woodwind instrument?,No
-2291,is a bass a string instrument?,Yes
-2292,is a bass a percussion instrument?,No
-2293,is a bass a keyboard instrument?,No
-2294,is a bass a brass instrument?,No
-2295,is a clarinet a woodwind instrument?,Yes
-2296,is a clarinet a string instrument?,No
-2297,is a clarinet a percussion instrument?,No
-2298,is a clarinet a keyboard instrument?,No
-2299,is a clarinet a brass instrument?,No
-2300,is a bassoon a woodwind instrument?,Yes
-2301,is a bassoon a string instrument?,No
-2302,is a bassoon a percussion instrument?,No
-2303,is a bassoon a keyboard instrument?,No
-2304,is a bassoon a brass instrument?,No
-2305,is a bombardon a woodwind instrument?,No
-2306,is a bombardon a string instrument?,No
-2307,is a bombardon a percussion instrument?,No
-2308,is a bombardon a keyboard instrument?,No
-2309,is a bombardon a brass instrument?,Yes
-2310,is a bongo a woodwind instrument?,No
-2311,is a bongo a string instrument?,No
-2312,is a bongo a percussion instrument?,Yes
-2313,is a bongo a keyboard instrument?,No
-2314,is a bongo a brass instrument?,No
-2315,is a bugle a woodwind instrument?,No
-2316,is a bugle a string instrument?,No
-2317,is a bugle a percussion instrument?,No
-2318,is a bugle a keyboard instrument?,No
-2319,is a bugle a brass instrument?,Yes
-2320,is a carillon a woodwind instrument?,No
-2321,is a carillon a string instrument?,No
-2322,is a carillon a percussion instrument?,No
-2323,is a carillon a keyboard instrument?,Yes
-2324,is a carillon a brass instrument?,No
-2325,is a celesta a woodwind instrument?,No
-2326,is a celesta a string instrument?,No
-2327,is a celesta a percussion instrument?,No
-2328,is a celesta a keyboard instrument?,Yes
-2329,is a celesta a brass instrument?,No
-2330,is a cello a woodwind instrument?,No
-2331,is a cello a string instrument?,Yes
-2332,is a cello a percussion instrument?,No
-2333,is a cello a keyboard instrument?,No
-2334,is a cello a brass instrument?,No
-2335,is a chime a woodwind instrument?,No
-2336,is a chime a string instrument?,No
-2337,is a chime a percussion instrument?,Yes
-2338,is a chime a keyboard instrument?,No
-2339,is a chime a brass instrument?,No
-2340,is a cittern a woodwind instrument?,No
-2341,is a cittern a string instrument?,Yes
-2342,is a cittern a percussion instrument?,No
-2343,is a cittern a keyboard instrument?,No
-2344,is a cittern a brass instrument?,No
-2345,is a clarinet a woodwind instrument?,Yes
-2346,is a clarinet a string instrument?,No
-2347,is a clarinet a percussion instrument?,No
-2348,is a clarinet a keyboard instrument?,No
-2349,is a clarinet a brass instrument?,No
-2350,is a clarion a woodwind instrument?,Yes
-2351,is a clarion a string instrument?,No
-2352,is a clarion a percussion instrument?,No
-2353,is a clarion a keyboard instrument?,No
-2354,is a clarion a brass instrument?,No
-2355,is a cornet a woodwind instrument?,No
-2356,is a cornet a string instrument?,No
-2357,is a cornet a percussion instrument?,No
-2358,is a cornet a keyboard instrument?,No
-2359,is a cornet a brass instrument?,Yes
-2360,is a drum a woodwind instrument?,No
-2361,is a drum a string instrument?,No
-2362,is a drum a percussion instrument?,Yes
-2363,is a drum a keyboard instrument?,No
-2364,is a drum a brass instrument?,No
-2365,is a dulcimer a woodwind instrument?,No
-2366,is a dulcimer a string instrument?,Yes
-2367,is a dulcimer a percussion instrument?,No
-2368,is a dulcimer a keyboard instrument?,No
-2369,is a dulcimer a brass instrument?,No
-2370,is a electric guitar a woodwind instrument?,No
-2371,is a electric guitar a string instrument?,Yes
-2372,is a electric guitar a percussion instrument?,No
-2373,is a electric guitar a keyboard instrument?,No
-2374,is a electric guitar a brass instrument?,No
-2375,is a euphonium a woodwind instrument?,No
-2376,is a euphonium a string instrument?,No
-2377,is a euphonium a percussion instrument?,No
-2378,is a euphonium a keyboard instrument?,No
-2379,is a euphonium a brass instrument?,Yes
-2380,is a flute a woodwind instrument?,Yes
-2381,is a flute a string instrument?,No
-2382,is a flute a percussion instrument?,No
-2383,is a flute a keyboard instrument?,No
-2384,is a flute a brass instrument?,No
-2385,is a gong a woodwind instrument?,No
-2386,is a gong a string instrument?,No
-2387,is a gong a percussion instrument?,Yes
-2388,is a gong a keyboard instrument?,No
-2389,is a gong a brass instrument?,No
-2390,is a guitar a woodwind instrument?,No
-2391,is a guitar a string instrument?,Yes
-2392,is a guitar a percussion instrument?,No
-2393,is a guitar a keyboard instrument?,No
-2394,is a guitar a brass instrument?,No
-2395,is a koto a woodwind instrument?,No
-2396,is a koto a string instrument?,Yes
-2397,is a koto a percussion instrument?,No
-2398,is a koto a keyboard instrument?,No
-2399,is a koto a brass instrument?,No
-2400,is a krummhorn a woodwind instrument?,Yes
-2401,is a krummhorn a string instrument?,No
-2402,is a krummhorn a percussion instrument?,No
-2403,is a krummhorn a keyboard instrument?,No
-2404,is a krummhorn a brass instrument?,No
-2405,is a lute a woodwind instrument?,No
-2406,is a lute a string instrument?,Yes
-2407,is a lute a percussion instrument?,No
-2408,is a lute a keyboard instrument?,No
-2409,is a lute a brass instrument?,No
-2410,is a lyre a woodwind instrument?,No
-2411,is a lyre a string instrument?,Yes
-2412,is a lyre a percussion instrument?,No
-2413,is a lyre a keyboard instrument?,No
-2414,is a lyre a brass instrument?,No
-2415,is a mandola a woodwind instrument?,No
-2416,is a mandola a string instrument?,Yes
-2417,is a mandola a percussion instrument?,No
-2418,is a mandola a keyboard instrument?,No
-2419,is a mandola a brass instrument?,No
-2420,is a mandolin a woodwind instrument?,No
-2421,is a mandolin a string instrument?,Yes
-2422,is a mandolin a percussion instrument?,No
-2423,is a mandolin a keyboard instrument?,No
-2424,is a mandolin a brass instrument?,No
-2425,is a maraca a woodwind instrument?,No
-2426,is a maraca a string instrument?,No
-2427,is a maraca a percussion instrument?,Yes
-2428,is a maraca a keyboard instrument?,No
-2429,is a maraca a brass instrument?,No
-2430,is a marimba a woodwind instrument?,No
-2431,is a marimba a string instrument?,No
-2432,is a marimba a percussion instrument?,Yes
-2433,is a marimba a keyboard instrument?,No
-2434,is a marimba a brass instrument?,No
-2435,is a oboe a woodwind instrument?,Yes
-2436,is a oboe a string instrument?,No
-2437,is a oboe a percussion instrument?,No
-2438,is a oboe a keyboard instrument?,No
-2439,is a oboe a brass instrument?,No
-2440,is a ocarina a woodwind instrument?,Yes
-2441,is a ocarina a string instrument?,No
-2442,is a ocarina a percussion instrument?,No
-2443,is a ocarina a keyboard instrument?,No
-2444,is a ocarina a brass instrument?,No
-2445,is a organ a woodwind instrument?,No
-2446,is a organ a string instrument?,No
-2447,is a organ a percussion instrument?,No
-2448,is a organ a keyboard instrument?,Yes
-2449,is a organ a brass instrument?,No
-2450,is a piano a woodwind instrument?,No
-2451,is a piano a string instrument?,No
-2452,is a piano a percussion instrument?,No
-2453,is a piano a keyboard instrument?,Yes
-2454,is a piano a brass instrument?,No
-2455,is a psaltery a woodwind instrument?,No
-2456,is a psaltery a string instrument?,Yes
-2457,is a psaltery a percussion instrument?,No
-2458,is a psaltery a keyboard instrument?,No
-2459,is a psaltery a brass instrument?,No
-2460,is a saxophone a woodwind instrument?,No
-2461,is a saxophone a string instrument?,No
-2462,is a saxophone a percussion instrument?,No
-2463,is a saxophone a keyboard instrument?,No
-2464,is a saxophone a brass instrument?,Yes
-2465,is a shawm a woodwind instrument?,Yes
-2466,is a shawm a string instrument?,No
-2467,is a shawm a percussion instrument?,No
-2468,is a shawm a keyboard instrument?,No
-2469,is a shawm a brass instrument?,No
-2470,is a sitar a woodwind instrument?,No
-2471,is a sitar a string instrument?,Yes
-2472,is a sitar a percussion instrument?,No
-2473,is a sitar a keyboard instrument?,No
-2474,is a sitar a brass instrument?,No
-2475,is a sourdine a woodwind instrument?,No
-2476,is a sourdine a string instrument?,No
-2477,is a sourdine a percussion instrument?,No
-2478,is a sourdine a keyboard instrument?,No
-2479,is a sourdine a brass instrument?,Yes
-2480,is a spinet a woodwind instrument?,No
-2481,is a spinet a string instrument?,No
-2482,is a spinet a percussion instrument?,No
-2483,is a spinet a keyboard instrument?,Yes
-2484,is a spinet a brass instrument?,No
-2485,is a tambourine a woodwind instrument?,No
-2486,is a tambourine a string instrument?,No
-2487,is a tambourine a percussion instrument?,Yes
-2488,is a tambourine a keyboard instrument?,No
-2489,is a tambourine a brass instrument?,No
-2490,is a tenoroon a woodwind instrument?,Yes
-2491,is a tenoroon a string instrument?,No
-2492,is a tenoroon a percussion instrument?,No
-2493,is a tenoroon a keyboard instrument?,No
-2494,is a tenoroon a brass instrument?,No
-2495,is a timbrel a woodwind instrument?,No
-2496,is a timbrel a string instrument?,No
-2497,is a timbrel a percussion instrument?,Yes
-2498,is a timbrel a keyboard instrument?,No
-2499,is a timbrel a brass instrument?,No
-2500,is a trombone a woodwind instrument?,No
-2501,is a trombone a string instrument?,No
-2502,is a trombone a percussion instrument?,No
-2503,is a trombone a keyboard instrument?,No
-2504,is a trombone a brass instrument?,Yes
-2505,is a ukulele a woodwind instrument?,No
-2506,is a ukulele a string instrument?,Yes
-2507,is a ukulele a percussion instrument?,No
-2508,is a ukulele a keyboard instrument?,No
-2509,is a ukulele a brass instrument?,No
-2510,is a viol a woodwind instrument?,No
-2511,is a viol a string instrument?,Yes
-2512,is a viol a percussion instrument?,No
-2513,is a viol a keyboard instrument?,No
-2514,is a viol a brass instrument?,No
-2515,is a viola a woodwind instrument?,No
-2516,is a viola a string instrument?,Yes
-2517,is a viola a percussion instrument?,No
-2518,is a viola a keyboard instrument?,No
-2519,is a viola a brass instrument?,No
-2520,is a violin a woodwind instrument?,No
-2521,is a violin a string instrument?,Yes
-2522,is a violin a percussion instrument?,No
-2523,is a violin a keyboard instrument?,No
-2524,is a violin a brass instrument?,No
+0,is black cumin a spice?,Yes
+1,is tequila a grain?,No
+2,is crack pie a hot beverage?,No
+3,is a chime a keyboard instrument?,No
+4,is rosemary a spice?,Yes
+5,is tea a vegetable?,No
+6,is a violin a brass instrument?,No
+7,does a battleship have four wheels?,No
+8,is chicken liver a grain?,No
+9,is a guitar a keyboard instrument?,No
+10,does a train have wheels?,Yes
+11,is a oven electrical?,Yes
+12,can a microwave oven be found in a bedroom?,No
+13,is turkey a dessert?,No
+14,is cumin a spice?,Yes
+15,can a air conditioner be found in a bathroom?,Yes
+16,does a chair have legs?,Yes
+17,can a television be found in a bedroom?,Yes
+18,does a aircraft fly?,Yes
+19,does a jeep have a steering wheel?,Yes
+20,does a fire truck have wheels?,Yes
+21,is a trombone a percussion instrument?,No
+22,is saffron liquid?,No
+23,is quinoa a grain?,Yes
+24,is avocado alcoholic?,No
+25,is gin a vegetable?,No
+26,is a violin a woodwind instrument?,No
+27,is tea a hot beverage?,Yes
+28,does a fire truck have two wheels?,No
+29,is citron meat?,No
+30,is spinach meat?,No
+31,is kohlrabi an animal product?,No
+32,is orange a fruit?,Yes
+33,can a food processor be found in a kitchen?,Yes
+34,can a rug be found in a bedroom?,Yes
+35,is a celesta a percussion instrument?,No
+36,is a spatula used for cooking?,Yes
+37,is a euphonium a brass instrument?,Yes
+38,does a recycling truck travel on water?,No
+39,is a lamp used for cooking?,No
+40,can a blanket be found in a bedroom?,Yes
+41,is leek a vegetable?,Yes
+42,does a satellite have four wheels?,No
+43,is quinoa a spice?,No
+44,is a lyre a string instrument?,Yes
+45,does a crane travel in space?,No
+46,is avocado a dessert?,No
+47,is guava a fruit?,Yes
+48,is liqueur liquid?,Yes
+49,is a clarinet a keyboard instrument?,No
+50,does a van have four wheels?,Yes
+51,can a rug be found in a bathroom?,Yes
+52,is a mandolin a string instrument?,Yes
+53,is pork an animal product?,Yes
+54,is kiwi dairy?,No
+55,is steak meat?,Yes
+56,is a bass a brass instrument?,No
+57,does a ambulance carry one person?,No
+58,is a marimba a brass instrument?,No
+59,is gin dairy?,No
+60,is a acoustic guitar a string instrument?,Yes
+61,does a bus travel on land?,Yes
+62,does a recycling truck have wheels?,Yes
+63,is radish a grain?,No
+64,does a recycling truck have four wheels?,No
+65,does a bicycle have wheels?,Yes
+66,is paprika meat?,No
+67,is brie liquid?,No
+68,is anise a spice?,Yes
+69,is orange a spice?,No
+70,is turkey a vegetable?,No
+71,does a bicycle carry one person?,Yes
+72,does a ship have wings?,No
+73,is a chime a woodwind instrument?,No
+74,does a tram have  a motor?,Yes
+75,is papaya a grain?,No
+76,is butter meat?,No
+77,is rum liquid?,Yes
+78,is whiskey a cold beverage?,Yes
+79,is ice cream dairy?,Yes
+80,is bread a grain?,Yes
+81,is chili a vegetable?,Yes
+82,is cottage cheese a grain?,No
+83,does a battleship have wheels?,No
+84,is ice tea liquid?,Yes
+85,is beef meat?,Yes
+86,does a dump truck have wheels?,Yes
+87,is black cumin an animal product?,No
+88,is a clarinet a woodwind instrument?,Yes
+89,is camembert dairy?,Yes
+90,does a stool have legs?,Yes
+91,is potato a vegetable?,Yes
+92,is basil meat?,No
+93,is curry a grain?,No
+94,is rice a grain?,Yes
+95,does a jeep have  a motor?,Yes
+96,is ham an animal product?,Yes
+97,is kale a fruit?,No
+98,is tea a cold beverage?,No
+99,is chicken liver meat?,Yes
+100,is apricot a hot beverage?,No
+101,is ghee liquid?,No
+102,is a carillon a keyboard instrument?,Yes
+103,does a carriage have a steering wheel?,No
+104,is steak liquid?,No
+105,does a crane have wheels?,Yes
+106,is a couch used for cooking?,No
+107,is liqueur a cold beverage?,Yes
+108,can a couch be found in a bathroom?,No
+109,does a battleship have  a motor?,Yes
+110,is blueberry an animal product?,No
+111,does a taxi have wheels?,Yes
+112,is kiwi a dessert?,No
+113,is a maraca a percussion instrument?,Yes
+114,is tea meat?,No
+115,does a ambulance travel in space?,No
+116,is wheat an animal product?,No
+117,is a electric guitar a woodwind instrument?,No
+118,can a television be found in a kitchen?,Yes
+119,is lavender a fruit?,No
+120,is basil a grain?,No
+121,is celery a hot beverage?,No
+122,does a airplane have wings?,Yes
+123,is a banjo a percussion instrument?,Yes
+124,is a guitar a string instrument?,Yes
+125,is orange a cold beverage?,No
+126,is pepsi a spice?,No
+127,is pepsi a cold beverage?,Yes
+128,is grape liquid?,No
+129,is bergamot a vegetable?,No
+130,is berry alcoholic?,No
+131,does a forklift have wheels?,Yes
+132,is citron liquid?,No
+133,is eggplant alcoholic?,No
+134,does a ambulance travel on water?,No
+135,is a bongo a brass instrument?,No
+136,is rosemary liquid?,No
+137,can a pillow be found in a kitchen?,No
+138,can a spoon be found in a bedroom?,No
+139,is parmesan dairy?,Yes
+140,does a boat have  a motor?,Yes
+141,does a scooter have  a motor?,Yes
+142,is a piano a keyboard instrument?,Yes
+143,is a viol a string instrument?,Yes
+144,can a tram carry cargo?,No
+145,is peach a fruit?,Yes
+146,is a kettle used for sitting?,No
+147,can a toilet be found in a bedroom?,No
+148,does a hot air balloon fly?,Yes
+149,is cumin dairy?,No
+150,can a oven be found in a kitchen?,Yes
+151,is citron a grain?,No
+152,is a saxophone a brass instrument?,Yes
+153,is rib meat?,Yes
+154,is wine a fruit?,No
+155,does a fire truck have a steering wheel?,Yes
+156,is bergamot a spice?,Yes
+157,is lettuce alcoholic?,No
+158,is cheese cake dairy?,Yes
+159,does a ship have a steering wheel?,Yes
+160,is brie dairy?,Yes
+161,is lemon grass a dessert?,No
+162,can a cradle be found in a bedroom?,Yes
+163,is a kettle used for cooking?,Yes
+164,is blackberry a cold beverage?,No
+165,is cabbage meat?,No
+166,is berry liquid?,No
+167,is ice cream liquid?,No
+168,can a armchair be found in a living room?,Yes
+169,is pepsi liquid?,Yes
+170,is chorizo meat?,Yes
+171,is a lute a string instrument?,Yes
+172,does a helicopter travel in space?,No
+173,can a table be found in a living room?,Yes
+174,is veal an animal product?,Yes
+175,is a oven used for cooking?,Yes
+176,is a table used for sitting?,No
+177,is sausage a spice?,No
+178,is a tractor used for construction?,Yes
+179,does a skateboard have wheels?,Yes
+180,does a submarine fly?,No
+181,is a dump truck used for construction?,No
+182,is banana dairy?,No
+183,is wine dairy?,No
+184,can a pot be found in a bathroom?,No
+185,is apple a fruit?,Yes
+186,is a sitar a string instrument?,Yes
+187,does a food processor have legs?,No
+188,can a couch be found in a living room?,Yes
+189,does a snowboard carry one person?,Yes
+190,is apricot a fruit?,Yes
+191,does a cab have a steering wheel?,Yes
+192,does a boat have a steering wheel?,Yes
+193,does a dump truck travel on land?,Yes
+194,does a recycling truck have a steering wheel?,Yes
+195,is cheese a hot beverage?,No
+196,does a refrigerator have legs?,No
+197,does a recycling truck travel on land?,Yes
+198,can a aircraft carry cargo?,Yes
+199,does a airship fly?,Yes
+200,is a cement mixer used for construction?,Yes
+201,is a stove electrical?,Yes
+202,does a cab have wheels?,Yes
+203,is watermelon liquid?,No
+204,is cabbage a vegetable?,Yes
+205,can a lamp be found in a living room?,Yes
+206,does a police car have wheels?,Yes
+207,can a spoon be found in a kitchen?,Yes
+208,is tonic dairy?,No
+209,is oregano liquid?,No
+210,is grapefruit a dessert?,No
+211,is paprika liquid?,No
+212,is kiwi alcoholic?,No
+213,does a bus carry one person?,No
+214,does a sofa have legs?,Yes
+215,does a spacecraft have a steering wheel?,Yes
+216,is celery a spice?,No
+217,is grape a dessert?,No
+218,can a submarine carry cargo?,Yes
+219,is kiwi a hot beverage?,No
+220,is cheddar dairy?,Yes
+221,does a mountain bike have wheels?,Yes
+222,does a skateboard carry one person?,Yes
+223,is fig a fruit?,Yes
+224,does a ship have  a motor?,Yes
+225,is muscat alcoholic?,Yes
+226,is lemon grass alcoholic?,No
+227,is yogurt meat?,No
+228,is tonic a vegetable?,No
+229,does a airship have wheels?,No
+230,is tiramisu liquid?,No
+231,can a table be found in a bathroom?,No
+232,is a recycling truck used for construction?,Yes
+233,is a air conditioner used for cooking?,No
+234,does a tram have wheels?,Yes
+235,is citron a hot beverage?,No
+236,is cinnamon a fruit?,No
+237,does a bicycle have four wheels?,No
+238,is tomato a cold beverage?,No
+239,is a celesta a string instrument?,No
+240,is butter a fruit?,No
+241,is a drum a percussion instrument?,Yes
+242,is papaya a fruit?,Yes
+243,is punch liquid?,Yes
+244,is a tambourine a percussion instrument?,Yes
+245,can a stove be found in a bathroom?,No
+246,does a train have four wheels?,No
+247,does a sports car have two wheels?,No
+248,can a pot be found in a bedroom?,No
+249,is lime a fruit?,Yes
+250,does a submarine have four wheels?,No
+251,does a train travel on land?,Yes
+252,is a flute a woodwind instrument?,Yes
+253,is kale a dessert?,No
+254,does a train have  a motor?,Yes
+255,is litchi alcoholic?,No
+256,is tonic a grain?,No
+257,is a lamp used for storage?,No
+258,is kiwi meat?,No
+259,is a clarion a woodwind instrument?,Yes
+260,does a van have  a motor?,Yes
+261,is litchi a cold beverage?,No
+262,can a food processor be found in a bedroom?,No
+263,is a psaltery a woodwind instrument?,No
+264,is tea a fruit?,No
+265,does a satellite fly?,Yes
+266,does a helicopter have  a motor?,Yes
+267,is chicken breast a grain?,No
+268,does a fire truck have  a motor?,Yes
+269,is a stool electrical?,No
+270,does a jeep fly?,No
+271,is a refrigerator electrical?,Yes
+272,is kohlrabi dairy?,No
+273,does a mountain bike travel on water?,No
+274,is broccoli a grain?,No
+275,does a car have  a motor?,Yes
+276,does a car have four wheels?,Yes
+277,is corn liquid?,No
+278,is a maraca a brass instrument?,No
+279,does a ambulance travel on land?,Yes
+280,is a gong a string instrument?,No
+281,is crack pie a dessert?,Yes
+282,is arrack liquid?,Yes
+283,does a taxi travel on land?,Yes
+284,can a bus carry cargo?,No
+285,is orange liquid?,No
+286,is avocado a fruit?,Yes
+287,is ice tea a cold beverage?,Yes
+288,is melon a fruit?,Yes
+289,can a air conditioner be found in a kitchen?,Yes
+290,is chicken liver alcoholic?,No
+291,is apple alcoholic?,No
+292,does a kettle have legs?,No
+293,is litchi a spice?,No
+294,is artichoke a vegetable?,Yes
+295,is kohlrabi meat?,No
+296,does a ship have four wheels?,No
+297,is short rib an animal product?,Yes
+298,is cauliflower liquid?,No
+299,is ghee a cold beverage?,No
+300,is beef liquid?,No
+301,is kale a vegetable?,Yes
+302,is tiramisu a dessert?,Yes
+303,is a spoon used for cooking?,Yes
+304,is a banjo a brass instrument?,No
+305,does a skateboard have wings?,No
+306,does a scooter have two wheels?,Yes
+307,can a table be found in a bedroom?,Yes
+308,does a forklift travel on land?,Yes
+309,can a rug be found in a living room?,Yes
+310,is a closet used for storage?,Yes
+311,is a gong a brass instrument?,No
+312,is veal a cold beverage?,No
+313,does a aircraft have  a motor?,Yes
+314,is a mandolin a brass instrument?,No
+315,is black pepper meat?,No
+316,can a rug be found in a kitchen?,No
+317,is tiramisu a grain?,No
+318,does a taxi fly?,No
+319,is sausage a hot beverage?,No
+320,is a forklift used for construction?,Yes
+321,is turkey an animal product?,Yes
+322,is vodka liquid?,Yes
+323,is a microwave oven used for cooking?,Yes
+324,is brie an animal product?,No
+325,can a pan be found in a kitchen?,Yes
+326,does a ambulance have four wheels?,Yes
+327,can a chair be found in a kitchen?,Yes
+328,is onion a spice?,No
+329,is cheese a grain?,No
+330,is a chime a percussion instrument?,Yes
+331,is chicken liver a dessert?,No
+332,does a hot air balloon travel in space?,No
+333,is turkey alcoholic?,No
+334,is a knife used for cooking?,Yes
+335,is liqueur meat?,No
+336,can a pot be found in a kitchen?,Yes
+337,can a forklift carry cargo?,Yes
+338,does a cab have four wheels?,Yes
+339,is a cornet a string instrument?,No
+340,does a forklift have  a motor?,Yes
+341,is a mandola a percussion instrument?,No
+342,is tequila a cold beverage?,Yes
+343,can a ambulance carry cargo?,No
+344,is a bassoon a woodwind instrument?,Yes
+345,does a dump truck have a steering wheel?,Yes
+346,can a spoon be found in a living room?,No
+347,does a scooter travel on water?,No
+348,does a airship have  a motor?,Yes
+349,is a piano a string instrument?,No
+350,can a couch be found in a bedroom?,Yes
+351,is punch alcoholic?,Yes
+352,does a bus have  a motor?,Yes
+353,is brie a vegetable?,No
+354,is a viola a string instrument?,Yes
+355,is cucumber a vegetable?,Yes
+356,is ham a vegetable?,No
+357,is pepsi meat?,No
+358,is a bongo a percussion instrument?,Yes
+359,can a helicopter carry cargo?,Yes
+360,is onion meat?,No
+361,is a viol a percussion instrument?,No
+362,is tomato a vegetable?,Yes
+363,is lemon grass an animal product?,No
+364,is a stool used for sitting?,Yes
+365,is a trombone a woodwind instrument?,No
+366,can a bed be found in a bedroom?,Yes
+367,is jalapeno a grain?,No
+368,does a bus have a steering wheel?,Yes
+369,is apple a spice?,No
+370,is a electric guitar a string instrument?,Yes
+371,is black pepper a vegetable?,No
+372,is cream dairy?,Yes
+373,is kava liquid?,Yes
+374,is ice cream a dessert?,Yes
+375,can a microwave oven be found in a bathroom?,No
+376,does a snowboard travel on land?,Yes
+377,is a timbrel a percussion instrument?,Yes
+378,is blueberry a dessert?,No
+379,is cheese dairy?,Yes
+380,does a cement mixer fly?,No
+381,is a trombone a brass instrument?,Yes
+382,does a carriage travel on land?,Yes
+383,is cream cheese a cold beverage?,No
+384,is crack pie dairy?,Yes
+385,is cherry a cold beverage?,No
+386,is blueberry dairy?,No
+387,is a aircraft used for construction?,No
+388,is crack pie a cold beverage?,No
+389,is lemon a cold beverage?,No
+390,is black cumin a cold beverage?,No
+391,does a satellite travel in space?,Yes
+392,is a dresser electrical?,No
+393,is lavender dairy?,No
+394,does a mountain bike have wings?,No
+395,does a snowboard have two wheels?,No
+396,does a cement mixer travel in space?,No
+397,does a recycling truck have  a motor?,Yes
+398,does a cement mixer travel on land?,Yes
+399,is ghee a grain?,No
+400,is bread a dessert?,No
+401,is chicken breast an animal product?,Yes
+402,does a satellite have  a motor?,Yes
+403,is tequila alcoholic?,Yes
+404,does a fork have legs?,No
+405,does a battleship have a steering wheel?,Yes
+406,is a sofa used for storage?,No
+407,is basil a spice?,Yes
+408,is milk an animal product?,Yes
+409,does a cement mixer have wheels?,Yes
+410,does a carriage have four wheels?,Yes
+411,is a closet electrical?,No
+412,is tomato a fruit?,No
+413,is litchi an animal product?,No
+414,can a spacecraft carry cargo?,Yes
+415,is kava a cold beverage?,Yes
+416,is shallot alcoholic?,No
+417,can a stool be found in a bathroom?,No
+418,can a lamp be found in a bedroom?,Yes
+419,does a armchair have legs?,Yes
+420,is blackberry dairy?,No
+421,is cottage cheese dairy?,Yes
+422,is lemon grass a spice?,Yes
+423,is salami meat?,Yes
+424,is turkey meat?,Yes
+425,is saffron an animal product?,No
+426,is blackberry a fruit?,Yes
+427,does a aircraft travel in space?,No
+428,is a hot air balloon used for construction?,No
+429,can a sink be found in a bathroom?,Yes
+430,does a airplane have a steering wheel?,Yes
+431,is rib a fruit?,No
+432,can a toilet be found in a kitchen?,No
+433,is punch meat?,No
+434,can a shower be found in a bathroom?,Yes
+435,is onion liquid?,No
+436,is cumin a fruit?,No
+437,is scotch an animal product?,No
+438,is ricotta alcoholic?,No
+439,is kohlrabi a grain?,No
+440,is orange a vegetable?,No
+441,is saffron a spice?,Yes
+442,is a bombardon a woodwind instrument?,No
+443,can a stool be found in a living room?,Yes
+444,can a jeep carry cargo?,No
+445,is liqueur a vegetable?,No
+446,does a skateboard have four wheels?,Yes
+447,is tiramisu dairy?,Yes
+448,is whiskey an animal product?,No
+449,does a mountain bike travel in space?,No
+450,can a spatula be found in a kitchen?,Yes
+451,is celery a cold beverage?,No
+452,can a dishwasher be found in a kitchen?,Yes
+453,does a skateboard travel on land?,Yes
+454,does a tractor have  a motor?,Yes
+455,is bread dairy?,No
+456,does a motorcycle travel on land?,Yes
+457,does a dump truck have  a motor?,Yes
+458,is lettuce a vegetable?,Yes
+459,is kava alcoholic?,Yes
+460,is quinoa meat?,No
+461,is a cornet a brass instrument?,Yes
+462,does a jeep travel on land?,Yes
+463,does a mountain bike travel on land?,Yes
+464,does a surfboard travel in space?,No
+465,is blackberry a vegetable?,No
+466,does a spacecraft travel on water?,No
+467,is fig dairy?,No
+468,is banana a fruit?,Yes
+469,is black pepper a grain?,No
+470,is ouzo a cold beverage?,Yes
+471,is a violin a string instrument?,Yes
+472,is chicken breast a fruit?,No
+473,does a sports car travel on land?,Yes
+474,is avocado an animal product?,No
+475,does a carriage travel on water?,No
+476,is coffee liquid?,Yes
+477,does a police car travel on land?,Yes
+478,is coffee a hot beverage?,Yes
+479,does a wagon have wheels?,Yes
+480,is grapefruit dairy?,No
+481,is quinoa a dessert?,No
+482,does a scooter fly?,No
+483,does a fire truck travel on land?,Yes
