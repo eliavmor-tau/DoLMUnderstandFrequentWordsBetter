@@ -1,0 +1,824 @@
+,question,label
+0,a buri lives in the water.,Yes
+1,a shrimp lives underwater.,Yes
+2,does a cow have fins?,No
+3,does a wolf live in the water?,No
+4,a boxer has hair.,Yes
+5,does a seabird have a beak?,Yes
+6,a codfish lives in the water.,Yes
+7,a tarantula has a beak.,No
+8,a hummingbird has wings.,Yes
+9,a chicken has a beak.,Yes
+10,a snake lives underwater.,No
+11,a horse has scales.,No
+12,does a lion have scales?,No
+13,is a wolf capable of flying?,No
+14,does a horse fly?,No
+15,does a shark live underwater?,Yes
+16,a salmon has hair.,No
+17,a yak has horns.,Yes
+18,does a bear have feathers?,No
+19,does a macaw have a beak?,Yes
+20,does a elephant live in the water?,No
+21,a dog has wings.,No
+22,a flamingo has fur.,No
+23,is a deer capable of flying?,No
+24,can a duck fly?,Yes
+25,does a songbird have wings?,Yes
+26,does a chihuahua have hair?,Yes
+27,does a parrot have wings?,Yes
+28,a penguin lives underwater.,No
+29,a bull is capable of flying.,No
+30,a heron flys.,Yes
+31,a dove has a wing.,Yes
+32,a sparrow has a beak.,Yes
+33,does a rat have a beak?,No
+34,does a hyena have fur?,Yes
+35,a barracuda lives underwater.,Yes
+36,does a pig have horns?,No
+37,does a jaguar have fur?,Yes
+38,does a sparrow have wings?,Yes
+39,a flamingo has horns.,No
+40,does a skunk have a beak?,No
+41,a tuna has fins.,Yes
+42,a stork has a beak.,Yes
+43,does a wolf have a beak?,No
+44,a tapir has horns.,No
+45,a seabird has wings.,Yes
+46,a albatrosses flys.,Yes
+47,does a buffalo have horns?,Yes
+48,does a rabbit have wings?,No
+49,does a owl have a wing?,Yes
+50,a bluefish lives underwater.,Yes
+51,a tarantula has hair.,No
+52,does a sheep have feathers?,No
+53,does a sheep have a beak?,No
+54,a hippopotamus has fur.,No
+55,can a elephant fly?,No
+56,a rat is capable of flying.,No
+57,does a giraffe live underwater?,No
+58,does a roaster have hair?,No
+59,does a songbird fly?,Yes
+60,a buri has fins.,Yes
+61,does a eel live underwater?,Yes
+62,a starfish has fur.,No
+63,does a salmon live underwater?,Yes
+64,a flamingo has feathers.,Yes
+65,does a peacock have feathers?,Yes
+66,a zebra flys.,No
+67,does a cow have feathers?,No
+68,does a monkey have hair?,Yes
+69,a tiger has feathers.,No
+70,a caterpillar has fur.,No
+71,does a squirrel have hair?,Yes
+72,a zebra has hair.,Yes
+73,does a markhor have horns?,Yes
+74,does a horse have feathers?,No
+75,does a octupus have fins?,Yes
+76,does a tarantula have fur?,No
+77,does a eagle have fur?,No
+78,a eagle lives in the water.,No
+79,does a dog have a beak?,No
+80,a snake has hair.,No
+81,a sparrow flys.,Yes
+82,does a bull have feathers?,No
+83,does a crow have wings?,Yes
+84,does a seabird have feathers?,Yes
+85,a lion lives in the water.,No
+86,a eagle has scales.,No
+87,a giraffe has hair.,Yes
+88,is a shark capable of flying?,No
+89,a jaguar has fur.,Yes
+90,does a fox live in the water?,No
+91,does a camel have wings?,No
+92,a rhino has fins.,No
+93,a dog has feathers.,No
+94,a dog has hair.,Yes
+95,can a stork fly?,Yes
+96,a frog is capable of flying.,No
+97,does a wolf live underwater?,No
+98,a sheep has horns.,Yes
+99,a wolf has fur.,Yes
+100,can a dove fly?,Yes
+101,a husky has hair.,Yes
+102,does a ostrich have a wing?,Yes
+103,does a snake have a wing?,No
+104,a kangaroo has fur.,Yes
+105,does a cat have scales?,No
+106,can a sparrow fly?,Yes
+107,a dog has horns.,No
+108,does a dalmatian have fur?,Yes
+109,does a starfish live in the water?,Yes
+110,is a jay capable of flying?,Yes
+111,a hippopotamus has hair.,No
+112,does a octupus live underwater?,Yes
+113,does a raccoon have a beak?,No
+114,does a barracuda live underwater?,Yes
+115,a swan flys.,Yes
+116,a mamba has hair.,No
+117,a chicken is capable of flying.,Yes
+118,can a hummingbird fly?,Yes
+119,does a camel have a wing?,No
+120,does a rhino have feathers?,No
+121,does a goat have a wing?,No
+122,does a doberman have hair?,Yes
+123,a eagle has wings.,Yes
+124,does a prawn have hair?,No
+125,a caterpillar has horns.,No
+126,does a bird have a wing?,Yes
+127,a worm lives in the water.,No
+128,does a swan have feathers?,Yes
+129,does a dove have a wing?,Yes
+130,does a codfish have hair?,No
+131,does a dolphin have fur?,No
+132,does a snake have scales?,No
+133,does a goat fly?,No
+134,can a cat fly?,No
+135,a wolf is capable of flying.,No
+136,does a eagle have a wing?,Yes
+137,does a wolf fly?,No
+138,a giraffe has fur.,Yes
+139,is a gull capable of flying?,Yes
+140,a gull has a wing.,Yes
+141,does a salmon live in the water?,Yes
+142,a fox lives in the water.,No
+143,a seabird has a wing.,Yes
+144,a tuna has horns.,No
+145,a markhor has horns.,Yes
+146,does a piranha live underwater?,Yes
+147,a zebra lives in the water.,No
+148,does a yak have hair?,Yes
+149,does a swan have scales?,No
+150,a prawn lives in the water.,Yes
+151,does a hyena have hair?,Yes
+152,a crocodile has hair.,No
+153,a gull flys.,Yes
+154,does a piranha have fur?,No
+155,a elephant has fins.,No
+156,does a squid live underwater?,Yes
+157,a pigeon has feathers.,Yes
+158,a flamingo has a wing.,Yes
+159,a turtule lives in the water.,Yes
+160,a rhino lives in the water.,No
+161,can a lion fly?,No
+162,does a prawn live in the water?,Yes
+163,a roaster has hair.,No
+164,does a bear fly?,No
+165,a shark has fins.,Yes
+166,a octupus has fins.,Yes
+167,a jay has feathers.,Yes
+168,a eland has horns.,Yes
+169,a pigeon has a wing.,Yes
+170,does a snail have a beak?,No
+171,can a bird fly?,Yes
+172,a rhino flys.,No
+173,a wolf lives in the water.,No
+174,does a starfish have a beak?,No
+175,a tiger lives in the water.,No
+176,a cow has wings.,No
+177,does a lion have hair?,Yes
+178,a barracuda has fur.,No
+179,a herring has fins.,Yes
+180,a parrot has feathers.,Yes
+181,does a stork have feathers?,Yes
+182,does a wolf have wings?,No
+183,does a bird live underwater?,No
+184,a fox has wings.,No
+185,a herring has scales.,Yes
+186,does a cow have scales?,No
+187,does a snake live in the water?,No
+188,a hummingbird has a beak.,Yes
+189,does a eagle have scales?,No
+190,does a duck live underwater?,No
+191,a bat lives underwater.,No
+192,a lizard has feathers.,No
+193,a zebra has a wing.,No
+194,does a elephant have horns?,No
+195,a hen has wings.,Yes
+196,does a collie have hair?,Yes
+197,does a eagle have fins?,No
+198,does a codfish have fins?,Yes
+199,does a chihuahua have fur?,Yes
+200,a bull lives in the water.,No
+201,a peacock is capable of flying.,Yes
+202,a seabird has feathers.,Yes
+203,can a songbird fly?,Yes
+204,does a kingfisher have scales?,Yes
+205,a frog has horns.,No
+206,a bull has wings.,No
+207,a fish lives in the water.,Yes
+208,does a cat have hair?,Yes
+209,does a salmon have hair?,No
+210,a caracal has hair.,Yes
+211,a rabbit has hair.,Yes
+212,a dalmatian has fur.,Yes
+213,a shark has a beak.,No
+214,is a elephant capable of flying?,No
+215,a turkey has a wing.,Yes
+216,a monkey has feathers.,No
+217,a rhino has wings.,No
+218,does a jay have a wing?,Yes
+219,does a cat live underwater?,No
+220,does a frog have fur?,No
+221,does a tiger have fur?,Yes
+222,does a hen live underwater?,No
+223,a herring has fur.,No
+224,a flamingo flys.,Yes
+225,does a monkey have a wing?,No
+226,does a pomeranian have fur?,Yes
+227,a sparrow is capable of flying.,Yes
+228,does a cow fly?,No
+229,a lizard flys.,No
+230,a crab has hair.,No
+231,a horse has a wing.,No
+232,a rabbit is capable of flying.,No
+233,does a leopard have fur?,Yes
+234,does a tuna have horns?,No
+235,a bull flys.,No
+236,does a dolphin have scales?,Yes
+237,does a dolphin live in the water?,Yes
+238,a elephant flys.,No
+239,does a crow have feathers?,Yes
+240,a lion has a wing.,No
+241,a zebra has fur.,Yes
+242,does a salamander have fur?,No
+243,a dolphin has scales.,Yes
+244,does a pinscher have fur?,Yes
+245,is a sheep capable of flying?,No
+246,a frog has wings.,No
+247,a dog has fins.,No
+248,a cuttlefish lives in the water.,Yes
+249,does a bull live underwater?,No
+250,a swan lives underwater.,No
+251,is a parrot capable of flying?,Yes
+252,a salmon lives underwater.,Yes
+253,a bird has fins.,No
+254,does a dog have a wing?,No
+255,a swan is capable of flying.,Yes
+256,does a cuttlefish have scales?,Yes
+257,does a seal have fur?,No
+258,does a lion have feathers?,No
+259,does a donkey have scales?,No
+260,a cow lives underwater.,No
+261,does a heron fly?,Yes
+262,does a giraffe fly?,No
+263,does a fox have scales?,No
+264,a elephant has horns.,No
+265,does a horse have fins?,No
+266,a kingfisher lives in the water.,Yes
+267,does a starfish live underwater?,Yes
+268,a rhino has a wing.,No
+269,does a bear have fur?,Yes
+270,does a cat have fins?,No
+271,does a donkey have feathers?,No
+272,a donkey has a wing.,No
+273,does a owl fly?,Yes
+274,does a salmon have a beak?,No
+275,a donkey has wings.,No
+276,does a alpaca have fur?,Yes
+277,does a ox have scales?,No
+278,does a dog fly?,No
+279,does a goose have a wing?,Yes
+280,a lion has scales.,No
+281,a wildbeest has horns.,Yes
+282,does a fox have fins?,No
+283,does a sparrow have a wing?,Yes
+284,does a rhino live underwater?,No
+285,does a snake have wings?,No
+286,does a tiger live underwater?,No
+287,does a squirrel have fur?,Yes
+288,a husky has fur.,Yes
+289,a kudu has horns.,Yes
+290,a bat flys.,Yes
+291,a pig has horns.,No
+292,can a crow fly?,Yes
+293,is a heron capable of flying?,Yes
+294,does a lion have fur?,Yes
+295,does a buri have fins?,Yes
+296,does a pig have fur?,No
+297,does a goat have horns?,Yes
+298,a zebra has wings.,No
+299,does a dove have a beak?,Yes
+300,a cat has fins.,No
+301,a shark has a wing.,No
+302,does a alligator have fur?,No
+303,a shrimp has a beak.,No
+304,does a peacock have a wing?,Yes
+305,a squid lives in the water.,Yes
+306,can a parrot fly?,Yes
+307,a donkey has scales.,No
+308,does a beagle have hair?,Yes
+309,a pig is capable of flying.,No
+310,a antelope has horns.,Yes
+311,does a caterpillar have hair?,No
+312,a songbird flys.,Yes
+313,does a herring have fins?,Yes
+314,a eel has hair.,No
+315,does a dog have hair?,Yes
+316,a worm lives underwater.,No
+317,a bird lives in the water.,No
+318,does a rhino have hair?,No
+319,a eagle has fur.,No
+320,a alligator has hair.,No
+321,does a bluefish have scales?,Yes
+322,does a cuttlefish live underwater?,Yes
+323,does a eland have horns?,Yes
+324,a cat has wings.,No
+325,does a cow live underwater?,No
+326,does a bison have hair?,Yes
+327,does a tarantula have horns?,No
+328,does a rhino live in the water?,No
+329,does a worm have horns?,No
+330,does a pigeon have a wing?,Yes
+331,does a piranha have fins?,Yes
+332,does a lizard live underwater?,No
+333,is a bear capable of flying?,No
+334,a dove has a beak.,Yes
+335,a leopard has hair.,Yes
+336,does a tuna have fins?,Yes
+337,a pinscher has fur.,Yes
+338,does a giraffe have a wing?,No
+339,does a snake have fur?,No
+340,a elephant has scales.,No
+341,is a cat capable of flying?,No
+342,a owl is capable of flying.,Yes
+343,does a rat have hair?,Yes
+344,does a sparrow fly?,Yes
+345,does a alligator have horns?,No
+346,a donkey lives underwater.,No
+347,does a fox have hair?,Yes
+348,a swan has fur.,No
+349,is a giraffe capable of flying?,No
+350,does a elephant have fur?,No
+351,a seal lives in the water.,Yes
+352,does a macaw have a wing?,Yes
+353,a corgi has hair.,Yes
+354,a falcon has a wing.,Yes
+355,does a flamingo have a wing?,Yes
+356,does a fish have horns?,No
+357,does a monkey have fur?,Yes
+358,a falcon is capable of flying.,Yes
+359,a horse has wings.,No
+360,does a stork fly?,Yes
+361,a duck lives underwater.,No
+362,a goat has feathers.,No
+363,a turkey has wings.,Yes
+364,does a snake have fins?,No
+365,a dog lives underwater.,No
+366,a bird lives underwater.,No
+367,a reindeer has horns.,Yes
+368,a starfish lives underwater.,Yes
+369,a snake has a beak.,No
+370,a ox lives underwater.,No
+371,does a camel have fur?,Yes
+372,a octupus has fur.,No
+373,a dolphin lives in the water.,Yes
+374,does a gar live underwater?,Yes
+375,does a monkey have feathers?,No
+376,a owl has a wing.,Yes
+377,does a snail have horns?,No
+378,a salmon lives in the water.,Yes
+379,a alligator has fur.,No
+380,does a knifefish live in the water?,Yes
+381,does a parrot live underwater?,No
+382,does a cat have fur?,Yes
+383,does a rat have fur?,Yes
+384,a wolf has wings.,No
+385,a duck lives in the water.,No
+386,a codfish has fur.,No
+387,does a rabbit have feathers?,No
+388,a eel has scales.,Yes
+389,a oyster has hair.,No
+390,does a whale have fur?,No
+391,a bear has feathers.,No
+392,does a donkey have fins?,No
+393,does a swan have wings?,Yes
+394,a gar lives underwater.,Yes
+395,is a bull capable of flying?,No
+396,a snake has fins.,No
+397,does a vulture fly?,Yes
+398,a kingfisher has fur.,No
+399,does a swan live in the water?,No
+400,does a macaw have feathers?,Yes
+401,a squirrel has fur.,Yes
+402,does a eagle have scales?,No
+403,a cat has fur.,Yes
+404,a gull is capable of flying.,Yes
+405,does a lizard fly?,No
+406,does a ape have fur?,Yes
+407,does a jellyfish have fur?,No
+408,does a iguana have fur?,No
+409,a elephant has feathers.,No
+410,does a oyster have fur?,No
+411,can a horse fly?,No
+412,does a yak have horns?,Yes
+413,a donkey lives in the water.,No
+414,a swan has hair.,No
+415,does a goose have wings?,Yes
+416,does a dugongs live in the water?,Yes
+417,a monkey has fins.,No
+418,a dolphin lives underwater.,Yes
+419,a cuttlefish has scales.,Yes
+420,does a antelope have fur?,Yes
+421,does a sponge have fur?,No
+422,does a gorilla have hair?,Yes
+423,a shark lives underwater.,Yes
+424,does a lion live in the water?,No
+425,does a pig have feathers?,No
+426,does a snake have a beak?,No
+427,does a eagle have wings?,Yes
+428,a lobster has hair.,No
+429,does a bat live underwater?,No
+430,a pigeon flys.,Yes
+431,a wolf has hair.,Yes
+432,a monkey has a wing.,No
+433,does a gar have fur?,No
+434,does a ostrich have feathers?,Yes
+435,does a bear have a wing?,No
+436,does a pig fly?,No
+437,a hummingbird has feathers.,Yes
+438,a camel flys.,No
+439,does a worm have fur?,No
+440,does a chicken have a beak?,Yes
+441,a dove flys.,Yes
+442,can a bear fly?,No
+443,a worm flys.,No
+444,does a horse have fur?,Yes
+445,does a snail have fur?,No
+446,a gar lives in the water.,Yes
+447,a rat has a wing.,No
+448,does a fish have fins?,Yes
+449,does a buri live in the water?,Yes
+450,does a shark have scales?,Yes
+451,does a deer fly?,No
+452,does a corgi have fur?,Yes
+453,does a leopard have hair?,Yes
+454,does a gar have hair?,No
+455,a gull has feathers.,Yes
+456,a eel has fins.,Yes
+457,does a turkey have hair?,No
+458,does a albatrosses have feathers?,Yes
+459,a wolf lives underwater.,No
+460,can a peacock fly?,Yes
+461,a hummingbird flys.,Yes
+462,does a codfish have scales?,Yes
+463,does a worm have hair?,No
+464,a beagle has fur.,Yes
+465,a dolphin has hair.,No
+466,a crocodile has horns.,No
+467,a knifefish has fins.,Yes
+468,does a deer have hair?,Yes
+469,a dugongs lives underwater.,Yes
+470,does a spider have hair?,No
+471,a duck is capable of flying.,Yes
+472,a mule has hair.,Yes
+473,does a kingfisher have fins?,Yes
+474,does a shrimp have fur?,No
+475,does a vulture have a beak?,Yes
+476,a fox is capable of flying.,No
+477,a cow has a wing.,No
+478,a kingfisher lives underwater.,Yes
+479,does a seal have a beak?,No
+480,a crow has feathers.,Yes
+481,a camel has fur.,Yes
+482,does a bird have feathers?,Yes
+483,a monkey flys.,No
+484,does a cat fly?,No
+485,a lion lives underwater.,No
+486,a pig flys.,No
+487,does a vulture have a wing?,Yes
+488,a lizard lives in the water.,No
+489,a fish has fins.,Yes
+490,does a schnauzer have hair?,Yes
+491,a bird is capable of flying.,Yes
+492,a turtule lives underwater.,Yes
+493,a eel lives underwater.,Yes
+494,does a ape have hair?,Yes
+495,is a frog capable of flying?,No
+496,does a buri live underwater?,Yes
+497,is a fox capable of flying?,No
+498,does a tuna have scales?,Yes
+499,can a vulture fly?,Yes
+500,can a goat fly?,No
+501,a hyena has fur.,Yes
+502,does a bear have wings?,No
+503,does a elk have horns?,Yes
+504,a rabbit has feathers.,No
+505,a labrador has fur.,Yes
+506,does a hen have wings?,Yes
+507,a horse has fins.,No
+508,does a crow fly?,Yes
+509,a ant has hair.,No
+510,a duck has feathers.,Yes
+511,does a turtule live in the water?,Yes
+512,does a fish have scales?,Yes
+513,a jay is capable of flying.,Yes
+514,can a donkey fly?,No
+515,can a wolf fly?,No
+516,a monkey has wings.,No
+517,does a shark have hair?,No
+518,a tarantula has horns.,No
+519,a corgi has fur.,Yes
+520,a wader has a wing.,Yes
+521,a eagle has fins.,No
+522,is a camel capable of flying?,No
+523,does a iguana have horns?,No
+524,a rottweiler has hair.,Yes
+525,does a elephant have feathers?,No
+526,a elephant has wings.,No
+527,a elephant lives underwater.,No
+528,a monkey lives in the water.,No
+529,does a lion have a wing?,No
+530,does a duck have wings?,Yes
+531,does a eagle live underwater?,No
+532,a tapir has a beak.,No
+533,does a yak have fur?,Yes
+534,a salmon has horns.,No
+535,a snail has horns.,No
+536,a salmon has a beak.,No
+537,does a penguin live underwater?,No
+538,does a shark have a beak?,No
+539,does a tarantula have hair?,No
+540,does a fish live in the water?,Yes
+541,does a bass have scales?,Yes
+542,a herring has hair.,No
+543,a bear flys.,No
+544,does a heron have a wing?,Yes
+545,a ibex has horns.,Yes
+546,does a deer have a wing?,No
+547,does a elephant have wings?,No
+548,does a songbird have feathers?,Yes
+549,can a heron fly?,Yes
+550,a shark lives in the water.,Yes
+551,does a rottweiler have fur?,Yes
+552,a donkey is capable of flying.,No
+553,a tiger has fins.,No
+554,a sparrow has fur.,No
+555,does a blackbuck have horns?,Yes
+556,a snake is capable of flying.,No
+557,does a herring have hair?,No
+558,does a cuttlefish live in the water?,Yes
+559,a bison has hair.,Yes
+560,does a sheep live underwater?,No
+561,a salamander has a beak.,No
+562,a squirrel has hair.,Yes
+563,does a eel have scales?,Yes
+564,a heron has wings.,Yes
+565,does a bulldog have hair?,Yes
+566,does a goose have feathers?,Yes
+567,a doberman has fur.,Yes
+568,does a prawn have fur?,No
+569,does a wolf have scales?,No
+570,a salmon has fins.,Yes
+571,a addax has horns.,Yes
+572,a whale lives in the water.,Yes
+573,does a pigeon have wings?,Yes
+574,does a lizard have wings?,No
+575,does a falcon fly?,Yes
+576,can a giraffe fly?,No
+577,a sponge has a beak.,No
+578,does a starfish have fur?,No
+579,a duck has a wing.,Yes
+580,a goat has a wing.,No
+581,a parrot lives in the water.,No
+582,does a moose have horns?,Yes
+583,a ox has a wing.,No
+584,a albatrosses has wings.,Yes
+585,a oyster has fur.,No
+586,does a rhino fly?,No
+587,a chihuahua has fur.,Yes
+588,a tiger is capable of flying.,No
+589,does a ant have fur?,No
+590,does a gull have a beak?,Yes
+591,does a rat have a wing?,No
+592,a moose has horns.,Yes
+593,a crow has wings.,Yes
+594,does a mouse have hair?,Yes
+595,does a worm live underwater?,No
+596,a starfish has hair.,No
+597,does a lizard have fur?,No
+598,does a flamingo have fur?,No
+599,a cobra has fur.,No
+600,does a boxer have fur?,Yes
+601,does a rhino have wings?,No
+602,a worm has a wing.,No
+603,a fox has feathers.,No
+604,a prawn has hair.,No
+605,does a caracal have hair?,Yes
+606,does a bird have hair?,No
+607,does a moose have fur?,Yes
+608,does a eagle have a beak?,Yes
+609,a wader flys.,Yes
+610,a eagle has a beak.,Yes
+611,a songbird is capable of flying.,Yes
+612,does a horse have a wing?,No
+613,does a orca live in the water?,Yes
+614,a macaw is capable of flying.,Yes
+615,a lizard has wings.,No
+616,a monkey lives underwater.,No
+617,does a cobra have hair?,No
+618,a barracuda lives in the water.,Yes
+619,a horse has feathers.,No
+620,is a falcon capable of flying?,Yes
+621,a crab has fur.,No
+622,a wolf has fins.,No
+623,a tiger has a beak.,No
+624,a fish lives underwater.,Yes
+625,does a flamingo have feathers?,Yes
+626,does a baboon have hair?,Yes
+627,a flamingo is capable of flying.,Yes
+628,does a monkey have fins?,No
+629,does a oyster live underwater?,Yes
+630,does a rhino have horns?,Yes
+631,a gar has hair.,No
+632,can a albatrosses fly?,Yes
+633,does a owl have feathers?,Yes
+634,does a zebra have feathers?,No
+635,does a songbird have fur?,No
+636,does a snake have feathers?,No
+637,can a deer fly?,No
+638,does a snake have hair?,No
+639,does a oyster live in the water?,Yes
+640,does a swan fly?,Yes
+641,a collie has hair.,Yes
+642,does a seahorse live in the water?,Yes
+643,can a chicken fly?,Yes
+644,does a stork have wings?,Yes
+645,does a deer have wings?,No
+646,a jay has a beak.,Yes
+647,does a bird have scales?,No
+648,can a worm fly?,No
+649,a lizard has hair.,No
+650,a songbird has a wing.,Yes
+651,a terrier has hair.,Yes
+652,a bird has feathers.,Yes
+653,does a frog have horns?,No
+654,does a knifefish have fins?,Yes
+655,a buri lives underwater.,Yes
+656,does a corgi have hair?,Yes
+657,a jay has wings.,Yes
+658,a chihuahua has hair.,Yes
+659,is a snake capable of flying?,No
+660,does a jellyfish have horns?,No
+661,does a vulture have wings?,Yes
+662,a rhino has a beak.,No
+663,a goat is capable of flying.,No
+664,a dove has feathers.,Yes
+665,a skunk has hair.,Yes
+666,does a tuna live in the water?,Yes
+667,does a salamander have horns?,No
+668,is a rabbit capable of flying?,No
+669,a tiger has wings.,No
+670,does a dove have wings?,Yes
+671,a codfish lives underwater.,Yes
+672,does a kingfisher have hair?,No
+673,a baboon has hair.,Yes
+674,is a worm capable of flying?,No
+675,does a frog have a wing?,No
+676,does a donkey live in the water?,No
+677,a snail has a beak.,No
+678,is a dog capable of flying?,No
+679,a swan has feathers.,Yes
+680,does a dog have scales?,No
+681,a snake has feathers.,No
+682,a cat has horns.,No
+683,does a hen fly?,Yes
+684,does a bull have wings?,No
+685,a seal has a beak.,No
+686,a leopard has fur.,Yes
+687,does a turtule live underwater?,Yes
+688,does a fox have feathers?,No
+689,a oyster lives underwater.,Yes
+690,a wader has a beak.,Yes
+691,a lizard has horns.,No
+692,does a tiger have a beak?,No
+693,a snake has a wing.,No
+694,a wolf has scales.,No
+695,a lion has hair.,Yes
+696,a fish has horns.,No
+697,a mouse has hair.,Yes
+698,a elephant is capable of flying.,No
+699,a frog has a wing.,No
+700,a shark has hair.,No
+701,a wader is capable of flying.,Yes
+702,can a eagle fly?,Yes
+703,a wolf has a wing.,No
+704,a bat is capable of flying.,Yes
+705,is a zebra capable of flying?,No
+706,a spider has a beak.,No
+707,a stork is capable of flying.,Yes
+708,a frog has feathers.,No
+709,does a fox have wings?,No
+710,can a rhino fly?,No
+711,does a swan have a wing?,Yes
+712,does a wolf have a wing?,No
+713,a snake has wings.,No
+714,a shrimp lives in the water.,Yes
+715,a kingfisher has scales.,Yes
+716,a iguana has fur.,No
+717,a eagle has feathers.,Yes
+718,can a camel fly?,No
+719,does a ox have a wing?,No
+720,does a zebra live in the water?,No
+721,does a eel have fins?,Yes
+722,a turkey is capable of flying.,Yes
+723,does a hippopotamus have horns?,No
+724,a ox has fins.,No
+725,a prawn lives underwater.,Yes
+726,does a salamander have hair?,No
+727,does a snake have horns?,No
+728,a chicken flys.,Yes
+729,a bird has a wing.,Yes
+730,a dog has fur.,Yes
+731,does a crow have a beak?,Yes
+732,does a tiger have fins?,No
+733,a sheep has a wing.,No
+734,a sparrow has feathers.,Yes
+735,a salmon has scales.,Yes
+736,a vulture has a beak.,Yes
+737,a lizard has a wing.,No
+738,does a macaw fly?,Yes
+739,does a dove have feathers?,Yes
+740,does a cat have horns?,No
+741,a jay has a wing.,Yes
+742,a owl has a beak.,Yes
+743,a rat has a beak.,No
+744,a kingfisher has hair.,No
+745,a gull has wings.,Yes
+746,a crow flys.,Yes
+747,is a goat capable of flying?,No
+748,does a codfish live underwater?,Yes
+749,a alpaca has fur.,Yes
+750,a giraffe has wings.,No
+751,a gar has fins.,Yes
+752,a parrot has wings.,Yes
+753,does a parrot have feathers?,Yes
+754,does a elephant have hair?,No
+755,does a caracal have fur?,Yes
+756,does a donkey have fur?,Yes
+757,a swan has a beak.,Yes
+758,a ass has hair.,Yes
+759,a salamander has hair.,No
+760,a vulture has wings.,Yes
+761,does a shark have horns?,No
+762,is a bat capable of flying?,Yes
+763,does a bison have fur?,Yes
+764,a donkey flys.,No
+765,does a sparrow have fur?,No
+766,a pigeon is capable of flying.,Yes
+767,a impala has horns.,Yes
+768,does a labrador have fur?,Yes
+769,a worm has hair.,No
+770,a crow is capable of flying.,Yes
+771,a worm has wings.,No
+772,does a barracuda live in the water?,Yes
+773,a tuna has hair.,No
+774,a ox has horns.,Yes
+775,a cuttlefish lives underwater.,Yes
+776,a whale has hair.,No
+777,a cat is capable of flying.,No
+778,a parrot has a wing.,Yes
+779,does a worm have wings?,No
+780,does a gull have feathers?,Yes
+781,does a chicken have a wing?,Yes
+782,a beagle has hair.,Yes
+783,does a cuttlefish have hair?,No
+784,does a pig have wings?,No
+785,a stork has feathers.,Yes
+786,does a snail have hair?,No
+787,a peacock has a beak.,Yes
+788,does a hippopotamus have hair?,No
+789,a cow has feathers.,No
+790,is a duck capable of flying?,Yes
+791,does a cow have a wing?,No
+792,does a songbird have hair?,No
+793,does a fox have a wing?,No
+794,does a eel have fur?,No
+795,does a seabird have wings?,Yes
+796,does a skunk have fur?,Yes
+797,a songbird has hair.,No
+798,does a bulldog have fur?,Yes
+799,a swan has a wing.,Yes
+800,does a deer have fur?,Yes
+801,a kingfisher has fins.,Yes
+802,a antelope has fur.,Yes
+803,does a chicken fly?,Yes
+804,a ox has wings.,No
+805,is a ox capable of flying?,No
+806,a cat flys.,No
+807,a tiger lives underwater.,No
+808,does a moose have hair?,Yes
+809,a pinscher has hair.,Yes
+810,does a hummingbird have feathers?,Yes
+811,does a eel have hair?,No
+812,a shark has horns.,No
+813,does a pigeon have feathers?,Yes
+814,a rabbit flys.,No
+815,does a elephant have scales?,No
+816,a snake has scales.,No
+817,does a kudu have horns?,Yes
+818,a bulldog has hair.,Yes
+819,a prawn has fur.,No
+820,a rottweiler has fur.,Yes
+821,a cow has horns.,Yes
+822,a vulture is capable of flying.,Yes

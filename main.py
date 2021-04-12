@@ -689,12 +689,19 @@ def run_generate_questions():
 if __name__ == "__main__":
     # run_summarize_results()
     # run_generate_questions()
-    filter_questions()
+    # filter_questions()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
     # run_overgeneralization_metric(K=1, debug=True)
     # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
-    # merge_questions(["csv/old/furniture.csv", "csv/old/food.csv", "csv/old/vehicle.csv", "csv/old/musical_instruments.csv"], split=False, p=0.8)
+    files = [f"csv/{x}.csv" for x in ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
+             "animals_have_wings", "animals_have_feathers", "animals_have_fur",
+             "animals_have_hair", "animals_live_underwater", "animals_can_fly",
+             "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
+             "animals_dont_have_scales",
+             "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]]
+    merge_questions(files, split=False, p=0.8, output_path="csv/animals_merged_questions.csv")
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
     # mask = tokenizer.mask_token()
     # sentence = f"A {mask} lives underwater."
