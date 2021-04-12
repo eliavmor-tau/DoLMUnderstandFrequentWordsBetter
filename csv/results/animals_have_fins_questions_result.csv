@@ -1,37 +1,37 @@
 ,question,model_answer,true_answer
-0,a fish has fins.,Yes,Yes
-1,does a herring have fins?,No,Yes
-2,does a barracuda have fins?,No,Yes
-3,a barracuda has fins.,No,Yes
-4,a herring has fins.,Yes,Yes
-5,does a piranha have fins?,Yes,Yes
-6,does a knifefish have fins?,Yes,Yes
-7,a gar has fins.,No,Yes
+0,a salmon has fins.,Yes,Yes
+1,a eel has fins.,Yes,Yes
+2,does a tuna have fins?,No,Yes
+3,does a dolphin have fins?,Yes,Yes
+4,does a cuttlefish have fins?,Yes,Yes
+5,does a salmon have fins?,Yes,Yes
+6,a octupus has fins.,No,Yes
+7,a dolphin has fins.,Yes,Yes
 8,does a kingfisher have fins?,Yes,Yes
-9,does a gar have fins?,No,Yes
-10,does a buri have fins?,No,Yes
-11,a kingfisher has fins.,Yes,Yes
-12,a piranha has fins.,Yes,Yes
-13,a bass has fins.,No,Yes
-14,does a salmon have fins?,No,Yes
-15,a eel has fins.,Yes,Yes
-16,does a fish have fins?,Yes,Yes
-17,a salmon has fins.,Yes,Yes
-18,a buri has fins.,No,Yes
-19,does a eel have fins?,Yes,Yes
-20,a tuna has fins.,No,Yes
-21,a codfish has fins.,Yes,Yes
-22,does a bluefish have fins?,Yes,Yes
-23,a cuttlefish has fins.,Yes,Yes
-24,does a codfish have fins?,Yes,Yes
+9,does a bass have fins?,No,Yes
+10,does a herring have fins?,No,Yes
+11,does a eel have fins?,Yes,Yes
+12,a herring has fins.,No,Yes
+13,does a buri have fins?,No,Yes
+14,does a fish have fins?,Yes,Yes
+15,does a piranha have fins?,Yes,Yes
+16,a bass has fins.,No,Yes
+17,a barracuda has fins.,Yes,Yes
+18,does a shark have fins?,Yes,Yes
+19,a fish has fins.,Yes,Yes
+20,a codfish has fins.,Yes,Yes
+21,does a gar have fins?,No,Yes
+22,does a octupus have fins?,No,Yes
+23,does a bluefish have fins?,Yes,Yes
+24,a gar has fins.,No,Yes
 25,a bluefish has fins.,Yes,Yes
-26,a knifefish has fins.,Yes,Yes
-27,does a tuna have fins?,No,Yes
-28,does a bass have fins?,Yes,Yes
-29,a octupus has fins.,Yes,Yes
-30,does a dolphin have fins?,Yes,Yes
-31,does a octupus have fins?,Yes,Yes
-32,a dolphin has fins.,Yes,Yes
-33,does a cuttlefish have fins?,Yes,Yes
-34,a shark has fins.,Yes,Yes
-35,does a shark have fins?,Yes,Yes
+26,a cuttlefish has fins.,Yes,Yes
+27,a piranha has fins.,Yes,Yes
+28,a buri has fins.,No,Yes
+29,does a codfish have fins?,Yes,Yes
+30,a knifefish has fins.,Yes,Yes
+31,a shark has fins.,Yes,Yes
+32,does a barracuda have fins?,Yes,Yes
+33,a tuna has fins.,Yes,Yes
+34,a kingfisher has fins.,Yes,Yes
+35,does a knifefish have fins?,Yes,Yes
