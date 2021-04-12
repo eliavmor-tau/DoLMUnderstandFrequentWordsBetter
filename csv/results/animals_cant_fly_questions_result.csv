@@ -1,146 +1,146 @@
 ,question,model_answer,true_answer
-0,a cow flys.,No,No
-1,is a cow capable of flying?,No,No
-2,a rhino is capable of flying.,Yes,No
-3,is a camel capable of flying?,No,No
-4,a deer flys.,No,No
-5,a monkey flys.,Yes,No
-6,is a rabbit capable of flying?,No,No
-7,a frog flys.,Yes,No
-8,a lizard is capable of flying.,Yes,No
-9,does a horse fly?,No,No
-10,does a deer fly?,No,No
-11,a tiger is capable of flying.,Yes,No
-12,is a giraffe capable of flying?,Yes,No
-13,does a rat fly?,No,No
-14,a cat flys.,Yes,No
-15,can a elephant fly?,No,No
-16,can a wolf fly?,Yes,No
-17,can a lion fly?,Yes,No
-18,is a shark capable of flying?,No,No
-19,a rat flys.,No,No
-20,does a lizard fly?,Yes,No
-21,a rat is capable of flying.,Yes,No
-22,a goat is capable of flying.,No,No
-23,does a monkey fly?,No,No
-24,a shark is capable of flying.,Yes,No
-25,can a sheep fly?,No,No
-26,does a lion fly?,Yes,No
-27,is a lizard capable of flying?,Yes,No
-28,a ox flys.,No,No
-29,does a tiger fly?,No,No
-30,does a wolf fly?,No,No
-31,a bull flys.,No,No
-32,a dog flys.,No,No
-33,does a camel fly?,No,No
-34,is a deer capable of flying?,Yes,No
-35,is a elephant capable of flying?,Yes,No
-36,is a donkey capable of flying?,Yes,No
-37,can a cow fly?,No,No
-38,a bull is capable of flying.,No,No
-39,a shark flys.,No,No
-40,a frog is capable of flying.,Yes,No
-41,does a dog fly?,No,No
-42,is a snake capable of flying?,No,No
-43,is a horse capable of flying?,No,No
-44,does a goat fly?,No,No
-45,can a fox fly?,Yes,No
-46,a lizard flys.,Yes,No
-47,can a zebra fly?,Yes,No
-48,is a ox capable of flying?,Yes,No
-49,is a fox capable of flying?,Yes,No
-50,a deer is capable of flying.,Yes,No
-51,a fox flys.,No,No
-52,is a goat capable of flying?,No,No
-53,a giraffe flys.,Yes,No
-54,does a worm fly?,Yes,No
-55,a rabbit is capable of flying.,Yes,No
-56,does a zebra fly?,Yes,No
-57,a sheep is capable of flying.,No,No
-58,does a fox fly?,Yes,No
-59,does a rhino fly?,No,No
-60,does a giraffe fly?,Yes,No
-61,a wolf flys.,No,No
-62,a tiger flys.,No,No
-63,can a cat fly?,Yes,No
-64,can a rhino fly?,Yes,No
-65,is a tiger capable of flying?,Yes,No
-66,a ox is capable of flying.,Yes,No
-67,is a bear capable of flying?,No,No
-68,a wolf is capable of flying.,Yes,No
-69,a worm flys.,Yes,No
-70,does a elephant fly?,No,No
-71,a snake flys.,Yes,No
-72,can a camel fly?,No,No
-73,can a horse fly?,No,No
-74,a elephant flys.,No,No
-75,can a deer fly?,No,No
-76,a donkey is capable of flying.,Yes,No
-77,does a pig fly?,No,No
-78,is a wolf capable of flying?,No,No
-79,can a bull fly?,No,No
-80,a pig flys.,No,No
-81,a goat flys.,No,No
-82,can a rat fly?,Yes,No
-83,a worm is capable of flying.,No,No
-84,is a monkey capable of flying?,Yes,No
-85,a giraffe is capable of flying.,Yes,No
-86,can a shark fly?,Yes,No
-87,a lion is capable of flying.,Yes,No
-88,is a bull capable of flying?,No,No
-89,a rhino flys.,No,No
-90,is a cat capable of flying?,Yes,No
-91,a elephant is capable of flying.,Yes,No
-92,is a rat capable of flying?,No,No
-93,can a giraffe fly?,Yes,No
-94,does a bull fly?,No,No
-95,a monkey is capable of flying.,Yes,No
-96,can a lizard fly?,Yes,No
-97,a fox is capable of flying.,Yes,No
-98,a donkey flys.,No,No
-99,can a rabbit fly?,Yes,No
-100,is a dog capable of flying?,No,No
-101,is a pig capable of flying?,No,No
-102,a pig is capable of flying.,No,No
-103,a lion flys.,Yes,No
-104,a camel is capable of flying.,No,No
-105,does a ox fly?,No,No
-106,can a monkey fly?,Yes,No
-107,a zebra is capable of flying.,Yes,No
-108,can a worm fly?,Yes,No
-109,is a frog capable of flying?,No,No
-110,can a donkey fly?,No,No
-111,can a snake fly?,Yes,No
-112,does a bear fly?,No,No
-113,does a rabbit fly?,No,No
-114,a cat is capable of flying.,Yes,No
-115,can a frog fly?,Yes,No
-116,does a cat fly?,No,No
-117,a horse flys.,No,No
-118,can a pig fly?,No,No
-119,is a sheep capable of flying?,No,No
-120,does a shark fly?,No,No
-121,a bear flys.,No,No
-122,does a sheep fly?,No,No
-123,does a donkey fly?,No,No
-124,is a worm capable of flying?,No,No
-125,a bear is capable of flying.,Yes,No
-126,does a snake fly?,No,No
-127,a horse is capable of flying.,No,No
-128,a cow is capable of flying.,No,No
-129,does a cow fly?,No,No
-130,a zebra flys.,Yes,No
-131,a camel flys.,No,No
-132,can a bear fly?,No,No
-133,can a goat fly?,No,No
-134,is a rhino capable of flying?,Yes,No
-135,can a tiger fly?,Yes,No
-136,can a ox fly?,No,No
-137,is a zebra capable of flying?,Yes,No
-138,a dog is capable of flying.,Yes,No
-139,is a lion capable of flying?,Yes,No
-140,a rabbit flys.,No,No
-141,does a frog fly?,Yes,No
-142,can a dog fly?,No,No
-143,a snake is capable of flying.,No,No
-144,a sheep flys.,No,No
+0,a monkey is capable of flying.,Yes,No
+1,a bear is capable of flying.,No,No
+2,can a bear fly?,Yes,No
+3,is a rabbit capable of flying?,Yes,No
+4,can a monkey fly?,Yes,No
+5,does a lion fly?,Yes,No
+6,can a giraffe fly?,Yes,No
+7,is a dog capable of flying?,Yes,No
+8,can a cow fly?,Yes,No
+9,a rhino flys.,Yes,No
+10,can a lizard fly?,Yes,No
+11,is a sheep capable of flying?,No,No
+12,can a deer fly?,Yes,No
+13,can a donkey fly?,Yes,No
+14,a giraffe flys.,Yes,No
+15,a pig is capable of flying.,Yes,No
+16,a wolf flys.,Yes,No
+17,a deer is capable of flying.,Yes,No
+18,does a tiger fly?,Yes,No
+19,is a elephant capable of flying?,Yes,No
+20,a cow is capable of flying.,No,No
+21,a deer flys.,Yes,No
+22,can a rat fly?,Yes,No
+23,a snake flys.,No,No
+24,a donkey is capable of flying.,Yes,No
+25,can a dog fly?,Yes,No
+26,is a wolf capable of flying?,No,No
+27,can a wolf fly?,Yes,No
+28,a cow flys.,Yes,No
+29,does a bear fly?,Yes,No
+30,does a elephant fly?,Yes,No
+31,does a monkey fly?,Yes,No
+32,does a dog fly?,Yes,No
+33,does a wolf fly?,Yes,No
+34,a horse is capable of flying.,Yes,No
+35,can a frog fly?,Yes,No
+36,does a rhino fly?,Yes,No
+37,a elephant flys.,Yes,No
+38,a elephant is capable of flying.,Yes,No
+39,does a cat fly?,Yes,No
+40,a frog is capable of flying.,No,No
+41,a cat flys.,Yes,No
+42,can a goat fly?,No,No
+43,a zebra is capable of flying.,Yes,No
+44,is a fox capable of flying?,Yes,No
+45,a rat flys.,Yes,No
+46,is a ox capable of flying?,No,No
+47,a bull flys.,Yes,No
+48,does a rat fly?,Yes,No
+49,is a tiger capable of flying?,Yes,No
+50,a monkey flys.,Yes,No
+51,can a fox fly?,Yes,No
+52,is a cow capable of flying?,No,No
+53,is a camel capable of flying?,No,No
+54,does a giraffe fly?,Yes,No
+55,a ox is capable of flying.,Yes,No
+56,does a goat fly?,No,No
+57,is a cat capable of flying?,Yes,No
+58,a rat is capable of flying.,Yes,No
+59,a lion flys.,No,No
+60,does a worm fly?,Yes,No
+61,a zebra flys.,No,No
+62,does a sheep fly?,Yes,No
+63,is a giraffe capable of flying?,Yes,No
+64,can a sheep fly?,Yes,No
+65,a snake is capable of flying.,No,No
+66,does a shark fly?,Yes,No
+67,is a lizard capable of flying?,Yes,No
+68,a lizard is capable of flying.,Yes,No
+69,can a rabbit fly?,Yes,No
+70,a wolf is capable of flying.,No,No
+71,is a bear capable of flying?,No,No
+72,a ox flys.,Yes,No
+73,can a pig fly?,Yes,No
+74,a rabbit is capable of flying.,Yes,No
+75,a giraffe is capable of flying.,Yes,No
+76,a shark flys.,Yes,No
+77,is a pig capable of flying?,No,No
+78,a bull is capable of flying.,Yes,No
+79,a lizard flys.,No,No
+80,can a elephant fly?,Yes,No
+81,can a rhino fly?,Yes,No
+82,can a camel fly?,Yes,No
+83,is a zebra capable of flying?,Yes,No
+84,a bear flys.,Yes,No
+85,is a deer capable of flying?,Yes,No
+86,is a shark capable of flying?,Yes,No
+87,does a pig fly?,Yes,No
+88,a frog flys.,Yes,No
+89,can a cat fly?,Yes,No
+90,can a tiger fly?,Yes,No
+91,is a lion capable of flying?,Yes,No
+92,does a deer fly?,Yes,No
+93,is a rat capable of flying?,Yes,No
+94,can a snake fly?,Yes,No
+95,does a ox fly?,Yes,No
+96,a worm flys.,Yes,No
+97,is a rhino capable of flying?,Yes,No
+98,can a lion fly?,Yes,No
+99,can a worm fly?,Yes,No
+100,does a frog fly?,Yes,No
+101,a worm is capable of flying.,No,No
+102,can a horse fly?,Yes,No
+103,does a camel fly?,No,No
+104,can a ox fly?,Yes,No
+105,a dog is capable of flying.,Yes,No
+106,can a bull fly?,Yes,No
+107,a camel is capable of flying.,No,No
+108,a horse flys.,No,No
+109,a tiger is capable of flying.,Yes,No
+110,a pig flys.,Yes,No
+111,a rhino is capable of flying.,Yes,No
+112,can a shark fly?,Yes,No
+113,a sheep is capable of flying.,No,No
+114,a fox flys.,No,No
+115,a sheep flys.,No,No
+116,is a snake capable of flying?,No,No
+117,does a cow fly?,Yes,No
+118,is a bull capable of flying?,Yes,No
+119,a goat flys.,Yes,No
+120,is a worm capable of flying?,No,No
+121,a fox is capable of flying.,Yes,No
+122,can a zebra fly?,Yes,No
+123,is a horse capable of flying?,Yes,No
+124,does a bull fly?,Yes,No
+125,does a fox fly?,Yes,No
+126,does a horse fly?,Yes,No
+127,a goat is capable of flying.,No,No
+128,does a lizard fly?,Yes,No
+129,does a snake fly?,Yes,No
+130,a lion is capable of flying.,Yes,No
+131,a dog flys.,Yes,No
+132,does a zebra fly?,Yes,No
+133,a tiger flys.,Yes,No
+134,a cat is capable of flying.,Yes,No
+135,does a donkey fly?,Yes,No
+136,is a monkey capable of flying?,Yes,No
+137,is a frog capable of flying?,No,No
+138,a shark is capable of flying.,Yes,No
+139,is a goat capable of flying?,No,No
+140,does a rabbit fly?,Yes,No
+141,a rabbit flys.,Yes,No
+142,a camel flys.,No,No
+143,a donkey flys.,Yes,No
+144,is a donkey capable of flying?,Yes,No
