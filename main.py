@@ -393,6 +393,9 @@ def run_overgeneralization_metric(tests_path="config/overgenerazliation_tests.js
 def generate_questions_from_csv(csv_path):
     df = pd.read_csv(csv_path)
     data = {"question": [], "label": []}
+    if "entity" not in df.columns:
+        return {"question": list(df.question.values),
+                "label": list(df.label.values)}
     for row in df.iterrows():
         row = row[1]
         entity = row["entity"]
@@ -418,6 +421,9 @@ def merge_questions(csv_paths, output_path="csv/train_questions.csv", split=True
     yes_questions = all_questions[all_questions.label == "Yes"]
     no_questions = all_questions[all_questions.label == "No"]
     N = min(len(yes_questions), len(no_questions))
+    print("yes count", len(yes_questions))
+    print("no count", len(no_questions))
+    print("N", N)
     yes_questions_df = yes_questions.sample(n=N)
     no_questions_df = no_questions.sample(n=N)
     yes_questions, yes_label = yes_questions_df.question.values, yes_questions_df.label.values
@@ -435,8 +441,10 @@ def merge_questions(csv_paths, output_path="csv/train_questions.csv", split=True
         train_df.to_csv("csv/train_questions.csv")
         val_df.to_csv("csv/val_questions.csv")
     else:
-        indices = np.random.choice(a=np.arange(len(yes_questions) + len(no_questions)), size=N, replace=False)
+        indices = np.random.choice(a=np.arange(len(yes_questions) + len(no_questions)), size=2*N, replace=False)
+        print("Number of samples: ", len(set(indices)))
         questions = np.hstack([yes_questions, no_questions])[indices]
+        print("len(questions)", len(questions))
         labels = np.hstack([yes_label, no_label])[indices]
         final_df = pd.DataFrame.from_dict(
             {"question": questions,
@@ -530,37 +538,37 @@ def filter_questions():
             else:
                 print(question, answer)
 
-    # with open('json/conceptnet_train.jsonl', 'r') as f:
-    #     lines = f.readlines()
-    #     for line in lines:
-    #         line_dict = json.loads(line)
-    #         question, answer = line_dict["phrase"], line_dict["answer"]
-    #         question = clean_question(question)
-    #         split_question = set(question.split(' '))
-    #
-    #         if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
-    #             if question not in data["question"]:
-    #                 data["question"].append(question)
-    #                 data["label"].append("Yes" if answer else "No")
-    #         else:
-    #             print(question, answer)
-    # extra_questions = pd.read_csv("csv/train_questions.csv")
-    # for row in extra_questions.iterrows():
-    #     row = row[1]
-    #     question, answer = row["question"], row["label"]
-    #     question = clean_question(question)
-    #     split_question = set(question.split(' '))
-    #
-    #     if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
-    #         if question not in data["question"]:
-    #             data["question"].append(question)
-    #             data["label"].append(answer)
-    #         else:
-    #             print("Question is already exists:", question)
-    #     else:
-    #         print("Intersection failed", question)
-    #         print(animals.intersection(split_question))
-    #         print(properties.intersection(split_question))
+    with open('json/conceptnet_train.jsonl', 'r') as f:
+        lines = f.readlines()
+        for line in lines:
+            line_dict = json.loads(line)
+            question, answer = line_dict["phrase"], line_dict["answer"]
+            question = clean_question(question)
+            split_question = set(question.split(' '))
+
+            if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
+                if question not in data["question"]:
+                    data["question"].append(question)
+                    data["label"].append("Yes" if answer else "No")
+            else:
+                print(question, answer)
+    extra_questions = pd.read_csv("csv/train_questions.csv")
+    for row in extra_questions.iterrows():
+        row = row[1]
+        question, answer = row["question"], row["label"]
+        question = clean_question(question)
+        split_question = set(question.split(' '))
+
+        if not (len(animals.intersection(split_question)) or len(properties.intersection(split_question))):
+            if question not in data["question"]:
+                data["question"].append(question)
+                data["label"].append(answer)
+            else:
+                print("Question is already exists:", question)
+        else:
+            print("Intersection failed", question)
+            print(animals.intersection(split_question))
+            print(properties.intersection(split_question))
 
 
     questions_df = pd.DataFrame.from_dict(data)
@@ -574,7 +582,7 @@ def filter_questions():
     new_yes_questions = questions_df[questions_df["label"] == "Yes"].sample(n=N, replace=False)
     new_no_questions = questions_df[questions_df["label"] == "No"].sample(n=N, replace=False)
     questions_df = pd.concat([new_yes_questions, new_no_questions], axis=0, ignore_index=True)
-    questions_df.to_csv("csv/train_twenty_questions.csv")
+    questions_df.to_csv("csv/merged_train_questions.csv")
 
 
 def aggregate_results_by_animal(result_df, animals_df):
@@ -687,7 +695,7 @@ def run_generate_questions():
 
 
 if __name__ == "__main__":
-    run_summarize_results()
+    # run_summarize_results()
     # run_generate_questions()
     # filter_questions()
     # preprocess_data("food")
@@ -701,7 +709,7 @@ if __name__ == "__main__":
     #          "animals_dont_have_scales",
     #          "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
     #          "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]]
-    # merge_questions(files, split=False, p=0.8, output_path="csv/animals_merged_questions.csv")
+    merge_questions(["csv/val_questions.csv"], split=False, p=0.7, output_path="csv/val_questions.csv")
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
     # mask = tokenizer.mask_token()
     # sentence = f"A {mask} lives underwater."
