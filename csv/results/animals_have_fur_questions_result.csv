@@ -1,105 +1,105 @@
 ,question,model_answer,true_answer
-0,does a mule have fur?,Yes,Yes
-1,does a gorilla have fur?,Yes,Yes
-2,does a ass have fur?,Yes,Yes
-3,does a giraffe have fur?,Yes,Yes
-4,does a jaguar have fur?,Yes,Yes
-5,does a leopard have fur?,Yes,Yes
-6,does a ape have fur?,Yes,Yes
-7,a dog has fur.,Yes,Yes
-8,does a beagle have fur?,Yes,Yes
-9,a lion has fur.,Yes,Yes
-10,does a terrier have fur?,Yes,Yes
-11,a mouse has fur.,Yes,Yes
-12,does a bear have fur?,Yes,Yes
-13,a camel has fur.,Yes,Yes
-14,a alpaca has fur.,Yes,Yes
-15,does a bison have fur?,Yes,Yes
-16,does a rat have fur?,Yes,Yes
-17,a kangaroo has fur.,Yes,Yes
-18,does a fox have fur?,Yes,Yes
-19,does a schnauzer have fur?,Yes,Yes
-20,a labrador has fur.,Yes,Yes
-21,does a corgi have fur?,Yes,Yes
+0,a mouse has fur.,Yes,Yes
+1,does a yak have fur?,Yes,Yes
+2,a hyena has fur.,Yes,Yes
+3,a husky has fur.,Yes,Yes
+4,a koala has fur.,Yes,Yes
+5,a raccoon has fur.,Yes,Yes
+6,does a skunk have fur?,Yes,Yes
+7,does a monkey have fur?,Yes,Yes
+8,a bear has fur.,Yes,Yes
+9,does a fox have fur?,Yes,Yes
+10,a gorilla has fur.,Yes,Yes
+11,a rabbit has fur.,Yes,Yes
+12,a jaguar has fur.,Yes,Yes
+13,a mule has fur.,Yes,Yes
+14,does a ass have fur?,Yes,Yes
+15,a doberman has fur.,No,Yes
+16,does a camel have fur?,Yes,Yes
+17,a donkey has fur.,Yes,Yes
+18,does a pomeranian have fur?,Yes,Yes
+19,a rat has fur.,Yes,Yes
+20,does a caracal have fur?,Yes,Yes
+21,a tiger has fur.,Yes,Yes
 22,a antelope has fur.,Yes,Yes
-23,a pinscher has fur.,Yes,Yes
-24,does a zebra have fur?,Yes,Yes
-25,a donkey has fur.,Yes,Yes
-26,does a raccoon have fur?,Yes,Yes
-27,does a cat have fur?,Yes,Yes
-28,a boxer has fur.,No,Yes
-29,does a yak have fur?,Yes,Yes
-30,does a skunk have fur?,Yes,Yes
-31,a beagle has fur.,Yes,Yes
-32,a rabbit has fur.,Yes,Yes
-33,does a doberman have fur?,Yes,Yes
-34,does a deer have fur?,Yes,Yes
-35,does a rottweiler have fur?,Yes,Yes
-36,a horse has fur.,Yes,Yes
-37,does a dog have fur?,Yes,Yes
-38,does a squirrel have fur?,Yes,Yes
-39,a jaguar has fur.,Yes,Yes
-40,does a antelope have fur?,Yes,Yes
-41,a dalmatian has fur.,No,Yes
-42,does a collie have fur?,Yes,Yes
-43,a collie has fur.,Yes,Yes
-44,a zebra has fur.,Yes,Yes
-45,a wolf has fur.,Yes,Yes
-46,a bear has fur.,Yes,Yes
-47,a giraffe has fur.,Yes,Yes
-48,does a dalmatian have fur?,No,Yes
-49,a husky has fur.,Yes,Yes
-50,does a caracal have fur?,Yes,Yes
-51,does a koala have fur?,Yes,Yes
-52,does a pinscher have fur?,Yes,Yes
-53,a monkey has fur.,Yes,Yes
-54,a chihuahua has fur.,Yes,Yes
-55,a ape has fur.,Yes,Yes
-56,does a mouse have fur?,Yes,Yes
-57,does a chihuahua have fur?,Yes,Yes
-58,a baboon has fur.,Yes,Yes
-59,a schnauzer has fur.,Yes,Yes
-60,a doberman has fur.,No,Yes
-61,a pomeranian has fur.,Yes,Yes
-62,a mule has fur.,Yes,Yes
-63,a moose has fur.,Yes,Yes
-64,does a moose have fur?,Yes,Yes
-65,a gorilla has fur.,Yes,Yes
-66,a yak has fur.,Yes,Yes
-67,does a husky have fur?,Yes,Yes
-68,does a bulldog have fur?,Yes,Yes
-69,does a lion have fur?,Yes,Yes
-70,a corgi has fur.,Yes,Yes
-71,a cat has fur.,Yes,Yes
-72,does a labrador have fur?,Yes,Yes
-73,a bison has fur.,Yes,Yes
-74,does a boxer have fur?,Yes,Yes
-75,a deer has fur.,Yes,Yes
-76,does a wolf have fur?,Yes,Yes
-77,a rat has fur.,Yes,Yes
+23,a wolf has fur.,Yes,Yes
+24,a kangaroo has fur.,Yes,Yes
+25,does a pinscher have fur?,Yes,Yes
+26,a leopard has fur.,Yes,Yes
+27,a ass has fur.,Yes,Yes
+28,does a husky have fur?,Yes,Yes
+29,a liger has fur.,Yes,Yes
+30,a terrier has fur.,Yes,Yes
+31,does a rat have fur?,Yes,Yes
+32,a yak has fur.,Yes,Yes
+33,a moose has fur.,Yes,Yes
+34,does a rabbit have fur?,Yes,Yes
+35,a lion has fur.,Yes,Yes
+36,does a squirrel have fur?,Yes,Yes
+37,does a zebra have fur?,Yes,Yes
+38,a cat has fur.,Yes,Yes
+39,does a labrador have fur?,Yes,Yes
+40,a boxer has fur.,No,Yes
+41,a schnauzer has fur.,Yes,Yes
+42,a rottweiler has fur.,Yes,Yes
+43,a dalmatian has fur.,No,Yes
+44,a alpaca has fur.,Yes,Yes
+45,does a wolf have fur?,Yes,Yes
+46,does a bulldog have fur?,Yes,Yes
+47,a chihuahua has fur.,Yes,Yes
+48,does a terrier have fur?,Yes,Yes
+49,a collie has fur.,Yes,Yes
+50,does a horse have fur?,Yes,Yes
+51,a baboon has fur.,Yes,Yes
+52,a labrador has fur.,Yes,Yes
+53,a bulldog has fur.,Yes,Yes
+54,a pinscher has fur.,Yes,Yes
+55,does a mouse have fur?,Yes,Yes
+56,does a gorilla have fur?,Yes,Yes
+57,does a donkey have fur?,Yes,Yes
+58,does a doberman have fur?,Yes,Yes
+59,does a tiger have fur?,Yes,Yes
+60,does a alpaca have fur?,Yes,Yes
+61,does a baboon have fur?,Yes,Yes
+62,does a boxer have fur?,Yes,Yes
+63,a monkey has fur.,Yes,Yes
+64,a pomeranian has fur.,Yes,Yes
+65,a caracal has fur.,Yes,Yes
+66,a deer has fur.,Yes,Yes
+67,a horse has fur.,Yes,Yes
+68,a squirrel has fur.,Yes,Yes
+69,does a liger have fur?,Yes,Yes
+70,a dog has fur.,Yes,Yes
+71,does a moose have fur?,Yes,Yes
+72,a fox has fur.,Yes,Yes
+73,does a jaguar have fur?,Yes,Yes
+74,does a ape have fur?,Yes,Yes
+75,does a bison have fur?,Yes,Yes
+76,does a antelope have fur?,Yes,Yes
+77,does a schnauzer have fur?,Yes,Yes
 78,does a hyena have fur?,Yes,Yes
-79,does a horse have fur?,Yes,Yes
-80,a skunk has fur.,Yes,Yes
-81,a hyena has fur.,Yes,Yes
-82,does a camel have fur?,Yes,Yes
-83,does a monkey have fur?,Yes,Yes
-84,a raccoon has fur.,Yes,Yes
-85,does a donkey have fur?,Yes,Yes
-86,a squirrel has fur.,Yes,Yes
-87,a liger has fur.,Yes,Yes
-88,does a alpaca have fur?,Yes,Yes
-89,does a pomeranian have fur?,Yes,Yes
-90,a rottweiler has fur.,Yes,Yes
-91,a leopard has fur.,Yes,Yes
-92,a caracal has fur.,Yes,Yes
-93,a fox has fur.,Yes,Yes
-94,does a tiger have fur?,Yes,Yes
-95,does a rabbit have fur?,Yes,Yes
-96,does a baboon have fur?,Yes,Yes
-97,a tiger has fur.,Yes,Yes
-98,a bulldog has fur.,Yes,Yes
-99,does a kangaroo have fur?,Yes,Yes
-100,a ass has fur.,Yes,Yes
-101,does a liger have fur?,Yes,Yes
-102,a koala has fur.,Yes,Yes
-103,a terrier has fur.,Yes,Yes
+79,a ape has fur.,Yes,Yes
+80,does a corgi have fur?,Yes,Yes
+81,does a dog have fur?,Yes,Yes
+82,does a leopard have fur?,Yes,Yes
+83,a camel has fur.,Yes,Yes
+84,a skunk has fur.,Yes,Yes
+85,does a lion have fur?,Yes,Yes
+86,does a collie have fur?,Yes,Yes
+87,does a kangaroo have fur?,Yes,Yes
+88,does a koala have fur?,Yes,Yes
+89,does a mule have fur?,Yes,Yes
+90,a zebra has fur.,Yes,Yes
+91,a giraffe has fur.,Yes,Yes
+92,does a rottweiler have fur?,Yes,Yes
+93,does a cat have fur?,Yes,Yes
+94,does a raccoon have fur?,Yes,Yes
+95,a corgi has fur.,Yes,Yes
+96,does a bear have fur?,Yes,Yes
+97,does a chihuahua have fur?,Yes,Yes
+98,does a dalmatian have fur?,No,Yes
+99,does a deer have fur?,Yes,Yes
+100,a beagle has fur.,Yes,Yes
+101,a bison has fur.,Yes,Yes
+102,does a giraffe have fur?,Yes,Yes
+103,does a beagle have fur?,Yes,Yes

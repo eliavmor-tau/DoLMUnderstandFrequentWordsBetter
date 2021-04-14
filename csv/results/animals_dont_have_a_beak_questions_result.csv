@@ -1,59 +1,59 @@
 ,question,model_answer,true_answer
-0,a starfish has a beak.,Yes,No
-1,a dog has a beak.,Yes,No
-2,a tuna has a beak.,Yes,No
-3,a seal has a beak.,Yes,No
-4,a tapir has a beak.,Yes,No
-5,a sheep has a beak.,Yes,No
-6,a snail has a beak.,Yes,No
-7,does a rhino have a beak?,Yes,No
-8,a shark has a beak.,Yes,No
-9,a salamander has a beak.,Yes,No
-10,does a rottweiler have a beak?,Yes,No
-11,does a spider have a beak?,Yes,No
-12,a whale has a beak.,Yes,No
-13,a snake has a beak.,Yes,No
-14,does a starfish have a beak?,Yes,No
-15,does a squirrel have a beak?,Yes,No
-16,does a yak have a beak?,Yes,No
+0,does a wolf have a beak?,Yes,No
+1,a sponge has a beak.,Yes,No
+2,a salmon has a beak.,Yes,No
+3,does a worm have a beak?,Yes,No
+4,does a schnauzer have a beak?,Yes,No
+5,a snake has a beak.,Yes,No
+6,does a tuna have a beak?,Yes,No
+7,a yak has a beak.,Yes,No
+8,does a dog have a beak?,Yes,No
+9,a terrier has a beak.,Yes,No
+10,does a seal have a beak?,Yes,No
+11,a spider has a beak.,Yes,No
+12,does a starfish have a beak?,Yes,No
+13,a starfish has a beak.,Yes,No
+14,a shark has a beak.,Yes,No
+15,does a tarantula have a beak?,Yes,No
+16,a sheep has a beak.,Yes,No
 17,does a snake have a beak?,Yes,No
-18,does a tiger have a beak?,Yes,No
-19,a terrier has a beak.,Yes,No
-20,a salmon has a beak.,Yes,No
-21,does a tuna have a beak?,Yes,No
-22,does a rat have a beak?,Yes,No
-23,does a schnauzer have a beak?,Yes,No
-24,does a dog have a beak?,Yes,No
-25,does a snail have a beak?,Yes,No
-26,a tarantula has a beak.,Yes,No
-27,does a wolf have a beak?,Yes,No
-28,a yak has a beak.,Yes,No
-29,does a raccoon have a beak?,Yes,No
-30,a schnauzer has a beak.,Yes,No
-31,a rat has a beak.,Yes,No
-32,does a sheep have a beak?,Yes,No
-33,a shrimp has a beak.,Yes,No
-34,a squirrel has a beak.,Yes,No
-35,does a zibra have a beak?,Yes,No
-36,a sponge has a beak.,Yes,No
+18,does a skunk have a beak?,Yes,No
+19,a salamander has a beak.,Yes,No
+20,does a shrimp have a beak?,Yes,No
+21,a zibra has a beak.,Yes,No
+22,does a terrier have a beak?,Yes,No
+23,a raccoon has a beak.,Yes,No
+24,a whale has a beak.,Yes,No
+25,a squirrel has a beak.,Yes,No
+26,a rat has a beak.,Yes,No
+27,does a rottweiler have a beak?,Yes,No
+28,does a yak have a beak?,Yes,No
+29,a schnauzer has a beak.,Yes,No
+30,a dog has a beak.,Yes,No
+31,does a salamander have a beak?,Yes,No
+32,does a whale have a beak?,Yes,No
+33,does a sheep have a beak?,Yes,No
+34,does a snail have a beak?,Yes,No
+35,a tuna has a beak.,Yes,No
+36,does a raccoon have a beak?,Yes,No
 37,a rhino has a beak.,Yes,No
-38,does a shark have a beak?,Yes,No
-39,a skunk has a beak.,Yes,No
-40,does a salmon have a beak?,Yes,No
-41,a wolf has a beak.,Yes,No
-42,does a terrier have a beak?,Yes,No
-43,a raccoon has a beak.,Yes,No
-44,a rottweiler has a beak.,Yes,No
-45,a tiger has a beak.,Yes,No
-46,does a tarantula have a beak?,Yes,No
-47,does a worm have a beak?,Yes,No
-48,does a shrimp have a beak?,Yes,No
-49,does a tapir have a beak?,Yes,No
-50,does a sponge have a beak?,No,No
+38,a skunk has a beak.,Yes,No
+39,a tapir has a beak.,Yes,No
+40,does a sponge have a beak?,No,No
+41,a snail has a beak.,Yes,No
+42,does a salmon have a beak?,Yes,No
+43,does a zibra have a beak?,Yes,No
+44,a wolf has a beak.,Yes,No
+45,a shrimp has a beak.,Yes,No
+46,a rottweiler has a beak.,Yes,No
+47,does a spider have a beak?,Yes,No
+48,a tiger has a beak.,Yes,No
+49,a tarantula has a beak.,Yes,No
+50,does a rhino have a beak?,Yes,No
 51,a worm has a beak.,Yes,No
-52,does a seal have a beak?,Yes,No
-53,a spider has a beak.,Yes,No
-54,a zibra has a beak.,Yes,No
-55,does a salamander have a beak?,Yes,No
-56,does a whale have a beak?,Yes,No
-57,does a skunk have a beak?,Yes,No
+52,does a squirrel have a beak?,Yes,No
+53,does a rat have a beak?,Yes,No
+54,does a tapir have a beak?,Yes,No
+55,a seal has a beak.,Yes,No
+56,does a shark have a beak?,Yes,No
+57,does a tiger have a beak?,Yes,No
