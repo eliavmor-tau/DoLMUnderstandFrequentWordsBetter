@@ -1,105 +1,105 @@
 ,question,model_answer,true_answer
-0,does a seal have hair?,Yes,No
-1,does a piranha have hair?,Yes,No
-2,does a octupus have hair?,No,No
-3,does a roaster have hair?,Yes,No
-4,a tuna has hair.,No,No
-5,a bird has hair.,Yes,No
-6,a gar has hair.,Yes,No
-7,does a frog have hair?,Yes,No
-8,a oyster has hair.,No,No
-9,a salmon has hair.,No,No
-10,a prawn has hair.,Yes,No
-11,does a sparrow have hair?,Yes,No
-12,does a tuna have hair?,Yes,No
-13,a lizard has hair.,Yes,No
-14,does a tapir have hair?,Yes,No
-15,does a codfish have hair?,Yes,No
-16,a elephant has hair.,Yes,No
-17,does a lizard have hair?,Yes,No
-18,a sparrow has hair.,Yes,No
-19,does a crab have hair?,Yes,No
-20,a caterpillar has hair.,Yes,No
-21,does a spider have hair?,Yes,No
-22,does a turkey have hair?,Yes,No
-23,a kingfisher has hair.,Yes,No
-24,does a elephant have hair?,Yes,No
-25,a shrimp has hair.,No,No
-26,does a eel have hair?,Yes,No
-27,does a lobster have hair?,Yes,No
-28,does a songbird have hair?,Yes,No
-29,does a snail have hair?,Yes,No
-30,does a sponge have hair?,No,No
-31,does a whale have hair?,Yes,No
-32,does a herring have hair?,No,No
-33,a crab has hair.,Yes,No
-34,a shark has hair.,Yes,No
-35,does a shark have hair?,Yes,No
-36,does a ant have hair?,Yes,No
-37,a whale has hair.,Yes,No
-38,a rhino has hair.,Yes,No
-39,a seal has hair.,Yes,No
-40,does a jellyfish have hair?,No,No
-41,a crocodile has hair.,Yes,No
-42,a boa has hair.,Yes,No
-43,a ant has hair.,Yes,No
-44,a octupus has hair.,Yes,No
-45,does a snake have hair?,Yes,No
-46,does a gar have hair?,Yes,No
-47,does a caterpillar have hair?,Yes,No
-48,a sponge has hair.,No,No
-49,a cobra has hair.,Yes,No
-50,a codfish has hair.,No,No
-51,does a swan have hair?,Yes,No
-52,a lobster has hair.,Yes,No
-53,a cuttlefish has hair.,Yes,No
-54,does a tarantula have hair?,Yes,No
-55,does a oyster have hair?,Yes,No
-56,a frog has hair.,Yes,No
-57,does a salamander have hair?,Yes,No
-58,does a prawn have hair?,Yes,No
-59,does a starfish have hair?,Yes,No
-60,a snake has hair.,Yes,No
-61,does a worm have hair?,Yes,No
-62,a piranha has hair.,Yes,No
-63,does a kingfisher have hair?,Yes,No
-64,does a bird have hair?,Yes,No
-65,does a dolphin have hair?,Yes,No
-66,a alligator has hair.,Yes,No
-67,a jellyfish has hair.,No,No
-68,a pig has hair.,Yes,No
-69,a worm has hair.,Yes,No
-70,does a pig have hair?,Yes,No
-71,does a cobra have hair?,Yes,No
-72,a spider has hair.,Yes,No
-73,a roaster has hair.,No,No
-74,a herring has hair.,No,No
-75,does a rhino have hair?,Yes,No
-76,does a shrimp have hair?,No,No
-77,a tapir has hair.,Yes,No
-78,does a fish have hair?,Yes,No
-79,does a flamingo have hair?,Yes,No
-80,does a salmon have hair?,No,No
-81,does a alligator have hair?,Yes,No
-82,a songbird has hair.,Yes,No
-83,a starfish has hair.,Yes,No
-84,a tarantula has hair.,Yes,No
-85,a barracuda has hair.,Yes,No
-86,does a mamba have hair?,Yes,No
-87,a flamingo has hair.,Yes,No
-88,a iguana has hair.,Yes,No
-89,a mamba has hair.,Yes,No
-90,a swan has hair.,Yes,No
-91,a salamander has hair.,Yes,No
-92,a turkey has hair.,Yes,No
-93,does a hippopotamus have hair?,Yes,No
-94,does a boa have hair?,Yes,No
-95,does a cuttlefish have hair?,Yes,No
-96,a eel has hair.,Yes,No
-97,does a barracuda have hair?,Yes,No
-98,does a iguana have hair?,Yes,No
-99,a dolphin has hair.,Yes,No
-100,a fish has hair.,No,No
-101,does a crocodile have hair?,Yes,No
-102,a snail has hair.,Yes,No
-103,a hippopotamus has hair.,Yes,No
+0,a bird has hair.,Yes,No
+1,does a rhino have hair?,Yes,No
+2,a gar has hair.,Yes,No
+3,does a tarantula have hair?,Yes,No
+4,a prawn has hair.,Yes,No
+5,does a sponge have hair?,No,No
+6,a salmon has hair.,No,No
+7,does a oyster have hair?,No,No
+8,does a flamingo have hair?,No,No
+9,a fish has hair.,No,No
+10,does a eel have hair?,Yes,No
+11,a shrimp has hair.,No,No
+12,a salamander has hair.,Yes,No
+13,a elephant has hair.,Yes,No
+14,a tarantula has hair.,Yes,No
+15,does a fish have hair?,Yes,No
+16,does a roaster have hair?,No,No
+17,a snake has hair.,Yes,No
+18,does a seal have hair?,No,No
+19,does a sparrow have hair?,Yes,No
+20,does a ant have hair?,Yes,No
+21,does a cobra have hair?,Yes,No
+22,does a starfish have hair?,No,No
+23,does a dolphin have hair?,Yes,No
+24,does a shark have hair?,Yes,No
+25,a sponge has hair.,No,No
+26,does a songbird have hair?,Yes,No
+27,a jellyfish has hair.,No,No
+28,does a spider have hair?,Yes,No
+29,does a salamander have hair?,Yes,No
+30,does a jellyfish have hair?,No,No
+31,a swan has hair.,Yes,No
+32,a dolphin has hair.,Yes,No
+33,does a frog have hair?,Yes,No
+34,a cuttlefish has hair.,Yes,No
+35,a seal has hair.,No,No
+36,a alligator has hair.,Yes,No
+37,a kingfisher has hair.,No,No
+38,a crocodile has hair.,Yes,No
+39,a codfish has hair.,No,No
+40,a boa has hair.,No,No
+41,a octupus has hair.,No,No
+42,does a whale have hair?,Yes,No
+43,a flamingo has hair.,No,No
+44,does a cuttlefish have hair?,Yes,No
+45,does a boa have hair?,Yes,No
+46,does a bird have hair?,Yes,No
+47,a sparrow has hair.,Yes,No
+48,a lobster has hair.,Yes,No
+49,does a snail have hair?,Yes,No
+50,does a codfish have hair?,Yes,No
+51,a mamba has hair.,No,No
+52,does a alligator have hair?,Yes,No
+53,does a gar have hair?,No,No
+54,does a snake have hair?,Yes,No
+55,a herring has hair.,Yes,No
+56,a hippopotamus has hair.,Yes,No
+57,a oyster has hair.,No,No
+58,does a octupus have hair?,Yes,No
+59,a caterpillar has hair.,Yes,No
+60,a worm has hair.,Yes,No
+61,a lizard has hair.,Yes,No
+62,does a mamba have hair?,Yes,No
+63,does a pig have hair?,Yes,No
+64,does a salmon have hair?,No,No
+65,a barracuda has hair.,No,No
+66,a eel has hair.,Yes,No
+67,does a lobster have hair?,Yes,No
+68,does a tapir have hair?,Yes,No
+69,does a turkey have hair?,No,No
+70,a turkey has hair.,No,No
+71,a crab has hair.,Yes,No
+72,a piranha has hair.,No,No
+73,does a herring have hair?,Yes,No
+74,a roaster has hair.,No,No
+75,a cobra has hair.,Yes,No
+76,a shark has hair.,Yes,No
+77,does a piranha have hair?,Yes,No
+78,a tuna has hair.,No,No
+79,does a barracuda have hair?,No,No
+80,does a hippopotamus have hair?,Yes,No
+81,does a prawn have hair?,Yes,No
+82,does a swan have hair?,Yes,No
+83,does a tuna have hair?,No,No
+84,does a elephant have hair?,Yes,No
+85,a spider has hair.,Yes,No
+86,does a worm have hair?,Yes,No
+87,does a caterpillar have hair?,Yes,No
+88,a snail has hair.,Yes,No
+89,a songbird has hair.,Yes,No
+90,does a crab have hair?,Yes,No
+91,a tapir has hair.,Yes,No
+92,a ant has hair.,Yes,No
+93,a pig has hair.,Yes,No
+94,does a lizard have hair?,Yes,No
+95,does a kingfisher have hair?,Yes,No
+96,does a crocodile have hair?,Yes,No
+97,a whale has hair.,No,No
+98,a iguana has hair.,Yes,No
+99,does a shrimp have hair?,No,No
+100,a starfish has hair.,No,No
+101,a frog has hair.,Yes,No
+102,does a iguana have hair?,Yes,No
+103,a rhino has hair.,Yes,No

@@ -1,59 +1,59 @@
 ,question,model_answer,true_answer
-0,a turkey has a beak.,Yes,Yes
-1,does a stork have a beak?,Yes,Yes
-2,a parrot has a beak.,Yes,Yes
-3,does a macaw have a beak?,Yes,Yes
-4,a stork has a beak.,Yes,Yes
-5,does a swan have a beak?,Yes,Yes
-6,a macaw has a beak.,Yes,Yes
-7,does a crow have a beak?,Yes,Yes
-8,does a hen have a beak?,Yes,Yes
-9,a heron has a beak.,Yes,Yes
-10,a dove has a beak.,Yes,Yes
-11,does a bird have a beak?,Yes,Yes
-12,a crow has a beak.,Yes,Yes
-13,does a duck have a beak?,Yes,Yes
-14,a wader has a beak.,Yes,Yes
-15,a jay has a beak.,Yes,Yes
-16,does a pigeon have a beak?,Yes,Yes
-17,a hummingbird has a beak.,Yes,Yes
-18,does a seabird have a beak?,Yes,Yes
-19,does a peacock have a beak?,Yes,Yes
-20,does a vulture have a beak?,Yes,Yes
-21,a vulture has a beak.,Yes,Yes
-22,a eagle has a beak.,Yes,Yes
-23,does a sparrow have a beak?,Yes,Yes
-24,does a albatrosses have a beak?,Yes,Yes
-25,a duck has a beak.,Yes,Yes
-26,does a heron have a beak?,Yes,Yes
-27,a peacock has a beak.,Yes,Yes
-28,does a songbird have a beak?,Yes,Yes
-29,a falcon has a beak.,Yes,Yes
-30,does a goose have a beak?,Yes,Yes
-31,does a falcon have a beak?,Yes,Yes
-32,does a eagle have a beak?,Yes,Yes
-33,does a jay have a beak?,Yes,Yes
-34,a songbird has a beak.,Yes,Yes
-35,a albatrosses has a beak.,Yes,Yes
-36,does a flamingo have a beak?,Yes,Yes
-37,does a owl have a beak?,Yes,Yes
-38,does a wader have a beak?,Yes,Yes
-39,a pigeon has a beak.,Yes,Yes
-40,does a chicken have a beak?,Yes,Yes
-41,a seabird has a beak.,Yes,Yes
-42,does a gull have a beak?,Yes,Yes
-43,a bird has a beak.,Yes,Yes
-44,does a parrot have a beak?,Yes,Yes
-45,a gull has a beak.,Yes,Yes
-46,does a hummingbird have a beak?,Yes,Yes
-47,a flamingo has a beak.,Yes,Yes
-48,does a dove have a beak?,Yes,Yes
-49,a chicken has a beak.,Yes,Yes
-50,a owl has a beak.,Yes,Yes
-51,a goose has a beak.,Yes,Yes
-52,does a turkey have a beak?,Yes,Yes
-53,a sparrow has a beak.,Yes,Yes
-54,a swan has a beak.,Yes,Yes
-55,a hen has a beak.,Yes,Yes
-56,a ostrich has a beak.,Yes,Yes
-57,does a ostrich have a beak?,Yes,Yes
+0,does a wader have a beak?,Yes,Yes
+1,a jay has a beak.,Yes,Yes
+2,a bird has a beak.,Yes,Yes
+3,a seabird has a beak.,Yes,Yes
+4,does a dove have a beak?,Yes,Yes
+5,a heron has a beak.,Yes,Yes
+6,a sparrow has a beak.,Yes,Yes
+7,does a songbird have a beak?,Yes,Yes
+8,a hen has a beak.,Yes,Yes
+9,does a pigeon have a beak?,Yes,Yes
+10,does a crow have a beak?,Yes,Yes
+11,does a sparrow have a beak?,Yes,Yes
+12,does a swan have a beak?,Yes,Yes
+13,does a chicken have a beak?,Yes,Yes
+14,a duck has a beak.,Yes,Yes
+15,does a goose have a beak?,Yes,Yes
+16,does a owl have a beak?,Yes,Yes
+17,a parrot has a beak.,Yes,Yes
+18,a songbird has a beak.,Yes,Yes
+19,does a gull have a beak?,Yes,Yes
+20,does a duck have a beak?,Yes,Yes
+21,a turkey has a beak.,Yes,Yes
+22,does a eagle have a beak?,Yes,Yes
+23,a gull has a beak.,Yes,Yes
+24,does a hen have a beak?,Yes,Yes
+25,a albatrosses has a beak.,Yes,Yes
+26,does a seabird have a beak?,Yes,Yes
+27,a swan has a beak.,Yes,Yes
+28,does a turkey have a beak?,Yes,Yes
+29,does a ostrich have a beak?,Yes,Yes
+30,a vulture has a beak.,Yes,Yes
+31,a chicken has a beak.,Yes,Yes
+32,a stork has a beak.,Yes,Yes
+33,does a vulture have a beak?,Yes,Yes
+34,a eagle has a beak.,Yes,Yes
+35,a hummingbird has a beak.,Yes,Yes
+36,a dove has a beak.,Yes,Yes
+37,does a jay have a beak?,Yes,Yes
+38,a crow has a beak.,Yes,Yes
+39,does a parrot have a beak?,Yes,Yes
+40,a wader has a beak.,Yes,Yes
+41,does a flamingo have a beak?,Yes,Yes
+42,a ostrich has a beak.,Yes,Yes
+43,a falcon has a beak.,Yes,Yes
+44,does a falcon have a beak?,Yes,Yes
+45,a peacock has a beak.,Yes,Yes
+46,does a bird have a beak?,Yes,Yes
+47,a pigeon has a beak.,Yes,Yes
+48,does a peacock have a beak?,Yes,Yes
+49,a owl has a beak.,Yes,Yes
+50,does a macaw have a beak?,Yes,Yes
+51,a flamingo has a beak.,Yes,Yes
+52,a macaw has a beak.,Yes,Yes
+53,does a albatrosses have a beak?,Yes,Yes
+54,does a stork have a beak?,Yes,Yes
+55,does a heron have a beak?,Yes,Yes
+56,a goose has a beak.,Yes,Yes
+57,does a hummingbird have a beak?,Yes,Yes

@@ -1,59 +1,59 @@
 ,question,model_answer,true_answer
-0,a pigeon has feathers.,Yes,Yes
+0,a turkey has feathers.,Yes,Yes
 1,a ostrich has feathers.,Yes,Yes
-2,does a bird have feathers?,Yes,Yes
+2,does a hummingbird have feathers?,Yes,Yes
 3,a peacock has feathers.,Yes,Yes
-4,a crow has feathers.,Yes,Yes
-5,a dove has feathers.,Yes,Yes
-6,a hummingbird has feathers.,Yes,Yes
-7,does a dove have feathers?,Yes,Yes
-8,does a swan have feathers?,Yes,Yes
+4,does a dove have feathers?,Yes,Yes
+5,does a eagle have feathers?,Yes,Yes
+6,a seabird has feathers.,Yes,Yes
+7,does a pigeon have feathers?,Yes,Yes
+8,a swan has feathers.,Yes,Yes
 9,a eagle has feathers.,Yes,Yes
-10,a falcon has feathers.,Yes,Yes
-11,a chicken has feathers.,Yes,Yes
-12,a wader has feathers.,No,Yes
-13,does a songbird have feathers?,Yes,Yes
-14,does a albatrosses have feathers?,Yes,Yes
-15,does a owl have feathers?,Yes,Yes
+10,a bird has feathers.,Yes,Yes
+11,does a falcon have feathers?,Yes,Yes
+12,does a peacock have feathers?,Yes,Yes
+13,a goose has feathers.,Yes,Yes
+14,does a turkey have feathers?,Yes,Yes
+15,a hen has feathers.,Yes,Yes
 16,does a seabird have feathers?,Yes,Yes
-17,a macaw has feathers.,Yes,Yes
-18,does a macaw have feathers?,Yes,Yes
-19,does a gull have feathers?,Yes,Yes
-20,a heron has feathers.,Yes,Yes
-21,does a sparrow have feathers?,Yes,Yes
-22,does a wader have feathers?,No,Yes
-23,does a vulture have feathers?,Yes,Yes
-24,a owl has feathers.,Yes,Yes
-25,does a parrot have feathers?,Yes,Yes
-26,a sparrow has feathers.,Yes,Yes
-27,does a hen have feathers?,Yes,Yes
-28,a songbird has feathers.,Yes,Yes
-29,does a ostrich have feathers?,Yes,Yes
-30,does a flamingo have feathers?,Yes,Yes
-31,does a falcon have feathers?,Yes,Yes
-32,does a hummingbird have feathers?,Yes,Yes
-33,does a eagle have feathers?,Yes,Yes
-34,does a heron have feathers?,Yes,Yes
-35,a albatrosses has feathers.,Yes,Yes
-36,does a pigeon have feathers?,Yes,Yes
-37,does a crow have feathers?,Yes,Yes
-38,a swan has feathers.,Yes,Yes
-39,a duck has feathers.,Yes,Yes
-40,a jay has feathers.,Yes,Yes
-41,does a jay have feathers?,Yes,Yes
-42,a hen has feathers.,Yes,Yes
-43,does a turkey have feathers?,Yes,Yes
-44,does a duck have feathers?,Yes,Yes
-45,a bird has feathers.,Yes,Yes
-46,a seabird has feathers.,Yes,Yes
-47,does a stork have feathers?,Yes,Yes
-48,a vulture has feathers.,Yes,Yes
-49,a flamingo has feathers.,Yes,Yes
-50,does a peacock have feathers?,Yes,Yes
-51,a goose has feathers.,Yes,Yes
-52,a stork has feathers.,Yes,Yes
-53,a turkey has feathers.,Yes,Yes
-54,a gull has feathers.,Yes,Yes
-55,does a goose have feathers?,Yes,Yes
-56,a parrot has feathers.,Yes,Yes
-57,does a chicken have feathers?,Yes,Yes
+17,a stork has feathers.,Yes,Yes
+18,does a crow have feathers?,Yes,Yes
+19,a duck has feathers.,Yes,Yes
+20,does a songbird have feathers?,Yes,Yes
+21,does a bird have feathers?,Yes,Yes
+22,a gull has feathers.,Yes,Yes
+23,a falcon has feathers.,Yes,Yes
+24,does a heron have feathers?,Yes,Yes
+25,does a wader have feathers?,Yes,Yes
+26,does a owl have feathers?,Yes,Yes
+27,a chicken has feathers.,Yes,Yes
+28,a wader has feathers.,Yes,Yes
+29,does a sparrow have feathers?,Yes,Yes
+30,a sparrow has feathers.,Yes,Yes
+31,does a flamingo have feathers?,Yes,Yes
+32,a pigeon has feathers.,Yes,Yes
+33,does a duck have feathers?,Yes,Yes
+34,a albatrosses has feathers.,No,Yes
+35,a flamingo has feathers.,Yes,Yes
+36,does a swan have feathers?,Yes,Yes
+37,does a stork have feathers?,Yes,Yes
+38,a hummingbird has feathers.,Yes,Yes
+39,a jay has feathers.,No,Yes
+40,a songbird has feathers.,Yes,Yes
+41,does a albatrosses have feathers?,Yes,Yes
+42,does a goose have feathers?,Yes,Yes
+43,a vulture has feathers.,Yes,Yes
+44,does a chicken have feathers?,Yes,Yes
+45,a parrot has feathers.,Yes,Yes
+46,does a ostrich have feathers?,Yes,Yes
+47,a dove has feathers.,Yes,Yes
+48,does a parrot have feathers?,Yes,Yes
+49,a macaw has feathers.,Yes,Yes
+50,does a macaw have feathers?,Yes,Yes
+51,does a vulture have feathers?,Yes,Yes
+52,a heron has feathers.,Yes,Yes
+53,does a jay have feathers?,No,Yes
+54,does a hen have feathers?,Yes,Yes
+55,a owl has feathers.,Yes,Yes
+56,does a gull have feathers?,Yes,Yes
+57,a crow has feathers.,Yes,Yes
