@@ -213,8 +213,8 @@ if __name__ == "__main__":
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
         #test_files = ["csv/animals_have_wings",  "csv/animals_can_fly", "csv/animals_dont_have_wings", "csv/animals_cant_fly"]
-        #test_files = ["csv/conceptnet_dev.csv"]
+        test_files = ["csv/sanity_questions.csv"]
         for f in test_files:
-            config["test_data"] = f"{f}_questions.csv"
-            #config["test_data"] = f"csv/val_questions.csv"
+           # config["test_data"] = f"{f}_questions.csv"
+            config["test_data"] = f"{f}"
             test_model(config, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))

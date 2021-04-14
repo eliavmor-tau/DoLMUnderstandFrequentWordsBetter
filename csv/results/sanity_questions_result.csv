@@ -1,5 +1,1358 @@
 ,question,model_answer,true_answer
-0,Do humans a beak?,No,No
-1,Do humans have horns?,No,No
-2,Do all animals have a beak?,Yes,No
-3,Do humans have scales?,No,No
+0,a hand has horns.,No,No
+1,a heart lives in the water.,No,No
+2,does a bike have hair?,No,No
+3,a beer has wings.,No,No
+4,does a grill live underwater?,No,No
+5,a tree lives in the water.,No,No
+6,does a meat have a beak?,Yes,No
+7,a grass has a wing.,Yes,No
+8,a eye has horns.,No,No
+9,a pants has feathers.,No,No
+10,a sock has a beak.,No,No
+11,a sock has wings.,No,No
+12,does a milk have a wing?,No,No
+13,a table is capable of flying.,No,No
+14,a hand flys.,No,No
+15,does a noise live underwater?,No,No
+16,does a pan have hair?,No,No
+17,does a key live underwater?,No,No
+18,a pants has wings.,No,No
+19,a surfboard is capable of flying.,Yes,No
+20,a grill lives in the water.,No,No
+21,a plant has fur.,No,No
+22,a leg lives underwater.,No,No
+23,does a hand have wings?,No,No
+24,a key is capable of flying.,No,No
+25,a cheese has feathers.,No,No
+26,a chair flys.,No,No
+27,a grass has wings.,No,No
+28,a chair has wings.,No,No
+29,does a house have wings?,No,No
+30,a key has horns.,No,No
+31,a couch has horns.,No,No
+32,a screen has wings.,No,No
+33,does a plant have feathers?,No,No
+34,does a ground have horns?,No,No
+35,a plant lives in the water.,Yes,No
+36,a skateboard has a wing.,No,No
+37,a tree has wings.,No,No
+38,a mouth has wings.,No,No
+39,a bed has wings.,No,No
+40,does a stomach live underwater?,No,No
+41,does a chair have wings?,No,No
+42,does a door live underwater?,No,No
+43,does a bed have a beak?,No,No
+44,does a microphone have wings?,No,No
+45,does a eair have fur?,Yes,No
+46,a calculator flys.,No,No
+47,does a microphone have a beak?,No,No
+48,a bike has fur.,No,No
+49,a hand has fur.,No,No
+50,a beer flys.,No,No
+51,a microphone has horns.,No,No
+52,a bike has a wing.,No,No
+53,a table has wings.,No,No
+54,a sock lives underwater.,No,No
+55,does a flower have a wing?,Yes,No
+56,a lamp has fur.,No,No
+57,a skateboard has a beak.,No,No
+58,a ground flys.,No,No
+59,does a plate have a wing?,No,No
+60,a wine lives in the water.,Yes,No
+61,a stomach has horns.,No,No
+62,does a mouth have hair?,No,No
+63,a headpone has wings.,No,No
+64,a skateboard has horns.,No,No
+65,a grass flys.,Yes,No
+66,does a stomach live in the water?,No,No
+67,a flower has horns.,No,No
+68,a screen is capable of flying.,No,No
+69,does a couch have horns?,No,No
+70,a grill has horns.,No,No
+71,a leg has a wing.,No,No
+72,can a pan fly?,No,No
+73,a plant flys.,Yes,No
+74,a noise lives underwater.,No,No
+75,a house has fur.,No,No
+76,a mouth flys.,No,No
+77,does a coffee live underwater?,No,No
+78,a charger is capable of flying.,No,No
+79,a toilet has a beak.,No,No
+80,does a screen have wings?,No,No
+81,does a truck have a wing?,Yes,No
+82,does a hand have a wing?,No,No
+83,does a surfboard live in the water?,No,No
+84,does a car have hair?,No,No
+85,a sunglasses has fur.,No,No
+86,a house flys.,No,No
+87,a pencil has hair.,No,No
+88,does a glasses have horns?,No,No
+89,does a computer live underwater?,No,No
+90,a stone has fur.,No,No
+91,a pencil has feathers.,No,No
+92,a ground has fur.,No,No
+93,a skateboard flys.,No,No
+94,does a eye live underwater?,No,No
+95,does a meat live in the water?,No,No
+96,does a plant have a beak?,No,No
+97,a calculator has hair.,No,No
+98,a cheese has a wing.,No,No
+99,a water has a beak.,No,No
+100,does a tree have a wing?,No,No
+101,a glasses lives underwater.,No,No
+102,is a wine capable of flying?,No,No
+103,a lamp flys.,No,No
+104,a eair has horns.,Yes,No
+105,a charger has horns.,No,No
+106,does a screen have fur?,No,No
+107,a shirt is capable of flying.,No,No
+108,a key lives in the water.,No,No
+109,does a pencil have a beak?,No,No
+110,does a pan have a wing?,No,No
+111,a door has hair.,No,No
+112,a computer has a beak.,No,No
+113,a leg lives in the water.,No,No
+114,a milk has a beak.,No,No
+115,a bed has feathers.,Yes,No
+116,does a bed have a wing?,No,No
+117,a water has a wing.,No,No
+118,does a pencil have horns?,No,No
+119,does a calculator have hair?,No,No
+120,is a toilet capable of flying?,No,No
+121,does a noise fly?,No,No
+122,a pencil has a beak.,No,No
+123,a truck is capable of flying.,No,No
+124,does a wall have wings?,No,No
+125,a leg has horns.,No,No
+126,does a table have hair?,No,No
+127,does a home fly?,No,No
+128,a pencil has a wing.,No,No
+129,does a surfboard have horns?,No,No
+130,a milk has fur.,No,No
+131,a television lives underwater.,No,No
+132,a bus flys.,Yes,No
+133,a pan has a beak.,Yes,No
+134,a eye lives in the water.,No,No
+135,a grill has a wing.,No,No
+136,does a laptop live in the water?,No,No
+137,does a milk have a beak?,No,No
+138,a toilet has hair.,No,No
+139,does a plate live in the water?,No,No
+140,a glasses has feathers.,No,No
+141,a noise flys.,Yes,No
+142,a plant has wings.,No,No
+143,does a couch live underwater?,No,No
+144,a surfboard lives in the water.,Yes,No
+145,is a television capable of flying?,No,No
+146,does a television live underwater?,No,No
+147,a bus has a wing.,Yes,No
+148,does a car have fur?,No,No
+149,a leg has wings.,No,No
+150,does a television have a wing?,No,No
+151,a calculator has wings.,No,No
+152,does a shirt fly?,No,No
+153,a bike has horns.,No,No
+154,a phone lives underwater.,No,No
+155,does a shirt live in the water?,No,No
+156,a surfboard has fur.,No,No
+157,a spoon is capable of flying.,No,No
+158,does a skateboard fly?,No,No
+159,a noise has horns.,Yes,No
+160,does a charger have feathers?,No,No
+161,a shirt flys.,No,No
+162,a cheese has hair.,No,No
+163,a toilet has wings.,No,No
+164,a plant has hair.,No,No
+165,a home lives in the water.,No,No
+166,a mug has horns.,No,No
+167,a coffee has a wing.,No,No
+168,a screen has hair.,No,No
+169,a coffee has fur.,No,No
+170,a mug has hair.,No,No
+171,a table has a beak.,No,No
+172,a pencil has wings.,No,No
+173,a lamp has a beak.,No,No
+174,a noise lives in the water.,No,No
+175,a water lives underwater.,Yes,No
+176,a grill has hair.,No,No
+177,does a bed live underwater?,No,No
+178,does a pencil live underwater?,No,No
+179,does a television have horns?,No,No
+180,does a plant live in the water?,Yes,No
+181,is a stomach capable of flying?,No,No
+182,does a wall have fur?,No,No
+183,does a screen have hair?,No,No
+184,can a house fly?,No,No
+185,a flower has a wing.,Yes,No
+186,does a eye have a beak?,Yes,No
+187,does a pants have feathers?,No,No
+188,does a house have hair?,No,No
+189,is a laptop capable of flying?,No,No
+190,does a calculator live in the water?,No,No
+191,a truck has a wing.,Yes,No
+192,a grass has fur.,Yes,No
+193,does a laptop have a wing?,No,No
+194,does a charger live in the water?,No,No
+195,does a lamp have horns?,No,No
+196,a coffee has feathers.,No,No
+197,a cheese flys.,No,No
+198,does a sock have horns?,No,No
+199,a heart lives underwater.,No,No
+200,a flower has a beak.,No,No
+201,does a sunglasses have feathers?,No,No
+202,a car has a beak.,No,No
+203,a pencil lives in the water.,No,No
+204,does a car have horns?,Yes,No
+205,does a water have hair?,No,No
+206,does a charger have fur?,No,No
+207,a phone has a wing.,No,No
+208,a wine has fur.,No,No
+209,a meat has feathers.,No,No
+210,does a chair have hair?,No,No
+211,does a shirt have a beak?,No,No
+212,does a pan have feathers?,No,No
+213,does a plate have horns?,No,No
+214,a tree has fur.,No,No
+215,a chair has hair.,No,No
+216,a flower has hair.,No,No
+217,does a glasses fly?,No,No
+218,does a spoon have a wing?,No,No
+219,a heart is capable of flying.,No,No
+220,does a water fly?,No,No
+221,a pants has a wing.,No,No
+222,can a truck fly?,No,No
+223,does a calculator fly?,No,No
+224,does a grass have feathers?,Yes,No
+225,does a door have a beak?,No,No
+226,does a beer have horns?,No,No
+227,a tree has horns.,Yes,No
+228,a coffee has a beak.,No,No
+229,a pan has hair.,No,No
+230,a cheese has fur.,Yes,No
+231,does a charger have a wing?,No,No
+232,a bus has fur.,No,No
+233,a glasses has hair.,No,No
+234,a truck has hair.,No,No
+235,a home has feathers.,No,No
+236,does a bed have fur?,No,No
+237,a bike has feathers.,No,No
+238,does a stomach have hair?,No,No
+239,a mouth lives in the water.,Yes,No
+240,a mouth has horns.,No,No
+241,does a house have fur?,No,No
+242,does a key have a wing?,No,No
+243,does a shirt have horns?,No,No
+244,does a glasses have a wing?,No,No
+245,a sock lives in the water.,No,No
+246,a phone flys.,No,No
+247,does a sock have a beak?,No,No
+248,does a toilet have wings?,No,No
+249,can a calculator fly?,No,No
+250,does a leg have hair?,No,No
+251,a heart has a wing.,No,No
+252,a cheese lives in the water.,No,No
+253,a stone has wings.,No,No
+254,does a laptop have wings?,No,No
+255,does a coffee have horns?,No,No
+256,does a surfboard have wings?,No,No
+257,is a spoon capable of flying?,No,No
+258,does a door have feathers?,No,No
+259,does a mug have fur?,No,No
+260,does a laptop have hair?,No,No
+261,does a eair fly?,Yes,No
+262,a surfboard flys.,Yes,No
+263,a mouth has a beak.,Yes,No
+264,a television has a beak.,No,No
+265,a plate is capable of flying.,No,No
+266,does a door have a wing?,No,No
+267,a car has feathers.,No,No
+268,does a chair live in the water?,No,No
+269,does a eair have feathers?,Yes,No
+270,can a eye fly?,No,No
+271,does a ground have hair?,No,No
+272,a screen has feathers.,No,No
+273,a glasses has wings.,No,No
+274,a pan has horns.,Yes,No
+275,does a house live underwater?,No,No
+276,does a chair fly?,No,No
+277,can a sunglasses fly?,No,No
+278,a beer has a beak.,No,No
+279,a sunglasses has a beak.,No,No
+280,does a meat have fur?,Yes,No
+281,does a headpone have wings?,No,No
+282,does a heart have horns?,No,No
+283,is a phone capable of flying?,No,No
+284,does a shirt have wings?,No,No
+285,does a charger have wings?,No,No
+286,a wine lives underwater.,No,No
+287,a tree has hair.,No,No
+288,does a screen have a beak?,No,No
+289,a microphone has a wing.,No,No
+290,does a stone have a beak?,No,No
+291,a meat has horns.,Yes,No
+292,a truck has feathers.,No,No
+293,a hand has wings.,No,No
+294,a eair has hair.,Yes,No
+295,does a spoon have feathers?,No,No
+296,a water is capable of flying.,No,No
+297,a coffee has horns.,No,No
+298,is a home capable of flying?,No,No
+299,does a toilet have a beak?,No,No
+300,does a bike have fur?,No,No
+301,does a mug live underwater?,No,No
+302,is a house capable of flying?,No,No
+303,does a calculator have horns?,No,No
+304,does a iphone have fur?,No,No
+305,does a screen have feathers?,No,No
+306,can a stone fly?,No,No
+307,can a eair fly?,Yes,No
+308,a ground has a wing.,No,No
+309,does a eye have feathers?,No,No
+310,a tree has feathers.,No,No
+311,does a plate have a beak?,No,No
+312,does a plant have fur?,No,No
+313,a stone has horns.,No,No
+314,does a bike live underwater?,No,No
+315,a shirt has horns.,No,No
+316,does a table live underwater?,No,No
+317,does a cheese live in the water?,No,No
+318,does a toilet have feathers?,No,No
+319,a ground is capable of flying.,No,No
+320,does a wall fly?,No,No
+321,does a tree fly?,No,No
+322,a door is capable of flying.,No,No
+323,can a home fly?,No,No
+324,a eair is capable of flying.,Yes,No
+325,does a pan have fur?,No,No
+326,does a wine have wings?,No,No
+327,a tree is capable of flying.,No,No
+328,does a mouth have a wing?,No,No
+329,does a couch have feathers?,No,No
+330,does a sunglasses have hair?,No,No
+331,a key has a beak.,No,No
+332,a milk is capable of flying.,No,No
+333,does a stone fly?,No,No
+334,a meat lives underwater.,No,No
+335,does a television live in the water?,No,No
+336,does a noise have fur?,No,No
+337,a charger has wings.,No,No
+338,a home flys.,No,No
+339,a meat flys.,No,No
+340,does a leg have wings?,No,No
+341,does a truck have hair?,No,No
+342,a mouth is capable of flying.,No,No
+343,is a calculator capable of flying?,No,No
+344,is a grass capable of flying?,No,No
+345,a sunglasses has a wing.,No,No
+346,does a glasses have a beak?,No,No
+347,does a tree have fur?,No,No
+348,does a house have feathers?,No,No
+349,is a bed capable of flying?,No,No
+350,is a ground capable of flying?,No,No
+351,does a phone have fur?,No,No
+352,does a laptop have a beak?,No,No
+353,does a key have hair?,No,No
+354,does a lamp live underwater?,No,No
+355,a pants has horns.,No,No
+356,does a meat have wings?,No,No
+357,a iphone has horns.,No,No
+358,does a key live in the water?,No,No
+359,a flower has wings.,Yes,No
+360,does a beer live in the water?,No,No
+361,a pants flys.,No,No
+362,a mouth has feathers.,No,No
+363,does a heart have feathers?,No,No
+364,does a wine have fur?,No,No
+365,a heart has fur.,No,No
+366,a laptop has hair.,No,No
+367,a skateboard lives underwater.,No,No
+368,a computer lives underwater.,No,No
+369,a television has hair.,No,No
+370,a glasses is capable of flying.,No,No
+371,a water has fur.,No,No
+372,a lamp has hair.,No,No
+373,does a leg live in the water?,No,No
+374,does a stone live in the water?,No,No
+375,a wall has a beak.,No,No
+376,can a car fly?,No,No
+377,does a grill have fur?,No,No
+378,does a tree have feathers?,No,No
+379,a water lives in the water.,Yes,No
+380,does a bed have feathers?,Yes,No
+381,a key has hair.,No,No
+382,a noise has a wing.,No,No
+383,does a meat have horns?,No,No
+384,does a mouth live in the water?,No,No
+385,is a screen capable of flying?,No,No
+386,does a tree have horns?,Yes,No
+387,does a phone have wings?,No,No
+388,a ground has horns.,No,No
+389,a coffee lives underwater.,No,No
+390,does a ground have fur?,No,No
+391,does a cheese live underwater?,No,No
+392,does a beer have fur?,No,No
+393,does a bike have horns?,No,No
+394,a water has horns.,No,No
+395,does a mug have feathers?,No,No
+396,is a sunglasses capable of flying?,No,No
+397,does a home have a beak?,No,No
+398,a shirt has a beak.,No,No
+399,is a mouth capable of flying?,No,No
+400,a sunglasses is capable of flying.,No,No
+401,does a calculator have wings?,No,No
+402,a sunglasses lives underwater.,No,No
+403,a hand has a beak.,Yes,No
+404,a eye has a wing.,No,No
+405,a iphone has feathers.,No,No
+406,a grill has wings.,No,No
+407,a pan has fur.,No,No
+408,does a eair have wings?,Yes,No
+409,can a iphone fly?,No,No
+410,does a grass have wings?,No,No
+411,does a key have horns?,No,No
+412,a mug has feathers.,No,No
+413,a coffee has wings.,No,No
+414,a toilet flys.,No,No
+415,a grass has horns.,No,No
+416,is a truck capable of flying?,No,No
+417,a plate has a beak.,No,No
+418,a truck has wings.,No,No
+419,does a plant have hair?,No,No
+420,does a screen have horns?,No,No
+421,a hand lives underwater.,No,No
+422,a table has feathers.,No,No
+423,a eye flys.,No,No
+424,a plant has a beak.,No,No
+425,does a headpone have feathers?,Yes,No
+426,a sock has hair.,No,No
+427,does a glasses live underwater?,No,No
+428,can a grass fly?,Yes,No
+429,does a noise have wings?,No,No
+430,a bed flys.,No,No
+431,a spoon flys.,No,No
+432,a wall has horns.,No,No
+433,does a ground fly?,No,No
+434,does a noise have a wing?,No,No
+435,a headpone has horns.,Yes,No
+436,does a television have wings?,No,No
+437,is a computer capable of flying?,No,No
+438,does a eye live in the water?,No,No
+439,a milk has wings.,No,No
+440,does a mug fly?,No,No
+441,a hand has hair.,No,No
+442,a house has feathers.,No,No
+443,is a microphone capable of flying?,No,No
+444,does a lamp have wings?,No,No
+445,does a pants live underwater?,No,No
+446,is a hand capable of flying?,No,No
+447,does a shirt have feathers?,No,No
+448,does a coffee have wings?,No,No
+449,does a ground live underwater?,No,No
+450,does a television fly?,No,No
+451,a stomach has a beak.,Yes,No
+452,does a wall have a beak?,No,No
+453,a bed lives in the water.,No,No
+454,does a bus have fur?,No,No
+455,does a iphone have feathers?,No,No
+456,is a sock capable of flying?,No,No
+457,does a plant live underwater?,Yes,No
+458,a couch has wings.,No,No
+459,a skateboard has fur.,No,No
+460,a pan lives underwater.,No,No
+461,does a skateboard have hair?,No,No
+462,a bus has feathers.,No,No
+463,can a mouth fly?,No,No
+464,does a grass have horns?,No,No
+465,a laptop has fur.,No,No
+466,a bus has hair.,No,No
+467,does a phone live underwater?,No,No
+468,a calculator has a wing.,No,No
+469,can a headpone fly?,Yes,No
+470,does a microphone have a wing?,No,No
+471,a bed has hair.,No,No
+472,does a pants live in the water?,No,No
+473,does a sock fly?,No,No
+474,a skateboard lives in the water.,No,No
+475,a plant lives underwater.,No,No
+476,does a phone fly?,No,No
+477,does a couch have a beak?,No,No
+478,a house lives underwater.,No,No
+479,does a hand fly?,No,No
+480,a noise has hair.,No,No
+481,does a truck have wings?,No,No
+482,a sock has horns.,No,No
+483,a wall is capable of flying.,No,No
+484,a car has horns.,Yes,No
+485,does a pants have a wing?,No,No
+486,a iphone is capable of flying.,No,No
+487,does a bus have feathers?,No,No
+488,a eair has fur.,Yes,No
+489,a home has a wing.,No,No
+490,a grill flys.,No,No
+491,a eair has feathers.,Yes,No
+492,a surfboard has hair.,No,No
+493,a meat has wings.,No,No
+494,a calculator has horns.,No,No
+495,can a sock fly?,No,No
+496,a calculator has a beak.,No,No
+497,does a plate live underwater?,No,No
+498,a calculator lives in the water.,No,No
+499,does a pan have wings?,No,No
+500,can a charger fly?,No,No
+501,does a leg live underwater?,No,No
+502,a stone has hair.,No,No
+503,does a iphone live in the water?,No,No
+504,a pants has hair.,No,No
+505,a chair has horns.,No,No
+506,a television is capable of flying.,No,No
+507,does a hand live underwater?,No,No
+508,does a microphone have hair?,No,No
+509,a sunglasses has wings.,No,No
+510,does a heart have hair?,No,No
+511,can a skateboard fly?,No,No
+512,can a stomach fly?,No,No
+513,does a hand have a beak?,Yes,No
+514,is a bike capable of flying?,No,No
+515,does a stomach have a wing?,No,No
+516,a screen lives in the water.,No,No
+517,a milk has a wing.,No,No
+518,can a computer fly?,No,No
+519,does a pencil fly?,No,No
+520,does a cheese have hair?,No,No
+521,is a car capable of flying?,No,No
+522,does a microphone live underwater?,No,No
+523,does a bus have a wing?,Yes,No
+524,does a skateboard have wings?,No,No
+525,does a ground have a wing?,No,No
+526,a grill lives underwater.,No,No
+527,can a wine fly?,No,No
+528,can a flower fly?,No,No
+529,a ground has wings.,No,No
+530,does a eair live in the water?,No,No
+531,does a wall have feathers?,No,No
+532,does a television have hair?,No,No
+533,a microphone has feathers.,No,No
+534,a wine has feathers.,No,No
+535,is a eair capable of flying?,Yes,No
+536,a couch has feathers.,No,No
+537,a table lives underwater.,No,No
+538,a pants lives underwater.,No,No
+539,does a microphone have feathers?,No,No
+540,a headpone flys.,Yes,No
+541,a wall lives underwater.,No,No
+542,does a water live in the water?,Yes,No
+543,a sock has feathers.,No,No
+544,a toilet has feathers.,No,No
+545,a wine has a beak.,No,No
+546,a laptop flys.,No,No
+547,does a home have horns?,No,No
+548,does a sock have a wing?,No,No
+549,does a mouth have feathers?,No,No
+550,is a plate capable of flying?,No,No
+551,a flower has feathers.,Yes,No
+552,does a house live in the water?,No,No
+553,does a headpone have a wing?,Yes,No
+554,does a pan live in the water?,No,No
+555,a headpone lives underwater.,No,No
+556,a phone has fur.,No,No
+557,a flower is capable of flying.,No,No
+558,does a water have a beak?,No,No
+559,does a surfboard have a wing?,No,No
+560,a water has feathers.,No,No
+561,a car lives underwater.,No,No
+562,can a milk fly?,No,No
+563,does a car fly?,No,No
+564,a table lives in the water.,No,No
+565,does a chair have feathers?,No,No
+566,does a spoon have horns?,No,No
+567,does a surfboard have hair?,No,No
+568,does a leg fly?,No,No
+569,a spoon has feathers.,No,No
+570,does a phone have horns?,No,No
+571,does a bus have hair?,No,No
+572,a plant has horns.,No,No
+573,a heart has a beak.,No,No
+574,does a wine live underwater?,No,No
+575,does a coffee have feathers?,No,No
+576,is a beer capable of flying?,No,No
+577,does a hand have feathers?,No,No
+578,a beer has feathers.,No,No
+579,a hand is capable of flying.,No,No
+580,does a microphone have fur?,No,No
+581,does a coffee live in the water?,No,No
+582,a eair flys.,Yes,No
+583,does a pencil live in the water?,No,No
+584,a wall flys.,No,No
+585,does a computer have horns?,No,No
+586,a car has fur.,No,No
+587,a beer has hair.,No,No
+588,a leg flys.,No,No
+589,does a key fly?,No,No
+590,a surfboard has feathers.,No,No
+591,a couch lives in the water.,No,No
+592,does a grass have a wing?,Yes,No
+593,a toilet has horns.,No,No
+594,does a beer have a wing?,No,No
+595,a cheese has wings.,No,No
+596,can a lamp fly?,No,No
+597,does a noise have hair?,No,No
+598,does a bed have hair?,No,No
+599,is a stone capable of flying?,No,No
+600,a mouth lives underwater.,No,No
+601,does a stomach have fur?,No,No
+602,does a table have fur?,No,No
+603,does a chair live underwater?,No,No
+604,a spoon lives in the water.,No,No
+605,does a headpone have hair?,Yes,No
+606,a noise has fur.,No,No
+607,does a spoon have hair?,No,No
+608,does a door have hair?,No,No
+609,can a heart fly?,No,No
+610,a laptop lives underwater.,No,No
+611,a coffee lives in the water.,No,No
+612,a lamp has a wing.,No,No
+613,does a coffee have a wing?,No,No
+614,a iphone lives in the water.,No,No
+615,a truck has horns.,Yes,No
+616,does a home live in the water?,No,No
+617,does a calculator have a beak?,No,No
+618,does a plate have wings?,No,No
+619,is a tree capable of flying?,No,No
+620,does a pencil have fur?,No,No
+621,is a door capable of flying?,No,No
+622,a wall has wings.,No,No
+623,a plate has wings.,No,No
+624,does a home live underwater?,No,No
+625,does a water live underwater?,Yes,No
+626,does a grill have horns?,No,No
+627,can a beer fly?,No,No
+628,a stone has feathers.,No,No
+629,a eye has feathers.,No,No
+630,does a truck live in the water?,No,No
+631,does a home have wings?,No,No
+632,can a key fly?,No,No
+633,a surfboard has a beak.,No,No
+634,a lamp has wings.,No,No
+635,a plant has a wing.,Yes,No
+636,a computer has wings.,No,No
+637,a couch has hair.,No,No
+638,a ground lives underwater.,No,No
+639,does a noise have feathers?,No,No
+640,a noise has feathers.,No,No
+641,does a key have wings?,No,No
+642,is a wall capable of flying?,No,No
+643,a door has a wing.,No,No
+644,does a cheese fly?,No,No
+645,is a meat capable of flying?,No,No
+646,a calculator has fur.,No,No
+647,does a stomach have a beak?,No,No
+648,does a truck have fur?,No,No
+649,a computer flys.,No,No
+650,a mug is capable of flying.,No,No
+651,does a sock have hair?,No,No
+652,a shirt has wings.,No,No
+653,does a surfboard have feathers?,No,No
+654,does a noise have horns?,No,No
+655,a leg is capable of flying.,No,No
+656,does a hand have horns?,No,No
+657,a coffee flys.,No,No
+658,does a sock have feathers?,No,No
+659,does a sunglasses live in the water?,No,No
+660,a eair has a beak.,Yes,No
+661,does a wine fly?,No,No
+662,a skateboard has wings.,No,No
+663,a screen lives underwater.,No,No
+664,does a mouth have horns?,No,No
+665,does a skateboard have horns?,No,No
+666,does a charger have a beak?,No,No
+667,does a pan have horns?,No,No
+668,a heart flys.,No,No
+669,a headpone has a beak.,Yes,No
+670,a heart has hair.,No,No
+671,is a lamp capable of flying?,No,No
+672,does a mouth have wings?,No,No
+673,does a phone have a wing?,No,No
+674,is a grill capable of flying?,No,No
+675,does a iphone fly?,No,No
+676,a truck lives underwater.,No,No
+677,can a laptop fly?,No,No
+678,does a plate have hair?,No,No
+679,is a chair capable of flying?,No,No
+680,a laptop has wings.,No,No
+681,can a coffee fly?,No,No
+682,a phone has feathers.,No,No
+683,does a lamp have fur?,No,No
+684,a leg has a beak.,No,No
+685,a door has a beak.,No,No
+686,a wall has hair.,No,No
+687,does a grill have wings?,No,No
+688,a plant is capable of flying.,No,No
+689,does a skateboard have a beak?,No,No
+690,does a stone have hair?,No,No
+691,a wall has fur.,No,No
+692,does a flower live underwater?,No,No
+693,does a house have horns?,No,No
+694,does a tree live in the water?,No,No
+695,does a shirt live underwater?,No,No
+696,does a leg have a beak?,No,No
+697,does a lamp live in the water?,No,No
+698,does a skateboard have a wing?,No,No
+699,a laptop is capable of flying.,No,No
+700,is a pan capable of flying?,No,No
+701,a hand has a wing.,No,No
+702,does a mug have horns?,No,No
+703,a microphone flys.,No,No
+704,a meat lives in the water.,No,No
+705,does a couch have fur?,Yes,No
+706,does a pants fly?,No,No
+707,does a skateboard have feathers?,No,No
+708,a pan flys.,No,No
+709,a truck flys.,No,No
+710,a ground has hair.,No,No
+711,does a bus have horns?,Yes,No
+712,does a computer have a beak?,No,No
+713,does a laptop have feathers?,No,No
+714,a water has hair.,No,No
+715,does a wall live in the water?,No,No
+716,a chair has feathers.,Yes,No
+717,a bed lives underwater.,No,No
+718,does a hand have hair?,No,No
+719,a pants is capable of flying.,No,No
+720,does a hand have fur?,No,No
+721,does a stomach have horns?,No,No
+722,a bed has fur.,No,No
+723,does a water have horns?,No,No
+724,does a table have a beak?,No,No
+725,does a computer have feathers?,No,No
+726,can a noise fly?,No,No
+727,a tree has a wing.,No,No
+728,a wall has feathers.,No,No
+729,does a spoon have fur?,No,No
+730,a computer has a wing.,No,No
+731,does a spoon live in the water?,No,No
+732,a milk has hair.,No,No
+733,a plate has hair.,No,No
+734,does a heart live in the water?,No,No
+735,a noise has wings.,No,No
+736,a eye is capable of flying.,No,No
+737,a computer lives in the water.,No,No
+738,a sock flys.,No,No
+739,does a milk have horns?,No,No
+740,a couch has a wing.,No,No
+741,does a mouth live underwater?,No,No
+742,does a flower have a beak?,No,No
+743,does a mug have a wing?,No,No
+744,does a car have feathers?,No,No
+745,a toilet lives underwater.,No,No
+746,a mouth has hair.,No,No
+747,a spoon has a wing.,No,No
+748,can a bike fly?,No,No
+749,does a stone have wings?,No,No
+750,does a meat fly?,No,No
+751,does a couch have wings?,No,No
+752,a meat has a beak.,Yes,No
+753,does a sunglasses live underwater?,No,No
+754,a lamp lives underwater.,No,No
+755,does a leg have horns?,No,No
+756,does a water have wings?,No,No
+757,can a table fly?,No,No
+758,does a meat have a wing?,No,No
+759,does a ground have feathers?,No,No
+760,a door flys.,No,No
+761,does a heart have a wing?,No,No
+762,does a sunglasses have fur?,No,No
+763,a wine flys.,No,No
+764,can a phone fly?,No,No
+765,a beer lives underwater.,No,No
+766,does a bike live in the water?,No,No
+767,a iphone has a wing.,No,No
+768,a table has hair.,No,No
+769,a house has a wing.,No,No
+770,a toilet has fur.,No,No
+771,does a chair have a wing?,No,No
+772,does a pants have a beak?,No,No
+773,a toilet lives in the water.,No,No
+774,does a sock have wings?,No,No
+775,a charger lives in the water.,No,No
+776,can a couch fly?,No,No
+777,does a pan live underwater?,No,No
+778,a bus lives in the water.,No,No
+779,does a bed fly?,No,No
+780,does a spoon have wings?,No,No
+781,does a phone have hair?,No,No
+782,a table has a wing.,No,No
+783,is a heart capable of flying?,No,No
+784,a eair has a wing.,Yes,No
+785,does a pencil have feathers?,No,No
+786,does a grill have feathers?,No,No
+787,does a sunglasses have wings?,No,No
+788,does a laptop live underwater?,No,No
+789,does a surfboard have fur?,No,No
+790,a television flys.,No,No
+791,does a screen have a wing?,No,No
+792,does a charger have horns?,No,No
+793,a car is capable of flying.,Yes,No
+794,does a toilet have fur?,No,No
+795,a wine has horns.,No,No
+796,a stone flys.,No,No
+797,does a glasses have feathers?,No,No
+798,does a heart have a beak?,No,No
+799,does a cheese have fur?,Yes,No
+800,does a calculator have feathers?,No,No
+801,a bed has a wing.,No,No
+802,a eye has wings.,No,No
+803,does a flower fly?,No,No
+804,a beer lives in the water.,No,No
+805,does a grill have a beak?,No,No
+806,does a coffee fly?,No,No
+807,can a grill fly?,No,No
+808,a stone lives underwater.,No,No
+809,a pan has a wing.,No,No
+810,a headpone has feathers.,Yes,No
+811,does a toilet fly?,No,No
+812,a car lives in the water.,No,No
+813,a microphone is capable of flying.,No,No
+814,a door lives in the water.,No,No
+815,a laptop has a beak.,No,No
+816,does a car live in the water?,No,No
+817,a truck has a beak.,No,No
+818,a sunglasses lives in the water.,No,No
+819,a grill has a beak.,No,No
+820,a heart has feathers.,No,No
+821,a eair has wings.,Yes,No
+822,a pencil flys.,No,No
+823,does a flower live in the water?,Yes,No
+824,does a calculator have fur?,No,No
+825,does a phone live in the water?,No,No
+826,does a stone have horns?,No,No
+827,a bed has horns.,No,No
+828,a lamp has horns.,No,No
+829,does a stone have a wing?,No,No
+830,does a couch live in the water?,No,No
+831,is a water capable of flying?,No,No
+832,is a cheese capable of flying?,No,No
+833,a iphone lives underwater.,No,No
+834,a hand has feathers.,No,No
+835,does a wine have hair?,No,No
+836,a television lives in the water.,No,No
+837,a microphone has fur.,No,No
+838,does a screen fly?,No,No
+839,a television has a wing.,No,No
+840,does a mouth have a beak?,Yes,No
+841,does a tree have hair?,No,No
+842,does a car have wings?,No,No
+843,does a iphone have a wing?,No,No
+844,a plant has feathers.,No,No
+845,does a lamp fly?,No,No
+846,a milk lives in the water.,Yes,No
+847,a chair has a wing.,No,No
+848,a stomach is capable of flying.,No,No
+849,a house has horns.,No,No
+850,does a house have a wing?,No,No
+851,a television has fur.,No,No
+852,can a toilet fly?,No,No
+853,a eye lives underwater.,No,No
+854,is a table capable of flying?,No,No
+855,a leg has feathers.,No,No
+856,does a plant fly?,No,No
+857,a screen has a wing.,No,No
+858,does a grass have hair?,Yes,No
+859,does a headpone have horns?,Yes,No
+860,a mug has fur.,No,No
+861,does a iphone live underwater?,No,No
+862,a door has fur.,No,No
+863,a pencil lives underwater.,No,No
+864,does a eair have horns?,No,No
+865,does a lamp have hair?,No,No
+866,can a spoon fly?,No,No
+867,a television has wings.,No,No
+868,does a door fly?,No,No
+869,a sunglasses has horns.,No,No
+870,does a wine have a beak?,No,No
+871,a couch is capable of flying.,No,No
+872,a iphone has a beak.,No,No
+873,does a wine have feathers?,No,No
+874,does a laptop fly?,No,No
+875,a stomach lives in the water.,No,No
+876,a screen has horns.,No,No
+877,a wine has hair.,No,No
+878,a toilet has a wing.,No,No
+879,does a tree live underwater?,No,No
+880,does a computer have wings?,No,No
+881,is a pants capable of flying?,No,No
+882,does a beer live underwater?,No,No
+883,does a bus have a beak?,No,No
+884,a charger has fur.,No,No
+885,does a headpone have a beak?,Yes,No
+886,a bike has hair.,No,No
+887,does a eair have a beak?,Yes,No
+888,a charger has feathers.,No,No
+889,does a bed have wings?,No,No
+890,a pants lives in the water.,No,No
+891,a charger has a beak.,No,No
+892,a chair has fur.,No,No
+893,a door has horns.,No,No
+894,a hand lives in the water.,No,No
+895,a television has feathers.,No,No
+896,does a computer live in the water?,No,No
+897,does a eye have wings?,No,No
+898,does a headpone live in the water?,No,No
+899,does a table have feathers?,No,No
+900,does a calculator live underwater?,No,No
+901,does a laptop have horns?,No,No
+902,a bike lives in the water.,No,No
+903,a glasses has fur.,No,No
+904,does a surfboard live underwater?,No,No
+905,a bed has a beak.,No,No
+906,a key has a wing.,No,No
+907,does a glasses live in the water?,No,No
+908,a microphone has a beak.,No,No
+909,a chair has a beak.,No,No
+910,is a shirt capable of flying?,No,No
+911,a surfboard has a wing.,No,No
+912,a plate lives in the water.,No,No
+913,a house has a beak.,No,No
+914,does a tree have a beak?,No,No
+915,does a stone have fur?,No,No
+916,a headpone has a wing.,Yes,No
+917,does a meat live underwater?,No,No
+918,a lamp lives in the water.,No,No
+919,a charger flys.,No,No
+920,does a flower have wings?,Yes,No
+921,a cheese lives underwater.,No,No
+922,does a truck have feathers?,No,No
+923,does a cheese have a beak?,No,No
+924,does a hand live in the water?,No,No
+925,a house is capable of flying.,No,No
+926,a home has fur.,No,No
+927,a water flys.,No,No
+928,does a mug have a beak?,No,No
+929,a grass lives in the water.,No,No
+930,a bike lives underwater.,No,No
+931,does a eair have a wing?,Yes,No
+932,a meat is capable of flying.,No,No
+933,a mug flys.,No,No
+934,does a coffee have fur?,No,No
+935,a leg has fur.,No,No
+936,does a grill have hair?,No,No
+937,does a sunglasses have horns?,No,No
+938,does a sunglasses have a beak?,No,No
+939,does a television have a beak?,No,No
+940,does a microphone have horns?,No,No
+941,does a sock live underwater?,No,No
+942,can a glasses fly?,No,No
+943,a stomach has wings.,No,No
+944,a microphone has wings.,No,No
+945,a laptop has a wing.,No,No
+946,does a iphone have a beak?,No,No
+947,a grass lives underwater.,No,No
+948,a surfboard lives underwater.,Yes,No
+949,does a wine have horns?,No,No
+950,a flower has fur.,No,No
+951,does a car live underwater?,No,No
+952,a key has fur.,No,No
+953,a pants has a beak.,No,No
+954,a couch has a beak.,No,No
+955,is a milk capable of flying?,No,No
+956,can a microphone fly?,No,No
+957,does a headpone have fur?,Yes,No
+958,is a couch capable of flying?,No,No
+959,a charger has a wing.,No,No
+960,a beer has fur.,No,No
+961,a couch flys.,No,No
+962,a toilet is capable of flying.,No,No
+963,a sunglasses flys.,No,No
+964,a coffee has hair.,No,No
+965,a table flys.,No,No
+966,does a bike have wings?,No,No
+967,does a grill fly?,No,No
+968,does a bed live in the water?,No,No
+969,a grass has a beak.,No,No
+970,a glasses lives in the water.,No,No
+971,does a home have fur?,No,No
+972,a pencil is capable of flying.,No,No
+973,a mouth has a wing.,No,No
+974,a stomach has hair.,No,No
+975,a plate has feathers.,No,No
+976,a iphone has hair.,No,No
+977,a wine has a wing.,No,No
+978,a grill has feathers.,No,No
+979,does a table fly?,No,No
+980,a sock has a wing.,No,No
+981,is a key capable of flying?,No,No
+982,a car flys.,No,No
+983,does a bus fly?,No,No
+984,does a surfboard fly?,No,No
+985,a noise is capable of flying.,No,No
+986,does a wall have hair?,No,No
+987,a calculator has feathers.,No,No
+988,a pan is capable of flying.,No,No
+989,a stomach flys.,No,No
+990,can a chair fly?,No,No
+991,does a house fly?,No,No
+992,can a shirt fly?,No,No
+993,a stomach lives underwater.,No,No
+994,does a screen live in the water?,No,No
+995,a beer is capable of flying.,No,No
+996,a leg has hair.,No,No
+997,does a charger live underwater?,No,No
+998,does a home have a wing?,No,No
+999,a charger lives underwater.,No,No
+1000,can a bed fly?,No,No
+1001,a calculator lives underwater.,No,No
+1002,does a stone live underwater?,No,No
+1003,does a wine live in the water?,No,No
+1004,does a heart fly?,No,No
+1005,a ground has feathers.,No,No
+1006,does a cheese have feathers?,No,No
+1007,does a glasses have hair?,No,No
+1008,does a plant have wings?,No,No
+1009,does a bike have a wing?,No,No
+1010,a door lives underwater.,No,No
+1011,does a headpone live underwater?,No,No
+1012,a ground has a beak.,No,No
+1013,does a shirt have hair?,No,No
+1014,does a plate fly?,No,No
+1015,a mug lives underwater.,No,No
+1016,does a truck fly?,No,No
+1017,a grill has fur.,No,No
+1018,a ground lives in the water.,Yes,No
+1019,a cheese is capable of flying.,No,No
+1020,a pencil has horns.,No,No
+1021,a bike flys.,No,No
+1022,does a milk have hair?,No,No
+1023,a pants has fur.,Yes,No
+1024,does a sunglasses have a wing?,No,No
+1025,a headpone lives in the water.,No,No
+1026,a stone is capable of flying.,No,No
+1027,a sunglasses has hair.,No,No
+1028,does a beer fly?,No,No
+1029,a computer has hair.,No,No
+1030,does a table have a wing?,No,No
+1031,a bike has wings.,No,No
+1032,a spoon lives underwater.,No,No
+1033,a grass is capable of flying.,No,No
+1034,does a calculator have a wing?,No,No
+1035,does a flower have hair?,No,No
+1036,a iphone has fur.,No,No
+1037,does a iphone have horns?,No,No
+1038,does a pan fly?,No,No
+1039,does a chair have a beak?,No,No
+1040,a beer has a wing.,No,No
+1041,does a phone have a beak?,No,No
+1042,does a sock live in the water?,No,No
+1043,does a milk live underwater?,No,No
+1044,does a key have a beak?,No,No
+1045,does a spoon have a beak?,No,No
+1046,a shirt has fur.,Yes,No
+1047,a eye has a beak.,Yes,No
+1048,does a skateboard live underwater?,No,No
+1049,does a couch fly?,No,No
+1050,does a grass live underwater?,No,No
+1051,is a headpone capable of flying?,No,No
+1052,a spoon has fur.,No,No
+1053,a phone is capable of flying.,No,No
+1054,a eye has fur.,No,No
+1055,does a stomach have feathers?,No,No
+1056,a screen has fur.,No,No
+1057,can a bus fly?,No,No
+1058,does a grill have a wing?,No,No
+1059,a home has horns.,No,No
+1060,a spoon has wings.,No,No
+1061,does a grill live in the water?,No,No
+1062,a surfboard has horns.,No,No
+1063,a milk has feathers.,No,No
+1064,a flower lives in the water.,Yes,No
+1065,a coffee is capable of flying.,No,No
+1066,a chair lives underwater.,No,No
+1067,does a toilet have horns?,No,No
+1068,a meat has hair.,No,No
+1069,is a eye capable of flying?,No,No
+1070,a wine is capable of flying.,No,No
+1071,can a hand fly?,No,No
+1072,a grass has feathers.,No,No
+1073,does a ground have a beak?,No,No
+1074,does a computer have hair?,No,No
+1075,a pan has feathers.,No,No
+1076,a mouth has fur.,No,No
+1077,does a stomach fly?,No,No
+1078,a home has hair.,No,No
+1079,does a pencil have wings?,No,No
+1080,does a mug have wings?,No,No
+1081,does a truck have a beak?,No,No
+1082,a glasses flys.,No,No
+1083,a headpone has hair.,Yes,No
+1084,a bike has a beak.,No,No
+1085,does a water have fur?,No,No
+1086,a laptop has feathers.,No,No
+1087,a mug has a beak.,Yes,No
+1088,a meat has fur.,Yes,No
+1089,does a iphone have hair?,No,No
+1090,a noise has a beak.,No,No
+1091,a shirt has feathers.,No,No
+1092,a lamp has feathers.,No,No
+1093,a headpone is capable of flying.,No,No
+1094,does a microphone live in the water?,No,No
+1095,is a charger capable of flying?,No,No
+1096,does a headpone fly?,Yes,No
+1097,a mug lives in the water.,No,No
+1098,a tree lives underwater.,No,No
+1099,is a iphone capable of flying?,No,No
+1100,a cheese has horns.,No,No
+1101,does a glasses have wings?,No,No
+1102,does a eye have hair?,No,No
+1103,a phone lives in the water.,No,No
+1104,a sunglasses has feathers.,No,No
+1105,does a pan have a beak?,No,No
+1106,can a screen fly?,No,No
+1107,a car has a wing.,No,No
+1108,is a mug capable of flying?,No,No
+1109,a milk lives underwater.,No,No
+1110,can a water fly?,No,No
+1111,does a beer have a beak?,No,No
+1112,a cheese has a beak.,No,No
+1113,a glasses has horns.,No,No
+1114,does a beer have wings?,No,No
+1115,a bus lives underwater.,No,No
+1116,a chair is capable of flying.,No,No
+1117,a phone has hair.,No,No
+1118,a table has fur.,No,No
+1119,does a eye have horns?,No,No
+1120,is a noise capable of flying?,No,No
+1121,a eair lives underwater.,No,No
+1122,does a beer have feathers?,No,No
+1123,does a cheese have wings?,No,No
+1124,does a sunglasses fly?,No,No
+1125,does a microphone fly?,No,No
+1126,a laptop lives in the water.,No,No
+1127,does a pants have wings?,No,No
+1128,a glasses has a wing.,No,No
+1129,does a plate have fur?,No,No
+1130,does a heart live underwater?,No,No
+1131,does a table have horns?,No,No
+1132,does a truck live underwater?,No,No
+1133,a pan has wings.,No,No
+1134,does a mouth have fur?,No,No
+1135,does a ground live in the water?,No,No
+1136,does a eye fly?,No,No
+1137,does a wine have a wing?,No,No
+1138,does a chair have horns?,No,No
+1139,a television has horns.,No,No
+1140,does a shirt have fur?,Yes,No
+1141,does a eye have a wing?,No,No
+1142,does a chair have fur?,No,No
+1143,does a toilet live in the water?,No,No
+1144,a key has feathers.,No,No
+1145,a milk flys.,No,No
+1146,a stomach has feathers.,No,No
+1147,does a couch have hair?,No,No
+1148,does a toilet have hair?,No,No
+1149,does a stomach have wings?,No,No
+1150,does a milk have feathers?,No,No
+1151,does a milk have fur?,No,No
+1152,does a pencil have hair?,No,No
+1153,is a coffee capable of flying?,No,No
+1154,does a door have wings?,No,No
+1155,does a milk fly?,No,No
+1156,does a tree have wings?,No,No
+1157,is a pencil capable of flying?,No,No
+1158,a sock is capable of flying.,No,No
+1159,a home is capable of flying.,No,No
+1160,can a ground fly?,No,No
+1161,a milk has horns.,No,No
+1162,does a bus live underwater?,No,No
+1163,does a mug live in the water?,No,No
+1164,does a lamp have a beak?,No,No
+1165,a phone has a beak.,No,No
+1166,does a meat have feathers?,No,No
+1167,does a house have a beak?,No,No
+1168,does a noise live in the water?,No,No
+1169,does a key have feathers?,No,No
+1170,a bus has wings.,No,No
+1171,a home lives underwater.,No,No
+1172,does a toilet live underwater?,No,No
+1173,does a door have horns?,No,No
+1174,a key lives underwater.,No,No
+1175,a bus is capable of flying.,Yes,No
+1176,can a surfboard fly?,No,No
+1177,a home has a beak.,No,No
+1178,can a mug fly?,No,No
+1179,a shirt lives underwater.,No,No
+1180,does a grass live in the water?,No,No
+1181,a spoon has a beak.,No,No
+1182,does a grass have a beak?,No,No
+1183,a stomach has a wing.,No,No
+1184,a microphone has hair.,No,No
+1185,does a computer have fur?,No,No
+1186,does a skateboard live in the water?,No,No
+1187,does a grass fly?,Yes,No
+1188,a tree has a beak.,No,No
+1189,a calculator is capable of flying.,No,No
+1190,a skateboard has hair.,No,No
+1191,a plate has fur.,No,No
+1192,a door has wings.,No,No
+1193,can a pants fly?,No,No
+1194,does a plant have horns?,No,No
+1195,does a phone have feathers?,No,No
+1196,a screen has a beak.,No,No
+1197,a bus has a beak.,No,No
+1198,a grass has hair.,Yes,No
+1199,is a bus capable of flying?,No,No
+1200,does a home have hair?,No,No
+1201,a surfboard has wings.,No,No
+1202,a wall has a wing.,No,No
+1203,a phone has horns.,No,No
+1204,a shirt has a wing.,No,No
+1205,a mug has a wing.,No,No
+1206,does a bus have wings?,No,No
+1207,does a water have a wing?,No,No
+1208,does a milk have wings?,No,No
+1209,a screen flys.,No,No
+1210,does a skateboard have fur?,No,No
+1211,a grill is capable of flying.,No,No
+1212,a bike is capable of flying.,No,No
+1213,a flower flys.,No,No
+1214,a house lives in the water.,No,No
+1215,does a wall live underwater?,No,No
+1216,a stone lives in the water.,No,No
+1217,does a pencil have a wing?,No,No
+1218,does a table live in the water?,No,No
+1219,a couch lives underwater.,No,No
+1220,does a bike have feathers?,No,No
+1221,does a door have fur?,No,No
+1222,a car has wings.,No,No
+1223,a computer has fur.,No,No
+1224,a stone has a beak.,No,No
+1225,a house has hair.,No,No
+1226,does a truck have horns?,Yes,No
+1227,a pencil has fur.,No,No
+1228,a flower lives underwater.,No,No
+1229,is a skateboard capable of flying?,No,No
+1230,a heart has horns.,No,No
+1231,a meat has a wing.,No,No
+1232,a wall lives in the water.,No,No
+1233,a truck lives in the water.,No,No
+1234,does a bike fly?,No,No
+1235,a lamp is capable of flying.,No,No
+1236,does a pants have fur?,No,No
+1237,does a plant have a wing?,Yes,No
+1238,a door has feathers.,No,No
+1239,does a coffee have a beak?,No,No
+1240,a mug has wings.,No,No
+1241,a key has wings.,No,No
+1242,a truck has fur.,No,No
+1243,does a grass have fur?,Yes,No
+1244,a laptop has horns.,No,No
+1245,a sock has fur.,No,No
+1246,does a iphone have wings?,No,No
+1247,does a flower have horns?,No,No
+1248,can a meat fly?,No,No
+1249,a pan lives in the water.,No,No
+1250,does a wall have horns?,No,No
+1251,a skateboard is capable of flying.,No,No
+1252,a bus has horns.,Yes,No
+1253,a charger has hair.,No,No
+1254,does a eair have hair?,No,No
+1255,a key flys.,No,No
+1256,does a spoon fly?,No,No
+1257,a microphone lives underwater.,No,No
+1258,does a heart have fur?,No,No
+1259,does a couch have a wing?,No,No
+1260,a iphone has wings.,No,No
+1261,a bed is capable of flying.,No,No
+1262,does a beer have hair?,No,No
+1263,does a bed have horns?,No,No
+1264,a shirt lives in the water.,No,No
+1265,can a television fly?,No,No
+1266,a plate has a wing.,No,No
+1267,can a cheese fly?,No,No
+1268,a stone has a wing.,No,No
+1269,does a milk live in the water?,Yes,No
+1270,does a lamp have a wing?,No,No
+1271,a table has horns.,No,No
+1272,a microphone lives in the water.,No,No
+1273,a headpone has fur.,Yes,No
+1274,a computer has feathers.,No,No
+1275,a spoon has horns.,No,No
+1276,a phone has wings.,No,No
+1277,a stomach has fur.,Yes,No
+1278,a spoon has hair.,No,No
+1279,a car has hair.,No,No
+1280,a eair lives in the water.,Yes,No
+1281,a skateboard has feathers.,No,No
+1282,does a television have fur?,No,No
+1283,can a plate fly?,No,No
+1284,can a leg fly?,No,No
+1285,is a plant capable of flying?,No,No
+1286,can a tree fly?,No,No
+1287,does a pants have hair?,No,No
+1288,does a home have feathers?,No,No
+1289,does a stone have feathers?,No,No
+1290,a chair lives in the water.,No,No
+1291,a computer has horns.,No,No
+1292,does a mug have hair?,No,No
+1293,a wine has wings.,No,No
+1294,is a leg capable of flying?,No,No
+1295,a heart has wings.,No,No
+1296,does a ground have wings?,No,No
+1297,can a pencil fly?,No,No
+1298,is a glasses capable of flying?,No,No
+1299,does a meat have hair?,No,No
+1300,does a sock have fur?,No,No
+1301,does a cheese have horns?,No,No
+1302,does a screen live underwater?,No,No
+1303,can a door fly?,No,No
+1304,does a plate have feathers?,No,No
+1305,a house has wings.,No,No
+1306,does a toilet have a wing?,No,No
+1307,does a leg have a wing?,No,No
+1308,does a cheese have a wing?,No,No
+1309,does a computer fly?,No,No
+1310,a computer is capable of flying.,No,No
+1311,a shirt has hair.,No,No
+1312,a eye has hair.,No,No
+1313,does a computer have a wing?,No,No
+1314,is a surfboard capable of flying?,No,No
+1315,does a surfboard have a beak?,No,No
+1316,does a flower have fur?,No,No
+1317,does a coffee have hair?,No,No
+1318,does a spoon live underwater?,No,No
+1319,does a heart have wings?,No,No
+1320,a tree flys.,No,No
+1321,is a flower capable of flying?,No,No
+1322,does a door live in the water?,No,No
+1323,does a flower have feathers?,Yes,No
+1324,does a eair live underwater?,No,No
+1325,does a lamp have feathers?,No,No
+1326,does a noise have a beak?,No,No
+1327,a plate lives underwater.,No,No
+1328,does a shirt have a wing?,No,No
+1329,does a car have a beak?,No,No
+1330,does a wall have a wing?,No,No
+1331,does a leg have fur?,No,No
+1332,can a plant fly?,No,No
+1333,does a eye have fur?,No,No
+1334,a plate flys.,No,No
+1335,can a wall fly?,No,No
+1336,a iphone flys.,No,No
+1337,does a bus live in the water?,No,No
+1338,does a mouth fly?,No,No
+1339,does a television have feathers?,No,No
+1340,a beer has horns.,No,No
+1341,a home has wings.,No,No
+1342,does a pants have horns?,No,No
+1343,does a bike have a beak?,No,No
+1344,does a glasses have fur?,No,No
+1345,does a charger fly?,No,No
+1346,a plate has horns.,No,No
+1347,does a laptop have fur?,No,No
+1348,does a key have fur?,No,No
+1349,does a charger have hair?,No,No
+1350,does a car have a wing?,Yes,No
+1351,a water has wings.,No,No
+1352,a couch has fur.,Yes,No
+1353,does a table have wings?,No,No
+1354,a glasses has a beak.,No,No
+1355,does a water have feathers?,No,No
+1356,does a leg have feathers?,No,No
