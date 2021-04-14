@@ -438,8 +438,8 @@ def merge_questions(csv_paths, output_path="csv/train_questions.csv", split=True
         val_df = pd.DataFrame.from_dict(
             {"question": np.hstack([yes_questions[val_indices], no_questions[val_indices]]),
              "label": np.hstack([yes_label[val_indices], no_label[val_indices]])})
-        train_df.to_csv("csv/train_questions.csv")
-        val_df.to_csv("csv/val_questions.csv")
+        train_df.to_csv("csv/train_no_animals_and_fruits_questions.csv")
+        val_df.to_csv("csv/val_no_animals_and_fruits_questions.csv")
     else:
         indices = np.random.choice(a=np.arange(len(yes_questions) + len(no_questions)), size=2*N, replace=False)
         print("Number of samples: ", len(set(indices)))
@@ -475,6 +475,7 @@ def split_data(csv_path, prefix="", p=0.8):
     val_df.to_csv(f"csv/{prefix}val_questions.csv")
     print("Number of questions", N)
 
+
 def animal_accuracy(animal, result_df):
     animal_df = result_df[[f" {animal} " in question or f" {animal}'s" in question for question in result_df.question]]
     accuracy = len(animal_df[animal_df.model_answer == animal_df.true_answer]) / len(animal_df)
@@ -508,8 +509,8 @@ def clean_question(question):
 
 def filter_questions():
     properties = {"animal", 'scale', 'scales', 'fur', 'hair', 'hairs', 'tail', 'legs', 'leg', 'fly',
-                  'flies', 'climb', 'climbs', 'carnivore', 'herbivore', 'omnivore', 'bones', 'bone', 'beak', 'teeth',
-                  'feathers', 'feather', 'horn', 'horns', 'hooves', 'claws', 'blooded', "wing", "wings"}
+                  'flies', "flying", 'climb', 'climbs', 'carnivore', 'herbivore', 'omnivore', 'bones', 'bone', 'beak',
+                  'teeth', 'feathers', 'feather', 'horn', 'horns', 'hooves', 'claws', 'blooded', "wing", "wings"}
 
     files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
              "animals_have_wings", "animals_have_feathers", "animals_have_fur",
@@ -517,7 +518,7 @@ def filter_questions():
              "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
              "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
-             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "animals"]
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "animals", "sanity2"]
     animals = set()
     for file in files:
         animals = animals.union(set(pd.read_csv(f"csv/{file}.csv").entity.values))
@@ -552,7 +553,7 @@ def filter_questions():
                     data["label"].append("Yes" if answer else "No")
             else:
                 print(question, answer)
-    extra_questions = pd.read_csv("csv/train_questions.csv")
+    extra_questions = pd.read_csv("csv/manual_questions.csv")
     for row in extra_questions.iterrows():
         row = row[1]
         question, answer = row["question"], row["label"]
@@ -582,7 +583,7 @@ def filter_questions():
     new_yes_questions = questions_df[questions_df["label"] == "Yes"].sample(n=N, replace=False)
     new_no_questions = questions_df[questions_df["label"] == "No"].sample(n=N, replace=False)
     questions_df = pd.concat([new_yes_questions, new_no_questions], axis=0, ignore_index=True)
-    questions_df.to_csv("csv/merged_train_questions.csv")
+    questions_df.to_csv("csv/merged_train_questions_no_animals_and_fruits.csv")
 
 
 def aggregate_results_by_animal(result_df, animals_df):
@@ -688,7 +689,7 @@ def run_generate_questions():
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
              "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "old/food", "old/furniture",
              "old/musical_instruments", "old/vehicle"]
-    files = ['sanity']
+    # files = ['sanity']
     for file in files:
         questions = generate_questions_from_csv(csv_path=f"csv/{file}.csv")
         questions = pd.DataFrame.from_dict(questions)
@@ -697,7 +698,7 @@ def run_generate_questions():
 
 if __name__ == "__main__":
     # run_summarize_results()
-    run_generate_questions()
+    # run_generate_questions()
     # filter_questions()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
@@ -710,7 +711,9 @@ if __name__ == "__main__":
     #          "animals_dont_have_scales",
     #          "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
     #          "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]]
-    # merge_questions(["csv/val_questions.csv"], split=False, p=0.7, output_path="csv/val_questions.csv")
+    # files = [f"csv/old/{x}.csv" for x in
+    #          ["furniture", "musical_instruments", "vehicle"]]
+    merge_questions(["csv/val_no_animals_and_fruits_questions.csv"], split=False, p=0.7, output_path="csv/val_no_animals_and_fruits_questions.csv")
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
     # mask = tokenizer.mask_token()
     # sentence = f"A {mask} lives underwater."
