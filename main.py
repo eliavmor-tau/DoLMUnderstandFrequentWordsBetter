@@ -688,7 +688,7 @@ def run_generate_questions():
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
              "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "old/food", "old/furniture",
              "old/musical_instruments", "old/vehicle"]
-
+    files = ['sanity']
     for file in files:
         questions = generate_questions_from_csv(csv_path=f"csv/{file}.csv")
         questions = pd.DataFrame.from_dict(questions)

@@ -93,7 +93,7 @@ class WordNetObj:
         return hypernyms
 
     @staticmethod
-    def get_entity_hyponyms(entity):
+    def get_entity_hyponyms(entity, similarity_threshold=0.14):
         synset = wn.synsets(entity)
         hyponyms = set()
         hypo = lambda x: x.hyponyms()
@@ -104,18 +104,19 @@ class WordNetObj:
                 if s_name != entity:
                     print("sysnet name != entity", s_name, entity)
                 else:
-                    hyponyms = hyponyms.union({x.name().partition('.')[0] for x in s.closure(hypo)})
+                    hyponyms = hyponyms.union({x.name().partition('.')[0] for x in s.closure(hypo) if s.path_similarity(x, simulate_root=False) < similarity_threshold})
         return hyponyms
 
 
 if __name__ == "__main__":
     # synset_tree = SynsetTree("first")
     # print(synset_tree.to_json())
-    entity = "monkey"
-    hyponyms = WordNetObj.get_entity_hyponyms(entity)
+    entity = "building"
+    hyponyms = WordNetObj.get_entity_hyponyms(entity, similarity_threshold=0.4)
     hypernyms = WordNetObj.get_entity_hypernyms(entity)
     for x in sorted(hyponyms):
-        print(x)
+        if "-" not in x and "_" not in x:
+            print(x)
     print("*" * 100)
     for x in sorted(hypernyms):
         print(x)
