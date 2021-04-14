@@ -1,18 +1,1358 @@
 ,question,label
-0,Do all animals have wings?,No
-1,Do all animals have horns?,No
-2,Do all animals have fur?,No
-3,Do all animals have hair?,No
-4,Do all animals have scales?,No
-5,Do all animals have a beak?,No
-6,Do all animals have legs?,No
-7,Can all animals fly?,No
-8,Do humans have wings?,No
-9,Do humans have horns?,No
-10,Do humans have fur?,No
-11,Do humans have hair?,No
-12,Do humans have scales?,No
-13,Do humans have a beak?,No
-14,Do humans have legs?,No
-15,Can humans fly?,No
-,,
+0,does a house fly?,No
+1,can a house fly?,No
+2,a house flys.,No
+3,is a house capable of flying?,No
+4,a house is capable of flying.,No
+5,does a house live underwater?,No
+6,a house lives underwater.,No
+7,does a house live in the water?,No
+8,a house lives in the water.,No
+9,does a house have a beak?,No
+10,a house has a beak.,No
+11,does a house have feathers?,No
+12,a house has feathers.,No
+13,does a house have wings?,No
+14,a house has wings.,No
+15,does a house have a wing?,No
+16,a house has a wing.,No
+17,does a house have horns?,No
+18,a house has horns.,No
+19,does a house have hair?,No
+20,a house has hair.,No
+21,does a house have fur?,No
+22,a house has fur.,No
+23,does a home fly?,No
+24,can a home fly?,No
+25,a home flys.,No
+26,is a home capable of flying?,No
+27,a home is capable of flying.,No
+28,does a home live underwater?,No
+29,a home lives underwater.,No
+30,does a home live in the water?,No
+31,a home lives in the water.,No
+32,does a home have a beak?,No
+33,a home has a beak.,No
+34,does a home have feathers?,No
+35,a home has feathers.,No
+36,does a home have wings?,No
+37,a home has wings.,No
+38,does a home have a wing?,No
+39,a home has a wing.,No
+40,does a home have horns?,No
+41,a home has horns.,No
+42,does a home have hair?,No
+43,a home has hair.,No
+44,does a home have fur?,No
+45,a home has fur.,No
+46,does a wall fly?,No
+47,can a wall fly?,No
+48,a wall flys.,No
+49,is a wall capable of flying?,No
+50,a wall is capable of flying.,No
+51,does a wall live underwater?,No
+52,a wall lives underwater.,No
+53,does a wall live in the water?,No
+54,a wall lives in the water.,No
+55,does a wall have a beak?,No
+56,a wall has a beak.,No
+57,does a wall have feathers?,No
+58,a wall has feathers.,No
+59,does a wall have wings?,No
+60,a wall has wings.,No
+61,does a wall have a wing?,No
+62,a wall has a wing.,No
+63,does a wall have horns?,No
+64,a wall has horns.,No
+65,does a wall have hair?,No
+66,a wall has hair.,No
+67,does a wall have fur?,No
+68,a wall has fur.,No
+69,does a ground fly?,No
+70,can a ground fly?,No
+71,a ground flys.,No
+72,is a ground capable of flying?,No
+73,a ground is capable of flying.,No
+74,does a ground live underwater?,No
+75,a ground lives underwater.,No
+76,does a ground live in the water?,No
+77,a ground lives in the water.,No
+78,does a ground have a beak?,No
+79,a ground has a beak.,No
+80,does a ground have feathers?,No
+81,a ground has feathers.,No
+82,does a ground have wings?,No
+83,a ground has wings.,No
+84,does a ground have a wing?,No
+85,a ground has a wing.,No
+86,does a ground have horns?,No
+87,a ground has horns.,No
+88,does a ground have hair?,No
+89,a ground has hair.,No
+90,does a ground have fur?,No
+91,a ground has fur.,No
+92,does a toilet fly?,No
+93,can a toilet fly?,No
+94,a toilet flys.,No
+95,is a toilet capable of flying?,No
+96,a toilet is capable of flying.,No
+97,does a toilet live underwater?,No
+98,a toilet lives underwater.,No
+99,does a toilet live in the water?,No
+100,a toilet lives in the water.,No
+101,does a toilet have a beak?,No
+102,a toilet has a beak.,No
+103,does a toilet have feathers?,No
+104,a toilet has feathers.,No
+105,does a toilet have wings?,No
+106,a toilet has wings.,No
+107,does a toilet have a wing?,No
+108,a toilet has a wing.,No
+109,does a toilet have horns?,No
+110,a toilet has horns.,No
+111,does a toilet have hair?,No
+112,a toilet has hair.,No
+113,does a toilet have fur?,No
+114,a toilet has fur.,No
+115,does a car fly?,No
+116,can a car fly?,No
+117,a car flys.,No
+118,is a car capable of flying?,No
+119,a car is capable of flying.,No
+120,does a car live underwater?,No
+121,a car lives underwater.,No
+122,does a car live in the water?,No
+123,a car lives in the water.,No
+124,does a car have a beak?,No
+125,a car has a beak.,No
+126,does a car have feathers?,No
+127,a car has feathers.,No
+128,does a car have wings?,No
+129,a car has wings.,No
+130,does a car have a wing?,No
+131,a car has a wing.,No
+132,does a car have horns?,No
+133,a car has horns.,No
+134,does a car have hair?,No
+135,a car has hair.,No
+136,does a car have fur?,No
+137,a car has fur.,No
+138,does a bus fly?,No
+139,can a bus fly?,No
+140,a bus flys.,No
+141,is a bus capable of flying?,No
+142,a bus is capable of flying.,No
+143,does a bus live underwater?,No
+144,a bus lives underwater.,No
+145,does a bus live in the water?,No
+146,a bus lives in the water.,No
+147,does a bus have a beak?,No
+148,a bus has a beak.,No
+149,does a bus have feathers?,No
+150,a bus has feathers.,No
+151,does a bus have wings?,No
+152,a bus has wings.,No
+153,does a bus have a wing?,No
+154,a bus has a wing.,No
+155,does a bus have horns?,No
+156,a bus has horns.,No
+157,does a bus have hair?,No
+158,a bus has hair.,No
+159,does a bus have fur?,No
+160,a bus has fur.,No
+161,does a truck fly?,No
+162,can a truck fly?,No
+163,a truck flys.,No
+164,is a truck capable of flying?,No
+165,a truck is capable of flying.,No
+166,does a truck live underwater?,No
+167,a truck lives underwater.,No
+168,does a truck live in the water?,No
+169,a truck lives in the water.,No
+170,does a truck have a beak?,No
+171,a truck has a beak.,No
+172,does a truck have feathers?,No
+173,a truck has feathers.,No
+174,does a truck have wings?,No
+175,a truck has wings.,No
+176,does a truck have a wing?,No
+177,a truck has a wing.,No
+178,does a truck have horns?,No
+179,a truck has horns.,No
+180,does a truck have hair?,No
+181,a truck has hair.,No
+182,does a truck have fur?,No
+183,a truck has fur.,No
+184,does a bike fly?,No
+185,can a bike fly?,No
+186,a bike flys.,No
+187,is a bike capable of flying?,No
+188,a bike is capable of flying.,No
+189,does a bike live underwater?,No
+190,a bike lives underwater.,No
+191,does a bike live in the water?,No
+192,a bike lives in the water.,No
+193,does a bike have a beak?,No
+194,a bike has a beak.,No
+195,does a bike have feathers?,No
+196,a bike has feathers.,No
+197,does a bike have wings?,No
+198,a bike has wings.,No
+199,does a bike have a wing?,No
+200,a bike has a wing.,No
+201,does a bike have horns?,No
+202,a bike has horns.,No
+203,does a bike have hair?,No
+204,a bike has hair.,No
+205,does a bike have fur?,No
+206,a bike has fur.,No
+207,does a lamp fly?,No
+208,can a lamp fly?,No
+209,a lamp flys.,No
+210,is a lamp capable of flying?,No
+211,a lamp is capable of flying.,No
+212,does a lamp live underwater?,No
+213,a lamp lives underwater.,No
+214,does a lamp live in the water?,No
+215,a lamp lives in the water.,No
+216,does a lamp have a beak?,No
+217,a lamp has a beak.,No
+218,does a lamp have feathers?,No
+219,a lamp has feathers.,No
+220,does a lamp have wings?,No
+221,a lamp has wings.,No
+222,does a lamp have a wing?,No
+223,a lamp has a wing.,No
+224,does a lamp have horns?,No
+225,a lamp has horns.,No
+226,does a lamp have hair?,No
+227,a lamp has hair.,No
+228,does a lamp have fur?,No
+229,a lamp has fur.,No
+230,does a shirt fly?,No
+231,can a shirt fly?,No
+232,a shirt flys.,No
+233,is a shirt capable of flying?,No
+234,a shirt is capable of flying.,No
+235,does a shirt live underwater?,No
+236,a shirt lives underwater.,No
+237,does a shirt live in the water?,No
+238,a shirt lives in the water.,No
+239,does a shirt have a beak?,No
+240,a shirt has a beak.,No
+241,does a shirt have feathers?,No
+242,a shirt has feathers.,No
+243,does a shirt have wings?,No
+244,a shirt has wings.,No
+245,does a shirt have a wing?,No
+246,a shirt has a wing.,No
+247,does a shirt have horns?,No
+248,a shirt has horns.,No
+249,does a shirt have hair?,No
+250,a shirt has hair.,No
+251,does a shirt have fur?,No
+252,a shirt has fur.,No
+253,does a pants fly?,No
+254,can a pants fly?,No
+255,a pants flys.,No
+256,is a pants capable of flying?,No
+257,a pants is capable of flying.,No
+258,does a pants live underwater?,No
+259,a pants lives underwater.,No
+260,does a pants live in the water?,No
+261,a pants lives in the water.,No
+262,does a pants have a beak?,No
+263,a pants has a beak.,No
+264,does a pants have feathers?,No
+265,a pants has feathers.,No
+266,does a pants have wings?,No
+267,a pants has wings.,No
+268,does a pants have a wing?,No
+269,a pants has a wing.,No
+270,does a pants have horns?,No
+271,a pants has horns.,No
+272,does a pants have hair?,No
+273,a pants has hair.,No
+274,does a pants have fur?,No
+275,a pants has fur.,No
+276,does a table fly?,No
+277,can a table fly?,No
+278,a table flys.,No
+279,is a table capable of flying?,No
+280,a table is capable of flying.,No
+281,does a table live underwater?,No
+282,a table lives underwater.,No
+283,does a table live in the water?,No
+284,a table lives in the water.,No
+285,does a table have a beak?,No
+286,a table has a beak.,No
+287,does a table have feathers?,No
+288,a table has feathers.,No
+289,does a table have wings?,No
+290,a table has wings.,No
+291,does a table have a wing?,No
+292,a table has a wing.,No
+293,does a table have horns?,No
+294,a table has horns.,No
+295,does a table have hair?,No
+296,a table has hair.,No
+297,does a table have fur?,No
+298,a table has fur.,No
+299,does a television fly?,No
+300,can a television fly?,No
+301,a television flys.,No
+302,is a television capable of flying?,No
+303,a television is capable of flying.,No
+304,does a television live underwater?,No
+305,a television lives underwater.,No
+306,does a television live in the water?,No
+307,a television lives in the water.,No
+308,does a television have a beak?,No
+309,a television has a beak.,No
+310,does a television have feathers?,No
+311,a television has feathers.,No
+312,does a television have wings?,No
+313,a television has wings.,No
+314,does a television have a wing?,No
+315,a television has a wing.,No
+316,does a television have horns?,No
+317,a television has horns.,No
+318,does a television have hair?,No
+319,a television has hair.,No
+320,does a television have fur?,No
+321,a television has fur.,No
+322,does a plant fly?,No
+323,can a plant fly?,No
+324,a plant flys.,No
+325,is a plant capable of flying?,No
+326,a plant is capable of flying.,No
+327,does a plant live underwater?,No
+328,a plant lives underwater.,No
+329,does a plant live in the water?,No
+330,a plant lives in the water.,No
+331,does a plant have a beak?,No
+332,a plant has a beak.,No
+333,does a plant have feathers?,No
+334,a plant has feathers.,No
+335,does a plant have wings?,No
+336,a plant has wings.,No
+337,does a plant have a wing?,No
+338,a plant has a wing.,No
+339,does a plant have horns?,No
+340,a plant has horns.,No
+341,does a plant have hair?,No
+342,a plant has hair.,No
+343,does a plant have fur?,No
+344,a plant has fur.,No
+345,does a tree fly?,No
+346,can a tree fly?,No
+347,a tree flys.,No
+348,is a tree capable of flying?,No
+349,a tree is capable of flying.,No
+350,does a tree live underwater?,No
+351,a tree lives underwater.,No
+352,does a tree live in the water?,No
+353,a tree lives in the water.,No
+354,does a tree have a beak?,No
+355,a tree has a beak.,No
+356,does a tree have feathers?,No
+357,a tree has feathers.,No
+358,does a tree have wings?,No
+359,a tree has wings.,No
+360,does a tree have a wing?,No
+361,a tree has a wing.,No
+362,does a tree have horns?,No
+363,a tree has horns.,No
+364,does a tree have hair?,No
+365,a tree has hair.,No
+366,does a tree have fur?,No
+367,a tree has fur.,No
+368,does a flower fly?,No
+369,can a flower fly?,No
+370,a flower flys.,No
+371,is a flower capable of flying?,No
+372,a flower is capable of flying.,No
+373,does a flower live underwater?,No
+374,a flower lives underwater.,No
+375,does a flower live in the water?,No
+376,a flower lives in the water.,No
+377,does a flower have a beak?,No
+378,a flower has a beak.,No
+379,does a flower have feathers?,No
+380,a flower has feathers.,No
+381,does a flower have wings?,No
+382,a flower has wings.,No
+383,does a flower have a wing?,No
+384,a flower has a wing.,No
+385,does a flower have horns?,No
+386,a flower has horns.,No
+387,does a flower have hair?,No
+388,a flower has hair.,No
+389,does a flower have fur?,No
+390,a flower has fur.,No
+391,does a spoon fly?,No
+392,can a spoon fly?,No
+393,a spoon flys.,No
+394,is a spoon capable of flying?,No
+395,a spoon is capable of flying.,No
+396,does a spoon live underwater?,No
+397,a spoon lives underwater.,No
+398,does a spoon live in the water?,No
+399,a spoon lives in the water.,No
+400,does a spoon have a beak?,No
+401,a spoon has a beak.,No
+402,does a spoon have feathers?,No
+403,a spoon has feathers.,No
+404,does a spoon have wings?,No
+405,a spoon has wings.,No
+406,does a spoon have a wing?,No
+407,a spoon has a wing.,No
+408,does a spoon have horns?,No
+409,a spoon has horns.,No
+410,does a spoon have hair?,No
+411,a spoon has hair.,No
+412,does a spoon have fur?,No
+413,a spoon has fur.,No
+414,does a plate fly?,No
+415,can a plate fly?,No
+416,a plate flys.,No
+417,is a plate capable of flying?,No
+418,a plate is capable of flying.,No
+419,does a plate live underwater?,No
+420,a plate lives underwater.,No
+421,does a plate live in the water?,No
+422,a plate lives in the water.,No
+423,does a plate have a beak?,No
+424,a plate has a beak.,No
+425,does a plate have feathers?,No
+426,a plate has feathers.,No
+427,does a plate have wings?,No
+428,a plate has wings.,No
+429,does a plate have a wing?,No
+430,a plate has a wing.,No
+431,does a plate have horns?,No
+432,a plate has horns.,No
+433,does a plate have hair?,No
+434,a plate has hair.,No
+435,does a plate have fur?,No
+436,a plate has fur.,No
+437,does a skateboard fly?,No
+438,can a skateboard fly?,No
+439,a skateboard flys.,No
+440,is a skateboard capable of flying?,No
+441,a skateboard is capable of flying.,No
+442,does a skateboard live underwater?,No
+443,a skateboard lives underwater.,No
+444,does a skateboard live in the water?,No
+445,a skateboard lives in the water.,No
+446,does a skateboard have a beak?,No
+447,a skateboard has a beak.,No
+448,does a skateboard have feathers?,No
+449,a skateboard has feathers.,No
+450,does a skateboard have wings?,No
+451,a skateboard has wings.,No
+452,does a skateboard have a wing?,No
+453,a skateboard has a wing.,No
+454,does a skateboard have horns?,No
+455,a skateboard has horns.,No
+456,does a skateboard have hair?,No
+457,a skateboard has hair.,No
+458,does a skateboard have fur?,No
+459,a skateboard has fur.,No
+460,does a surfboard fly?,No
+461,can a surfboard fly?,No
+462,a surfboard flys.,No
+463,is a surfboard capable of flying?,No
+464,a surfboard is capable of flying.,No
+465,does a surfboard live underwater?,No
+466,a surfboard lives underwater.,No
+467,does a surfboard live in the water?,No
+468,a surfboard lives in the water.,No
+469,does a surfboard have a beak?,No
+470,a surfboard has a beak.,No
+471,does a surfboard have feathers?,No
+472,a surfboard has feathers.,No
+473,does a surfboard have wings?,No
+474,a surfboard has wings.,No
+475,does a surfboard have a wing?,No
+476,a surfboard has a wing.,No
+477,does a surfboard have horns?,No
+478,a surfboard has horns.,No
+479,does a surfboard have hair?,No
+480,a surfboard has hair.,No
+481,does a surfboard have fur?,No
+482,a surfboard has fur.,No
+483,does a screen fly?,No
+484,can a screen fly?,No
+485,a screen flys.,No
+486,is a screen capable of flying?,No
+487,a screen is capable of flying.,No
+488,does a screen live underwater?,No
+489,a screen lives underwater.,No
+490,does a screen live in the water?,No
+491,a screen lives in the water.,No
+492,does a screen have a beak?,No
+493,a screen has a beak.,No
+494,does a screen have feathers?,No
+495,a screen has feathers.,No
+496,does a screen have wings?,No
+497,a screen has wings.,No
+498,does a screen have a wing?,No
+499,a screen has a wing.,No
+500,does a screen have horns?,No
+501,a screen has horns.,No
+502,does a screen have hair?,No
+503,a screen has hair.,No
+504,does a screen have fur?,No
+505,a screen has fur.,No
+506,does a phone fly?,No
+507,can a phone fly?,No
+508,a phone flys.,No
+509,is a phone capable of flying?,No
+510,a phone is capable of flying.,No
+511,does a phone live underwater?,No
+512,a phone lives underwater.,No
+513,does a phone live in the water?,No
+514,a phone lives in the water.,No
+515,does a phone have a beak?,No
+516,a phone has a beak.,No
+517,does a phone have feathers?,No
+518,a phone has feathers.,No
+519,does a phone have wings?,No
+520,a phone has wings.,No
+521,does a phone have a wing?,No
+522,a phone has a wing.,No
+523,does a phone have horns?,No
+524,a phone has horns.,No
+525,does a phone have hair?,No
+526,a phone has hair.,No
+527,does a phone have fur?,No
+528,a phone has fur.,No
+529,does a headpone fly?,No
+530,can a headpone fly?,No
+531,a headpone flys.,No
+532,is a headpone capable of flying?,No
+533,a headpone is capable of flying.,No
+534,does a headpone live underwater?,No
+535,a headpone lives underwater.,No
+536,does a headpone live in the water?,No
+537,a headpone lives in the water.,No
+538,does a headpone have a beak?,No
+539,a headpone has a beak.,No
+540,does a headpone have feathers?,No
+541,a headpone has feathers.,No
+542,does a headpone have wings?,No
+543,a headpone has wings.,No
+544,does a headpone have a wing?,No
+545,a headpone has a wing.,No
+546,does a headpone have horns?,No
+547,a headpone has horns.,No
+548,does a headpone have hair?,No
+549,a headpone has hair.,No
+550,does a headpone have fur?,No
+551,a headpone has fur.,No
+552,does a microphone fly?,No
+553,can a microphone fly?,No
+554,a microphone flys.,No
+555,is a microphone capable of flying?,No
+556,a microphone is capable of flying.,No
+557,does a microphone live underwater?,No
+558,a microphone lives underwater.,No
+559,does a microphone live in the water?,No
+560,a microphone lives in the water.,No
+561,does a microphone have a beak?,No
+562,a microphone has a beak.,No
+563,does a microphone have feathers?,No
+564,a microphone has feathers.,No
+565,does a microphone have wings?,No
+566,a microphone has wings.,No
+567,does a microphone have a wing?,No
+568,a microphone has a wing.,No
+569,does a microphone have horns?,No
+570,a microphone has horns.,No
+571,does a microphone have hair?,No
+572,a microphone has hair.,No
+573,does a microphone have fur?,No
+574,a microphone has fur.,No
+575,does a pan fly?,No
+576,can a pan fly?,No
+577,a pan flys.,No
+578,is a pan capable of flying?,No
+579,a pan is capable of flying.,No
+580,does a pan live underwater?,No
+581,a pan lives underwater.,No
+582,does a pan live in the water?,No
+583,a pan lives in the water.,No
+584,does a pan have a beak?,No
+585,a pan has a beak.,No
+586,does a pan have feathers?,No
+587,a pan has feathers.,No
+588,does a pan have wings?,No
+589,a pan has wings.,No
+590,does a pan have a wing?,No
+591,a pan has a wing.,No
+592,does a pan have horns?,No
+593,a pan has horns.,No
+594,does a pan have hair?,No
+595,a pan has hair.,No
+596,does a pan have fur?,No
+597,a pan has fur.,No
+598,does a pencil fly?,No
+599,can a pencil fly?,No
+600,a pencil flys.,No
+601,is a pencil capable of flying?,No
+602,a pencil is capable of flying.,No
+603,does a pencil live underwater?,No
+604,a pencil lives underwater.,No
+605,does a pencil live in the water?,No
+606,a pencil lives in the water.,No
+607,does a pencil have a beak?,No
+608,a pencil has a beak.,No
+609,does a pencil have feathers?,No
+610,a pencil has feathers.,No
+611,does a pencil have wings?,No
+612,a pencil has wings.,No
+613,does a pencil have a wing?,No
+614,a pencil has a wing.,No
+615,does a pencil have horns?,No
+616,a pencil has horns.,No
+617,does a pencil have hair?,No
+618,a pencil has hair.,No
+619,does a pencil have fur?,No
+620,a pencil has fur.,No
+621,does a charger fly?,No
+622,can a charger fly?,No
+623,a charger flys.,No
+624,is a charger capable of flying?,No
+625,a charger is capable of flying.,No
+626,does a charger live underwater?,No
+627,a charger lives underwater.,No
+628,does a charger live in the water?,No
+629,a charger lives in the water.,No
+630,does a charger have a beak?,No
+631,a charger has a beak.,No
+632,does a charger have feathers?,No
+633,a charger has feathers.,No
+634,does a charger have wings?,No
+635,a charger has wings.,No
+636,does a charger have a wing?,No
+637,a charger has a wing.,No
+638,does a charger have horns?,No
+639,a charger has horns.,No
+640,does a charger have hair?,No
+641,a charger has hair.,No
+642,does a charger have fur?,No
+643,a charger has fur.,No
+644,does a key fly?,No
+645,can a key fly?,No
+646,a key flys.,No
+647,is a key capable of flying?,No
+648,a key is capable of flying.,No
+649,does a key live underwater?,No
+650,a key lives underwater.,No
+651,does a key live in the water?,No
+652,a key lives in the water.,No
+653,does a key have a beak?,No
+654,a key has a beak.,No
+655,does a key have feathers?,No
+656,a key has feathers.,No
+657,does a key have wings?,No
+658,a key has wings.,No
+659,does a key have a wing?,No
+660,a key has a wing.,No
+661,does a key have horns?,No
+662,a key has horns.,No
+663,does a key have hair?,No
+664,a key has hair.,No
+665,does a key have fur?,No
+666,a key has fur.,No
+667,does a door fly?,No
+668,can a door fly?,No
+669,a door flys.,No
+670,is a door capable of flying?,No
+671,a door is capable of flying.,No
+672,does a door live underwater?,No
+673,a door lives underwater.,No
+674,does a door live in the water?,No
+675,a door lives in the water.,No
+676,does a door have a beak?,No
+677,a door has a beak.,No
+678,does a door have feathers?,No
+679,a door has feathers.,No
+680,does a door have wings?,No
+681,a door has wings.,No
+682,does a door have a wing?,No
+683,a door has a wing.,No
+684,does a door have horns?,No
+685,a door has horns.,No
+686,does a door have hair?,No
+687,a door has hair.,No
+688,does a door have fur?,No
+689,a door has fur.,No
+690,does a wine fly?,No
+691,can a wine fly?,No
+692,a wine flys.,No
+693,is a wine capable of flying?,No
+694,a wine is capable of flying.,No
+695,does a wine live underwater?,No
+696,a wine lives underwater.,No
+697,does a wine live in the water?,No
+698,a wine lives in the water.,No
+699,does a wine have a beak?,No
+700,a wine has a beak.,No
+701,does a wine have feathers?,No
+702,a wine has feathers.,No
+703,does a wine have wings?,No
+704,a wine has wings.,No
+705,does a wine have a wing?,No
+706,a wine has a wing.,No
+707,does a wine have horns?,No
+708,a wine has horns.,No
+709,does a wine have hair?,No
+710,a wine has hair.,No
+711,does a wine have fur?,No
+712,a wine has fur.,No
+713,does a cheese fly?,No
+714,can a cheese fly?,No
+715,a cheese flys.,No
+716,is a cheese capable of flying?,No
+717,a cheese is capable of flying.,No
+718,does a cheese live underwater?,No
+719,a cheese lives underwater.,No
+720,does a cheese live in the water?,No
+721,a cheese lives in the water.,No
+722,does a cheese have a beak?,No
+723,a cheese has a beak.,No
+724,does a cheese have feathers?,No
+725,a cheese has feathers.,No
+726,does a cheese have wings?,No
+727,a cheese has wings.,No
+728,does a cheese have a wing?,No
+729,a cheese has a wing.,No
+730,does a cheese have horns?,No
+731,a cheese has horns.,No
+732,does a cheese have hair?,No
+733,a cheese has hair.,No
+734,does a cheese have fur?,No
+735,a cheese has fur.,No
+736,does a meat fly?,No
+737,can a meat fly?,No
+738,a meat flys.,No
+739,is a meat capable of flying?,No
+740,a meat is capable of flying.,No
+741,does a meat live underwater?,No
+742,a meat lives underwater.,No
+743,does a meat live in the water?,No
+744,a meat lives in the water.,No
+745,does a meat have a beak?,No
+746,a meat has a beak.,No
+747,does a meat have feathers?,No
+748,a meat has feathers.,No
+749,does a meat have wings?,No
+750,a meat has wings.,No
+751,does a meat have a wing?,No
+752,a meat has a wing.,No
+753,does a meat have horns?,No
+754,a meat has horns.,No
+755,does a meat have hair?,No
+756,a meat has hair.,No
+757,does a meat have fur?,No
+758,a meat has fur.,No
+759,does a milk fly?,No
+760,can a milk fly?,No
+761,a milk flys.,No
+762,is a milk capable of flying?,No
+763,a milk is capable of flying.,No
+764,does a milk live underwater?,No
+765,a milk lives underwater.,No
+766,does a milk live in the water?,No
+767,a milk lives in the water.,No
+768,does a milk have a beak?,No
+769,a milk has a beak.,No
+770,does a milk have feathers?,No
+771,a milk has feathers.,No
+772,does a milk have wings?,No
+773,a milk has wings.,No
+774,does a milk have a wing?,No
+775,a milk has a wing.,No
+776,does a milk have horns?,No
+777,a milk has horns.,No
+778,does a milk have hair?,No
+779,a milk has hair.,No
+780,does a milk have fur?,No
+781,a milk has fur.,No
+782,does a water fly?,No
+783,can a water fly?,No
+784,a water flys.,No
+785,is a water capable of flying?,No
+786,a water is capable of flying.,No
+787,does a water live underwater?,No
+788,a water lives underwater.,No
+789,does a water live in the water?,No
+790,a water lives in the water.,No
+791,does a water have a beak?,No
+792,a water has a beak.,No
+793,does a water have feathers?,No
+794,a water has feathers.,No
+795,does a water have wings?,No
+796,a water has wings.,No
+797,does a water have a wing?,No
+798,a water has a wing.,No
+799,does a water have horns?,No
+800,a water has horns.,No
+801,does a water have hair?,No
+802,a water has hair.,No
+803,does a water have fur?,No
+804,a water has fur.,No
+805,does a beer fly?,No
+806,can a beer fly?,No
+807,a beer flys.,No
+808,is a beer capable of flying?,No
+809,a beer is capable of flying.,No
+810,does a beer live underwater?,No
+811,a beer lives underwater.,No
+812,does a beer live in the water?,No
+813,a beer lives in the water.,No
+814,does a beer have a beak?,No
+815,a beer has a beak.,No
+816,does a beer have feathers?,No
+817,a beer has feathers.,No
+818,does a beer have wings?,No
+819,a beer has wings.,No
+820,does a beer have a wing?,No
+821,a beer has a wing.,No
+822,does a beer have horns?,No
+823,a beer has horns.,No
+824,does a beer have hair?,No
+825,a beer has hair.,No
+826,does a beer have fur?,No
+827,a beer has fur.,No
+828,does a sock fly?,No
+829,can a sock fly?,No
+830,a sock flys.,No
+831,is a sock capable of flying?,No
+832,a sock is capable of flying.,No
+833,does a sock live underwater?,No
+834,a sock lives underwater.,No
+835,does a sock live in the water?,No
+836,a sock lives in the water.,No
+837,does a sock have a beak?,No
+838,a sock has a beak.,No
+839,does a sock have feathers?,No
+840,a sock has feathers.,No
+841,does a sock have wings?,No
+842,a sock has wings.,No
+843,does a sock have a wing?,No
+844,a sock has a wing.,No
+845,does a sock have horns?,No
+846,a sock has horns.,No
+847,does a sock have hair?,No
+848,a sock has hair.,No
+849,does a sock have fur?,No
+850,a sock has fur.,No
+851,does a bed fly?,No
+852,can a bed fly?,No
+853,a bed flys.,No
+854,is a bed capable of flying?,No
+855,a bed is capable of flying.,No
+856,does a bed live underwater?,No
+857,a bed lives underwater.,No
+858,does a bed live in the water?,No
+859,a bed lives in the water.,No
+860,does a bed have a beak?,No
+861,a bed has a beak.,No
+862,does a bed have feathers?,No
+863,a bed has feathers.,No
+864,does a bed have wings?,No
+865,a bed has wings.,No
+866,does a bed have a wing?,No
+867,a bed has a wing.,No
+868,does a bed have horns?,No
+869,a bed has horns.,No
+870,does a bed have hair?,No
+871,a bed has hair.,No
+872,does a bed have fur?,No
+873,a bed has fur.,No
+874,does a couch fly?,No
+875,can a couch fly?,No
+876,a couch flys.,No
+877,is a couch capable of flying?,No
+878,a couch is capable of flying.,No
+879,does a couch live underwater?,No
+880,a couch lives underwater.,No
+881,does a couch live in the water?,No
+882,a couch lives in the water.,No
+883,does a couch have a beak?,No
+884,a couch has a beak.,No
+885,does a couch have feathers?,No
+886,a couch has feathers.,No
+887,does a couch have wings?,No
+888,a couch has wings.,No
+889,does a couch have a wing?,No
+890,a couch has a wing.,No
+891,does a couch have horns?,No
+892,a couch has horns.,No
+893,does a couch have hair?,No
+894,a couch has hair.,No
+895,does a couch have fur?,No
+896,a couch has fur.,No
+897,does a iphone fly?,No
+898,can a iphone fly?,No
+899,a iphone flys.,No
+900,is a iphone capable of flying?,No
+901,a iphone is capable of flying.,No
+902,does a iphone live underwater?,No
+903,a iphone lives underwater.,No
+904,does a iphone live in the water?,No
+905,a iphone lives in the water.,No
+906,does a iphone have a beak?,No
+907,a iphone has a beak.,No
+908,does a iphone have feathers?,No
+909,a iphone has feathers.,No
+910,does a iphone have wings?,No
+911,a iphone has wings.,No
+912,does a iphone have a wing?,No
+913,a iphone has a wing.,No
+914,does a iphone have horns?,No
+915,a iphone has horns.,No
+916,does a iphone have hair?,No
+917,a iphone has hair.,No
+918,does a iphone have fur?,No
+919,a iphone has fur.,No
+920,does a chair fly?,No
+921,can a chair fly?,No
+922,a chair flys.,No
+923,is a chair capable of flying?,No
+924,a chair is capable of flying.,No
+925,does a chair live underwater?,No
+926,a chair lives underwater.,No
+927,does a chair live in the water?,No
+928,a chair lives in the water.,No
+929,does a chair have a beak?,No
+930,a chair has a beak.,No
+931,does a chair have feathers?,No
+932,a chair has feathers.,No
+933,does a chair have wings?,No
+934,a chair has wings.,No
+935,does a chair have a wing?,No
+936,a chair has a wing.,No
+937,does a chair have horns?,No
+938,a chair has horns.,No
+939,does a chair have hair?,No
+940,a chair has hair.,No
+941,does a chair have fur?,No
+942,a chair has fur.,No
+943,does a calculator fly?,No
+944,can a calculator fly?,No
+945,a calculator flys.,No
+946,is a calculator capable of flying?,No
+947,a calculator is capable of flying.,No
+948,does a calculator live underwater?,No
+949,a calculator lives underwater.,No
+950,does a calculator live in the water?,No
+951,a calculator lives in the water.,No
+952,does a calculator have a beak?,No
+953,a calculator has a beak.,No
+954,does a calculator have feathers?,No
+955,a calculator has feathers.,No
+956,does a calculator have wings?,No
+957,a calculator has wings.,No
+958,does a calculator have a wing?,No
+959,a calculator has a wing.,No
+960,does a calculator have horns?,No
+961,a calculator has horns.,No
+962,does a calculator have hair?,No
+963,a calculator has hair.,No
+964,does a calculator have fur?,No
+965,a calculator has fur.,No
+966,does a sunglasses fly?,No
+967,can a sunglasses fly?,No
+968,a sunglasses flys.,No
+969,is a sunglasses capable of flying?,No
+970,a sunglasses is capable of flying.,No
+971,does a sunglasses live underwater?,No
+972,a sunglasses lives underwater.,No
+973,does a sunglasses live in the water?,No
+974,a sunglasses lives in the water.,No
+975,does a sunglasses have a beak?,No
+976,a sunglasses has a beak.,No
+977,does a sunglasses have feathers?,No
+978,a sunglasses has feathers.,No
+979,does a sunglasses have wings?,No
+980,a sunglasses has wings.,No
+981,does a sunglasses have a wing?,No
+982,a sunglasses has a wing.,No
+983,does a sunglasses have horns?,No
+984,a sunglasses has horns.,No
+985,does a sunglasses have hair?,No
+986,a sunglasses has hair.,No
+987,does a sunglasses have fur?,No
+988,a sunglasses has fur.,No
+989,does a glasses fly?,No
+990,can a glasses fly?,No
+991,a glasses flys.,No
+992,is a glasses capable of flying?,No
+993,a glasses is capable of flying.,No
+994,does a glasses live underwater?,No
+995,a glasses lives underwater.,No
+996,does a glasses live in the water?,No
+997,a glasses lives in the water.,No
+998,does a glasses have a beak?,No
+999,a glasses has a beak.,No
+1000,does a glasses have feathers?,No
+1001,a glasses has feathers.,No
+1002,does a glasses have wings?,No
+1003,a glasses has wings.,No
+1004,does a glasses have a wing?,No
+1005,a glasses has a wing.,No
+1006,does a glasses have horns?,No
+1007,a glasses has horns.,No
+1008,does a glasses have hair?,No
+1009,a glasses has hair.,No
+1010,does a glasses have fur?,No
+1011,a glasses has fur.,No
+1012,does a coffee fly?,No
+1013,can a coffee fly?,No
+1014,a coffee flys.,No
+1015,is a coffee capable of flying?,No
+1016,a coffee is capable of flying.,No
+1017,does a coffee live underwater?,No
+1018,a coffee lives underwater.,No
+1019,does a coffee live in the water?,No
+1020,a coffee lives in the water.,No
+1021,does a coffee have a beak?,No
+1022,a coffee has a beak.,No
+1023,does a coffee have feathers?,No
+1024,a coffee has feathers.,No
+1025,does a coffee have wings?,No
+1026,a coffee has wings.,No
+1027,does a coffee have a wing?,No
+1028,a coffee has a wing.,No
+1029,does a coffee have horns?,No
+1030,a coffee has horns.,No
+1031,does a coffee have hair?,No
+1032,a coffee has hair.,No
+1033,does a coffee have fur?,No
+1034,a coffee has fur.,No
+1035,does a mug fly?,No
+1036,can a mug fly?,No
+1037,a mug flys.,No
+1038,is a mug capable of flying?,No
+1039,a mug is capable of flying.,No
+1040,does a mug live underwater?,No
+1041,a mug lives underwater.,No
+1042,does a mug live in the water?,No
+1043,a mug lives in the water.,No
+1044,does a mug have a beak?,No
+1045,a mug has a beak.,No
+1046,does a mug have feathers?,No
+1047,a mug has feathers.,No
+1048,does a mug have wings?,No
+1049,a mug has wings.,No
+1050,does a mug have a wing?,No
+1051,a mug has a wing.,No
+1052,does a mug have horns?,No
+1053,a mug has horns.,No
+1054,does a mug have hair?,No
+1055,a mug has hair.,No
+1056,does a mug have fur?,No
+1057,a mug has fur.,No
+1058,does a computer fly?,No
+1059,can a computer fly?,No
+1060,a computer flys.,No
+1061,is a computer capable of flying?,No
+1062,a computer is capable of flying.,No
+1063,does a computer live underwater?,No
+1064,a computer lives underwater.,No
+1065,does a computer live in the water?,No
+1066,a computer lives in the water.,No
+1067,does a computer have a beak?,No
+1068,a computer has a beak.,No
+1069,does a computer have feathers?,No
+1070,a computer has feathers.,No
+1071,does a computer have wings?,No
+1072,a computer has wings.,No
+1073,does a computer have a wing?,No
+1074,a computer has a wing.,No
+1075,does a computer have horns?,No
+1076,a computer has horns.,No
+1077,does a computer have hair?,No
+1078,a computer has hair.,No
+1079,does a computer have fur?,No
+1080,a computer has fur.,No
+1081,does a laptop fly?,No
+1082,can a laptop fly?,No
+1083,a laptop flys.,No
+1084,is a laptop capable of flying?,No
+1085,a laptop is capable of flying.,No
+1086,does a laptop live underwater?,No
+1087,a laptop lives underwater.,No
+1088,does a laptop live in the water?,No
+1089,a laptop lives in the water.,No
+1090,does a laptop have a beak?,No
+1091,a laptop has a beak.,No
+1092,does a laptop have feathers?,No
+1093,a laptop has feathers.,No
+1094,does a laptop have wings?,No
+1095,a laptop has wings.,No
+1096,does a laptop have a wing?,No
+1097,a laptop has a wing.,No
+1098,does a laptop have horns?,No
+1099,a laptop has horns.,No
+1100,does a laptop have hair?,No
+1101,a laptop has hair.,No
+1102,does a laptop have fur?,No
+1103,a laptop has fur.,No
+1104,does a grill fly?,No
+1105,can a grill fly?,No
+1106,a grill flys.,No
+1107,is a grill capable of flying?,No
+1108,a grill is capable of flying.,No
+1109,does a grill live underwater?,No
+1110,a grill lives underwater.,No
+1111,does a grill live in the water?,No
+1112,a grill lives in the water.,No
+1113,does a grill have a beak?,No
+1114,a grill has a beak.,No
+1115,does a grill have feathers?,No
+1116,a grill has feathers.,No
+1117,does a grill have wings?,No
+1118,a grill has wings.,No
+1119,does a grill have a wing?,No
+1120,a grill has a wing.,No
+1121,does a grill have horns?,No
+1122,a grill has horns.,No
+1123,does a grill have hair?,No
+1124,a grill has hair.,No
+1125,does a grill have fur?,No
+1126,a grill has fur.,No
+1127,does a stone fly?,No
+1128,can a stone fly?,No
+1129,a stone flys.,No
+1130,is a stone capable of flying?,No
+1131,a stone is capable of flying.,No
+1132,does a stone live underwater?,No
+1133,a stone lives underwater.,No
+1134,does a stone live in the water?,No
+1135,a stone lives in the water.,No
+1136,does a stone have a beak?,No
+1137,a stone has a beak.,No
+1138,does a stone have feathers?,No
+1139,a stone has feathers.,No
+1140,does a stone have wings?,No
+1141,a stone has wings.,No
+1142,does a stone have a wing?,No
+1143,a stone has a wing.,No
+1144,does a stone have horns?,No
+1145,a stone has horns.,No
+1146,does a stone have hair?,No
+1147,a stone has hair.,No
+1148,does a stone have fur?,No
+1149,a stone has fur.,No
+1150,does a heart fly?,No
+1151,can a heart fly?,No
+1152,a heart flys.,No
+1153,is a heart capable of flying?,No
+1154,a heart is capable of flying.,No
+1155,does a heart live underwater?,No
+1156,a heart lives underwater.,No
+1157,does a heart live in the water?,No
+1158,a heart lives in the water.,No
+1159,does a heart have a beak?,No
+1160,a heart has a beak.,No
+1161,does a heart have feathers?,No
+1162,a heart has feathers.,No
+1163,does a heart have wings?,No
+1164,a heart has wings.,No
+1165,does a heart have a wing?,No
+1166,a heart has a wing.,No
+1167,does a heart have horns?,No
+1168,a heart has horns.,No
+1169,does a heart have hair?,No
+1170,a heart has hair.,No
+1171,does a heart have fur?,No
+1172,a heart has fur.,No
+1173,does a eair fly?,No
+1174,can a eair fly?,No
+1175,a eair flys.,No
+1176,is a eair capable of flying?,No
+1177,a eair is capable of flying.,No
+1178,does a eair live underwater?,No
+1179,a eair lives underwater.,No
+1180,does a eair live in the water?,No
+1181,a eair lives in the water.,No
+1182,does a eair have a beak?,No
+1183,a eair has a beak.,No
+1184,does a eair have feathers?,No
+1185,a eair has feathers.,No
+1186,does a eair have wings?,No
+1187,a eair has wings.,No
+1188,does a eair have a wing?,No
+1189,a eair has a wing.,No
+1190,does a eair have horns?,No
+1191,a eair has horns.,No
+1192,does a eair have hair?,No
+1193,a eair has hair.,No
+1194,does a eair have fur?,No
+1195,a eair has fur.,No
+1196,does a eye fly?,No
+1197,can a eye fly?,No
+1198,a eye flys.,No
+1199,is a eye capable of flying?,No
+1200,a eye is capable of flying.,No
+1201,does a eye live underwater?,No
+1202,a eye lives underwater.,No
+1203,does a eye live in the water?,No
+1204,a eye lives in the water.,No
+1205,does a eye have a beak?,No
+1206,a eye has a beak.,No
+1207,does a eye have feathers?,No
+1208,a eye has feathers.,No
+1209,does a eye have wings?,No
+1210,a eye has wings.,No
+1211,does a eye have a wing?,No
+1212,a eye has a wing.,No
+1213,does a eye have horns?,No
+1214,a eye has horns.,No
+1215,does a eye have hair?,No
+1216,a eye has hair.,No
+1217,does a eye have fur?,No
+1218,a eye has fur.,No
+1219,does a noise fly?,No
+1220,can a noise fly?,No
+1221,a noise flys.,No
+1222,is a noise capable of flying?,No
+1223,a noise is capable of flying.,No
+1224,does a noise live underwater?,No
+1225,a noise lives underwater.,No
+1226,does a noise live in the water?,No
+1227,a noise lives in the water.,No
+1228,does a noise have a beak?,No
+1229,a noise has a beak.,No
+1230,does a noise have feathers?,No
+1231,a noise has feathers.,No
+1232,does a noise have wings?,No
+1233,a noise has wings.,No
+1234,does a noise have a wing?,No
+1235,a noise has a wing.,No
+1236,does a noise have horns?,No
+1237,a noise has horns.,No
+1238,does a noise have hair?,No
+1239,a noise has hair.,No
+1240,does a noise have fur?,No
+1241,a noise has fur.,No
+1242,does a mouth fly?,No
+1243,can a mouth fly?,No
+1244,a mouth flys.,No
+1245,is a mouth capable of flying?,No
+1246,a mouth is capable of flying.,No
+1247,does a mouth live underwater?,No
+1248,a mouth lives underwater.,No
+1249,does a mouth live in the water?,No
+1250,a mouth lives in the water.,No
+1251,does a mouth have a beak?,No
+1252,a mouth has a beak.,No
+1253,does a mouth have feathers?,No
+1254,a mouth has feathers.,No
+1255,does a mouth have wings?,No
+1256,a mouth has wings.,No
+1257,does a mouth have a wing?,No
+1258,a mouth has a wing.,No
+1259,does a mouth have horns?,No
+1260,a mouth has horns.,No
+1261,does a mouth have hair?,No
+1262,a mouth has hair.,No
+1263,does a mouth have fur?,No
+1264,a mouth has fur.,No
+1265,does a leg fly?,No
+1266,can a leg fly?,No
+1267,a leg flys.,No
+1268,is a leg capable of flying?,No
+1269,a leg is capable of flying.,No
+1270,does a leg live underwater?,No
+1271,a leg lives underwater.,No
+1272,does a leg live in the water?,No
+1273,a leg lives in the water.,No
+1274,does a leg have a beak?,No
+1275,a leg has a beak.,No
+1276,does a leg have feathers?,No
+1277,a leg has feathers.,No
+1278,does a leg have wings?,No
+1279,a leg has wings.,No
+1280,does a leg have a wing?,No
+1281,a leg has a wing.,No
+1282,does a leg have horns?,No
+1283,a leg has horns.,No
+1284,does a leg have hair?,No
+1285,a leg has hair.,No
+1286,does a leg have fur?,No
+1287,a leg has fur.,No
+1288,does a hand fly?,No
+1289,can a hand fly?,No
+1290,a hand flys.,No
+1291,is a hand capable of flying?,No
+1292,a hand is capable of flying.,No
+1293,does a hand live underwater?,No
+1294,a hand lives underwater.,No
+1295,does a hand live in the water?,No
+1296,a hand lives in the water.,No
+1297,does a hand have a beak?,No
+1298,a hand has a beak.,No
+1299,does a hand have feathers?,No
+1300,a hand has feathers.,No
+1301,does a hand have wings?,No
+1302,a hand has wings.,No
+1303,does a hand have a wing?,No
+1304,a hand has a wing.,No
+1305,does a hand have horns?,No
+1306,a hand has horns.,No
+1307,does a hand have hair?,No
+1308,a hand has hair.,No
+1309,does a hand have fur?,No
+1310,a hand has fur.,No
+1311,does a stomach fly?,No
+1312,can a stomach fly?,No
+1313,a stomach flys.,No
+1314,is a stomach capable of flying?,No
+1315,a stomach is capable of flying.,No
+1316,does a stomach live underwater?,No
+1317,a stomach lives underwater.,No
+1318,does a stomach live in the water?,No
+1319,a stomach lives in the water.,No
+1320,does a stomach have a beak?,No
+1321,a stomach has a beak.,No
+1322,does a stomach have feathers?,No
+1323,a stomach has feathers.,No
+1324,does a stomach have wings?,No
+1325,a stomach has wings.,No
+1326,does a stomach have a wing?,No
+1327,a stomach has a wing.,No
+1328,does a stomach have horns?,No
+1329,a stomach has horns.,No
+1330,does a stomach have hair?,No
+1331,a stomach has hair.,No
+1332,does a stomach have fur?,No
+1333,a stomach has fur.,No
+1334,does a grass fly?,No
+1335,can a grass fly?,No
+1336,a grass flys.,No
+1337,is a grass capable of flying?,No
+1338,a grass is capable of flying.,No
+1339,does a grass live underwater?,No
+1340,a grass lives underwater.,No
+1341,does a grass live in the water?,No
+1342,a grass lives in the water.,No
+1343,does a grass have a beak?,No
+1344,a grass has a beak.,No
+1345,does a grass have feathers?,No
+1346,a grass has feathers.,No
+1347,does a grass have wings?,No
+1348,a grass has wings.,No
+1349,does a grass have a wing?,No
+1350,a grass has a wing.,No
+1351,does a grass have horns?,No
+1352,a grass has horns.,No
+1353,does a grass have hair?,No
+1354,a grass has hair.,No
+1355,does a grass have fur?,No
+1356,a grass has fur.,No
