@@ -15,10 +15,9 @@ logger = logging.getLogger(__name__)
 
 class YesNoDataSet(Dataset):
 
-    def __init__(self, csv_path, tokenizer, max_length=256):
+    def __init__(self, csv_path, tokenizer, max_length=512):
         self.tokenizer = tokenizer
         self.df = pd.read_csv(csv_path)
-        print(self.df.columns)
         self.max_length = max_length
         self.yes_questions = self.df[self.df.label == 'Yes']
         self.no_questions = self.df[self.df.label == 'No']
