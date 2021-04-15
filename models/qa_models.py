@@ -189,13 +189,13 @@ if __name__ == "__main__":
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
         #"train_data": "csv/trained_merged_no_animals.csv",
-        "train_data": "csv/train_questions.csv",
+        "train_data": "csv/train_no_animals_and_fruits_questions.csv",
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         #"dev_data": "csv/conceptnet_dev.csv",
-        "dev_data": "csv/val_questions.csv",
+        "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
-        "checkpoint": "checkpoint/checkpoint-epoch=3-step=20863-v1.ckpt"
-        #"checkpoint": None
+        "checkpoint": "checkpoint/backup2/checkpoint-epoch=2-step=15485.ckpt"
+       # "checkpoint": None
     }
     print("Start Run")
     print("- Config -")
@@ -205,7 +205,7 @@ if __name__ == "__main__":
     if config.get("train", True):
         train_model(config)
     else:
-        test_files = ["csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
+        test_files = ["csv/sanity", "csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
                "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
                "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
                "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
@@ -213,7 +213,6 @@ if __name__ == "__main__":
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
         #test_files = ["csv/animals_can_fly", "csv/animals_cant_fly"]
-        #test_files = ["csv/sanity_questions.csv"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
            # config["test_data"] = f"{f}"
