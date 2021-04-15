@@ -111,7 +111,7 @@ class WordNetObj:
 if __name__ == "__main__":
     # synset_tree = SynsetTree("first")
     # print(synset_tree.to_json())
-    entity = "building"
+    entity = "fish"
     hyponyms = WordNetObj.get_entity_hyponyms(entity, similarity_threshold=0.4)
     hypernyms = WordNetObj.get_entity_hypernyms(entity)
     for x in sorted(hyponyms):

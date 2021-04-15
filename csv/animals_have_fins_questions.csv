@@ -1,37 +1,295 @@
 ,question,label
 0,does a fish have fins?,Yes
 1,a fish has fins.,Yes
-2,does a shark have fins?,Yes
-3,a shark has fins.,Yes
-4,does a tuna have fins?,Yes
-5,a tuna has fins.,Yes
-6,does a salmon have fins?,Yes
-7,a salmon has fins.,Yes
-8,does a octupus have fins?,Yes
-9,a octupus has fins.,Yes
-10,does a barracuda have fins?,Yes
-11,a barracuda has fins.,Yes
-12,does a codfish have fins?,Yes
-13,a codfish has fins.,Yes
-14,does a cuttlefish have fins?,Yes
-15,a cuttlefish has fins.,Yes
-16,does a dolphin have fins?,Yes
-17,a dolphin has fins.,Yes
-18,does a eel have fins?,Yes
-19,a eel has fins.,Yes
-20,does a gar have fins?,Yes
-21,a gar has fins.,Yes
-22,does a herring have fins?,Yes
-23,a herring has fins.,Yes
-24,does a kingfisher have fins?,Yes
-25,a kingfisher has fins.,Yes
-26,does a piranha have fins?,Yes
-27,a piranha has fins.,Yes
-28,does a bluefish have fins?,Yes
-29,a bluefish has fins.,Yes
-30,does a bass have fins?,Yes
-31,a bass has fins.,Yes
-32,does a buri have fins?,Yes
-33,a buri has fins.,Yes
-34,does a knifefish have fins?,Yes
-35,a knifefish has fins.,Yes
+2,fins are related to <rntity>,Yes
+3,do fins related to fish?,Yes
+4,fins are part of fish body.,Yes
+5,all fish have fins.,Yes
+6,does a shark have fins?,Yes
+7,a shark has fins.,Yes
+8,fins are related to <rntity>,Yes
+9,do fins related to shark?,Yes
+10,fins are part of shark body.,Yes
+11,all shark have fins.,Yes
+12,does a tuna have fins?,Yes
+13,a tuna has fins.,Yes
+14,fins are related to <rntity>,Yes
+15,do fins related to tuna?,Yes
+16,fins are part of tuna body.,Yes
+17,all tuna have fins.,Yes
+18,does a salmon have fins?,Yes
+19,a salmon has fins.,Yes
+20,fins are related to <rntity>,Yes
+21,do fins related to salmon?,Yes
+22,fins are part of salmon body.,Yes
+23,all salmon have fins.,Yes
+24,does a octupus have fins?,Yes
+25,a octupus has fins.,Yes
+26,fins are related to <rntity>,Yes
+27,do fins related to octupus?,Yes
+28,fins are part of octupus body.,Yes
+29,all octupus have fins.,Yes
+30,does a barracuda have fins?,Yes
+31,a barracuda has fins.,Yes
+32,fins are related to <rntity>,Yes
+33,do fins related to barracuda?,Yes
+34,fins are part of barracuda body.,Yes
+35,all barracuda have fins.,Yes
+36,does a codfish have fins?,Yes
+37,a codfish has fins.,Yes
+38,fins are related to <rntity>,Yes
+39,do fins related to codfish?,Yes
+40,fins are part of codfish body.,Yes
+41,all codfish have fins.,Yes
+42,does a cuttlefish have fins?,Yes
+43,a cuttlefish has fins.,Yes
+44,fins are related to <rntity>,Yes
+45,do fins related to cuttlefish?,Yes
+46,fins are part of cuttlefish body.,Yes
+47,all cuttlefish have fins.,Yes
+48,does a dolphin have fins?,Yes
+49,a dolphin has fins.,Yes
+50,fins are related to <rntity>,Yes
+51,do fins related to dolphin?,Yes
+52,fins are part of dolphin body.,Yes
+53,all dolphin have fins.,Yes
+54,does a eel have fins?,Yes
+55,a eel has fins.,Yes
+56,fins are related to <rntity>,Yes
+57,do fins related to eel?,Yes
+58,fins are part of eel body.,Yes
+59,all eel have fins.,Yes
+60,does a gar have fins?,Yes
+61,a gar has fins.,Yes
+62,fins are related to <rntity>,Yes
+63,do fins related to gar?,Yes
+64,fins are part of gar body.,Yes
+65,all gar have fins.,Yes
+66,does a herring have fins?,Yes
+67,a herring has fins.,Yes
+68,fins are related to <rntity>,Yes
+69,do fins related to herring?,Yes
+70,fins are part of herring body.,Yes
+71,all herring have fins.,Yes
+72,does a piranha have fins?,Yes
+73,a piranha has fins.,Yes
+74,fins are related to <rntity>,Yes
+75,do fins related to piranha?,Yes
+76,fins are part of piranha body.,Yes
+77,all piranha have fins.,Yes
+78,does a bluefish have fins?,Yes
+79,a bluefish has fins.,Yes
+80,fins are related to <rntity>,Yes
+81,do fins related to bluefish?,Yes
+82,fins are part of bluefish body.,Yes
+83,all bluefish have fins.,Yes
+84,does a oyster have fins?,Yes
+85,a oyster has fins.,Yes
+86,fins are related to <rntity>,Yes
+87,do fins related to oyster?,Yes
+88,fins are part of oyster body.,Yes
+89,all oyster have fins.,Yes
+90,does a buri have fins?,Yes
+91,a buri has fins.,Yes
+92,fins are related to <rntity>,Yes
+93,do fins related to buri?,Yes
+94,fins are part of buri body.,Yes
+95,all buri have fins.,Yes
+96,does a knifefish have fins?,Yes
+97,a knifefish has fins.,Yes
+98,fins are related to <rntity>,Yes
+99,do fins related to knifefish?,Yes
+100,fins are part of knifefish body.,Yes
+101,all knifefish have fins.,Yes
+102,does a orca have fins?,Yes
+103,a orca has fins.,Yes
+104,fins are related to <rntity>,Yes
+105,do fins related to orca?,Yes
+106,fins are part of orca body.,Yes
+107,all orca have fins.,Yes
+108,does a starfish have fins?,Yes
+109,a starfish has fins.,Yes
+110,fins are related to <rntity>,Yes
+111,do fins related to starfish?,Yes
+112,fins are part of starfish body.,Yes
+113,all starfish have fins.,Yes
+114,does a squid have fins?,Yes
+115,a squid has fins.,Yes
+116,fins are related to <rntity>,Yes
+117,do fins related to squid?,Yes
+118,fins are part of squid body.,Yes
+119,all squid have fins.,Yes
+120,does a shrimp have fins?,Yes
+121,a shrimp has fins.,Yes
+122,fins are related to <rntity>,Yes
+123,do fins related to shrimp?,Yes
+124,fins are part of shrimp body.,Yes
+125,all shrimp have fins.,Yes
+126,does a prawn have fins?,Yes
+127,a prawn has fins.,Yes
+128,fins are related to <rntity>,Yes
+129,do fins related to prawn?,Yes
+130,fins are part of prawn body.,Yes
+131,all prawn have fins.,Yes
+132,does a turtule have fins?,Yes
+133,a turtule has fins.,Yes
+134,fins are related to <rntity>,Yes
+135,do fins related to turtule?,Yes
+136,fins are part of turtule body.,Yes
+137,all turtule have fins.,Yes
+138,does a whale have fins?,Yes
+139,a whale has fins.,Yes
+140,fins are related to <rntity>,Yes
+141,do fins related to whale?,Yes
+142,fins are part of whale body.,Yes
+143,all whale have fins.,Yes
+144,does a dugongs have fins?,Yes
+145,a dugongs has fins.,Yes
+146,fins are related to <rntity>,Yes
+147,do fins related to dugongs?,Yes
+148,fins are part of dugongs body.,Yes
+149,all dugongs have fins.,Yes
+150,does a seal have fins?,Yes
+151,a seal has fins.,Yes
+152,fins are related to <rntity>,Yes
+153,do fins related to seal?,Yes
+154,fins are part of seal body.,Yes
+155,all seal have fins.,Yes
+156,does a seahorse have fins?,Yes
+157,a seahorse has fins.,Yes
+158,fins are related to <rntity>,Yes
+159,do fins related to seahorse?,Yes
+160,fins are part of seahorse body.,Yes
+161,all seahorse have fins.,Yes
+162,does a rorqual have fins?,Yes
+163,a rorqual has fins.,Yes
+164,fins are related to <rntity>,Yes
+165,do fins related to rorqual?,Yes
+166,fins are part of rorqual body.,Yes
+167,all rorqual have fins.,Yes
+168,does a porpoise have fins?,Yes
+169,a porpoise has fins.,Yes
+170,fins are related to <rntity>,Yes
+171,do fins related to porpoise?,Yes
+172,fins are part of porpoise body.,Yes
+173,all porpoise have fins.,Yes
+174,does a yellowfin have fins?,Yes
+175,a yellowfin has fins.,Yes
+176,fins are related to <rntity>,Yes
+177,do fins related to yellowfin?,Yes
+178,fins are part of yellowfin body.,Yes
+179,all yellowfin have fins.,Yes
+180,does a whitefish have fins?,Yes
+181,a whitefish has fins.,Yes
+182,fins are related to <rntity>,Yes
+183,do fins related to whitefish?,Yes
+184,fins are part of whitefish body.,Yes
+185,all whitefish have fins.,Yes
+186,does a stonefish have fins?,Yes
+187,a stonefish has fins.,Yes
+188,fins are related to <rntity>,Yes
+189,do fins related to stonefish?,Yes
+190,fins are part of stonefish body.,Yes
+191,all stonefish have fins.,Yes
+192,does a swordfish have fins?,Yes
+193,a swordfish has fins.,Yes
+194,fins are related to <rntity>,Yes
+195,do fins related to swordfish?,Yes
+196,fins are part of swordfish body.,Yes
+197,all swordfish have fins.,Yes
+198,does a spearfish have fins?,Yes
+199,a spearfish has fins.,Yes
+200,fins are related to <rntity>,Yes
+201,do fins related to spearfish?,Yes
+202,fins are part of spearfish body.,Yes
+203,all spearfish have fins.,Yes
+204,does a snook have fins?,Yes
+205,a snook has fins.,Yes
+206,fins are related to <rntity>,Yes
+207,do fins related to snook?,Yes
+208,fins are part of snook body.,Yes
+209,all snook have fins.,Yes
+210,does a smelt have fins?,Yes
+211,a smelt has fins.,Yes
+212,fins are related to <rntity>,Yes
+213,do fins related to smelt?,Yes
+214,fins are part of smelt body.,Yes
+215,all smelt have fins.,Yes
+216,does a porgy have fins?,Yes
+217,a porgy has fins.,Yes
+218,fins are related to <rntity>,Yes
+219,do fins related to porgy?,Yes
+220,fins are part of porgy body.,Yes
+221,all porgy have fins.,Yes
+222,does a pomfret have fins?,Yes
+223,a pomfret has fins.,Yes
+224,fins are related to <rntity>,Yes
+225,do fins related to pomfret?,Yes
+226,fins are part of pomfret body.,Yes
+227,all pomfret have fins.,Yes
+228,does a ling have fins?,Yes
+229,a ling has fins.,Yes
+230,fins are related to <rntity>,Yes
+231,do fins related to ling?,Yes
+232,fins are part of ling body.,Yes
+233,all ling have fins.,Yes
+234,does a kingfish have fins?,Yes
+235,a kingfish has fins.,Yes
+236,fins are related to <rntity>,Yes
+237,do fins related to kingfish?,Yes
+238,fins are part of kingfish body.,Yes
+239,all kingfish have fins.,Yes
+240,does a hogfish have fins?,Yes
+241,a hogfish has fins.,Yes
+242,fins are related to <rntity>,Yes
+243,do fins related to hogfish?,Yes
+244,fins are part of hogfish body.,Yes
+245,all hogfish have fins.,Yes
+246,does a jawfish have fins?,Yes
+247,a jawfish has fins.,Yes
+248,fins are related to <rntity>,Yes
+249,do fins related to jawfish?,Yes
+250,fins are part of jawfish body.,Yes
+251,all jawfish have fins.,Yes
+252,does a carp have fins?,Yes
+253,a carp has fins.,Yes
+254,fins are related to <rntity>,Yes
+255,do fins related to carp?,Yes
+256,fins are part of carp body.,Yes
+257,all carp have fins.,Yes
+258,does a burbot have fins?,Yes
+259,a burbot has fins.,Yes
+260,fins are related to <rntity>,Yes
+261,do fins related to burbot?,Yes
+262,fins are part of burbot body.,Yes
+263,all burbot have fins.,Yes
+264,does a burrfish have fins?,Yes
+265,a burrfish has fins.,Yes
+266,fins are related to <rntity>,Yes
+267,do fins related to burrfish?,Yes
+268,fins are part of burrfish body.,Yes
+269,all burrfish have fins.,Yes
+270,does a bluefin have fins?,Yes
+271,a bluefin has fins.,Yes
+272,fins are related to <rntity>,Yes
+273,do fins related to bluefin?,Yes
+274,fins are part of bluefin body.,Yes
+275,all bluefin have fins.,Yes
+276,does a anchovy have fins?,Yes
+277,a anchovy has fins.,Yes
+278,fins are related to <rntity>,Yes
+279,do fins related to anchovy?,Yes
+280,fins are part of anchovy body.,Yes
+281,all anchovy have fins.,Yes
+282,does a albacore have fins?,Yes
+283,a albacore has fins.,Yes
+284,fins are related to <rntity>,Yes
+285,do fins related to albacore?,Yes
+286,fins are part of albacore body.,Yes
+287,all albacore have fins.,Yes
+288,does a flatfish have fins?,Yes
+289,a flatfish has fins.,Yes
+290,fins are related to <rntity>,Yes
+291,do fins related to flatfish?,Yes
+292,fins are part of flatfish body.,Yes
+293,all flatfish have fins.,Yes

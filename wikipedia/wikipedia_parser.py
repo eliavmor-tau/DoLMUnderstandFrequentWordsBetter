@@ -6,13 +6,13 @@ import threading
 import numpy as np
 import pickle
 import time
-
+import pandas as pd
 
 def find_word_in_text(word, text):
     indices = set()
     indices.add(text.find(f" {word} "))
     indices.add(text.find(f" {word}."))
-    indices.add(text.find(f" {word}s"))
+    indices.add(text.find(f" {word}s "))
     indices.add(text.find(f" {word}:"))
     indices.add(text.find(f'"{word}"'))
     indices.add(text.find(f' {word}?'))
@@ -24,6 +24,7 @@ def find_word_in_text(word, text):
         return -1
     else:
         return min(indices)
+
 
 def compute_unigram():
     jobs = []
@@ -91,23 +92,6 @@ def compute_unigram():
 
 
 def collect_sentences_with_words(xml_paths, thread_idx, words, sent_length=512):
-    def find_word_in_text(word, text):
-        indices = set()
-        indices.add(text.find(f" {word} "))
-        indices.add(text.find(f" {word}."))
-        indices.add(text.find(f" {word}s"))
-        indices.add(text.find(f" {word}:"))
-        indices.add(text.find(f'"{word}"'))
-        indices.add(text.find(f' {word}?'))
-        indices.add(text.find(f' {word}-'))
-        indices.add(text.find(f' {word},'))
-        indices.add(text.find(f' {word};'))
-        indices.remove(-1)
-        if len(indices) == 0:
-            return -1
-        else:
-            return min(indices)
-
     sentences = { word: [] for word in words }
     print(f"Thread_{thread_idx} Start")
     for xml_idx, xml_path in enumerate(xml_paths):
@@ -126,11 +110,16 @@ def collect_sentences_with_words(xml_paths, thread_idx, words, sent_length=512):
             for word in words:
                 text = orig_text
                 idx = find_word_in_text(word, text)
+                print(word)
                 while idx != -1:
                     chunk = text[max(0, idx - sent_length): min(len(text), idx + sent_length)].lower()
+                    print(idx)
+                    print(chunk)
+                    print("-" * 20)
                     text = text[idx + len(word):]
                     idx = find_word_in_text(word, text)
                     sentences[word].append(chunk)
+
         if xml_idx % 10 == 0:
             print(f"Thread {thread_idx} processed {xml_idx} papers")
 
@@ -140,16 +129,33 @@ def collect_sentences_with_words(xml_paths, thread_idx, words, sent_length=512):
     print(f"Thread_{thread_idx} Done")
 
 
+def collect_all_entities():
+    files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
+             "animals_have_wings", "animals_have_feathers", "animals_have_fur",
+             "animals_have_hair", "animals_live_underwater", "animals_can_fly",
+             "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
+             "animals_dont_have_scales",
+             "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "sanity"]
+
+    entities = []
+    for f in files:
+        df = pd.read_csv(f"../csv/{f}.csv")
+        entities += list(df.entity.values)
+    return set(entities)
+
+
 def run_collect_sentences_with_words():
     jobs = []
     for path in os.walk("."):
         dir, files = path[0], path[-1]
         if 'wiki_00' in files:
             jobs += [os.path.join(dir, file) for file in files]
+            break
 
     threads = []
     jobs_batch = []
-    num_of_threads = 20
+    num_of_threads = 1
     batch_size = int(max(np.ceil(len(jobs) / num_of_threads), 1))
     for i in range(0, len(jobs), batch_size):
         jobs_batch.append(jobs[i: min(i + batch_size, len(jobs))])
@@ -158,17 +164,15 @@ def run_collect_sentences_with_words():
     print(f"total_docs: {batch_size * num_of_threads}")
     print(f"job queue len={len(jobs_batch)}")
     time.sleep(5)
-    with open("../pickle/all_animals.pkl", "rb") as f:
-        words = pickle.load(f)
-    words = words.union({"fur", "hair", "water", "underwater", "sea", "ocean", "feather", "wing", "fly", "horn", "scale", "fin", "beak"})
+    words = collect_all_entities()
+    words = words.union({"fur", "hair", "water", "underwater", "feather", "wing", "fly", "horn", "scale", "fin", "beak"})
     print(f"words {words}")
     print("len(words)", len(words))
 
     for thread_idx, job in enumerate(jobs_batch):
-        if thread_idx in [7, 10]:
-            thread = threading.Thread(target=collect_sentences_with_words, args=(job, thread_idx, words))
-            threads.append(thread)
-            thread.start()
+        thread = threading.Thread(target=collect_sentences_with_words, args=(job, thread_idx, words))
+        threads.append(thread)
+        thread.start()
 
     for thread in threads:
         thread.join()
@@ -177,5 +181,8 @@ def run_collect_sentences_with_words():
 
 
 if __name__ == "__main__":
-    run_collect_sentences_with_words()
+    # run_collect_sentences_with_words()
+    with open("wiki_sentences.pkl", "rb") as f:
+        wiki_text_chunks_by_animal = pickle.load(f)
+    collect_all_entities()
     # compute_unigram()

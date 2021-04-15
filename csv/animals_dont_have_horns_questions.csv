@@ -1,55 +1,329 @@
 ,question,label
 0,does a elephant have horns?,No
 1,a elephant has horns.,No
-2,does a flamingo have horns?,No
-3,a flamingo has horns.,No
-4,does a hippopotamus have horns?,No
-5,a hippopotamus has horns.,No
-6,does a iguana have horns?,No
-7,a iguana has horns.,No
-8,does a lizard have horns?,No
-9,a lizard has horns.,No
-10,does a pig have horns?,No
-11,a pig has horns.,No
-12,does a worm have horns?,No
-13,a worm has horns.,No
-14,does a snail have horns?,No
-15,a snail has horns.,No
-16,does a tarantula have horns?,No
-17,a tarantula has horns.,No
-18,does a spider have horns?,No
-19,a spider has horns.,No
-20,does a boa have horns?,No
-21,a boa has horns.,No
-22,does a cobra have horns?,No
-23,a cobra has horns.,No
-24,does a cat have horns?,No
-25,a cat has horns.,No
-26,does a dog have horns?,No
-27,a dog has horns.,No
-28,does a caterpillar have horns?,No
-29,a caterpillar has horns.,No
-30,does a alligator have horns?,No
-31,a alligator has horns.,No
-32,does a crocodile have horns?,No
-33,a crocodile has horns.,No
-34,does a snake have horns?,No
-35,a snake has horns.,No
-36,does a frog have horns?,No
-37,a frog has horns.,No
-38,does a salamander have horns?,No
-39,a salamander has horns.,No
-40,does a tapir have horns?,No
-41,a tapir has horns.,No
-42,does a fish have horns?,No
-43,a fish has horns.,No
-44,does a shark have horns?,No
-45,a shark has horns.,No
-46,does a tuna have horns?,No
-47,a tuna has horns.,No
-48,does a jellyfish have horns?,No
-49,a jellyfish has horns.,No
-50,does a salmon have horns?,No
-51,a salmon has horns.,No
-52,does a octupus have horns?,No
-53,a octupus has horns.,No
+2,horn is related to elephant.,No
+3,horns are related to elephant,No
+4,does horns are body part of elephant?,No
+5,horns are body part of elephant.,No
+6,do horns related to elephant?,No
+7,does horn related to elephant?,No
+8,does a flamingo have horns?,No
+9,a flamingo has horns.,No
+10,horn is related to flamingo.,No
+11,horns are related to flamingo,No
+12,does horns are body part of flamingo?,No
+13,horns are body part of flamingo.,No
+14,do horns related to flamingo?,No
+15,does horn related to flamingo?,No
+16,does a hippopotamus have horns?,No
+17,a hippopotamus has horns.,No
+18,horn is related to hippopotamus.,No
+19,horns are related to hippopotamus,No
+20,does horns are body part of hippopotamus?,No
+21,horns are body part of hippopotamus.,No
+22,do horns related to hippopotamus?,No
+23,does horn related to hippopotamus?,No
+24,does a iguana have horns?,No
+25,a iguana has horns.,No
+26,horn is related to iguana.,No
+27,horns are related to iguana,No
+28,does horns are body part of iguana?,No
+29,horns are body part of iguana.,No
+30,do horns related to iguana?,No
+31,does horn related to iguana?,No
+32,does a lizard have horns?,No
+33,a lizard has horns.,No
+34,horn is related to lizard.,No
+35,horns are related to lizard,No
+36,does horns are body part of lizard?,No
+37,horns are body part of lizard.,No
+38,do horns related to lizard?,No
+39,does horn related to lizard?,No
+40,does a pig have horns?,No
+41,a pig has horns.,No
+42,horn is related to pig.,No
+43,horns are related to pig,No
+44,does horns are body part of pig?,No
+45,horns are body part of pig.,No
+46,do horns related to pig?,No
+47,does horn related to pig?,No
+48,does a worm have horns?,No
+49,a worm has horns.,No
+50,horn is related to worm.,No
+51,horns are related to worm,No
+52,does horns are body part of worm?,No
+53,horns are body part of worm.,No
+54,do horns related to worm?,No
+55,does horn related to worm?,No
+56,does a snail have horns?,No
+57,a snail has horns.,No
+58,horn is related to snail.,No
+59,horns are related to snail,No
+60,does horns are body part of snail?,No
+61,horns are body part of snail.,No
+62,do horns related to snail?,No
+63,does horn related to snail?,No
+64,does a tarantula have horns?,No
+65,a tarantula has horns.,No
+66,horn is related to tarantula.,No
+67,horns are related to tarantula,No
+68,does horns are body part of tarantula?,No
+69,horns are body part of tarantula.,No
+70,do horns related to tarantula?,No
+71,does horn related to tarantula?,No
+72,does a spider have horns?,No
+73,a spider has horns.,No
+74,horn is related to spider.,No
+75,horns are related to spider,No
+76,does horns are body part of spider?,No
+77,horns are body part of spider.,No
+78,do horns related to spider?,No
+79,does horn related to spider?,No
+80,does a boa have horns?,No
+81,a boa has horns.,No
+82,horn is related to boa.,No
+83,horns are related to boa,No
+84,does horns are body part of boa?,No
+85,horns are body part of boa.,No
+86,do horns related to boa?,No
+87,does horn related to boa?,No
+88,does a cobra have horns?,No
+89,a cobra has horns.,No
+90,horn is related to cobra.,No
+91,horns are related to cobra,No
+92,does horns are body part of cobra?,No
+93,horns are body part of cobra.,No
+94,do horns related to cobra?,No
+95,does horn related to cobra?,No
+96,does a cat have horns?,No
+97,a cat has horns.,No
+98,horn is related to cat.,No
+99,horns are related to cat,No
+100,does horns are body part of cat?,No
+101,horns are body part of cat.,No
+102,do horns related to cat?,No
+103,does horn related to cat?,No
+104,does a dog have horns?,No
+105,a dog has horns.,No
+106,horn is related to dog.,No
+107,horns are related to dog,No
+108,does horns are body part of dog?,No
+109,horns are body part of dog.,No
+110,do horns related to dog?,No
+111,does horn related to dog?,No
+112,does a caterpillar have horns?,No
+113,a caterpillar has horns.,No
+114,horn is related to caterpillar.,No
+115,horns are related to caterpillar,No
+116,does horns are body part of caterpillar?,No
+117,horns are body part of caterpillar.,No
+118,do horns related to caterpillar?,No
+119,does horn related to caterpillar?,No
+120,does a alligator have horns?,No
+121,a alligator has horns.,No
+122,horn is related to alligator.,No
+123,horns are related to alligator,No
+124,does horns are body part of alligator?,No
+125,horns are body part of alligator.,No
+126,do horns related to alligator?,No
+127,does horn related to alligator?,No
+128,does a crocodile have horns?,No
+129,a crocodile has horns.,No
+130,horn is related to crocodile.,No
+131,horns are related to crocodile,No
+132,does horns are body part of crocodile?,No
+133,horns are body part of crocodile.,No
+134,do horns related to crocodile?,No
+135,does horn related to crocodile?,No
+136,does a snake have horns?,No
+137,a snake has horns.,No
+138,horn is related to snake.,No
+139,horns are related to snake,No
+140,does horns are body part of snake?,No
+141,horns are body part of snake.,No
+142,do horns related to snake?,No
+143,does horn related to snake?,No
+144,does a frog have horns?,No
+145,a frog has horns.,No
+146,horn is related to frog.,No
+147,horns are related to frog,No
+148,does horns are body part of frog?,No
+149,horns are body part of frog.,No
+150,do horns related to frog?,No
+151,does horn related to frog?,No
+152,does a salamander have horns?,No
+153,a salamander has horns.,No
+154,horn is related to salamander.,No
+155,horns are related to salamander,No
+156,does horns are body part of salamander?,No
+157,horns are body part of salamander.,No
+158,do horns related to salamander?,No
+159,does horn related to salamander?,No
+160,does a tapir have horns?,No
+161,a tapir has horns.,No
+162,horn is related to tapir.,No
+163,horns are related to tapir,No
+164,does horns are body part of tapir?,No
+165,horns are body part of tapir.,No
+166,do horns related to tapir?,No
+167,does horn related to tapir?,No
+168,does a fish have horns?,No
+169,a fish has horns.,No
+170,horn is related to fish.,No
+171,horns are related to fish,No
+172,does horns are body part of fish?,No
+173,horns are body part of fish.,No
+174,do horns related to fish?,No
+175,does horn related to fish?,No
+176,does a shark have horns?,No
+177,a shark has horns.,No
+178,horn is related to shark.,No
+179,horns are related to shark,No
+180,does horns are body part of shark?,No
+181,horns are body part of shark.,No
+182,do horns related to shark?,No
+183,does horn related to shark?,No
+184,does a tuna have horns?,No
+185,a tuna has horns.,No
+186,horn is related to tuna.,No
+187,horns are related to tuna,No
+188,does horns are body part of tuna?,No
+189,horns are body part of tuna.,No
+190,do horns related to tuna?,No
+191,does horn related to tuna?,No
+192,does a jellyfish have horns?,No
+193,a jellyfish has horns.,No
+194,horn is related to jellyfish.,No
+195,horns are related to jellyfish,No
+196,does horns are body part of jellyfish?,No
+197,horns are body part of jellyfish.,No
+198,do horns related to jellyfish?,No
+199,does horn related to jellyfish?,No
+200,does a salmon have horns?,No
+201,a salmon has horns.,No
+202,horn is related to salmon.,No
+203,horns are related to salmon,No
+204,does horns are body part of salmon?,No
+205,horns are body part of salmon.,No
+206,do horns related to salmon?,No
+207,does horn related to salmon?,No
+208,does a octupus have horns?,No
+209,a octupus has horns.,No
+210,horn is related to octupus.,No
+211,horns are related to octupus,No
+212,does horns are body part of octupus?,No
+213,horns are body part of octupus.,No
+214,do horns related to octupus?,No
+215,does horn related to octupus?,No
+216,does a bird have horns?,No
+217,a bird has horns.,No
+218,horn is related to bird.,No
+219,horns are related to bird,No
+220,does horns are body part of bird?,No
+221,horns are body part of bird.,No
+222,do horns related to bird?,No
+223,does horn related to bird?,No
+224,does a gull have horns?,No
+225,a gull has horns.,No
+226,horn is related to gull.,No
+227,horns are related to gull,No
+228,does horns are body part of gull?,No
+229,horns are body part of gull.,No
+230,do horns related to gull?,No
+231,does horn related to gull?,No
+232,does a swan have horns?,No
+233,a swan has horns.,No
+234,horn is related to swan.,No
+235,horns are related to swan,No
+236,does horns are body part of swan?,No
+237,horns are body part of swan.,No
+238,do horns related to swan?,No
+239,does horn related to swan?,No
+240,does a whale have horns?,No
+241,a whale has horns.,No
+242,horn is related to whale.,No
+243,horns are related to whale,No
+244,does horns are body part of whale?,No
+245,horns are body part of whale.,No
+246,do horns related to whale?,No
+247,does horn related to whale?,No
+248,does a eagle have horns?,No
+249,a eagle has horns.,No
+250,horn is related to eagle.,No
+251,horns are related to eagle,No
+252,does horns are body part of eagle?,No
+253,horns are body part of eagle.,No
+254,do horns related to eagle?,No
+255,does horn related to eagle?,No
+256,does a owl have horns?,No
+257,a owl has horns.,No
+258,horn is related to owl.,No
+259,horns are related to owl,No
+260,does horns are body part of owl?,No
+261,horns are body part of owl.,No
+262,do horns related to owl?,No
+263,does horn related to owl?,No
+264,does a lion have horns?,No
+265,a lion has horns.,No
+266,horn is related to lion.,No
+267,horns are related to lion,No
+268,does horns are body part of lion?,No
+269,horns are body part of lion.,No
+270,do horns related to lion?,No
+271,does horn related to lion?,No
+272,does a tiger have horns?,No
+273,a tiger has horns.,No
+274,horn is related to tiger.,No
+275,horns are related to tiger,No
+276,does horns are body part of tiger?,No
+277,horns are body part of tiger.,No
+278,do horns related to tiger?,No
+279,does horn related to tiger?,No
+280,does a puma have horns?,No
+281,a puma has horns.,No
+282,horn is related to puma.,No
+283,horns are related to puma,No
+284,does horns are body part of puma?,No
+285,horns are body part of puma.,No
+286,do horns related to puma?,No
+287,does horn related to puma?,No
+288,does a jaguar have horns?,No
+289,a jaguar has horns.,No
+290,horn is related to jaguar.,No
+291,horns are related to jaguar,No
+292,does horns are body part of jaguar?,No
+293,horns are body part of jaguar.,No
+294,do horns related to jaguar?,No
+295,does horn related to jaguar?,No
+296,does a songbird have horns?,No
+297,a songbird has horns.,No
+298,horn is related to songbird.,No
+299,horns are related to songbird,No
+300,does horns are body part of songbird?,No
+301,horns are body part of songbird.,No
+302,do horns related to songbird?,No
+303,does horn related to songbird?,No
+304,does a rabbit have horns?,No
+305,a rabbit has horns.,No
+306,horn is related to rabbit.,No
+307,horns are related to rabbit,No
+308,does horns are body part of rabbit?,No
+309,horns are body part of rabbit.,No
+310,do horns related to rabbit?,No
+311,does horn related to rabbit?,No
+312,does a rat have horns?,No
+313,a rat has horns.,No
+314,horn is related to rat.,No
+315,horns are related to rat,No
+316,does horns are body part of rat?,No
+317,horns are body part of rat.,No
+318,do horns related to rat?,No
+319,does horn related to rat?,No
+320,does a poodle have horns?,No
+321,a poodle has horns.,No
+322,horn is related to poodle.,No
+323,horns are related to poodle,No
+324,does horns are body part of poodle?,No
+325,horns are body part of poodle.,No
+326,do horns related to poodle?,No
+327,does horn related to poodle?,No

@@ -1,37 +1,295 @@
 ,question,label
 0,does a dog have fins?,No
 1,a dog has fins.,No
-2,does a cat have fins?,No
-3,a cat has fins.,No
-4,does a rhino have fins?,No
-5,a rhino has fins.,No
-6,does a bird have fins?,No
-7,a bird has fins.,No
-8,does a fox have fins?,No
-9,a fox has fins.,No
-10,does a snake have fins?,No
-11,a snake has fins.,No
-12,does a elephant have fins?,No
-13,a elephant has fins.,No
-14,does a horse have fins?,No
-15,a horse has fins.,No
-16,does a cow have fins?,No
-17,a cow has fins.,No
-18,does a ox have fins?,No
-19,a ox has fins.,No
-20,does a bear have fins?,No
-21,a bear has fins.,No
-22,does a wolf have fins?,No
-23,a wolf has fins.,No
-24,does a eagle have fins?,No
-25,a eagle has fins.,No
-26,does a swan have fins?,No
-27,a swan has fins.,No
-28,does a monkey have fins?,No
-29,a monkey has fins.,No
-30,does a donkey have fins?,No
-31,a donkey has fins.,No
-32,does a lion have fins?,No
-33,a lion has fins.,No
-34,does a tiger have fins?,No
-35,a tiger has fins.,No
+2,fins are related to <rntity>,No
+3,do fins related to dog?,No
+4,fins are part of dog body.,No
+5,all dog have fins.,No
+6,does a cat have fins?,No
+7,a cat has fins.,No
+8,fins are related to <rntity>,No
+9,do fins related to cat?,No
+10,fins are part of cat body.,No
+11,all cat have fins.,No
+12,does a fox have fins?,No
+13,a fox has fins.,No
+14,fins are related to <rntity>,No
+15,do fins related to fox?,No
+16,fins are part of fox body.,No
+17,all fox have fins.,No
+18,does a wolf have fins?,No
+19,a wolf has fins.,No
+20,fins are related to <rntity>,No
+21,do fins related to wolf?,No
+22,fins are part of wolf body.,No
+23,all wolf have fins.,No
+24,does a lion have fins?,No
+25,a lion has fins.,No
+26,fins are related to <rntity>,No
+27,do fins related to lion?,No
+28,fins are part of lion body.,No
+29,all lion have fins.,No
+30,does a zebra have fins?,No
+31,a zebra has fins.,No
+32,fins are related to <rntity>,No
+33,do fins related to zebra?,No
+34,fins are part of zebra body.,No
+35,all zebra have fins.,No
+36,does a tiger have fins?,No
+37,a tiger has fins.,No
+38,fins are related to <rntity>,No
+39,do fins related to tiger?,No
+40,fins are part of tiger body.,No
+41,all tiger have fins.,No
+42,does a cow have fins?,No
+43,a cow has fins.,No
+44,fins are related to <rntity>,No
+45,do fins related to cow?,No
+46,fins are part of cow body.,No
+47,all cow have fins.,No
+48,does a hen have fins?,No
+49,a hen has fins.,No
+50,fins are related to <rntity>,No
+51,do fins related to hen?,No
+52,fins are part of hen body.,No
+53,all hen have fins.,No
+54,does a duck have fins?,No
+55,a duck has fins.,No
+56,fins are related to <rntity>,No
+57,do fins related to duck?,No
+58,fins are part of duck body.,No
+59,all duck have fins.,No
+60,does a bird have fins?,No
+61,a bird has fins.,No
+62,fins are related to <rntity>,No
+63,do fins related to bird?,No
+64,fins are part of bird body.,No
+65,all bird have fins.,No
+66,does a eagle have fins?,No
+67,a eagle has fins.,No
+68,fins are related to <rntity>,No
+69,do fins related to eagle?,No
+70,fins are part of eagle body.,No
+71,all eagle have fins.,No
+72,does a swan have fins?,No
+73,a swan has fins.,No
+74,fins are related to <rntity>,No
+75,do fins related to swan?,No
+76,fins are part of swan body.,No
+77,all swan have fins.,No
+78,does a bull have fins?,No
+79,a bull has fins.,No
+80,fins are related to <rntity>,No
+81,do fins related to bull?,No
+82,fins are part of bull body.,No
+83,all bull have fins.,No
+84,does a bat have fins?,No
+85,a bat has fins.,No
+86,fins are related to <rntity>,No
+87,do fins related to bat?,No
+88,fins are part of bat body.,No
+89,all bat have fins.,No
+90,does a rhino have fins?,No
+91,a rhino has fins.,No
+92,fins are related to <rntity>,No
+93,do fins related to rhino?,No
+94,fins are part of rhino body.,No
+95,all rhino have fins.,No
+96,does a elephant have fins?,No
+97,a elephant has fins.,No
+98,fins are related to <rntity>,No
+99,do fins related to elephant?,No
+100,fins are part of elephant body.,No
+101,all elephant have fins.,No
+102,does a rat have fins?,No
+103,a rat has fins.,No
+104,fins are related to <rntity>,No
+105,do fins related to rat?,No
+106,fins are part of rat body.,No
+107,all rat have fins.,No
+108,does a lizard have fins?,No
+109,a lizard has fins.,No
+110,fins are related to <rntity>,No
+111,do fins related to lizard?,No
+112,fins are part of lizard body.,No
+113,all lizard have fins.,No
+114,does a rabbit have fins?,No
+115,a rabbit has fins.,No
+116,fins are related to <rntity>,No
+117,do fins related to rabbit?,No
+118,fins are part of rabbit body.,No
+119,all rabbit have fins.,No
+120,does a monkey have fins?,No
+121,a monkey has fins.,No
+122,fins are related to <rntity>,No
+123,do fins related to monkey?,No
+124,fins are part of monkey body.,No
+125,all monkey have fins.,No
+126,does a sheep have fins?,No
+127,a sheep has fins.,No
+128,fins are related to <rntity>,No
+129,do fins related to sheep?,No
+130,fins are part of sheep body.,No
+131,all sheep have fins.,No
+132,does a donkey have fins?,No
+133,a donkey has fins.,No
+134,fins are related to <rntity>,No
+135,do fins related to donkey?,No
+136,fins are part of donkey body.,No
+137,all donkey have fins.,No
+138,does a giraffe have fins?,No
+139,a giraffe has fins.,No
+140,fins are related to <rntity>,No
+141,do fins related to giraffe?,No
+142,fins are part of giraffe body.,No
+143,all giraffe have fins.,No
+144,does a worm have fins?,No
+145,a worm has fins.,No
+146,fins are related to <rntity>,No
+147,do fins related to worm?,No
+148,fins are part of worm body.,No
+149,all worm have fins.,No
+150,does a snail have fins?,No
+151,a snail has fins.,No
+152,fins are related to <rntity>,No
+153,do fins related to snail?,No
+154,fins are part of snail body.,No
+155,all snail have fins.,No
+156,does a parrot have fins?,No
+157,a parrot has fins.,No
+158,fins are related to <rntity>,No
+159,do fins related to parrot?,No
+160,fins are part of parrot body.,No
+161,all parrot have fins.,No
+162,does a ox have fins?,No
+163,a ox has fins.,No
+164,fins are related to <rntity>,No
+165,do fins related to ox?,No
+166,fins are part of ox body.,No
+167,all ox have fins.,No
+168,does a puma have fins?,No
+169,a puma has fins.,No
+170,fins are related to <rntity>,No
+171,do fins related to puma?,No
+172,fins are part of puma body.,No
+173,all puma have fins.,No
+174,does a jaguar have fins?,No
+175,a jaguar has fins.,No
+176,fins are related to <rntity>,No
+177,do fins related to jaguar?,No
+178,fins are part of jaguar body.,No
+179,all jaguar have fins.,No
+180,does a owl have fins?,No
+181,a owl has fins.,No
+182,fins are related to <rntity>,No
+183,do fins related to owl?,No
+184,fins are part of owl body.,No
+185,all owl have fins.,No
+186,does a flamingo have fins?,No
+187,a flamingo has fins.,No
+188,fins are related to <rntity>,No
+189,do fins related to flamingo?,No
+190,fins are part of flamingo body.,No
+191,all flamingo have fins.,No
+192,does a camel have fins?,No
+193,a camel has fins.,No
+194,fins are related to <rntity>,No
+195,do fins related to camel?,No
+196,fins are part of camel body.,No
+197,all camel have fins.,No
+198,does a hourse have fins?,No
+199,a hourse has fins.,No
+200,fins are related to <rntity>,No
+201,do fins related to hourse?,No
+202,fins are part of hourse body.,No
+203,all hourse have fins.,No
+204,does a bison have fins?,No
+205,a bison has fins.,No
+206,fins are related to <rntity>,No
+207,do fins related to bison?,No
+208,fins are part of bison body.,No
+209,all bison have fins.,No
+210,does a poodle have fins?,No
+211,a poodle has fins.,No
+212,fins are related to <rntity>,No
+213,do fins related to poodle?,No
+214,fins are part of poodle body.,No
+215,all poodle have fins.,No
+216,does a cowbird have fins?,No
+217,a cowbird has fins.,No
+218,fins are related to <rntity>,No
+219,do fins related to cowbird?,No
+220,fins are part of cowbird body.,No
+221,all cowbird have fins.,No
+222,does a eider have fins?,No
+223,a eider has fins.,No
+224,fins are related to <rntity>,No
+225,do fins related to eider?,No
+226,fins are part of eider body.,No
+227,all eider have fins.,No
+228,does a finch have fins?,No
+229,a finch has fins.,No
+230,fins are related to <rntity>,No
+231,do fins related to finch?,No
+232,fins are part of finch body.,No
+233,all finch have fins.,No
+234,does a goldcrest have fins?,No
+235,a goldcrest has fins.,No
+236,fins are related to <rntity>,No
+237,do fins related to goldcrest?,No
+238,fins are part of goldcrest body.,No
+239,all goldcrest have fins.,No
+240,does a grackle have fins?,No
+241,a grackle has fins.,No
+242,fins are related to <rntity>,No
+243,do fins related to grackle?,No
+244,fins are part of grackle body.,No
+245,all grackle have fins.,No
+246,does a hawk have fins?,No
+247,a hawk has fins.,No
+248,fins are related to <rntity>,No
+249,do fins related to hawk?,No
+250,fins are part of hawk body.,No
+251,all hawk have fins.,No
+252,does a heron have fins?,No
+253,a heron has fins.,No
+254,fins are related to <rntity>,No
+255,do fins related to heron?,No
+256,fins are part of heron body.,No
+257,all heron have fins.,No
+258,does a lark have fins?,No
+259,a lark has fins.,No
+260,fins are related to <rntity>,No
+261,do fins related to lark?,No
+262,fins are part of lark body.,No
+263,all lark have fins.,No
+264,does a pelican have fins?,No
+265,a pelican has fins.,No
+266,fins are related to <rntity>,No
+267,do fins related to pelican?,No
+268,fins are part of pelican body.,No
+269,all pelican have fins.,No
+270,does a skylark have fins?,No
+271,a skylark has fins.,No
+272,fins are related to <rntity>,No
+273,do fins related to skylark?,No
+274,fins are part of skylark body.,No
+275,all skylark have fins.,No
+276,does a gnu have fins?,No
+277,a gnu has fins.,No
+278,fins are related to <rntity>,No
+279,do fins related to gnu?,No
+280,fins are part of gnu body.,No
+281,all gnu have fins.,No
+282,does a goral have fins?,No
+283,a goral has fins.,No
+284,fins are related to <rntity>,No
+285,do fins related to goral?,No
+286,fins are part of goral body.,No
+287,all goral have fins.,No
+288,does a ram have fins?,No
+289,a ram has fins.,No
+290,fins are related to <rntity>,No
+291,do fins related to ram?,No
+292,fins are part of ram body.,No
+293,all ram have fins.,No

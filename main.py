@@ -522,7 +522,7 @@ def filter_questions():
              "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
              "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
-             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "animals", "sanity2"]
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "animals", "sanity"]
     animals = set()
     for file in files:
         animals = animals.union(set(pd.read_csv(f"csv/{file}.csv").entity.values))
@@ -677,7 +677,7 @@ def run_summarize_results():
              "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
              "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
-             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]
+             "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "sanity"]
     for file in files:
         print(f"summarize {file}")
         summarize_results(animals_csv_path=f"csv/{file}.csv",
@@ -692,8 +692,7 @@ def run_generate_questions():
              "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
              "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "old/food", "old/furniture",
-             "old/musical_instruments", "old/vehicle"]
-    files = ['sanity']
+             "old/musical_instruments", "old/vehicle", "sanity"]
     for file in files:
         questions = generate_questions_from_csv(csv_path=f"csv/{file}.csv")
         questions = pd.DataFrame.from_dict(questions)
@@ -702,12 +701,8 @@ def run_generate_questions():
 
 if __name__ == "__main__":
     # run_summarize_results()
-    run_generate_questions()
+    # run_generate_questions()
     # filter_questions()
-    # preprocess_data("food")
-    # run_mc_overgeneralization_metric(test_name="beak")
-    # run_overgeneralization_metric(K=1, debug=True)
-    # run_overgeneralization_metric(K=tokenizer.get_vocab_len(), debug=False)
     # files = [f"csv/{x}.csv" for x in ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
     #          "animals_have_wings", "animals_have_feathers", "animals_have_fur",
     #          "animals_have_hair", "animals_live_underwater", "animals_can_fly",
@@ -717,10 +712,10 @@ if __name__ == "__main__":
     #          "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]]
     # files = [f"csv/old/{x}.csv" for x in
     #          ["furniture", "musical_instruments", "vehicle"]]
-    # merge_questions(["csv/val_no_animals_and_fruits_questions.csv"], split=False, p=0.7, output_path="csv/val_no_animals_and_fruits_questions.csv")
+    merge_questions(["csv/merged_train_questions_no_animals_and_fruits.csv"], split=True, p=0.8)
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
-    mask = tokenizer.mask_token()
-    sentence = [f"does a cat fly?", f"does a dog fly?", f"does a bird fly?",  f"does a bird fly?"]
-    result = test_sentence_mc_mlm(sentence, k=2, multi_choice_answers=["No", "Yes"], target_index=[0, 0, 0, 1])
-    for result in result:
-        print(result)
+    # mask = tokenizer.mask_token()
+    # sentence = [f"does a cat fly?", f"does a dog fly?", f"does a bird fly?",  f"does a bird fly?"]
+    # result = test_sentence_mc_mlm(sentence, k=2, multi_choice_answers=["No", "Yes"], target_index=[0, 0, 0, 1])
+    # for result in result:
+    #     print(result)
