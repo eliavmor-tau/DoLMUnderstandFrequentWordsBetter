@@ -42,7 +42,8 @@ class YesNoDataSet(Dataset):
         question = self.questions[idx]
         encoded_question = self.tokenizer.encode_plus(question, return_tensors="pt", max_length=self.max_length,
                                                       padding='max_length')
-        encoded_label = self.tokenizer.encode_plus(self.labels[idx] + " </s>", return_tensors="pt")
+        encoded_label = self.tokenizer.encode_plus(self.labels[idx] + " </s>", max_length=self.max_length, padding='max_length',
+                                                   return_tensors="pt")
         input_ids = encoded_question.input_ids.squeeze()
         attention_mask = encoded_question.attention_mask.squeeze()
         label = encoded_label.input_ids.squeeze()
@@ -61,9 +62,7 @@ class YesNoQuestionAnswering(pl.LightningModule):
         self.config = config
 
     def forward(self, input_ids=None, attention_mask=None, labels=None):
-        output = self.model(input_ids=input_ids,
-                   attention_mask=attention_mask,
-                   labels=labels)
+        output = self.model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
         return output
 
     def _step(self, batch):
@@ -71,9 +70,8 @@ class YesNoQuestionAnswering(pl.LightningModule):
         attention_mask = batch["attention_mask"]
         labels = batch["labels"]
         labels[labels[:, :] == self.tokenizer.pad_token_id] = -100
-
         output = self(input_ids, attention_mask, labels)
-        loss = output[0]
+        loss = output.loss
         return loss
 
     def training_step(self, batch, batch_idx):
@@ -98,67 +96,29 @@ class YesNoQuestionAnswering(pl.LightningModule):
 
     def configure_optimizers(self):
         "Prepare optimizer and schedule (linear warmup and decay)"
-
         model = self.model
-        no_decay = ["bias", "LayerNorm.weight"]
-        optimizer_grouped_parameters = [
-            {
-                "params": [p for n, p in model.named_parameters() if not any(nd in n for nd in no_decay)],
-                "weight_decay": self.config['weight_decay'],
-            },
-            {
-                "params": [p for n, p in model.named_parameters() if any(nd in n for nd in no_decay)],
-                "weight_decay": 0.0,
-            },
-        ]
-        optimizer = AdamW(optimizer_grouped_parameters, lr=self.config['lr'], eps=self.config['adam_epsilon'])
+        optimizer = Adam(model.parameters(), lr=self.config['lr'])
         self.opt = optimizer
         return [optimizer]
 
-    def optimizer_step(self,
-        epoch: int = None,
-        batch_idx: int = None,
-        optimizer: Optimizer = None,
-        optimizer_idx: int = None,
-        optimizer_closure: Optional[Callable] = None,
-        on_tpu: bool = None,
-        using_native_amp: bool = None,
-        using_lbfgs: bool = None,
-    ):
-        optimizer.step()
-        optimizer.zero_grad()
-        self.lr_scheduler.step()
-
     def get_tqdm_dict(self):
         tqdm_dict = {"loss": "{:.3f}".format(self.trainer.avg_loss), "lr": self.lr_scheduler.get_last_lr()[-1]}
-
         return tqdm_dict
 
     def train_dataloader(self):
         dataset = YesNoDataSet(csv_path=self.config.get("train_data"), tokenizer=self.tokenizer)
         dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True)
-        t_total = (
-                (len(dataset) // (self.config["batch_size"] * max(1, self.config["gpus"])))
-                // self.config["gradient_accumulation_steps"]
-                * float(self.config["max_epochs"])
-        )
-        scheduler = get_linear_schedule_with_warmup(
-            self.opt, num_warmup_steps=self.config["warmup_steps"], num_training_steps=t_total
-        )
-        self.lr_scheduler = scheduler
         return dataloader
 
     def val_dataloader(self):
         dataset = YesNoDataSet(csv_path=self.config.get("dev_data"), tokenizer=self.tokenizer)
-        dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True)
+        dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=False)
         return dataloader
 
 
 def train_model(config):
-    checkpoint_callback = pl.callbacks.ModelCheckpoint(dirpath="checkpoint",
-                                                       prefix="checkpoint", monitor="val_loss", mode="min",
-                                                       save_top_k=5,
-                                                       )
+    checkpoint_callback = pl.callbacks.ModelCheckpoint(dirpath="checkpoint", prefix="checkpoint", monitor="val_loss",
+                                                       mode="min", save_top_k=5)
     train_params = dict(
         gpus=config.get("gpus"),
         max_epochs=config.get("max_epochs", 1),
@@ -234,7 +194,7 @@ if __name__ == "__main__":
     config = {
         "train": True,
         "model_name": "t5-base",
-        "gpus": 1,
+        "gpus": 0,
         "max_epochs": 30,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
