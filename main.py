@@ -689,7 +689,7 @@ def run_generate_questions():
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
              "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "old/food", "old/furniture",
              "old/musical_instruments", "old/vehicle"]
-    # files = ['sanity']
+    files = ['sanity']
     for file in files:
         questions = generate_questions_from_csv(csv_path=f"csv/{file}.csv")
         questions = pd.DataFrame.from_dict(questions)
@@ -698,7 +698,7 @@ def run_generate_questions():
 
 if __name__ == "__main__":
     # run_summarize_results()
-    # run_generate_questions()
+    run_generate_questions()
     # filter_questions()
     # preprocess_data("food")
     # run_mc_overgeneralization_metric(test_name="beak")
@@ -713,7 +713,7 @@ if __name__ == "__main__":
     #          "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]]
     # files = [f"csv/old/{x}.csv" for x in
     #          ["furniture", "musical_instruments", "vehicle"]]
-    merge_questions(["csv/val_no_animals_and_fruits_questions.csv"], split=False, p=0.7, output_path="csv/val_no_animals_and_fruits_questions.csv")
+    # merge_questions(["csv/val_no_animals_and_fruits_questions.csv"], split=False, p=0.7, output_path="csv/val_no_animals_and_fruits_questions.csv")
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
     # mask = tokenizer.mask_token()
     # sentence = f"A {mask} lives underwater."

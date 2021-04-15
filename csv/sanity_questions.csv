@@ -1,3152 +1,1243 @@
 ,question,label
-0,does a house fly?,No
-1,can a house fly?,No
-2,a house flys.,No
-3,is a house capable of flying?,No
-4,a house is capable of flying.,No
-5,does a house live underwater?,No
-6,a house lives underwater.,No
-7,does a house live in the water?,No
-8,a house lives in the water.,No
-9,does a house have a beak?,No
-10,a house has a beak.,No
-11,does a house have feathers?,No
-12,a house has feathers.,No
-13,does a house have wings?,No
-14,a house has wings.,No
-15,does a house have a wing?,No
-16,a house has a wing.,No
-17,does a house have horns?,No
-18,a house has horns.,No
-19,does a house have hair?,No
-20,a house has hair.,No
-21,does a house have fur?,No
-22,a house has fur.,No
-23,does a home fly?,No
-24,can a home fly?,No
-25,a home flys.,No
-26,is a home capable of flying?,No
-27,a home is capable of flying.,No
-28,does a home live underwater?,No
-29,a home lives underwater.,No
-30,does a home live in the water?,No
-31,a home lives in the water.,No
-32,does a home have a beak?,No
-33,a home has a beak.,No
-34,does a home have feathers?,No
-35,a home has feathers.,No
-36,does a home have wings?,No
-37,a home has wings.,No
-38,does a home have a wing?,No
-39,a home has a wing.,No
-40,does a home have horns?,No
-41,a home has horns.,No
-42,does a home have hair?,No
-43,a home has hair.,No
-44,does a home have fur?,No
-45,a home has fur.,No
-46,does a wall fly?,No
-47,can a wall fly?,No
-48,a wall flys.,No
-49,is a wall capable of flying?,No
-50,a wall is capable of flying.,No
-51,does a wall live underwater?,No
-52,a wall lives underwater.,No
-53,does a wall live in the water?,No
-54,a wall lives in the water.,No
-55,does a wall have a beak?,No
-56,a wall has a beak.,No
-57,does a wall have feathers?,No
-58,a wall has feathers.,No
-59,does a wall have wings?,No
-60,a wall has wings.,No
-61,does a wall have a wing?,No
-62,a wall has a wing.,No
-63,does a wall have horns?,No
-64,a wall has horns.,No
-65,does a wall have hair?,No
-66,a wall has hair.,No
-67,does a wall have fur?,No
-68,a wall has fur.,No
-69,does a ground fly?,No
-70,can a ground fly?,No
-71,a ground flys.,No
-72,is a ground capable of flying?,No
-73,a ground is capable of flying.,No
-74,does a ground live underwater?,No
-75,a ground lives underwater.,No
-76,does a ground live in the water?,No
-77,a ground lives in the water.,No
-78,does a ground have a beak?,No
-79,a ground has a beak.,No
-80,does a ground have feathers?,No
-81,a ground has feathers.,No
-82,does a ground have wings?,No
-83,a ground has wings.,No
-84,does a ground have a wing?,No
-85,a ground has a wing.,No
-86,does a ground have horns?,No
-87,a ground has horns.,No
-88,does a ground have hair?,No
-89,a ground has hair.,No
-90,does a ground have fur?,No
-91,a ground has fur.,No
-92,does a toilet fly?,No
-93,can a toilet fly?,No
-94,a toilet flys.,No
-95,is a toilet capable of flying?,No
-96,a toilet is capable of flying.,No
-97,does a toilet live underwater?,No
-98,a toilet lives underwater.,No
-99,does a toilet live in the water?,No
-100,a toilet lives in the water.,No
-101,does a toilet have a beak?,No
-102,a toilet has a beak.,No
-103,does a toilet have feathers?,No
-104,a toilet has feathers.,No
-105,does a toilet have wings?,No
-106,a toilet has wings.,No
-107,does a toilet have a wing?,No
-108,a toilet has a wing.,No
-109,does a toilet have horns?,No
-110,a toilet has horns.,No
-111,does a toilet have hair?,No
-112,a toilet has hair.,No
-113,does a toilet have fur?,No
-114,a toilet has fur.,No
-115,does a car fly?,No
-116,can a car fly?,No
-117,a car flys.,No
-118,is a car capable of flying?,No
-119,a car is capable of flying.,No
-120,does a car live underwater?,No
-121,a car lives underwater.,No
-122,does a car live in the water?,No
-123,a car lives in the water.,No
-124,does a car have a beak?,No
-125,a car has a beak.,No
-126,does a car have feathers?,No
-127,a car has feathers.,No
-128,does a car have wings?,No
-129,a car has wings.,No
-130,does a car have a wing?,No
-131,a car has a wing.,No
-132,does a car have horns?,No
-133,a car has horns.,No
-134,does a car have hair?,No
-135,a car has hair.,No
-136,does a car have fur?,No
-137,a car has fur.,No
-138,does a bus fly?,No
-139,can a bus fly?,No
-140,a bus flys.,No
-141,is a bus capable of flying?,No
-142,a bus is capable of flying.,No
-143,does a bus live underwater?,No
-144,a bus lives underwater.,No
-145,does a bus live in the water?,No
-146,a bus lives in the water.,No
-147,does a bus have a beak?,No
-148,a bus has a beak.,No
-149,does a bus have feathers?,No
-150,a bus has feathers.,No
-151,does a bus have wings?,No
-152,a bus has wings.,No
-153,does a bus have a wing?,No
-154,a bus has a wing.,No
-155,does a bus have horns?,No
-156,a bus has horns.,No
-157,does a bus have hair?,No
-158,a bus has hair.,No
-159,does a bus have fur?,No
-160,a bus has fur.,No
-161,does a truck fly?,No
-162,can a truck fly?,No
-163,a truck flys.,No
-164,is a truck capable of flying?,No
-165,a truck is capable of flying.,No
-166,does a truck live underwater?,No
-167,a truck lives underwater.,No
-168,does a truck live in the water?,No
-169,a truck lives in the water.,No
-170,does a truck have a beak?,No
-171,a truck has a beak.,No
-172,does a truck have feathers?,No
-173,a truck has feathers.,No
-174,does a truck have wings?,No
-175,a truck has wings.,No
-176,does a truck have a wing?,No
-177,a truck has a wing.,No
-178,does a truck have horns?,No
-179,a truck has horns.,No
-180,does a truck have hair?,No
-181,a truck has hair.,No
-182,does a truck have fur?,No
-183,a truck has fur.,No
-184,does a bike fly?,No
-185,can a bike fly?,No
-186,a bike flys.,No
-187,is a bike capable of flying?,No
-188,a bike is capable of flying.,No
-189,does a bike live underwater?,No
-190,a bike lives underwater.,No
-191,does a bike live in the water?,No
-192,a bike lives in the water.,No
-193,does a bike have a beak?,No
-194,a bike has a beak.,No
-195,does a bike have feathers?,No
-196,a bike has feathers.,No
-197,does a bike have wings?,No
-198,a bike has wings.,No
-199,does a bike have a wing?,No
-200,a bike has a wing.,No
-201,does a bike have horns?,No
-202,a bike has horns.,No
-203,does a bike have hair?,No
-204,a bike has hair.,No
-205,does a bike have fur?,No
-206,a bike has fur.,No
-207,does a lamp fly?,No
-208,can a lamp fly?,No
-209,a lamp flys.,No
-210,is a lamp capable of flying?,No
-211,a lamp is capable of flying.,No
-212,does a lamp live underwater?,No
-213,a lamp lives underwater.,No
-214,does a lamp live in the water?,No
-215,a lamp lives in the water.,No
-216,does a lamp have a beak?,No
-217,a lamp has a beak.,No
-218,does a lamp have feathers?,No
-219,a lamp has feathers.,No
-220,does a lamp have wings?,No
-221,a lamp has wings.,No
-222,does a lamp have a wing?,No
-223,a lamp has a wing.,No
-224,does a lamp have horns?,No
-225,a lamp has horns.,No
-226,does a lamp have hair?,No
-227,a lamp has hair.,No
-228,does a lamp have fur?,No
-229,a lamp has fur.,No
-230,does a shirt fly?,No
-231,can a shirt fly?,No
-232,a shirt flys.,No
-233,is a shirt capable of flying?,No
-234,a shirt is capable of flying.,No
-235,does a shirt live underwater?,No
-236,a shirt lives underwater.,No
-237,does a shirt live in the water?,No
-238,a shirt lives in the water.,No
-239,does a shirt have a beak?,No
-240,a shirt has a beak.,No
-241,does a shirt have feathers?,No
-242,a shirt has feathers.,No
-243,does a shirt have wings?,No
-244,a shirt has wings.,No
-245,does a shirt have a wing?,No
-246,a shirt has a wing.,No
-247,does a shirt have horns?,No
-248,a shirt has horns.,No
-249,does a shirt have hair?,No
-250,a shirt has hair.,No
-251,does a shirt have fur?,No
-252,a shirt has fur.,No
-253,does a pants fly?,No
-254,can a pants fly?,No
-255,a pants flys.,No
-256,is a pants capable of flying?,No
-257,a pants is capable of flying.,No
-258,does a pants live underwater?,No
-259,a pants lives underwater.,No
-260,does a pants live in the water?,No
-261,a pants lives in the water.,No
-262,does a pants have a beak?,No
-263,a pants has a beak.,No
-264,does a pants have feathers?,No
-265,a pants has feathers.,No
-266,does a pants have wings?,No
-267,a pants has wings.,No
-268,does a pants have a wing?,No
-269,a pants has a wing.,No
-270,does a pants have horns?,No
-271,a pants has horns.,No
-272,does a pants have hair?,No
-273,a pants has hair.,No
-274,does a pants have fur?,No
-275,a pants has fur.,No
-276,does a table fly?,No
-277,can a table fly?,No
-278,a table flys.,No
-279,is a table capable of flying?,No
-280,a table is capable of flying.,No
-281,does a table live underwater?,No
-282,a table lives underwater.,No
-283,does a table live in the water?,No
-284,a table lives in the water.,No
-285,does a table have a beak?,No
-286,a table has a beak.,No
-287,does a table have feathers?,No
-288,a table has feathers.,No
-289,does a table have wings?,No
-290,a table has wings.,No
-291,does a table have a wing?,No
-292,a table has a wing.,No
-293,does a table have horns?,No
-294,a table has horns.,No
-295,does a table have hair?,No
-296,a table has hair.,No
-297,does a table have fur?,No
-298,a table has fur.,No
-299,does a television fly?,No
-300,can a television fly?,No
-301,a television flys.,No
-302,is a television capable of flying?,No
-303,a television is capable of flying.,No
-304,does a television live underwater?,No
-305,a television lives underwater.,No
-306,does a television live in the water?,No
-307,a television lives in the water.,No
-308,does a television have a beak?,No
-309,a television has a beak.,No
-310,does a television have feathers?,No
-311,a television has feathers.,No
-312,does a television have wings?,No
-313,a television has wings.,No
-314,does a television have a wing?,No
-315,a television has a wing.,No
-316,does a television have horns?,No
-317,a television has horns.,No
-318,does a television have hair?,No
-319,a television has hair.,No
-320,does a television have fur?,No
-321,a television has fur.,No
-322,does a plant fly?,No
-323,can a plant fly?,No
-324,a plant flys.,No
-325,is a plant capable of flying?,No
-326,a plant is capable of flying.,No
-327,does a plant live underwater?,No
-328,a plant lives underwater.,No
-329,does a plant live in the water?,No
-330,a plant lives in the water.,No
-331,does a plant have a beak?,No
-332,a plant has a beak.,No
-333,does a plant have feathers?,No
-334,a plant has feathers.,No
-335,does a plant have wings?,No
-336,a plant has wings.,No
-337,does a plant have a wing?,No
-338,a plant has a wing.,No
-339,does a plant have horns?,No
-340,a plant has horns.,No
-341,does a plant have hair?,No
-342,a plant has hair.,No
-343,does a plant have fur?,No
-344,a plant has fur.,No
-345,does a tree fly?,No
-346,can a tree fly?,No
-347,a tree flys.,No
-348,is a tree capable of flying?,No
-349,a tree is capable of flying.,No
-350,does a tree live underwater?,No
-351,a tree lives underwater.,No
-352,does a tree live in the water?,No
-353,a tree lives in the water.,No
-354,does a tree have a beak?,No
-355,a tree has a beak.,No
-356,does a tree have feathers?,No
-357,a tree has feathers.,No
-358,does a tree have wings?,No
-359,a tree has wings.,No
-360,does a tree have a wing?,No
-361,a tree has a wing.,No
-362,does a tree have horns?,No
-363,a tree has horns.,No
-364,does a tree have hair?,No
-365,a tree has hair.,No
-366,does a tree have fur?,No
-367,a tree has fur.,No
-368,does a flower fly?,No
-369,can a flower fly?,No
-370,a flower flys.,No
-371,is a flower capable of flying?,No
-372,a flower is capable of flying.,No
-373,does a flower live underwater?,No
-374,a flower lives underwater.,No
-375,does a flower live in the water?,No
-376,a flower lives in the water.,No
-377,does a flower have a beak?,No
-378,a flower has a beak.,No
-379,does a flower have feathers?,No
-380,a flower has feathers.,No
-381,does a flower have wings?,No
-382,a flower has wings.,No
-383,does a flower have a wing?,No
-384,a flower has a wing.,No
-385,does a flower have horns?,No
-386,a flower has horns.,No
-387,does a flower have hair?,No
-388,a flower has hair.,No
-389,does a flower have fur?,No
-390,a flower has fur.,No
-391,does a spoon fly?,No
-392,can a spoon fly?,No
-393,a spoon flys.,No
-394,is a spoon capable of flying?,No
-395,a spoon is capable of flying.,No
-396,does a spoon live underwater?,No
-397,a spoon lives underwater.,No
-398,does a spoon live in the water?,No
-399,a spoon lives in the water.,No
-400,does a spoon have a beak?,No
-401,a spoon has a beak.,No
-402,does a spoon have feathers?,No
-403,a spoon has feathers.,No
-404,does a spoon have wings?,No
-405,a spoon has wings.,No
-406,does a spoon have a wing?,No
-407,a spoon has a wing.,No
-408,does a spoon have horns?,No
-409,a spoon has horns.,No
-410,does a spoon have hair?,No
-411,a spoon has hair.,No
-412,does a spoon have fur?,No
-413,a spoon has fur.,No
-414,does a plate fly?,No
-415,can a plate fly?,No
-416,a plate flys.,No
-417,is a plate capable of flying?,No
-418,a plate is capable of flying.,No
-419,does a plate live underwater?,No
-420,a plate lives underwater.,No
-421,does a plate live in the water?,No
-422,a plate lives in the water.,No
-423,does a plate have a beak?,No
-424,a plate has a beak.,No
-425,does a plate have feathers?,No
-426,a plate has feathers.,No
-427,does a plate have wings?,No
-428,a plate has wings.,No
-429,does a plate have a wing?,No
-430,a plate has a wing.,No
-431,does a plate have horns?,No
-432,a plate has horns.,No
-433,does a plate have hair?,No
-434,a plate has hair.,No
-435,does a plate have fur?,No
-436,a plate has fur.,No
-437,does a skateboard fly?,No
-438,can a skateboard fly?,No
-439,a skateboard flys.,No
-440,is a skateboard capable of flying?,No
-441,a skateboard is capable of flying.,No
-442,does a skateboard live underwater?,No
-443,a skateboard lives underwater.,No
-444,does a skateboard live in the water?,No
-445,a skateboard lives in the water.,No
-446,does a skateboard have a beak?,No
-447,a skateboard has a beak.,No
-448,does a skateboard have feathers?,No
-449,a skateboard has feathers.,No
-450,does a skateboard have wings?,No
-451,a skateboard has wings.,No
-452,does a skateboard have a wing?,No
-453,a skateboard has a wing.,No
-454,does a skateboard have horns?,No
-455,a skateboard has horns.,No
-456,does a skateboard have hair?,No
-457,a skateboard has hair.,No
-458,does a skateboard have fur?,No
-459,a skateboard has fur.,No
-460,does a surfboard fly?,No
-461,can a surfboard fly?,No
-462,a surfboard flys.,No
-463,is a surfboard capable of flying?,No
-464,a surfboard is capable of flying.,No
-465,does a surfboard live underwater?,No
-466,a surfboard lives underwater.,No
-467,does a surfboard live in the water?,No
-468,a surfboard lives in the water.,No
-469,does a surfboard have a beak?,No
-470,a surfboard has a beak.,No
-471,does a surfboard have feathers?,No
-472,a surfboard has feathers.,No
-473,does a surfboard have wings?,No
-474,a surfboard has wings.,No
-475,does a surfboard have a wing?,No
-476,a surfboard has a wing.,No
-477,does a surfboard have horns?,No
-478,a surfboard has horns.,No
-479,does a surfboard have hair?,No
-480,a surfboard has hair.,No
-481,does a surfboard have fur?,No
-482,a surfboard has fur.,No
-483,does a screen fly?,No
-484,can a screen fly?,No
-485,a screen flys.,No
-486,is a screen capable of flying?,No
-487,a screen is capable of flying.,No
-488,does a screen live underwater?,No
-489,a screen lives underwater.,No
-490,does a screen live in the water?,No
-491,a screen lives in the water.,No
-492,does a screen have a beak?,No
-493,a screen has a beak.,No
-494,does a screen have feathers?,No
-495,a screen has feathers.,No
-496,does a screen have wings?,No
-497,a screen has wings.,No
-498,does a screen have a wing?,No
-499,a screen has a wing.,No
-500,does a screen have horns?,No
-501,a screen has horns.,No
-502,does a screen have hair?,No
-503,a screen has hair.,No
-504,does a screen have fur?,No
-505,a screen has fur.,No
-506,does a phone fly?,No
-507,can a phone fly?,No
-508,a phone flys.,No
-509,is a phone capable of flying?,No
-510,a phone is capable of flying.,No
-511,does a phone live underwater?,No
-512,a phone lives underwater.,No
-513,does a phone live in the water?,No
-514,a phone lives in the water.,No
-515,does a phone have a beak?,No
-516,a phone has a beak.,No
-517,does a phone have feathers?,No
-518,a phone has feathers.,No
-519,does a phone have wings?,No
-520,a phone has wings.,No
-521,does a phone have a wing?,No
-522,a phone has a wing.,No
-523,does a phone have horns?,No
-524,a phone has horns.,No
-525,does a phone have hair?,No
-526,a phone has hair.,No
-527,does a phone have fur?,No
-528,a phone has fur.,No
-529,does a headpone fly?,No
-530,can a headpone fly?,No
-531,a headpone flys.,No
-532,is a headpone capable of flying?,No
-533,a headpone is capable of flying.,No
-534,does a headpone live underwater?,No
-535,a headpone lives underwater.,No
-536,does a headpone live in the water?,No
-537,a headpone lives in the water.,No
-538,does a headpone have a beak?,No
-539,a headpone has a beak.,No
-540,does a headpone have feathers?,No
-541,a headpone has feathers.,No
-542,does a headpone have wings?,No
-543,a headpone has wings.,No
-544,does a headpone have a wing?,No
-545,a headpone has a wing.,No
-546,does a headpone have horns?,No
-547,a headpone has horns.,No
-548,does a headpone have hair?,No
-549,a headpone has hair.,No
-550,does a headpone have fur?,No
-551,a headpone has fur.,No
-552,does a microphone fly?,No
-553,can a microphone fly?,No
-554,a microphone flys.,No
-555,is a microphone capable of flying?,No
-556,a microphone is capable of flying.,No
-557,does a microphone live underwater?,No
-558,a microphone lives underwater.,No
-559,does a microphone live in the water?,No
-560,a microphone lives in the water.,No
-561,does a microphone have a beak?,No
-562,a microphone has a beak.,No
-563,does a microphone have feathers?,No
-564,a microphone has feathers.,No
-565,does a microphone have wings?,No
-566,a microphone has wings.,No
-567,does a microphone have a wing?,No
-568,a microphone has a wing.,No
-569,does a microphone have horns?,No
-570,a microphone has horns.,No
-571,does a microphone have hair?,No
-572,a microphone has hair.,No
-573,does a microphone have fur?,No
-574,a microphone has fur.,No
-575,does a pan fly?,No
-576,can a pan fly?,No
-577,a pan flys.,No
-578,is a pan capable of flying?,No
-579,a pan is capable of flying.,No
-580,does a pan live underwater?,No
-581,a pan lives underwater.,No
-582,does a pan live in the water?,No
-583,a pan lives in the water.,No
-584,does a pan have a beak?,No
-585,a pan has a beak.,No
-586,does a pan have feathers?,No
-587,a pan has feathers.,No
-588,does a pan have wings?,No
-589,a pan has wings.,No
-590,does a pan have a wing?,No
-591,a pan has a wing.,No
-592,does a pan have horns?,No
-593,a pan has horns.,No
-594,does a pan have hair?,No
-595,a pan has hair.,No
-596,does a pan have fur?,No
-597,a pan has fur.,No
-598,does a pencil fly?,No
-599,can a pencil fly?,No
-600,a pencil flys.,No
-601,is a pencil capable of flying?,No
-602,a pencil is capable of flying.,No
-603,does a pencil live underwater?,No
-604,a pencil lives underwater.,No
-605,does a pencil live in the water?,No
-606,a pencil lives in the water.,No
-607,does a pencil have a beak?,No
-608,a pencil has a beak.,No
-609,does a pencil have feathers?,No
-610,a pencil has feathers.,No
-611,does a pencil have wings?,No
-612,a pencil has wings.,No
-613,does a pencil have a wing?,No
-614,a pencil has a wing.,No
-615,does a pencil have horns?,No
-616,a pencil has horns.,No
-617,does a pencil have hair?,No
-618,a pencil has hair.,No
-619,does a pencil have fur?,No
-620,a pencil has fur.,No
-621,does a charger fly?,No
-622,can a charger fly?,No
-623,a charger flys.,No
-624,is a charger capable of flying?,No
-625,a charger is capable of flying.,No
-626,does a charger live underwater?,No
-627,a charger lives underwater.,No
-628,does a charger live in the water?,No
-629,a charger lives in the water.,No
-630,does a charger have a beak?,No
-631,a charger has a beak.,No
-632,does a charger have feathers?,No
-633,a charger has feathers.,No
-634,does a charger have wings?,No
-635,a charger has wings.,No
-636,does a charger have a wing?,No
-637,a charger has a wing.,No
-638,does a charger have horns?,No
-639,a charger has horns.,No
-640,does a charger have hair?,No
-641,a charger has hair.,No
-642,does a charger have fur?,No
-643,a charger has fur.,No
-644,does a key fly?,No
-645,can a key fly?,No
-646,a key flys.,No
-647,is a key capable of flying?,No
-648,a key is capable of flying.,No
-649,does a key live underwater?,No
-650,a key lives underwater.,No
-651,does a key live in the water?,No
-652,a key lives in the water.,No
-653,does a key have a beak?,No
-654,a key has a beak.,No
-655,does a key have feathers?,No
-656,a key has feathers.,No
-657,does a key have wings?,No
-658,a key has wings.,No
-659,does a key have a wing?,No
-660,a key has a wing.,No
-661,does a key have horns?,No
-662,a key has horns.,No
-663,does a key have hair?,No
-664,a key has hair.,No
-665,does a key have fur?,No
-666,a key has fur.,No
-667,does a door fly?,No
-668,can a door fly?,No
-669,a door flys.,No
-670,is a door capable of flying?,No
-671,a door is capable of flying.,No
-672,does a door live underwater?,No
-673,a door lives underwater.,No
-674,does a door live in the water?,No
-675,a door lives in the water.,No
-676,does a door have a beak?,No
-677,a door has a beak.,No
-678,does a door have feathers?,No
-679,a door has feathers.,No
-680,does a door have wings?,No
-681,a door has wings.,No
-682,does a door have a wing?,No
-683,a door has a wing.,No
-684,does a door have horns?,No
-685,a door has horns.,No
-686,does a door have hair?,No
-687,a door has hair.,No
-688,does a door have fur?,No
-689,a door has fur.,No
-690,does a wine fly?,No
-691,can a wine fly?,No
-692,a wine flys.,No
-693,is a wine capable of flying?,No
-694,a wine is capable of flying.,No
-695,does a wine live underwater?,No
-696,a wine lives underwater.,No
-697,does a wine live in the water?,No
-698,a wine lives in the water.,No
-699,does a wine have a beak?,No
-700,a wine has a beak.,No
-701,does a wine have feathers?,No
-702,a wine has feathers.,No
-703,does a wine have wings?,No
-704,a wine has wings.,No
-705,does a wine have a wing?,No
-706,a wine has a wing.,No
-707,does a wine have horns?,No
-708,a wine has horns.,No
-709,does a wine have hair?,No
-710,a wine has hair.,No
-711,does a wine have fur?,No
-712,a wine has fur.,No
-713,does a cheese fly?,No
-714,can a cheese fly?,No
-715,a cheese flys.,No
-716,is a cheese capable of flying?,No
-717,a cheese is capable of flying.,No
-718,does a cheese live underwater?,No
-719,a cheese lives underwater.,No
-720,does a cheese live in the water?,No
-721,a cheese lives in the water.,No
-722,does a cheese have a beak?,No
-723,a cheese has a beak.,No
-724,does a cheese have feathers?,No
-725,a cheese has feathers.,No
-726,does a cheese have wings?,No
-727,a cheese has wings.,No
-728,does a cheese have a wing?,No
-729,a cheese has a wing.,No
-730,does a cheese have horns?,No
-731,a cheese has horns.,No
-732,does a cheese have hair?,No
-733,a cheese has hair.,No
-734,does a cheese have fur?,No
-735,a cheese has fur.,No
-736,does a meat fly?,No
-737,can a meat fly?,No
-738,a meat flys.,No
-739,is a meat capable of flying?,No
-740,a meat is capable of flying.,No
-741,does a meat live underwater?,No
-742,a meat lives underwater.,No
-743,does a meat live in the water?,No
-744,a meat lives in the water.,No
-745,does a meat have a beak?,No
-746,a meat has a beak.,No
-747,does a meat have feathers?,No
-748,a meat has feathers.,No
-749,does a meat have wings?,No
-750,a meat has wings.,No
-751,does a meat have a wing?,No
-752,a meat has a wing.,No
-753,does a meat have horns?,No
-754,a meat has horns.,No
-755,does a meat have hair?,No
-756,a meat has hair.,No
-757,does a meat have fur?,No
-758,a meat has fur.,No
-759,does a milk fly?,No
-760,can a milk fly?,No
-761,a milk flys.,No
-762,is a milk capable of flying?,No
-763,a milk is capable of flying.,No
-764,does a milk live underwater?,No
-765,a milk lives underwater.,No
-766,does a milk live in the water?,No
-767,a milk lives in the water.,No
-768,does a milk have a beak?,No
-769,a milk has a beak.,No
-770,does a milk have feathers?,No
-771,a milk has feathers.,No
-772,does a milk have wings?,No
-773,a milk has wings.,No
-774,does a milk have a wing?,No
-775,a milk has a wing.,No
-776,does a milk have horns?,No
-777,a milk has horns.,No
-778,does a milk have hair?,No
-779,a milk has hair.,No
-780,does a milk have fur?,No
-781,a milk has fur.,No
-782,does a water fly?,No
-783,can a water fly?,No
-784,a water flys.,No
-785,is a water capable of flying?,No
-786,a water is capable of flying.,No
-787,does a water live underwater?,No
-788,a water lives underwater.,No
-789,does a water live in the water?,No
-790,a water lives in the water.,No
-791,does a water have a beak?,No
-792,a water has a beak.,No
-793,does a water have feathers?,No
-794,a water has feathers.,No
-795,does a water have wings?,No
-796,a water has wings.,No
-797,does a water have a wing?,No
-798,a water has a wing.,No
-799,does a water have horns?,No
-800,a water has horns.,No
-801,does a water have hair?,No
-802,a water has hair.,No
-803,does a water have fur?,No
-804,a water has fur.,No
-805,does a beer fly?,No
-806,can a beer fly?,No
-807,a beer flys.,No
-808,is a beer capable of flying?,No
-809,a beer is capable of flying.,No
-810,does a beer live underwater?,No
-811,a beer lives underwater.,No
-812,does a beer live in the water?,No
-813,a beer lives in the water.,No
-814,does a beer have a beak?,No
-815,a beer has a beak.,No
-816,does a beer have feathers?,No
-817,a beer has feathers.,No
-818,does a beer have wings?,No
-819,a beer has wings.,No
-820,does a beer have a wing?,No
-821,a beer has a wing.,No
-822,does a beer have horns?,No
-823,a beer has horns.,No
-824,does a beer have hair?,No
-825,a beer has hair.,No
-826,does a beer have fur?,No
-827,a beer has fur.,No
-828,does a sock fly?,No
-829,can a sock fly?,No
-830,a sock flys.,No
-831,is a sock capable of flying?,No
-832,a sock is capable of flying.,No
-833,does a sock live underwater?,No
-834,a sock lives underwater.,No
-835,does a sock live in the water?,No
-836,a sock lives in the water.,No
-837,does a sock have a beak?,No
-838,a sock has a beak.,No
-839,does a sock have feathers?,No
-840,a sock has feathers.,No
-841,does a sock have wings?,No
-842,a sock has wings.,No
-843,does a sock have a wing?,No
-844,a sock has a wing.,No
-845,does a sock have horns?,No
-846,a sock has horns.,No
-847,does a sock have hair?,No
-848,a sock has hair.,No
-849,does a sock have fur?,No
-850,a sock has fur.,No
-851,does a bed fly?,No
-852,can a bed fly?,No
-853,a bed flys.,No
-854,is a bed capable of flying?,No
-855,a bed is capable of flying.,No
-856,does a bed live underwater?,No
-857,a bed lives underwater.,No
-858,does a bed live in the water?,No
-859,a bed lives in the water.,No
-860,does a bed have a beak?,No
-861,a bed has a beak.,No
-862,does a bed have feathers?,No
-863,a bed has feathers.,No
-864,does a bed have wings?,No
-865,a bed has wings.,No
-866,does a bed have a wing?,No
-867,a bed has a wing.,No
-868,does a bed have horns?,No
-869,a bed has horns.,No
-870,does a bed have hair?,No
-871,a bed has hair.,No
-872,does a bed have fur?,No
-873,a bed has fur.,No
-874,does a couch fly?,No
-875,can a couch fly?,No
-876,a couch flys.,No
-877,is a couch capable of flying?,No
-878,a couch is capable of flying.,No
-879,does a couch live underwater?,No
-880,a couch lives underwater.,No
-881,does a couch live in the water?,No
-882,a couch lives in the water.,No
-883,does a couch have a beak?,No
-884,a couch has a beak.,No
-885,does a couch have feathers?,No
-886,a couch has feathers.,No
-887,does a couch have wings?,No
-888,a couch has wings.,No
-889,does a couch have a wing?,No
-890,a couch has a wing.,No
-891,does a couch have horns?,No
-892,a couch has horns.,No
-893,does a couch have hair?,No
-894,a couch has hair.,No
-895,does a couch have fur?,No
-896,a couch has fur.,No
-897,does a iphone fly?,No
-898,can a iphone fly?,No
-899,a iphone flys.,No
-900,is a iphone capable of flying?,No
-901,a iphone is capable of flying.,No
-902,does a iphone live underwater?,No
-903,a iphone lives underwater.,No
-904,does a iphone live in the water?,No
-905,a iphone lives in the water.,No
-906,does a iphone have a beak?,No
-907,a iphone has a beak.,No
-908,does a iphone have feathers?,No
-909,a iphone has feathers.,No
-910,does a iphone have wings?,No
-911,a iphone has wings.,No
-912,does a iphone have a wing?,No
-913,a iphone has a wing.,No
-914,does a iphone have horns?,No
-915,a iphone has horns.,No
-916,does a iphone have hair?,No
-917,a iphone has hair.,No
-918,does a iphone have fur?,No
-919,a iphone has fur.,No
-920,does a chair fly?,No
-921,can a chair fly?,No
-922,a chair flys.,No
-923,is a chair capable of flying?,No
-924,a chair is capable of flying.,No
-925,does a chair live underwater?,No
-926,a chair lives underwater.,No
-927,does a chair live in the water?,No
-928,a chair lives in the water.,No
-929,does a chair have a beak?,No
-930,a chair has a beak.,No
-931,does a chair have feathers?,No
-932,a chair has feathers.,No
-933,does a chair have wings?,No
-934,a chair has wings.,No
-935,does a chair have a wing?,No
-936,a chair has a wing.,No
-937,does a chair have horns?,No
-938,a chair has horns.,No
-939,does a chair have hair?,No
-940,a chair has hair.,No
-941,does a chair have fur?,No
-942,a chair has fur.,No
-943,does a calculator fly?,No
-944,can a calculator fly?,No
-945,a calculator flys.,No
-946,is a calculator capable of flying?,No
-947,a calculator is capable of flying.,No
-948,does a calculator live underwater?,No
-949,a calculator lives underwater.,No
-950,does a calculator live in the water?,No
-951,a calculator lives in the water.,No
-952,does a calculator have a beak?,No
-953,a calculator has a beak.,No
-954,does a calculator have feathers?,No
-955,a calculator has feathers.,No
-956,does a calculator have wings?,No
-957,a calculator has wings.,No
-958,does a calculator have a wing?,No
-959,a calculator has a wing.,No
-960,does a calculator have horns?,No
-961,a calculator has horns.,No
-962,does a calculator have hair?,No
-963,a calculator has hair.,No
-964,does a calculator have fur?,No
-965,a calculator has fur.,No
-966,does a sunglasses fly?,No
-967,can a sunglasses fly?,No
-968,a sunglasses flys.,No
-969,is a sunglasses capable of flying?,No
-970,a sunglasses is capable of flying.,No
-971,does a sunglasses live underwater?,No
-972,a sunglasses lives underwater.,No
-973,does a sunglasses live in the water?,No
-974,a sunglasses lives in the water.,No
-975,does a sunglasses have a beak?,No
-976,a sunglasses has a beak.,No
-977,does a sunglasses have feathers?,No
-978,a sunglasses has feathers.,No
-979,does a sunglasses have wings?,No
-980,a sunglasses has wings.,No
-981,does a sunglasses have a wing?,No
-982,a sunglasses has a wing.,No
-983,does a sunglasses have horns?,No
-984,a sunglasses has horns.,No
-985,does a sunglasses have hair?,No
-986,a sunglasses has hair.,No
-987,does a sunglasses have fur?,No
-988,a sunglasses has fur.,No
-989,does a glasses fly?,No
-990,can a glasses fly?,No
-991,a glasses flys.,No
-992,is a glasses capable of flying?,No
-993,a glasses is capable of flying.,No
-994,does a glasses live underwater?,No
-995,a glasses lives underwater.,No
-996,does a glasses live in the water?,No
-997,a glasses lives in the water.,No
-998,does a glasses have a beak?,No
-999,a glasses has a beak.,No
-1000,does a glasses have feathers?,No
-1001,a glasses has feathers.,No
-1002,does a glasses have wings?,No
-1003,a glasses has wings.,No
-1004,does a glasses have a wing?,No
-1005,a glasses has a wing.,No
-1006,does a glasses have horns?,No
-1007,a glasses has horns.,No
-1008,does a glasses have hair?,No
-1009,a glasses has hair.,No
-1010,does a glasses have fur?,No
-1011,a glasses has fur.,No
-1012,does a coffee fly?,No
-1013,can a coffee fly?,No
-1014,a coffee flys.,No
-1015,is a coffee capable of flying?,No
-1016,a coffee is capable of flying.,No
-1017,does a coffee live underwater?,No
-1018,a coffee lives underwater.,No
-1019,does a coffee live in the water?,No
-1020,a coffee lives in the water.,No
-1021,does a coffee have a beak?,No
-1022,a coffee has a beak.,No
-1023,does a coffee have feathers?,No
-1024,a coffee has feathers.,No
-1025,does a coffee have wings?,No
-1026,a coffee has wings.,No
-1027,does a coffee have a wing?,No
-1028,a coffee has a wing.,No
-1029,does a coffee have horns?,No
-1030,a coffee has horns.,No
-1031,does a coffee have hair?,No
-1032,a coffee has hair.,No
-1033,does a coffee have fur?,No
-1034,a coffee has fur.,No
-1035,does a mug fly?,No
-1036,can a mug fly?,No
-1037,a mug flys.,No
-1038,is a mug capable of flying?,No
-1039,a mug is capable of flying.,No
-1040,does a mug live underwater?,No
-1041,a mug lives underwater.,No
-1042,does a mug live in the water?,No
-1043,a mug lives in the water.,No
-1044,does a mug have a beak?,No
-1045,a mug has a beak.,No
-1046,does a mug have feathers?,No
-1047,a mug has feathers.,No
-1048,does a mug have wings?,No
-1049,a mug has wings.,No
-1050,does a mug have a wing?,No
-1051,a mug has a wing.,No
-1052,does a mug have horns?,No
-1053,a mug has horns.,No
-1054,does a mug have hair?,No
-1055,a mug has hair.,No
-1056,does a mug have fur?,No
-1057,a mug has fur.,No
-1058,does a computer fly?,No
-1059,can a computer fly?,No
-1060,a computer flys.,No
-1061,is a computer capable of flying?,No
-1062,a computer is capable of flying.,No
-1063,does a computer live underwater?,No
-1064,a computer lives underwater.,No
-1065,does a computer live in the water?,No
-1066,a computer lives in the water.,No
-1067,does a computer have a beak?,No
-1068,a computer has a beak.,No
-1069,does a computer have feathers?,No
-1070,a computer has feathers.,No
-1071,does a computer have wings?,No
-1072,a computer has wings.,No
-1073,does a computer have a wing?,No
-1074,a computer has a wing.,No
-1075,does a computer have horns?,No
-1076,a computer has horns.,No
-1077,does a computer have hair?,No
-1078,a computer has hair.,No
-1079,does a computer have fur?,No
-1080,a computer has fur.,No
-1081,does a laptop fly?,No
-1082,can a laptop fly?,No
-1083,a laptop flys.,No
-1084,is a laptop capable of flying?,No
-1085,a laptop is capable of flying.,No
-1086,does a laptop live underwater?,No
-1087,a laptop lives underwater.,No
-1088,does a laptop live in the water?,No
-1089,a laptop lives in the water.,No
-1090,does a laptop have a beak?,No
-1091,a laptop has a beak.,No
-1092,does a laptop have feathers?,No
-1093,a laptop has feathers.,No
-1094,does a laptop have wings?,No
-1095,a laptop has wings.,No
-1096,does a laptop have a wing?,No
-1097,a laptop has a wing.,No
-1098,does a laptop have horns?,No
-1099,a laptop has horns.,No
-1100,does a laptop have hair?,No
-1101,a laptop has hair.,No
-1102,does a laptop have fur?,No
-1103,a laptop has fur.,No
-1104,does a grill fly?,No
-1105,can a grill fly?,No
-1106,a grill flys.,No
-1107,is a grill capable of flying?,No
-1108,a grill is capable of flying.,No
-1109,does a grill live underwater?,No
-1110,a grill lives underwater.,No
-1111,does a grill live in the water?,No
-1112,a grill lives in the water.,No
-1113,does a grill have a beak?,No
-1114,a grill has a beak.,No
-1115,does a grill have feathers?,No
-1116,a grill has feathers.,No
-1117,does a grill have wings?,No
-1118,a grill has wings.,No
-1119,does a grill have a wing?,No
-1120,a grill has a wing.,No
-1121,does a grill have horns?,No
-1122,a grill has horns.,No
-1123,does a grill have hair?,No
-1124,a grill has hair.,No
-1125,does a grill have fur?,No
-1126,a grill has fur.,No
-1127,does a stone fly?,No
-1128,can a stone fly?,No
-1129,a stone flys.,No
-1130,is a stone capable of flying?,No
-1131,a stone is capable of flying.,No
-1132,does a stone live underwater?,No
-1133,a stone lives underwater.,No
-1134,does a stone live in the water?,No
-1135,a stone lives in the water.,No
-1136,does a stone have a beak?,No
-1137,a stone has a beak.,No
-1138,does a stone have feathers?,No
-1139,a stone has feathers.,No
-1140,does a stone have wings?,No
-1141,a stone has wings.,No
-1142,does a stone have a wing?,No
-1143,a stone has a wing.,No
-1144,does a stone have horns?,No
-1145,a stone has horns.,No
-1146,does a stone have hair?,No
-1147,a stone has hair.,No
-1148,does a stone have fur?,No
-1149,a stone has fur.,No
-1150,does a heart fly?,No
-1151,can a heart fly?,No
-1152,a heart flys.,No
-1153,is a heart capable of flying?,No
-1154,a heart is capable of flying.,No
-1155,does a heart live underwater?,No
-1156,a heart lives underwater.,No
-1157,does a heart live in the water?,No
-1158,a heart lives in the water.,No
-1159,does a heart have a beak?,No
-1160,a heart has a beak.,No
-1161,does a heart have feathers?,No
-1162,a heart has feathers.,No
-1163,does a heart have wings?,No
-1164,a heart has wings.,No
-1165,does a heart have a wing?,No
-1166,a heart has a wing.,No
-1167,does a heart have horns?,No
-1168,a heart has horns.,No
-1169,does a heart have hair?,No
-1170,a heart has hair.,No
-1171,does a heart have fur?,No
-1172,a heart has fur.,No
-1173,does a eair fly?,No
-1174,can a eair fly?,No
-1175,a eair flys.,No
-1176,is a eair capable of flying?,No
-1177,a eair is capable of flying.,No
-1178,does a eair live underwater?,No
-1179,a eair lives underwater.,No
-1180,does a eair live in the water?,No
-1181,a eair lives in the water.,No
-1182,does a eair have a beak?,No
-1183,a eair has a beak.,No
-1184,does a eair have feathers?,No
-1185,a eair has feathers.,No
-1186,does a eair have wings?,No
-1187,a eair has wings.,No
-1188,does a eair have a wing?,No
-1189,a eair has a wing.,No
-1190,does a eair have horns?,No
-1191,a eair has horns.,No
-1192,does a eair have hair?,No
-1193,a eair has hair.,No
-1194,does a eair have fur?,No
-1195,a eair has fur.,No
-1196,does a eye fly?,No
-1197,can a eye fly?,No
-1198,a eye flys.,No
-1199,is a eye capable of flying?,No
-1200,a eye is capable of flying.,No
-1201,does a eye live underwater?,No
-1202,a eye lives underwater.,No
-1203,does a eye live in the water?,No
-1204,a eye lives in the water.,No
-1205,does a eye have a beak?,No
-1206,a eye has a beak.,No
-1207,does a eye have feathers?,No
-1208,a eye has feathers.,No
-1209,does a eye have wings?,No
-1210,a eye has wings.,No
-1211,does a eye have a wing?,No
-1212,a eye has a wing.,No
-1213,does a eye have horns?,No
-1214,a eye has horns.,No
-1215,does a eye have hair?,No
-1216,a eye has hair.,No
-1217,does a eye have fur?,No
-1218,a eye has fur.,No
-1219,does a noise fly?,No
-1220,can a noise fly?,No
-1221,a noise flys.,No
-1222,is a noise capable of flying?,No
-1223,a noise is capable of flying.,No
-1224,does a noise live underwater?,No
-1225,a noise lives underwater.,No
-1226,does a noise live in the water?,No
-1227,a noise lives in the water.,No
-1228,does a noise have a beak?,No
-1229,a noise has a beak.,No
-1230,does a noise have feathers?,No
-1231,a noise has feathers.,No
-1232,does a noise have wings?,No
-1233,a noise has wings.,No
-1234,does a noise have a wing?,No
-1235,a noise has a wing.,No
-1236,does a noise have horns?,No
-1237,a noise has horns.,No
-1238,does a noise have hair?,No
-1239,a noise has hair.,No
-1240,does a noise have fur?,No
-1241,a noise has fur.,No
-1242,does a mouth fly?,No
-1243,can a mouth fly?,No
-1244,a mouth flys.,No
-1245,is a mouth capable of flying?,No
-1246,a mouth is capable of flying.,No
-1247,does a mouth live underwater?,No
-1248,a mouth lives underwater.,No
-1249,does a mouth live in the water?,No
-1250,a mouth lives in the water.,No
-1251,does a mouth have a beak?,No
-1252,a mouth has a beak.,No
-1253,does a mouth have feathers?,No
-1254,a mouth has feathers.,No
-1255,does a mouth have wings?,No
-1256,a mouth has wings.,No
-1257,does a mouth have a wing?,No
-1258,a mouth has a wing.,No
-1259,does a mouth have horns?,No
-1260,a mouth has horns.,No
-1261,does a mouth have hair?,No
-1262,a mouth has hair.,No
-1263,does a mouth have fur?,No
-1264,a mouth has fur.,No
-1265,does a leg fly?,No
-1266,can a leg fly?,No
-1267,a leg flys.,No
-1268,is a leg capable of flying?,No
-1269,a leg is capable of flying.,No
-1270,does a leg live underwater?,No
-1271,a leg lives underwater.,No
-1272,does a leg live in the water?,No
-1273,a leg lives in the water.,No
-1274,does a leg have a beak?,No
-1275,a leg has a beak.,No
-1276,does a leg have feathers?,No
-1277,a leg has feathers.,No
-1278,does a leg have wings?,No
-1279,a leg has wings.,No
-1280,does a leg have a wing?,No
-1281,a leg has a wing.,No
-1282,does a leg have horns?,No
-1283,a leg has horns.,No
-1284,does a leg have hair?,No
-1285,a leg has hair.,No
-1286,does a leg have fur?,No
-1287,a leg has fur.,No
-1288,does a hand fly?,No
-1289,can a hand fly?,No
-1290,a hand flys.,No
-1291,is a hand capable of flying?,No
-1292,a hand is capable of flying.,No
-1293,does a hand live underwater?,No
-1294,a hand lives underwater.,No
-1295,does a hand live in the water?,No
-1296,a hand lives in the water.,No
-1297,does a hand have a beak?,No
-1298,a hand has a beak.,No
-1299,does a hand have feathers?,No
-1300,a hand has feathers.,No
-1301,does a hand have wings?,No
-1302,a hand has wings.,No
-1303,does a hand have a wing?,No
-1304,a hand has a wing.,No
-1305,does a hand have horns?,No
-1306,a hand has horns.,No
-1307,does a hand have hair?,No
-1308,a hand has hair.,No
-1309,does a hand have fur?,No
-1310,a hand has fur.,No
-1311,does a stomach fly?,No
-1312,can a stomach fly?,No
-1313,a stomach flys.,No
-1314,is a stomach capable of flying?,No
-1315,a stomach is capable of flying.,No
-1316,does a stomach live underwater?,No
-1317,a stomach lives underwater.,No
-1318,does a stomach live in the water?,No
-1319,a stomach lives in the water.,No
-1320,does a stomach have a beak?,No
-1321,a stomach has a beak.,No
-1322,does a stomach have feathers?,No
-1323,a stomach has feathers.,No
-1324,does a stomach have wings?,No
-1325,a stomach has wings.,No
-1326,does a stomach have a wing?,No
-1327,a stomach has a wing.,No
-1328,does a stomach have horns?,No
-1329,a stomach has horns.,No
-1330,does a stomach have hair?,No
-1331,a stomach has hair.,No
-1332,does a stomach have fur?,No
-1333,a stomach has fur.,No
-1334,does a grass fly?,No
-1335,can a grass fly?,No
-1336,a grass flys.,No
-1337,is a grass capable of flying?,No
-1338,a grass is capable of flying.,No
-1339,does a grass live underwater?,No
-1340,a grass lives underwater.,No
-1341,does a grass live in the water?,No
-1342,a grass lives in the water.,No
-1343,does a grass have a beak?,No
-1344,a grass has a beak.,No
-1345,does a grass have feathers?,No
-1346,a grass has feathers.,No
-1347,does a grass have wings?,No
-1348,a grass has wings.,No
-1349,does a grass have a wing?,No
-1350,a grass has a wing.,No
-1351,does a grass have horns?,No
-1352,a grass has horns.,No
-1353,does a grass have hair?,No
-1354,a grass has hair.,No
-1355,does a grass have fur?,No
-1356,a grass has fur.,No
-1357,does a bean fly?,No
-1358,can a bean fly?,No
-1359,a bean flys.,No
-1360,is a bean capable of flying?,No
-1361,a bean is capable of flying.,No
-1362,does a bean live underwater?,No
-1363,a bean lives underwater.,No
-1364,does a bean live in the water?,No
-1365,a bean lives in the water.,No
-1366,does a bean have a beak?,No
-1367,a bean has a beak.,No
-1368,does a bean have feathers?,No
-1369,a bean has feathers.,No
-1370,does a bean have wings?,No
-1371,a bean has wings.,No
-1372,does a bean have a wing?,No
-1373,a bean has a wing.,No
-1374,does a bean have horns?,No
-1375,a bean has horns.,No
-1376,does a bean have hair?,No
-1377,a bean has hair.,No
-1378,does a bean have fur?,No
-1379,a bean has fur.,No
-1380,does a beet fly?,No
-1381,can a beet fly?,No
-1382,a beet flys.,No
-1383,is a beet capable of flying?,No
-1384,a beet is capable of flying.,No
-1385,does a beet live underwater?,No
-1386,a beet lives underwater.,No
-1387,does a beet live in the water?,No
-1388,a beet lives in the water.,No
-1389,does a beet have a beak?,No
-1390,a beet has a beak.,No
-1391,does a beet have feathers?,No
-1392,a beet has feathers.,No
-1393,does a beet have wings?,No
-1394,a beet has wings.,No
-1395,does a beet have a wing?,No
-1396,a beet has a wing.,No
-1397,does a beet have horns?,No
-1398,a beet has horns.,No
-1399,does a beet have hair?,No
-1400,a beet has hair.,No
-1401,does a beet have fur?,No
-1402,a beet has fur.,No
-1403,does a beetroot fly?,No
-1404,can a beetroot fly?,No
-1405,a beetroot flys.,No
-1406,is a beetroot capable of flying?,No
-1407,a beetroot is capable of flying.,No
-1408,does a beetroot live underwater?,No
-1409,a beetroot lives underwater.,No
-1410,does a beetroot live in the water?,No
-1411,a beetroot lives in the water.,No
-1412,does a beetroot have a beak?,No
-1413,a beetroot has a beak.,No
-1414,does a beetroot have feathers?,No
-1415,a beetroot has feathers.,No
-1416,does a beetroot have wings?,No
-1417,a beetroot has wings.,No
-1418,does a beetroot have a wing?,No
-1419,a beetroot has a wing.,No
-1420,does a beetroot have horns?,No
-1421,a beetroot has horns.,No
-1422,does a beetroot have hair?,No
-1423,a beetroot has hair.,No
-1424,does a beetroot have fur?,No
-1425,a beetroot has fur.,No
-1426,does a broccoli fly?,No
-1427,can a broccoli fly?,No
-1428,a broccoli flys.,No
-1429,is a broccoli capable of flying?,No
-1430,a broccoli is capable of flying.,No
-1431,does a broccoli live underwater?,No
-1432,a broccoli lives underwater.,No
-1433,does a broccoli live in the water?,No
-1434,a broccoli lives in the water.,No
-1435,does a broccoli have a beak?,No
-1436,a broccoli has a beak.,No
-1437,does a broccoli have feathers?,No
-1438,a broccoli has feathers.,No
-1439,does a broccoli have wings?,No
-1440,a broccoli has wings.,No
-1441,does a broccoli have a wing?,No
-1442,a broccoli has a wing.,No
-1443,does a broccoli have horns?,No
-1444,a broccoli has horns.,No
-1445,does a broccoli have hair?,No
-1446,a broccoli has hair.,No
-1447,does a broccoli have fur?,No
-1448,a broccoli has fur.,No
-1449,does a cabbage fly?,No
-1450,can a cabbage fly?,No
-1451,a cabbage flys.,No
-1452,is a cabbage capable of flying?,No
-1453,a cabbage is capable of flying.,No
-1454,does a cabbage live underwater?,No
-1455,a cabbage lives underwater.,No
-1456,does a cabbage live in the water?,No
-1457,a cabbage lives in the water.,No
-1458,does a cabbage have a beak?,No
-1459,a cabbage has a beak.,No
-1460,does a cabbage have feathers?,No
-1461,a cabbage has feathers.,No
-1462,does a cabbage have wings?,No
-1463,a cabbage has wings.,No
-1464,does a cabbage have a wing?,No
-1465,a cabbage has a wing.,No
-1466,does a cabbage have horns?,No
-1467,a cabbage has horns.,No
-1468,does a cabbage have hair?,No
-1469,a cabbage has hair.,No
-1470,does a cabbage have fur?,No
-1471,a cabbage has fur.,No
-1472,does a carrot fly?,No
-1473,can a carrot fly?,No
-1474,a carrot flys.,No
-1475,is a carrot capable of flying?,No
-1476,a carrot is capable of flying.,No
-1477,does a carrot live underwater?,No
-1478,a carrot lives underwater.,No
-1479,does a carrot live in the water?,No
-1480,a carrot lives in the water.,No
-1481,does a carrot have a beak?,No
-1482,a carrot has a beak.,No
-1483,does a carrot have feathers?,No
-1484,a carrot has feathers.,No
-1485,does a carrot have wings?,No
-1486,a carrot has wings.,No
-1487,does a carrot have a wing?,No
-1488,a carrot has a wing.,No
-1489,does a carrot have horns?,No
-1490,a carrot has horns.,No
-1491,does a carrot have hair?,No
-1492,a carrot has hair.,No
-1493,does a carrot have fur?,No
-1494,a carrot has fur.,No
-1495,does a cauliflower fly?,No
-1496,can a cauliflower fly?,No
-1497,a cauliflower flys.,No
-1498,is a cauliflower capable of flying?,No
-1499,a cauliflower is capable of flying.,No
-1500,does a cauliflower live underwater?,No
-1501,a cauliflower lives underwater.,No
-1502,does a cauliflower live in the water?,No
-1503,a cauliflower lives in the water.,No
-1504,does a cauliflower have a beak?,No
-1505,a cauliflower has a beak.,No
-1506,does a cauliflower have feathers?,No
-1507,a cauliflower has feathers.,No
-1508,does a cauliflower have wings?,No
-1509,a cauliflower has wings.,No
-1510,does a cauliflower have a wing?,No
-1511,a cauliflower has a wing.,No
-1512,does a cauliflower have horns?,No
-1513,a cauliflower has horns.,No
-1514,does a cauliflower have hair?,No
-1515,a cauliflower has hair.,No
-1516,does a cauliflower have fur?,No
-1517,a cauliflower has fur.,No
-1518,does a chili fly?,No
-1519,can a chili fly?,No
-1520,a chili flys.,No
-1521,is a chili capable of flying?,No
-1522,a chili is capable of flying.,No
-1523,does a chili live underwater?,No
-1524,a chili lives underwater.,No
-1525,does a chili live in the water?,No
-1526,a chili lives in the water.,No
-1527,does a chili have a beak?,No
-1528,a chili has a beak.,No
-1529,does a chili have feathers?,No
-1530,a chili has feathers.,No
-1531,does a chili have wings?,No
-1532,a chili has wings.,No
-1533,does a chili have a wing?,No
-1534,a chili has a wing.,No
-1535,does a chili have horns?,No
-1536,a chili has horns.,No
-1537,does a chili have hair?,No
-1538,a chili has hair.,No
-1539,does a chili have fur?,No
-1540,a chili has fur.,No
-1541,does a cushaw fly?,No
-1542,can a cushaw fly?,No
-1543,a cushaw flys.,No
-1544,is a cushaw capable of flying?,No
-1545,a cushaw is capable of flying.,No
-1546,does a cushaw live underwater?,No
-1547,a cushaw lives underwater.,No
-1548,does a cushaw live in the water?,No
-1549,a cushaw lives in the water.,No
-1550,does a cushaw have a beak?,No
-1551,a cushaw has a beak.,No
-1552,does a cushaw have feathers?,No
-1553,a cushaw has feathers.,No
-1554,does a cushaw have wings?,No
-1555,a cushaw has wings.,No
-1556,does a cushaw have a wing?,No
-1557,a cushaw has a wing.,No
-1558,does a cushaw have horns?,No
-1559,a cushaw has horns.,No
-1560,does a cushaw have hair?,No
-1561,a cushaw has hair.,No
-1562,does a cushaw have fur?,No
-1563,a cushaw has fur.,No
-1564,does a eggplant fly?,No
-1565,can a eggplant fly?,No
-1566,a eggplant flys.,No
-1567,is a eggplant capable of flying?,No
-1568,a eggplant is capable of flying.,No
-1569,does a eggplant live underwater?,No
-1570,a eggplant lives underwater.,No
-1571,does a eggplant live in the water?,No
-1572,a eggplant lives in the water.,No
-1573,does a eggplant have a beak?,No
-1574,a eggplant has a beak.,No
-1575,does a eggplant have feathers?,No
-1576,a eggplant has feathers.,No
-1577,does a eggplant have wings?,No
-1578,a eggplant has wings.,No
-1579,does a eggplant have a wing?,No
-1580,a eggplant has a wing.,No
-1581,does a eggplant have horns?,No
-1582,a eggplant has horns.,No
-1583,does a eggplant have hair?,No
-1584,a eggplant has hair.,No
-1585,does a eggplant have fur?,No
-1586,a eggplant has fur.,No
-1587,does a jalapeno fly?,No
-1588,can a jalapeno fly?,No
-1589,a jalapeno flys.,No
-1590,is a jalapeno capable of flying?,No
-1591,a jalapeno is capable of flying.,No
-1592,does a jalapeno live underwater?,No
-1593,a jalapeno lives underwater.,No
-1594,does a jalapeno live in the water?,No
-1595,a jalapeno lives in the water.,No
-1596,does a jalapeno have a beak?,No
-1597,a jalapeno has a beak.,No
-1598,does a jalapeno have feathers?,No
-1599,a jalapeno has feathers.,No
-1600,does a jalapeno have wings?,No
-1601,a jalapeno has wings.,No
-1602,does a jalapeno have a wing?,No
-1603,a jalapeno has a wing.,No
-1604,does a jalapeno have horns?,No
-1605,a jalapeno has horns.,No
-1606,does a jalapeno have hair?,No
-1607,a jalapeno has hair.,No
-1608,does a jalapeno have fur?,No
-1609,a jalapeno has fur.,No
-1610,does a kale fly?,No
-1611,can a kale fly?,No
-1612,a kale flys.,No
-1613,is a kale capable of flying?,No
-1614,a kale is capable of flying.,No
-1615,does a kale live underwater?,No
-1616,a kale lives underwater.,No
-1617,does a kale live in the water?,No
-1618,a kale lives in the water.,No
-1619,does a kale have a beak?,No
-1620,a kale has a beak.,No
-1621,does a kale have feathers?,No
-1622,a kale has feathers.,No
-1623,does a kale have wings?,No
-1624,a kale has wings.,No
-1625,does a kale have a wing?,No
-1626,a kale has a wing.,No
-1627,does a kale have horns?,No
-1628,a kale has horns.,No
-1629,does a kale have hair?,No
-1630,a kale has hair.,No
-1631,does a kale have fur?,No
-1632,a kale has fur.,No
-1633,does a kohlrabi fly?,No
-1634,can a kohlrabi fly?,No
-1635,a kohlrabi flys.,No
-1636,is a kohlrabi capable of flying?,No
-1637,a kohlrabi is capable of flying.,No
-1638,does a kohlrabi live underwater?,No
-1639,a kohlrabi lives underwater.,No
-1640,does a kohlrabi live in the water?,No
-1641,a kohlrabi lives in the water.,No
-1642,does a kohlrabi have a beak?,No
-1643,a kohlrabi has a beak.,No
-1644,does a kohlrabi have feathers?,No
-1645,a kohlrabi has feathers.,No
-1646,does a kohlrabi have wings?,No
-1647,a kohlrabi has wings.,No
-1648,does a kohlrabi have a wing?,No
-1649,a kohlrabi has a wing.,No
-1650,does a kohlrabi have horns?,No
-1651,a kohlrabi has horns.,No
-1652,does a kohlrabi have hair?,No
-1653,a kohlrabi has hair.,No
-1654,does a kohlrabi have fur?,No
-1655,a kohlrabi has fur.,No
-1656,does a lentil fly?,No
-1657,can a lentil fly?,No
-1658,a lentil flys.,No
-1659,is a lentil capable of flying?,No
-1660,a lentil is capable of flying.,No
-1661,does a lentil live underwater?,No
-1662,a lentil lives underwater.,No
-1663,does a lentil live in the water?,No
-1664,a lentil lives in the water.,No
-1665,does a lentil have a beak?,No
-1666,a lentil has a beak.,No
-1667,does a lentil have feathers?,No
-1668,a lentil has feathers.,No
-1669,does a lentil have wings?,No
-1670,a lentil has wings.,No
-1671,does a lentil have a wing?,No
-1672,a lentil has a wing.,No
-1673,does a lentil have horns?,No
-1674,a lentil has horns.,No
-1675,does a lentil have hair?,No
-1676,a lentil has hair.,No
-1677,does a lentil have fur?,No
-1678,a lentil has fur.,No
-1679,does a lettuce fly?,No
-1680,can a lettuce fly?,No
-1681,a lettuce flys.,No
-1682,is a lettuce capable of flying?,No
-1683,a lettuce is capable of flying.,No
-1684,does a lettuce live underwater?,No
-1685,a lettuce lives underwater.,No
-1686,does a lettuce live in the water?,No
-1687,a lettuce lives in the water.,No
-1688,does a lettuce have a beak?,No
-1689,a lettuce has a beak.,No
-1690,does a lettuce have feathers?,No
-1691,a lettuce has feathers.,No
-1692,does a lettuce have wings?,No
-1693,a lettuce has wings.,No
-1694,does a lettuce have a wing?,No
-1695,a lettuce has a wing.,No
-1696,does a lettuce have horns?,No
-1697,a lettuce has horns.,No
-1698,does a lettuce have hair?,No
-1699,a lettuce has hair.,No
-1700,does a lettuce have fur?,No
-1701,a lettuce has fur.,No
-1702,does a mustard fly?,No
-1703,can a mustard fly?,No
-1704,a mustard flys.,No
-1705,is a mustard capable of flying?,No
-1706,a mustard is capable of flying.,No
-1707,does a mustard live underwater?,No
-1708,a mustard lives underwater.,No
-1709,does a mustard live in the water?,No
-1710,a mustard lives in the water.,No
-1711,does a mustard have a beak?,No
-1712,a mustard has a beak.,No
-1713,does a mustard have feathers?,No
-1714,a mustard has feathers.,No
-1715,does a mustard have wings?,No
-1716,a mustard has wings.,No
-1717,does a mustard have a wing?,No
-1718,a mustard has a wing.,No
-1719,does a mustard have horns?,No
-1720,a mustard has horns.,No
-1721,does a mustard have hair?,No
-1722,a mustard has hair.,No
-1723,does a mustard have fur?,No
-1724,a mustard has fur.,No
-1725,does a pepper fly?,No
-1726,can a pepper fly?,No
-1727,a pepper flys.,No
-1728,is a pepper capable of flying?,No
-1729,a pepper is capable of flying.,No
-1730,does a pepper live underwater?,No
-1731,a pepper lives underwater.,No
-1732,does a pepper live in the water?,No
-1733,a pepper lives in the water.,No
-1734,does a pepper have a beak?,No
-1735,a pepper has a beak.,No
-1736,does a pepper have feathers?,No
-1737,a pepper has feathers.,No
-1738,does a pepper have wings?,No
-1739,a pepper has wings.,No
-1740,does a pepper have a wing?,No
-1741,a pepper has a wing.,No
-1742,does a pepper have horns?,No
-1743,a pepper has horns.,No
-1744,does a pepper have hair?,No
-1745,a pepper has hair.,No
-1746,does a pepper have fur?,No
-1747,a pepper has fur.,No
-1748,does a potato fly?,No
-1749,can a potato fly?,No
-1750,a potato flys.,No
-1751,is a potato capable of flying?,No
-1752,a potato is capable of flying.,No
-1753,does a potato live underwater?,No
-1754,a potato lives underwater.,No
-1755,does a potato live in the water?,No
-1756,a potato lives in the water.,No
-1757,does a potato have a beak?,No
-1758,a potato has a beak.,No
-1759,does a potato have feathers?,No
-1760,a potato has feathers.,No
-1761,does a potato have wings?,No
-1762,a potato has wings.,No
-1763,does a potato have a wing?,No
-1764,a potato has a wing.,No
-1765,does a potato have horns?,No
-1766,a potato has horns.,No
-1767,does a potato have hair?,No
-1768,a potato has hair.,No
-1769,does a potato have fur?,No
-1770,a potato has fur.,No
-1771,does a radish fly?,No
-1772,can a radish fly?,No
-1773,a radish flys.,No
-1774,is a radish capable of flying?,No
-1775,a radish is capable of flying.,No
-1776,does a radish live underwater?,No
-1777,a radish lives underwater.,No
-1778,does a radish live in the water?,No
-1779,a radish lives in the water.,No
-1780,does a radish have a beak?,No
-1781,a radish has a beak.,No
-1782,does a radish have feathers?,No
-1783,a radish has feathers.,No
-1784,does a radish have wings?,No
-1785,a radish has wings.,No
-1786,does a radish have a wing?,No
-1787,a radish has a wing.,No
-1788,does a radish have horns?,No
-1789,a radish has horns.,No
-1790,does a radish have hair?,No
-1791,a radish has hair.,No
-1792,does a radish have fur?,No
-1793,a radish has fur.,No
-1794,does a soy fly?,No
-1795,can a soy fly?,No
-1796,a soy flys.,No
-1797,is a soy capable of flying?,No
-1798,a soy is capable of flying.,No
-1799,does a soy live underwater?,No
-1800,a soy lives underwater.,No
-1801,does a soy live in the water?,No
-1802,a soy lives in the water.,No
-1803,does a soy have a beak?,No
-1804,a soy has a beak.,No
-1805,does a soy have feathers?,No
-1806,a soy has feathers.,No
-1807,does a soy have wings?,No
-1808,a soy has wings.,No
-1809,does a soy have a wing?,No
-1810,a soy has a wing.,No
-1811,does a soy have horns?,No
-1812,a soy has horns.,No
-1813,does a soy have hair?,No
-1814,a soy has hair.,No
-1815,does a soy have fur?,No
-1816,a soy has fur.,No
-1817,does a spinach fly?,No
-1818,can a spinach fly?,No
-1819,a spinach flys.,No
-1820,is a spinach capable of flying?,No
-1821,a spinach is capable of flying.,No
-1822,does a spinach live underwater?,No
-1823,a spinach lives underwater.,No
-1824,does a spinach live in the water?,No
-1825,a spinach lives in the water.,No
-1826,does a spinach have a beak?,No
-1827,a spinach has a beak.,No
-1828,does a spinach have feathers?,No
-1829,a spinach has feathers.,No
-1830,does a spinach have wings?,No
-1831,a spinach has wings.,No
-1832,does a spinach have a wing?,No
-1833,a spinach has a wing.,No
-1834,does a spinach have horns?,No
-1835,a spinach has horns.,No
-1836,does a spinach have hair?,No
-1837,a spinach has hair.,No
-1838,does a spinach have fur?,No
-1839,a spinach has fur.,No
-1840,does a tabasco fly?,No
-1841,can a tabasco fly?,No
-1842,a tabasco flys.,No
-1843,is a tabasco capable of flying?,No
-1844,a tabasco is capable of flying.,No
-1845,does a tabasco live underwater?,No
-1846,a tabasco lives underwater.,No
-1847,does a tabasco live in the water?,No
-1848,a tabasco lives in the water.,No
-1849,does a tabasco have a beak?,No
-1850,a tabasco has a beak.,No
-1851,does a tabasco have feathers?,No
-1852,a tabasco has feathers.,No
-1853,does a tabasco have wings?,No
-1854,a tabasco has wings.,No
-1855,does a tabasco have a wing?,No
-1856,a tabasco has a wing.,No
-1857,does a tabasco have horns?,No
-1858,a tabasco has horns.,No
-1859,does a tabasco have hair?,No
-1860,a tabasco has hair.,No
-1861,does a tabasco have fur?,No
-1862,a tabasco has fur.,No
-1863,does a tomato fly?,No
-1864,can a tomato fly?,No
-1865,a tomato flys.,No
-1866,is a tomato capable of flying?,No
-1867,a tomato is capable of flying.,No
-1868,does a tomato live underwater?,No
-1869,a tomato lives underwater.,No
-1870,does a tomato live in the water?,No
-1871,a tomato lives in the water.,No
-1872,does a tomato have a beak?,No
-1873,a tomato has a beak.,No
-1874,does a tomato have feathers?,No
-1875,a tomato has feathers.,No
-1876,does a tomato have wings?,No
-1877,a tomato has wings.,No
-1878,does a tomato have a wing?,No
-1879,a tomato has a wing.,No
-1880,does a tomato have horns?,No
-1881,a tomato has horns.,No
-1882,does a tomato have hair?,No
-1883,a tomato has hair.,No
-1884,does a tomato have fur?,No
-1885,a tomato has fur.,No
-1886,does a zucchini fly?,No
-1887,can a zucchini fly?,No
-1888,a zucchini flys.,No
-1889,is a zucchini capable of flying?,No
-1890,a zucchini is capable of flying.,No
-1891,does a zucchini live underwater?,No
-1892,a zucchini lives underwater.,No
-1893,does a zucchini live in the water?,No
-1894,a zucchini lives in the water.,No
-1895,does a zucchini have a beak?,No
-1896,a zucchini has a beak.,No
-1897,does a zucchini have feathers?,No
-1898,a zucchini has feathers.,No
-1899,does a zucchini have wings?,No
-1900,a zucchini has wings.,No
-1901,does a zucchini have a wing?,No
-1902,a zucchini has a wing.,No
-1903,does a zucchini have horns?,No
-1904,a zucchini has horns.,No
-1905,does a zucchini have hair?,No
-1906,a zucchini has hair.,No
-1907,does a zucchini have fur?,No
-1908,a zucchini has fur.,No
-1909,does a almond fly?,No
-1910,can a almond fly?,No
-1911,a almond flys.,No
-1912,is a almond capable of flying?,No
-1913,a almond is capable of flying.,No
-1914,does a almond live underwater?,No
-1915,a almond lives underwater.,No
-1916,does a almond live in the water?,No
-1917,a almond lives in the water.,No
-1918,does a almond have a beak?,No
-1919,a almond has a beak.,No
-1920,does a almond have feathers?,No
-1921,a almond has feathers.,No
-1922,does a almond have wings?,No
-1923,a almond has wings.,No
-1924,does a almond have a wing?,No
-1925,a almond has a wing.,No
-1926,does a almond have horns?,No
-1927,a almond has horns.,No
-1928,does a almond have hair?,No
-1929,a almond has hair.,No
-1930,does a almond have fur?,No
-1931,a almond has fur.,No
-1932,does a apple fly?,No
-1933,can a apple fly?,No
-1934,a apple flys.,No
-1935,is a apple capable of flying?,No
-1936,a apple is capable of flying.,No
-1937,does a apple live underwater?,No
-1938,a apple lives underwater.,No
-1939,does a apple live in the water?,No
-1940,a apple lives in the water.,No
-1941,does a apple have a beak?,No
-1942,a apple has a beak.,No
-1943,does a apple have feathers?,No
-1944,a apple has feathers.,No
-1945,does a apple have wings?,No
-1946,a apple has wings.,No
-1947,does a apple have a wing?,No
-1948,a apple has a wing.,No
-1949,does a apple have horns?,No
-1950,a apple has horns.,No
-1951,does a apple have hair?,No
-1952,a apple has hair.,No
-1953,does a apple have fur?,No
-1954,a apple has fur.,No
-1955,does a apricot fly?,No
-1956,can a apricot fly?,No
-1957,a apricot flys.,No
-1958,is a apricot capable of flying?,No
-1959,a apricot is capable of flying.,No
-1960,does a apricot live underwater?,No
-1961,a apricot lives underwater.,No
-1962,does a apricot live in the water?,No
-1963,a apricot lives in the water.,No
-1964,does a apricot have a beak?,No
-1965,a apricot has a beak.,No
-1966,does a apricot have feathers?,No
-1967,a apricot has feathers.,No
-1968,does a apricot have wings?,No
-1969,a apricot has wings.,No
-1970,does a apricot have a wing?,No
-1971,a apricot has a wing.,No
-1972,does a apricot have horns?,No
-1973,a apricot has horns.,No
-1974,does a apricot have hair?,No
-1975,a apricot has hair.,No
-1976,does a apricot have fur?,No
-1977,a apricot has fur.,No
-1978,does a avocado fly?,No
-1979,can a avocado fly?,No
-1980,a avocado flys.,No
-1981,is a avocado capable of flying?,No
-1982,a avocado is capable of flying.,No
-1983,does a avocado live underwater?,No
-1984,a avocado lives underwater.,No
-1985,does a avocado live in the water?,No
-1986,a avocado lives in the water.,No
-1987,does a avocado have a beak?,No
-1988,a avocado has a beak.,No
-1989,does a avocado have feathers?,No
-1990,a avocado has feathers.,No
-1991,does a avocado have wings?,No
-1992,a avocado has wings.,No
-1993,does a avocado have a wing?,No
-1994,a avocado has a wing.,No
-1995,does a avocado have horns?,No
-1996,a avocado has horns.,No
-1997,does a avocado have hair?,No
-1998,a avocado has hair.,No
-1999,does a avocado have fur?,No
-2000,a avocado has fur.,No
-2001,does a banana fly?,No
-2002,can a banana fly?,No
-2003,a banana flys.,No
-2004,is a banana capable of flying?,No
-2005,a banana is capable of flying.,No
-2006,does a banana live underwater?,No
-2007,a banana lives underwater.,No
-2008,does a banana live in the water?,No
-2009,a banana lives in the water.,No
-2010,does a banana have a beak?,No
-2011,a banana has a beak.,No
-2012,does a banana have feathers?,No
-2013,a banana has feathers.,No
-2014,does a banana have wings?,No
-2015,a banana has wings.,No
-2016,does a banana have a wing?,No
-2017,a banana has a wing.,No
-2018,does a banana have horns?,No
-2019,a banana has horns.,No
-2020,does a banana have hair?,No
-2021,a banana has hair.,No
-2022,does a banana have fur?,No
-2023,a banana has fur.,No
-2024,does a berry fly?,No
-2025,can a berry fly?,No
-2026,a berry flys.,No
-2027,is a berry capable of flying?,No
-2028,a berry is capable of flying.,No
-2029,does a berry live underwater?,No
-2030,a berry lives underwater.,No
-2031,does a berry live in the water?,No
-2032,a berry lives in the water.,No
-2033,does a berry have a beak?,No
-2034,a berry has a beak.,No
-2035,does a berry have feathers?,No
-2036,a berry has feathers.,No
-2037,does a berry have wings?,No
-2038,a berry has wings.,No
-2039,does a berry have a wing?,No
-2040,a berry has a wing.,No
-2041,does a berry have horns?,No
-2042,a berry has horns.,No
-2043,does a berry have hair?,No
-2044,a berry has hair.,No
-2045,does a berry have fur?,No
-2046,a berry has fur.,No
-2047,does a blackberry fly?,No
-2048,can a blackberry fly?,No
-2049,a blackberry flys.,No
-2050,is a blackberry capable of flying?,No
-2051,a blackberry is capable of flying.,No
-2052,does a blackberry live underwater?,No
-2053,a blackberry lives underwater.,No
-2054,does a blackberry live in the water?,No
-2055,a blackberry lives in the water.,No
-2056,does a blackberry have a beak?,No
-2057,a blackberry has a beak.,No
-2058,does a blackberry have feathers?,No
-2059,a blackberry has feathers.,No
-2060,does a blackberry have wings?,No
-2061,a blackberry has wings.,No
-2062,does a blackberry have a wing?,No
-2063,a blackberry has a wing.,No
-2064,does a blackberry have horns?,No
-2065,a blackberry has horns.,No
-2066,does a blackberry have hair?,No
-2067,a blackberry has hair.,No
-2068,does a blackberry have fur?,No
-2069,a blackberry has fur.,No
-2070,does a blackheart fly?,No
-2071,can a blackheart fly?,No
-2072,a blackheart flys.,No
-2073,is a blackheart capable of flying?,No
-2074,a blackheart is capable of flying.,No
-2075,does a blackheart live underwater?,No
-2076,a blackheart lives underwater.,No
-2077,does a blackheart live in the water?,No
-2078,a blackheart lives in the water.,No
-2079,does a blackheart have a beak?,No
-2080,a blackheart has a beak.,No
-2081,does a blackheart have feathers?,No
-2082,a blackheart has feathers.,No
-2083,does a blackheart have wings?,No
-2084,a blackheart has wings.,No
-2085,does a blackheart have a wing?,No
-2086,a blackheart has a wing.,No
-2087,does a blackheart have horns?,No
-2088,a blackheart has horns.,No
-2089,does a blackheart have hair?,No
-2090,a blackheart has hair.,No
-2091,does a blackheart have fur?,No
-2092,a blackheart has fur.,No
-2093,does a blueberry fly?,No
-2094,can a blueberry fly?,No
-2095,a blueberry flys.,No
-2096,is a blueberry capable of flying?,No
-2097,a blueberry is capable of flying.,No
-2098,does a blueberry live underwater?,No
-2099,a blueberry lives underwater.,No
-2100,does a blueberry live in the water?,No
-2101,a blueberry lives in the water.,No
-2102,does a blueberry have a beak?,No
-2103,a blueberry has a beak.,No
-2104,does a blueberry have feathers?,No
-2105,a blueberry has feathers.,No
-2106,does a blueberry have wings?,No
-2107,a blueberry has wings.,No
-2108,does a blueberry have a wing?,No
-2109,a blueberry has a wing.,No
-2110,does a blueberry have horns?,No
-2111,a blueberry has horns.,No
-2112,does a blueberry have hair?,No
-2113,a blueberry has hair.,No
-2114,does a blueberry have fur?,No
-2115,a blueberry has fur.,No
-2116,does a cherry fly?,No
-2117,can a cherry fly?,No
-2118,a cherry flys.,No
-2119,is a cherry capable of flying?,No
-2120,a cherry is capable of flying.,No
-2121,does a cherry live underwater?,No
-2122,a cherry lives underwater.,No
-2123,does a cherry live in the water?,No
-2124,a cherry lives in the water.,No
-2125,does a cherry have a beak?,No
-2126,a cherry has a beak.,No
-2127,does a cherry have feathers?,No
-2128,a cherry has feathers.,No
-2129,does a cherry have wings?,No
-2130,a cherry has wings.,No
-2131,does a cherry have a wing?,No
-2132,a cherry has a wing.,No
-2133,does a cherry have horns?,No
-2134,a cherry has horns.,No
-2135,does a cherry have hair?,No
-2136,a cherry has hair.,No
-2137,does a cherry have fur?,No
-2138,a cherry has fur.,No
-2139,does a chestnut fly?,No
-2140,can a chestnut fly?,No
-2141,a chestnut flys.,No
-2142,is a chestnut capable of flying?,No
-2143,a chestnut is capable of flying.,No
-2144,does a chestnut live underwater?,No
-2145,a chestnut lives underwater.,No
-2146,does a chestnut live in the water?,No
-2147,a chestnut lives in the water.,No
-2148,does a chestnut have a beak?,No
-2149,a chestnut has a beak.,No
-2150,does a chestnut have feathers?,No
-2151,a chestnut has feathers.,No
-2152,does a chestnut have wings?,No
-2153,a chestnut has wings.,No
-2154,does a chestnut have a wing?,No
-2155,a chestnut has a wing.,No
-2156,does a chestnut have horns?,No
-2157,a chestnut has horns.,No
-2158,does a chestnut have hair?,No
-2159,a chestnut has hair.,No
-2160,does a chestnut have fur?,No
-2161,a chestnut has fur.,No
-2162,does a citron fly?,No
-2163,can a citron fly?,No
-2164,a citron flys.,No
-2165,is a citron capable of flying?,No
-2166,a citron is capable of flying.,No
-2167,does a citron live underwater?,No
-2168,a citron lives underwater.,No
-2169,does a citron live in the water?,No
-2170,a citron lives in the water.,No
-2171,does a citron have a beak?,No
-2172,a citron has a beak.,No
-2173,does a citron have feathers?,No
-2174,a citron has feathers.,No
-2175,does a citron have wings?,No
-2176,a citron has wings.,No
-2177,does a citron have a wing?,No
-2178,a citron has a wing.,No
-2179,does a citron have horns?,No
-2180,a citron has horns.,No
-2181,does a citron have hair?,No
-2182,a citron has hair.,No
-2183,does a citron have fur?,No
-2184,a citron has fur.,No
-2185,does a corn fly?,No
-2186,can a corn fly?,No
-2187,a corn flys.,No
-2188,is a corn capable of flying?,No
-2189,a corn is capable of flying.,No
-2190,does a corn live underwater?,No
-2191,a corn lives underwater.,No
-2192,does a corn live in the water?,No
-2193,a corn lives in the water.,No
-2194,does a corn have a beak?,No
-2195,a corn has a beak.,No
-2196,does a corn have feathers?,No
-2197,a corn has feathers.,No
-2198,does a corn have wings?,No
-2199,a corn has wings.,No
-2200,does a corn have a wing?,No
-2201,a corn has a wing.,No
-2202,does a corn have horns?,No
-2203,a corn has horns.,No
-2204,does a corn have hair?,No
-2205,a corn has hair.,No
-2206,does a corn have fur?,No
-2207,a corn has fur.,No
-2208,does a cumin fly?,No
-2209,can a cumin fly?,No
-2210,a cumin flys.,No
-2211,is a cumin capable of flying?,No
-2212,a cumin is capable of flying.,No
-2213,does a cumin live underwater?,No
-2214,a cumin lives underwater.,No
-2215,does a cumin live in the water?,No
-2216,a cumin lives in the water.,No
-2217,does a cumin have a beak?,No
-2218,a cumin has a beak.,No
-2219,does a cumin have feathers?,No
-2220,a cumin has feathers.,No
-2221,does a cumin have wings?,No
-2222,a cumin has wings.,No
-2223,does a cumin have a wing?,No
-2224,a cumin has a wing.,No
-2225,does a cumin have horns?,No
-2226,a cumin has horns.,No
-2227,does a cumin have hair?,No
-2228,a cumin has hair.,No
-2229,does a cumin have fur?,No
-2230,a cumin has fur.,No
-2231,does a fig fly?,No
-2232,can a fig fly?,No
-2233,a fig flys.,No
-2234,is a fig capable of flying?,No
-2235,a fig is capable of flying.,No
-2236,does a fig live underwater?,No
-2237,a fig lives underwater.,No
-2238,does a fig live in the water?,No
-2239,a fig lives in the water.,No
-2240,does a fig have a beak?,No
-2241,a fig has a beak.,No
-2242,does a fig have feathers?,No
-2243,a fig has feathers.,No
-2244,does a fig have wings?,No
-2245,a fig has wings.,No
-2246,does a fig have a wing?,No
-2247,a fig has a wing.,No
-2248,does a fig have horns?,No
-2249,a fig has horns.,No
-2250,does a fig have hair?,No
-2251,a fig has hair.,No
-2252,does a fig have fur?,No
-2253,a fig has fur.,No
-2254,does a grape fly?,No
-2255,can a grape fly?,No
-2256,a grape flys.,No
-2257,is a grape capable of flying?,No
-2258,a grape is capable of flying.,No
-2259,does a grape live underwater?,No
-2260,a grape lives underwater.,No
-2261,does a grape live in the water?,No
-2262,a grape lives in the water.,No
-2263,does a grape have a beak?,No
-2264,a grape has a beak.,No
-2265,does a grape have feathers?,No
-2266,a grape has feathers.,No
-2267,does a grape have wings?,No
-2268,a grape has wings.,No
-2269,does a grape have a wing?,No
-2270,a grape has a wing.,No
-2271,does a grape have horns?,No
-2272,a grape has horns.,No
-2273,does a grape have hair?,No
-2274,a grape has hair.,No
-2275,does a grape have fur?,No
-2276,a grape has fur.,No
-2277,does a grapefruit fly?,No
-2278,can a grapefruit fly?,No
-2279,a grapefruit flys.,No
-2280,is a grapefruit capable of flying?,No
-2281,a grapefruit is capable of flying.,No
-2282,does a grapefruit live underwater?,No
-2283,a grapefruit lives underwater.,No
-2284,does a grapefruit live in the water?,No
-2285,a grapefruit lives in the water.,No
-2286,does a grapefruit have a beak?,No
-2287,a grapefruit has a beak.,No
-2288,does a grapefruit have feathers?,No
-2289,a grapefruit has feathers.,No
-2290,does a grapefruit have wings?,No
-2291,a grapefruit has wings.,No
-2292,does a grapefruit have a wing?,No
-2293,a grapefruit has a wing.,No
-2294,does a grapefruit have horns?,No
-2295,a grapefruit has horns.,No
-2296,does a grapefruit have hair?,No
-2297,a grapefruit has hair.,No
-2298,does a grapefruit have fur?,No
-2299,a grapefruit has fur.,No
-2300,does a greengage fly?,No
-2301,can a greengage fly?,No
-2302,a greengage flys.,No
-2303,is a greengage capable of flying?,No
-2304,a greengage is capable of flying.,No
-2305,does a greengage live underwater?,No
-2306,a greengage lives underwater.,No
-2307,does a greengage live in the water?,No
-2308,a greengage lives in the water.,No
-2309,does a greengage have a beak?,No
-2310,a greengage has a beak.,No
-2311,does a greengage have feathers?,No
-2312,a greengage has feathers.,No
-2313,does a greengage have wings?,No
-2314,a greengage has wings.,No
-2315,does a greengage have a wing?,No
-2316,a greengage has a wing.,No
-2317,does a greengage have horns?,No
-2318,a greengage has horns.,No
-2319,does a greengage have hair?,No
-2320,a greengage has hair.,No
-2321,does a greengage have fur?,No
-2322,a greengage has fur.,No
-2323,does a guava fly?,No
-2324,can a guava fly?,No
-2325,a guava flys.,No
-2326,is a guava capable of flying?,No
-2327,a guava is capable of flying.,No
-2328,does a guava live underwater?,No
-2329,a guava lives underwater.,No
-2330,does a guava live in the water?,No
-2331,a guava lives in the water.,No
-2332,does a guava have a beak?,No
-2333,a guava has a beak.,No
-2334,does a guava have feathers?,No
-2335,a guava has feathers.,No
-2336,does a guava have wings?,No
-2337,a guava has wings.,No
-2338,does a guava have a wing?,No
-2339,a guava has a wing.,No
-2340,does a guava have horns?,No
-2341,a guava has horns.,No
-2342,does a guava have hair?,No
-2343,a guava has hair.,No
-2344,does a guava have fur?,No
-2345,a guava has fur.,No
-2346,does a kiwi fly?,No
-2347,can a kiwi fly?,No
-2348,a kiwi flys.,No
-2349,is a kiwi capable of flying?,No
-2350,a kiwi is capable of flying.,No
-2351,does a kiwi live underwater?,No
-2352,a kiwi lives underwater.,No
-2353,does a kiwi live in the water?,No
-2354,a kiwi lives in the water.,No
-2355,does a kiwi have a beak?,No
-2356,a kiwi has a beak.,No
-2357,does a kiwi have feathers?,No
-2358,a kiwi has feathers.,No
-2359,does a kiwi have wings?,No
-2360,a kiwi has wings.,No
-2361,does a kiwi have a wing?,No
-2362,a kiwi has a wing.,No
-2363,does a kiwi have horns?,No
-2364,a kiwi has horns.,No
-2365,does a kiwi have hair?,No
-2366,a kiwi has hair.,No
-2367,does a kiwi have fur?,No
-2368,a kiwi has fur.,No
-2369,does a lemon fly?,No
-2370,can a lemon fly?,No
-2371,a lemon flys.,No
-2372,is a lemon capable of flying?,No
-2373,a lemon is capable of flying.,No
-2374,does a lemon live underwater?,No
-2375,a lemon lives underwater.,No
-2376,does a lemon live in the water?,No
-2377,a lemon lives in the water.,No
-2378,does a lemon have a beak?,No
-2379,a lemon has a beak.,No
-2380,does a lemon have feathers?,No
-2381,a lemon has feathers.,No
-2382,does a lemon have wings?,No
-2383,a lemon has wings.,No
-2384,does a lemon have a wing?,No
-2385,a lemon has a wing.,No
-2386,does a lemon have horns?,No
-2387,a lemon has horns.,No
-2388,does a lemon have hair?,No
-2389,a lemon has hair.,No
-2390,does a lemon have fur?,No
-2391,a lemon has fur.,No
-2392,does a mango fly?,No
-2393,can a mango fly?,No
-2394,a mango flys.,No
-2395,is a mango capable of flying?,No
-2396,a mango is capable of flying.,No
-2397,does a mango live underwater?,No
-2398,a mango lives underwater.,No
-2399,does a mango live in the water?,No
-2400,a mango lives in the water.,No
-2401,does a mango have a beak?,No
-2402,a mango has a beak.,No
-2403,does a mango have feathers?,No
-2404,a mango has feathers.,No
-2405,does a mango have wings?,No
-2406,a mango has wings.,No
-2407,does a mango have a wing?,No
-2408,a mango has a wing.,No
-2409,does a mango have horns?,No
-2410,a mango has horns.,No
-2411,does a mango have hair?,No
-2412,a mango has hair.,No
-2413,does a mango have fur?,No
-2414,a mango has fur.,No
-2415,does a melon fly?,No
-2416,can a melon fly?,No
-2417,a melon flys.,No
-2418,is a melon capable of flying?,No
-2419,a melon is capable of flying.,No
-2420,does a melon live underwater?,No
-2421,a melon lives underwater.,No
-2422,does a melon live in the water?,No
-2423,a melon lives in the water.,No
-2424,does a melon have a beak?,No
-2425,a melon has a beak.,No
-2426,does a melon have feathers?,No
-2427,a melon has feathers.,No
-2428,does a melon have wings?,No
-2429,a melon has wings.,No
-2430,does a melon have a wing?,No
-2431,a melon has a wing.,No
-2432,does a melon have horns?,No
-2433,a melon has horns.,No
-2434,does a melon have hair?,No
-2435,a melon has hair.,No
-2436,does a melon have fur?,No
-2437,a melon has fur.,No
-2438,does a muscat fly?,No
-2439,can a muscat fly?,No
-2440,a muscat flys.,No
-2441,is a muscat capable of flying?,No
-2442,a muscat is capable of flying.,No
-2443,does a muscat live underwater?,No
-2444,a muscat lives underwater.,No
-2445,does a muscat live in the water?,No
-2446,a muscat lives in the water.,No
-2447,does a muscat have a beak?,No
-2448,a muscat has a beak.,No
-2449,does a muscat have feathers?,No
-2450,a muscat has feathers.,No
-2451,does a muscat have wings?,No
-2452,a muscat has wings.,No
-2453,does a muscat have a wing?,No
-2454,a muscat has a wing.,No
-2455,does a muscat have horns?,No
-2456,a muscat has horns.,No
-2457,does a muscat have hair?,No
-2458,a muscat has hair.,No
-2459,does a muscat have fur?,No
-2460,a muscat has fur.,No
-2461,does a nut fly?,No
-2462,can a nut fly?,No
-2463,a nut flys.,No
-2464,is a nut capable of flying?,No
-2465,a nut is capable of flying.,No
-2466,does a nut live underwater?,No
-2467,a nut lives underwater.,No
-2468,does a nut live in the water?,No
-2469,a nut lives in the water.,No
-2470,does a nut have a beak?,No
-2471,a nut has a beak.,No
-2472,does a nut have feathers?,No
-2473,a nut has feathers.,No
-2474,does a nut have wings?,No
-2475,a nut has wings.,No
-2476,does a nut have a wing?,No
-2477,a nut has a wing.,No
-2478,does a nut have horns?,No
-2479,a nut has horns.,No
-2480,does a nut have hair?,No
-2481,a nut has hair.,No
-2482,does a nut have fur?,No
-2483,a nut has fur.,No
-2484,does a papaya fly?,No
-2485,can a papaya fly?,No
-2486,a papaya flys.,No
-2487,is a papaya capable of flying?,No
-2488,a papaya is capable of flying.,No
-2489,does a papaya live underwater?,No
-2490,a papaya lives underwater.,No
-2491,does a papaya live in the water?,No
-2492,a papaya lives in the water.,No
-2493,does a papaya have a beak?,No
-2494,a papaya has a beak.,No
-2495,does a papaya have feathers?,No
-2496,a papaya has feathers.,No
-2497,does a papaya have wings?,No
-2498,a papaya has wings.,No
-2499,does a papaya have a wing?,No
-2500,a papaya has a wing.,No
-2501,does a papaya have horns?,No
-2502,a papaya has horns.,No
-2503,does a papaya have hair?,No
-2504,a papaya has hair.,No
-2505,does a papaya have fur?,No
-2506,a papaya has fur.,No
-2507,does a pea fly?,No
-2508,can a pea fly?,No
-2509,a pea flys.,No
-2510,is a pea capable of flying?,No
-2511,a pea is capable of flying.,No
-2512,does a pea live underwater?,No
-2513,a pea lives underwater.,No
-2514,does a pea live in the water?,No
-2515,a pea lives in the water.,No
-2516,does a pea have a beak?,No
-2517,a pea has a beak.,No
-2518,does a pea have feathers?,No
-2519,a pea has feathers.,No
-2520,does a pea have wings?,No
-2521,a pea has wings.,No
-2522,does a pea have a wing?,No
-2523,a pea has a wing.,No
-2524,does a pea have horns?,No
-2525,a pea has horns.,No
-2526,does a pea have hair?,No
-2527,a pea has hair.,No
-2528,does a pea have fur?,No
-2529,a pea has fur.,No
-2530,does a peach fly?,No
-2531,can a peach fly?,No
-2532,a peach flys.,No
-2533,is a peach capable of flying?,No
-2534,a peach is capable of flying.,No
-2535,does a peach live underwater?,No
-2536,a peach lives underwater.,No
-2537,does a peach live in the water?,No
-2538,a peach lives in the water.,No
-2539,does a peach have a beak?,No
-2540,a peach has a beak.,No
-2541,does a peach have feathers?,No
-2542,a peach has feathers.,No
-2543,does a peach have wings?,No
-2544,a peach has wings.,No
-2545,does a peach have a wing?,No
-2546,a peach has a wing.,No
-2547,does a peach have horns?,No
-2548,a peach has horns.,No
-2549,does a peach have hair?,No
-2550,a peach has hair.,No
-2551,does a peach have fur?,No
-2552,a peach has fur.,No
-2553,does a peanut fly?,No
-2554,can a peanut fly?,No
-2555,a peanut flys.,No
-2556,is a peanut capable of flying?,No
-2557,a peanut is capable of flying.,No
-2558,does a peanut live underwater?,No
-2559,a peanut lives underwater.,No
-2560,does a peanut live in the water?,No
-2561,a peanut lives in the water.,No
-2562,does a peanut have a beak?,No
-2563,a peanut has a beak.,No
-2564,does a peanut have feathers?,No
-2565,a peanut has feathers.,No
-2566,does a peanut have wings?,No
-2567,a peanut has wings.,No
-2568,does a peanut have a wing?,No
-2569,a peanut has a wing.,No
-2570,does a peanut have horns?,No
-2571,a peanut has horns.,No
-2572,does a peanut have hair?,No
-2573,a peanut has hair.,No
-2574,does a peanut have fur?,No
-2575,a peanut has fur.,No
-2576,does a pear fly?,No
-2577,can a pear fly?,No
-2578,a pear flys.,No
-2579,is a pear capable of flying?,No
-2580,a pear is capable of flying.,No
-2581,does a pear live underwater?,No
-2582,a pear lives underwater.,No
-2583,does a pear live in the water?,No
-2584,a pear lives in the water.,No
-2585,does a pear have a beak?,No
-2586,a pear has a beak.,No
-2587,does a pear have feathers?,No
-2588,a pear has feathers.,No
-2589,does a pear have wings?,No
-2590,a pear has wings.,No
-2591,does a pear have a wing?,No
-2592,a pear has a wing.,No
-2593,does a pear have horns?,No
-2594,a pear has horns.,No
-2595,does a pear have hair?,No
-2596,a pear has hair.,No
-2597,does a pear have fur?,No
-2598,a pear has fur.,No
-2599,does a ambulance fly?,No
-2600,can a ambulance fly?,No
-2601,a ambulance flys.,No
-2602,is a ambulance capable of flying?,No
-2603,a ambulance is capable of flying.,No
-2604,does a ambulance live underwater?,No
-2605,a ambulance lives underwater.,No
-2606,does a ambulance live in the water?,No
-2607,a ambulance lives in the water.,No
-2608,does a ambulance have a beak?,No
-2609,a ambulance has a beak.,No
-2610,does a ambulance have feathers?,No
-2611,a ambulance has feathers.,No
-2612,does a ambulance have wings?,No
-2613,a ambulance has wings.,No
-2614,does a ambulance have a wing?,No
-2615,a ambulance has a wing.,No
-2616,does a ambulance have horns?,No
-2617,a ambulance has horns.,No
-2618,does a ambulance have hair?,No
-2619,a ambulance has hair.,No
-2620,does a ambulance have fur?,No
-2621,a ambulance has fur.,No
-2622,does a buggy fly?,No
-2623,can a buggy fly?,No
-2624,a buggy flys.,No
-2625,is a buggy capable of flying?,No
-2626,a buggy is capable of flying.,No
-2627,does a buggy live underwater?,No
-2628,a buggy lives underwater.,No
-2629,does a buggy live in the water?,No
-2630,a buggy lives in the water.,No
-2631,does a buggy have a beak?,No
-2632,a buggy has a beak.,No
-2633,does a buggy have feathers?,No
-2634,a buggy has feathers.,No
-2635,does a buggy have wings?,No
-2636,a buggy has wings.,No
-2637,does a buggy have a wing?,No
-2638,a buggy has a wing.,No
-2639,does a buggy have horns?,No
-2640,a buggy has horns.,No
-2641,does a buggy have hair?,No
-2642,a buggy has hair.,No
-2643,does a buggy have fur?,No
-2644,a buggy has fur.,No
-2645,does a bulldozer fly?,No
-2646,can a bulldozer fly?,No
-2647,a bulldozer flys.,No
-2648,is a bulldozer capable of flying?,No
-2649,a bulldozer is capable of flying.,No
-2650,does a bulldozer live underwater?,No
-2651,a bulldozer lives underwater.,No
-2652,does a bulldozer live in the water?,No
-2653,a bulldozer lives in the water.,No
-2654,does a bulldozer have a beak?,No
-2655,a bulldozer has a beak.,No
-2656,does a bulldozer have feathers?,No
-2657,a bulldozer has feathers.,No
-2658,does a bulldozer have wings?,No
-2659,a bulldozer has wings.,No
-2660,does a bulldozer have a wing?,No
-2661,a bulldozer has a wing.,No
-2662,does a bulldozer have horns?,No
-2663,a bulldozer has horns.,No
-2664,does a bulldozer have hair?,No
-2665,a bulldozer has hair.,No
-2666,does a bulldozer have fur?,No
-2667,a bulldozer has fur.,No
-2668,does a cab fly?,No
-2669,can a cab fly?,No
-2670,a cab flys.,No
-2671,is a cab capable of flying?,No
-2672,a cab is capable of flying.,No
-2673,does a cab live underwater?,No
-2674,a cab lives underwater.,No
-2675,does a cab live in the water?,No
-2676,a cab lives in the water.,No
-2677,does a cab have a beak?,No
-2678,a cab has a beak.,No
-2679,does a cab have feathers?,No
-2680,a cab has feathers.,No
-2681,does a cab have wings?,No
-2682,a cab has wings.,No
-2683,does a cab have a wing?,No
-2684,a cab has a wing.,No
-2685,does a cab have horns?,No
-2686,a cab has horns.,No
-2687,does a cab have hair?,No
-2688,a cab has hair.,No
-2689,does a cab have fur?,No
-2690,a cab has fur.,No
-2691,does a canoe fly?,No
-2692,can a canoe fly?,No
-2693,a canoe flys.,No
-2694,is a canoe capable of flying?,No
-2695,a canoe is capable of flying.,No
-2696,does a canoe live underwater?,No
-2697,a canoe lives underwater.,No
-2698,does a canoe live in the water?,No
-2699,a canoe lives in the water.,No
-2700,does a canoe have a beak?,No
-2701,a canoe has a beak.,No
-2702,does a canoe have feathers?,No
-2703,a canoe has feathers.,No
-2704,does a canoe have wings?,No
-2705,a canoe has wings.,No
-2706,does a canoe have a wing?,No
-2707,a canoe has a wing.,No
-2708,does a canoe have horns?,No
-2709,a canoe has horns.,No
-2710,does a canoe have hair?,No
-2711,a canoe has hair.,No
-2712,does a canoe have fur?,No
-2713,a canoe has fur.,No
-2714,does a car fly?,No
-2715,can a car fly?,No
-2716,a car flys.,No
-2717,is a car capable of flying?,No
-2718,a car is capable of flying.,No
-2719,does a car live underwater?,No
-2720,a car lives underwater.,No
-2721,does a car live in the water?,No
-2722,a car lives in the water.,No
-2723,does a car have a beak?,No
-2724,a car has a beak.,No
-2725,does a car have feathers?,No
-2726,a car has feathers.,No
-2727,does a car have wings?,No
-2728,a car has wings.,No
-2729,does a car have a wing?,No
-2730,a car has a wing.,No
-2731,does a car have horns?,No
-2732,a car has horns.,No
-2733,does a car have hair?,No
-2734,a car has hair.,No
-2735,does a car have fur?,No
-2736,a car has fur.,No
-2737,does a jeep fly?,No
-2738,can a jeep fly?,No
-2739,a jeep flys.,No
-2740,is a jeep capable of flying?,No
-2741,a jeep is capable of flying.,No
-2742,does a jeep live underwater?,No
-2743,a jeep lives underwater.,No
-2744,does a jeep live in the water?,No
-2745,a jeep lives in the water.,No
-2746,does a jeep have a beak?,No
-2747,a jeep has a beak.,No
-2748,does a jeep have feathers?,No
-2749,a jeep has feathers.,No
-2750,does a jeep have wings?,No
-2751,a jeep has wings.,No
-2752,does a jeep have a wing?,No
-2753,a jeep has a wing.,No
-2754,does a jeep have horns?,No
-2755,a jeep has horns.,No
-2756,does a jeep have hair?,No
-2757,a jeep has hair.,No
-2758,does a jeep have fur?,No
-2759,a jeep has fur.,No
-2760,does a motorcycle fly?,No
-2761,can a motorcycle fly?,No
-2762,a motorcycle flys.,No
-2763,is a motorcycle capable of flying?,No
-2764,a motorcycle is capable of flying.,No
-2765,does a motorcycle live underwater?,No
-2766,a motorcycle lives underwater.,No
-2767,does a motorcycle live in the water?,No
-2768,a motorcycle lives in the water.,No
-2769,does a motorcycle have a beak?,No
-2770,a motorcycle has a beak.,No
-2771,does a motorcycle have feathers?,No
-2772,a motorcycle has feathers.,No
-2773,does a motorcycle have wings?,No
-2774,a motorcycle has wings.,No
-2775,does a motorcycle have a wing?,No
-2776,a motorcycle has a wing.,No
-2777,does a motorcycle have horns?,No
-2778,a motorcycle has horns.,No
-2779,does a motorcycle have hair?,No
-2780,a motorcycle has hair.,No
-2781,does a motorcycle have fur?,No
-2782,a motorcycle has fur.,No
-2783,does a tender fly?,No
-2784,can a tender fly?,No
-2785,a tender flys.,No
-2786,is a tender capable of flying?,No
-2787,a tender is capable of flying.,No
-2788,does a tender live underwater?,No
-2789,a tender lives underwater.,No
-2790,does a tender live in the water?,No
-2791,a tender lives in the water.,No
-2792,does a tender have a beak?,No
-2793,a tender has a beak.,No
-2794,does a tender have feathers?,No
-2795,a tender has feathers.,No
-2796,does a tender have wings?,No
-2797,a tender has wings.,No
-2798,does a tender have a wing?,No
-2799,a tender has a wing.,No
-2800,does a tender have horns?,No
-2801,a tender has horns.,No
-2802,does a tender have hair?,No
-2803,a tender has hair.,No
-2804,does a tender have fur?,No
-2805,a tender has fur.,No
-2806,does a tractor fly?,No
-2807,can a tractor fly?,No
-2808,a tractor flys.,No
-2809,is a tractor capable of flying?,No
-2810,a tractor is capable of flying.,No
-2811,does a tractor live underwater?,No
-2812,a tractor lives underwater.,No
-2813,does a tractor live in the water?,No
-2814,a tractor lives in the water.,No
-2815,does a tractor have a beak?,No
-2816,a tractor has a beak.,No
-2817,does a tractor have feathers?,No
-2818,a tractor has feathers.,No
-2819,does a tractor have wings?,No
-2820,a tractor has wings.,No
-2821,does a tractor have a wing?,No
-2822,a tractor has a wing.,No
-2823,does a tractor have horns?,No
-2824,a tractor has horns.,No
-2825,does a tractor have hair?,No
-2826,a tractor has hair.,No
-2827,does a tractor have fur?,No
-2828,a tractor has fur.,No
-2829,does a van fly?,No
-2830,can a van fly?,No
-2831,a van flys.,No
-2832,is a van capable of flying?,No
-2833,a van is capable of flying.,No
-2834,does a van live underwater?,No
-2835,a van lives underwater.,No
-2836,does a van live in the water?,No
-2837,a van lives in the water.,No
-2838,does a van have a beak?,No
-2839,a van has a beak.,No
-2840,does a van have feathers?,No
-2841,a van has feathers.,No
-2842,does a van have wings?,No
-2843,a van has wings.,No
-2844,does a van have a wing?,No
-2845,a van has a wing.,No
-2846,does a van have horns?,No
-2847,a van has horns.,No
-2848,does a van have hair?,No
-2849,a van has hair.,No
-2850,does a van have fur?,No
-2851,a van has fur.,No
-2852,does a bungalow fly?,No
-2853,can a bungalow fly?,No
-2854,a bungalow flys.,No
-2855,is a bungalow capable of flying?,No
-2856,a bungalow is capable of flying.,No
-2857,does a bungalow live underwater?,No
-2858,a bungalow lives underwater.,No
-2859,does a bungalow live in the water?,No
-2860,a bungalow lives in the water.,No
-2861,does a bungalow have a beak?,No
-2862,a bungalow has a beak.,No
-2863,does a bungalow have feathers?,No
-2864,a bungalow has feathers.,No
-2865,does a bungalow have wings?,No
-2866,a bungalow has wings.,No
-2867,does a bungalow have a wing?,No
-2868,a bungalow has a wing.,No
-2869,does a bungalow have horns?,No
-2870,a bungalow has horns.,No
-2871,does a bungalow have hair?,No
-2872,a bungalow has hair.,No
-2873,does a bungalow have fur?,No
-2874,a bungalow has fur.,No
-2875,does a casino fly?,No
-2876,can a casino fly?,No
-2877,a casino flys.,No
-2878,is a casino capable of flying?,No
-2879,a casino is capable of flying.,No
-2880,does a casino live underwater?,No
-2881,a casino lives underwater.,No
-2882,does a casino live in the water?,No
-2883,a casino lives in the water.,No
-2884,does a casino have a beak?,No
-2885,a casino has a beak.,No
-2886,does a casino have feathers?,No
-2887,a casino has feathers.,No
-2888,does a casino have wings?,No
-2889,a casino has wings.,No
-2890,does a casino have a wing?,No
-2891,a casino has a wing.,No
-2892,does a casino have horns?,No
-2893,a casino has horns.,No
-2894,does a casino have hair?,No
-2895,a casino has hair.,No
-2896,does a casino have fur?,No
-2897,a casino has fur.,No
-2898,does a church fly?,No
-2899,can a church fly?,No
-2900,a church flys.,No
-2901,is a church capable of flying?,No
-2902,a church is capable of flying.,No
-2903,does a church live underwater?,No
-2904,a church lives underwater.,No
-2905,does a church live in the water?,No
-2906,a church lives in the water.,No
-2907,does a church have a beak?,No
-2908,a church has a beak.,No
-2909,does a church have feathers?,No
-2910,a church has feathers.,No
-2911,does a church have wings?,No
-2912,a church has wings.,No
-2913,does a church have a wing?,No
-2914,a church has a wing.,No
-2915,does a church have horns?,No
-2916,a church has horns.,No
-2917,does a church have hair?,No
-2918,a church has hair.,No
-2919,does a church have fur?,No
-2920,a church has fur.,No
-2921,does a cinema fly?,No
-2922,can a cinema fly?,No
-2923,a cinema flys.,No
-2924,is a cinema capable of flying?,No
-2925,a cinema is capable of flying.,No
-2926,does a cinema live underwater?,No
-2927,a cinema lives underwater.,No
-2928,does a cinema live in the water?,No
-2929,a cinema lives in the water.,No
-2930,does a cinema have a beak?,No
-2931,a cinema has a beak.,No
-2932,does a cinema have feathers?,No
-2933,a cinema has feathers.,No
-2934,does a cinema have wings?,No
-2935,a cinema has wings.,No
-2936,does a cinema have a wing?,No
-2937,a cinema has a wing.,No
-2938,does a cinema have horns?,No
-2939,a cinema has horns.,No
-2940,does a cinema have hair?,No
-2941,a cinema has hair.,No
-2942,does a cinema have fur?,No
-2943,a cinema has fur.,No
-2944,does a clinic fly?,No
-2945,can a clinic fly?,No
-2946,a clinic flys.,No
-2947,is a clinic capable of flying?,No
-2948,a clinic is capable of flying.,No
-2949,does a clinic live underwater?,No
-2950,a clinic lives underwater.,No
-2951,does a clinic live in the water?,No
-2952,a clinic lives in the water.,No
-2953,does a clinic have a beak?,No
-2954,a clinic has a beak.,No
-2955,does a clinic have feathers?,No
-2956,a clinic has feathers.,No
-2957,does a clinic have wings?,No
-2958,a clinic has wings.,No
-2959,does a clinic have a wing?,No
-2960,a clinic has a wing.,No
-2961,does a clinic have horns?,No
-2962,a clinic has horns.,No
-2963,does a clinic have hair?,No
-2964,a clinic has hair.,No
-2965,does a clinic have fur?,No
-2966,a clinic has fur.,No
-2967,does a court fly?,No
-2968,can a court fly?,No
-2969,a court flys.,No
-2970,is a court capable of flying?,No
-2971,a court is capable of flying.,No
-2972,does a court live underwater?,No
-2973,a court lives underwater.,No
-2974,does a court live in the water?,No
-2975,a court lives in the water.,No
-2976,does a court have a beak?,No
-2977,a court has a beak.,No
-2978,does a court have feathers?,No
-2979,a court has feathers.,No
-2980,does a court have wings?,No
-2981,a court has wings.,No
-2982,does a court have a wing?,No
-2983,a court has a wing.,No
-2984,does a court have horns?,No
-2985,a court has horns.,No
-2986,does a court have hair?,No
-2987,a court has hair.,No
-2988,does a court have fur?,No
-2989,a court has fur.,No
-2990,does a garage fly?,No
-2991,can a garage fly?,No
-2992,a garage flys.,No
-2993,is a garage capable of flying?,No
-2994,a garage is capable of flying.,No
-2995,does a garage live underwater?,No
-2996,a garage lives underwater.,No
-2997,does a garage live in the water?,No
-2998,a garage lives in the water.,No
-2999,does a garage have a beak?,No
-3000,a garage has a beak.,No
-3001,does a garage have feathers?,No
-3002,a garage has feathers.,No
-3003,does a garage have wings?,No
-3004,a garage has wings.,No
-3005,does a garage have a wing?,No
-3006,a garage has a wing.,No
-3007,does a garage have horns?,No
-3008,a garage has horns.,No
-3009,does a garage have hair?,No
-3010,a garage has hair.,No
-3011,does a garage have fur?,No
-3012,a garage has fur.,No
-3013,does a hospital fly?,No
-3014,can a hospital fly?,No
-3015,a hospital flys.,No
-3016,is a hospital capable of flying?,No
-3017,a hospital is capable of flying.,No
-3018,does a hospital live underwater?,No
-3019,a hospital lives underwater.,No
-3020,does a hospital live in the water?,No
-3021,a hospital lives in the water.,No
-3022,does a hospital have a beak?,No
-3023,a hospital has a beak.,No
-3024,does a hospital have feathers?,No
-3025,a hospital has feathers.,No
-3026,does a hospital have wings?,No
-3027,a hospital has wings.,No
-3028,does a hospital have a wing?,No
-3029,a hospital has a wing.,No
-3030,does a hospital have horns?,No
-3031,a hospital has horns.,No
-3032,does a hospital have hair?,No
-3033,a hospital has hair.,No
-3034,does a hospital have fur?,No
-3035,a hospital has fur.,No
-3036,does a hostel fly?,No
-3037,can a hostel fly?,No
-3038,a hostel flys.,No
-3039,is a hostel capable of flying?,No
-3040,a hostel is capable of flying.,No
-3041,does a hostel live underwater?,No
-3042,a hostel lives underwater.,No
-3043,does a hostel live in the water?,No
-3044,a hostel lives in the water.,No
-3045,does a hostel have a beak?,No
-3046,a hostel has a beak.,No
-3047,does a hostel have feathers?,No
-3048,a hostel has feathers.,No
-3049,does a hostel have wings?,No
-3050,a hostel has wings.,No
-3051,does a hostel have a wing?,No
-3052,a hostel has a wing.,No
-3053,does a hostel have horns?,No
-3054,a hostel has horns.,No
-3055,does a hostel have hair?,No
-3056,a hostel has hair.,No
-3057,does a hostel have fur?,No
-3058,a hostel has fur.,No
-3059,does a masjid fly?,No
-3060,can a masjid fly?,No
-3061,a masjid flys.,No
-3062,is a masjid capable of flying?,No
-3063,a masjid is capable of flying.,No
-3064,does a masjid live underwater?,No
-3065,a masjid lives underwater.,No
-3066,does a masjid live in the water?,No
-3067,a masjid lives in the water.,No
-3068,does a masjid have a beak?,No
-3069,a masjid has a beak.,No
-3070,does a masjid have feathers?,No
-3071,a masjid has feathers.,No
-3072,does a masjid have wings?,No
-3073,a masjid has wings.,No
-3074,does a masjid have a wing?,No
-3075,a masjid has a wing.,No
-3076,does a masjid have horns?,No
-3077,a masjid has horns.,No
-3078,does a masjid have hair?,No
-3079,a masjid has hair.,No
-3080,does a masjid have fur?,No
-3081,a masjid has fur.,No
-3082,does a minster fly?,No
-3083,can a minster fly?,No
-3084,a minster flys.,No
-3085,is a minster capable of flying?,No
-3086,a minster is capable of flying.,No
-3087,does a minster live underwater?,No
-3088,a minster lives underwater.,No
-3089,does a minster live in the water?,No
-3090,a minster lives in the water.,No
-3091,does a minster have a beak?,No
-3092,a minster has a beak.,No
-3093,does a minster have feathers?,No
-3094,a minster has feathers.,No
-3095,does a minster have wings?,No
-3096,a minster has wings.,No
-3097,does a minster have a wing?,No
-3098,a minster has a wing.,No
-3099,does a minster have horns?,No
-3100,a minster has horns.,No
-3101,does a minster have hair?,No
-3102,a minster has hair.,No
-3103,does a minster have fur?,No
-3104,a minster has fur.,No
-3105,does a monastery fly?,No
-3106,can a monastery fly?,No
-3107,a monastery flys.,No
-3108,is a monastery capable of flying?,No
-3109,a monastery is capable of flying.,No
-3110,does a monastery live underwater?,No
-3111,a monastery lives underwater.,No
-3112,does a monastery live in the water?,No
-3113,a monastery lives in the water.,No
-3114,does a monastery have a beak?,No
-3115,a monastery has a beak.,No
-3116,does a monastery have feathers?,No
-3117,a monastery has feathers.,No
-3118,does a monastery have wings?,No
-3119,a monastery has wings.,No
-3120,does a monastery have a wing?,No
-3121,a monastery has a wing.,No
-3122,does a monastery have horns?,No
-3123,a monastery has horns.,No
-3124,does a monastery have hair?,No
-3125,a monastery has hair.,No
-3126,does a monastery have fur?,No
-3127,a monastery has fur.,No
-3128,does a temple fly?,No
-3129,can a temple fly?,No
-3130,a temple flys.,No
-3131,is a temple capable of flying?,No
-3132,a temple is capable of flying.,No
-3133,does a temple live underwater?,No
-3134,a temple lives underwater.,No
-3135,does a temple live in the water?,No
-3136,a temple lives in the water.,No
-3137,does a temple have a beak?,No
-3138,a temple has a beak.,No
-3139,does a temple have feathers?,No
-3140,a temple has feathers.,No
-3141,does a temple have wings?,No
-3142,a temple has wings.,No
-3143,does a temple have a wing?,No
-3144,a temple has a wing.,No
-3145,does a temple have horns?,No
-3146,a temple has horns.,No
-3147,does a temple have hair?,No
-3148,a temple has hair.,No
-3149,does a temple have fur?,No
-3150,a temple has fur.,No
+0,does a bean fly?,No
+1,can a bean fly?,No
+2,a bean flys.,No
+3,is a bean capable of flying?,No
+4,a bean is capable of flying.,No
+5,does a bean live underwater?,No
+6,a bean lives underwater.,No
+7,does a bean live in the water?,No
+8,a bean lives in the water.,No
+9,does a bean have a beak?,No
+10,a bean has a beak.,No
+11,does a bean have feathers?,No
+12,a bean has feathers.,No
+13,does a bean have wings?,No
+14,a bean has wings.,No
+15,does a bean have a wing?,No
+16,a bean has a wing.,No
+17,does a bean have horns?,No
+18,a bean has horns.,No
+19,does a bean have hair?,No
+20,a bean has hair.,No
+21,does a bean have fur?,No
+22,a bean has fur.,No
+23,does a beet fly?,No
+24,can a beet fly?,No
+25,a beet flys.,No
+26,is a beet capable of flying?,No
+27,a beet is capable of flying.,No
+28,does a beet live underwater?,No
+29,a beet lives underwater.,No
+30,does a beet live in the water?,No
+31,a beet lives in the water.,No
+32,does a beet have a beak?,No
+33,a beet has a beak.,No
+34,does a beet have feathers?,No
+35,a beet has feathers.,No
+36,does a beet have wings?,No
+37,a beet has wings.,No
+38,does a beet have a wing?,No
+39,a beet has a wing.,No
+40,does a beet have horns?,No
+41,a beet has horns.,No
+42,does a beet have hair?,No
+43,a beet has hair.,No
+44,does a beet have fur?,No
+45,a beet has fur.,No
+46,does a beetroot fly?,No
+47,can a beetroot fly?,No
+48,a beetroot flys.,No
+49,is a beetroot capable of flying?,No
+50,a beetroot is capable of flying.,No
+51,does a beetroot live underwater?,No
+52,a beetroot lives underwater.,No
+53,does a beetroot live in the water?,No
+54,a beetroot lives in the water.,No
+55,does a beetroot have a beak?,No
+56,a beetroot has a beak.,No
+57,does a beetroot have feathers?,No
+58,a beetroot has feathers.,No
+59,does a beetroot have wings?,No
+60,a beetroot has wings.,No
+61,does a beetroot have a wing?,No
+62,a beetroot has a wing.,No
+63,does a beetroot have horns?,No
+64,a beetroot has horns.,No
+65,does a beetroot have hair?,No
+66,a beetroot has hair.,No
+67,does a beetroot have fur?,No
+68,a beetroot has fur.,No
+69,does a broccoli fly?,No
+70,can a broccoli fly?,No
+71,a broccoli flys.,No
+72,is a broccoli capable of flying?,No
+73,a broccoli is capable of flying.,No
+74,does a broccoli live underwater?,No
+75,a broccoli lives underwater.,No
+76,does a broccoli live in the water?,No
+77,a broccoli lives in the water.,No
+78,does a broccoli have a beak?,No
+79,a broccoli has a beak.,No
+80,does a broccoli have feathers?,No
+81,a broccoli has feathers.,No
+82,does a broccoli have wings?,No
+83,a broccoli has wings.,No
+84,does a broccoli have a wing?,No
+85,a broccoli has a wing.,No
+86,does a broccoli have horns?,No
+87,a broccoli has horns.,No
+88,does a broccoli have hair?,No
+89,a broccoli has hair.,No
+90,does a broccoli have fur?,No
+91,a broccoli has fur.,No
+92,does a cabbage fly?,No
+93,can a cabbage fly?,No
+94,a cabbage flys.,No
+95,is a cabbage capable of flying?,No
+96,a cabbage is capable of flying.,No
+97,does a cabbage live underwater?,No
+98,a cabbage lives underwater.,No
+99,does a cabbage live in the water?,No
+100,a cabbage lives in the water.,No
+101,does a cabbage have a beak?,No
+102,a cabbage has a beak.,No
+103,does a cabbage have feathers?,No
+104,a cabbage has feathers.,No
+105,does a cabbage have wings?,No
+106,a cabbage has wings.,No
+107,does a cabbage have a wing?,No
+108,a cabbage has a wing.,No
+109,does a cabbage have horns?,No
+110,a cabbage has horns.,No
+111,does a cabbage have hair?,No
+112,a cabbage has hair.,No
+113,does a cabbage have fur?,No
+114,a cabbage has fur.,No
+115,does a carrot fly?,No
+116,can a carrot fly?,No
+117,a carrot flys.,No
+118,is a carrot capable of flying?,No
+119,a carrot is capable of flying.,No
+120,does a carrot live underwater?,No
+121,a carrot lives underwater.,No
+122,does a carrot live in the water?,No
+123,a carrot lives in the water.,No
+124,does a carrot have a beak?,No
+125,a carrot has a beak.,No
+126,does a carrot have feathers?,No
+127,a carrot has feathers.,No
+128,does a carrot have wings?,No
+129,a carrot has wings.,No
+130,does a carrot have a wing?,No
+131,a carrot has a wing.,No
+132,does a carrot have horns?,No
+133,a carrot has horns.,No
+134,does a carrot have hair?,No
+135,a carrot has hair.,No
+136,does a carrot have fur?,No
+137,a carrot has fur.,No
+138,does a cauliflower fly?,No
+139,can a cauliflower fly?,No
+140,a cauliflower flys.,No
+141,is a cauliflower capable of flying?,No
+142,a cauliflower is capable of flying.,No
+143,does a cauliflower live underwater?,No
+144,a cauliflower lives underwater.,No
+145,does a cauliflower live in the water?,No
+146,a cauliflower lives in the water.,No
+147,does a cauliflower have a beak?,No
+148,a cauliflower has a beak.,No
+149,does a cauliflower have feathers?,No
+150,a cauliflower has feathers.,No
+151,does a cauliflower have wings?,No
+152,a cauliflower has wings.,No
+153,does a cauliflower have a wing?,No
+154,a cauliflower has a wing.,No
+155,does a cauliflower have horns?,No
+156,a cauliflower has horns.,No
+157,does a cauliflower have hair?,No
+158,a cauliflower has hair.,No
+159,does a cauliflower have fur?,No
+160,a cauliflower has fur.,No
+161,does a chili fly?,No
+162,can a chili fly?,No
+163,a chili flys.,No
+164,is a chili capable of flying?,No
+165,a chili is capable of flying.,No
+166,does a chili live underwater?,No
+167,a chili lives underwater.,No
+168,does a chili live in the water?,No
+169,a chili lives in the water.,No
+170,does a chili have a beak?,No
+171,a chili has a beak.,No
+172,does a chili have feathers?,No
+173,a chili has feathers.,No
+174,does a chili have wings?,No
+175,a chili has wings.,No
+176,does a chili have a wing?,No
+177,a chili has a wing.,No
+178,does a chili have horns?,No
+179,a chili has horns.,No
+180,does a chili have hair?,No
+181,a chili has hair.,No
+182,does a chili have fur?,No
+183,a chili has fur.,No
+184,does a cushaw fly?,No
+185,can a cushaw fly?,No
+186,a cushaw flys.,No
+187,is a cushaw capable of flying?,No
+188,a cushaw is capable of flying.,No
+189,does a cushaw live underwater?,No
+190,a cushaw lives underwater.,No
+191,does a cushaw live in the water?,No
+192,a cushaw lives in the water.,No
+193,does a cushaw have a beak?,No
+194,a cushaw has a beak.,No
+195,does a cushaw have feathers?,No
+196,a cushaw has feathers.,No
+197,does a cushaw have wings?,No
+198,a cushaw has wings.,No
+199,does a cushaw have a wing?,No
+200,a cushaw has a wing.,No
+201,does a cushaw have horns?,No
+202,a cushaw has horns.,No
+203,does a cushaw have hair?,No
+204,a cushaw has hair.,No
+205,does a cushaw have fur?,No
+206,a cushaw has fur.,No
+207,does a eggplant fly?,No
+208,can a eggplant fly?,No
+209,a eggplant flys.,No
+210,is a eggplant capable of flying?,No
+211,a eggplant is capable of flying.,No
+212,does a eggplant live underwater?,No
+213,a eggplant lives underwater.,No
+214,does a eggplant live in the water?,No
+215,a eggplant lives in the water.,No
+216,does a eggplant have a beak?,No
+217,a eggplant has a beak.,No
+218,does a eggplant have feathers?,No
+219,a eggplant has feathers.,No
+220,does a eggplant have wings?,No
+221,a eggplant has wings.,No
+222,does a eggplant have a wing?,No
+223,a eggplant has a wing.,No
+224,does a eggplant have horns?,No
+225,a eggplant has horns.,No
+226,does a eggplant have hair?,No
+227,a eggplant has hair.,No
+228,does a eggplant have fur?,No
+229,a eggplant has fur.,No
+230,does a jalapeno fly?,No
+231,can a jalapeno fly?,No
+232,a jalapeno flys.,No
+233,is a jalapeno capable of flying?,No
+234,a jalapeno is capable of flying.,No
+235,does a jalapeno live underwater?,No
+236,a jalapeno lives underwater.,No
+237,does a jalapeno live in the water?,No
+238,a jalapeno lives in the water.,No
+239,does a jalapeno have a beak?,No
+240,a jalapeno has a beak.,No
+241,does a jalapeno have feathers?,No
+242,a jalapeno has feathers.,No
+243,does a jalapeno have wings?,No
+244,a jalapeno has wings.,No
+245,does a jalapeno have a wing?,No
+246,a jalapeno has a wing.,No
+247,does a jalapeno have horns?,No
+248,a jalapeno has horns.,No
+249,does a jalapeno have hair?,No
+250,a jalapeno has hair.,No
+251,does a jalapeno have fur?,No
+252,a jalapeno has fur.,No
+253,does a kale fly?,No
+254,can a kale fly?,No
+255,a kale flys.,No
+256,is a kale capable of flying?,No
+257,a kale is capable of flying.,No
+258,does a kale live underwater?,No
+259,a kale lives underwater.,No
+260,does a kale live in the water?,No
+261,a kale lives in the water.,No
+262,does a kale have a beak?,No
+263,a kale has a beak.,No
+264,does a kale have feathers?,No
+265,a kale has feathers.,No
+266,does a kale have wings?,No
+267,a kale has wings.,No
+268,does a kale have a wing?,No
+269,a kale has a wing.,No
+270,does a kale have horns?,No
+271,a kale has horns.,No
+272,does a kale have hair?,No
+273,a kale has hair.,No
+274,does a kale have fur?,No
+275,a kale has fur.,No
+276,does a kohlrabi fly?,No
+277,can a kohlrabi fly?,No
+278,a kohlrabi flys.,No
+279,is a kohlrabi capable of flying?,No
+280,a kohlrabi is capable of flying.,No
+281,does a kohlrabi live underwater?,No
+282,a kohlrabi lives underwater.,No
+283,does a kohlrabi live in the water?,No
+284,a kohlrabi lives in the water.,No
+285,does a kohlrabi have a beak?,No
+286,a kohlrabi has a beak.,No
+287,does a kohlrabi have feathers?,No
+288,a kohlrabi has feathers.,No
+289,does a kohlrabi have wings?,No
+290,a kohlrabi has wings.,No
+291,does a kohlrabi have a wing?,No
+292,a kohlrabi has a wing.,No
+293,does a kohlrabi have horns?,No
+294,a kohlrabi has horns.,No
+295,does a kohlrabi have hair?,No
+296,a kohlrabi has hair.,No
+297,does a kohlrabi have fur?,No
+298,a kohlrabi has fur.,No
+299,does a lentil fly?,No
+300,can a lentil fly?,No
+301,a lentil flys.,No
+302,is a lentil capable of flying?,No
+303,a lentil is capable of flying.,No
+304,does a lentil live underwater?,No
+305,a lentil lives underwater.,No
+306,does a lentil live in the water?,No
+307,a lentil lives in the water.,No
+308,does a lentil have a beak?,No
+309,a lentil has a beak.,No
+310,does a lentil have feathers?,No
+311,a lentil has feathers.,No
+312,does a lentil have wings?,No
+313,a lentil has wings.,No
+314,does a lentil have a wing?,No
+315,a lentil has a wing.,No
+316,does a lentil have horns?,No
+317,a lentil has horns.,No
+318,does a lentil have hair?,No
+319,a lentil has hair.,No
+320,does a lentil have fur?,No
+321,a lentil has fur.,No
+322,does a lettuce fly?,No
+323,can a lettuce fly?,No
+324,a lettuce flys.,No
+325,is a lettuce capable of flying?,No
+326,a lettuce is capable of flying.,No
+327,does a lettuce live underwater?,No
+328,a lettuce lives underwater.,No
+329,does a lettuce live in the water?,No
+330,a lettuce lives in the water.,No
+331,does a lettuce have a beak?,No
+332,a lettuce has a beak.,No
+333,does a lettuce have feathers?,No
+334,a lettuce has feathers.,No
+335,does a lettuce have wings?,No
+336,a lettuce has wings.,No
+337,does a lettuce have a wing?,No
+338,a lettuce has a wing.,No
+339,does a lettuce have horns?,No
+340,a lettuce has horns.,No
+341,does a lettuce have hair?,No
+342,a lettuce has hair.,No
+343,does a lettuce have fur?,No
+344,a lettuce has fur.,No
+345,does a mustard fly?,No
+346,can a mustard fly?,No
+347,a mustard flys.,No
+348,is a mustard capable of flying?,No
+349,a mustard is capable of flying.,No
+350,does a mustard live underwater?,No
+351,a mustard lives underwater.,No
+352,does a mustard live in the water?,No
+353,a mustard lives in the water.,No
+354,does a mustard have a beak?,No
+355,a mustard has a beak.,No
+356,does a mustard have feathers?,No
+357,a mustard has feathers.,No
+358,does a mustard have wings?,No
+359,a mustard has wings.,No
+360,does a mustard have a wing?,No
+361,a mustard has a wing.,No
+362,does a mustard have horns?,No
+363,a mustard has horns.,No
+364,does a mustard have hair?,No
+365,a mustard has hair.,No
+366,does a mustard have fur?,No
+367,a mustard has fur.,No
+368,does a pepper fly?,No
+369,can a pepper fly?,No
+370,a pepper flys.,No
+371,is a pepper capable of flying?,No
+372,a pepper is capable of flying.,No
+373,does a pepper live underwater?,No
+374,a pepper lives underwater.,No
+375,does a pepper live in the water?,No
+376,a pepper lives in the water.,No
+377,does a pepper have a beak?,No
+378,a pepper has a beak.,No
+379,does a pepper have feathers?,No
+380,a pepper has feathers.,No
+381,does a pepper have wings?,No
+382,a pepper has wings.,No
+383,does a pepper have a wing?,No
+384,a pepper has a wing.,No
+385,does a pepper have horns?,No
+386,a pepper has horns.,No
+387,does a pepper have hair?,No
+388,a pepper has hair.,No
+389,does a pepper have fur?,No
+390,a pepper has fur.,No
+391,does a potato fly?,No
+392,can a potato fly?,No
+393,a potato flys.,No
+394,is a potato capable of flying?,No
+395,a potato is capable of flying.,No
+396,does a potato live underwater?,No
+397,a potato lives underwater.,No
+398,does a potato live in the water?,No
+399,a potato lives in the water.,No
+400,does a potato have a beak?,No
+401,a potato has a beak.,No
+402,does a potato have feathers?,No
+403,a potato has feathers.,No
+404,does a potato have wings?,No
+405,a potato has wings.,No
+406,does a potato have a wing?,No
+407,a potato has a wing.,No
+408,does a potato have horns?,No
+409,a potato has horns.,No
+410,does a potato have hair?,No
+411,a potato has hair.,No
+412,does a potato have fur?,No
+413,a potato has fur.,No
+414,does a radish fly?,No
+415,can a radish fly?,No
+416,a radish flys.,No
+417,is a radish capable of flying?,No
+418,a radish is capable of flying.,No
+419,does a radish live underwater?,No
+420,a radish lives underwater.,No
+421,does a radish live in the water?,No
+422,a radish lives in the water.,No
+423,does a radish have a beak?,No
+424,a radish has a beak.,No
+425,does a radish have feathers?,No
+426,a radish has feathers.,No
+427,does a radish have wings?,No
+428,a radish has wings.,No
+429,does a radish have a wing?,No
+430,a radish has a wing.,No
+431,does a radish have horns?,No
+432,a radish has horns.,No
+433,does a radish have hair?,No
+434,a radish has hair.,No
+435,does a radish have fur?,No
+436,a radish has fur.,No
+437,does a soy fly?,No
+438,can a soy fly?,No
+439,a soy flys.,No
+440,is a soy capable of flying?,No
+441,a soy is capable of flying.,No
+442,does a soy live underwater?,No
+443,a soy lives underwater.,No
+444,does a soy live in the water?,No
+445,a soy lives in the water.,No
+446,does a soy have a beak?,No
+447,a soy has a beak.,No
+448,does a soy have feathers?,No
+449,a soy has feathers.,No
+450,does a soy have wings?,No
+451,a soy has wings.,No
+452,does a soy have a wing?,No
+453,a soy has a wing.,No
+454,does a soy have horns?,No
+455,a soy has horns.,No
+456,does a soy have hair?,No
+457,a soy has hair.,No
+458,does a soy have fur?,No
+459,a soy has fur.,No
+460,does a spinach fly?,No
+461,can a spinach fly?,No
+462,a spinach flys.,No
+463,is a spinach capable of flying?,No
+464,a spinach is capable of flying.,No
+465,does a spinach live underwater?,No
+466,a spinach lives underwater.,No
+467,does a spinach live in the water?,No
+468,a spinach lives in the water.,No
+469,does a spinach have a beak?,No
+470,a spinach has a beak.,No
+471,does a spinach have feathers?,No
+472,a spinach has feathers.,No
+473,does a spinach have wings?,No
+474,a spinach has wings.,No
+475,does a spinach have a wing?,No
+476,a spinach has a wing.,No
+477,does a spinach have horns?,No
+478,a spinach has horns.,No
+479,does a spinach have hair?,No
+480,a spinach has hair.,No
+481,does a spinach have fur?,No
+482,a spinach has fur.,No
+483,does a tabasco fly?,No
+484,can a tabasco fly?,No
+485,a tabasco flys.,No
+486,is a tabasco capable of flying?,No
+487,a tabasco is capable of flying.,No
+488,does a tabasco live underwater?,No
+489,a tabasco lives underwater.,No
+490,does a tabasco live in the water?,No
+491,a tabasco lives in the water.,No
+492,does a tabasco have a beak?,No
+493,a tabasco has a beak.,No
+494,does a tabasco have feathers?,No
+495,a tabasco has feathers.,No
+496,does a tabasco have wings?,No
+497,a tabasco has wings.,No
+498,does a tabasco have a wing?,No
+499,a tabasco has a wing.,No
+500,does a tabasco have horns?,No
+501,a tabasco has horns.,No
+502,does a tabasco have hair?,No
+503,a tabasco has hair.,No
+504,does a tabasco have fur?,No
+505,a tabasco has fur.,No
+506,does a tomato fly?,No
+507,can a tomato fly?,No
+508,a tomato flys.,No
+509,is a tomato capable of flying?,No
+510,a tomato is capable of flying.,No
+511,does a tomato live underwater?,No
+512,a tomato lives underwater.,No
+513,does a tomato live in the water?,No
+514,a tomato lives in the water.,No
+515,does a tomato have a beak?,No
+516,a tomato has a beak.,No
+517,does a tomato have feathers?,No
+518,a tomato has feathers.,No
+519,does a tomato have wings?,No
+520,a tomato has wings.,No
+521,does a tomato have a wing?,No
+522,a tomato has a wing.,No
+523,does a tomato have horns?,No
+524,a tomato has horns.,No
+525,does a tomato have hair?,No
+526,a tomato has hair.,No
+527,does a tomato have fur?,No
+528,a tomato has fur.,No
+529,does a zucchini fly?,No
+530,can a zucchini fly?,No
+531,a zucchini flys.,No
+532,is a zucchini capable of flying?,No
+533,a zucchini is capable of flying.,No
+534,does a zucchini live underwater?,No
+535,a zucchini lives underwater.,No
+536,does a zucchini live in the water?,No
+537,a zucchini lives in the water.,No
+538,does a zucchini have a beak?,No
+539,a zucchini has a beak.,No
+540,does a zucchini have feathers?,No
+541,a zucchini has feathers.,No
+542,does a zucchini have wings?,No
+543,a zucchini has wings.,No
+544,does a zucchini have a wing?,No
+545,a zucchini has a wing.,No
+546,does a zucchini have horns?,No
+547,a zucchini has horns.,No
+548,does a zucchini have hair?,No
+549,a zucchini has hair.,No
+550,does a zucchini have fur?,No
+551,a zucchini has fur.,No
+552,does a almond fly?,No
+553,can a almond fly?,No
+554,a almond flys.,No
+555,is a almond capable of flying?,No
+556,a almond is capable of flying.,No
+557,does a almond live underwater?,No
+558,a almond lives underwater.,No
+559,does a almond live in the water?,No
+560,a almond lives in the water.,No
+561,does a almond have a beak?,No
+562,a almond has a beak.,No
+563,does a almond have feathers?,No
+564,a almond has feathers.,No
+565,does a almond have wings?,No
+566,a almond has wings.,No
+567,does a almond have a wing?,No
+568,a almond has a wing.,No
+569,does a almond have horns?,No
+570,a almond has horns.,No
+571,does a almond have hair?,No
+572,a almond has hair.,No
+573,does a almond have fur?,No
+574,a almond has fur.,No
+575,does a apple fly?,No
+576,can a apple fly?,No
+577,a apple flys.,No
+578,is a apple capable of flying?,No
+579,a apple is capable of flying.,No
+580,does a apple live underwater?,No
+581,a apple lives underwater.,No
+582,does a apple live in the water?,No
+583,a apple lives in the water.,No
+584,does a apple have a beak?,No
+585,a apple has a beak.,No
+586,does a apple have feathers?,No
+587,a apple has feathers.,No
+588,does a apple have wings?,No
+589,a apple has wings.,No
+590,does a apple have a wing?,No
+591,a apple has a wing.,No
+592,does a apple have horns?,No
+593,a apple has horns.,No
+594,does a apple have hair?,No
+595,a apple has hair.,No
+596,does a apple have fur?,No
+597,a apple has fur.,No
+598,does a apricot fly?,No
+599,can a apricot fly?,No
+600,a apricot flys.,No
+601,is a apricot capable of flying?,No
+602,a apricot is capable of flying.,No
+603,does a apricot live underwater?,No
+604,a apricot lives underwater.,No
+605,does a apricot live in the water?,No
+606,a apricot lives in the water.,No
+607,does a apricot have a beak?,No
+608,a apricot has a beak.,No
+609,does a apricot have feathers?,No
+610,a apricot has feathers.,No
+611,does a apricot have wings?,No
+612,a apricot has wings.,No
+613,does a apricot have a wing?,No
+614,a apricot has a wing.,No
+615,does a apricot have horns?,No
+616,a apricot has horns.,No
+617,does a apricot have hair?,No
+618,a apricot has hair.,No
+619,does a apricot have fur?,No
+620,a apricot has fur.,No
+621,does a avocado fly?,No
+622,can a avocado fly?,No
+623,a avocado flys.,No
+624,is a avocado capable of flying?,No
+625,a avocado is capable of flying.,No
+626,does a avocado live underwater?,No
+627,a avocado lives underwater.,No
+628,does a avocado live in the water?,No
+629,a avocado lives in the water.,No
+630,does a avocado have a beak?,No
+631,a avocado has a beak.,No
+632,does a avocado have feathers?,No
+633,a avocado has feathers.,No
+634,does a avocado have wings?,No
+635,a avocado has wings.,No
+636,does a avocado have a wing?,No
+637,a avocado has a wing.,No
+638,does a avocado have horns?,No
+639,a avocado has horns.,No
+640,does a avocado have hair?,No
+641,a avocado has hair.,No
+642,does a avocado have fur?,No
+643,a avocado has fur.,No
+644,does a banana fly?,No
+645,can a banana fly?,No
+646,a banana flys.,No
+647,is a banana capable of flying?,No
+648,a banana is capable of flying.,No
+649,does a banana live underwater?,No
+650,a banana lives underwater.,No
+651,does a banana live in the water?,No
+652,a banana lives in the water.,No
+653,does a banana have a beak?,No
+654,a banana has a beak.,No
+655,does a banana have feathers?,No
+656,a banana has feathers.,No
+657,does a banana have wings?,No
+658,a banana has wings.,No
+659,does a banana have a wing?,No
+660,a banana has a wing.,No
+661,does a banana have horns?,No
+662,a banana has horns.,No
+663,does a banana have hair?,No
+664,a banana has hair.,No
+665,does a banana have fur?,No
+666,a banana has fur.,No
+667,does a berry fly?,No
+668,can a berry fly?,No
+669,a berry flys.,No
+670,is a berry capable of flying?,No
+671,a berry is capable of flying.,No
+672,does a berry live underwater?,No
+673,a berry lives underwater.,No
+674,does a berry live in the water?,No
+675,a berry lives in the water.,No
+676,does a berry have a beak?,No
+677,a berry has a beak.,No
+678,does a berry have feathers?,No
+679,a berry has feathers.,No
+680,does a berry have wings?,No
+681,a berry has wings.,No
+682,does a berry have a wing?,No
+683,a berry has a wing.,No
+684,does a berry have horns?,No
+685,a berry has horns.,No
+686,does a berry have hair?,No
+687,a berry has hair.,No
+688,does a berry have fur?,No
+689,a berry has fur.,No
+690,does a blackberry fly?,No
+691,can a blackberry fly?,No
+692,a blackberry flys.,No
+693,is a blackberry capable of flying?,No
+694,a blackberry is capable of flying.,No
+695,does a blackberry live underwater?,No
+696,a blackberry lives underwater.,No
+697,does a blackberry live in the water?,No
+698,a blackberry lives in the water.,No
+699,does a blackberry have a beak?,No
+700,a blackberry has a beak.,No
+701,does a blackberry have feathers?,No
+702,a blackberry has feathers.,No
+703,does a blackberry have wings?,No
+704,a blackberry has wings.,No
+705,does a blackberry have a wing?,No
+706,a blackberry has a wing.,No
+707,does a blackberry have horns?,No
+708,a blackberry has horns.,No
+709,does a blackberry have hair?,No
+710,a blackberry has hair.,No
+711,does a blackberry have fur?,No
+712,a blackberry has fur.,No
+713,does a blackheart fly?,No
+714,can a blackheart fly?,No
+715,a blackheart flys.,No
+716,is a blackheart capable of flying?,No
+717,a blackheart is capable of flying.,No
+718,does a blackheart live underwater?,No
+719,a blackheart lives underwater.,No
+720,does a blackheart live in the water?,No
+721,a blackheart lives in the water.,No
+722,does a blackheart have a beak?,No
+723,a blackheart has a beak.,No
+724,does a blackheart have feathers?,No
+725,a blackheart has feathers.,No
+726,does a blackheart have wings?,No
+727,a blackheart has wings.,No
+728,does a blackheart have a wing?,No
+729,a blackheart has a wing.,No
+730,does a blackheart have horns?,No
+731,a blackheart has horns.,No
+732,does a blackheart have hair?,No
+733,a blackheart has hair.,No
+734,does a blackheart have fur?,No
+735,a blackheart has fur.,No
+736,does a blueberry fly?,No
+737,can a blueberry fly?,No
+738,a blueberry flys.,No
+739,is a blueberry capable of flying?,No
+740,a blueberry is capable of flying.,No
+741,does a blueberry live underwater?,No
+742,a blueberry lives underwater.,No
+743,does a blueberry live in the water?,No
+744,a blueberry lives in the water.,No
+745,does a blueberry have a beak?,No
+746,a blueberry has a beak.,No
+747,does a blueberry have feathers?,No
+748,a blueberry has feathers.,No
+749,does a blueberry have wings?,No
+750,a blueberry has wings.,No
+751,does a blueberry have a wing?,No
+752,a blueberry has a wing.,No
+753,does a blueberry have horns?,No
+754,a blueberry has horns.,No
+755,does a blueberry have hair?,No
+756,a blueberry has hair.,No
+757,does a blueberry have fur?,No
+758,a blueberry has fur.,No
+759,does a cherry fly?,No
+760,can a cherry fly?,No
+761,a cherry flys.,No
+762,is a cherry capable of flying?,No
+763,a cherry is capable of flying.,No
+764,does a cherry live underwater?,No
+765,a cherry lives underwater.,No
+766,does a cherry live in the water?,No
+767,a cherry lives in the water.,No
+768,does a cherry have a beak?,No
+769,a cherry has a beak.,No
+770,does a cherry have feathers?,No
+771,a cherry has feathers.,No
+772,does a cherry have wings?,No
+773,a cherry has wings.,No
+774,does a cherry have a wing?,No
+775,a cherry has a wing.,No
+776,does a cherry have horns?,No
+777,a cherry has horns.,No
+778,does a cherry have hair?,No
+779,a cherry has hair.,No
+780,does a cherry have fur?,No
+781,a cherry has fur.,No
+782,does a chestnut fly?,No
+783,can a chestnut fly?,No
+784,a chestnut flys.,No
+785,is a chestnut capable of flying?,No
+786,a chestnut is capable of flying.,No
+787,does a chestnut live underwater?,No
+788,a chestnut lives underwater.,No
+789,does a chestnut live in the water?,No
+790,a chestnut lives in the water.,No
+791,does a chestnut have a beak?,No
+792,a chestnut has a beak.,No
+793,does a chestnut have feathers?,No
+794,a chestnut has feathers.,No
+795,does a chestnut have wings?,No
+796,a chestnut has wings.,No
+797,does a chestnut have a wing?,No
+798,a chestnut has a wing.,No
+799,does a chestnut have horns?,No
+800,a chestnut has horns.,No
+801,does a chestnut have hair?,No
+802,a chestnut has hair.,No
+803,does a chestnut have fur?,No
+804,a chestnut has fur.,No
+805,does a citron fly?,No
+806,can a citron fly?,No
+807,a citron flys.,No
+808,is a citron capable of flying?,No
+809,a citron is capable of flying.,No
+810,does a citron live underwater?,No
+811,a citron lives underwater.,No
+812,does a citron live in the water?,No
+813,a citron lives in the water.,No
+814,does a citron have a beak?,No
+815,a citron has a beak.,No
+816,does a citron have feathers?,No
+817,a citron has feathers.,No
+818,does a citron have wings?,No
+819,a citron has wings.,No
+820,does a citron have a wing?,No
+821,a citron has a wing.,No
+822,does a citron have horns?,No
+823,a citron has horns.,No
+824,does a citron have hair?,No
+825,a citron has hair.,No
+826,does a citron have fur?,No
+827,a citron has fur.,No
+828,does a corn fly?,No
+829,can a corn fly?,No
+830,a corn flys.,No
+831,is a corn capable of flying?,No
+832,a corn is capable of flying.,No
+833,does a corn live underwater?,No
+834,a corn lives underwater.,No
+835,does a corn live in the water?,No
+836,a corn lives in the water.,No
+837,does a corn have a beak?,No
+838,a corn has a beak.,No
+839,does a corn have feathers?,No
+840,a corn has feathers.,No
+841,does a corn have wings?,No
+842,a corn has wings.,No
+843,does a corn have a wing?,No
+844,a corn has a wing.,No
+845,does a corn have horns?,No
+846,a corn has horns.,No
+847,does a corn have hair?,No
+848,a corn has hair.,No
+849,does a corn have fur?,No
+850,a corn has fur.,No
+851,does a cumin fly?,No
+852,can a cumin fly?,No
+853,a cumin flys.,No
+854,is a cumin capable of flying?,No
+855,a cumin is capable of flying.,No
+856,does a cumin live underwater?,No
+857,a cumin lives underwater.,No
+858,does a cumin live in the water?,No
+859,a cumin lives in the water.,No
+860,does a cumin have a beak?,No
+861,a cumin has a beak.,No
+862,does a cumin have feathers?,No
+863,a cumin has feathers.,No
+864,does a cumin have wings?,No
+865,a cumin has wings.,No
+866,does a cumin have a wing?,No
+867,a cumin has a wing.,No
+868,does a cumin have horns?,No
+869,a cumin has horns.,No
+870,does a cumin have hair?,No
+871,a cumin has hair.,No
+872,does a cumin have fur?,No
+873,a cumin has fur.,No
+874,does a fig fly?,No
+875,can a fig fly?,No
+876,a fig flys.,No
+877,is a fig capable of flying?,No
+878,a fig is capable of flying.,No
+879,does a fig live underwater?,No
+880,a fig lives underwater.,No
+881,does a fig live in the water?,No
+882,a fig lives in the water.,No
+883,does a fig have a beak?,No
+884,a fig has a beak.,No
+885,does a fig have feathers?,No
+886,a fig has feathers.,No
+887,does a fig have wings?,No
+888,a fig has wings.,No
+889,does a fig have a wing?,No
+890,a fig has a wing.,No
+891,does a fig have horns?,No
+892,a fig has horns.,No
+893,does a fig have hair?,No
+894,a fig has hair.,No
+895,does a fig have fur?,No
+896,a fig has fur.,No
+897,does a grape fly?,No
+898,can a grape fly?,No
+899,a grape flys.,No
+900,is a grape capable of flying?,No
+901,a grape is capable of flying.,No
+902,does a grape live underwater?,No
+903,a grape lives underwater.,No
+904,does a grape live in the water?,No
+905,a grape lives in the water.,No
+906,does a grape have a beak?,No
+907,a grape has a beak.,No
+908,does a grape have feathers?,No
+909,a grape has feathers.,No
+910,does a grape have wings?,No
+911,a grape has wings.,No
+912,does a grape have a wing?,No
+913,a grape has a wing.,No
+914,does a grape have horns?,No
+915,a grape has horns.,No
+916,does a grape have hair?,No
+917,a grape has hair.,No
+918,does a grape have fur?,No
+919,a grape has fur.,No
+920,does a grapefruit fly?,No
+921,can a grapefruit fly?,No
+922,a grapefruit flys.,No
+923,is a grapefruit capable of flying?,No
+924,a grapefruit is capable of flying.,No
+925,does a grapefruit live underwater?,No
+926,a grapefruit lives underwater.,No
+927,does a grapefruit live in the water?,No
+928,a grapefruit lives in the water.,No
+929,does a grapefruit have a beak?,No
+930,a grapefruit has a beak.,No
+931,does a grapefruit have feathers?,No
+932,a grapefruit has feathers.,No
+933,does a grapefruit have wings?,No
+934,a grapefruit has wings.,No
+935,does a grapefruit have a wing?,No
+936,a grapefruit has a wing.,No
+937,does a grapefruit have horns?,No
+938,a grapefruit has horns.,No
+939,does a grapefruit have hair?,No
+940,a grapefruit has hair.,No
+941,does a grapefruit have fur?,No
+942,a grapefruit has fur.,No
+943,does a greengage fly?,No
+944,can a greengage fly?,No
+945,a greengage flys.,No
+946,is a greengage capable of flying?,No
+947,a greengage is capable of flying.,No
+948,does a greengage live underwater?,No
+949,a greengage lives underwater.,No
+950,does a greengage live in the water?,No
+951,a greengage lives in the water.,No
+952,does a greengage have a beak?,No
+953,a greengage has a beak.,No
+954,does a greengage have feathers?,No
+955,a greengage has feathers.,No
+956,does a greengage have wings?,No
+957,a greengage has wings.,No
+958,does a greengage have a wing?,No
+959,a greengage has a wing.,No
+960,does a greengage have horns?,No
+961,a greengage has horns.,No
+962,does a greengage have hair?,No
+963,a greengage has hair.,No
+964,does a greengage have fur?,No
+965,a greengage has fur.,No
+966,does a guava fly?,No
+967,can a guava fly?,No
+968,a guava flys.,No
+969,is a guava capable of flying?,No
+970,a guava is capable of flying.,No
+971,does a guava live underwater?,No
+972,a guava lives underwater.,No
+973,does a guava live in the water?,No
+974,a guava lives in the water.,No
+975,does a guava have a beak?,No
+976,a guava has a beak.,No
+977,does a guava have feathers?,No
+978,a guava has feathers.,No
+979,does a guava have wings?,No
+980,a guava has wings.,No
+981,does a guava have a wing?,No
+982,a guava has a wing.,No
+983,does a guava have horns?,No
+984,a guava has horns.,No
+985,does a guava have hair?,No
+986,a guava has hair.,No
+987,does a guava have fur?,No
+988,a guava has fur.,No
+989,does a kiwi fly?,No
+990,can a kiwi fly?,No
+991,a kiwi flys.,No
+992,is a kiwi capable of flying?,No
+993,a kiwi is capable of flying.,No
+994,does a kiwi live underwater?,No
+995,a kiwi lives underwater.,No
+996,does a kiwi live in the water?,No
+997,a kiwi lives in the water.,No
+998,does a kiwi have a beak?,No
+999,a kiwi has a beak.,No
+1000,does a kiwi have feathers?,No
+1001,a kiwi has feathers.,No
+1002,does a kiwi have wings?,No
+1003,a kiwi has wings.,No
+1004,does a kiwi have a wing?,No
+1005,a kiwi has a wing.,No
+1006,does a kiwi have horns?,No
+1007,a kiwi has horns.,No
+1008,does a kiwi have hair?,No
+1009,a kiwi has hair.,No
+1010,does a kiwi have fur?,No
+1011,a kiwi has fur.,No
+1012,does a lemon fly?,No
+1013,can a lemon fly?,No
+1014,a lemon flys.,No
+1015,is a lemon capable of flying?,No
+1016,a lemon is capable of flying.,No
+1017,does a lemon live underwater?,No
+1018,a lemon lives underwater.,No
+1019,does a lemon live in the water?,No
+1020,a lemon lives in the water.,No
+1021,does a lemon have a beak?,No
+1022,a lemon has a beak.,No
+1023,does a lemon have feathers?,No
+1024,a lemon has feathers.,No
+1025,does a lemon have wings?,No
+1026,a lemon has wings.,No
+1027,does a lemon have a wing?,No
+1028,a lemon has a wing.,No
+1029,does a lemon have horns?,No
+1030,a lemon has horns.,No
+1031,does a lemon have hair?,No
+1032,a lemon has hair.,No
+1033,does a lemon have fur?,No
+1034,a lemon has fur.,No
+1035,does a mango fly?,No
+1036,can a mango fly?,No
+1037,a mango flys.,No
+1038,is a mango capable of flying?,No
+1039,a mango is capable of flying.,No
+1040,does a mango live underwater?,No
+1041,a mango lives underwater.,No
+1042,does a mango live in the water?,No
+1043,a mango lives in the water.,No
+1044,does a mango have a beak?,No
+1045,a mango has a beak.,No
+1046,does a mango have feathers?,No
+1047,a mango has feathers.,No
+1048,does a mango have wings?,No
+1049,a mango has wings.,No
+1050,does a mango have a wing?,No
+1051,a mango has a wing.,No
+1052,does a mango have horns?,No
+1053,a mango has horns.,No
+1054,does a mango have hair?,No
+1055,a mango has hair.,No
+1056,does a mango have fur?,No
+1057,a mango has fur.,No
+1058,does a melon fly?,No
+1059,can a melon fly?,No
+1060,a melon flys.,No
+1061,is a melon capable of flying?,No
+1062,a melon is capable of flying.,No
+1063,does a melon live underwater?,No
+1064,a melon lives underwater.,No
+1065,does a melon live in the water?,No
+1066,a melon lives in the water.,No
+1067,does a melon have a beak?,No
+1068,a melon has a beak.,No
+1069,does a melon have feathers?,No
+1070,a melon has feathers.,No
+1071,does a melon have wings?,No
+1072,a melon has wings.,No
+1073,does a melon have a wing?,No
+1074,a melon has a wing.,No
+1075,does a melon have horns?,No
+1076,a melon has horns.,No
+1077,does a melon have hair?,No
+1078,a melon has hair.,No
+1079,does a melon have fur?,No
+1080,a melon has fur.,No
+1081,does a muscat fly?,No
+1082,can a muscat fly?,No
+1083,a muscat flys.,No
+1084,is a muscat capable of flying?,No
+1085,a muscat is capable of flying.,No
+1086,does a muscat live underwater?,No
+1087,a muscat lives underwater.,No
+1088,does a muscat live in the water?,No
+1089,a muscat lives in the water.,No
+1090,does a muscat have a beak?,No
+1091,a muscat has a beak.,No
+1092,does a muscat have feathers?,No
+1093,a muscat has feathers.,No
+1094,does a muscat have wings?,No
+1095,a muscat has wings.,No
+1096,does a muscat have a wing?,No
+1097,a muscat has a wing.,No
+1098,does a muscat have horns?,No
+1099,a muscat has horns.,No
+1100,does a muscat have hair?,No
+1101,a muscat has hair.,No
+1102,does a muscat have fur?,No
+1103,a muscat has fur.,No
+1104,does a nut fly?,No
+1105,can a nut fly?,No
+1106,a nut flys.,No
+1107,is a nut capable of flying?,No
+1108,a nut is capable of flying.,No
+1109,does a nut live underwater?,No
+1110,a nut lives underwater.,No
+1111,does a nut live in the water?,No
+1112,a nut lives in the water.,No
+1113,does a nut have a beak?,No
+1114,a nut has a beak.,No
+1115,does a nut have feathers?,No
+1116,a nut has feathers.,No
+1117,does a nut have wings?,No
+1118,a nut has wings.,No
+1119,does a nut have a wing?,No
+1120,a nut has a wing.,No
+1121,does a nut have horns?,No
+1122,a nut has horns.,No
+1123,does a nut have hair?,No
+1124,a nut has hair.,No
+1125,does a nut have fur?,No
+1126,a nut has fur.,No
+1127,does a papaya fly?,No
+1128,can a papaya fly?,No
+1129,a papaya flys.,No
+1130,is a papaya capable of flying?,No
+1131,a papaya is capable of flying.,No
+1132,does a papaya live underwater?,No
+1133,a papaya lives underwater.,No
+1134,does a papaya live in the water?,No
+1135,a papaya lives in the water.,No
+1136,does a papaya have a beak?,No
+1137,a papaya has a beak.,No
+1138,does a papaya have feathers?,No
+1139,a papaya has feathers.,No
+1140,does a papaya have wings?,No
+1141,a papaya has wings.,No
+1142,does a papaya have a wing?,No
+1143,a papaya has a wing.,No
+1144,does a papaya have horns?,No
+1145,a papaya has horns.,No
+1146,does a papaya have hair?,No
+1147,a papaya has hair.,No
+1148,does a papaya have fur?,No
+1149,a papaya has fur.,No
+1150,does a pea fly?,No
+1151,can a pea fly?,No
+1152,a pea flys.,No
+1153,is a pea capable of flying?,No
+1154,a pea is capable of flying.,No
+1155,does a pea live underwater?,No
+1156,a pea lives underwater.,No
+1157,does a pea live in the water?,No
+1158,a pea lives in the water.,No
+1159,does a pea have a beak?,No
+1160,a pea has a beak.,No
+1161,does a pea have feathers?,No
+1162,a pea has feathers.,No
+1163,does a pea have wings?,No
+1164,a pea has wings.,No
+1165,does a pea have a wing?,No
+1166,a pea has a wing.,No
+1167,does a pea have horns?,No
+1168,a pea has horns.,No
+1169,does a pea have hair?,No
+1170,a pea has hair.,No
+1171,does a pea have fur?,No
+1172,a pea has fur.,No
+1173,does a peach fly?,No
+1174,can a peach fly?,No
+1175,a peach flys.,No
+1176,is a peach capable of flying?,No
+1177,a peach is capable of flying.,No
+1178,does a peach live underwater?,No
+1179,a peach lives underwater.,No
+1180,does a peach live in the water?,No
+1181,a peach lives in the water.,No
+1182,does a peach have a beak?,No
+1183,a peach has a beak.,No
+1184,does a peach have feathers?,No
+1185,a peach has feathers.,No
+1186,does a peach have wings?,No
+1187,a peach has wings.,No
+1188,does a peach have a wing?,No
+1189,a peach has a wing.,No
+1190,does a peach have horns?,No
+1191,a peach has horns.,No
+1192,does a peach have hair?,No
+1193,a peach has hair.,No
+1194,does a peach have fur?,No
+1195,a peach has fur.,No
+1196,does a peanut fly?,No
+1197,can a peanut fly?,No
+1198,a peanut flys.,No
+1199,is a peanut capable of flying?,No
+1200,a peanut is capable of flying.,No
+1201,does a peanut live underwater?,No
+1202,a peanut lives underwater.,No
+1203,does a peanut live in the water?,No
+1204,a peanut lives in the water.,No
+1205,does a peanut have a beak?,No
+1206,a peanut has a beak.,No
+1207,does a peanut have feathers?,No
+1208,a peanut has feathers.,No
+1209,does a peanut have wings?,No
+1210,a peanut has wings.,No
+1211,does a peanut have a wing?,No
+1212,a peanut has a wing.,No
+1213,does a peanut have horns?,No
+1214,a peanut has horns.,No
+1215,does a peanut have hair?,No
+1216,a peanut has hair.,No
+1217,does a peanut have fur?,No
+1218,a peanut has fur.,No
+1219,does a pear fly?,No
+1220,can a pear fly?,No
+1221,a pear flys.,No
+1222,is a pear capable of flying?,No
+1223,a pear is capable of flying.,No
+1224,does a pear live underwater?,No
+1225,a pear lives underwater.,No
+1226,does a pear live in the water?,No
+1227,a pear lives in the water.,No
+1228,does a pear have a beak?,No
+1229,a pear has a beak.,No
+1230,does a pear have feathers?,No
+1231,a pear has feathers.,No
+1232,does a pear have wings?,No
+1233,a pear has wings.,No
+1234,does a pear have a wing?,No
+1235,a pear has a wing.,No
+1236,does a pear have horns?,No
+1237,a pear has horns.,No
+1238,does a pear have hair?,No
+1239,a pear has hair.,No
+1240,does a pear have fur?,No
+1241,a pear has fur.,No
