@@ -107,12 +107,12 @@ class YesNoQuestionAnswering(pl.LightningModule):
 
     def train_dataloader(self):
         dataset = YesNoDataSet(csv_path=self.config.get("train_data"), tokenizer=self.tokenizer)
-        dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True)
+        dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True, num_workers=4)
         return dataloader
 
     def val_dataloader(self):
         dataset = YesNoDataSet(csv_path=self.config.get("dev_data"), tokenizer=self.tokenizer)
-        dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=False)
+        dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=False, num_workers=4)
         return dataloader
 
 
@@ -197,16 +197,15 @@ if __name__ == "__main__":
         "gpus": 1,
         "max_epochs": 30,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
-        "batch_size": 16,
+        "batch_size": 8,
         "train_data": "csv/train_no_animals_and_fruits_questions.csv",
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
-        #"checkpoint": "checkpoint/backup2/checkpoint-epoch=2-step=15485.ckpt"
         "checkpoint": None,
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
-        "max_seq_length": 512,
+        "max_length": 512,
         "weight_decay": 0.0,
         "adam_epsilon": 1e-8,
         "warmup_steps": 0,
