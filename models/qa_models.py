@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 class YesNoDataSet(Dataset):
 
-    def __init__(self, csv_path, tokenizer, max_length=512):
+    def __init__(self, csv_path, tokenizer, max_length):
         self.tokenizer = tokenizer
         self.df = pd.read_csv(csv_path)
         self.max_length = max_length
@@ -106,12 +106,12 @@ class YesNoQuestionAnswering(pl.LightningModule):
         return tqdm_dict
 
     def train_dataloader(self):
-        dataset = YesNoDataSet(csv_path=self.config.get("train_data"), tokenizer=self.tokenizer)
+        dataset = YesNoDataSet(csv_path=self.config.get("train_data"), tokenizer=self.tokenizer, max_length=self.config["max_length"])
         dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True, num_workers=4)
         return dataloader
 
     def val_dataloader(self):
-        dataset = YesNoDataSet(csv_path=self.config.get("dev_data"), tokenizer=self.tokenizer)
+        dataset = YesNoDataSet(csv_path=self.config.get("dev_data"), tokenizer=self.tokenizer, max_length=self.config["max_length"])
         dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=False, num_workers=4)
         return dataloader
 
@@ -205,7 +205,7 @@ if __name__ == "__main__":
         "checkpoint": None,
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
-        "max_length": 512,
+        "max_length": 128,
         "weight_decay": 0.0,
         "adam_epsilon": 1e-8,
         "warmup_steps": 0,
