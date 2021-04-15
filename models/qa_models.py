@@ -194,7 +194,7 @@ if __name__ == "__main__":
     config = {
         "train": True,
         "model_name": "t5-base",
-        "gpus": 0,
+        "gpus": 1,
         "max_epochs": 30,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 16,
