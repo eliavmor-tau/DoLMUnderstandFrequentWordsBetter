@@ -203,7 +203,7 @@ if __name__ == "__main__":
         "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
         #"checkpoint": None,
-        "checkpoint": "checkpoint/checkpoint-epoch=0-step=10322.ckpt",
+        "checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
         "max_length": 128,
@@ -227,7 +227,7 @@ if __name__ == "__main__":
                "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
-        test_files = ["csv/animals_can_fly", "csv/animals_cant_fly"]
+    #    test_files = ["csv/animals_can_fly", "csv/animals_cant_fly"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
            # config["test_data"] = f"{f}"

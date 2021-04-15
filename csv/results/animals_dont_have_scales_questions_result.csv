@@ -1,37 +1,37 @@
 ,question,model_answer,true_answer
-0,does a wolf have scales?,No,No
-1,a elephant has scales.,Yes,No
-2,does a tiger have scales?,No,No
-3,a dog has scales.,No,No
-4,does a monkey have scales?,No,No
-5,does a cow have scales?,No,No
-6,a donkey has scales.,No,No
-7,a eagle has scales.,Yes,No
-8,does a elephant have scales?,No,No
-9,does a snake have scales?,No,No
-10,a monkey has scales.,No,No
-11,a cow has scales.,No,No
-12,does a eagle have scales?,Yes,No
-13,does a bird have scales?,No,No
-14,does a donkey have scales?,No,No
-15,does a horse have scales?,No,No
-16,a snake has scales.,No,No
-17,a rhino has scales.,Yes,No
-18,does a lion have scales?,Yes,No
-19,a eagle has scales.,Yes,No
-20,does a swan have scales?,No,No
-21,a tiger has scales.,No,No
-22,does a dog have scales?,No,No
-23,does a fox have scales?,No,No
-24,does a cat have scales?,No,No
-25,a lion has scales.,Yes,No
-26,a swan has scales.,No,No
-27,a horse has scales.,No,No
-28,does a ox have scales?,Yes,No
-29,a ox has scales.,Yes,No
-30,does a rhino have scales?,Yes,No
-31,a fox has scales.,No,No
-32,a wolf has scales.,No,No
+0,a elephant has scales.,No,No
+1,does a monkey have scales?,No,No
+2,a lion has scales.,No,No
+3,a horse has scales.,No,No
+4,a donkey has scales.,No,No
+5,does a wolf have scales?,No,No
+6,does a cow have scales?,No,No
+7,does a horse have scales?,Yes,No
+8,does a dog have scales?,No,No
+9,a tiger has scales.,No,No
+10,does a ox have scales?,No,No
+11,a fox has scales.,No,No
+12,a rhino has scales.,No,No
+13,does a eagle have scales?,No,No
+14,does a tiger have scales?,No,No
+15,does a bird have scales?,No,No
+16,a swan has scales.,No,No
+17,a eagle has scales.,No,No
+18,does a snake have scales?,No,No
+19,does a cat have scales?,No,No
+20,a wolf has scales.,No,No
+21,a ox has scales.,No,No
+22,a monkey has scales.,No,No
+23,does a lion have scales?,No,No
+24,a snake has scales.,No,No
+25,does a eagle have scales?,No,No
+26,does a swan have scales?,No,No
+27,a cow has scales.,No,No
+28,does a rhino have scales?,No,No
+29,does a fox have scales?,No,No
+30,a cat has scales.,No,No
+31,does a elephant have scales?,No,No
+32,a eagle has scales.,No,No
 33,a bird has scales.,No,No
-34,does a eagle have scales?,Yes,No
-35,a cat has scales.,No,No
+34,a dog has scales.,No,No
+35,does a donkey have scales?,No,No

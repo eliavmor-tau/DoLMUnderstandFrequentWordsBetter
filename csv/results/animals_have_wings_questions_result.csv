@@ -1,117 +1,117 @@
 ,question,model_answer,true_answer
-0,does a vulture have a wing?,Yes,Yes
-1,a dove has a wing.,Yes,Yes
-2,does a jay have wings?,Yes,Yes
-3,a heron has a wing.,Yes,Yes
-4,does a heron have a wing?,Yes,Yes
-5,does a hummingbird have a wing?,Yes,Yes
-6,a albatrosses has wings.,Yes,Yes
-7,does a hummingbird have wings?,Yes,Yes
-8,does a chicken have a wing?,Yes,Yes
-9,a goose has a wing.,Yes,Yes
-10,does a gull have a wing?,Yes,Yes
-11,does a duck have wings?,Yes,Yes
-12,a seabird has a wing.,Yes,Yes
-13,does a bird have wings?,Yes,Yes
-14,does a sparrow have a wing?,Yes,Yes
-15,does a seabird have wings?,Yes,Yes
-16,a gull has wings.,Yes,Yes
-17,a seabird has wings.,Yes,Yes
-18,a eagle has a wing.,Yes,Yes
-19,a albatrosses has a wing.,Yes,Yes
-20,a swan has wings.,Yes,Yes
-21,a wader has a wing.,Yes,Yes
-22,does a goose have wings?,Yes,Yes
-23,a crow has a wing.,Yes,Yes
-24,does a pigeon have wings?,Yes,Yes
-25,a bird has a wing.,Yes,Yes
-26,a songbird has wings.,Yes,Yes
-27,a macaw has a wing.,Yes,Yes
-28,a ostrich has wings.,Yes,Yes
-29,a hummingbird has a wing.,Yes,Yes
-30,does a seabird have a wing?,Yes,Yes
-31,does a crow have wings?,Yes,Yes
-32,does a songbird have a wing?,Yes,Yes
-33,does a duck have a wing?,Yes,Yes
-34,does a sparrow have wings?,Yes,Yes
-35,a sparrow has wings.,Yes,Yes
-36,does a dove have a wing?,Yes,Yes
-37,a owl has wings.,Yes,Yes
-38,a vulture has a wing.,Yes,Yes
-39,a dove has wings.,Yes,Yes
-40,a vulture has wings.,Yes,Yes
-41,a turkey has wings.,Yes,Yes
-42,does a swan have a wing?,Yes,Yes
-43,does a jay have a wing?,Yes,Yes
-44,a jay has wings.,Yes,Yes
-45,does a macaw have a wing?,Yes,Yes
-46,a macaw has wings.,Yes,Yes
-47,does a bird have a wing?,Yes,Yes
-48,does a gull have wings?,Yes,Yes
-49,does a swan have wings?,Yes,Yes
-50,a gull has a wing.,Yes,Yes
-51,does a flamingo have a wing?,Yes,Yes
-52,a hen has wings.,Yes,Yes
-53,does a turkey have a wing?,Yes,Yes
-54,a chicken has a wing.,Yes,Yes
-55,does a heron have wings?,Yes,Yes
-56,does a vulture have wings?,Yes,Yes
-57,does a parrot have wings?,Yes,Yes
-58,does a albatrosses have wings?,Yes,Yes
-59,a parrot has wings.,Yes,Yes
-60,a swan has a wing.,Yes,Yes
-61,a duck has wings.,Yes,Yes
-62,a wader has wings.,Yes,Yes
-63,a flamingo has wings.,Yes,Yes
-64,does a albatrosses have a wing?,Yes,Yes
-65,does a peacock have wings?,Yes,Yes
-66,does a eagle have a wing?,Yes,Yes
-67,a parrot has a wing.,Yes,Yes
-68,does a dove have wings?,Yes,Yes
-69,does a chicken have wings?,Yes,Yes
-70,a falcon has a wing.,Yes,Yes
-71,a hen has a wing.,Yes,Yes
-72,does a crow have a wing?,Yes,Yes
-73,a hummingbird has wings.,Yes,Yes
-74,does a turkey have wings?,Yes,Yes
-75,a duck has a wing.,Yes,Yes
-76,a jay has a wing.,Yes,Yes
-77,a pigeon has wings.,Yes,Yes
-78,a goose has wings.,Yes,Yes
-79,a stork has wings.,Yes,Yes
-80,a bird has wings.,Yes,Yes
-81,does a hen have a wing?,Yes,Yes
-82,a crow has wings.,Yes,Yes
-83,a chicken has wings.,Yes,Yes
-84,does a macaw have wings?,Yes,Yes
-85,does a parrot have a wing?,Yes,Yes
-86,a eagle has wings.,Yes,Yes
-87,does a wader have wings?,Yes,Yes
-88,does a stork have a wing?,Yes,Yes
-89,does a flamingo have wings?,Yes,Yes
-90,does a falcon have wings?,Yes,Yes
-91,does a ostrich have wings?,Yes,Yes
-92,a owl has a wing.,Yes,Yes
-93,does a eagle have wings?,Yes,Yes
-94,a flamingo has a wing.,Yes,Yes
-95,does a falcon have a wing?,Yes,Yes
+0,does a falcon have a wing?,Yes,Yes
+1,does a owl have wings?,Yes,Yes
+2,does a swan have a wing?,Yes,Yes
+3,does a pigeon have a wing?,Yes,Yes
+4,does a macaw have a wing?,Yes,Yes
+5,a eagle has wings.,Yes,Yes
+6,a chicken has wings.,Yes,Yes
+7,does a duck have a wing?,Yes,Yes
+8,a seabird has wings.,Yes,Yes
+9,a swan has a wing.,Yes,Yes
+10,a vulture has wings.,Yes,Yes
+11,does a goose have a wing?,No,Yes
+12,a peacock has a wing.,Yes,Yes
+13,does a heron have a wing?,Yes,Yes
+14,does a flamingo have a wing?,Yes,Yes
+15,a jay has wings.,No,Yes
+16,a crow has wings.,Yes,Yes
+17,a duck has wings.,Yes,Yes
+18,does a vulture have a wing?,Yes,Yes
+19,a parrot has wings.,Yes,Yes
+20,does a stork have wings?,Yes,Yes
+21,does a sparrow have wings?,Yes,Yes
+22,does a vulture have wings?,Yes,Yes
+23,does a ostrich have a wing?,Yes,Yes
+24,does a stork have a wing?,Yes,Yes
+25,a sparrow has a wing.,Yes,Yes
+26,does a pigeon have wings?,Yes,Yes
+27,a jay has a wing.,No,Yes
+28,a crow has a wing.,Yes,Yes
+29,a macaw has a wing.,Yes,Yes
+30,a hen has a wing.,Yes,Yes
+31,does a macaw have wings?,Yes,Yes
+32,a heron has a wing.,Yes,Yes
+33,does a bird have wings?,Yes,Yes
+34,a goose has wings.,Yes,Yes
+35,a goose has a wing.,No,Yes
+36,a seabird has a wing.,Yes,Yes
+37,a stork has a wing.,Yes,Yes
+38,a owl has a wing.,Yes,Yes
+39,a owl has wings.,Yes,Yes
+40,does a heron have wings?,Yes,Yes
+41,does a flamingo have wings?,Yes,Yes
+42,a flamingo has wings.,Yes,Yes
+43,does a hummingbird have wings?,Yes,Yes
+44,does a chicken have wings?,Yes,Yes
+45,a ostrich has a wing.,Yes,Yes
+46,a ostrich has wings.,Yes,Yes
+47,a stork has wings.,Yes,Yes
+48,does a wader have a wing?,No,Yes
+49,a pigeon has wings.,Yes,Yes
+50,does a turkey have wings?,Yes,Yes
+51,does a swan have wings?,Yes,Yes
+52,does a dove have a wing?,Yes,Yes
+53,does a wader have wings?,No,Yes
+54,does a eagle have wings?,Yes,Yes
+55,does a chicken have a wing?,Yes,Yes
+56,does a jay have wings?,No,Yes
+57,a turkey has wings.,Yes,Yes
+58,does a songbird have wings?,Yes,Yes
+59,does a ostrich have wings?,Yes,Yes
+60,a albatrosses has a wing.,No,Yes
+61,a falcon has wings.,Yes,Yes
+62,a eagle has a wing.,Yes,Yes
+63,does a crow have a wing?,Yes,Yes
+64,does a albatrosses have wings?,Yes,Yes
+65,a wader has a wing.,No,Yes
+66,does a turkey have a wing?,Yes,Yes
+67,does a goose have wings?,Yes,Yes
+68,a bird has a wing.,Yes,Yes
+69,a gull has wings.,Yes,Yes
+70,does a parrot have a wing?,Yes,Yes
+71,a gull has a wing.,Yes,Yes
+72,a hen has wings.,Yes,Yes
+73,a bird has wings.,Yes,Yes
+74,a vulture has a wing.,Yes,Yes
+75,a flamingo has a wing.,Yes,Yes
+76,does a gull have a wing?,Yes,Yes
+77,a sparrow has wings.,Yes,Yes
+78,does a albatrosses have a wing?,No,Yes
+79,a dove has a wing.,Yes,Yes
+80,a hummingbird has wings.,Yes,Yes
+81,a pigeon has a wing.,Yes,Yes
+82,a peacock has wings.,Yes,Yes
+83,does a falcon have wings?,Yes,Yes
+84,a wader has wings.,No,Yes
+85,does a eagle have a wing?,Yes,Yes
+86,does a duck have wings?,Yes,Yes
+87,a macaw has wings.,Yes,Yes
+88,does a songbird have a wing?,Yes,Yes
+89,a dove has wings.,Yes,Yes
+90,a hummingbird has a wing.,Yes,Yes
+91,a albatrosses has wings.,Yes,Yes
+92,does a crow have wings?,Yes,Yes
+93,does a seabird have wings?,Yes,Yes
+94,does a bird have a wing?,Yes,Yes
+95,does a seabird have a wing?,Yes,Yes
 96,a turkey has a wing.,Yes,Yes
-97,a pigeon has a wing.,Yes,Yes
-98,does a pigeon have a wing?,Yes,Yes
-99,a peacock has a wing.,Yes,Yes
-100,does a goose have a wing?,Yes,Yes
-101,does a owl have a wing?,Yes,Yes
-102,does a ostrich have a wing?,Yes,Yes
-103,does a stork have wings?,Yes,Yes
-104,a sparrow has a wing.,Yes,Yes
-105,does a songbird have wings?,Yes,Yes
-106,a songbird has a wing.,Yes,Yes
-107,does a hen have wings?,Yes,Yes
-108,does a peacock have a wing?,Yes,Yes
-109,a peacock has wings.,Yes,Yes
-110,does a owl have wings?,Yes,Yes
-111,a heron has wings.,Yes,Yes
-112,a falcon has wings.,Yes,Yes
-113,a ostrich has a wing.,Yes,Yes
-114,does a wader have a wing?,Yes,Yes
-115,a stork has a wing.,No,Yes
+97,does a hen have a wing?,Yes,Yes
+98,does a hen have wings?,Yes,Yes
+99,a chicken has a wing.,Yes,Yes
+100,a falcon has a wing.,Yes,Yes
+101,does a jay have a wing?,No,Yes
+102,a heron has wings.,Yes,Yes
+103,does a owl have a wing?,Yes,Yes
+104,does a peacock have a wing?,Yes,Yes
+105,a parrot has a wing.,Yes,Yes
+106,does a parrot have wings?,Yes,Yes
+107,does a sparrow have a wing?,Yes,Yes
+108,does a gull have wings?,Yes,Yes
+109,does a dove have wings?,Yes,Yes
+110,a songbird has wings.,Yes,Yes
+111,a swan has wings.,Yes,Yes
+112,a duck has a wing.,Yes,Yes
+113,does a hummingbird have a wing?,Yes,Yes
+114,a songbird has a wing.,Yes,Yes
+115,does a peacock have wings?,Yes,Yes

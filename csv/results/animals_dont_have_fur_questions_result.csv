@@ -1,105 +1,105 @@
 ,question,model_answer,true_answer
-0,does a eel have fur?,Yes,No
-1,a shrimp has fur.,No,No
-2,does a shark have fur?,Yes,No
-3,does a prawn have fur?,Yes,No
-4,a crocodile has fur.,Yes,No
-5,does a herring have fur?,Yes,No
-6,a codfish has fur.,No,No
-7,a turkey has fur.,Yes,No
-8,a pig has fur.,Yes,No
-9,a mamba has fur.,No,No
-10,does a codfish have fur?,Yes,No
-11,does a starfish have fur?,Yes,No
-12,does a oyster have fur?,No,No
-13,does a iguana have fur?,Yes,No
-14,a lobster has fur.,Yes,No
-15,does a pig have fur?,Yes,No
-16,a crab has fur.,Yes,No
-17,does a shrimp have fur?,Yes,No
-18,a sponge has fur.,No,No
-19,does a kingfisher have fur?,Yes,No
-20,does a boa have fur?,Yes,No
-21,a puma has fur.,Yes,No
-22,a boa has fur.,Yes,No
-23,does a songbird have fur?,Yes,No
-24,does a swan have fur?,Yes,No
-25,a hippopotamus has fur.,Yes,No
-26,a jellyfish has fur.,No,No
-27,a rhino has fur.,Yes,No
-28,a piranha has fur.,Yes,No
-29,a whale has fur.,Yes,No
-30,does a gar have fur?,Yes,No
-31,does a fish have fur?,Yes,No
-32,a bird has fur.,Yes,No
-33,a oyster has fur.,No,No
-34,a worm has fur.,No,No
-35,a fish has fur.,Yes,No
-36,a songbird has fur.,Yes,No
-37,a alligator has fur.,Yes,No
-38,a snail has fur.,Yes,No
-39,a lizard has fur.,Yes,No
-40,does a dolphin have fur?,Yes,No
-41,does a frog have fur?,Yes,No
-42,does a worm have fur?,No,No
-43,does a tuna have fur?,Yes,No
-44,does a lobster have fur?,Yes,No
-45,does a eagle have fur?,Yes,No
-46,does a tarantula have fur?,Yes,No
-47,does a sponge have fur?,No,No
-48,does a salamander have fur?,Yes,No
-49,a barracuda has fur.,Yes,No
-50,a salmon has fur.,No,No
+0,does a salamander have fur?,Yes,No
+1,a oyster has fur.,No,No
+2,a shark has fur.,Yes,No
+3,a barracuda has fur.,No,No
+4,does a kingfisher have fur?,Yes,No
+5,a piranha has fur.,No,No
+6,does a puma have fur?,Yes,No
+7,a cuttlefish has fur.,Yes,No
+8,does a codfish have fur?,Yes,No
+9,a eagle has fur.,Yes,No
+10,does a shark have fur?,Yes,No
+11,a ant has fur.,Yes,No
+12,does a crocodile have fur?,Yes,No
+13,does a cobra have fur?,Yes,No
+14,a eel has fur.,Yes,No
+15,a herring has fur.,Yes,No
+16,does a pig have fur?,Yes,No
+17,does a seal have fur?,Yes,No
+18,does a worm have fur?,Yes,No
+19,a kingfisher has fur.,No,No
+20,a worm has fur.,Yes,No
+21,a salamander has fur.,Yes,No
+22,a spider has fur.,No,No
+23,does a sparrow have fur?,Yes,No
+24,a jellyfish has fur.,No,No
+25,does a bird have fur?,Yes,No
+26,does a alligator have fur?,Yes,No
+27,does a elephant have fur?,Yes,No
+28,a elephant has fur.,Yes,No
+29,a boa has fur.,Yes,No
+30,a rhino has fur.,Yes,No
+31,does a turkey have fur?,Yes,No
+32,a snake has fur.,Yes,No
+33,does a boa have fur?,Yes,No
+34,a codfish has fur.,Yes,No
+35,a sparrow has fur.,Yes,No
+36,a songbird has fur.,No,No
+37,a prawn has fur.,Yes,No
+38,a caterpillar has fur.,No,No
+39,does a rhino have fur?,Yes,No
+40,a octupus has fur.,Yes,No
+41,does a spider have fur?,No,No
+42,a gar has fur.,Yes,No
+43,does a sponge have fur?,No,No
+44,does a crab have fur?,Yes,No
+45,a iguana has fur.,No,No
+46,does a shrimp have fur?,Yes,No
+47,a turkey has fur.,Yes,No
+48,does a hippopotamus have fur?,Yes,No
+49,does a iguana have fur?,Yes,No
+50,does a salmon have fur?,Yes,No
 51,a starfish has fur.,No,No
-52,a flamingo has fur.,Yes,No
-53,does a rhino have fur?,Yes,No
-54,does a octupus have fur?,Yes,No
-55,a prawn has fur.,Yes,No
-56,does a cobra have fur?,Yes,No
-57,a tuna has fur.,Yes,No
-58,does a snail have fur?,Yes,No
-59,does a turkey have fur?,Yes,No
-60,a gar has fur.,Yes,No
-61,does a elephant have fur?,Yes,No
-62,does a snake have fur?,Yes,No
-63,does a spider have fur?,Yes,No
-64,a herring has fur.,Yes,No
-65,a salamander has fur.,Yes,No
-66,does a jellyfish have fur?,Yes,No
-67,a shark has fur.,Yes,No
-68,a cobra has fur.,Yes,No
-69,does a crocodile have fur?,Yes,No
-70,a tarantula has fur.,Yes,No
-71,does a mamba have fur?,No,No
-72,a snake has fur.,Yes,No
+52,a tuna has fur.,No,No
+53,does a mamba have fur?,Yes,No
+54,a seal has fur.,Yes,No
+55,a sponge has fur.,No,No
+56,does a oyster have fur?,No,No
+57,does a dolphin have fur?,Yes,No
+58,does a snake have fur?,Yes,No
+59,a pig has fur.,Yes,No
+60,does a tarantula have fur?,Yes,No
+61,a lobster has fur.,No,No
+62,a frog has fur.,Yes,No
+63,does a octupus have fur?,Yes,No
+64,does a eel have fur?,Yes,No
+65,a hippopotamus has fur.,Yes,No
+66,a mamba has fur.,No,No
+67,does a ant have fur?,Yes,No
+68,a salmon has fur.,Yes,No
+69,does a eagle have fur?,Yes,No
+70,does a herring have fur?,Yes,No
+71,a alligator has fur.,Yes,No
+72,a crab has fur.,Yes,No
 73,does a piranha have fur?,Yes,No
-74,a octupus has fur.,Yes,No
-75,a cuttlefish has fur.,Yes,No
+74,does a lizard have fur?,Yes,No
+75,a swan has fur.,Yes,No
 76,does a caterpillar have fur?,No,No
-77,a iguana has fur.,Yes,No
-78,a swan has fur.,Yes,No
-79,does a lizard have fur?,Yes,No
-80,does a salmon have fur?,Yes,No
-81,a elephant has fur.,Yes,No
-82,a kingfisher has fur.,Yes,No
-83,a frog has fur.,Yes,No
-84,does a crab have fur?,Yes,No
-85,does a alligator have fur?,Yes,No
-86,a spider has fur.,Yes,No
-87,does a flamingo have fur?,Yes,No
-88,a seal has fur.,Yes,No
-89,does a puma have fur?,Yes,No
-90,does a hippopotamus have fur?,Yes,No
-91,does a cuttlefish have fur?,Yes,No
-92,does a barracuda have fur?,Yes,No
+77,a tarantula has fur.,Yes,No
+78,a bird has fur.,Yes,No
+79,a whale has fur.,Yes,No
+80,does a snail have fur?,Yes,No
+81,a crocodile has fur.,Yes,No
+82,does a jellyfish have fur?,No,No
+83,a lizard has fur.,Yes,No
+84,a shrimp has fur.,No,No
+85,a snail has fur.,Yes,No
+86,does a gar have fur?,Yes,No
+87,does a swan have fur?,Yes,No
+88,does a frog have fur?,Yes,No
+89,a puma has fur.,Yes,No
+90,does a flamingo have fur?,Yes,No
+91,does a tuna have fur?,Yes,No
+92,does a barracuda have fur?,No,No
 93,a dolphin has fur.,Yes,No
-94,does a ant have fur?,Yes,No
-95,does a seal have fur?,Yes,No
-96,a ant has fur.,Yes,No
-97,does a sparrow have fur?,Yes,No
-98,a sparrow has fur.,Yes,No
-99,a eel has fur.,Yes,No
-100,a caterpillar has fur.,No,No
-101,a eagle has fur.,Yes,No
-102,does a bird have fur?,Yes,No
-103,does a whale have fur?,Yes,No
+94,a flamingo has fur.,Yes,No
+95,does a cuttlefish have fur?,Yes,No
+96,a cobra has fur.,No,No
+97,does a prawn have fur?,Yes,No
+98,a fish has fur.,Yes,No
+99,does a songbird have fur?,Yes,No
+100,does a whale have fur?,Yes,No
+101,does a starfish have fur?,No,No
+102,does a lobster have fur?,Yes,No
+103,does a fish have fur?,Yes,No
