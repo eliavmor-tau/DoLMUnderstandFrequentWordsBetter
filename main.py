@@ -28,40 +28,44 @@ concept_net = ConceptNetObj()
 wordnet = WordNetObj()
 
 
-def test_sentence_mc_mlm(sentence, mask_index, batch_size, target_index, multi_choice_answers, k=1):
-    input_sent = tokenizer.encode(sentence, add_special_tokens=True) # TODO: move to config?
+def test_sentence_mc_mlm(sentences, target_index, multi_choice_answers, k=1, max_length=128):
+    input_ids = []
+    attention_mask = []
+    target_index = torch.Tensor(target_index).view(-1, 1).long()
+    for sent in sentences:
+        tokenized = tokenizer.encode(sent, add_special_tokens=True, max_length=max_length)
+        input_ids.append(tokenized.input_ids)
+        attention_mask.append(tokenized.attention_mask)
+    input_ids = torch.vstack(input_ids)
+    attention_mask = torch.vstack(attention_mask)
+    batch_size = input_ids.size()[0]
 
-    mask_index += len(input_sent) - 2 - len(sentence.split(" "))
-    if sentence.endswith("."):
-        mask_index -= 1
+    indices = torch.arange(input_ids.size()[1]).repeat(batch_size).view((batch_size, max_length))
+    mask_loc = input_ids == tokenizer.mask_token_id()
+    mask_loc = indices[mask_loc].view(-1)
 
-    input_sent[mask_index] = tokenizer.mask_token_id()
-    multi_choice_label_ids = tokenizer.convert_tokens_to_ids(multi_choice_answers)
+    # MASK for MC-MLM
+    multi_choice_label_ids = tokenizer.convert_tokens_to_ids(multi_choice_answers).long()
+    all_indices_mask = torch.zeros((batch_size, max_length, config.vocab_size))
+    all_indices_mask[:, :, multi_choice_label_ids] = 1
+    multi_choice_label_ids = multi_choice_label_ids.repeat(batch_size).view((batch_size, -1))
 
-    input_tensor = torch.tensor(input_sent).view((batch_size, -1))
-    token_type_ids = torch.tensor([0] * len(input_sent)).view((batch_size, -1))
+    labels = torch.tensor([-100] * max_length * batch_size).view((batch_size, max_length))
+    target_index = target_index.view(-1)
 
-    # Mark legal labels.
-    legal_labels = torch.tensor([0] * config.vocab_size)
-    legal_labels[multi_choice_label_ids] = 1
-    legal_labels = legal_labels.view((batch_size, -1))
+    for i in range(batch_size):
+        labels[i, mask_loc[i]] = multi_choice_label_ids[i, target_index[i]]
 
-    all_indices_mask = torch.zeros((batch_size, config.vocab_size))
-    all_indices_mask[:, multi_choice_label_ids] = 1
-
-    # Create a tensor of correct labels (only masked word != -100)
-    labels = torch.tensor([-100] * len(input_sent))
-    labels[mask_index] = multi_choice_label_ids[target_index]
-    labels = labels.view((batch_size, -1))
-
-    output = model(input_ids=input_tensor, token_type_ids=token_type_ids, all_indices_mask=all_indices_mask, labels=labels)
-
+    output = model(input_ids=input_ids, token_type_ids=None, all_indices_mask=all_indices_mask, labels=labels, attention_mask=attention_mask)
     output_softmax = softmax(output["logits"], dim=2)
+    print(output_softmax.shape)
     argmax_output = torch.topk(output_softmax, k=k, dim=2)[1]
-    masked_predictions = argmax_output[0][mask_index]
     predictions = []
-    for pred in masked_predictions:
-        predictions.append((tokenizer.convert_ids_to_tokens(pred.item()).replace('Ġ', ''), output_softmax[0][mask_index][pred.item()].item()))
+    for i in range(batch_size):
+        mask_index = mask_loc[i]
+        masked_predictions = argmax_output[0][mask_index]
+        for pred in masked_predictions:
+            predictions.append((tokenizer.convert_ids_to_tokens(pred.item()).replace('Ġ', ''), output_softmax[0][mask_index][pred.item()].item()))
     return predictions
 
 
@@ -715,8 +719,8 @@ if __name__ == "__main__":
     #          ["furniture", "musical_instruments", "vehicle"]]
     # merge_questions(["csv/val_no_animals_and_fruits_questions.csv"], split=False, p=0.7, output_path="csv/val_no_animals_and_fruits_questions.csv")
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
-    # mask = tokenizer.mask_token()
-    # sentence = f"A {mask} lives underwater."
-    # result = test_sentence_mlm(sentence, mask_index=2, batch_size=1, k=20)
-    # for result in result:
-    #     print(result)
+    mask = tokenizer.mask_token()
+    sentence = [f"does a cat fly?", f"does a dog fly?", f"does a bird fly?",  f"does a bird fly?"]
+    result = test_sentence_mc_mlm(sentence, k=2, multi_choice_answers=["No", "Yes"], target_index=[0, 0, 0, 1])
+    for result in result:
+        print(result)

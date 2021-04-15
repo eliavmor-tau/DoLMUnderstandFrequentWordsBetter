@@ -1,1 +1,14 @@
+lighting_logs
+json
+papers
 wikipedia/text
+wikipedia/*.pkl
+wikipedia/*.gz
+graphs
+*.pyc
+.DS*
+checkpoint
+.idea
+csv/old
+csv/results/*_result_by_*
+ppt
