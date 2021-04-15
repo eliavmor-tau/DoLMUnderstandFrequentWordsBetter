@@ -154,7 +154,7 @@ def test_model(config, output_path):
         model.load_state_dict(checkpoint["state_dict"])
     print("Load checkpoint")
     model.eval()
-    data_set = YesNoDataSet(csv_path=config.get("test_data", "csv/test_questions.csv"), tokenizer=tokenizer)
+    data_set = YesNoDataSet(csv_path=config.get("test_data", "csv/test_questions.csv"), tokenizer=tokenizer, max_length=config["max_length"])
     data_loader = DataLoader(data_set, batch_size=config.get("batch_size"), shuffle=True)
 
     accuracy = 0.0
@@ -192,7 +192,7 @@ if __name__ == "__main__":
 
     torch.cuda.empty_cache()
     config = {
-        "train": True,
+        "train": False,
         "model_name": "t5-base",
         "gpus": 1,
         "max_epochs": 30,
@@ -202,7 +202,8 @@ if __name__ == "__main__":
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
-        "checkpoint": None,
+        #"checkpoint": None,
+        "checkpoint": "checkpoint/checkpoint-epoch=0-step=10322.ckpt",
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
         "max_length": 128,
@@ -226,7 +227,7 @@ if __name__ == "__main__":
                "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
-        #test_files = ["csv/animals_can_fly", "csv/animals_cant_fly"]
+        test_files = ["csv/animals_can_fly", "csv/animals_cant_fly"]
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
            # config["test_data"] = f"{f}"
