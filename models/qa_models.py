@@ -138,12 +138,12 @@ class YesNoQuestionAnswering(pl.LightningModule):
         dataset = YesNoDataSet(csv_path=self.config.get("train_data"), tokenizer=self.tokenizer)
         dataloader = DataLoader(dataset, batch_size=self.config.get("batch_size"), shuffle=True)
         t_total = (
-                (len(dataset) // (self.hparams.train_batch_size * max(1, self.hparams.n_gpu)))
-                // self.hparams.gradient_accumulation_steps
-                * float(self.hparams.num_train_epochs)
+                (len(dataset) // (self.config["batch_size"] * max(1, self.config["gpus"])))
+                // self.config["gradient_accumulation_steps"]
+                * float(self.config["max_epochs"])
         )
         scheduler = get_linear_schedule_with_warmup(
-            self.opt, num_warmup_steps=self.hparams.warmup_steps, num_training_steps=t_total
+            self.opt, num_warmup_steps=self.config["warmup_steps"], num_training_steps=t_total
         )
         self.lr_scheduler = scheduler
         return dataloader
