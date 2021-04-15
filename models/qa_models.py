@@ -73,6 +73,8 @@ class YesNoQuestionAnswering(pl.LightningModule):
         input_ids = batch["input_ids"]
         attention_mask = batch["attention_mask"]
         labels = batch["labels"]
+        labels[labels[:, :] == self.tokenizer.pad_token_id] = -100
+
         loss = self(input_ids, attention_mask, labels)
         self.model_training_loss.append(loss.item())
         logging.info(f'train_loss: {loss}')
@@ -84,6 +86,8 @@ class YesNoQuestionAnswering(pl.LightningModule):
         input_ids = batch["input_ids"]
         attention_mask = batch["attention_mask"]
         labels = batch["labels"]
+        labels[labels[:, :] == self.tokenizer.pad_token_id] = -100
+
         loss = self(input_ids, attention_mask, labels)
         self.model_validation_loss.append(loss.item())
         logging.info(f'validation_loss: {loss}')
@@ -182,7 +186,7 @@ def test_model(config, output_path):
 if __name__ == "__main__":
     torch.cuda.empty_cache()
     config = {
-        "train": False,
+        "train": True,
         "model_name": "t5-base",
         "gpus": 1,
         "max_epochs": 30,
@@ -194,8 +198,8 @@ if __name__ == "__main__":
         #"dev_data": "csv/conceptnet_dev.csv",
         "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
-        "checkpoint": "checkpoint/backup2/checkpoint-epoch=2-step=15485.ckpt"
-       # "checkpoint": None
+        #"checkpoint": "checkpoint/backup2/checkpoint-epoch=2-step=15485.ckpt"
+        "checkpoint": None
     }
     print("Start Run")
     print("- Config -")
