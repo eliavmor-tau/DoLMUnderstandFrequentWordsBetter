@@ -60,16 +60,16 @@ class YesNoQuestionAnswering(pl.LightningModule):
         self.model = model
         self.tokenizer = tokenizer
         self.config = config
-        self.device = device
+        self.to_device = device
 
     def forward(self, input_ids=None, attention_mask=None, labels=None):
         output = self.model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
         return output
 
     def _step(self, batch):
-        input_ids = batch["input_ids"].to(self.device)
-        attention_mask = batch["attention_mask"].to(self.device)
-        labels = batch["labels"].to(self.device)
+        input_ids = batch["input_ids"].to(self.to_device)
+        attention_mask = batch["attention_mask"].to(self.to_device)
+        labels = batch["labels"].to(self.to_device)
         labels[labels[:, :] == self.tokenizer.pad_token_id] = -100
         output = self(input_ids, attention_mask, labels)
         loss = output.loss
@@ -120,7 +120,7 @@ class YesNoQuestionAnswering(pl.LightningModule):
 def my_train_model(config):
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
-    model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
+    model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config, device=config["device"])
     if config.get("checkpoint", None):
         logging.info("Use checkpoint")
         checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
@@ -131,21 +131,20 @@ def my_train_model(config):
     optim = Adam(model.parameters(), lr=config["lr"])
     train_dataloader = model.train_dataloader()
     val_dataloader = model.val_dataloader()
-    for i, epoch in config["max_epochs"]:
+    for epoch in range(config["max_epochs"]):
         print("epoch start")
         running_loss = 0
         ctr = 0
         # Train
         for idx, batch in enumerate(train_dataloader):
-            print(batch)
             optim.zero_grad()
-            loss = model.training_step(batch)
+            loss = model.training_step(batch=batch, batch_idx=idx)
             loss.backward()
             optim.step()
             running_loss += loss.item()
             ctr += 1
             if idx % 10000 == (10000 -1):
-                print(f"Training Loss={running_loss / float(ctr)} Iteration={idx}/{len(train_dataloader)} Epoch={i}/{config['max_epochs']}")
+                print(f"Training Loss={running_loss / float(ctr)} Iteration={idx}/{len(train_dataloader)} Epoch={epoch}/{config['max_epochs']}")
 
         # validation
         model.eval()
@@ -153,9 +152,9 @@ def my_train_model(config):
         for idx, batch in enumerate(val_dataloader):
             loss = model.training_step(batch)
             eval_loss += loss.item()
-        print(f"Eval Loss={eval_loss / len(val_dataloader)} Epoch={i}/{config['max_epochs']}")
-        cp_path="checkpoint/checkpoint-epoch={}-steps={ctr}.ckpt"
-        print(f"Model checkpoint save to: {cp_path} Eval Loss={eval_loss / len(val_dataloader)} Epoch={i}/{config['max_epochs']}")
+        print(f"Eval Loss={eval_loss / len(val_dataloader)} Epoch={epoch}/{config['max_epochs']}")
+        cp_path=f"checkpoint/checkpoint-epoch={epoch}-steps={ctr}.ckpt"
+        print(f"Model checkpoint save to: {cp_path} Eval Loss={eval_loss / len(val_dataloader)} Epoch={epoch}/{config['max_epochs']}")
         torch.save(model.state_dict(), cp_path)
         model.train()
 
