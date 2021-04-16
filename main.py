@@ -617,8 +617,9 @@ def aggregate_results_by_question(result_df, animals_df):
             else:
                 orig_questions = question
                 question = question.replace(f" {animal} ", " <entity> ")
+                question = question.replace(f" {animal}.", " <entity>.")
                 if question == orig_questions:
-                    question = question.replace(f"{animal} ", "<entity> ")
+                    question = question.replace(f"{animal}", "<entity>")
 
         for q in results_by_question.keys():
             if question == q:
@@ -628,6 +629,7 @@ def aggregate_results_by_question(result_df, animals_df):
                 break
 
     for q in results_by_question.keys():
+        print(q, results_by_question[q])
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
     return pd.DataFrame.from_dict(results_by_question)
 
@@ -701,7 +703,7 @@ def run_generate_questions():
 
 if __name__ == "__main__":
     # run_summarize_results()
-    # run_generate_questions()
+    run_generate_questions()
     # filter_questions()
     # files = [f"csv/{x}.csv" for x in ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
     #          "animals_have_wings", "animals_have_feathers", "animals_have_fur",
@@ -712,7 +714,7 @@ if __name__ == "__main__":
     #          "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly"]]
     # files = [f"csv/old/{x}.csv" for x in
     #          ["furniture", "musical_instruments", "vehicle"]]
-    merge_questions(["csv/merged_train_questions_no_animals_and_fruits.csv"], split=True, p=0.8)
+    # merge_questions(["csv/merged_train_questions_no_animals_and_fruits.csv"], split=True, p=0.8)
     # split_data("csv/train_twenty_questions.csv", prefix="twenty_", p=0.8)
     # mask = tokenizer.mask_token()
     # sentence = [f"does a cat fly?", f"does a dog fly?", f"does a bird fly?",  f"does a bird fly?"]

@@ -174,7 +174,24 @@ def run_collect_sentences_with_words():
 
     print("All Done")
 
+def combine_wiki_threads():
+    files = [x for x in os.listdir(".") if x.endswith("chunks.pkl")]
+    print(files)
+    combine = dict()
+    for file in files:
+        with open(file, "rb") as f:
+            data = pickle.load(f)
+
+        for k, v in data.items():
+            if k in combine:
+                combine[k] += v
+            else:
+                combine[k] = v
+
+    with open("wiki_word_to_sentences.pkl", "wb") as f:
+        pickle.dump(combine, f)
 
 if __name__ == "__main__":
-    run_collect_sentences_with_words()
+    # run_collect_sentences_with_words()
     # compute_unigram()
+    combine_wiki_threads()

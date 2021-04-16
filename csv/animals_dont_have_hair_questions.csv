@@ -1,105 +1,209 @@
 ,question,label
-0,does a rhino have hair?,No
+0,does a rhino have hair.,No
 1,a rhino has hair.,No
-2,does a elephant have hair?,No
-3,a elephant has hair.,No
-4,does a flamingo have hair?,No
-5,a flamingo has hair.,No
-6,does a hippopotamus have hair?,No
-7,a hippopotamus has hair.,No
-8,does a iguana have hair?,No
-9,a iguana has hair.,No
-10,does a lizard have hair?,No
-11,a lizard has hair.,No
-12,does a pig have hair?,No
-13,a pig has hair.,No
-14,does a worm have hair?,No
-15,a worm has hair.,No
-16,does a snail have hair?,No
-17,a snail has hair.,No
-18,does a tarantula have hair?,No
-19,a tarantula has hair.,No
-20,does a spider have hair?,No
-21,a spider has hair.,No
-22,does a boa have hair?,No
-23,a boa has hair.,No
-24,does a cobra have hair?,No
-25,a cobra has hair.,No
-26,does a mamba have hair?,No
-27,a mamba has hair.,No
-28,does a ant have hair?,No
-29,a ant has hair.,No
-30,does a caterpillar have hair?,No
-31,a caterpillar has hair.,No
-32,does a alligator have hair?,No
-33,a alligator has hair.,No
-34,does a crocodile have hair?,No
-35,a crocodile has hair.,No
-36,does a snake have hair?,No
-37,a snake has hair.,No
-38,does a frog have hair?,No
-39,a frog has hair.,No
-40,does a salamander have hair?,No
-41,a salamander has hair.,No
-42,does a tapir have hair?,No
-43,a tapir has hair.,No
-44,does a fish have hair?,No
-45,a fish has hair.,No
-46,does a shark have hair?,No
-47,a shark has hair.,No
-48,does a tuna have hair?,No
-49,a tuna has hair.,No
-50,does a jellyfish have hair?,No
-51,a jellyfish has hair.,No
-52,does a salmon have hair?,No
-53,a salmon has hair.,No
-54,does a octupus have hair?,No
-55,a octupus has hair.,No
-56,does a barracuda have hair?,No
-57,a barracuda has hair.,No
-58,does a codfish have hair?,No
-59,a codfish has hair.,No
-60,does a crab have hair?,No
-61,a crab has hair.,No
-62,does a cuttlefish have hair?,No
-63,a cuttlefish has hair.,No
-64,does a dolphin have hair?,No
-65,a dolphin has hair.,No
-66,does a eel have hair?,No
-67,a eel has hair.,No
-68,does a gar have hair?,No
-69,a gar has hair.,No
-70,does a herring have hair?,No
-71,a herring has hair.,No
-72,does a kingfisher have hair?,No
-73,a kingfisher has hair.,No
-74,does a lobster have hair?,No
-75,a lobster has hair.,No
-76,does a oyster have hair?,No
-77,a oyster has hair.,No
-78,does a piranha have hair?,No
-79,a piranha has hair.,No
-80,does a seal have hair?,No
-81,a seal has hair.,No
-82,does a shrimp have hair?,No
-83,a shrimp has hair.,No
-84,does a prawn have hair?,No
-85,a prawn has hair.,No
-86,does a starfish have hair?,No
-87,a starfish has hair.,No
-88,does a sponge have hair?,No
-89,a sponge has hair.,No
-90,does a whale have hair?,No
-91,a whale has hair.,No
-92,does a turkey have hair?,No
-93,a turkey has hair.,No
-94,does a swan have hair?,No
-95,a swan has hair.,No
-96,does a sparrow have hair?,No
-97,a sparrow has hair.,No
-98,does a songbird have hair?,No
-99,a songbird has hair.,No
-100,does a roaster have hair?,No
-101,a roaster has hair.,No
-102,does a bird have hair?,No
-103,a bird has hair.,No
+2,hair covers rhino skin.,No
+3,rhino skin is covered by hair.,No
+4,does a elephant have hair.,No
+5,a elephant has hair.,No
+6,hair covers elephant skin.,No
+7,elephant skin is covered by hair.,No
+8,does a flamingo have hair.,No
+9,a flamingo has hair.,No
+10,hair covers flamingo skin.,No
+11,flamingo skin is covered by hair.,No
+12,does a hippopotamus have hair.,No
+13,a hippopotamus has hair.,No
+14,hair covers hippopotamus skin.,No
+15,hippopotamus skin is covered by hair.,No
+16,does a iguana have hair.,No
+17,a iguana has hair.,No
+18,hair covers iguana skin.,No
+19,iguana skin is covered by hair.,No
+20,does a lizard have hair.,No
+21,a lizard has hair.,No
+22,hair covers lizard skin.,No
+23,lizard skin is covered by hair.,No
+24,does a pig have hair.,No
+25,a pig has hair.,No
+26,hair covers pig skin.,No
+27,pig skin is covered by hair.,No
+28,does a worm have hair.,No
+29,a worm has hair.,No
+30,hair covers worm skin.,No
+31,worm skin is covered by hair.,No
+32,does a snail have hair.,No
+33,a snail has hair.,No
+34,hair covers snail skin.,No
+35,snail skin is covered by hair.,No
+36,does a tarantula have hair.,No
+37,a tarantula has hair.,No
+38,hair covers tarantula skin.,No
+39,tarantula skin is covered by hair.,No
+40,does a spider have hair.,No
+41,a spider has hair.,No
+42,hair covers spider skin.,No
+43,spider skin is covered by hair.,No
+44,does a boa have hair.,No
+45,a boa has hair.,No
+46,hair covers boa skin.,No
+47,boa skin is covered by hair.,No
+48,does a cobra have hair.,No
+49,a cobra has hair.,No
+50,hair covers cobra skin.,No
+51,cobra skin is covered by hair.,No
+52,does a mamba have hair.,No
+53,a mamba has hair.,No
+54,hair covers mamba skin.,No
+55,mamba skin is covered by hair.,No
+56,does a ant have hair.,No
+57,a ant has hair.,No
+58,hair covers ant skin.,No
+59,ant skin is covered by hair.,No
+60,does a caterpillar have hair.,No
+61,a caterpillar has hair.,No
+62,hair covers caterpillar skin.,No
+63,caterpillar skin is covered by hair.,No
+64,does a alligator have hair.,No
+65,a alligator has hair.,No
+66,hair covers alligator skin.,No
+67,alligator skin is covered by hair.,No
+68,does a crocodile have hair.,No
+69,a crocodile has hair.,No
+70,hair covers crocodile skin.,No
+71,crocodile skin is covered by hair.,No
+72,does a snake have hair.,No
+73,a snake has hair.,No
+74,hair covers snake skin.,No
+75,snake skin is covered by hair.,No
+76,does a frog have hair.,No
+77,a frog has hair.,No
+78,hair covers frog skin.,No
+79,frog skin is covered by hair.,No
+80,does a salamander have hair.,No
+81,a salamander has hair.,No
+82,hair covers salamander skin.,No
+83,salamander skin is covered by hair.,No
+84,does a tapir have hair.,No
+85,a tapir has hair.,No
+86,hair covers tapir skin.,No
+87,tapir skin is covered by hair.,No
+88,does a fish have hair.,No
+89,a fish has hair.,No
+90,hair covers fish skin.,No
+91,fish skin is covered by hair.,No
+92,does a shark have hair.,No
+93,a shark has hair.,No
+94,hair covers shark skin.,No
+95,shark skin is covered by hair.,No
+96,does a tuna have hair.,No
+97,a tuna has hair.,No
+98,hair covers tuna skin.,No
+99,tuna skin is covered by hair.,No
+100,does a jellyfish have hair.,No
+101,a jellyfish has hair.,No
+102,hair covers jellyfish skin.,No
+103,jellyfish skin is covered by hair.,No
+104,does a salmon have hair.,No
+105,a salmon has hair.,No
+106,hair covers salmon skin.,No
+107,salmon skin is covered by hair.,No
+108,does a octupus have hair.,No
+109,a octupus has hair.,No
+110,hair covers octupus skin.,No
+111,octupus skin is covered by hair.,No
+112,does a barracuda have hair.,No
+113,a barracuda has hair.,No
+114,hair covers barracuda skin.,No
+115,barracuda skin is covered by hair.,No
+116,does a codfish have hair.,No
+117,a codfish has hair.,No
+118,hair covers codfish skin.,No
+119,codfish skin is covered by hair.,No
+120,does a crab have hair.,No
+121,a crab has hair.,No
+122,hair covers crab skin.,No
+123,crab skin is covered by hair.,No
+124,does a cuttlefish have hair.,No
+125,a cuttlefish has hair.,No
+126,hair covers cuttlefish skin.,No
+127,cuttlefish skin is covered by hair.,No
+128,does a dolphin have hair.,No
+129,a dolphin has hair.,No
+130,hair covers dolphin skin.,No
+131,dolphin skin is covered by hair.,No
+132,does a eel have hair.,No
+133,a eel has hair.,No
+134,hair covers eel skin.,No
+135,eel skin is covered by hair.,No
+136,does a gar have hair.,No
+137,a gar has hair.,No
+138,hair covers gar skin.,No
+139,gar skin is covered by hair.,No
+140,does a herring have hair.,No
+141,a herring has hair.,No
+142,hair covers herring skin.,No
+143,herring skin is covered by hair.,No
+144,does a kingfisher have hair.,No
+145,a kingfisher has hair.,No
+146,hair covers kingfisher skin.,No
+147,kingfisher skin is covered by hair.,No
+148,does a lobster have hair.,No
+149,a lobster has hair.,No
+150,hair covers lobster skin.,No
+151,lobster skin is covered by hair.,No
+152,does a oyster have hair.,No
+153,a oyster has hair.,No
+154,hair covers oyster skin.,No
+155,oyster skin is covered by hair.,No
+156,does a piranha have hair.,No
+157,a piranha has hair.,No
+158,hair covers piranha skin.,No
+159,piranha skin is covered by hair.,No
+160,does a seal have hair.,No
+161,a seal has hair.,No
+162,hair covers seal skin.,No
+163,seal skin is covered by hair.,No
+164,does a shrimp have hair.,No
+165,a shrimp has hair.,No
+166,hair covers shrimp skin.,No
+167,shrimp skin is covered by hair.,No
+168,does a prawn have hair.,No
+169,a prawn has hair.,No
+170,hair covers prawn skin.,No
+171,prawn skin is covered by hair.,No
+172,does a starfish have hair.,No
+173,a starfish has hair.,No
+174,hair covers starfish skin.,No
+175,starfish skin is covered by hair.,No
+176,does a sponge have hair.,No
+177,a sponge has hair.,No
+178,hair covers sponge skin.,No
+179,sponge skin is covered by hair.,No
+180,does a whale have hair.,No
+181,a whale has hair.,No
+182,hair covers whale skin.,No
+183,whale skin is covered by hair.,No
+184,does a turkey have hair.,No
+185,a turkey has hair.,No
+186,hair covers turkey skin.,No
+187,turkey skin is covered by hair.,No
+188,does a swan have hair.,No
+189,a swan has hair.,No
+190,hair covers swan skin.,No
+191,swan skin is covered by hair.,No
+192,does a sparrow have hair.,No
+193,a sparrow has hair.,No
+194,hair covers sparrow skin.,No
+195,sparrow skin is covered by hair.,No
+196,does a songbird have hair.,No
+197,a songbird has hair.,No
+198,hair covers songbird skin.,No
+199,songbird skin is covered by hair.,No
+200,does a roaster have hair.,No
+201,a roaster has hair.,No
+202,hair covers roaster skin.,No
+203,roaster skin is covered by hair.,No
+204,does a bird have hair.,No
+205,a bird has hair.,No
+206,hair covers bird skin.,No
+207,bird skin is covered by hair.,No
