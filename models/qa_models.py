@@ -155,7 +155,8 @@ def my_train_model(config):
         model.eval()
         eval_loss = 0
         for idx, batch in enumerate(val_dataloader):
-            loss = model.training_step(batch=batch, batch_idx=idx)
+            output = model.training_step(batch=batch, batch_idx=idx)
+            loss = output["loss"]
             eval_loss += loss.item()
         print(f"Eval Loss={eval_loss / len(val_dataloader)} Epoch={epoch}/{config['max_epochs']}")
         cp_path=f"checkpoint/checkpoint-epoch={epoch}-steps={ctr}.ckpt"
@@ -249,7 +250,8 @@ if __name__ == "__main__":
         #"checkpoint": None,
         # good checkpoint 
         #"checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
-        "checkpoint": "checkpoint/checkpoint-epoch=1-step=11787.ckpt",
+        #"checkpoint": "checkpoint/checkpoint-epoch=1-step=11787.ckpt",
+        "checkpoint": "checkpoint/checkpoint-epoch=0-steps=11788.ckpt",
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
         "max_length": 64,
@@ -274,14 +276,16 @@ if __name__ == "__main__":
                "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
-    #    test_files = ["csv/animals_can_fly", "csv/animals_cant_fly"]
+        test_files = ["csv/val_no_animals_and_fruits", "csv/train_no_animals_and_fruits"]
         
         tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
         model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
         model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
         if config.get("checkpoint", None):
             checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
-            model.load_state_dict(checkpoint["state_dict"])
+            #model.load_state_dict(checkpoint["state_dict"])
+            print(checkpoint)
+            model.load_state_dict(checkpoint)
 
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
