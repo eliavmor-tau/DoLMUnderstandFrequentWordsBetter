@@ -1,393 +1,295 @@
 ,question,model_answer,true_answer
-0,a puma is a flying animal.,Yes,No
-1,a goat is capable of flying.,No,No
-2,a snake is a flying animal.,No,No
-3,can a beagle fly.,No,No
-4,can a rhino fly.,No,No
-5,is a lizard capable of flying.,Yes,No
-6,a dolphin is capable of flying.,Yes,No
-7,a ox is an animal that is capable of flying.,Yes,No
-8,a zebra is capable of flying.,Yes,No
-9,does a fox fly.,No,No
-10,a jellyfish is an animal that fly.,No,No
-11,a ox is an animal that fly.,Yes,No
-12,can a jaguar fly.,No,No
-13,can a bull fly.,No,No
-14,a yellowfin is capable of flying.,Yes,No
-15,can a ox fly.,No,No
-16,a lizard is an animal that is capable of flying.,Yes,No
-17,can a whale fly.,No,No
-18,does a lion fly.,No,No
-19,does a sheep fly.,No,No
-20,a cow is a flying animal.,No,No
-21,a rabbit is capable of flying.,No,No
-22,is a elephant capable of flying.,Yes,No
-23,a whale is a flying animal.,No,No
-24,does a horse fly.,No,No
-25,a worm is a flying animal.,No,No
-26,can a lizard fly.,No,No
-27,can a zebra fly.,No,No
-28,a shark flys.,No,No
-29,a frog is an animal that is capable of flying.,Yes,No
-30,a rottweiler is capable of flying.,Yes,No
-31,a tiger flys.,No,No
-32,is a tuna capable of flying.,No,No
-33,a puma flys.,Yes,No
-34,is a corgi capable of flying.,Yes,No
-35,a lizard flys.,No,No
-36,a jaguar is an animal that is capable of flying.,Yes,No
-37,a bull is an animal that is capable of flying.,Yes,No
-38,is a bull capable of flying.,Yes,No
-39,a tiger is an animal that is capable of flying.,Yes,No
-40,can a leopard fly.,No,No
-41,does a ox fly.,No,No
-42,a fox is capable of flying.,Yes,No
-43,a tiger is a flying animal.,Yes,No
-44,a whale flys.,Yes,No
-45,does a tiger fly.,No,No
+0,a leopard flys.,No,No
+1,a deer is capable of flying.,Yes,No
+2,a goat flys.,No,No
+3,a deer is a flying.,No,No
+4,a rottweiler is capable of flying.,Yes,No
+5,a elephant is capable of flying.,Yes,No
+6,is a poodle capable of flying.,Yes,No
+7,can a rat fly.,No,No
+8,a labrador is a flying.,No,No
+9,a giraffe flys.,Yes,No
+10,a goat is a flying.,No,No
+11,is a pig capable of flying.,No,No
+12,is a bear capable of flying.,No,No
+13,a bear flys.,No,No
+14,a frog is capable of flying.,Yes,No
+15,a lion is capable of flying.,Yes,No
+16,a ram is a flying.,No,No
+17,a rat flys.,Yes,No
+18,is a bull capable of flying.,Yes,No
+19,can a tiger fly.,No,No
+20,is a codfish capable of flying.,No,No
+21,a rabbit flys.,No,No
+22,does a cat fly.,No,No
+23,is a tiger capable of flying.,Yes,No
+24,a leopard is a flying.,No,No
+25,a worm flys.,Yes,No
+26,can a ox fly.,No,No
+27,can a pig fly.,No,No
+28,a snail is capable of flying.,Yes,No
+29,is a pomeranian capable of flying.,Yes,No
+30,is a corgi capable of flying.,Yes,No
+31,a camel flys.,No,No
+32,is a jellyfish capable of flying.,No,No
+33,does a deer fly.,No,No
+34,is a snake capable of flying.,Yes,No
+35,a tuna is a flying.,No,No
+36,is a ox capable of flying.,Yes,No
+37,a rottweiler is a flying.,No,No
+38,a doberman is capable of flying.,No,No
+39,is a rat capable of flying.,Yes,No
+40,a monkey is a flying.,Yes,No
+41,is a frog capable of flying.,Yes,No
+42,does a eel fly.,No,No
+43,a labrador is capable of flying.,No,No
+44,can a zebra fly.,No,No
+45,does a snake fly.,No,No
 46,is a cat capable of flying.,Yes,No
-47,a ram is a flying animal.,No,No
-48,is a eel capable of flying.,Yes,No
-49,does a jaguar fly.,No,No
-50,a elephant is an animal that is capable of flying.,Yes,No
-51,is a pomeranian capable of flying.,Yes,No
-52,can a donkey fly.,No,No
-53,a pomeranian flys.,No,No
-54,can a salmon fly.,No,No
-55,a camel is an animal that fly.,Yes,No
-56,is a zebra capable of flying.,Yes,No
-57,is a snake capable of flying.,Yes,No
-58,is a monkey capable of flying.,Yes,No
-59,a rat flys.,Yes,No
-60,a whale is capable of flying.,Yes,No
-61,can a wolf fly.,No,No
-62,a pig is capable of flying.,No,No
-63,a codfish flys.,No,No
-64,a rat is capable of flying.,Yes,No
-65,can a camel fly.,No,No
-66,can a pig fly.,No,No
-67,does a poodle fly.,No,No
-68,does a leopard fly.,No,No
-69,a bull is an animal that fly.,No,No
-70,a bear is an animal that fly.,No,No
-71,a camel flys.,No,No
-72,a poodle is an animal that is capable of flying.,Yes,No
-73,a deer is an animal that is capable of flying.,Yes,No
-74,a lizard is capable of flying.,Yes,No
-75,a eel is an animal that is capable of flying.,Yes,No
-76,a eel is an animal that fly.,Yes,No
-77,a doberman is an animal that is capable of flying.,No,No
-78,can a shark fly.,No,No
-79,does a salmon fly.,No,No
-80,a giraffe is a flying animal.,Yes,No
-81,is a ram capable of flying.,No,No
-82,a snail flys.,No,No
-83,does a cow fly.,No,No
-84,a dog is a flying animal.,No,No
-85,can a pomeranian fly.,No,No
-86,a jaguar is a flying animal.,Yes,No
-87,a jaguar is capable of flying.,Yes,No
-88,a tuna is a flying animal.,No,No
-89,a sheep is capable of flying.,No,No
-90,a whale is an animal that fly.,Yes,No
-91,a beagle is capable of flying.,Yes,No
-92,can a goat fly.,No,No
-93,a tiger is an animal that fly.,Yes,No
-94,a eel is a flying animal.,Yes,No
-95,a monkey is an animal that fly.,Yes,No
-96,does a snail fly.,No,No
-97,can a frog fly.,No,No
-98,a shark is a flying animal.,No,No
-99,a puma is an animal that is capable of flying.,Yes,No
-100,a bear is capable of flying.,No,No
-101,a sheep is an animal that is capable of flying.,No,No
-102,a salmon flys.,No,No
-103,a deer is a flying animal.,No,No
-104,a horse flys.,No,No
-105,is a shark capable of flying.,Yes,No
-106,a elephant is capable of flying.,Yes,No
-107,a lion is capable of flying.,Yes,No
-108,a shark is capable of flying.,Yes,No
-109,a corgi is an animal that is capable of flying.,Yes,No
-110,a wolf is an animal that is capable of flying.,Yes,No
-111,a goat is an animal that is capable of flying.,No,No
-112,a bull is a flying animal.,No,No
-113,a fox is a flying animal.,Yes,No
-114,a rhino is an animal that is capable of flying.,Yes,No
-115,a labrador is capable of flying.,No,No
-116,a rabbit is an animal that is capable of flying.,No,No
-117,a giraffe flys.,Yes,No
-118,a donkey is capable of flying.,Yes,No
-119,can a giraffe fly.,No,No
-120,can a rabbit fly.,No,No
-121,can a horse fly.,No,No
-122,can a deer fly.,No,No
-123,a jellyfish is capable of flying.,Yes,No
-124,is a leopard capable of flying.,Yes,No
-125,is a goat capable of flying.,No,No
-126,does a frog fly.,No,No
-127,a giraffe is capable of flying.,Yes,No
-128,a cow is an animal that is capable of flying.,No,No
-129,a poodle is a flying animal.,No,No
-130,is a labrador capable of flying.,No,No
-131,does a beagle fly.,No,No
-132,is a snail capable of flying.,No,No
-133,does a cat fly.,No,No
-134,is a frog capable of flying.,Yes,No
-135,a whale is an animal that is capable of flying.,Yes,No
-136,a snake is an animal that is capable of flying.,Yes,No
-137,can a jellyfish fly.,No,No
-138,a deer is capable of flying.,Yes,No
-139,can a puma fly.,No,No
-140,does a goat fly.,No,No
-141,does a whale fly.,No,No
-142,a yellowfin is an animal that fly.,Yes,No
-143,a ox is a flying animal.,Yes,No
-144,a ram is an animal that is capable of flying.,Yes,No
-145,a horse is capable of flying.,No,No
-146,can a tiger fly.,No,No
-147,a cow is an animal that fly.,No,No
-148,a ram is an animal that fly.,No,No
-149,is a giraffe capable of flying.,Yes,No
-150,can a doberman fly.,No,No
-151,a rottweiler is a flying animal.,Yes,No
-152,a corgi is an animal that fly.,Yes,No
-153,a codfish is an animal that is capable of flying.,No,No
-154,a leopard is capable of flying.,Yes,No
-155,a dog is an animal that fly.,No,No
-156,is a beagle capable of flying.,Yes,No
-157,can a poodle fly.,No,No
-158,a snail is an animal that fly.,No,No
-159,does a codfish fly.,No,No
-160,can a cow fly.,No,No
-161,a goat flys.,No,No
-162,a poodle is capable of flying.,Yes,No
-163,does a rottweiler fly.,No,No
-164,a worm is an animal that is capable of flying.,No,No
-165,does a wolf fly.,No,No
-166,a salmon is capable of flying.,No,No
-167,can a sheep fly.,No,No
-168,a cat is capable of flying.,Yes,No
-169,a horse is an animal that is capable of flying.,No,No
-170,does a rat fly.,No,No
-171,a frog flys.,Yes,No
-172,does a monkey fly.,No,No
-173,can a fox fly.,No,No
-174,a codfish is capable of flying.,No,No
-175,does a camel fly.,No,No
-176,a dog is capable of flying.,No,No
-177,does a pomeranian fly.,No,No
-178,can a labrador fly.,No,No
-179,a shark is an animal that is capable of flying.,Yes,No
-180,a rabbit flys.,No,No
-181,is a camel capable of flying.,Yes,No
-182,a tuna is an animal that is capable of flying.,Yes,No
-183,a codfish is a flying animal.,No,No
-184,is a pig capable of flying.,No,No
-185,a monkey is a flying animal.,No,No
-186,a yellowfin is an animal that is capable of flying.,Yes,No
-187,a leopard is an animal that is capable of flying.,Yes,No
-188,a fox is an animal that fly.,Yes,No
-189,a wolf is capable of flying.,No,No
-190,does a deer fly.,No,No
-191,a labrador is a flying animal.,No,No
-192,a labrador is an animal that fly.,No,No
-193,is a puma capable of flying.,Yes,No
-194,a beagle is an animal that is capable of flying.,Yes,No
-195,a salmon is an animal that is capable of flying.,No,No
-196,can a snake fly.,No,No
-197,a jellyfish flys.,No,No
-198,can a worm fly.,No,No
-199,a corgi is a flying animal.,Yes,No
-200,does a giraffe fly.,No,No
-201,a goat is a flying animal.,No,No
-202,is a worm capable of flying.,Yes,No
-203,a lion is a flying animal.,Yes,No
-204,a rottweiler is an animal that is capable of flying.,Yes,No
-205,a rhino is capable of flying.,Yes,No
-206,a goat is an animal that fly.,No,No
-207,a wolf is an animal that fly.,Yes,No
-208,a pomeranian is an animal that is capable of flying.,No,No
-209,is a lion capable of flying.,Yes,No
-210,does a shark fly.,No,No
-211,a bull is capable of flying.,Yes,No
-212,a jellyfish is a flying animal.,No,No
-213,is a yellowfin capable of flying.,Yes,No
-214,is a jaguar capable of flying.,Yes,No
-215,is a cow capable of flying.,No,No
-216,a monkey is an animal that is capable of flying.,Yes,No
-217,does a eel fly.,No,No
-218,a sheep is an animal that fly.,No,No
-219,a beagle flys.,No,No
-220,a donkey is an animal that is capable of flying.,Yes,No
-221,is a deer capable of flying.,Yes,No
-222,a sheep is a flying animal.,No,No
-223,is a ox capable of flying.,Yes,No
-224,a bear is an animal that is capable of flying.,Yes,No
-225,a tuna is an animal that fly.,No,No
-226,does a bull fly.,No,No
-227,does a tuna fly.,No,No
-228,does a pig fly.,No,No
-229,a dog flys.,No,No
-230,a elephant is a flying animal.,No,No
-231,a tiger is capable of flying.,Yes,No
-232,a wolf flys.,No,No
-233,a leopard is an animal that fly.,Yes,No
-234,a zebra is an animal that is capable of flying.,Yes,No
-235,a yellowfin is a flying animal.,Yes,No
-236,is a sheep capable of flying.,No,No
-237,a doberman is an animal that fly.,No,No
-238,is a rhino capable of flying.,Yes,No
-239,is a bear capable of flying.,No,No
-240,a ox is capable of flying.,Yes,No
-241,a pomeranian is a flying animal.,No,No
-242,a worm is an animal that fly.,Yes,No
-243,can a lion fly.,No,No
-244,a leopard flys.,No,No
-245,a horse is an animal that fly.,No,No
-246,a ram is capable of flying.,Yes,No
-247,a frog is a flying animal.,Yes,No
-248,a lizard is an animal that fly.,Yes,No
-249,does a dog fly.,No,No
-250,a rat is a flying animal.,No,No
-251,can a rottweiler fly.,No,No
-252,a pig is an animal that fly.,Yes,No
-253,a rottweiler flys.,Yes,No
-254,a rat is an animal that is capable of flying.,Yes,No
-255,a jellyfish is an animal that is capable of flying.,No,No
-256,does a ram fly.,No,No
-257,a worm flys.,Yes,No
-258,a snail is an animal that is capable of flying.,Yes,No
-259,a corgi flys.,No,No
-260,a lizard is a flying animal.,Yes,No
-261,is a horse capable of flying.,No,No
-262,a pig is a flying animal.,No,No
-263,can a bear fly.,No,No
-264,can a yellowfin fly.,No,No
-265,can a ram fly.,No,No
-266,a fox flys.,No,No
-267,a fox is an animal that is capable of flying.,Yes,No
-268,a tuna is capable of flying.,Yes,No
-269,a rat is an animal that fly.,Yes,No
-270,does a labrador fly.,No,No
-271,a jaguar flys.,No,No
-272,does a bear fly.,No,No
-273,a yellowfin flys.,No,No
-274,a worm is capable of flying.,Yes,No
-275,a dolphin is an animal that is capable of flying.,Yes,No
-276,is a jellyfish capable of flying.,No,No
-277,a poodle is an animal that fly.,No,No
-278,a elephant flys.,No,No
-279,a pig flys.,No,No
-280,a leopard is a flying animal.,Yes,No
-281,a cat flys.,Yes,No
-282,can a tuna fly.,No,No
-283,a snake flys.,Yes,No
-284,a labrador is an animal that is capable of flying.,No,No
-285,a giraffe is an animal that is capable of flying.,Yes,No
-286,is a rabbit capable of flying.,No,No
-287,a camel is a flying animal.,Yes,No
-288,a poodle flys.,No,No
-289,does a rabbit fly.,No,No
-290,a cow is capable of flying.,No,No
-291,a sheep flys.,No,No
-292,a cow flys.,No,No
-293,is a tiger capable of flying.,Yes,No
-294,is a salmon capable of flying.,No,No
-295,a zebra flys.,No,No
-296,can a codfish fly.,No,No
-297,a pomeranian is capable of flying.,Yes,No
-298,can a cat fly.,No,No
-299,a frog is an animal that fly.,Yes,No
-300,a beagle is a flying animal.,Yes,No
-301,a salmon is a flying animal.,No,No
-302,is a donkey capable of flying.,Yes,No
-303,a lion is an animal that is capable of flying.,Yes,No
-304,a frog is capable of flying.,Yes,No
-305,a ram flys.,No,No
-306,does a corgi fly.,No,No
-307,a cat is an animal that is capable of flying.,Yes,No
-308,is a poodle capable of flying.,Yes,No
-309,a pig is an animal that is capable of flying.,Yes,No
-310,can a rat fly.,No,No
-311,is a whale capable of flying.,Yes,No
-312,a lion is an animal that fly.,Yes,No
-313,a bull flys.,No,No
-314,a donkey is a flying animal.,No,No
-315,does a lizard fly.,No,No
-316,a snake is capable of flying.,Yes,No
-317,a cat is an animal that fly.,No,No
-318,can a dog fly.,No,No
-319,a dolphin flys.,No,No
-320,a bear flys.,No,No
-321,a tuna flys.,No,No
-322,does a yellowfin fly.,No,No
-323,does a jellyfish fly.,No,No
-324,a zebra is a flying animal.,Yes,No
-325,is a fox capable of flying.,Yes,No
-326,a rhino is a flying animal.,Yes,No
-327,a snake is an animal that fly.,No,No
-328,a snail is a flying animal.,No,No
-329,a doberman flys.,No,No
-330,a elephant is an animal that fly.,Yes,No
-331,a donkey flys.,No,No
-332,a salmon is an animal that fly.,No,No
-333,can a eel fly.,No,No
-334,a monkey flys.,No,No
-335,a deer is an animal that fly.,No,No
-336,a camel is capable of flying.,Yes,No
-337,a shark is an animal that fly.,Yes,No
-338,a snail is capable of flying.,Yes,No
-339,does a dolphin fly.,No,No
-340,a rottweiler is an animal that fly.,Yes,No
-341,a doberman is a flying animal.,No,No
-342,a dolphin is an animal that fly.,Yes,No
-343,a rabbit is an animal that fly.,No,No
-344,a monkey is capable of flying.,Yes,No
-345,is a rat capable of flying.,Yes,No
-346,is a rottweiler capable of flying.,Yes,No
-347,a camel is an animal that is capable of flying.,Yes,No
-348,does a donkey fly.,No,No
-349,a pomeranian is an animal that fly.,No,No
-350,a eel is capable of flying.,Yes,No
-351,can a elephant fly.,No,No
-352,a corgi is capable of flying.,Yes,No
-353,does a snake fly.,No,No
-354,can a corgi fly.,No,No
-355,does a puma fly.,No,No
-356,a wolf is a flying animal.,No,No
-357,a donkey is an animal that fly.,No,No
-358,a puma is an animal that fly.,Yes,No
-359,does a doberman fly.,No,No
-360,a eel flys.,No,No
-361,a jaguar is an animal that fly.,Yes,No
-362,can a dolphin fly.,No,No
-363,is a wolf capable of flying.,No,No
-364,does a rhino fly.,No,No
-365,a puma is capable of flying.,Yes,No
-366,is a doberman capable of flying.,No,No
-367,a lion flys.,No,No
-368,is a dolphin capable of flying.,Yes,No
-369,a deer flys.,No,No
-370,a labrador flys.,Yes,No
-371,a bear is a flying animal.,No,No
-372,a rhino is an animal that fly.,Yes,No
-373,a zebra is an animal that fly.,Yes,No
-374,a dog is an animal that is capable of flying.,Yes,No
-375,a doberman is capable of flying.,No,No
-376,a rabbit is a flying animal.,No,No
-377,a beagle is an animal that fly.,Yes,No
-378,is a dog capable of flying.,No,No
-379,does a worm fly.,No,No
-380,a codfish is an animal that fly.,No,No
-381,a ox flys.,No,No
-382,is a codfish capable of flying.,No,No
-383,a horse is a flying animal.,No,No
-384,does a zebra fly.,No,No
-385,a giraffe is an animal that fly.,Yes,No
-386,can a snail fly.,No,No
-387,can a monkey fly.,No,No
-388,does a elephant fly.,No,No
-389,a cat is a flying animal.,Yes,No
-390,a dolphin is a flying animal.,Yes,No
-391,a rhino flys.,No,No
+47,a yellowfin flys.,No,No
+48,does a doberman fly.,No,No
+49,a beagle is a flying.,Yes,No
+50,a lion is a flying.,Yes,No
+51,a donkey is capable of flying.,Yes,No
+52,can a cat fly.,No,No
+53,a shark is a flying.,Yes,No
+54,a snake is a flying.,No,No
+55,is a camel capable of flying.,Yes,No
+56,does a horse fly.,No,No
+57,does a whale fly.,No,No
+58,a sheep is a flying.,No,No
+59,is a rabbit capable of flying.,No,No
+60,a whale flys.,Yes,No
+61,a doberman is a flying.,No,No
+62,can a snail fly.,No,No
+63,does a ram fly.,No,No
+64,a corgi flys.,No,No
+65,can a bear fly.,No,No
+66,is a shark capable of flying.,Yes,No
+67,does a salmon fly.,No,No
+68,a jellyfish flys.,No,No
+69,can a camel fly.,No,No
+70,does a puma fly.,No,No
+71,a fox is capable of flying.,Yes,No
+72,can a fox fly.,No,No
+73,a fox is a flying.,Yes,No
+74,is a yellowfin capable of flying.,Yes,No
+75,can a wolf fly.,No,No
+76,does a tuna fly.,No,No
+77,can a goat fly.,No,No
+78,can a rottweiler fly.,No,No
+79,does a poodle fly.,No,No
+80,a salmon flys.,No,No
+81,can a yellowfin fly.,No,No
+82,a elephant is a flying.,No,No
+83,a horse is a flying.,No,No
+84,a jellyfish is a flying.,No,No
+85,a tuna flys.,No,No
+86,can a jellyfish fly.,No,No
+87,a yellowfin is capable of flying.,Yes,No
+88,does a wolf fly.,No,No
+89,is a salmon capable of flying.,No,No
+90,does a shark fly.,No,No
+91,a camel is a flying.,Yes,No
+92,does a bear fly.,No,No
+93,a puma flys.,Yes,No
+94,is a dog capable of flying.,No,No
+95,does a codfish fly.,No,No
+96,a wolf flys.,No,No
+97,a dog flys.,No,No
+98,a ox is capable of flying.,Yes,No
+99,can a worm fly.,No,No
+100,a corgi is a flying.,No,No
+101,can a dolphin fly.,No,No
+102,a snake flys.,Yes,No
+103,is a wolf capable of flying.,No,No
+104,can a frog fly.,No,No
+105,does a tiger fly.,No,No
+106,does a yellowfin fly.,No,No
+107,a whale is capable of flying.,Yes,No
+108,a goat is capable of flying.,No,No
+109,a sheep flys.,No,No
+110,is a lion capable of flying.,Yes,No
+111,a rhino is capable of flying.,Yes,No
+112,a rat is capable of flying.,Yes,No
+113,can a sheep fly.,No,No
+114,is a ram capable of flying.,No,No
+115,a codfish flys.,No,No
+116,is a zebra capable of flying.,Yes,No
+117,a monkey flys.,No,No
+118,a codfish is a flying.,No,No
+119,can a ram fly.,No,No
+120,a elephant flys.,No,No
+121,a eel is capable of flying.,Yes,No
+122,a codfish is capable of flying.,No,No
+123,a worm is a flying.,No,No
+124,is a elephant capable of flying.,Yes,No
+125,a dolphin flys.,No,No
+126,a rabbit is a flying.,No,No
+127,a pig is a flying.,No,No
+128,a horse is capable of flying.,No,No
+129,a zebra flys.,No,No
+130,is a rottweiler capable of flying.,Yes,No
+131,can a bull fly.,No,No
+132,is a eel capable of flying.,Yes,No
+133,does a leopard fly.,No,No
+134,a frog flys.,Yes,No
+135,a cat is capable of flying.,Yes,No
+136,does a corgi fly.,No,No
+137,a worm is capable of flying.,Yes,No
+138,does a pig fly.,No,No
+139,does a rottweiler fly.,No,No
+140,a snail is a flying.,No,No
+141,can a leopard fly.,No,No
+142,can a donkey fly.,No,No
+143,does a jellyfish fly.,No,No
+144,a snake is capable of flying.,Yes,No
+145,a deer flys.,No,No
+146,a rabbit is capable of flying.,No,No
+147,is a snail capable of flying.,No,No
+148,does a cow fly.,No,No
+149,can a eel fly.,No,No
+150,a rhino flys.,No,No
+151,can a puma fly.,No,No
+152,a zebra is a flying.,No,No
+153,can a whale fly.,No,No
+154,a horse flys.,No,No
+155,a salmon is a flying.,No,No
+156,a corgi is capable of flying.,Yes,No
+157,a cow is a flying.,No,No
+158,a labrador flys.,Yes,No
+159,can a lion fly.,No,No
+160,can a horse fly.,No,No
+161,a pomeranian flys.,No,No
+162,a giraffe is capable of flying.,Yes,No
+163,is a beagle capable of flying.,Yes,No
+164,a cow is capable of flying.,No,No
+165,does a worm fly.,No,No
+166,can a tuna fly.,No,No
+167,a poodle is capable of flying.,Yes,No
+168,a pig flys.,No,No
+169,is a lizard capable of flying.,Yes,No
+170,a cat is a flying.,No,No
+171,a camel is capable of flying.,Yes,No
+172,can a shark fly.,No,No
+173,does a jaguar fly.,No,No
+174,a shark is capable of flying.,Yes,No
+175,can a jaguar fly.,No,No
+176,a pomeranian is capable of flying.,Yes,No
+177,a eel is a flying.,Yes,No
+178,a whale is a flying.,No,No
+179,can a dog fly.,No,No
+180,is a dolphin capable of flying.,Yes,No
+181,a bear is a flying.,No,No
+182,does a snail fly.,No,No
+183,is a monkey capable of flying.,Yes,No
+184,can a elephant fly.,No,No
+185,can a deer fly.,No,No
+186,is a labrador capable of flying.,No,No
+187,does a camel fly.,No,No
+188,can a doberman fly.,No,No
+189,a zebra is capable of flying.,Yes,No
+190,a bull is capable of flying.,Yes,No
+191,does a elephant fly.,No,No
+192,a bull flys.,No,No
+193,does a monkey fly.,No,No
+194,a ram flys.,No,No
+195,a tiger flys.,No,No
+196,does a beagle fly.,No,No
+197,a poodle flys.,No,No
+198,a ram is capable of flying.,Yes,No
+199,can a corgi fly.,No,No
+200,can a giraffe fly.,No,No
+201,a jaguar flys.,No,No
+202,a snail flys.,No,No
+203,a rhino is a flying.,Yes,No
+204,a fox flys.,No,No
+205,a poodle is a flying.,No,No
+206,can a pomeranian fly.,No,No
+207,does a frog fly.,No,No
+208,does a labrador fly.,No,No
+209,a dolphin is capable of flying.,Yes,No
+210,a beagle flys.,No,No
+211,a salmon is capable of flying.,No,No
+212,can a lizard fly.,No,No
+213,is a tuna capable of flying.,No,No
+214,a wolf is capable of flying.,No,No
+215,a shark flys.,No,No
+216,can a snake fly.,No,No
+217,a ox is a flying.,Yes,No
+218,can a codfish fly.,No,No
+219,is a horse capable of flying.,No,No
+220,a tiger is capable of flying.,Yes,No
+221,can a rhino fly.,No,No
+222,does a rabbit fly.,No,No
+223,can a salmon fly.,No,No
+224,a cat flys.,Yes,No
+225,a lizard is a flying.,No,No
+226,is a cow capable of flying.,No,No
+227,a rat is a flying.,No,No
+228,does a sheep fly.,No,No
+229,is a donkey capable of flying.,Yes,No
+230,does a zebra fly.,No,No
+231,a rottweiler flys.,Yes,No
+232,a puma is a flying.,No,No
+233,a tuna is capable of flying.,Yes,No
+234,a donkey flys.,No,No
+235,does a giraffe fly.,No,No
+236,a dog is a flying.,No,No
+237,a jellyfish is capable of flying.,Yes,No
+238,does a pomeranian fly.,No,No
+239,a tiger is a flying.,Yes,No
+240,a puma is capable of flying.,Yes,No
+241,a lizard flys.,No,No
+242,can a labrador fly.,No,No
+243,a lion flys.,No,No
+244,does a rhino fly.,No,No
+245,a ox flys.,No,No
+246,is a whale capable of flying.,Yes,No
+247,is a leopard capable of flying.,Yes,No
+248,a jaguar is capable of flying.,Yes,No
+249,a yellowfin is a flying.,Yes,No
+250,does a dolphin fly.,No,No
+251,a sheep is capable of flying.,No,No
+252,is a puma capable of flying.,Yes,No
+253,is a deer capable of flying.,Yes,No
+254,does a lion fly.,No,No
+255,can a cow fly.,No,No
+256,does a goat fly.,No,No
+257,a cow flys.,No,No
+258,a eel flys.,No,No
+259,does a ox fly.,No,No
+260,is a sheep capable of flying.,No,No
+261,a donkey is a flying.,No,No
+262,a monkey is capable of flying.,Yes,No
+263,a wolf is a flying.,No,No
+264,a giraffe is a flying.,Yes,No
+265,a dolphin is a flying.,Yes,No
+266,does a donkey fly.,No,No
+267,is a doberman capable of flying.,No,No
+268,a jaguar is a flying.,Yes,No
+269,a pomeranian is a flying.,No,No
+270,is a jaguar capable of flying.,Yes,No
+271,can a monkey fly.,No,No
+272,is a fox capable of flying.,Yes,No
+273,a bear is capable of flying.,No,No
+274,a bull is a flying.,No,No
+275,is a giraffe capable of flying.,Yes,No
+276,a frog is a flying.,Yes,No
+277,is a worm capable of flying.,Yes,No
+278,can a beagle fly.,No,No
+279,a pig is capable of flying.,No,No
+280,is a rhino capable of flying.,Yes,No
+281,does a bull fly.,No,No
+282,is a goat capable of flying.,No,No
+283,a dog is capable of flying.,No,No
+284,a leopard is capable of flying.,Yes,No
+285,does a lizard fly.,No,No
+286,does a fox fly.,No,No
+287,does a dog fly.,No,No
+288,a beagle is capable of flying.,Yes,No
+289,does a rat fly.,No,No
+290,can a rabbit fly.,No,No
+291,can a poodle fly.,No,No
+292,a doberman flys.,No,No
+293,a lizard is capable of flying.,Yes,No

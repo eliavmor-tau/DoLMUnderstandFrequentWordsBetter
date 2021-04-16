@@ -1,209 +1,209 @@
 ,question,model_answer,true_answer
-0,a collie has fur.,Yes,Yes
-1,wolf skin is covered by fur.,Yes,Yes
-2,a alpaca has fur.,Yes,Yes
-3,a antelope has fur.,Yes,Yes
-4,a koala has fur.,Yes,Yes
-5,fur covers baboon skin.,Yes,Yes
-6,does a baboon have fur.,Yes,Yes
-7,does a camel have fur.,Yes,Yes
-8,dog skin is covered by fur.,Yes,Yes
-9,a liger has fur.,No,Yes
-10,a doberman has fur.,No,Yes
-11,does a corgi have fur.,No,Yes
-12,a lion has fur.,Yes,Yes
-13,a horse has fur.,Yes,Yes
-14,a corgi has fur.,No,Yes
-15,caracal skin is covered by fur.,Yes,Yes
-16,a caracal has fur.,No,Yes
-17,fur covers pinscher skin.,Yes,Yes
-18,a donkey has fur.,No,Yes
-19,does a pinscher have fur.,Yes,Yes
-20,does a giraffe have fur.,Yes,Yes
-21,does a boxer have fur.,No,Yes
-22,a kangaroo has fur.,Yes,Yes
-23,fur covers dalmatian skin.,No,Yes
-24,fur covers mule skin.,Yes,Yes
-25,does a pomeranian have fur.,Yes,Yes
-26,a chihuahua has fur.,Yes,Yes
-27,does a collie have fur.,Yes,Yes
-28,a monkey has fur.,Yes,Yes
-29,fur covers liger skin.,Yes,Yes
-30,fur covers tiger skin.,Yes,Yes
-31,does a rabbit have fur.,Yes,Yes
-32,fur covers gorilla skin.,Yes,Yes
-33,a zebra has fur.,Yes,Yes
-34,a bulldog has fur.,Yes,Yes
-35,does a koala have fur.,Yes,Yes
-36,does a mouse have fur.,No,Yes
-37,a beagle has fur.,Yes,Yes
-38,rat skin is covered by fur.,Yes,Yes
-39,fur covers leopard skin.,Yes,Yes
-40,bear skin is covered by fur.,Yes,Yes
-41,hyena skin is covered by fur.,Yes,Yes
-42,cat skin is covered by fur.,Yes,Yes
-43,a gorilla has fur.,Yes,Yes
-44,fur covers rat skin.,Yes,Yes
-45,boxer skin is covered by fur.,Yes,Yes
-46,a squirrel has fur.,Yes,Yes
-47,beagle skin is covered by fur.,Yes,Yes
-48,corgi skin is covered by fur.,Yes,Yes
-49,does a liger have fur.,No,Yes
-50,does a donkey have fur.,No,Yes
-51,fur covers rottweiler skin.,Yes,Yes
-52,a bison has fur.,Yes,Yes
-53,a dog has fur.,Yes,Yes
-54,a boxer has fur.,No,Yes
-55,mouse skin is covered by fur.,Yes,Yes
-56,pinscher skin is covered by fur.,Yes,Yes
-57,does a kangaroo have fur.,Yes,Yes
-58,does a beagle have fur.,Yes,Yes
-59,does a gorilla have fur.,Yes,Yes
-60,fur covers chihuahua skin.,Yes,Yes
-61,a moose has fur.,Yes,Yes
-62,does a doberman have fur.,No,Yes
-63,a tiger has fur.,Yes,Yes
-64,a rottweiler has fur.,Yes,Yes
-65,a jaguar has fur.,Yes,Yes
-66,antelope skin is covered by fur.,Yes,Yes
-67,does a zebra have fur.,No,Yes
-68,does a bison have fur.,Yes,Yes
-69,fur covers monkey skin.,Yes,Yes
-70,a fox has fur.,Yes,Yes
-71,baboon skin is covered by fur.,Yes,Yes
-72,does a fox have fur.,Yes,Yes
-73,fur covers kangaroo skin.,Yes,Yes
-74,a rat has fur.,No,Yes
-75,kangaroo skin is covered by fur.,Yes,Yes
-76,schnauzer skin is covered by fur.,Yes,Yes
-77,fur covers labrador skin.,Yes,Yes
-78,fur covers mouse skin.,Yes,Yes
-79,fur covers jaguar skin.,Yes,Yes
-80,does a wolf have fur.,Yes,Yes
-81,fox skin is covered by fur.,Yes,Yes
-82,a hyena has fur.,Yes,Yes
-83,does a squirrel have fur.,Yes,Yes
-84,donkey skin is covered by fur.,Yes,Yes
-85,fur covers dog skin.,Yes,Yes
-86,fur covers moose skin.,Yes,Yes
-87,does a ass have fur.,No,Yes
-88,does a skunk have fur.,Yes,Yes
-89,fur covers collie skin.,Yes,Yes
-90,a yak has fur.,Yes,Yes
-91,does a dalmatian have fur.,No,Yes
-92,fur covers caracal skin.,Yes,Yes
-93,alpaca skin is covered by fur.,Yes,Yes
-94,does a rat have fur.,No,Yes
-95,fur covers skunk skin.,Yes,Yes
-96,does a terrier have fur.,Yes,Yes
-97,fur covers giraffe skin.,Yes,Yes
-98,does a chihuahua have fur.,Yes,Yes
-99,gorilla skin is covered by fur.,Yes,Yes
-100,a mouse has fur.,No,Yes
-101,fur covers lion skin.,Yes,Yes
-102,does a bear have fur.,Yes,Yes
-103,does a antelope have fur.,Yes,Yes
-104,mule skin is covered by fur.,Yes,Yes
-105,fur covers hyena skin.,Yes,Yes
-106,fur covers beagle skin.,Yes,Yes
-107,a baboon has fur.,Yes,Yes
-108,raccoon skin is covered by fur.,Yes,Yes
-109,a skunk has fur.,Yes,Yes
-110,bulldog skin is covered by fur.,Yes,Yes
-111,koala skin is covered by fur.,Yes,Yes
-112,fur covers squirrel skin.,Yes,Yes
-113,ass skin is covered by fur.,Yes,Yes
-114,fur covers husky skin.,Yes,Yes
-115,fur covers corgi skin.,Yes,Yes
-116,a camel has fur.,Yes,Yes
-117,a ape has fur.,Yes,Yes
-118,deer skin is covered by fur.,Yes,Yes
-119,horse skin is covered by fur.,Yes,Yes
-120,a schnauzer has fur.,Yes,Yes
-121,a pomeranian has fur.,Yes,Yes
-122,does a labrador have fur.,Yes,Yes
-123,squirrel skin is covered by fur.,Yes,Yes
-124,a husky has fur.,Yes,Yes
-125,skunk skin is covered by fur.,Yes,Yes
-126,does a deer have fur.,Yes,Yes
-127,a dalmatian has fur.,No,Yes
-128,fur covers camel skin.,Yes,Yes
-129,fur covers antelope skin.,Yes,Yes
-130,monkey skin is covered by fur.,Yes,Yes
-131,tiger skin is covered by fur.,Yes,Yes
-132,does a cat have fur.,Yes,Yes
-133,does a lion have fur.,Yes,Yes
-134,does a yak have fur.,Yes,Yes
-135,a deer has fur.,Yes,Yes
-136,does a moose have fur.,Yes,Yes
-137,does a jaguar have fur.,Yes,Yes
-138,fur covers yak skin.,Yes,Yes
-139,yak skin is covered by fur.,Yes,Yes
-140,fur covers wolf skin.,Yes,Yes
-141,fur covers doberman skin.,Yes,Yes
-142,a raccoon has fur.,Yes,Yes
-143,terrier skin is covered by fur.,Yes,Yes
-144,fur covers raccoon skin.,Yes,Yes
-145,giraffe skin is covered by fur.,Yes,Yes
-146,husky skin is covered by fur.,Yes,Yes
-147,liger skin is covered by fur.,Yes,Yes
+0,baboon skin is covered by fur.,Yes,Yes
+1,does a alpaca have fur.,Yes,Yes
+2,does a rabbit have fur.,Yes,Yes
+3,does a bulldog have fur.,Yes,Yes
+4,fur covers deer skin.,Yes,Yes
+5,fur covers monkey skin.,Yes,Yes
+6,does a wolf have fur.,Yes,Yes
+7,kangaroo skin is covered by fur.,Yes,Yes
+8,fur covers donkey skin.,Yes,Yes
+9,a ass has fur.,No,Yes
+10,a alpaca has fur.,Yes,Yes
+11,a labrador has fur.,Yes,Yes
+12,fur covers horse skin.,Yes,Yes
+13,a wolf has fur.,Yes,Yes
+14,a terrier has fur.,Yes,Yes
+15,does a rat have fur.,No,Yes
+16,skunk skin is covered by fur.,Yes,Yes
+17,a deer has fur.,Yes,Yes
+18,ass skin is covered by fur.,Yes,Yes
+19,a corgi has fur.,No,Yes
+20,does a labrador have fur.,Yes,Yes
+21,fur covers koala skin.,Yes,Yes
+22,does a yak have fur.,Yes,Yes
+23,a chihuahua has fur.,Yes,Yes
+24,fur covers ape skin.,Yes,Yes
+25,fur covers leopard skin.,Yes,Yes
+26,rabbit skin is covered by fur.,Yes,Yes
+27,a kangaroo has fur.,Yes,Yes
+28,a giraffe has fur.,Yes,Yes
+29,does a camel have fur.,Yes,Yes
+30,a jaguar has fur.,Yes,Yes
+31,leopard skin is covered by fur.,Yes,Yes
+32,does a pomeranian have fur.,Yes,Yes
+33,a raccoon has fur.,Yes,Yes
+34,does a baboon have fur.,Yes,Yes
+35,fur covers ass skin.,Yes,Yes
+36,terrier skin is covered by fur.,Yes,Yes
+37,does a tiger have fur.,Yes,Yes
+38,jaguar skin is covered by fur.,Yes,Yes
+39,does a zebra have fur.,No,Yes
+40,fur covers zebra skin.,Yes,Yes
+41,bear skin is covered by fur.,Yes,Yes
+42,does a lion have fur.,Yes,Yes
+43,fur covers skunk skin.,Yes,Yes
+44,fur covers chihuahua skin.,Yes,Yes
+45,a collie has fur.,Yes,Yes
+46,chihuahua skin is covered by fur.,Yes,Yes
+47,dalmatian skin is covered by fur.,Yes,Yes
+48,does a horse have fur.,Yes,Yes
+49,fur covers doberman skin.,Yes,Yes
+50,fur covers dalmatian skin.,No,Yes
+51,fur covers gorilla skin.,Yes,Yes
+52,wolf skin is covered by fur.,Yes,Yes
+53,a rottweiler has fur.,Yes,Yes
+54,does a bear have fur.,Yes,Yes
+55,fur covers tiger skin.,Yes,Yes
+56,does a chihuahua have fur.,Yes,Yes
+57,a monkey has fur.,Yes,Yes
+58,a doberman has fur.,No,Yes
+59,does a kangaroo have fur.,Yes,Yes
+60,does a fox have fur.,Yes,Yes
+61,fur covers lion skin.,Yes,Yes
+62,a pinscher has fur.,Yes,Yes
+63,fur covers mouse skin.,Yes,Yes
+64,a squirrel has fur.,Yes,Yes
+65,alpaca skin is covered by fur.,Yes,Yes
+66,monkey skin is covered by fur.,Yes,Yes
+67,does a rottweiler have fur.,Yes,Yes
+68,dog skin is covered by fur.,Yes,Yes
+69,fur covers terrier skin.,Yes,Yes
+70,does a donkey have fur.,No,Yes
+71,does a moose have fur.,Yes,Yes
+72,does a beagle have fur.,Yes,Yes
+73,raccoon skin is covered by fur.,Yes,Yes
+74,fur covers fox skin.,Yes,Yes
+75,fur covers moose skin.,Yes,Yes
+76,tiger skin is covered by fur.,Yes,Yes
+77,camel skin is covered by fur.,Yes,Yes
+78,fur covers kangaroo skin.,Yes,Yes
+79,donkey skin is covered by fur.,Yes,Yes
+80,a hyena has fur.,Yes,Yes
+81,a baboon has fur.,Yes,Yes
+82,does a monkey have fur.,Yes,Yes
+83,a gorilla has fur.,Yes,Yes
+84,fur covers mule skin.,Yes,Yes
+85,fur covers corgi skin.,Yes,Yes
+86,does a bison have fur.,Yes,Yes
+87,a horse has fur.,Yes,Yes
+88,a mule has fur.,Yes,Yes
+89,a pomeranian has fur.,Yes,Yes
+90,fur covers rat skin.,Yes,Yes
+91,schnauzer skin is covered by fur.,Yes,Yes
+92,a dog has fur.,Yes,Yes
+93,fur covers raccoon skin.,Yes,Yes
+94,does a doberman have fur.,No,Yes
+95,a liger has fur.,No,Yes
+96,a husky has fur.,Yes,Yes
+97,a zebra has fur.,Yes,Yes
+98,does a leopard have fur.,Yes,Yes
+99,corgi skin is covered by fur.,Yes,Yes
+100,does a collie have fur.,Yes,Yes
+101,boxer skin is covered by fur.,Yes,Yes
+102,bulldog skin is covered by fur.,Yes,Yes
+103,a mouse has fur.,No,Yes
+104,deer skin is covered by fur.,Yes,Yes
+105,a bear has fur.,Yes,Yes
+106,koala skin is covered by fur.,Yes,Yes
+107,does a giraffe have fur.,Yes,Yes
+108,mule skin is covered by fur.,Yes,Yes
+109,a ape has fur.,Yes,Yes
+110,fur covers bulldog skin.,Yes,Yes
+111,squirrel skin is covered by fur.,Yes,Yes
+112,does a gorilla have fur.,Yes,Yes
+113,does a skunk have fur.,Yes,Yes
+114,giraffe skin is covered by fur.,Yes,Yes
+115,a schnauzer has fur.,Yes,Yes
+116,fur covers dog skin.,Yes,Yes
+117,fur covers yak skin.,Yes,Yes
+118,labrador skin is covered by fur.,Yes,Yes
+119,a antelope has fur.,Yes,Yes
+120,rat skin is covered by fur.,Yes,Yes
+121,hyena skin is covered by fur.,Yes,Yes
+122,fur covers camel skin.,Yes,Yes
+123,a boxer has fur.,No,Yes
+124,bison skin is covered by fur.,Yes,Yes
+125,fur covers alpaca skin.,Yes,Yes
+126,collie skin is covered by fur.,Yes,Yes
+127,cat skin is covered by fur.,Yes,Yes
+128,does a mule have fur.,Yes,Yes
+129,fur covers wolf skin.,Yes,Yes
+130,does a boxer have fur.,No,Yes
+131,fur covers rottweiler skin.,Yes,Yes
+132,fur covers hyena skin.,Yes,Yes
+133,yak skin is covered by fur.,Yes,Yes
+134,fur covers bison skin.,Yes,Yes
+135,a dalmatian has fur.,No,Yes
+136,fur covers pomeranian skin.,Yes,Yes
+137,a yak has fur.,Yes,Yes
+138,beagle skin is covered by fur.,Yes,Yes
+139,moose skin is covered by fur.,Yes,Yes
+140,a caracal has fur.,No,Yes
+141,caracal skin is covered by fur.,Yes,Yes
+142,fur covers pinscher skin.,Yes,Yes
+143,horse skin is covered by fur.,Yes,Yes
+144,a leopard has fur.,Yes,Yes
+145,lion skin is covered by fur.,Yes,Yes
+146,a fox has fur.,Yes,Yes
+147,does a ass have fur.,No,Yes
 148,fur covers rabbit skin.,Yes,Yes
-149,jaguar skin is covered by fur.,Yes,Yes
-150,does a schnauzer have fur.,Yes,Yes
-151,does a mule have fur.,Yes,Yes
-152,a mule has fur.,Yes,Yes
-153,a bear has fur.,Yes,Yes
-154,chihuahua skin is covered by fur.,Yes,Yes
-155,does a horse have fur.,Yes,Yes
-156,a leopard has fur.,Yes,Yes
-157,zebra skin is covered by fur.,Yes,Yes
-158,fur covers bison skin.,Yes,Yes
-159,fur covers terrier skin.,Yes,Yes
-160,a pinscher has fur.,Yes,Yes
-161,does a rottweiler have fur.,Yes,Yes
-162,fur covers alpaca skin.,Yes,Yes
-163,does a monkey have fur.,Yes,Yes
-164,fur covers horse skin.,Yes,Yes
-165,does a leopard have fur.,Yes,Yes
-166,fur covers koala skin.,Yes,Yes
-167,dalmatian skin is covered by fur.,Yes,Yes
-168,does a raccoon have fur.,Yes,Yes
-169,fur covers donkey skin.,Yes,Yes
-170,a giraffe has fur.,Yes,Yes
-171,a rabbit has fur.,Yes,Yes
-172,fur covers ape skin.,Yes,Yes
-173,does a bulldog have fur.,Yes,Yes
-174,collie skin is covered by fur.,Yes,Yes
-175,a wolf has fur.,Yes,Yes
-176,fur covers schnauzer skin.,Yes,Yes
-177,fur covers bear skin.,Yes,Yes
-178,a cat has fur.,Yes,Yes
-179,camel skin is covered by fur.,Yes,Yes
-180,a terrier has fur.,Yes,Yes
-181,fur covers ass skin.,Yes,Yes
-182,a ass has fur.,No,Yes
-183,fur covers cat skin.,Yes,Yes
-184,fur covers deer skin.,Yes,Yes
-185,does a tiger have fur.,Yes,Yes
+149,gorilla skin is covered by fur.,Yes,Yes
+150,fur covers cat skin.,Yes,Yes
+151,a rat has fur.,No,Yes
+152,a lion has fur.,Yes,Yes
+153,fur covers giraffe skin.,Yes,Yes
+154,a camel has fur.,Yes,Yes
+155,does a schnauzer have fur.,Yes,Yes
+156,zebra skin is covered by fur.,Yes,Yes
+157,fur covers beagle skin.,Yes,Yes
+158,pinscher skin is covered by fur.,Yes,Yes
+159,fur covers caracal skin.,Yes,Yes
+160,does a husky have fur.,Yes,Yes
+161,a beagle has fur.,Yes,Yes
+162,fur covers baboon skin.,Yes,Yes
+163,doberman skin is covered by fur.,Yes,Yes
+164,does a corgi have fur.,No,Yes
+165,fur covers liger skin.,Yes,Yes
+166,a skunk has fur.,Yes,Yes
+167,does a liger have fur.,No,Yes
+168,fur covers schnauzer skin.,Yes,Yes
+169,fox skin is covered by fur.,Yes,Yes
+170,liger skin is covered by fur.,Yes,Yes
+171,does a deer have fur.,Yes,Yes
+172,does a cat have fur.,Yes,Yes
+173,fur covers jaguar skin.,Yes,Yes
+174,fur covers squirrel skin.,Yes,Yes
+175,a tiger has fur.,Yes,Yes
+176,pomeranian skin is covered by fur.,Yes,Yes
+177,a rabbit has fur.,Yes,Yes
+178,fur covers labrador skin.,Yes,Yes
+179,does a ape have fur.,Yes,Yes
+180,does a pinscher have fur.,Yes,Yes
+181,fur covers boxer skin.,Yes,Yes
+182,fur covers bear skin.,Yes,Yes
+183,mouse skin is covered by fur.,Yes,Yes
+184,does a dalmatian have fur.,No,Yes
+185,does a raccoon have fur.,Yes,Yes
 186,does a caracal have fur.,No,Yes
-187,fur covers boxer skin.,Yes,Yes
-188,lion skin is covered by fur.,Yes,Yes
-189,rottweiler skin is covered by fur.,Yes,Yes
-190,moose skin is covered by fur.,Yes,Yes
-191,does a husky have fur.,Yes,Yes
-192,fur covers pomeranian skin.,Yes,Yes
-193,fur covers fox skin.,Yes,Yes
-194,doberman skin is covered by fur.,Yes,Yes
-195,bison skin is covered by fur.,Yes,Yes
-196,ape skin is covered by fur.,Yes,Yes
-197,a labrador has fur.,Yes,Yes
-198,fur covers bulldog skin.,Yes,Yes
-199,does a alpaca have fur.,Yes,Yes
-200,rabbit skin is covered by fur.,Yes,Yes
-201,does a hyena have fur.,No,Yes
-202,leopard skin is covered by fur.,Yes,Yes
-203,does a ape have fur.,Yes,Yes
-204,fur covers zebra skin.,Yes,Yes
-205,does a dog have fur.,Yes,Yes
-206,pomeranian skin is covered by fur.,Yes,Yes
-207,labrador skin is covered by fur.,Yes,Yes
+187,does a terrier have fur.,Yes,Yes
+188,a koala has fur.,Yes,Yes
+189,fur covers antelope skin.,Yes,Yes
+190,does a jaguar have fur.,Yes,Yes
+191,does a antelope have fur.,Yes,Yes
+192,does a hyena have fur.,No,Yes
+193,antelope skin is covered by fur.,Yes,Yes
+194,a donkey has fur.,No,Yes
+195,does a mouse have fur.,No,Yes
+196,does a squirrel have fur.,Yes,Yes
+197,a bison has fur.,Yes,Yes
+198,fur covers collie skin.,Yes,Yes
+199,a moose has fur.,Yes,Yes
+200,husky skin is covered by fur.,Yes,Yes
+201,a bulldog has fur.,Yes,Yes
+202,rottweiler skin is covered by fur.,Yes,Yes
+203,ape skin is covered by fur.,Yes,Yes
+204,does a koala have fur.,Yes,Yes
+205,fur covers husky skin.,Yes,Yes
+206,does a dog have fur.,Yes,Yes
+207,a cat has fur.,Yes,Yes

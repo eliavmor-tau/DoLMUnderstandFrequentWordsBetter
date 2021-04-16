@@ -1,197 +1,197 @@
 ,question,model_answer,true_answer
-0,fins are part of snail body.,Yes,No
-1,all jaguar have fins.,Yes,No
-2,does a zebra have fins.,No,No
-3,fins are part of tiger body.,Yes,No
-4,does a grackle have fins.,No,No
-5,does a skylark have fins.,Yes,No
-6,does a bird have fins.,Yes,No
-7,a lion has fins.,No,No
-8,fins are part of wolf body.,Yes,No
-9,does a goral have fins.,No,No
-10,does a giraffe have fins.,Yes,No
-11,all skylark have fins.,Yes,No
-12,fins are part of monkey body.,Yes,No
-13,does a cow have fins.,No,No
-14,all poodle have fins.,Yes,No
-15,all camel have fins.,Yes,No
-16,a dog has fins.,No,No
-17,all rhino have fins.,No,No
-18,fins are part of fox body.,Yes,No
-19,fins are part of rat body.,Yes,No
-20,a pelican has fins.,Yes,No
-21,all sheep have fins.,No,No
-22,a fox has fins.,No,No
-23,all flamingo have fins.,Yes,No
-24,fins are part of elephant body.,Yes,No
-25,fins are part of hourse body.,No,No
-26,fins are part of poodle body.,Yes,No
-27,fins are part of cat body.,Yes,No
-28,a grackle has fins.,No,No
-29,does a ox have fins.,No,No
-30,a elephant has fins.,No,No
-31,a poodle has fins.,No,No
-32,does a heron have fins.,No,No
-33,fins are part of cowbird body.,Yes,No
-34,fins are part of pelican body.,Yes,No
-35,all fox have fins.,No,No
-36,a monkey has fins.,No,No
-37,all lizard have fins.,Yes,No
-38,all cowbird have fins.,Yes,No
-39,all ram have fins.,No,No
-40,does a ram have fins.,No,No
-41,a lizard has fins.,No,No
-42,does a lizard have fins.,No,No
-43,does a gnu have fins.,Yes,No
-44,all dog have fins.,No,No
-45,all hawk have fins.,Yes,No
-46,fins are part of cow body.,No,No
-47,a goldcrest has fins.,No,No
-48,does a wolf have fins.,No,No
-49,a heron has fins.,Yes,No
-50,all goldcrest have fins.,No,No
-51,a donkey has fins.,No,No
-52,all bird have fins.,Yes,No
-53,fins are part of camel body.,Yes,No
-54,fins are part of lion body.,Yes,No
-55,a goral has fins.,No,No
-56,a hen has fins.,Yes,No
-57,all eider have fins.,No,No
+0,a ox has fins.,No,No
+1,does a wolf have fins.,No,No
+2,all heron have fins.,Yes,No
+3,fins are part of cat body.,Yes,No
+4,a puma has fins.,Yes,No
+5,all hawk have fins.,Yes,No
+6,all eider have fins.,No,No
+7,all zebra have fins.,Yes,No
+8,does a tiger have fins.,No,No
+9,all finch have fins.,Yes,No
+10,fins are part of rhino body.,Yes,No
+11,does a swan have fins.,Yes,No
+12,does a goral have fins.,No,No
+13,all snail have fins.,No,No
+14,all swan have fins.,Yes,No
+15,does a pelican have fins.,Yes,No
+16,does a eider have fins.,No,No
+17,all monkey have fins.,Yes,No
+18,all giraffe have fins.,Yes,No
+19,does a bison have fins.,No,No
+20,does a rabbit have fins.,No,No
+21,does a lark have fins.,Yes,No
+22,fins are part of sheep body.,No,No
+23,all worm have fins.,No,No
+24,does a duck have fins.,Yes,No
+25,does a grackle have fins.,No,No
+26,a parrot has fins.,No,No
+27,a finch has fins.,Yes,No
+28,a elephant has fins.,No,No
+29,all bat have fins.,No,No
+30,a gnu has fins.,Yes,No
+31,does a hen have fins.,Yes,No
+32,a donkey has fins.,No,No
+33,does a sheep have fins.,No,No
+34,fins are part of duck body.,Yes,No
+35,fins are part of fox body.,Yes,No
+36,a cat has fins.,No,No
+37,does a goldcrest have fins.,No,No
+38,fins are part of skylark body.,Yes,No
+39,all wolf have fins.,No,No
+40,does a ox have fins.,No,No
+41,fins are part of owl body.,Yes,No
+42,all grackle have fins.,No,No
+43,a bird has fins.,Yes,No
+44,does a dog have fins.,No,No
+45,does a puma have fins.,Yes,No
+46,a worm has fins.,No,No
+47,a lion has fins.,No,No
+48,a bat has fins.,No,No
+49,does a fox have fins.,No,No
+50,all bison have fins.,No,No
+51,all rat have fins.,No,No
+52,all elephant have fins.,No,No
+53,a grackle has fins.,No,No
+54,a hen has fins.,Yes,No
+55,fins are part of jaguar body.,Yes,No
+56,a rabbit has fins.,No,No
+57,all puma have fins.,Yes,No
 58,a cowbird has fins.,No,No
-59,a cow has fins.,No,No
-60,all pelican have fins.,Yes,No
-61,a sheep has fins.,No,No
-62,does a jaguar have fins.,Yes,No
-63,all lion have fins.,Yes,No
-64,all duck have fins.,Yes,No
-65,a puma has fins.,Yes,No
-66,all owl have fins.,Yes,No
-67,fins are part of eagle body.,Yes,No
-68,a rabbit has fins.,No,No
-69,a rat has fins.,No,No
-70,does a hen have fins.,Yes,No
-71,all wolf have fins.,No,No
-72,a parrot has fins.,No,No
-73,all gnu have fins.,Yes,No
-74,fins are part of lizard body.,Yes,No
-75,fins are part of owl body.,Yes,No
-76,a hourse has fins.,No,No
-77,fins are part of gnu body.,Yes,No
-78,does a puma have fins.,Yes,No
-79,all cat have fins.,No,No
-80,does a poodle have fins.,No,No
-81,does a eagle have fins.,Yes,No
-82,a finch has fins.,Yes,No
-83,a rhino has fins.,No,No
-84,fins are part of finch body.,Yes,No
-85,does a cowbird have fins.,No,No
-86,fins are part of ram body.,Yes,No
-87,does a swan have fins.,Yes,No
-88,a swan has fins.,Yes,No
-89,fins are part of hen body.,Yes,No
-90,fins are part of swan body.,Yes,No
-91,a eider has fins.,Yes,No
-92,fins are part of bull body.,Yes,No
-93,all ox have fins.,No,No
-94,does a rat have fins.,No,No
-95,a worm has fins.,No,No
-96,does a bat have fins.,No,No
-97,does a bull have fins.,No,No
-98,does a rhino have fins.,No,No
-99,all hourse have fins.,No,No
-100,does a lark have fins.,Yes,No
-101,all giraffe have fins.,Yes,No
-102,fins are part of skylark body.,Yes,No
-103,fins are part of zebra body.,Yes,No
-104,all donkey have fins.,No,No
-105,all swan have fins.,Yes,No
-106,does a monkey have fins.,No,No
-107,all puma have fins.,Yes,No
-108,all rat have fins.,No,No
-109,does a elephant have fins.,No,No
-110,fins are part of dog body.,No,No
-111,a bird has fins.,Yes,No
-112,a bison has fins.,No,No
-113,a eagle has fins.,Yes,No
-114,does a worm have fins.,No,No
-115,fins are part of goldcrest body.,No,No
-116,all monkey have fins.,Yes,No
-117,does a dog have fins.,No,No
-118,all goral have fins.,No,No
-119,a tiger has fins.,No,No
-120,does a hawk have fins.,No,No
-121,does a rabbit have fins.,No,No
-122,all lark have fins.,Yes,No
-123,does a owl have fins.,Yes,No
-124,fins are part of parrot body.,Yes,No
-125,a skylark has fins.,Yes,No
-126,all heron have fins.,Yes,No
-127,a ram has fins.,No,No
-128,fins are part of bird body.,Yes,No
-129,a owl has fins.,Yes,No
-130,does a eider have fins.,No,No
-131,all elephant have fins.,No,No
-132,fins are part of hawk body.,Yes,No
-133,fins are part of rabbit body.,Yes,No
-134,fins are part of worm body.,Yes,No
-135,does a snail have fins.,No,No
-136,all bull have fins.,No,No
-137,all rabbit have fins.,No,No
-138,fins are part of giraffe body.,Yes,No
-139,does a donkey have fins.,No,No
-140,does a tiger have fins.,No,No
-141,fins are part of rhino body.,Yes,No
-142,all grackle have fins.,No,No
-143,a giraffe has fins.,Yes,No
-144,does a lion have fins.,No,No
-145,fins are part of donkey body.,Yes,No
-146,all cow have fins.,No,No
-147,fins are part of lark body.,Yes,No
-148,does a hourse have fins.,No,No
-149,does a cat have fins.,No,No
-150,all bison have fins.,No,No
-151,fins are part of ox body.,Yes,No
-152,fins are part of bison body.,Yes,No
-153,does a pelican have fins.,Yes,No
-154,all tiger have fins.,No,No
-155,all eagle have fins.,Yes,No
-156,a lark has fins.,Yes,No
-157,does a bison have fins.,No,No
-158,a snail has fins.,No,No
-159,does a fox have fins.,No,No
-160,fins are part of jaguar body.,Yes,No
-161,all worm have fins.,No,No
-162,does a camel have fins.,Yes,No
-163,does a goldcrest have fins.,No,No
-164,a bat has fins.,No,No
-165,a cat has fins.,No,No
-166,a bull has fins.,No,No
-167,does a finch have fins.,Yes,No
-168,all zebra have fins.,Yes,No
-169,fins are part of grackle body.,Yes,No
-170,fins are part of sheep body.,No,No
-171,fins are part of duck body.,Yes,No
-172,fins are part of flamingo body.,Yes,No
-173,all parrot have fins.,Yes,No
-174,a wolf has fins.,No,No
-175,fins are part of puma body.,Yes,No
-176,fins are part of eider body.,Yes,No
-177,all finch have fins.,Yes,No
-178,a camel has fins.,Yes,No
-179,does a sheep have fins.,No,No
-180,a jaguar has fins.,Yes,No
-181,all hen have fins.,Yes,No
-182,does a parrot have fins.,No,No
-183,a hawk has fins.,No,No
-184,a flamingo has fins.,Yes,No
-185,a duck has fins.,Yes,No
-186,does a duck have fins.,Yes,No
-187,fins are part of heron body.,Yes,No
-188,a ox has fins.,No,No
-189,all snail have fins.,No,No
-190,does a flamingo have fins.,Yes,No
-191,fins are part of goral body.,Yes,No
-192,a gnu has fins.,Yes,No
-193,a zebra has fins.,No,No
-194,all bat have fins.,No,No
-195,fins are part of bat body.,Yes,No
+59,a lizard has fins.,No,No
+60,a flamingo has fins.,Yes,No
+61,all flamingo have fins.,Yes,No
+62,all lizard have fins.,Yes,No
+63,a wolf has fins.,No,No
+64,fins are part of zebra body.,Yes,No
+65,fins are part of worm body.,Yes,No
+66,a hawk has fins.,No,No
+67,a snail has fins.,No,No
+68,does a bull have fins.,No,No
+69,fins are part of bison body.,Yes,No
+70,fins are part of dog body.,No,No
+71,fins are part of snail body.,Yes,No
+72,a owl has fins.,Yes,No
+73,all tiger have fins.,No,No
+74,does a eagle have fins.,Yes,No
+75,does a heron have fins.,No,No
+76,does a worm have fins.,No,No
+77,fins are part of hourse body.,No,No
+78,all eagle have fins.,Yes,No
+79,all cow have fins.,No,No
+80,all bird have fins.,Yes,No
+81,a eagle has fins.,Yes,No
+82,fins are part of hen body.,Yes,No
+83,fins are part of lark body.,Yes,No
+84,fins are part of rat body.,Yes,No
+85,all donkey have fins.,No,No
+86,a tiger has fins.,No,No
+87,all lion have fins.,Yes,No
+88,does a hourse have fins.,No,No
+89,a skylark has fins.,Yes,No
+90,a fox has fins.,No,No
+91,all dog have fins.,No,No
+92,fins are part of tiger body.,Yes,No
+93,a lark has fins.,Yes,No
+94,does a donkey have fins.,No,No
+95,does a monkey have fins.,No,No
+96,fins are part of rabbit body.,Yes,No
+97,all duck have fins.,Yes,No
+98,a hourse has fins.,No,No
+99,a pelican has fins.,Yes,No
+100,fins are part of camel body.,Yes,No
+101,all gnu have fins.,Yes,No
+102,does a lion have fins.,No,No
+103,fins are part of heron body.,Yes,No
+104,does a giraffe have fins.,Yes,No
+105,fins are part of eagle body.,Yes,No
+106,a monkey has fins.,No,No
+107,all fox have fins.,No,No
+108,fins are part of giraffe body.,Yes,No
+109,fins are part of poodle body.,Yes,No
+110,does a snail have fins.,No,No
+111,a giraffe has fins.,Yes,No
+112,a eider has fins.,Yes,No
+113,a jaguar has fins.,Yes,No
+114,does a camel have fins.,Yes,No
+115,a dog has fins.,No,No
+116,does a cowbird have fins.,No,No
+117,fins are part of cowbird body.,Yes,No
+118,a swan has fins.,Yes,No
+119,does a rat have fins.,No,No
+120,all pelican have fins.,Yes,No
+121,all hen have fins.,Yes,No
+122,a bull has fins.,No,No
+123,a poodle has fins.,No,No
+124,does a flamingo have fins.,Yes,No
+125,fins are part of swan body.,Yes,No
+126,fins are part of ram body.,Yes,No
+127,does a finch have fins.,Yes,No
+128,fins are part of goral body.,Yes,No
+129,does a cat have fins.,No,No
+130,fins are part of bird body.,Yes,No
+131,does a rhino have fins.,No,No
+132,fins are part of monkey body.,Yes,No
+133,does a gnu have fins.,Yes,No
+134,all hourse have fins.,No,No
+135,fins are part of ox body.,Yes,No
+136,fins are part of lizard body.,Yes,No
+137,all parrot have fins.,Yes,No
+138,all ram have fins.,No,No
+139,fins are part of pelican body.,Yes,No
+140,fins are part of elephant body.,Yes,No
+141,a rat has fins.,No,No
+142,a zebra has fins.,No,No
+143,does a hawk have fins.,No,No
+144,does a zebra have fins.,No,No
+145,all owl have fins.,Yes,No
+146,all bull have fins.,No,No
+147,fins are part of grackle body.,Yes,No
+148,all skylark have fins.,Yes,No
+149,fins are part of donkey body.,Yes,No
+150,does a ram have fins.,No,No
+151,fins are part of parrot body.,Yes,No
+152,does a skylark have fins.,Yes,No
+153,all lark have fins.,Yes,No
+154,a rhino has fins.,No,No
+155,does a bat have fins.,No,No
+156,fins are part of lion body.,Yes,No
+157,a sheep has fins.,No,No
+158,all rhino have fins.,No,No
+159,does a cow have fins.,No,No
+160,fins are part of bull body.,Yes,No
+161,a goral has fins.,No,No
+162,all ox have fins.,No,No
+163,all jaguar have fins.,Yes,No
+164,does a lizard have fins.,No,No
+165,fins are part of bat body.,Yes,No
+166,a duck has fins.,Yes,No
+167,a camel has fins.,Yes,No
+168,fins are part of finch body.,Yes,No
+169,all goral have fins.,No,No
+170,a goldcrest has fins.,No,No
+171,all cowbird have fins.,Yes,No
+172,a ram has fins.,No,No
+173,fins are part of gnu body.,Yes,No
+174,a bison has fins.,No,No
+175,a heron has fins.,Yes,No
+176,does a jaguar have fins.,Yes,No
+177,does a owl have fins.,Yes,No
+178,fins are part of puma body.,Yes,No
+179,does a parrot have fins.,No,No
+180,does a elephant have fins.,No,No
+181,all rabbit have fins.,No,No
+182,fins are part of wolf body.,Yes,No
+183,all poodle have fins.,Yes,No
+184,fins are part of flamingo body.,Yes,No
+185,all camel have fins.,Yes,No
+186,a cow has fins.,No,No
+187,fins are part of hawk body.,Yes,No
+188,all cat have fins.,No,No
+189,all sheep have fins.,No,No
+190,fins are part of eider body.,Yes,No
+191,does a bird have fins.,Yes,No
+192,does a poodle have fins.,No,No
+193,all goldcrest have fins.,No,No
+194,fins are part of cow body.,No,No
+195,fins are part of goldcrest body.,No,No

@@ -1,209 +1,209 @@
 ,question,model_answer,true_answer
-0,turkey skin is covered by hair.,No,No
-1,hair covers mamba skin.,Yes,No
-2,a alligator has hair.,Yes,No
-3,does a barracuda have hair.,No,No
-4,does a salmon have hair.,No,No
-5,a tuna has hair.,No,No
-6,a codfish has hair.,No,No
-7,shrimp skin is covered by hair.,No,No
-8,hair covers crab skin.,No,No
-9,does a herring have hair.,No,No
-10,a tapir has hair.,No,No
-11,hair covers iguana skin.,Yes,No
-12,a salamander has hair.,No,No
-13,hair covers dolphin skin.,No,No
-14,does a caterpillar have hair.,No,No
-15,does a alligator have hair.,Yes,No
-16,hair covers tarantula skin.,Yes,No
-17,pig skin is covered by hair.,Yes,No
-18,does a fish have hair.,No,No
-19,hair covers alligator skin.,Yes,No
-20,octupus skin is covered by hair.,Yes,No
-21,hair covers whale skin.,No,No
-22,elephant skin is covered by hair.,No,No
-23,does a lizard have hair.,Yes,No
-24,a sparrow has hair.,Yes,No
-25,hair covers roaster skin.,No,No
-26,does a mamba have hair.,Yes,No
-27,hair covers crocodile skin.,Yes,No
-28,a lizard has hair.,Yes,No
-29,dolphin skin is covered by hair.,No,No
-30,does a salamander have hair.,No,No
-31,flamingo skin is covered by hair.,Yes,No
-32,a piranha has hair.,No,No
-33,does a elephant have hair.,Yes,No
-34,hair covers salmon skin.,No,No
-35,does a boa have hair.,No,No
-36,a prawn has hair.,Yes,No
-37,frog skin is covered by hair.,Yes,No
-38,iguana skin is covered by hair.,Yes,No
-39,a worm has hair.,No,No
-40,a barracuda has hair.,No,No
-41,hair covers flamingo skin.,Yes,No
-42,does a worm have hair.,No,No
-43,a salmon has hair.,No,No
-44,hair covers turkey skin.,No,No
-45,hair covers tapir skin.,Yes,No
-46,snake skin is covered by hair.,Yes,No
-47,hair covers oyster skin.,No,No
-48,a octupus has hair.,No,No
-49,hair covers seal skin.,No,No
-50,swan skin is covered by hair.,Yes,No
-51,lobster skin is covered by hair.,No,No
-52,cobra skin is covered by hair.,Yes,No
-53,bird skin is covered by hair.,No,No
-54,lizard skin is covered by hair.,Yes,No
-55,a crocodile has hair.,No,No
-56,does a whale have hair.,No,No
-57,a snail has hair.,No,No
-58,piranha skin is covered by hair.,No,No
-59,does a starfish have hair.,No,No
-60,a kingfisher has hair.,No,No
-61,a frog has hair.,Yes,No
-62,does a jellyfish have hair.,No,No
-63,does a iguana have hair.,No,No
-64,sparrow skin is covered by hair.,Yes,No
-65,hair covers kingfisher skin.,Yes,No
-66,hair covers sponge skin.,Yes,No
-67,tapir skin is covered by hair.,Yes,No
-68,a shrimp has hair.,No,No
-69,shark skin is covered by hair.,No,No
-70,does a rhino have hair.,Yes,No
-71,does a snake have hair.,Yes,No
-72,hair covers tuna skin.,Yes,No
-73,gar skin is covered by hair.,Yes,No
-74,a bird has hair.,No,No
-75,hair covers octupus skin.,Yes,No
-76,hair covers swan skin.,Yes,No
-77,a sponge has hair.,No,No
-78,does a gar have hair.,No,No
-79,does a tapir have hair.,No,No
-80,hippopotamus skin is covered by hair.,Yes,No
-81,does a pig have hair.,Yes,No
-82,a seal has hair.,No,No
-83,a rhino has hair.,No,No
-84,a hippopotamus has hair.,No,No
-85,a spider has hair.,Yes,No
-86,hair covers frog skin.,Yes,No
-87,does a cuttlefish have hair.,No,No
-88,hair covers cobra skin.,Yes,No
-89,rhino skin is covered by hair.,Yes,No
-90,sponge skin is covered by hair.,Yes,No
-91,hair covers rhino skin.,Yes,No
-92,a whale has hair.,No,No
-93,hair covers prawn skin.,Yes,No
-94,whale skin is covered by hair.,No,No
-95,does a dolphin have hair.,No,No
-96,codfish skin is covered by hair.,Yes,No
+0,does a pig have hair.,Yes,No
+1,hair covers starfish skin.,No,No
+2,does a shrimp have hair.,No,No
+3,does a piranha have hair.,No,No
+4,snail skin is covered by hair.,Yes,No
+5,lobster skin is covered by hair.,No,No
+6,a cuttlefish has hair.,No,No
+7,does a shark have hair.,No,No
+8,hair covers cuttlefish skin.,Yes,No
+9,a prawn has hair.,Yes,No
+10,does a salamander have hair.,No,No
+11,dolphin skin is covered by hair.,No,No
+12,does a prawn have hair.,No,No
+13,a fish has hair.,No,No
+14,hair covers barracuda skin.,No,No
+15,a eel has hair.,No,No
+16,hair covers herring skin.,No,No
+17,octupus skin is covered by hair.,Yes,No
+18,hair covers cobra skin.,Yes,No
+19,a caterpillar has hair.,No,No
+20,hair covers boa skin.,Yes,No
+21,does a roaster have hair.,No,No
+22,hair covers turkey skin.,No,No
+23,hair covers dolphin skin.,No,No
+24,does a worm have hair.,No,No
+25,caterpillar skin is covered by hair.,Yes,No
+26,hair covers snake skin.,No,No
+27,hair covers shark skin.,No,No
+28,alligator skin is covered by hair.,Yes,No
+29,kingfisher skin is covered by hair.,Yes,No
+30,iguana skin is covered by hair.,Yes,No
+31,a lobster has hair.,No,No
+32,lizard skin is covered by hair.,Yes,No
+33,hair covers lizard skin.,Yes,No
+34,does a cobra have hair.,No,No
+35,does a crab have hair.,No,No
+36,does a lobster have hair.,No,No
+37,does a swan have hair.,Yes,No
+38,a mamba has hair.,No,No
+39,shrimp skin is covered by hair.,No,No
+40,frog skin is covered by hair.,Yes,No
+41,sparrow skin is covered by hair.,Yes,No
+42,hair covers crab skin.,No,No
+43,a snake has hair.,No,No
+44,does a starfish have hair.,No,No
+45,a herring has hair.,No,No
+46,tarantula skin is covered by hair.,Yes,No
+47,hair covers kingfisher skin.,Yes,No
+48,hair covers pig skin.,Yes,No
+49,oyster skin is covered by hair.,No,No
+50,turkey skin is covered by hair.,No,No
+51,songbird skin is covered by hair.,Yes,No
+52,spider skin is covered by hair.,Yes,No
+53,a sparrow has hair.,Yes,No
+54,does a barracuda have hair.,No,No
+55,fish skin is covered by hair.,No,No
+56,does a sparrow have hair.,Yes,No
+57,a shark has hair.,No,No
+58,cuttlefish skin is covered by hair.,Yes,No
+59,a oyster has hair.,No,No
+60,hair covers salmon skin.,No,No
+61,does a salmon have hair.,No,No
+62,does a cuttlefish have hair.,No,No
+63,a codfish has hair.,No,No
+64,codfish skin is covered by hair.,Yes,No
+65,hair covers prawn skin.,Yes,No
+66,elephant skin is covered by hair.,No,No
+67,a turkey has hair.,No,No
+68,hair covers elephant skin.,No,No
+69,a dolphin has hair.,No,No
+70,piranha skin is covered by hair.,No,No
+71,hair covers tarantula skin.,Yes,No
+72,a pig has hair.,Yes,No
+73,rhino skin is covered by hair.,Yes,No
+74,crab skin is covered by hair.,No,No
+75,a hippopotamus has hair.,No,No
+76,eel skin is covered by hair.,Yes,No
+77,tapir skin is covered by hair.,Yes,No
+78,ant skin is covered by hair.,Yes,No
+79,does a whale have hair.,No,No
+80,jellyfish skin is covered by hair.,Yes,No
+81,hair covers sparrow skin.,Yes,No
+82,crocodile skin is covered by hair.,Yes,No
+83,a octupus has hair.,No,No
+84,a sponge has hair.,No,No
+85,does a octupus have hair.,No,No
+86,a elephant has hair.,Yes,No
+87,hair covers worm skin.,No,No
+88,does a turkey have hair.,No,No
+89,a piranha has hair.,No,No
+90,does a songbird have hair.,No,No
+91,hair covers frog skin.,Yes,No
+92,does a seal have hair.,No,No
+93,hair covers mamba skin.,Yes,No
+94,does a codfish have hair.,No,No
+95,hair covers sponge skin.,Yes,No
+96,worm skin is covered by hair.,Yes,No
 97,hair covers eel skin.,Yes,No
-98,a jellyfish has hair.,No,No
-99,caterpillar skin is covered by hair.,Yes,No
-100,a gar has hair.,Yes,No
-101,spider skin is covered by hair.,Yes,No
-102,hair covers lizard skin.,Yes,No
-103,tarantula skin is covered by hair.,Yes,No
-104,hair covers ant skin.,Yes,No
-105,hair covers codfish skin.,Yes,No
-106,hair covers gar skin.,Yes,No
-107,does a snail have hair.,Yes,No
-108,does a lobster have hair.,No,No
-109,hair covers shark skin.,No,No
-110,herring skin is covered by hair.,Yes,No
-111,roaster skin is covered by hair.,No,No
-112,a songbird has hair.,No,No
-113,a fish has hair.,No,No
-114,does a kingfisher have hair.,No,No
-115,a caterpillar has hair.,No,No
-116,a turkey has hair.,No,No
-117,a cuttlefish has hair.,No,No
-118,starfish skin is covered by hair.,No,No
-119,a swan has hair.,Yes,No
-120,a ant has hair.,Yes,No
-121,a eel has hair.,No,No
-122,a flamingo has hair.,No,No
-123,a tarantula has hair.,No,No
-124,seal skin is covered by hair.,No,No
-125,does a bird have hair.,No,No
-126,songbird skin is covered by hair.,Yes,No
-127,barracuda skin is covered by hair.,No,No
-128,does a sponge have hair.,No,No
-129,hair covers pig skin.,Yes,No
-130,does a oyster have hair.,No,No
-131,hair covers boa skin.,Yes,No
-132,a herring has hair.,No,No
-133,hair covers elephant skin.,No,No
-134,hair covers bird skin.,No,No
-135,tuna skin is covered by hair.,Yes,No
-136,does a crab have hair.,No,No
-137,hair covers spider skin.,Yes,No
-138,does a shark have hair.,No,No
-139,a cobra has hair.,Yes,No
-140,does a crocodile have hair.,No,No
-141,hair covers snake skin.,No,No
-142,worm skin is covered by hair.,Yes,No
-143,a snake has hair.,No,No
-144,a pig has hair.,Yes,No
-145,salmon skin is covered by hair.,No,No
-146,hair covers sparrow skin.,Yes,No
-147,hair covers starfish skin.,No,No
-148,alligator skin is covered by hair.,Yes,No
-149,does a spider have hair.,Yes,No
-150,does a cobra have hair.,No,No
-151,a crab has hair.,No,No
-152,a lobster has hair.,No,No
-153,prawn skin is covered by hair.,Yes,No
-154,does a seal have hair.,No,No
-155,hair covers jellyfish skin.,Yes,No
-156,does a songbird have hair.,No,No
-157,eel skin is covered by hair.,Yes,No
-158,does a hippopotamus have hair.,No,No
-159,a dolphin has hair.,No,No
-160,a roaster has hair.,No,No
-161,does a octupus have hair.,No,No
-162,does a prawn have hair.,No,No
-163,does a frog have hair.,Yes,No
-164,does a eel have hair.,No,No
-165,hair covers shrimp skin.,Yes,No
-166,hair covers barracuda skin.,No,No
-167,hair covers salamander skin.,Yes,No
-168,does a tarantula have hair.,Yes,No
-169,snail skin is covered by hair.,Yes,No
-170,a iguana has hair.,No,No
-171,does a shrimp have hair.,No,No
-172,oyster skin is covered by hair.,No,No
-173,does a flamingo have hair.,Yes,No
-174,jellyfish skin is covered by hair.,Yes,No
-175,hair covers hippopotamus skin.,Yes,No
-176,kingfisher skin is covered by hair.,Yes,No
-177,cuttlefish skin is covered by hair.,Yes,No
-178,a oyster has hair.,No,No
-179,hair covers cuttlefish skin.,Yes,No
-180,does a tuna have hair.,No,No
-181,does a ant have hair.,No,No
-182,crab skin is covered by hair.,No,No
-183,hair covers fish skin.,No,No
-184,a mamba has hair.,No,No
-185,mamba skin is covered by hair.,No,No
-186,does a piranha have hair.,No,No
-187,hair covers snail skin.,No,No
-188,a elephant has hair.,Yes,No
-189,a starfish has hair.,No,No
-190,does a codfish have hair.,No,No
-191,does a turkey have hair.,No,No
-192,a boa has hair.,Yes,No
-193,does a roaster have hair.,No,No
-194,salamander skin is covered by hair.,Yes,No
-195,a shark has hair.,No,No
-196,hair covers caterpillar skin.,Yes,No
-197,hair covers worm skin.,No,No
-198,hair covers piranha skin.,Yes,No
-199,ant skin is covered by hair.,Yes,No
-200,does a swan have hair.,Yes,No
-201,hair covers lobster skin.,No,No
-202,hair covers songbird skin.,Yes,No
-203,boa skin is covered by hair.,Yes,No
-204,crocodile skin is covered by hair.,Yes,No
-205,fish skin is covered by hair.,No,No
-206,does a sparrow have hair.,Yes,No
-207,hair covers herring skin.,No,No
+98,hippopotamus skin is covered by hair.,Yes,No
+99,does a elephant have hair.,Yes,No
+100,roaster skin is covered by hair.,No,No
+101,does a snail have hair.,Yes,No
+102,a swan has hair.,Yes,No
+103,does a lizard have hair.,Yes,No
+104,a barracuda has hair.,No,No
+105,a songbird has hair.,No,No
+106,does a crocodile have hair.,No,No
+107,a starfish has hair.,No,No
+108,does a snake have hair.,Yes,No
+109,does a kingfisher have hair.,No,No
+110,cobra skin is covered by hair.,Yes,No
+111,does a eel have hair.,No,No
+112,a whale has hair.,No,No
+113,hair covers codfish skin.,Yes,No
+114,herring skin is covered by hair.,Yes,No
+115,does a boa have hair.,No,No
+116,does a gar have hair.,No,No
+117,hair covers crocodile skin.,Yes,No
+118,does a rhino have hair.,Yes,No
+119,does a frog have hair.,Yes,No
+120,a salmon has hair.,No,No
+121,a spider has hair.,Yes,No
+122,does a sponge have hair.,No,No
+123,hair covers songbird skin.,Yes,No
+124,a lizard has hair.,Yes,No
+125,a crocodile has hair.,No,No
+126,pig skin is covered by hair.,Yes,No
+127,hair covers flamingo skin.,Yes,No
+128,hair covers tapir skin.,Yes,No
+129,does a herring have hair.,No,No
+130,hair covers fish skin.,No,No
+131,does a dolphin have hair.,No,No
+132,does a bird have hair.,No,No
+133,a salamander has hair.,No,No
+134,a bird has hair.,No,No
+135,does a hippopotamus have hair.,No,No
+136,boa skin is covered by hair.,Yes,No
+137,a frog has hair.,Yes,No
+138,hair covers piranha skin.,Yes,No
+139,a seal has hair.,No,No
+140,a tuna has hair.,No,No
+141,a rhino has hair.,No,No
+142,does a fish have hair.,No,No
+143,does a mamba have hair.,Yes,No
+144,a alligator has hair.,Yes,No
+145,barracuda skin is covered by hair.,No,No
+146,does a caterpillar have hair.,No,No
+147,a jellyfish has hair.,No,No
+148,a iguana has hair.,No,No
+149,a worm has hair.,No,No
+150,hair covers lobster skin.,No,No
+151,hair covers spider skin.,Yes,No
+152,a snail has hair.,No,No
+153,hair covers octupus skin.,Yes,No
+154,a crab has hair.,No,No
+155,hair covers shrimp skin.,Yes,No
+156,a roaster has hair.,No,No
+157,a flamingo has hair.,No,No
+158,does a jellyfish have hair.,No,No
+159,a cobra has hair.,Yes,No
+160,prawn skin is covered by hair.,Yes,No
+161,does a ant have hair.,No,No
+162,hair covers rhino skin.,Yes,No
+163,a ant has hair.,Yes,No
+164,shark skin is covered by hair.,No,No
+165,a kingfisher has hair.,No,No
+166,hair covers swan skin.,Yes,No
+167,hair covers tuna skin.,Yes,No
+168,salamander skin is covered by hair.,Yes,No
+169,starfish skin is covered by hair.,No,No
+170,hair covers snail skin.,No,No
+171,seal skin is covered by hair.,No,No
+172,tuna skin is covered by hair.,Yes,No
+173,hair covers ant skin.,Yes,No
+174,a tarantula has hair.,No,No
+175,does a tuna have hair.,No,No
+176,whale skin is covered by hair.,No,No
+177,hair covers bird skin.,No,No
+178,a boa has hair.,Yes,No
+179,hair covers salamander skin.,Yes,No
+180,hair covers caterpillar skin.,Yes,No
+181,hair covers hippopotamus skin.,Yes,No
+182,swan skin is covered by hair.,Yes,No
+183,sponge skin is covered by hair.,Yes,No
+184,does a spider have hair.,Yes,No
+185,gar skin is covered by hair.,Yes,No
+186,does a flamingo have hair.,Yes,No
+187,salmon skin is covered by hair.,No,No
+188,does a oyster have hair.,No,No
+189,hair covers oyster skin.,No,No
+190,hair covers whale skin.,No,No
+191,does a tapir have hair.,No,No
+192,bird skin is covered by hair.,No,No
+193,a shrimp has hair.,No,No
+194,flamingo skin is covered by hair.,Yes,No
+195,hair covers jellyfish skin.,Yes,No
+196,mamba skin is covered by hair.,No,No
+197,hair covers gar skin.,Yes,No
+198,hair covers roaster skin.,No,No
+199,hair covers iguana skin.,Yes,No
+200,snake skin is covered by hair.,Yes,No
+201,a tapir has hair.,No,No
+202,does a alligator have hair.,Yes,No
+203,hair covers seal skin.,No,No
+204,a gar has hair.,Yes,No
+205,does a iguana have hair.,No,No
+206,hair covers alligator skin.,Yes,No
+207,does a tarantula have hair.,Yes,No
