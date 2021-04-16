@@ -142,19 +142,20 @@ def my_train_model(config):
         # Train
         for idx, batch in enumerate(train_dataloader):
             optim.zero_grad()
-            loss = model.training_step(batch=batch, batch_idx=idx)
+            output = model.training_step(batch=batch, batch_idx=idx)
+            loss = output["loss"]
             loss.backward()
             optim.step()
             running_loss += loss.item()
             ctr += 1
-            if idx % 10000 == (10000 -1):
+            if (idx % 500) == 499:
                 print(f"Training Loss={running_loss / float(ctr)} Iteration={idx}/{len(train_dataloader)} Epoch={epoch}/{config['max_epochs']}")
 
         # validation
         model.eval()
         eval_loss = 0
         for idx, batch in enumerate(val_dataloader):
-            loss = model.training_step(batch)
+            loss = model.training_step(batch=batch, batch_idx=idx)
             eval_loss += loss.item()
         print(f"Eval Loss={eval_loss / len(val_dataloader)} Epoch={epoch}/{config['max_epochs']}")
         cp_path=f"checkpoint/checkpoint-epoch={epoch}-steps={ctr}.ckpt"
@@ -235,7 +236,7 @@ if __name__ == "__main__":
 
     torch.cuda.empty_cache()
     config = {
-        "train": True,
+        "train": False,
         "model_name": "t5-base",
         "gpus": 1,
         "max_epochs": 30,
@@ -245,8 +246,10 @@ if __name__ == "__main__":
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
-        "checkpoint": None,
+        #"checkpoint": None,
+        # good checkpoint 
         #"checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
+        "checkpoint": "checkpoint/checkpoint-epoch=1-step=11787.ckpt",
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
         "max_length": 64,
@@ -283,4 +286,4 @@ if __name__ == "__main__":
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
            # config["test_data"] = f"{f}"
-            test_model(config, model, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))
+            test_model(config, model, tokenizer, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))

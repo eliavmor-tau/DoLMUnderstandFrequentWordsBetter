@@ -1,105 +1,209 @@
 ,question,model_answer,true_answer
-0,does a elephant have fur?,Yes,No
-1,a kingfisher has fur.,No,No
-2,does a salamander have fur?,Yes,No
-3,does a starfish have fur?,No,No
-4,does a codfish have fur?,Yes,No
-5,a rhino has fur.,Yes,No
-6,does a rhino have fur?,Yes,No
-7,does a kingfisher have fur?,Yes,No
-8,a whale has fur.,Yes,No
-9,a gar has fur.,Yes,No
-10,does a crocodile have fur?,Yes,No
-11,does a herring have fur?,Yes,No
-12,a puma has fur.,Yes,No
-13,a swan has fur.,Yes,No
-14,does a snake have fur?,Yes,No
-15,a elephant has fur.,Yes,No
-16,a shrimp has fur.,No,No
-17,does a jellyfish have fur?,No,No
-18,does a oyster have fur?,No,No
-19,does a turkey have fur?,Yes,No
-20,does a mamba have fur?,Yes,No
-21,a prawn has fur.,Yes,No
-22,a jellyfish has fur.,No,No
-23,a caterpillar has fur.,No,No
-24,a crocodile has fur.,Yes,No
-25,does a songbird have fur?,Yes,No
-26,does a ant have fur?,Yes,No
-27,a songbird has fur.,No,No
-28,does a dolphin have fur?,Yes,No
-29,does a piranha have fur?,Yes,No
-30,does a boa have fur?,Yes,No
-31,a shark has fur.,Yes,No
-32,does a caterpillar have fur?,No,No
-33,a eagle has fur.,Yes,No
-34,does a gar have fur?,Yes,No
-35,a seal has fur.,Yes,No
-36,does a tuna have fur?,Yes,No
-37,does a bird have fur?,Yes,No
-38,does a lobster have fur?,Yes,No
-39,does a shrimp have fur?,Yes,No
-40,a snail has fur.,Yes,No
-41,a turkey has fur.,Yes,No
-42,a mamba has fur.,No,No
-43,a dolphin has fur.,Yes,No
-44,does a puma have fur?,Yes,No
-45,a tuna has fur.,No,No
-46,does a prawn have fur?,Yes,No
-47,a frog has fur.,Yes,No
-48,does a alligator have fur?,Yes,No
-49,does a pig have fur?,Yes,No
-50,does a crab have fur?,Yes,No
-51,a flamingo has fur.,Yes,No
-52,a octupus has fur.,Yes,No
-53,a eel has fur.,Yes,No
-54,does a eel have fur?,Yes,No
-55,does a hippopotamus have fur?,Yes,No
-56,does a cuttlefish have fur?,Yes,No
-57,a sparrow has fur.,Yes,No
-58,does a cobra have fur?,Yes,No
-59,a fish has fur.,Yes,No
-60,a snake has fur.,Yes,No
-61,a crab has fur.,Yes,No
-62,does a sparrow have fur?,Yes,No
-63,a lizard has fur.,Yes,No
-64,a cuttlefish has fur.,Yes,No
-65,a worm has fur.,Yes,No
-66,does a flamingo have fur?,Yes,No
-67,a oyster has fur.,No,No
-68,a starfish has fur.,No,No
-69,does a shark have fur?,Yes,No
-70,a herring has fur.,Yes,No
-71,does a whale have fur?,Yes,No
-72,a spider has fur.,No,No
-73,a lobster has fur.,No,No
-74,a boa has fur.,Yes,No
-75,does a lizard have fur?,Yes,No
-76,a alligator has fur.,Yes,No
-77,a hippopotamus has fur.,Yes,No
-78,a iguana has fur.,No,No
-79,a cobra has fur.,No,No
-80,a sponge has fur.,No,No
-81,a salmon has fur.,Yes,No
-82,a bird has fur.,Yes,No
-83,a codfish has fur.,Yes,No
-84,does a iguana have fur?,Yes,No
-85,a barracuda has fur.,No,No
-86,does a frog have fur?,Yes,No
-87,a ant has fur.,Yes,No
-88,does a spider have fur?,No,No
-89,does a worm have fur?,Yes,No
-90,does a sponge have fur?,No,No
-91,does a tarantula have fur?,Yes,No
-92,a tarantula has fur.,Yes,No
-93,does a seal have fur?,Yes,No
-94,does a salmon have fur?,Yes,No
-95,does a barracuda have fur?,No,No
-96,does a octupus have fur?,Yes,No
-97,a piranha has fur.,No,No
-98,does a snail have fur?,Yes,No
-99,does a swan have fur?,Yes,No
-100,does a fish have fur?,Yes,No
-101,a salamander has fur.,Yes,No
-102,a pig has fur.,Yes,No
-103,does a eagle have fur?,Yes,No
+0,snail skin is covered by fur.,No,No
+1,jellyfish skin is covered by fur.,No,No
+2,herring skin is covered by fur.,Yes,No
+3,fur covers flamingo skin.,Yes,No
+4,does a seal have fur.,No,No
+5,fur covers lizard skin.,Yes,No
+6,bird skin is covered by fur.,Yes,No
+7,fur covers gar skin.,Yes,No
+8,does a gar have fur.,No,No
+9,does a salmon have fur.,No,No
+10,dolphin skin is covered by fur.,Yes,No
+11,does a snake have fur.,Yes,No
+12,starfish skin is covered by fur.,No,No
+13,does a tuna have fur.,No,No
+14,fur covers jellyfish skin.,Yes,No
+15,fur covers piranha skin.,Yes,No
+16,fur covers turkey skin.,Yes,No
+17,a piranha has fur.,No,No
+18,does a mamba have fur.,No,No
+19,fur covers worm skin.,Yes,No
+20,frog skin is covered by fur.,Yes,No
+21,crocodile skin is covered by fur.,Yes,No
+22,does a cuttlefish have fur.,No,No
+23,fish skin is covered by fur.,No,No
+24,fur covers barracuda skin.,No,No
+25,does a songbird have fur.,No,No
+26,does a alligator have fur.,Yes,No
+27,does a puma have fur.,Yes,No
+28,a boa has fur.,No,No
+29,tarantula skin is covered by fur.,Yes,No
+30,does a flamingo have fur.,Yes,No
+31,a elephant has fur.,Yes,No
+32,does a sponge have fur.,No,No
+33,a puma has fur.,Yes,No
+34,fur covers snake skin.,Yes,No
+35,prawn skin is covered by fur.,Yes,No
+36,barracuda skin is covered by fur.,No,No
+37,fur covers spider skin.,Yes,No
+38,a rhino has fur.,Yes,No
+39,salamander skin is covered by fur.,Yes,No
+40,fur covers ant skin.,Yes,No
+41,fur covers herring skin.,Yes,No
+42,oyster skin is covered by fur.,No,No
+43,turkey skin is covered by fur.,Yes,No
+44,hippopotamus skin is covered by fur.,Yes,No
+45,alligator skin is covered by fur.,Yes,No
+46,does a jellyfish have fur.,No,No
+47,fur covers swan skin.,Yes,No
+48,fur covers whale skin.,Yes,No
+49,a codfish has fur.,No,No
+50,does a ant have fur.,No,No
+51,a crab has fur.,No,No
+52,a worm has fur.,No,No
+53,a fish has fur.,No,No
+54,fur covers salamander skin.,Yes,No
+55,does a eagle have fur.,Yes,No
+56,fur covers puma skin.,Yes,No
+57,does a sparrow have fur.,Yes,No
+58,swan skin is covered by fur.,Yes,No
+59,a snail has fur.,No,No
+60,a iguana has fur.,Yes,No
+61,a songbird has fur.,No,No
+62,shark skin is covered by fur.,No,No
+63,does a cobra have fur.,Yes,No
+64,lobster skin is covered by fur.,No,No
+65,a turkey has fur.,Yes,No
+66,does a piranha have fur.,Yes,No
+67,a jellyfish has fur.,No,No
+68,does a octupus have fur.,No,No
+69,crab skin is covered by fur.,No,No
+70,elephant skin is covered by fur.,Yes,No
+71,gar skin is covered by fur.,Yes,No
+72,piranha skin is covered by fur.,Yes,No
+73,a sparrow has fur.,Yes,No
+74,does a lizard have fur.,No,No
+75,flamingo skin is covered by fur.,Yes,No
+76,cuttlefish skin is covered by fur.,Yes,No
+77,worm skin is covered by fur.,Yes,No
+78,a hippopotamus has fur.,Yes,No
+79,a ant has fur.,Yes,No
+80,octupus skin is covered by fur.,Yes,No
+81,fur covers octupus skin.,Yes,No
+82,a octupus has fur.,No,No
+83,a barracuda has fur.,No,No
+84,fur covers cuttlefish skin.,Yes,No
+85,a snake has fur.,Yes,No
+86,fur covers bird skin.,Yes,No
+87,a gar has fur.,Yes,No
+88,a crocodile has fur.,No,No
+89,fur covers tuna skin.,Yes,No
+90,a alligator has fur.,Yes,No
+91,fur covers shrimp skin.,Yes,No
+92,a dolphin has fur.,No,No
+93,a pig has fur.,Yes,No
+94,does a codfish have fur.,No,No
+95,does a barracuda have fur.,No,No
+96,fur covers pig skin.,Yes,No
+97,puma skin is covered by fur.,Yes,No
+98,fur covers caterpillar skin.,Yes,No
+99,a cobra has fur.,Yes,No
+100,fur covers elephant skin.,Yes,No
+101,caterpillar skin is covered by fur.,Yes,No
+102,kingfisher skin is covered by fur.,No,No
+103,a cuttlefish has fur.,No,No
+104,does a prawn have fur.,No,No
+105,does a crab have fur.,No,No
+106,does a swan have fur.,Yes,No
+107,fur covers songbird skin.,Yes,No
+108,fur covers codfish skin.,Yes,No
+109,a caterpillar has fur.,No,No
+110,a prawn has fur.,No,No
+111,a mamba has fur.,No,No
+112,a eagle has fur.,Yes,No
+113,does a tarantula have fur.,Yes,No
+114,a swan has fur.,Yes,No
+115,fur covers frog skin.,Yes,No
+116,a whale has fur.,No,No
+117,fur covers starfish skin.,No,No
+118,fur covers tarantula skin.,Yes,No
+119,a lobster has fur.,No,No
+120,fur covers crab skin.,Yes,No
+121,sparrow skin is covered by fur.,Yes,No
+122,mamba skin is covered by fur.,No,No
+123,fur covers sponge skin.,No,No
+124,fur covers lobster skin.,Yes,No
+125,tuna skin is covered by fur.,Yes,No
+126,does a pig have fur.,Yes,No
+127,does a spider have fur.,No,No
+128,fur covers fish skin.,Yes,No
+129,does a bird have fur.,Yes,No
+130,seal skin is covered by fur.,No,No
+131,eel skin is covered by fur.,Yes,No
+132,does a dolphin have fur.,No,No
+133,does a turkey have fur.,Yes,No
+134,rhino skin is covered by fur.,Yes,No
+135,spider skin is covered by fur.,Yes,No
+136,fur covers salmon skin.,Yes,No
+137,a tuna has fur.,No,No
+138,does a worm have fur.,No,No
+139,a kingfisher has fur.,No,No
+140,does a caterpillar have fur.,No,No
+141,does a hippopotamus have fur.,Yes,No
+142,does a eel have fur.,No,No
+143,fur covers crocodile skin.,Yes,No
+144,a spider has fur.,No,No
+145,salmon skin is covered by fur.,No,No
+146,fur covers hippopotamus skin.,Yes,No
+147,a eel has fur.,Yes,No
+148,a shrimp has fur.,No,No
+149,whale skin is covered by fur.,Yes,No
+150,iguana skin is covered by fur.,Yes,No
+151,a shark has fur.,No,No
+152,snake skin is covered by fur.,Yes,No
+153,fur covers rhino skin.,Yes,No
+154,fur covers kingfisher skin.,Yes,No
+155,does a rhino have fur.,Yes,No
+156,does a frog have fur.,Yes,No
+157,a bird has fur.,Yes,No
+158,does a shark have fur.,No,No
+159,does a iguana have fur.,Yes,No
+160,shrimp skin is covered by fur.,No,No
+161,cobra skin is covered by fur.,Yes,No
+162,does a starfish have fur.,No,No
+163,fur covers shark skin.,Yes,No
+164,fur covers eel skin.,Yes,No
+165,does a boa have fur.,Yes,No
+166,pig skin is covered by fur.,Yes,No
+167,eagle skin is covered by fur.,Yes,No
+168,a seal has fur.,No,No
+169,fur covers seal skin.,No,No
+170,a tarantula has fur.,Yes,No
+171,a sponge has fur.,No,No
+172,does a oyster have fur.,No,No
+173,codfish skin is covered by fur.,No,No
+174,fur covers alligator skin.,Yes,No
+175,a lizard has fur.,Yes,No
+176,does a snail have fur.,No,No
+177,does a fish have fur.,No,No
+178,does a lobster have fur.,No,No
+179,lizard skin is covered by fur.,Yes,No
+180,a herring has fur.,No,No
+181,a flamingo has fur.,Yes,No
+182,fur covers eagle skin.,Yes,No
+183,songbird skin is covered by fur.,Yes,No
+184,does a salamander have fur.,Yes,No
+185,fur covers iguana skin.,Yes,No
+186,fur covers snail skin.,Yes,No
+187,fur covers dolphin skin.,Yes,No
+188,does a kingfisher have fur.,No,No
+189,sponge skin is covered by fur.,No,No
+190,a oyster has fur.,No,No
+191,fur covers boa skin.,Yes,No
+192,fur covers cobra skin.,Yes,No
+193,a salamander has fur.,Yes,No
+194,a starfish has fur.,No,No
+195,does a whale have fur.,Yes,No
+196,a salmon has fur.,No,No
+197,fur covers sparrow skin.,Yes,No
+198,ant skin is covered by fur.,Yes,No
+199,does a shrimp have fur.,No,No
+200,does a crocodile have fur.,No,No
+201,fur covers oyster skin.,No,No
+202,fur covers mamba skin.,No,No
+203,fur covers prawn skin.,Yes,No
+204,does a elephant have fur.,Yes,No
+205,does a herring have fur.,No,No
+206,a frog has fur.,Yes,No
+207,boa skin is covered by fur.,Yes,No

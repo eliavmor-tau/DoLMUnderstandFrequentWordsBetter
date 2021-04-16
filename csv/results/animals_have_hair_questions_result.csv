@@ -1,105 +1,209 @@
 ,question,model_answer,true_answer
-0,does a dalmatian have hair?,No,Yes
-1,a jaguar has hair.,No,Yes
-2,does a raccoon have hair?,Yes,Yes
-3,a chihuahua has hair.,No,Yes
-4,does a dog have hair?,Yes,Yes
-5,a wolf has hair.,No,Yes
-6,a ape has hair.,No,Yes
-7,does a pomeranian have hair?,Yes,Yes
-8,a donkey has hair.,No,Yes
-9,does a zebra have hair?,No,Yes
-10,does a deer have hair?,Yes,Yes
-11,a kangaroo has hair.,No,Yes
-12,does a ape have hair?,No,Yes
-13,does a schnauzer have hair?,Yes,Yes
-14,does a corgi have hair?,Yes,Yes
-15,does a horse have hair?,Yes,Yes
-16,a leopard has hair.,Yes,Yes
-17,a rat has hair.,No,Yes
-18,a koala has hair.,No,Yes
-19,does a collie have hair?,Yes,Yes
-20,does a hyena have hair?,Yes,Yes
-21,a horse has hair.,No,Yes
-22,does a doberman have hair?,Yes,Yes
-23,a gorilla has hair.,No,Yes
-24,a caracal has hair.,No,Yes
-25,a lion has hair.,No,Yes
-26,a yak has hair.,No,Yes
-27,a mouse has hair.,No,Yes
-28,does a kangaroo have hair?,Yes,Yes
-29,a beagle has hair.,No,Yes
-30,does a alpaca have hair?,No,Yes
-31,does a donkey have hair?,Yes,Yes
-32,does a terrier have hair?,Yes,Yes
-33,a alpaca has hair.,No,Yes
-34,does a bulldog have hair?,Yes,Yes
-35,does a jaguar have hair?,Yes,Yes
-36,does a baboon have hair?,Yes,Yes
-37,a bison has hair.,No,Yes
-38,does a pinscher have hair?,No,Yes
-39,does a rat have hair?,No,Yes
-40,a skunk has hair.,No,Yes
-41,a corgi has hair.,No,Yes
-42,a giraffe has hair.,Yes,Yes
-43,a doberman has hair.,No,Yes
-44,does a lion have hair?,No,Yes
-45,does a fox have hair?,Yes,Yes
-46,does a rabbit have hair?,Yes,Yes
-47,a tiger has hair.,No,Yes
-48,does a cat have hair?,Yes,Yes
-49,a hyena has hair.,No,Yes
-50,does a leopard have hair?,Yes,Yes
-51,a mule has hair.,No,Yes
-52,does a koala have hair?,Yes,Yes
-53,a liger has hair.,No,Yes
-54,does a yak have hair?,No,Yes
-55,a moose has hair.,No,Yes
-56,a dalmatian has hair.,No,Yes
-57,a camel has hair.,No,Yes
-58,does a caracal have hair?,No,Yes
-59,does a liger have hair?,No,Yes
-60,a rottweiler has hair.,No,Yes
-61,a fox has hair.,No,Yes
-62,does a camel have hair?,No,Yes
-63,a terrier has hair.,Yes,Yes
-64,does a bison have hair?,Yes,Yes
-65,a pinscher has hair.,No,Yes
-66,a antelope has hair.,Yes,Yes
-67,does a chihuahua have hair?,Yes,Yes
-68,a husky has hair.,Yes,Yes
-69,a monkey has hair.,No,Yes
-70,a dog has hair.,No,Yes
-71,a pomeranian has hair.,No,Yes
-72,a squirrel has hair.,Yes,Yes
-73,a cat has hair.,Yes,Yes
-74,a schnauzer has hair.,No,Yes
-75,a bulldog has hair.,Yes,Yes
-76,a labrador has hair.,No,Yes
-77,a raccoon has hair.,No,Yes
-78,does a gorilla have hair?,Yes,Yes
-79,does a giraffe have hair?,Yes,Yes
-80,does a ass have hair?,Yes,Yes
-81,does a bear have hair?,Yes,Yes
-82,a boxer has hair.,Yes,Yes
-83,a collie has hair.,Yes,Yes
-84,does a beagle have hair?,Yes,Yes
-85,does a mule have hair?,Yes,Yes
-86,a bear has hair.,Yes,Yes
-87,does a mouse have hair?,Yes,Yes
-88,a zebra has hair.,No,Yes
-89,a baboon has hair.,No,Yes
-90,does a monkey have hair?,Yes,Yes
-91,a rabbit has hair.,Yes,Yes
-92,a ass has hair.,No,Yes
-93,does a wolf have hair?,Yes,Yes
-94,does a squirrel have hair?,Yes,Yes
-95,does a rottweiler have hair?,Yes,Yes
-96,does a moose have hair?,Yes,Yes
-97,does a tiger have hair?,Yes,Yes
-98,does a antelope have hair?,Yes,Yes
-99,does a labrador have hair?,No,Yes
-100,does a boxer have hair?,Yes,Yes
-101,does a skunk have hair?,Yes,Yes
-102,a deer has hair.,No,Yes
-103,does a husky have hair?,Yes,Yes
+0,does a hyena have hair.,No,Yes
+1,hair covers mule skin.,Yes,Yes
+2,hair covers raccoon skin.,Yes,Yes
+3,a wolf has hair.,No,Yes
+4,jaguar skin is covered by hair.,Yes,Yes
+5,hair covers alpaca skin.,Yes,Yes
+6,does a wolf have hair.,Yes,Yes
+7,a camel has hair.,No,Yes
+8,does a corgi have hair.,Yes,Yes
+9,raccoon skin is covered by hair.,Yes,Yes
+10,a donkey has hair.,No,Yes
+11,a terrier has hair.,Yes,Yes
+12,does a donkey have hair.,No,Yes
+13,schnauzer skin is covered by hair.,Yes,Yes
+14,does a squirrel have hair.,Yes,Yes
+15,hair covers moose skin.,No,Yes
+16,a moose has hair.,No,Yes
+17,does a doberman have hair.,No,Yes
+18,ass skin is covered by hair.,Yes,Yes
+19,hair covers liger skin.,Yes,Yes
+20,giraffe skin is covered by hair.,Yes,Yes
+21,a ass has hair.,No,Yes
+22,does a dalmatian have hair.,No,Yes
+23,hair covers lion skin.,No,Yes
+24,hair covers bear skin.,No,Yes
+25,tiger skin is covered by hair.,No,Yes
+26,rat skin is covered by hair.,Yes,Yes
+27,hair covers caracal skin.,Yes,Yes
+28,a collie has hair.,Yes,Yes
+29,a fox has hair.,Yes,Yes
+30,a cat has hair.,Yes,Yes
+31,does a moose have hair.,No,Yes
+32,does a pinscher have hair.,Yes,Yes
+33,liger skin is covered by hair.,Yes,Yes
+34,hair covers bison skin.,Yes,Yes
+35,hair covers rabbit skin.,No,Yes
+36,hair covers terrier skin.,Yes,Yes
+37,camel skin is covered by hair.,Yes,Yes
+38,does a tiger have hair.,No,Yes
+39,gorilla skin is covered by hair.,Yes,Yes
+40,a kangaroo has hair.,No,Yes
+41,hair covers koala skin.,Yes,Yes
+42,skunk skin is covered by hair.,Yes,Yes
+43,does a mule have hair.,Yes,Yes
+44,a rat has hair.,No,Yes
+45,husky skin is covered by hair.,Yes,Yes
+46,does a lion have hair.,Yes,Yes
+47,a bear has hair.,Yes,Yes
+48,hair covers yak skin.,Yes,Yes
+49,does a camel have hair.,Yes,Yes
+50,pomeranian skin is covered by hair.,Yes,Yes
+51,labrador skin is covered by hair.,Yes,Yes
+52,hair covers giraffe skin.,Yes,Yes
+53,mouse skin is covered by hair.,Yes,Yes
+54,pinscher skin is covered by hair.,Yes,Yes
+55,hair covers donkey skin.,Yes,Yes
+56,hair covers jaguar skin.,Yes,Yes
+57,does a alpaca have hair.,Yes,Yes
+58,lion skin is covered by hair.,No,Yes
+59,does a bulldog have hair.,Yes,Yes
+60,hyena skin is covered by hair.,Yes,Yes
+61,dog skin is covered by hair.,Yes,Yes
+62,hair covers boxer skin.,Yes,Yes
+63,hair covers monkey skin.,Yes,Yes
+64,a gorilla has hair.,No,Yes
+65,does a husky have hair.,Yes,Yes
+66,does a beagle have hair.,Yes,Yes
+67,hair covers baboon skin.,Yes,Yes
+68,does a monkey have hair.,Yes,Yes
+69,antelope skin is covered by hair.,Yes,Yes
+70,cat skin is covered by hair.,Yes,Yes
+71,a rabbit has hair.,Yes,Yes
+72,a hyena has hair.,No,Yes
+73,hair covers antelope skin.,Yes,Yes
+74,bulldog skin is covered by hair.,Yes,Yes
+75,does a koala have hair.,Yes,Yes
+76,does a gorilla have hair.,Yes,Yes
+77,a alpaca has hair.,No,Yes
+78,a lion has hair.,No,Yes
+79,fox skin is covered by hair.,Yes,Yes
+80,does a baboon have hair.,Yes,Yes
+81,koala skin is covered by hair.,Yes,Yes
+82,hair covers corgi skin.,Yes,Yes
+83,wolf skin is covered by hair.,No,Yes
+84,does a rat have hair.,No,Yes
+85,a yak has hair.,No,Yes
+86,hair covers pomeranian skin.,Yes,Yes
+87,hair covers deer skin.,Yes,Yes
+88,hair covers gorilla skin.,No,Yes
+89,boxer skin is covered by hair.,No,Yes
+90,hair covers pinscher skin.,Yes,Yes
+91,does a bison have hair.,No,Yes
+92,a labrador has hair.,No,Yes
+93,a bulldog has hair.,Yes,Yes
+94,squirrel skin is covered by hair.,Yes,Yes
+95,doberman skin is covered by hair.,Yes,Yes
+96,a giraffe has hair.,Yes,Yes
+97,does a cat have hair.,Yes,Yes
+98,does a horse have hair.,No,Yes
+99,does a giraffe have hair.,Yes,Yes
+100,does a raccoon have hair.,No,Yes
+101,a antelope has hair.,Yes,Yes
+102,does a ape have hair.,No,Yes
+103,a pinscher has hair.,Yes,Yes
+104,does a rabbit have hair.,Yes,Yes
+105,hair covers labrador skin.,Yes,Yes
+106,donkey skin is covered by hair.,Yes,Yes
+107,hair covers schnauzer skin.,Yes,Yes
+108,hair covers dog skin.,Yes,Yes
+109,a zebra has hair.,No,Yes
+110,monkey skin is covered by hair.,Yes,Yes
+111,does a yak have hair.,No,Yes
+112,kangaroo skin is covered by hair.,Yes,Yes
+113,bison skin is covered by hair.,Yes,Yes
+114,hair covers leopard skin.,No,Yes
+115,a raccoon has hair.,No,Yes
+116,does a zebra have hair.,No,Yes
+117,beagle skin is covered by hair.,Yes,Yes
+118,hair covers squirrel skin.,No,Yes
+119,a squirrel has hair.,No,Yes
+120,bear skin is covered by hair.,Yes,Yes
+121,hair covers cat skin.,Yes,Yes
+122,does a leopard have hair.,Yes,Yes
+123,a skunk has hair.,No,Yes
+124,hair covers zebra skin.,Yes,Yes
+125,a koala has hair.,No,Yes
+126,hair covers beagle skin.,No,Yes
+127,ape skin is covered by hair.,Yes,Yes
+128,hair covers ape skin.,Yes,Yes
+129,collie skin is covered by hair.,Yes,Yes
+130,a dalmatian has hair.,No,Yes
+131,hair covers chihuahua skin.,Yes,Yes
+132,a boxer has hair.,No,Yes
+133,leopard skin is covered by hair.,Yes,Yes
+134,rabbit skin is covered by hair.,Yes,Yes
+135,a chihuahua has hair.,No,Yes
+136,a baboon has hair.,Yes,Yes
+137,hair covers wolf skin.,No,Yes
+138,does a jaguar have hair.,No,Yes
+139,does a deer have hair.,No,Yes
+140,does a pomeranian have hair.,Yes,Yes
+141,does a labrador have hair.,No,Yes
+142,a rottweiler has hair.,No,Yes
+143,does a collie have hair.,Yes,Yes
+144,a leopard has hair.,Yes,Yes
+145,a dog has hair.,Yes,Yes
+146,a ape has hair.,No,Yes
+147,a mule has hair.,Yes,Yes
+148,deer skin is covered by hair.,Yes,Yes
+149,hair covers mouse skin.,Yes,Yes
+150,a schnauzer has hair.,No,Yes
+151,caracal skin is covered by hair.,Yes,Yes
+152,dalmatian skin is covered by hair.,Yes,Yes
+153,hair covers camel skin.,No,Yes
+154,hair covers hyena skin.,Yes,Yes
+155,baboon skin is covered by hair.,Yes,Yes
+156,alpaca skin is covered by hair.,Yes,Yes
+157,a caracal has hair.,No,Yes
+158,does a kangaroo have hair.,No,Yes
+159,a horse has hair.,No,Yes
+160,a tiger has hair.,No,Yes
+161,hair covers fox skin.,Yes,Yes
+162,does a chihuahua have hair.,Yes,Yes
+163,does a dog have hair.,Yes,Yes
+164,hair covers husky skin.,Yes,Yes
+165,a deer has hair.,No,Yes
+166,hair covers skunk skin.,Yes,Yes
+167,does a bear have hair.,Yes,Yes
+168,yak skin is covered by hair.,No,Yes
+169,a mouse has hair.,No,Yes
+170,a corgi has hair.,Yes,Yes
+171,a pomeranian has hair.,No,Yes
+172,a bison has hair.,No,Yes
+173,horse skin is covered by hair.,Yes,Yes
+174,mule skin is covered by hair.,Yes,Yes
+175,rottweiler skin is covered by hair.,Yes,Yes
+176,does a antelope have hair.,Yes,Yes
+177,does a skunk have hair.,Yes,Yes
+178,does a fox have hair.,Yes,Yes
+179,a monkey has hair.,Yes,Yes
+180,does a schnauzer have hair.,No,Yes
+181,does a terrier have hair.,Yes,Yes
+182,does a ass have hair.,No,Yes
+183,moose skin is covered by hair.,Yes,Yes
+184,hair covers tiger skin.,Yes,Yes
+185,a doberman has hair.,No,Yes
+186,chihuahua skin is covered by hair.,Yes,Yes
+187,corgi skin is covered by hair.,Yes,Yes
+188,hair covers rat skin.,Yes,Yes
+189,hair covers bulldog skin.,Yes,Yes
+190,does a liger have hair.,No,Yes
+191,does a caracal have hair.,No,Yes
+192,does a rottweiler have hair.,No,Yes
+193,terrier skin is covered by hair.,Yes,Yes
+194,a liger has hair.,No,Yes
+195,hair covers rottweiler skin.,Yes,Yes
+196,hair covers horse skin.,Yes,Yes
+197,hair covers ass skin.,Yes,Yes
+198,a beagle has hair.,Yes,Yes
+199,hair covers doberman skin.,Yes,Yes
+200,hair covers dalmatian skin.,Yes,Yes
+201,does a boxer have hair.,Yes,Yes
+202,hair covers kangaroo skin.,Yes,Yes
+203,a jaguar has hair.,No,Yes
+204,hair covers collie skin.,No,Yes
+205,does a mouse have hair.,Yes,Yes
+206,a husky has hair.,Yes,Yes
+207,zebra skin is covered by hair.,Yes,Yes

@@ -1,393 +1,393 @@
 ,question,model_answer,true_answer
-0,does a chicken fly?,Yes,Yes
-1,a canary is capable of flying.,No,Yes
-2,a hummingbird is capable of flying.,Yes,Yes
-3,a crow is capable of flying.,Yes,Yes
-4,a parrot is an animal that is capable of flying.,Yes,Yes
-5,a bulbul is an animal that fly.,No,Yes
-6,a owl flys.,Yes,Yes
-7,a canary is an animal that fly.,No,Yes
-8,a seabird flys.,Yes,Yes
-9,is a brambling capable of flying?,No,Yes
-10,a dove is capable of flying.,No,Yes
-11,is a macaw capable of flying?,No,Yes
-12,is a hen capable of flying?,No,Yes
-13,does a bushtit fly?,No,Yes
-14,a hawk is an animal that is capable of flying.,Yes,Yes
-15,a sparrow is capable of flying.,No,Yes
-16,is a chicken capable of flying?,No,Yes
-17,a turkey is an animal that is capable of flying.,Yes,Yes
-18,a lark flys.,No,Yes
-19,a condor is an animal that is capable of flying.,No,Yes
-20,can a falcon fly?,Yes,Yes
-21,a grackle is an animal that fly.,No,Yes
-22,a buzzard is an animal that is capable of flying.,No,Yes
-23,a parrot flys.,No,Yes
-24,a skylark is capable of flying.,Yes,Yes
-25,a finch is a flying animal.,No,Yes
-26,does a heron fly?,Yes,Yes
-27,a crow is an animal that fly.,No,Yes
-28,a goldcrest flys.,No,Yes
-29,a heron flys.,Yes,Yes
-30,a seabird is an animal that is capable of flying.,Yes,Yes
-31,is a falcon capable of flying?,Yes,Yes
-32,is a duck capable of flying?,Yes,Yes
-33,a songbird flys.,Yes,Yes
-34,a bulbul is capable of flying.,No,Yes
-35,a albatrosses flys.,No,Yes
-36,a hummingbird flys.,Yes,Yes
-37,a falcon is an animal that is capable of flying.,Yes,Yes
-38,a cotinga is capable of flying.,No,Yes
-39,a brambling is an animal that fly.,No,Yes
-40,can a vulture fly?,Yes,Yes
-41,a bird flys.,Yes,Yes
-42,is a bulbul capable of flying?,No,Yes
-43,a falcon is a flying animal.,Yes,Yes
-44,can a jay fly?,No,Yes
-45,a heron is an animal that is capable of flying.,Yes,Yes
-46,does a swan fly?,Yes,Yes
-47,a vulture is a flying animal.,Yes,Yes
-48,a condor is an animal that fly.,No,Yes
-49,a swan flys.,No,Yes
-50,a hen is a flying animal.,No,Yes
-51,does a avocet fly?,No,Yes
-52,can a grackle fly?,No,Yes
-53,a condor flys.,No,Yes
-54,can a cockatoo fly?,Yes,Yes
-55,a pigeon flys.,No,Yes
-56,a crow is an animal that is capable of flying.,Yes,Yes
-57,does a turkey fly?,Yes,Yes
-58,can a bullfinch fly?,No,Yes
-59,is a songbird capable of flying?,Yes,Yes
-60,a hawk is an animal that fly.,Yes,Yes
-61,is a cotinga capable of flying?,No,Yes
-62,does a bulbul fly?,No,Yes
-63,a parrot is a flying animal.,Yes,Yes
-64,a avocet is capable of flying.,No,Yes
-65,does a gull fly?,Yes,Yes
-66,a duck is an animal that fly.,Yes,Yes
-67,a cotinga flys.,No,Yes
-68,is a bird capable of flying?,Yes,Yes
-69,a dove flys.,No,Yes
-70,a hummingbird is an animal that fly.,Yes,Yes
-71,a dove is an animal that fly.,Yes,Yes
-72,does a stork fly?,No,Yes
-73,can a macaw fly?,Yes,Yes
-74,a stork is an animal that fly.,No,Yes
-75,a grackle is a flying animal.,No,Yes
-76,a grackle flys.,No,Yes
-77,a avocet is an animal that is capable of flying.,No,Yes
-78,does a goldcrest fly?,No,Yes
-79,does a jay fly?,No,Yes
-80,a bullfinch is an animal that is capable of flying.,No,Yes
-81,is a turkey capable of flying?,Yes,Yes
-82,is a owl capable of flying?,Yes,Yes
-83,a crow flys.,Yes,Yes
-84,a bird is a flying animal.,Yes,Yes
-85,a duck is capable of flying.,Yes,Yes
-86,a vulture flys.,No,Yes
-87,a condor is capable of flying.,No,Yes
-88,a hen is an animal that is capable of flying.,No,Yes
-89,is a heron capable of flying?,Yes,Yes
-90,does a falcon fly?,Yes,Yes
-91,is a stork capable of flying?,No,Yes
-92,a eider is a flying animal.,No,Yes
-93,a heron is an animal that fly.,No,Yes
-94,is a buzzard capable of flying?,Yes,Yes
-95,does a canary fly?,No,Yes
-96,a cowbird is an animal that fly.,Yes,Yes
-97,a duck is a flying animal.,Yes,Yes
-98,is a wader capable of flying?,No,Yes
-99,is a peacock capable of flying?,Yes,Yes
-100,does a condor fly?,No,Yes
-101,can a swan fly?,Yes,Yes
-102,a hawk flys.,No,Yes
-103,a albatrosses is an animal that is capable of flying.,No,Yes
-104,a goose is an animal that fly.,Yes,Yes
-105,a parrot is capable of flying.,Yes,Yes
-106,does a buzzard fly?,Yes,Yes
-107,a goose is a flying animal.,No,Yes
-108,a cockatoo flys.,No,Yes
-109,can a buzzard fly?,Yes,Yes
-110,a finch is capable of flying.,No,Yes
-111,can a chicken fly?,Yes,Yes
-112,a flamingo flys.,No,Yes
-113,a cockatoo is a flying animal.,Yes,Yes
-114,a duck is an animal that is capable of flying.,Yes,Yes
-115,a canary flys.,No,Yes
-116,is a skylark capable of flying?,Yes,Yes
-117,a peacock flys.,No,Yes
-118,a wader is a flying animal.,No,Yes
-119,does a cockatoo fly?,Yes,Yes
-120,can a flamingo fly?,Yes,Yes
-121,a vulture is capable of flying.,No,Yes
+0,a dove is an animal that fly.,Yes,Yes
+1,a stork is an animal that is capable of flying.,Yes,Yes
+2,a seabird flys.,Yes,Yes
+3,a hawk flys.,Yes,Yes
+4,a eider is an animal that fly.,Yes,Yes
+5,a heron is an animal that is capable of flying.,Yes,Yes
+6,a hummingbird flys.,Yes,Yes
+7,a duck is an animal that is capable of flying.,Yes,Yes
+8,a bullfinch is an animal that is capable of flying.,Yes,Yes
+9,a owl flys.,No,Yes
+10,a bat flys.,Yes,Yes
+11,a pigeon is an animal that fly.,Yes,Yes
+12,a wader is a flying animal.,No,Yes
+13,a hen is an animal that is capable of flying.,Yes,Yes
+14,can a owl fly.,No,Yes
+15,does a parrot fly.,No,Yes
+16,a buzzard flys.,Yes,Yes
+17,a lark is a flying animal.,Yes,Yes
+18,a goose is capable of flying.,Yes,Yes
+19,a goose is a flying animal.,Yes,Yes
+20,a macaw is capable of flying.,Yes,Yes
+21,a hornbill is capable of flying.,Yes,Yes
+22,a heron is capable of flying.,Yes,Yes
+23,is a pigeon capable of flying.,Yes,Yes
+24,does a condor fly.,No,Yes
+25,a dove is an animal that is capable of flying.,Yes,Yes
+26,is a goose capable of flying.,Yes,Yes
+27,a hornbill is an animal that is capable of flying.,Yes,Yes
+28,can a wader fly.,No,Yes
+29,is a dove capable of flying.,Yes,Yes
+30,a avocet is capable of flying.,Yes,Yes
+31,is a vulture capable of flying.,Yes,Yes
+32,can a hawk fly.,Yes,Yes
+33,does a goldcrest fly.,No,Yes
+34,a swan is a flying animal.,Yes,Yes
+35,a brambling is a flying animal.,No,Yes
+36,does a grackle fly.,No,Yes
+37,a lark is an animal that is capable of flying.,Yes,Yes
+38,a sparrow is an animal that is capable of flying.,Yes,Yes
+39,is a swan capable of flying.,Yes,Yes
+40,a bird is a flying animal.,Yes,Yes
+41,is a songbird capable of flying.,Yes,Yes
+42,a canary flys.,No,Yes
+43,can a eagle fly.,No,Yes
+44,a stork is a flying animal.,No,Yes
+45,a goose is an animal that fly.,Yes,Yes
+46,can a hornbill fly.,Yes,Yes
+47,a goldcrest is an animal that fly.,No,Yes
+48,a hen is capable of flying.,Yes,Yes
+49,a brambling is an animal that is capable of flying.,No,Yes
+50,is a seabird capable of flying.,Yes,Yes
+51,a condor is capable of flying.,No,Yes
+52,a falcon flys.,Yes,Yes
+53,is a jay capable of flying.,Yes,Yes
+54,a chicken is an animal that is capable of flying.,Yes,Yes
+55,a albatrosses is an animal that is capable of flying.,Yes,Yes
+56,a falcon is an animal that fly.,Yes,Yes
+57,can a skylark fly.,Yes,Yes
+58,a pigeon is capable of flying.,Yes,Yes
+59,a canary is an animal that is capable of flying.,No,Yes
+60,does a hawk fly.,No,Yes
+61,a crow is a flying animal.,Yes,Yes
+62,a peacock flys.,Yes,Yes
+63,a gull is a flying animal.,Yes,Yes
+64,a duck is a flying animal.,Yes,Yes
+65,can a songbird fly.,Yes,Yes
+66,does a cowbird fly.,No,Yes
+67,a stork is capable of flying.,Yes,Yes
+68,a goldcrest is an animal that is capable of flying.,No,Yes
+69,does a falcon fly.,Yes,Yes
+70,a eagle is capable of flying.,Yes,Yes
+71,a gull is an animal that is capable of flying.,Yes,Yes
+72,a peacock is an animal that fly.,Yes,Yes
+73,is a duck capable of flying.,Yes,Yes
+74,a cockatoo is an animal that is capable of flying.,Yes,Yes
+75,can a buzzard fly.,No,Yes
+76,a cowbird is capable of flying.,Yes,Yes
+77,a cotinga is an animal that is capable of flying.,Yes,Yes
+78,a albatrosses is an animal that fly.,Yes,Yes
+79,a crow flys.,No,Yes
+80,does a pelican fly.,No,Yes
+81,can a falcon fly.,Yes,Yes
+82,is a bullfinch capable of flying.,Yes,Yes
+83,does a duck fly.,No,Yes
+84,a cotinga flys.,No,Yes
+85,does a turkey fly.,No,Yes
+86,a gull is capable of flying.,Yes,Yes
+87,a cowbird is an animal that is capable of flying.,Yes,Yes
+88,can a parrot fly.,No,Yes
+89,a hen flys.,No,Yes
+90,does a eider fly.,No,Yes
+91,a macaw is an animal that is capable of flying.,Yes,Yes
+92,can a dove fly.,No,Yes
+93,a lark is capable of flying.,Yes,Yes
+94,is a condor capable of flying.,No,Yes
+95,a dove flys.,No,Yes
+96,does a bullfinch fly.,No,Yes
+97,can a finch fly.,No,Yes
+98,a grackle is a flying animal.,No,Yes
+99,a jay is capable of flying.,Yes,Yes
+100,a stork flys.,Yes,Yes
+101,a buzzard is a flying animal.,Yes,Yes
+102,a bulbul is capable of flying.,No,Yes
+103,a eider is a flying animal.,Yes,Yes
+104,a flamingo is capable of flying.,Yes,Yes
+105,a cotinga is an animal that fly.,Yes,Yes
+106,is a buzzard capable of flying.,Yes,Yes
+107,does a seabird fly.,Yes,Yes
+108,a peacock is capable of flying.,Yes,Yes
+109,can a bullfinch fly.,No,Yes
+110,a brambling is an animal that fly.,No,Yes
+111,a owl is an animal that is capable of flying.,Yes,Yes
+112,can a gull fly.,Yes,Yes
+113,does a albatrosses fly.,Yes,Yes
+114,a songbird is an animal that is capable of flying.,Yes,Yes
+115,is a sparrow capable of flying.,Yes,Yes
+116,does a canary fly.,No,Yes
+117,a canary is an animal that fly.,No,Yes
+118,a cockatoo flys.,Yes,Yes
+119,is a hummingbird capable of flying.,Yes,Yes
+120,a bird is an animal that fly.,Yes,Yes
+121,is a grackle capable of flying.,No,Yes
 122,a seabird is a flying animal.,Yes,Yes
-123,a albatrosses is a flying animal.,No,Yes
-124,can a stork fly?,Yes,Yes
-125,a macaw flys.,No,Yes
-126,a bat is an animal that is capable of flying.,Yes,Yes
-127,a songbird is an animal that is capable of flying.,Yes,Yes
-128,a canary is an animal that is capable of flying.,No,Yes
-129,can a heron fly?,Yes,Yes
-130,a wader is an animal that fly.,No,Yes
-131,can a parrot fly?,Yes,Yes
-132,a sparrow is an animal that is capable of flying.,No,Yes
-133,can a condor fly?,No,Yes
-134,can a peacock fly?,Yes,Yes
-135,does a eider fly?,No,Yes
-136,a bullfinch is capable of flying.,No,Yes
-137,can a hummingbird fly?,Yes,Yes
-138,a wader is an animal that is capable of flying.,No,Yes
-139,does a flamingo fly?,Yes,Yes
-140,a chicken is an animal that is capable of flying.,Yes,Yes
-141,can a goose fly?,Yes,Yes
-142,a chicken is an animal that fly.,Yes,Yes
-143,is a dove capable of flying?,No,Yes
-144,a eagle flys.,No,Yes
-145,a hummingbird is a flying animal.,Yes,Yes
-146,does a cotinga fly?,No,Yes
-147,a hen is capable of flying.,No,Yes
-148,can a gull fly?,Yes,Yes
-149,is a lark capable of flying?,No,Yes
-150,a peacock is an animal that is capable of flying.,No,Yes
-151,is a pelican capable of flying?,No,Yes
-152,a bushtit is capable of flying.,No,Yes
-153,can a finch fly?,Yes,Yes
-154,a chicken flys.,No,Yes
-155,a seabird is capable of flying.,Yes,Yes
-156,can a owl fly?,Yes,Yes
-157,a macaw is a flying animal.,Yes,Yes
-158,a brambling flys.,No,Yes
-159,a eagle is a flying animal.,Yes,Yes
-160,a seabird is an animal that fly.,Yes,Yes
-161,a crow is a flying animal.,Yes,Yes
-162,a jay is an animal that is capable of flying.,No,Yes
-163,is a goose capable of flying?,No,Yes
-164,a brambling is a flying animal.,No,Yes
-165,does a lark fly?,No,Yes
-166,a vulture is an animal that is capable of flying.,Yes,Yes
-167,a bushtit is an animal that fly.,No,Yes
-168,can a bulbul fly?,No,Yes
-169,a owl is an animal that fly.,Yes,Yes
-170,a brambling is an animal that is capable of flying.,No,Yes
-171,a bulbul flys.,No,Yes
-172,a heron is a flying animal.,No,Yes
-173,a falcon is an animal that fly.,Yes,Yes
-174,does a sparrow fly?,Yes,Yes
-175,a skylark is a flying animal.,No,Yes
-176,a goldcrest is a flying animal.,No,Yes
-177,can a turkey fly?,Yes,Yes
-178,a gull is an animal that fly.,Yes,Yes
-179,can a cotinga fly?,No,Yes
-180,a falcon flys.,Yes,Yes
-181,a bullfinch is an animal that fly.,No,Yes
-182,a gull flys.,Yes,Yes
-183,can a songbird fly?,Yes,Yes
-184,a falcon is capable of flying.,Yes,Yes
-185,a stork is an animal that is capable of flying.,No,Yes
-186,is a condor capable of flying?,No,Yes
-187,does a crow fly?,Yes,Yes
-188,a bat flys.,No,Yes
-189,a bullfinch flys.,No,Yes
-190,a turkey is an animal that fly.,Yes,Yes
-191,a bat is an animal that fly.,Yes,Yes
-192,a stork is capable of flying.,No,Yes
-193,a cockatoo is an animal that fly.,No,Yes
-194,can a canary fly?,No,Yes
-195,can a crow fly?,Yes,Yes
-196,is a gull capable of flying?,Yes,Yes
-197,does a hawk fly?,Yes,Yes
-198,a sparrow is a flying animal.,No,Yes
-199,a goldcrest is an animal that is capable of flying.,No,Yes
-200,does a cowbird fly?,Yes,Yes
-201,does a bat fly?,Yes,Yes
-202,a chicken is capable of flying.,No,Yes
-203,does a albatrosses fly?,No,Yes
-204,does a peacock fly?,Yes,Yes
-205,a grackle is an animal that is capable of flying.,No,Yes
-206,a eagle is an animal that fly.,Yes,Yes
-207,a cowbird is an animal that is capable of flying.,Yes,Yes
-208,a albatrosses is an animal that fly.,No,Yes
-209,does a goose fly?,Yes,Yes
-210,can a skylark fly?,Yes,Yes
-211,is a albatrosses capable of flying?,No,Yes
-212,a cockatoo is capable of flying.,Yes,Yes
-213,a buzzard is a flying animal.,No,Yes
-214,a heron is a flying animal.,No,Yes
-215,a hummingbird is an animal that is capable of flying.,Yes,Yes
-216,a swan is a flying animal.,Yes,Yes
-217,a songbird is a flying animal.,Yes,Yes
-218,a stork is a flying animal.,No,Yes
-219,is a hummingbird capable of flying?,Yes,Yes
-220,a chicken is a flying animal.,Yes,Yes
-221,a skylark is an animal that fly.,Yes,Yes
-222,is a hawk capable of flying?,Yes,Yes
-223,a goose flys.,No,Yes
-224,a vulture is an animal that fly.,Yes,Yes
-225,does a dove fly?,No,Yes
-226,is a parrot capable of flying?,Yes,Yes
-227,a bushtit is a flying animal.,No,Yes
-228,a swan is an animal that is capable of flying.,Yes,Yes
-229,a lark is capable of flying.,No,Yes
-230,does a macaw fly?,Yes,Yes
-231,is a bat capable of flying?,No,Yes
-232,a sparrow flys.,No,Yes
-233,can a eider fly?,Yes,Yes
-234,is a avocet capable of flying?,No,Yes
-235,a hen flys.,Yes,Yes
-236,a eider is capable of flying.,Yes,Yes
-237,a cotinga is a flying animal.,No,Yes
-238,a owl is a flying animal.,Yes,Yes
-239,a pigeon is an animal that fly.,Yes,Yes
-240,does a vulture fly?,Yes,Yes
-241,a pigeon is an animal that is capable of flying.,Yes,Yes
-242,a owl is capable of flying.,Yes,Yes
-243,a macaw is an animal that fly.,Yes,Yes
-244,does a brambling fly?,No,Yes
-245,a macaw is capable of flying.,Yes,Yes
-246,does a owl fly?,Yes,Yes
-247,a songbird is an animal that fly.,Yes,Yes
-248,a pigeon is capable of flying.,Yes,Yes
-249,a peacock is capable of flying.,Yes,Yes
-250,a heron is an animal that is capable of flying.,Yes,Yes
-251,a bullfinch is a flying animal.,No,Yes
-252,a eider is an animal that fly.,No,Yes
-253,a pelican flys.,No,Yes
-254,a finch flys.,No,Yes
-255,does a grackle fly?,No,Yes
-256,can a goldcrest fly?,No,Yes
-257,a turkey flys.,No,Yes
-258,a finch is an animal that is capable of flying.,No,Yes
-259,is a eider capable of flying?,Yes,Yes
-260,a pelican is an animal that is capable of flying.,No,Yes
-261,a duck flys.,No,Yes
-262,a bird is an animal that is capable of flying.,Yes,Yes
-263,can a dove fly?,Yes,Yes
-264,a macaw is an animal that is capable of flying.,Yes,Yes
-265,is a finch capable of flying?,No,Yes
-266,a pelican is capable of flying.,No,Yes
-267,a songbird is capable of flying.,Yes,Yes
-268,can a bushtit fly?,No,Yes
-269,is a seabird capable of flying?,Yes,Yes
-270,a cowbird is a flying animal.,Yes,Yes
-271,is a eagle capable of flying?,Yes,Yes
-272,is a cowbird capable of flying?,Yes,Yes
-273,can a pigeon fly?,Yes,Yes
-274,is a pigeon capable of flying?,Yes,Yes
-275,a eagle is an animal that is capable of flying.,Yes,Yes
-276,is a vulture capable of flying?,No,Yes
-277,does a finch fly?,Yes,Yes
-278,a dove is an animal that is capable of flying.,No,Yes
-279,does a heron fly?,Yes,Yes
-280,a canary is a flying animal.,No,Yes
-281,can a lark fly?,Yes,Yes
-282,a bushtit is an animal that is capable of flying.,No,Yes
-283,is a bullfinch capable of flying?,No,Yes
-284,a jay is an animal that fly.,No,Yes
-285,a bat is a flying animal.,Yes,Yes
-286,a heron flys.,Yes,Yes
-287,does a pigeon fly?,Yes,Yes
-288,a owl is an animal that is capable of flying.,Yes,Yes
-289,a finch is an animal that fly.,No,Yes
-290,a pigeon is a flying animal.,Yes,Yes
-291,is a canary capable of flying?,No,Yes
-292,a gull is capable of flying.,Yes,Yes
-293,a bat is capable of flying.,Yes,Yes
-294,can a cowbird fly?,Yes,Yes
-295,can a duck fly?,Yes,Yes
-296,a bird is capable of flying.,Yes,Yes
-297,a heron is an animal that fly.,No,Yes
-298,a cotinga is an animal that fly.,No,Yes
-299,a heron is capable of flying.,Yes,Yes
-300,a lark is an animal that is capable of flying.,No,Yes
-301,a peacock is a flying animal.,No,Yes
-302,can a hawk fly?,Yes,Yes
-303,is a grackle capable of flying?,No,Yes
-304,a albatrosses is capable of flying.,Yes,Yes
-305,can a heron fly?,Yes,Yes
-306,can a pelican fly?,Yes,Yes
-307,a brambling is capable of flying.,No,Yes
-308,a jay flys.,No,Yes
-309,is a flamingo capable of flying?,Yes,Yes
-310,a gull is a flying animal.,Yes,Yes
-311,a grackle is capable of flying.,No,Yes
-312,a eagle is capable of flying.,Yes,Yes
-313,a skylark is an animal that is capable of flying.,Yes,Yes
-314,is a cockatoo capable of flying?,Yes,Yes
-315,can a eagle fly?,Yes,Yes
-316,a swan is capable of flying.,Yes,Yes
-317,a hawk is a flying animal.,Yes,Yes
-318,can a albatrosses fly?,No,Yes
-319,a wader flys.,No,Yes
-320,can a brambling fly?,No,Yes
-321,a hawk is capable of flying.,Yes,Yes
-322,a wader is capable of flying.,No,Yes
-323,a goldcrest is an animal that fly.,No,Yes
-324,can a seabird fly?,Yes,Yes
-325,does a eagle fly?,Yes,Yes
-326,a cowbird flys.,Yes,Yes
-327,can a bat fly?,Yes,Yes
-328,a flamingo is an animal that is capable of flying.,Yes,Yes
-329,a flamingo is capable of flying.,Yes,Yes
-330,a eider is an animal that is capable of flying.,No,Yes
-331,does a duck fly?,Yes,Yes
-332,a buzzard is an animal that fly.,No,Yes
-333,a jay is a flying animal.,No,Yes
-334,a pelican is an animal that fly.,No,Yes
-335,is a crow capable of flying?,Yes,Yes
-336,is a jay capable of flying?,No,Yes
-337,is a heron capable of flying?,Yes,Yes
-338,can a hen fly?,Yes,Yes
-339,is a bushtit capable of flying?,No,Yes
-340,does a bird fly?,Yes,Yes
-341,a goose is an animal that is capable of flying.,Yes,Yes
-342,a hen is an animal that fly.,No,Yes
-343,a flamingo is a flying animal.,Yes,Yes
-344,a avocet is a flying animal.,Yes,Yes
-345,does a songbird fly?,Yes,Yes
-346,does a skylark fly?,Yes,Yes
-347,can a sparrow fly?,Yes,Yes
-348,is a sparrow capable of flying?,No,Yes
-349,a jay is capable of flying.,No,Yes
-350,a cockatoo is an animal that is capable of flying.,No,Yes
-351,a lark is an animal that fly.,No,Yes
-352,a cowbird is capable of flying.,Yes,Yes
-353,a sparrow is an animal that fly.,No,Yes
-354,can a wader fly?,No,Yes
-355,a condor is a flying animal.,No,Yes
-356,a avocet is an animal that fly.,Yes,Yes
-357,a cotinga is an animal that is capable of flying.,No,Yes
-358,can a bird fly?,Yes,Yes
-359,does a seabird fly?,Yes,Yes
-360,a buzzard flys.,No,Yes
-361,does a wader fly?,No,Yes
-362,a bulbul is a flying animal.,No,Yes
-363,is a goldcrest capable of flying?,No,Yes
-364,a gull is an animal that is capable of flying.,Yes,Yes
-365,a goldcrest is capable of flying.,No,Yes
-366,a parrot is an animal that fly.,Yes,Yes
-367,a bird is an animal that fly.,Yes,Yes
-368,a buzzard is capable of flying.,Yes,Yes
-369,is a swan capable of flying?,Yes,Yes
-370,a peacock is an animal that fly.,No,Yes
-371,a bulbul is an animal that is capable of flying.,No,Yes
-372,does a parrot fly?,Yes,Yes
-373,a dove is a flying animal.,No,Yes
-374,a eider flys.,No,Yes
-375,a turkey is a flying animal.,Yes,Yes
-376,can a avocet fly?,Yes,Yes
-377,a flamingo is an animal that fly.,No,Yes
-378,does a hen fly?,Yes,Yes
-379,a skylark flys.,Yes,Yes
-380,a avocet flys.,No,Yes
-381,a bushtit flys.,No,Yes
-382,a swan is an animal that fly.,Yes,Yes
-383,a goose is capable of flying.,Yes,Yes
-384,a pelican is a flying animal.,No,Yes
-385,a turkey is capable of flying.,Yes,Yes
-386,does a pelican fly?,No,Yes
-387,does a bullfinch fly?,No,Yes
-388,a heron is capable of flying.,Yes,Yes
-389,does a hummingbird fly?,Yes,Yes
-390,a lark is a flying animal.,No,Yes
-391,a stork flys.,No,Yes
+123,a goldcrest flys.,No,Yes
+124,is a goldcrest capable of flying.,No,Yes
+125,is a chicken capable of flying.,Yes,Yes
+126,a seabird is an animal that is capable of flying.,Yes,Yes
+127,does a hummingbird fly.,No,Yes
+128,a cotinga is capable of flying.,No,Yes
+129,does a avocet fly.,No,Yes
+130,is a flamingo capable of flying.,Yes,Yes
+131,a bird is an animal that is capable of flying.,Yes,Yes
+132,a bullfinch is capable of flying.,Yes,Yes
+133,is a cowbird capable of flying.,Yes,Yes
+134,a duck flys.,No,Yes
+135,a falcon is a flying animal.,Yes,Yes
+136,a finch is capable of flying.,Yes,Yes
+137,a falcon is an animal that is capable of flying.,Yes,Yes
+138,is a bushtit capable of flying.,Yes,Yes
+139,is a eider capable of flying.,Yes,Yes
+140,a sparrow is capable of flying.,Yes,Yes
+141,is a hawk capable of flying.,Yes,Yes
+142,does a skylark fly.,Yes,Yes
+143,a eagle is a flying animal.,Yes,Yes
+144,a skylark is capable of flying.,Yes,Yes
+145,does a brambling fly.,No,Yes
+146,does a wader fly.,No,Yes
+147,a finch flys.,Yes,Yes
+148,a parrot is an animal that is capable of flying.,Yes,Yes
+149,a skylark flys.,Yes,Yes
+150,does a pigeon fly.,No,Yes
+151,is a bat capable of flying.,Yes,Yes
+152,a dove is capable of flying.,Yes,Yes
+153,a bat is an animal that is capable of flying.,Yes,Yes
+154,a skylark is an animal that fly.,Yes,Yes
+155,a avocet flys.,Yes,Yes
+156,a vulture is a flying animal.,Yes,Yes
+157,a crow is capable of flying.,Yes,Yes
+158,can a turkey fly.,No,Yes
+159,a condor is an animal that is capable of flying.,Yes,Yes
+160,a heron is an animal that fly.,Yes,Yes
+161,a bat is capable of flying.,Yes,Yes
+162,is a brambling capable of flying.,No,Yes
+163,a sparrow is an animal that fly.,Yes,Yes
+164,does a bulbul fly.,No,Yes
+165,is a hornbill capable of flying.,Yes,Yes
+166,a macaw flys.,No,Yes
+167,can a eider fly.,No,Yes
+168,can a avocet fly.,No,Yes
+169,does a jay fly.,No,Yes
+170,a grackle is an animal that fly.,No,Yes
+171,a grackle flys.,No,Yes
+172,is a avocet capable of flying.,Yes,Yes
+173,a parrot is a flying animal.,Yes,Yes
+174,a bulbul flys.,No,Yes
+175,a albatrosses is capable of flying.,Yes,Yes
+176,a turkey is a flying animal.,Yes,Yes
+177,can a grackle fly.,No,Yes
+178,a brambling is capable of flying.,No,Yes
+179,can a swan fly.,No,Yes
+180,a hornbill flys.,Yes,Yes
+181,a grackle is capable of flying.,Yes,Yes
+182,a eider is an animal that is capable of flying.,Yes,Yes
+183,a hen is an animal that fly.,No,Yes
+184,a buzzard is capable of flying.,Yes,Yes
+185,a songbird flys.,Yes,Yes
+186,a bullfinch flys.,No,Yes
+187,a buzzard is an animal that is capable of flying.,Yes,Yes
+188,does a peacock fly.,No,Yes
+189,a jay is an animal that fly.,Yes,Yes
+190,a skylark is an animal that is capable of flying.,Yes,Yes
+191,a canary is capable of flying.,Yes,Yes
+192,a flamingo flys.,Yes,Yes
+193,a hummingbird is capable of flying.,Yes,Yes
+194,is a wader capable of flying.,Yes,Yes
+195,a swan is an animal that fly.,Yes,Yes
+196,a hummingbird is an animal that is capable of flying.,Yes,Yes
+197,is a eagle capable of flying.,Yes,Yes
+198,can a cowbird fly.,No,Yes
+199,can a lark fly.,Yes,Yes
+200,a songbird is a flying animal.,Yes,Yes
+201,does a heron fly.,No,Yes
+202,is a parrot capable of flying.,Yes,Yes
+203,a condor flys.,No,Yes
+204,is a macaw capable of flying.,Yes,Yes
+205,a chicken is a flying animal.,Yes,Yes
+206,a pelican is capable of flying.,Yes,Yes
+207,a seabird is capable of flying.,Yes,Yes
+208,a eider is capable of flying.,Yes,Yes
+209,is a hen capable of flying.,No,Yes
+210,a eider flys.,No,Yes
+211,a vulture is capable of flying.,Yes,Yes
+212,a swan is capable of flying.,Yes,Yes
+213,a falcon is capable of flying.,Yes,Yes
+214,a goldcrest is capable of flying.,No,Yes
+215,a chicken is capable of flying.,Yes,Yes
+216,a turkey is an animal that is capable of flying.,Yes,Yes
+217,a bushtit flys.,Yes,Yes
+218,is a crow capable of flying.,Yes,Yes
+219,a peacock is a flying animal.,Yes,Yes
+220,a turkey is capable of flying.,Yes,Yes
+221,a avocet is a flying animal.,Yes,Yes
+222,a canary is a flying animal.,No,Yes
+223,does a crow fly.,No,Yes
+224,is a finch capable of flying.,Yes,Yes
+225,a goose is an animal that is capable of flying.,Yes,Yes
+226,a songbird is capable of flying.,Yes,Yes
+227,does a goose fly.,No,Yes
+228,a vulture is an animal that fly.,Yes,Yes
+229,a finch is a flying animal.,Yes,Yes
+230,is a lark capable of flying.,Yes,Yes
+231,is a heron capable of flying.,Yes,Yes
+232,a albatrosses flys.,Yes,Yes
+233,is a stork capable of flying.,Yes,Yes
+234,does a bird fly.,No,Yes
+235,can a bird fly.,Yes,Yes
+236,a goose flys.,No,Yes
+237,does a chicken fly.,No,Yes
+238,can a flamingo fly.,Yes,Yes
+239,a pigeon is an animal that is capable of flying.,Yes,Yes
+240,can a goldcrest fly.,No,Yes
+241,does a sparrow fly.,No,Yes
+242,a bat is a flying animal.,Yes,Yes
+243,a songbird is an animal that fly.,Yes,Yes
+244,does a cockatoo fly.,No,Yes
+245,a swan flys.,No,Yes
+246,a parrot is an animal that fly.,Yes,Yes
+247,does a macaw fly.,No,Yes
+248,a pelican flys.,No,Yes
+249,a chicken is an animal that fly.,Yes,Yes
+250,can a stork fly.,No,Yes
+251,does a buzzard fly.,No,Yes
+252,a avocet is an animal that is capable of flying.,Yes,Yes
+253,a flamingo is a flying animal.,Yes,Yes
+254,is a falcon capable of flying.,Yes,Yes
+255,a owl is a flying animal.,Yes,Yes
+256,a wader is capable of flying.,No,Yes
+257,a hummingbird is an animal that fly.,Yes,Yes
+258,can a macaw fly.,No,Yes
+259,a cotinga is a flying animal.,Yes,Yes
+260,a heron is a flying animal.,Yes,Yes
+261,a hen is a flying animal.,No,Yes
+262,is a owl capable of flying.,Yes,Yes
+263,can a canary fly.,No,Yes
+264,a gull is an animal that fly.,Yes,Yes
+265,is a skylark capable of flying.,Yes,Yes
+266,can a duck fly.,No,Yes
+267,a cockatoo is capable of flying.,Yes,Yes
+268,a jay flys.,No,Yes
+269,can a pigeon fly.,No,Yes
+270,a owl is an animal that fly.,Yes,Yes
+271,a hawk is an animal that is capable of flying.,Yes,Yes
+272,a pelican is a flying animal.,No,Yes
+273,a bat is an animal that fly.,Yes,Yes
+274,a eagle flys.,No,Yes
+275,a cowbird flys.,Yes,Yes
+276,a bulbul is an animal that is capable of flying.,Yes,Yes
+277,a swan is an animal that is capable of flying.,Yes,Yes
+278,a parrot is capable of flying.,Yes,Yes
+279,can a hummingbird fly.,No,Yes
+280,a lark flys.,Yes,Yes
+281,does a bushtit fly.,No,Yes
+282,does a vulture fly.,No,Yes
+283,a jay is an animal that is capable of flying.,Yes,Yes
+284,a albatrosses is a flying animal.,Yes,Yes
+285,a dove is a flying animal.,Yes,Yes
+286,a gull flys.,Yes,Yes
+287,a peacock is an animal that is capable of flying.,Yes,Yes
+288,is a cockatoo capable of flying.,Yes,Yes
+289,a pigeon flys.,No,Yes
+290,a crow is an animal that is capable of flying.,Yes,Yes
+291,can a peacock fly.,No,Yes
+292,a bushtit is an animal that is capable of flying.,Yes,Yes
+293,does a lark fly.,No,Yes
+294,a bullfinch is an animal that fly.,Yes,Yes
+295,a duck is capable of flying.,Yes,Yes
+296,a grackle is an animal that is capable of flying.,No,Yes
+297,a stork is an animal that fly.,No,Yes
+298,a cockatoo is a flying animal.,Yes,Yes
+299,can a bulbul fly.,No,Yes
+300,a wader is an animal that is capable of flying.,No,Yes
+301,a pigeon is a flying animal.,Yes,Yes
+302,a seabird is an animal that fly.,Yes,Yes
+303,a goldcrest is a flying animal.,No,Yes
+304,is a bulbul capable of flying.,No,Yes
+305,a macaw is a flying animal.,Yes,Yes
+306,can a hen fly.,No,Yes
+307,can a bat fly.,Yes,Yes
+308,can a condor fly.,No,Yes
+309,a finch is an animal that fly.,Yes,Yes
+310,a pelican is an animal that fly.,Yes,Yes
+311,a duck is an animal that fly.,Yes,Yes
+312,does a cotinga fly.,No,Yes
+313,a hornbill is a flying animal.,Yes,Yes
+314,is a bird capable of flying.,Yes,Yes
+315,a condor is a flying animal.,No,Yes
+316,a vulture is an animal that is capable of flying.,Yes,Yes
+317,is a gull capable of flying.,Yes,Yes
+318,a flamingo is an animal that is capable of flying.,Yes,Yes
+319,a brambling flys.,No,Yes
+320,a lark is an animal that fly.,Yes,Yes
+321,can a cotinga fly.,No,Yes
+322,a hawk is an animal that fly.,Yes,Yes
+323,does a dove fly.,No,Yes
+324,does a finch fly.,No,Yes
+325,does a songbird fly.,Yes,Yes
+326,a parrot flys.,Yes,Yes
+327,does a bat fly.,Yes,Yes
+328,does a stork fly.,No,Yes
+329,can a crow fly.,No,Yes
+330,a cowbird is an animal that fly.,Yes,Yes
+331,does a hornbill fly.,Yes,Yes
+332,a chicken flys.,No,Yes
+333,does a gull fly.,Yes,Yes
+334,a flamingo is an animal that fly.,Yes,Yes
+335,can a chicken fly.,No,Yes
+336,a sparrow flys.,No,Yes
+337,a crow is an animal that fly.,Yes,Yes
+338,a eagle is an animal that fly.,Yes,Yes
+339,is a cotinga capable of flying.,No,Yes
+340,a owl is capable of flying.,Yes,Yes
+341,does a flamingo fly.,Yes,Yes
+342,does a owl fly.,No,Yes
+343,a hawk is capable of flying.,Yes,Yes
+344,is a peacock capable of flying.,Yes,Yes
+345,does a hen fly.,No,Yes
+346,a heron flys.,Yes,Yes
+347,a bullfinch is a flying animal.,No,Yes
+348,can a seabird fly.,Yes,Yes
+349,does a swan fly.,No,Yes
+350,a hornbill is an animal that fly.,Yes,Yes
+351,a bulbul is an animal that fly.,Yes,Yes
+352,can a brambling fly.,No,Yes
+353,a hawk is a flying animal.,Yes,Yes
+354,a bushtit is a flying animal.,Yes,Yes
+355,can a cockatoo fly.,No,Yes
+356,a eagle is an animal that is capable of flying.,Yes,Yes
+357,a buzzard is an animal that fly.,Yes,Yes
+358,a bird flys.,Yes,Yes
+359,is a turkey capable of flying.,Yes,Yes
+360,a condor is an animal that fly.,No,Yes
+361,a wader flys.,No,Yes
+362,can a jay fly.,No,Yes
+363,a bushtit is an animal that fly.,Yes,Yes
+364,a bushtit is capable of flying.,Yes,Yes
+365,can a vulture fly.,No,Yes
+366,a sparrow is a flying animal.,No,Yes
+367,can a bushtit fly.,Yes,Yes
+368,does a eagle fly.,No,Yes
+369,can a goose fly.,No,Yes
+370,a wader is an animal that fly.,No,Yes
+371,can a albatrosses fly.,Yes,Yes
+372,a avocet is an animal that fly.,Yes,Yes
+373,can a sparrow fly.,No,Yes
+374,can a heron fly.,No,Yes
+375,a finch is an animal that is capable of flying.,Yes,Yes
+376,a bulbul is a flying animal.,No,Yes
+377,a skylark is a flying animal.,Yes,Yes
+378,a macaw is an animal that fly.,Yes,Yes
+379,a vulture flys.,Yes,Yes
+380,is a albatrosses capable of flying.,Yes,Yes
+381,can a pelican fly.,No,Yes
+382,a hummingbird is a flying animal.,Yes,Yes
+383,a turkey flys.,No,Yes
+384,is a canary capable of flying.,No,Yes
+385,a turkey is an animal that fly.,Yes,Yes
+386,is a pelican capable of flying.,Yes,Yes
+387,a cowbird is a flying animal.,Yes,Yes
+388,a cockatoo is an animal that fly.,Yes,Yes
+389,a bird is capable of flying.,Yes,Yes
+390,a pelican is an animal that is capable of flying.,Yes,Yes
+391,a jay is a flying animal.,Yes,Yes
