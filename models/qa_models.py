@@ -55,7 +55,7 @@ class YesNoDataSet(Dataset):
 
 
 class YesNoQuestionAnswering(pl.LightningModule):
-    def __init__(self, model, tokenizer, config, device):
+    def __init__(self, model, tokenizer, config, device=None):
         super().__init__()
         self.model = model
         self.tokenizer = tokenizer
@@ -67,11 +67,15 @@ class YesNoQuestionAnswering(pl.LightningModule):
         return output
 
     def _step(self, batch):
-        input_ids = batch["input_ids"].to(self.to_device)
-        attention_mask = batch["attention_mask"].to(self.to_device)
-        labels = batch["labels"].to(self.to_device)
+        input_ids = batch["input_ids"]
+        attention_mask = batch["attention_mask"]
+        labels = batch["labels"]
+        if self.to_device is not None:
+            input_ids = batch["input_ids"].to(self.to_device)
+            attention_mask = batch["attention_mask"].to(self.to_device)
+            labels = batch["labels"].to(self.to_device)
         labels[labels[:, :] == self.tokenizer.pad_token_id] = -100
-        output = self(input_ids, attention_mask, labels)
+        output = self(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
         loss = output.loss
         return loss
 
@@ -170,7 +174,7 @@ def train_model(config):
     logging.info(config)
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
-    model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
+    model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config, device=None)
     if config.get("checkpoint", None):
         logging.info("Use checkpoint")
         checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
