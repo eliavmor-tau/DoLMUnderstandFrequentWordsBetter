@@ -1,4 +1,4 @@
-﻿entity,Does a <entity> have feathers.,A <entity> has feathers.,Does feathers related to <entity>.,Feathers cover <entity> skin.,Does feathers cover <entity> skin.
+﻿entity,Does a <entity> have feathers.,A <entity> has feathers.,Do feathers related to <entity>.,Feathers cover <entity> skin.,Do feathers cover <entity> skin.
 dog,0,0,0,0,0
 cat,0,0,0,0,0
 fox,0,0,0,0,0
