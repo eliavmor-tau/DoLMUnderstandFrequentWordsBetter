@@ -55,20 +55,21 @@ class YesNoDataSet(Dataset):
 
 
 class YesNoQuestionAnswering(pl.LightningModule):
-    def __init__(self, model, tokenizer, config):
+    def __init__(self, model, tokenizer, config, device):
         super().__init__()
         self.model = model
         self.tokenizer = tokenizer
         self.config = config
+        self.device = device
 
     def forward(self, input_ids=None, attention_mask=None, labels=None):
         output = self.model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
         return output
 
     def _step(self, batch):
-        input_ids = batch["input_ids"]
-        attention_mask = batch["attention_mask"]
-        labels = batch["labels"]
+        input_ids = batch["input_ids"].to(self.device)
+        attention_mask = batch["attention_mask"].to(self.device)
+        labels = batch["labels"].to(self.device)
         labels[labels[:, :] == self.tokenizer.pad_token_id] = -100
         output = self(input_ids, attention_mask, labels)
         loss = output.loss
@@ -117,7 +118,6 @@ class YesNoQuestionAnswering(pl.LightningModule):
 
 
 def my_train_model(config):
-
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
@@ -232,7 +232,7 @@ if __name__ == "__main__":
 
     torch.cuda.empty_cache()
     config = {
-        "train": False,
+        "train": True,
         "model_name": "t5-base",
         "gpus": 1,
         "max_epochs": 30,
@@ -242,8 +242,8 @@ if __name__ == "__main__":
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
-        #"checkpoint": None,
-        "checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
+        "checkpoint": None,
+        #"checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
         "max_length": 64,
