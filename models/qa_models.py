@@ -116,6 +116,30 @@ class YesNoQuestionAnswering(pl.LightningModule):
         return dataloader
 
 
+def my_train_model(config):
+
+    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+    model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
+    if config.get("checkpoint", None):
+        logging.info("Use checkpoint")
+        checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
+        model.load_state_dict(checkpoint["state_dict"])
+    model.to(config["device"])
+
+    optim = Adam(model.parameters(), lr=config["lr"])
+    train_dataloader = model.train_dataloader()
+    val_dataloader = model.val_dataloader()
+    for epoch in config["max_epochs"]:
+        print("epoch start")
+        avg_loss = 0
+        for idx, batch in enumerate(train_dataloader):
+            print(batch)
+            exit(0)
+            optim.zero_grad()
+
+
+
 def train_model(config):
     checkpoint_callback = pl.callbacks.ModelCheckpoint(dirpath="checkpoint", prefix="checkpoint", monitor="val_loss",
                                                        mode="min", save_top_k=5)
@@ -123,7 +147,6 @@ def train_model(config):
         gpus=config.get("gpus"),
         max_epochs=config.get("max_epochs", 1),
         checkpoint_callback=checkpoint_callback,
-        device=config["device"]
     )
     logging.info(config)
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
@@ -219,7 +242,8 @@ if __name__ == "__main__":
         print(f"{k}: {v}")
     
     if config.get("train", True):
-        train_model(config)
+        # train_model(config)
+        my_train_model(config)
     else:
         test_files = ["csv/sanity", "csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
                "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
