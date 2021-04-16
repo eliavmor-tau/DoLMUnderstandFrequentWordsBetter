@@ -125,19 +125,39 @@ def my_train_model(config):
         logging.info("Use checkpoint")
         checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
         model.load_state_dict(checkpoint["state_dict"])
-    model.to(config["device"])
 
+    device = config["device"]
+    model = model.to(device)
     optim = Adam(model.parameters(), lr=config["lr"])
     train_dataloader = model.train_dataloader()
     val_dataloader = model.val_dataloader()
-    for epoch in config["max_epochs"]:
+    for i, epoch in config["max_epochs"]:
         print("epoch start")
-        avg_loss = 0
+        running_loss = 0
+        ctr = 0
+        # Train
         for idx, batch in enumerate(train_dataloader):
             print(batch)
-            exit(0)
             optim.zero_grad()
+            loss = model.training_step(batch)
+            loss.backward()
+            optim.step()
+            running_loss += loss.item()
+            ctr += 1
+            if idx % 10000 == (10000 -1):
+                print(f"Training Loss={running_loss / float(ctr)} Iteration={idx}/{len(train_dataloader)} Epoch={i}/{config['max_epochs']}")
 
+        # validation
+        model.eval()
+        eval_loss = 0
+        for idx, batch in enumerate(val_dataloader):
+            loss = model.training_step(batch)
+            eval_loss += loss.item()
+        print(f"Eval Loss={eval_loss / len(val_dataloader)} Epoch={i}/{config['max_epochs']}")
+        cp_path="checkpoint/checkpoint-epoch={}-steps={ctr}.ckpt"
+        print(f"Model checkpoint save to: {cp_path} Eval Loss={eval_loss / len(val_dataloader)} Epoch={i}/{config['max_epochs']}")
+        torch.save(model.state_dict(), cp_path)
+        model.train()
 
 
 def train_model(config):
@@ -170,13 +190,6 @@ def test_model(config, model, tokenizer, output_path):
     print("Test Model")
     print(config.get("test_data"))
     device = config["device"]
-    #tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
-    #model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
-    #model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
-
-    #if config.get("checkpoint", None):
-    #    checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
-    #    model.load_state_dict(checkpoint["state_dict"])
     print("Load checkpoint")
     model = model.to(device)
     model.eval()
