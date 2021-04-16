@@ -166,17 +166,19 @@ def train_model(config):
         pickle.dump(model.model_validation_loss, f)
 
 
-def test_model(config, output_path):
+def test_model(config, model, tokenizer, output_path):
     print("Test Model")
     print(config.get("test_data"))
-    tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
-    model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
-    model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
+    device = config["device"]
+    #tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+    #model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+    #model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
 
-    if config.get("checkpoint", None):
-        checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
-        model.load_state_dict(checkpoint["state_dict"])
+    #if config.get("checkpoint", None):
+    #    checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
+    #    model.load_state_dict(checkpoint["state_dict"])
     print("Load checkpoint")
+    model = model.to(device)
     model.eval()
     data_set = YesNoDataSet(csv_path=config.get("test_data", "csv/test_questions.csv"), tokenizer=tokenizer, max_length=config["max_length"])
     data_loader = DataLoader(data_set, batch_size=config.get("batch_size"), shuffle=True)
@@ -186,10 +188,11 @@ def test_model(config, output_path):
     questions = []
     model_answers = []
     true_answers = []
+
     for batch in data_loader:
-        input_ids = batch["input_ids"]
-        attention_mask = batch["attention_mask"]
-        labels = batch["labels"]
+        input_ids = batch["input_ids"].to(device)
+        attention_mask = batch["attention_mask"].to(device)
+        labels = batch["labels"].to(device)
         output = model.model.generate(input_ids=input_ids,
                                               attention_mask=attention_mask,
                                               max_length=2)
@@ -216,18 +219,18 @@ if __name__ == "__main__":
 
     torch.cuda.empty_cache()
     config = {
-        "train": True,
+        "train": False,
         "model_name": "t5-base",
         "gpus": 1,
         "max_epochs": 30,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
-        "batch_size": 16,
+        "batch_size": 8,
         "train_data": "csv/train_no_animals_and_fruits_questions.csv",
         "test_data": "csv/animals_dont_live_underwater_questions.csv",
         "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
         "lr": 1e-4,
-        "checkpoint": None,
-        #"checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
+        #"checkpoint": None,
+        "checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
         "max_length": 64,
@@ -253,7 +256,15 @@ if __name__ == "__main__":
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
     #    test_files = ["csv/animals_can_fly", "csv/animals_cant_fly"]
+        
+        tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+        model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
+        model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
+        if config.get("checkpoint", None):
+            checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
+            model.load_state_dict(checkpoint["state_dict"])
+
         for f in test_files:
             config["test_data"] = f"{f}_questions.csv"
            # config["test_data"] = f"{f}"
-            test_model(config, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))
+            test_model(config, model, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))

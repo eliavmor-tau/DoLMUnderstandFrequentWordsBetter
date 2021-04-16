@@ -1,59 +1,295 @@
 ,question,model_answer,true_answer
-0,does a gull have feathers?,Yes,Yes
-1,a albatrosses has feathers.,No,Yes
-2,a gull has feathers.,No,Yes
-3,a macaw has feathers.,No,Yes
-4,does a stork have feathers?,Yes,Yes
-5,a goose has feathers.,Yes,Yes
-6,does a hummingbird have feathers?,Yes,Yes
-7,a vulture has feathers.,No,Yes
-8,does a falcon have feathers?,Yes,Yes
-9,a falcon has feathers.,No,Yes
-10,a swan has feathers.,Yes,Yes
-11,a songbird has feathers.,Yes,Yes
-12,does a owl have feathers?,Yes,Yes
-13,a duck has feathers.,Yes,Yes
-14,does a jay have feathers?,No,Yes
-15,a stork has feathers.,No,Yes
-16,does a heron have feathers?,No,Yes
-17,does a dove have feathers?,No,Yes
-18,a heron has feathers.,No,Yes
-19,a peacock has feathers.,Yes,Yes
-20,a seabird has feathers.,Yes,Yes
-21,a hummingbird has feathers.,Yes,Yes
-22,does a seabird have feathers?,Yes,Yes
-23,a flamingo has feathers.,No,Yes
-24,does a pigeon have feathers?,Yes,Yes
-25,does a peacock have feathers?,Yes,Yes
-26,a chicken has feathers.,Yes,Yes
-27,does a parrot have feathers?,Yes,Yes
-28,does a eagle have feathers?,Yes,Yes
-29,does a flamingo have feathers?,No,Yes
-30,a hen has feathers.,Yes,Yes
-31,does a vulture have feathers?,No,Yes
-32,does a macaw have feathers?,Yes,Yes
-33,does a crow have feathers?,Yes,Yes
-34,does a ostrich have feathers?,Yes,Yes
-35,a dove has feathers.,No,Yes
-36,a turkey has feathers.,Yes,Yes
-37,a wader has feathers.,No,Yes
-38,does a swan have feathers?,Yes,Yes
-39,a crow has feathers.,Yes,Yes
-40,does a albatrosses have feathers?,No,Yes
-41,does a turkey have feathers?,Yes,Yes
-42,a parrot has feathers.,Yes,Yes
-43,does a hen have feathers?,Yes,Yes
-44,a jay has feathers.,No,Yes
-45,a sparrow has feathers.,Yes,Yes
-46,does a wader have feathers?,No,Yes
-47,does a songbird have feathers?,Yes,Yes
-48,a bird has feathers.,Yes,Yes
-49,a ostrich has feathers.,Yes,Yes
-50,a pigeon has feathers.,Yes,Yes
-51,does a duck have feathers?,Yes,Yes
-52,does a chicken have feathers?,Yes,Yes
-53,a owl has feathers.,Yes,Yes
-54,a eagle has feathers.,Yes,Yes
-55,does a goose have feathers?,Yes,Yes
-56,does a sparrow have feathers?,Yes,Yes
-57,does a bird have feathers?,Yes,Yes
+0,feathers are related to hen.,No,Yes
+1,does feathers related to bird?,Yes,Yes
+2,does feathers related to vulture?,No,Yes
+3,does feathers cover bulbul skin?,No,Yes
+4,a condor has feathers.,No,Yes
+5,does a pelican have feathers?,No,Yes
+6,does a owl have feathers?,Yes,Yes
+7,does feathers cover macaw skin?,No,Yes
+8,does feathers related to hummingbird?,Yes,Yes
+9,feathers are related to bushtit.,No,Yes
+10,feathers are related to pelican.,No,Yes
+11,a cotinga has feathers.,No,Yes
+12,a pelican has feathers.,No,Yes
+13,feathers are related to sparrow.,No,Yes
+14,does a flamingo have feathers?,No,Yes
+15,does feathers cover turkey skin?,No,Yes
+16,does feathers related to dove?,No,Yes
+17,a jay has feathers.,No,Yes
+18,does feathers related to crow?,Yes,Yes
+19,feathers are related to pigeon.,Yes,Yes
+20,does a chicken have feathers?,Yes,Yes
+21,feathers are related to hawk.,No,Yes
+22,a eider has feathers.,No,Yes
+23,feathers are related to eider.,No,Yes
+24,a dove has feathers.,No,Yes
+25,feathers are related to skylark.,No,Yes
+26,does feathers cover hawk skin?,No,Yes
+27,a bulbul has feathers.,No,Yes
+28,does feathers related to chicken?,Yes,Yes
+29,feathers cover goldcrest skin.,No,Yes
+30,does feathers cover sparrow skin?,No,Yes
+31,does a cockatoo have feathers?,Yes,Yes
+32,a falcon has feathers.,No,Yes
+33,does feathers related to macaw?,No,Yes
+34,feathers are related to seabird.,No,Yes
+35,a bushtit has feathers.,No,Yes
+36,does feathers cover albatrosses skin?,No,Yes
+37,a bullfinch has feathers.,No,Yes
+38,does feathers cover grackle skin?,No,Yes
+39,a peacock has feathers.,Yes,Yes
+40,a duck has feathers.,Yes,Yes
+41,does feathers related to goldcrest?,No,Yes
+42,does feathers related to canary?,No,Yes
+43,feathers are related to macaw.,No,Yes
+44,a wader has feathers.,No,Yes
+45,does a hummingbird have feathers?,Yes,Yes
+46,does a skylark have feathers?,No,Yes
+47,a crow has feathers.,Yes,Yes
+48,feathers cover eider skin.,No,Yes
+49,does a lark have feathers?,No,Yes
+50,does feathers related to owl?,No,Yes
+51,feathers are related to canary.,No,Yes
+52,a flamingo has feathers.,No,Yes
+53,does feathers cover lark skin?,No,Yes
+54,does feathers related to lark?,No,Yes
+55,does feathers related to albatrosses?,No,Yes
+56,does feathers related to jay?,No,Yes
+57,feathers cover parrot skin.,No,Yes
+58,a macaw has feathers.,No,Yes
+59,does a peacock have feathers?,Yes,Yes
+60,feathers are related to grackle.,No,Yes
+61,a avocet has feathers.,No,Yes
+62,does feathers cover bird skin?,Yes,Yes
+63,feathers cover cotinga skin.,No,Yes
+64,does feathers related to peacock?,Yes,Yes
+65,does feathers cover stork skin?,No,Yes
+66,does a hawk have feathers?,Yes,Yes
+67,feathers cover skylark skin.,No,Yes
+68,feathers cover pelican skin.,No,Yes
+69,does feathers cover goldcrest skin?,No,Yes
+70,does feathers cover peacock skin?,No,Yes
+71,does feathers related to eider?,No,Yes
+72,does feathers cover pigeon skin?,No,Yes
+73,feathers cover gull skin.,No,Yes
+74,does feathers cover flamingo skin?,No,Yes
+75,feathers are related to cowbird.,No,Yes
+76,does a goldcrest have feathers?,Yes,Yes
+77,does a bushtit have feathers?,No,Yes
+78,feathers cover peacock skin.,Yes,Yes
+79,does a crow have feathers?,Yes,Yes
+80,does feathers cover jay skin?,No,Yes
+81,feathers are related to bird.,Yes,Yes
+82,does a pigeon have feathers?,Yes,Yes
+83,does feathers related to sparrow?,No,Yes
+84,feathers are related to avocet.,No,Yes
+85,does feathers cover wader skin?,No,Yes
+86,feathers are related to lark.,No,Yes
+87,does feathers related to swan?,No,Yes
+88,feathers cover vulture skin.,No,Yes
+89,a hawk has feathers.,No,Yes
+90,does a wader have feathers?,No,Yes
+91,a albatrosses has feathers.,No,Yes
+92,does feathers cover condor skin?,No,Yes
+93,a hummingbird has feathers.,Yes,Yes
+94,does feathers cover hen skin?,No,Yes
+95,does a bulbul have feathers?,No,Yes
+96,does a stork have feathers?,Yes,Yes
+97,does feathers related to flamingo?,No,Yes
+98,a swan has feathers.,Yes,Yes
+99,a grackle has feathers.,No,Yes
+100,a heron has feathers.,No,Yes
+101,does feathers related to cowbird?,Yes,Yes
+102,feathers are related to hummingbird.,Yes,Yes
+103,does a avocet have feathers?,Yes,Yes
+104,does feathers cover buzzard skin?,No,Yes
+105,does feathers cover falcon skin?,No,Yes
+106,does feathers cover swan skin?,No,Yes
+107,does feathers cover pelican skin?,No,Yes
+108,a bat has feathers.,No,Yes
+109,does a vulture have feathers?,No,Yes
+110,feathers are related to buzzard.,No,Yes
+111,does a grackle have feathers?,No,Yes
+112,does feathers related to songbird?,Yes,Yes
+113,a sparrow has feathers.,Yes,Yes
+114,a owl has feathers.,Yes,Yes
+115,feathers are related to gull.,No,Yes
+116,feathers are related to stork.,No,Yes
+117,feathers cover chicken skin.,No,Yes
+118,does feathers cover bat skin?,No,Yes
+119,does feathers related to brambling?,No,Yes
+120,does a swan have feathers?,Yes,Yes
+121,a goldcrest has feathers.,Yes,Yes
+122,a brambling has feathers.,No,Yes
+123,feathers cover bat skin.,No,Yes
+124,feathers cover bushtit skin.,No,Yes
+125,feathers cover macaw skin.,No,Yes
+126,does a condor have feathers?,No,Yes
+127,does feathers related to bushtit?,No,Yes
+128,does feathers related to finch?,No,Yes
+129,does feathers related to eagle?,Yes,Yes
+130,a cowbird has feathers.,Yes,Yes
+131,does feathers cover skylark skin?,No,Yes
+132,does feathers related to cotinga?,No,Yes
+133,feathers cover buzzard skin.,No,Yes
+134,does feathers related to parrot?,No,Yes
+135,a songbird has feathers.,Yes,Yes
+136,feathers are related to condor.,No,Yes
+137,feathers cover lark skin.,No,Yes
+138,feathers are related to albatrosses.,No,Yes
+139,feathers are related to cockatoo.,No,Yes
+140,does feathers cover bullfinch skin?,No,Yes
+141,does a cotinga have feathers?,No,Yes
+142,feathers are related to duck.,Yes,Yes
+143,feathers are related to chicken.,No,Yes
+144,does feathers related to pigeon?,Yes,Yes
+145,feathers cover grackle skin.,No,Yes
+146,feathers are related to turkey.,No,Yes
+147,feathers cover wader skin.,No,Yes
+148,does a heron have feathers?,No,Yes
+149,feathers are related to falcon.,No,Yes
+150,does feathers related to hen?,Yes,Yes
+151,does feathers related to seabird?,Yes,Yes
+152,does a brambling have feathers?,No,Yes
+153,feathers cover heron skin.,No,Yes
+154,feathers cover albatrosses skin.,No,Yes
+155,does a goose have feathers?,Yes,Yes
+156,a eagle has feathers.,Yes,Yes
+157,feathers are related to dove.,Yes,Yes
+158,does a eagle have feathers?,Yes,Yes
+159,a parrot has feathers.,Yes,Yes
+160,does feathers cover finch skin?,No,Yes
+161,does feathers related to heron?,No,Yes
+162,feathers cover brambling skin.,No,Yes
+163,feathers cover swan skin.,No,Yes
+164,does feathers related to buzzard?,No,Yes
+165,feathers cover hen skin.,Yes,Yes
+166,does a hen have feathers?,Yes,Yes
+167,does feathers related to heron?,No,Yes
+168,does feathers cover chicken skin?,No,Yes
+169,feathers cover dove skin.,No,Yes
+170,does a falcon have feathers?,Yes,Yes
+171,feathers are related to finch.,No,Yes
+172,feathers are related to cotinga.,No,Yes
+173,feathers are related to brambling.,No,Yes
+174,a lark has feathers.,No,Yes
+175,does a bat have feathers?,No,Yes
+176,does feathers cover parrot skin?,No,Yes
+177,a goose has feathers.,Yes,Yes
+178,feathers cover jay skin.,No,Yes
+179,feathers are related to vulture.,No,Yes
+180,feathers cover avocet skin.,No,Yes
+181,does feathers cover songbird skin?,No,Yes
+182,feathers cover songbird skin.,No,Yes
+183,does feathers cover eider skin?,No,Yes
+184,a pigeon has feathers.,Yes,Yes
+185,a bird has feathers.,Yes,Yes
+186,a gull has feathers.,No,Yes
+187,does feathers cover hummingbird skin?,No,Yes
+188,does feathers cover dove skin?,No,Yes
+189,feathers cover bulbul skin.,No,Yes
+190,feathers are related to bulbul.,No,Yes
+191,does feathers cover cotinga skin?,No,Yes
+192,a chicken has feathers.,Yes,Yes
+193,does feathers related to pelican?,No,Yes
+194,a skylark has feathers.,No,Yes
+195,does feathers related to gull?,No,Yes
+196,does a buzzard have feathers?,No,Yes
+197,feathers are related to owl.,Yes,Yes
+198,does a gull have feathers?,Yes,Yes
+199,does feathers related to bat?,No,Yes
+200,does feathers related to avocet?,No,Yes
+201,feathers cover owl skin.,No,Yes
+202,a turkey has feathers.,Yes,Yes
+203,does feathers related to hawk?,Yes,Yes
+204,does a finch have feathers?,Yes,Yes
+205,feathers are related to songbird.,No,Yes
+206,does feathers cover gull skin?,No,Yes
+207,feathers are related to heron.,No,Yes
+208,does a sparrow have feathers?,Yes,Yes
+209,a finch has feathers.,No,Yes
+210,feathers cover duck skin.,Yes,Yes
+211,feathers are related to eagle.,Yes,Yes
+212,does feathers cover cowbird skin?,No,Yes
+213,feathers cover goose skin.,Yes,Yes
+214,does feathers cover eagle skin?,No,Yes
+215,a seabird has feathers.,Yes,Yes
+216,does feathers cover owl skin?,No,Yes
+217,does a duck have feathers?,Yes,Yes
+218,feathers cover turkey skin.,No,Yes
+219,feathers cover cockatoo skin.,No,Yes
+220,a stork has feathers.,No,Yes
+221,feathers cover heron skin.,No,Yes
+222,does a macaw have feathers?,Yes,Yes
+223,does feathers cover heron skin?,No,Yes
+224,does feathers related to skylark?,No,Yes
+225,feathers are related to wader.,Yes,Yes
+226,feathers cover stork skin.,No,Yes
+227,does feathers cover seabird skin?,No,Yes
+228,does a parrot have feathers?,Yes,Yes
+229,feathers cover condor skin.,No,Yes
+230,feathers are related to goose.,Yes,Yes
+231,a vulture has feathers.,No,Yes
+232,does a cowbird have feathers?,Yes,Yes
+233,feathers are related to crow.,Yes,Yes
+234,does feathers related to stork?,No,Yes
+235,does a jay have feathers?,No,Yes
+236,a cockatoo has feathers.,No,Yes
+237,does feathers related to cockatoo?,No,Yes
+238,does feathers cover canary skin?,No,Yes
+239,feathers are related to peacock.,Yes,Yes
+240,feathers are related to bullfinch.,No,Yes
+241,does feathers cover duck skin?,No,Yes
+242,does feathers related to grackle?,No,Yes
+243,does feathers cover cockatoo skin?,No,Yes
+244,a heron has feathers.,No,Yes
+245,feathers cover seabird skin.,No,Yes
+246,feathers cover sparrow skin.,No,Yes
+247,feathers cover canary skin.,No,Yes
+248,does feathers related to bulbul?,No,Yes
+249,does a seabird have feathers?,Yes,Yes
+250,does feathers related to bullfinch?,No,Yes
+251,does feathers cover heron skin?,No,Yes
+252,feathers cover crow skin.,No,Yes
+253,does a heron have feathers?,No,Yes
+254,feathers cover pigeon skin.,Yes,Yes
+255,feathers are related to jay.,No,Yes
+256,does feathers related to turkey?,Yes,Yes
+257,feathers are related to swan.,No,Yes
+258,feathers cover hummingbird skin.,Yes,Yes
+259,does feathers related to falcon?,No,Yes
+260,feathers are related to flamingo.,No,Yes
+261,does feathers related to condor?,No,Yes
+262,feathers cover hawk skin.,No,Yes
+263,feathers cover cowbird skin.,Yes,Yes
+264,feathers cover bird skin.,Yes,Yes
+265,does feathers related to wader?,Yes,Yes
+266,a hen has feathers.,Yes,Yes
+267,feathers are related to bat.,No,Yes
+268,does feathers cover avocet skin?,No,Yes
+269,does a songbird have feathers?,Yes,Yes
+270,does a albatrosses have feathers?,No,Yes
+271,does feathers cover vulture skin?,No,Yes
+272,does a dove have feathers?,No,Yes
+273,does feathers cover crow skin?,No,Yes
+274,feathers cover falcon skin.,No,Yes
+275,does a canary have feathers?,No,Yes
+276,does feathers cover bushtit skin?,No,Yes
+277,a buzzard has feathers.,No,Yes
+278,a canary has feathers.,No,Yes
+279,feathers cover finch skin.,Yes,Yes
+280,feathers are related to heron.,No,Yes
+281,feathers cover bullfinch skin.,No,Yes
+282,does a eider have feathers?,No,Yes
+283,feathers are related to parrot.,No,Yes
+284,does feathers related to goose?,Yes,Yes
+285,does a bird have feathers?,Yes,Yes
+286,does a turkey have feathers?,Yes,Yes
+287,does feathers cover goose skin?,Yes,Yes
+288,does a bullfinch have feathers?,No,Yes
+289,does feathers cover brambling skin?,No,Yes
+290,feathers cover flamingo skin.,No,Yes
+291,feathers cover eagle skin.,No,Yes
+292,does feathers related to duck?,Yes,Yes
+293,feathers are related to goldcrest.,No,Yes
