@@ -122,7 +122,8 @@ def train_model(config):
     train_params = dict(
         gpus=config.get("gpus"),
         max_epochs=config.get("max_epochs", 1),
-        checkpoint_callback=checkpoint_callback
+        checkpoint_callback=checkpoint_callback,
+        device=config["device"]
     )
     logging.info(config)
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")

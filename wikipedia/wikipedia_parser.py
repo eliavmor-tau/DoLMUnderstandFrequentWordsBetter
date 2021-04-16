@@ -110,12 +110,8 @@ def collect_sentences_with_words(xml_paths, thread_idx, words, sent_length=512):
             for word in words:
                 text = orig_text
                 idx = find_word_in_text(word, text)
-                print(word)
                 while idx != -1:
                     chunk = text[max(0, idx - sent_length): min(len(text), idx + sent_length)].lower()
-                    print(idx)
-                    print(chunk)
-                    print("-" * 20)
                     text = text[idx + len(word):]
                     idx = find_word_in_text(word, text)
                     sentences[word].append(chunk)
@@ -151,11 +147,10 @@ def run_collect_sentences_with_words():
         dir, files = path[0], path[-1]
         if 'wiki_00' in files:
             jobs += [os.path.join(dir, file) for file in files]
-            break
 
     threads = []
     jobs_batch = []
-    num_of_threads = 1
+    num_of_threads = 20
     batch_size = int(max(np.ceil(len(jobs) / num_of_threads), 1))
     for i in range(0, len(jobs), batch_size):
         jobs_batch.append(jobs[i: min(i + batch_size, len(jobs))])
@@ -181,8 +176,5 @@ def run_collect_sentences_with_words():
 
 
 if __name__ == "__main__":
-    # run_collect_sentences_with_words()
-    with open("wiki_sentences.pkl", "rb") as f:
-        wiki_text_chunks_by_animal = pickle.load(f)
-    collect_all_entities()
+    run_collect_sentences_with_words()
     # compute_unigram()
