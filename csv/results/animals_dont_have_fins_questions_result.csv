@@ -1,37 +1,295 @@
 ,question,model_answer,true_answer
-0,a cat has fins.,No,No
-1,a swan has fins.,Yes,No
-2,a monkey has fins.,No,No
-3,a bear has fins.,No,No
-4,a wolf has fins.,No,No
-5,does a bear have fins?,No,No
-6,does a horse have fins?,Yes,No
-7,does a lion have fins?,Yes,No
-8,does a rhino have fins?,No,No
-9,a rhino has fins.,No,No
-10,a elephant has fins.,No,No
-11,does a fox have fins?,Yes,No
-12,a cow has fins.,No,No
-13,does a bird have fins?,Yes,No
-14,does a swan have fins?,Yes,No
-15,does a cow have fins?,No,No
-16,a ox has fins.,Yes,No
-17,a tiger has fins.,No,No
-18,a horse has fins.,No,No
-19,does a eagle have fins?,Yes,No
-20,does a cat have fins?,No,No
-21,a lion has fins.,Yes,No
-22,does a ox have fins?,Yes,No
-23,does a monkey have fins?,No,No
-24,does a dog have fins?,No,No
-25,does a wolf have fins?,No,No
-26,does a snake have fins?,No,No
-27,does a donkey have fins?,Yes,No
-28,does a elephant have fins?,No,No
-29,a bird has fins.,Yes,No
-30,does a tiger have fins?,Yes,No
-31,a snake has fins.,No,No
-32,a donkey has fins.,Yes,No
-33,a fox has fins.,Yes,No
-34,a eagle has fins.,Yes,No
-35,a dog has fins.,No,No
+0,does a ram have fins?,No,No
+1,fins are related to rntity>,No,No
+2,do fins related to rhino?,No,No
+3,does a eider have fins?,Yes,No
+4,do fins related to zebra?,No,No
+5,fins are related to rntity>,No,No
+6,a jaguar has fins.,Yes,No
+7,does a worm have fins?,No,No
+8,fins are part of bat body.,Yes,No
+9,does a rabbit have fins?,No,No
+10,fins are related to rntity>,No,No
+11,all ram have fins.,No,No
+12,fins are related to rntity>,No,No
+13,do fins related to worm?,No,No
+14,all camel have fins.,Yes,No
+15,fins are part of heron body.,Yes,No
+16,fins are part of ox body.,Yes,No
+17,a bird has fins.,Yes,No
+18,fins are related to rntity>,No,No
+19,all snail have fins.,Yes,No
+20,does a skylark have fins?,No,No
+21,all lion have fins.,Yes,No
+22,all eider have fins.,Yes,No
+23,fins are related to rntity>,No,No
+24,all zebra have fins.,Yes,No
+25,all ox have fins.,Yes,No
+26,do fins related to giraffe?,Yes,No
+27,fins are related to rntity>,No,No
+28,all pelican have fins.,Yes,No
+29,do fins related to lion?,No,No
+30,do fins related to finch?,Yes,No
+31,all goldcrest have fins.,No,No
+32,a puma has fins.,No,No
+33,a dog has fins.,No,No
+34,fins are related to rntity>,No,No
+35,fins are related to rntity>,No,No
+36,a swan has fins.,Yes,No
+37,do fins related to bird?,No,No
+38,does a hen have fins?,Yes,No
+39,all goral have fins.,No,No
+40,a monkey has fins.,No,No
+41,all hourse have fins.,No,No
+42,do fins related to ox?,No,No
+43,all gnu have fins.,Yes,No
+44,a zebra has fins.,Yes,No
+45,fins are part of puma body.,No,No
+46,a lion has fins.,Yes,No
+47,does a wolf have fins?,No,No
+48,fins are part of zebra body.,No,No
+49,a fox has fins.,Yes,No
+50,a finch has fins.,Yes,No
+51,a hawk has fins.,Yes,No
+52,fins are related to rntity>,No,No
+53,fins are related to rntity>,No,No
+54,does a gnu have fins?,Yes,No
+55,fins are part of lion body.,Yes,No
+56,all cowbird have fins.,Yes,No
+57,fins are related to rntity>,No,No
+58,does a monkey have fins?,No,No
+59,all puma have fins.,No,No
+60,does a rat have fins?,No,No
+61,fins are part of rabbit body.,No,No
+62,fins are part of camel body.,Yes,No
+63,fins are related to rntity>,No,No
+64,do fins related to parrot?,No,No
+65,fins are part of elephant body.,No,No
+66,all cat have fins.,Yes,No
+67,all rat have fins.,No,No
+68,fins are related to rntity>,No,No
+69,fins are part of skylark body.,No,No
+70,fins are part of ram body.,No,No
+71,fins are part of pelican body.,Yes,No
+72,fins are related to rntity>,No,No
+73,does a eagle have fins?,Yes,No
+74,does a grackle have fins?,No,No
+75,all donkey have fins.,Yes,No
+76,do fins related to ram?,No,No
+77,fins are part of dog body.,No,No
+78,all poodle have fins.,Yes,No
+79,all skylark have fins.,No,No
+80,do fins related to rabbit?,No,No
+81,fins are part of monkey body.,No,No
+82,does a owl have fins?,Yes,No
+83,a lark has fins.,Yes,No
+84,does a snail have fins?,No,No
+85,fins are part of wolf body.,No,No
+86,do fins related to donkey?,No,No
+87,do fins related to elephant?,No,No
+88,do fins related to goldcrest?,No,No
+89,does a puma have fins?,Yes,No
+90,fins are part of hourse body.,No,No
+91,fins are related to rntity>,No,No
+92,fins are related to rntity>,No,No
+93,all parrot have fins.,Yes,No
+94,do fins related to skylark?,No,No
+95,a wolf has fins.,No,No
+96,do fins related to bull?,No,No
+97,fins are related to rntity>,No,No
+98,fins are part of sheep body.,No,No
+99,all flamingo have fins.,Yes,No
+100,fins are related to rntity>,No,No
+101,a goldcrest has fins.,No,No
+102,all bird have fins.,Yes,No
+103,all sheep have fins.,Yes,No
+104,does a lion have fins?,Yes,No
+105,fins are related to rntity>,No,No
+106,does a swan have fins?,Yes,No
+107,do fins related to lark?,No,No
+108,do fins related to pelican?,No,No
+109,do fins related to goral?,No,No
+110,do fins related to hen?,No,No
+111,a cow has fins.,No,No
+112,fins are part of grackle body.,Yes,No
+113,fins are related to rntity>,No,No
+114,fins are related to rntity>,No,No
+115,a snail has fins.,No,No
+116,does a sheep have fins?,Yes,No
+117,do fins related to poodle?,No,No
+118,all duck have fins.,Yes,No
+119,a hen has fins.,Yes,No
+120,all lizard have fins.,Yes,No
+121,fins are related to rntity>,No,No
+122,all dog have fins.,No,No
+123,fins are related to rntity>,No,No
+124,a flamingo has fins.,Yes,No
+125,fins are part of goral body.,No,No
+126,do fins related to swan?,No,No
+127,all hawk have fins.,Yes,No
+128,all worm have fins.,No,No
+129,all grackle have fins.,Yes,No
+130,a cat has fins.,No,No
+131,a eider has fins.,Yes,No
+132,fins are related to rntity>,No,No
+133,does a hourse have fins?,No,No
+134,a lizard has fins.,No,No
+135,does a zebra have fins?,Yes,No
+136,does a duck have fins?,Yes,No
+137,does a bird have fins?,Yes,No
+138,fins are related to rntity>,No,No
+139,a rabbit has fins.,No,No
+140,a ox has fins.,Yes,No
+141,fins are related to rntity>,No,No
+142,does a cowbird have fins?,Yes,No
+143,do fins related to bat?,No,No
+144,does a goral have fins?,No,No
+145,fins are related to rntity>,No,No
+146,a rhino has fins.,No,No
+147,all lark have fins.,No,No
+148,does a finch have fins?,Yes,No
+149,fins are part of hawk body.,No,No
+150,a donkey has fins.,Yes,No
+151,do fins related to eagle?,No,No
+152,fins are part of fox body.,Yes,No
+153,all wolf have fins.,No,No
+154,do fins related to monkey?,No,No
+155,all bull have fins.,No,No
+156,does a rhino have fins?,No,No
+157,fins are part of cow body.,No,No
+158,fins are part of rat body.,No,No
+159,do fins related to hourse?,No,No
+160,do fins related to grackle?,No,No
+161,all bat have fins.,Yes,No
+162,do fins related to snail?,No,No
+163,fins are part of parrot body.,No,No
+164,a skylark has fins.,No,No
+165,a bison has fins.,Yes,No
+166,do fins related to bison?,No,No
+167,fins are part of giraffe body.,Yes,No
+168,do fins related to flamingo?,No,No
+169,fins are part of eagle body.,Yes,No
+170,do fins related to owl?,No,No
+171,fins are part of cat body.,Yes,No
+172,a goral has fins.,No,No
+173,all tiger have fins.,Yes,No
+174,does a parrot have fins?,Yes,No
+175,do fins related to puma?,No,No
+176,does a bison have fins?,Yes,No
+177,fins are part of jaguar body.,Yes,No
+178,do fins related to fox?,No,No
+179,a camel has fins.,Yes,No
+180,all bison have fins.,Yes,No
+181,fins are part of snail body.,Yes,No
+182,a giraffe has fins.,Yes,No
+183,all monkey have fins.,No,No
+184,all giraffe have fins.,Yes,No
+185,does a jaguar have fins?,Yes,No
+186,fins are part of owl body.,Yes,No
+187,all heron have fins.,Yes,No
+188,fins are related to rntity>,No,No
+189,does a cow have fins?,No,No
+190,fins are part of swan body.,Yes,No
+191,a eagle has fins.,Yes,No
+192,do fins related to jaguar?,No,No
+193,fins are part of finch body.,Yes,No
+194,fins are related to rntity>,No,No
+195,do fins related to dog?,No,No
+196,do fins related to duck?,No,No
+197,all rabbit have fins.,No,No
+198,a hourse has fins.,No,No
+199,fins are related to rntity>,No,No
+200,do fins related to gnu?,No,No
+201,fins are part of worm body.,Yes,No
+202,a owl has fins.,Yes,No
+203,does a tiger have fins?,Yes,No
+204,fins are part of eider body.,Yes,No
+205,fins are part of duck body.,Yes,No
+206,does a bat have fins?,No,No
+207,fins are part of donkey body.,Yes,No
+208,fins are related to rntity>,No,No
+209,fins are part of bison body.,No,No
+210,do fins related to sheep?,No,No
+211,does a goldcrest have fins?,No,No
+212,fins are part of poodle body.,No,No
+213,all jaguar have fins.,Yes,No
+214,a poodle has fins.,No,No
+215,does a cat have fins?,No,No
+216,does a fox have fins?,Yes,No
+217,a duck has fins.,Yes,No
+218,fins are related to rntity>,No,No
+219,fins are part of bull body.,No,No
+220,fins are related to rntity>,No,No
+221,do fins related to heron?,No,No
+222,a gnu has fins.,No,No
+223,a bull has fins.,No,No
+224,do fins related to camel?,No,No
+225,fins are related to rntity>,No,No
+226,does a lark have fins?,Yes,No
+227,all hen have fins.,Yes,No
+228,does a donkey have fins?,Yes,No
+229,fins are part of lizard body.,Yes,No
+230,a cowbird has fins.,Yes,No
+231,do fins related to hawk?,No,No
+232,does a lizard have fins?,Yes,No
+233,fins are related to rntity>,No,No
+234,do fins related to eider?,Yes,No
+235,do fins related to rat?,No,No
+236,a grackle has fins.,Yes,No
+237,fins are related to rntity>,No,No
+238,does a camel have fins?,Yes,No
+239,fins are part of cowbird body.,No,No
+240,fins are related to rntity>,No,No
+241,does a ox have fins?,Yes,No
+242,a ram has fins.,No,No
+243,does a bull have fins?,No,No
+244,do fins related to cat?,No,No
+245,do fins related to cowbird?,No,No
+246,fins are part of hen body.,Yes,No
+247,does a heron have fins?,Yes,No
+248,a elephant has fins.,No,No
+249,all swan have fins.,Yes,No
+250,do fins related to tiger?,No,No
+251,do fins related to lizard?,No,No
+252,a tiger has fins.,No,No
+253,all fox have fins.,Yes,No
+254,all rhino have fins.,Yes,No
+255,fins are related to rntity>,No,No
+256,fins are related to rntity>,No,No
+257,fins are related to rntity>,No,No
+258,does a hawk have fins?,Yes,No
+259,fins are related to rntity>,No,No
+260,fins are related to rntity>,No,No
+261,fins are part of goldcrest body.,No,No
+262,fins are related to rntity>,No,No
+263,a worm has fins.,No,No
+264,do fins related to wolf?,No,No
+265,fins are part of gnu body.,Yes,No
+266,does a flamingo have fins?,Yes,No
+267,fins are part of lark body.,Yes,No
+268,all cow have fins.,No,No
+269,fins are related to rntity>,No,No
+270,all elephant have fins.,No,No
+271,does a giraffe have fins?,Yes,No
+272,fins are part of bird body.,Yes,No
+273,fins are part of flamingo body.,Yes,No
+274,fins are related to rntity>,No,No
+275,does a elephant have fins?,No,No
+276,fins are related to rntity>,No,No
+277,fins are part of rhino body.,No,No
+278,a bat has fins.,No,No
+279,do fins related to cow?,No,No
+280,fins are related to rntity>,No,No
+281,a pelican has fins.,Yes,No
+282,a heron has fins.,Yes,No
+283,fins are related to rntity>,No,No
+284,does a poodle have fins?,Yes,No
+285,does a pelican have fins?,Yes,No
+286,all eagle have fins.,Yes,No
+287,a rat has fins.,No,No
+288,a parrot has fins.,Yes,No
+289,all owl have fins.,Yes,No
+290,does a dog have fins?,No,No
+291,fins are part of tiger body.,Yes,No
+292,a sheep has fins.,No,No
+293,all finch have fins.,Yes,No

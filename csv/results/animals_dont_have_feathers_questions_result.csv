@@ -1,59 +1,295 @@
 ,question,model_answer,true_answer
-0,a donkey has feathers.,No,No
-1,does a frog have feathers?,No,No
-2,does a tiger have feathers?,No,No
-3,does a ox have feathers?,No,No
-4,does a bat have feathers?,No,No
-5,does a fox have feathers?,Yes,No
-6,a bull has feathers.,No,No
-7,does a deer have feathers?,No,No
-8,does a camel have feathers?,No,No
-9,a ox has feathers.,No,No
-10,does a donkey have feathers?,No,No
-11,a rabbit has feathers.,Yes,No
-12,does a dog have feathers?,Yes,No
-13,a wolf has feathers.,No,No
-14,does a lizard have feathers?,No,No
-15,does a snake have feathers?,No,No
-16,a cow has feathers.,Yes,No
-17,does a goat have feathers?,Yes,No
-18,a lizard has feathers.,No,No
-19,a deer has feathers.,No,No
-20,a cat has feathers.,Yes,No
-21,a fox has feathers.,No,No
-22,a rhino has feathers.,No,No
-23,a rat has feathers.,No,No
-24,does a lion have feathers?,Yes,No
-25,does a giraffe have feathers?,Yes,No
-26,does a rabbit have feathers?,Yes,No
-27,a sheep has feathers.,Yes,No
-28,a tiger has feathers.,No,No
-29,a bat has feathers.,No,No
-30,does a pig have feathers?,Yes,No
-31,a elephant has feathers.,No,No
-32,does a bear have feathers?,No,No
-33,a frog has feathers.,No,No
-34,does a cat have feathers?,Yes,No
-35,a snake has feathers.,No,No
-36,a camel has feathers.,No,No
-37,does a rhino have feathers?,No,No
-38,a zebra has feathers.,No,No
-39,does a worm have feathers?,No,No
-40,does a bull have feathers?,No,No
-41,a goat has feathers.,Yes,No
-42,a monkey has feathers.,No,No
-43,does a monkey have feathers?,No,No
-44,a lion has feathers.,No,No
-45,does a horse have feathers?,Yes,No
-46,a dog has feathers.,Yes,No
-47,a bear has feathers.,No,No
-48,a pig has feathers.,Yes,No
-49,a giraffe has feathers.,Yes,No
-50,a horse has feathers.,No,No
-51,does a elephant have feathers?,No,No
-52,does a wolf have feathers?,No,No
-53,a worm has feathers.,No,No
-54,does a sheep have feathers?,Yes,No
-55,does a cow have feathers?,Yes,No
-56,does a rat have feathers?,No,No
-57,does a zebra have feathers?,No,No
+0,does a tiger have feathers?,No,No
+1,feathers are related to wolf.,No,No
+2,does a frog have feathers?,No,No
+3,feathers are related to poodle.,No,No
+4,a ram has feathers.,No,No
+5,does feathers cover camel skin?,No,No
+6,feathers cover lizard skin.,No,No
+7,feathers cover wolf skin.,No,No
+8,a cow has feathers.,Yes,No
+9,a bear has feathers.,No,No
+10,does feathers related to dog?,No,No
+11,does feathers related to yellowfin?,No,No
+12,does feathers cover yellowfin skin?,No,No
+13,does a poodle have feathers?,No,No
+14,does a jaguar have feathers?,No,No
+15,feathers cover camel skin.,No,No
+16,feathers are related to doberman.,No,No
+17,does feathers cover doberman skin?,No,No
+18,does a pomeranian have feathers?,No,No
+19,feathers cover jaguar skin.,No,No
+20,feathers are related to tiger.,No,No
+21,does a donkey have feathers?,No,No
+22,does feathers cover codfish skin?,No,No
+23,does a snail have feathers?,No,No
+24,a codfish has feathers.,No,No
+25,does a yellowfin have feathers?,No,No
+26,a whale has feathers.,No,No
+27,a wolf has feathers.,No,No
+28,feathers cover monkey skin.,No,No
+29,does feathers cover salmon skin?,No,No
+30,does feathers related to horse?,Yes,No
+31,does a bear have feathers?,No,No
+32,feathers are related to frog.,No,No
+33,does feathers related to camel?,No,No
+34,does feathers cover bear skin?,No,No
+35,does feathers cover goat skin?,No,No
+36,does a salmon have feathers?,No,No
+37,does feathers related to ox?,No,No
+38,feathers cover yellowfin skin.,No,No
+39,a pomeranian has feathers.,No,No
+40,does feathers cover bull skin?,No,No
+41,feathers cover whale skin.,No,No
+42,feathers are related to labrador.,No,No
+43,does feathers cover elephant skin?,No,No
+44,a beagle has feathers.,Yes,No
+45,does feathers related to poodle?,No,No
+46,feathers are related to jellyfish.,No,No
+47,does feathers cover fox skin?,No,No
+48,does feathers cover cat skin?,No,No
+49,does a elephant have feathers?,No,No
+50,does a tuna have feathers?,No,No
+51,does a beagle have feathers?,Yes,No
+52,does a deer have feathers?,No,No
+53,feathers are related to zebra.,No,No
+54,feathers cover shark skin.,No,No
+55,feathers are related to jaguar.,No,No
+56,does a snake have feathers?,No,No
+57,feathers are related to rat.,No,No
+58,feathers are related to snail.,No,No
+59,feathers are related to sheep.,No,No
+60,feathers cover cat skin.,Yes,No
+61,a worm has feathers.,No,No
+62,feathers are related to eel.,Yes,No
+63,a rat has feathers.,No,No
+64,does feathers related to jaguar?,No,No
+65,a zebra has feathers.,No,No
+66,does feathers related to elephant?,No,No
+67,does a lizard have feathers?,No,No
+68,feathers cover poodle skin.,No,No
+69,a lion has feathers.,No,No
+70,feathers are related to deer.,No,No
+71,does feathers cover jaguar skin?,No,No
+72,does feathers related to dolphin?,No,No
+73,a jellyfish has feathers.,No,No
+74,a deer has feathers.,No,No
+75,a eel has feathers.,Yes,No
+76,feathers cover tuna skin.,No,No
+77,does feathers cover frog skin?,No,No
+78,does feathers cover poodle skin?,No,No
+79,does feathers cover beagle skin?,No,No
+80,a poodle has feathers.,No,No
+81,feathers cover eel skin.,No,No
+82,does feathers cover giraffe skin?,Yes,No
+83,does a pig have feathers?,Yes,No
+84,a frog has feathers.,No,No
+85,does feathers cover tiger skin?,No,No
+86,does feathers related to tuna?,No,No
+87,feathers are related to giraffe.,Yes,No
+88,feathers cover pomeranian skin.,No,No
+89,a labrador has feathers.,No,No
+90,a tuna has feathers.,No,No
+91,does feathers related to deer?,No,No
+92,does feathers cover ram skin?,No,No
+93,does feathers cover snake skin?,No,No
+94,does a zebra have feathers?,No,No
+95,feathers are related to bull.,No,No
+96,a horse has feathers.,No,No
+97,feathers cover pig skin.,No,No
+98,does feathers related to doberman?,No,No
+99,does a dog have feathers?,Yes,No
+100,feathers cover leopard skin.,Yes,No
+101,a snake has feathers.,No,No
+102,does feathers related to lion?,No,No
+103,feathers are related to donkey.,No,No
+104,feathers cover rottweiler skin.,No,No
+105,does feathers related to jellyfish?,No,No
+106,feathers cover frog skin.,No,No
+107,feathers cover ram skin.,No,No
+108,does feathers related to snake?,No,No
+109,feathers cover fox skin.,No,No
+110,feathers are related to ram.,No,No
+111,feathers cover worm skin.,No,No
+112,does feathers cover rat skin?,No,No
+113,does a dolphin have feathers?,No,No
+114,does a sheep have feathers?,Yes,No
+115,does feathers cover whale skin?,No,No
+116,does feathers related to rhino?,No,No
+117,feathers cover beagle skin.,No,No
+118,feathers are related to rhino.,No,No
+119,does feathers cover wolf skin?,No,No
+120,does feathers related to monkey?,No,No
+121,does feathers cover labrador skin?,No,No
+122,feathers cover tiger skin.,No,No
+123,does feathers related to corgi?,No,No
+124,does a eel have feathers?,Yes,No
+125,a cat has feathers.,Yes,No
+126,feathers are related to dolphin.,No,No
+127,a donkey has feathers.,No,No
+128,does a corgi have feathers?,No,No
+129,feathers cover snake skin.,No,No
+130,feathers are related to puma.,No,No
+131,does feathers related to shark?,No,No
+132,feathers are related to camel.,No,No
+133,feathers cover doberman skin.,No,No
+134,feathers cover dolphin skin.,No,No
+135,feathers are related to codfish.,No,No
+136,feathers are related to pomeranian.,No,No
+137,does feathers cover cow skin?,No,No
+138,feathers cover dog skin.,No,No
+139,does feathers cover puma skin?,No,No
+140,a monkey has feathers.,No,No
+141,feathers are related to snake.,No,No
+142,does feathers cover monkey skin?,No,No
+143,does feathers related to zebra?,No,No
+144,feathers are related to monkey.,No,No
+145,feathers cover horse skin.,No,No
+146,does feathers cover leopard skin?,No,No
+147,a dog has feathers.,Yes,No
+148,does a labrador have feathers?,No,No
+149,feathers are related to bear.,No,No
+150,does feathers related to labrador?,No,No
+151,does a goat have feathers?,Yes,No
+152,does feathers cover pig skin?,No,No
+153,feathers are related to rottweiler.,No,No
+154,a salmon has feathers.,No,No
+155,does feathers related to goat?,Yes,No
+156,does a horse have feathers?,Yes,No
+157,feathers cover jellyfish skin.,No,No
+158,feathers are related to beagle.,No,No
+159,feathers cover zebra skin.,No,No
+160,feathers cover elephant skin.,No,No
+161,does feathers related to bear?,No,No
+162,feathers cover donkey skin.,No,No
+163,does a monkey have feathers?,No,No
+164,a tiger has feathers.,No,No
+165,does feathers cover corgi skin?,No,No
+166,does a lion have feathers?,Yes,No
+167,does feathers related to codfish?,No,No
+168,does a ox have feathers?,No,No
+169,feathers are related to rabbit.,No,No
+170,does feathers cover zebra skin?,No,No
+171,does a rhino have feathers?,No,No
+172,does feathers related to wolf?,No,No
+173,does feathers related to frog?,No,No
+174,does feathers related to sheep?,Yes,No
+175,feathers are related to lizard.,No,No
+176,does feathers related to salmon?,No,No
+177,feathers are related to salmon.,No,No
+178,a camel has feathers.,No,No
+179,does feathers related to tiger?,No,No
+180,does feathers cover shark skin?,No,No
+181,a jaguar has feathers.,No,No
+182,feathers are related to cow.,No,No
+183,feathers cover ox skin.,No,No
+184,does feathers related to rottweiler?,No,No
+185,does feathers related to bull?,No,No
+186,a ox has feathers.,No,No
+187,does feathers related to cat?,Yes,No
+188,a rabbit has feathers.,Yes,No
+189,does a bull have feathers?,No,No
+190,does feathers cover dog skin?,No,No
+191,does feathers cover donkey skin?,No,No
+192,feathers are related to elephant.,No,No
+193,does a rottweiler have feathers?,No,No
+194,does feathers related to fox?,No,No
+195,does feathers cover rottweiler skin?,No,No
+196,a dolphin has feathers.,No,No
+197,does feathers related to pig?,No,No
+198,does feathers related to ram?,No,No
+199,a rottweiler has feathers.,No,No
+200,feathers cover bull skin.,No,No
+201,feathers are related to horse.,No,No
+202,does feathers related to giraffe?,Yes,No
+203,does feathers cover jellyfish skin?,No,No
+204,does feathers cover deer skin?,No,No
+205,feathers are related to cat.,No,No
+206,does a shark have feathers?,No,No
+207,does a doberman have feathers?,No,No
+208,feathers are related to lion.,No,No
+209,feathers cover puma skin.,No,No
+210,feathers are related to dog.,No,No
+211,does a cow have feathers?,Yes,No
+212,does feathers cover lion skin?,No,No
+213,a bull has feathers.,No,No
+214,feathers are related to yellowfin.,No,No
+215,does feathers related to beagle?,No,No
+216,does a giraffe have feathers?,Yes,No
+217,feathers cover giraffe skin.,Yes,No
+218,does a rabbit have feathers?,Yes,No
+219,does a codfish have feathers?,No,No
+220,does feathers cover lizard skin?,No,No
+221,feathers are related to pig.,No,No
+222,a giraffe has feathers.,Yes,No
+223,does feathers related to donkey?,No,No
+224,does a fox have feathers?,Yes,No
+225,feathers cover deer skin.,No,No
+226,does feathers related to whale?,No,No
+227,a yellowfin has feathers.,No,No
+228,a pig has feathers.,Yes,No
+229,a goat has feathers.,Yes,No
+230,does feathers related to rat?,No,No
+231,feathers are related to tuna.,No,No
+232,does feathers related to lizard?,No,No
+233,feathers are related to corgi.,No,No
+234,feathers are related to ox.,No,No
+235,does a leopard have feathers?,Yes,No
+236,feathers cover bear skin.,Yes,No
+237,does a rat have feathers?,No,No
+238,feathers cover goat skin.,Yes,No
+239,does a cat have feathers?,Yes,No
+240,a sheep has feathers.,Yes,No
+241,does feathers cover rhino skin?,No,No
+242,feathers are related to whale.,No,No
+243,does feathers cover tuna skin?,No,No
+244,does feathers cover rabbit skin?,No,No
+245,does a jellyfish have feathers?,No,No
+246,feathers cover lion skin.,No,No
+247,does feathers related to puma?,No,No
+248,does feathers cover pomeranian skin?,No,No
+249,does feathers related to cow?,No,No
+250,feathers cover rat skin.,No,No
+251,does feathers cover eel skin?,No,No
+252,a lizard has feathers.,No,No
+253,does a worm have feathers?,No,No
+254,a snail has feathers.,No,No
+255,does feathers cover horse skin?,No,No
+256,does feathers related to eel?,Yes,No
+257,does a wolf have feathers?,No,No
+258,a leopard has feathers.,Yes,No
+259,feathers are related to goat.,No,No
+260,does a puma have feathers?,No,No
+261,a corgi has feathers.,No,No
+262,a fox has feathers.,No,No
+263,feathers are related to worm.,No,No
+264,a doberman has feathers.,No,No
+265,feathers cover labrador skin.,No,No
+266,feathers cover snail skin.,No,No
+267,feathers cover cow skin.,No,No
+268,does feathers cover worm skin?,No,No
+269,does a whale have feathers?,No,No
+270,feathers are related to leopard.,No,No
+271,does feathers related to leopard?,No,No
+272,a puma has feathers.,No,No
+273,does feathers related to rabbit?,No,No
+274,feathers cover rhino skin.,No,No
+275,does a ram have feathers?,No,No
+276,does feathers cover sheep skin?,No,No
+277,a elephant has feathers.,No,No
+278,does feathers related to worm?,No,No
+279,does feathers related to pomeranian?,No,No
+280,feathers cover codfish skin.,No,No
+281,feathers cover corgi skin.,No,No
+282,feathers cover rabbit skin.,No,No
+283,feathers are related to shark.,No,No
+284,does feathers cover dolphin skin?,No,No
+285,feathers cover salmon skin.,No,No
+286,does feathers cover snail skin?,No,No
+287,does feathers cover ox skin?,No,No
+288,does a camel have feathers?,No,No
+289,a shark has feathers.,No,No
+290,feathers are related to fox.,No,No
+291,does feathers related to snail?,No,No
+292,feathers cover sheep skin.,No,No
+293,a rhino has feathers.,No,No

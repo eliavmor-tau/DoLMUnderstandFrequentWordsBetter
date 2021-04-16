@@ -1,117 +1,344 @@
 ,question,model_answer,true_answer
-0,does a dog have a wing?,No,No
-1,a frog has wings.,Yes,No
-2,does a sheep have a wing?,Yes,No
-3,a rabbit has wings.,Yes,No
-4,does a bull have a wing?,No,No
-5,does a zebra have wings?,Yes,No
-6,a cat has wings.,Yes,No
-7,a snake has a wing.,No,No
-8,does a lion have wings?,Yes,No
-9,does a rabbit have a wing?,No,No
-10,a monkey has wings.,No,No
-11,a ox has a wing.,No,No
-12,does a pig have a wing?,Yes,No
-13,does a monkey have a wing?,No,No
-14,a frog has a wing.,No,No
-15,does a ox have wings?,No,No
-16,a bull has a wing.,No,No
-17,a pig has a wing.,Yes,No
-18,a bear has a wing.,No,No
-19,does a tiger have a wing?,Yes,No
-20,a pig has wings.,Yes,No
-21,does a goat have wings?,Yes,No
-22,does a rabbit have wings?,Yes,No
-23,a sheep has wings.,Yes,No
-24,does a monkey have wings?,No,No
-25,a snake has wings.,No,No
-26,a cat has a wing.,No,No
-27,a dog has a wing.,No,No
-28,a donkey has wings.,Yes,No
-29,a rat has a wing.,No,No
-30,does a lion have a wing?,Yes,No
-31,does a rat have a wing?,No,No
-32,a ox has wings.,No,No
-33,does a deer have wings?,Yes,No
-34,does a wolf have wings?,Yes,No
-35,does a rhino have a wing?,Yes,No
-36,a horse has wings.,No,No
-37,a worm has a wing.,Yes,No
-38,a lion has wings.,Yes,No
-39,does a bear have wings?,No,No
-40,does a shark have a wing?,No,No
-41,a dog has wings.,No,No
-42,a lizard has wings.,Yes,No
-43,a rhino has a wing.,Yes,No
-44,a elephant has wings.,Yes,No
-45,a lizard has a wing.,Yes,No
-46,a wolf has wings.,No,No
-47,a rabbit has a wing.,No,No
-48,does a elephant have wings?,Yes,No
-49,does a zebra have a wing?,Yes,No
-50,a worm has wings.,Yes,No
-51,does a fox have wings?,Yes,No
-52,a goat has wings.,Yes,No
-53,a bull has wings.,No,No
-54,does a rhino have wings?,Yes,No
-55,a donkey has a wing.,No,No
-56,a zebra has a wing.,No,No
-57,does a cat have a wing?,No,No
-58,does a deer have a wing?,Yes,No
-59,does a shark have wings?,Yes,No
-60,a elephant has a wing.,No,No
-61,does a tiger have wings?,Yes,No
-62,a giraffe has wings.,Yes,No
-63,does a pig have wings?,Yes,No
-64,a fox has a wing.,Yes,No
-65,a shark has a wing.,No,No
-66,does a bear have a wing?,No,No
-67,a zebra has wings.,Yes,No
-68,a cow has wings.,No,No
-69,a horse has a wing.,No,No
-70,a giraffe has a wing.,Yes,No
-71,a sheep has a wing.,Yes,No
-72,does a lizard have wings?,Yes,No
-73,does a elephant have a wing?,No,No
-74,a tiger has a wing.,Yes,No
-75,does a donkey have wings?,Yes,No
-76,a tiger has wings.,Yes,No
-77,does a dog have wings?,No,No
-78,does a donkey have a wing?,No,No
-79,does a horse have wings?,No,No
-80,a lion has a wing.,Yes,No
-81,a bear has wings.,No,No
-82,does a ox have a wing?,No,No
-83,does a snake have wings?,No,No
-84,a deer has a wing.,Yes,No
-85,does a cow have a wing?,No,No
-86,a goat has a wing.,No,No
-87,a shark has wings.,Yes,No
-88,does a camel have a wing?,Yes,No
-89,a wolf has a wing.,Yes,No
-90,does a goat have a wing?,No,No
-91,does a bull have wings?,No,No
-92,does a worm have a wing?,No,No
-93,does a camel have wings?,No,No
-94,does a worm have wings?,Yes,No
-95,a monkey has a wing.,No,No
-96,a camel has wings.,No,No
-97,does a lizard have a wing?,Yes,No
-98,a rat has wings.,No,No
-99,does a fox have a wing?,Yes,No
-100,a fox has wings.,Yes,No
-101,a deer has wings.,Yes,No
-102,does a sheep have wings?,Yes,No
-103,a rhino has wings.,Yes,No
-104,does a rat have wings?,No,No
-105,does a snake have a wing?,No,No
-106,a camel has a wing.,Yes,No
-107,does a wolf have a wing?,Yes,No
-108,a cow has a wing.,No,No
-109,does a frog have wings?,Yes,No
-110,does a cat have wings?,Yes,No
-111,does a giraffe have a wing?,Yes,No
-112,does a giraffe have wings?,Yes,No
-113,does a frog have a wing?,No,No
-114,does a cow have wings?,No,No
-115,does a horse have a wing?,No,No
+0,are wings related to lion?,Yes,No
+1,wing is a part of rabbit body.,Yes,No
+2,a rottweiler has a wing.,Yes,No
+3,a fox has a wing.,Yes,No
+4,does a snake have wings?,No,No
+5,a rabbit has wings.,Yes,No
+6,wing is a part of lion body.,Yes,No
+7,wing is a part of frog body.,Yes,No
+8,does a eel have wings?,Yes,No
+9,does a bear have a wing?,No,No
+10,does a rhino have a wing?,Yes,No
+11,a rabbit has a wing.,No,No
+12,does a cat have a wing?,No,No
+13,are wings related to labrador?,No,No
+14,wings are part of lizard body.,Yes,No
+15,a lizard has a wing.,Yes,No
+16,are wings related to eel?,Yes,No
+17,does a goat have a wing?,No,No
+18,does a rhino have wings?,Yes,No
+19,wings are part of horse body.,No,No
+20,a horse has a wing.,No,No
+21,are wings related to leopard?,No,No
+22,a puma has a wing.,No,No
+23,are wings related to jaguar?,No,No
+24,wing is a part of tuna body.,Yes,No
+25,does a whale have wings?,No,No
+26,does a zebra have wings?,Yes,No
+27,wings are part of goat body.,No,No
+28,a bear has a wing.,No,No
+29,does a pig have a wing?,Yes,No
+30,does a rabbit have wings?,Yes,No
+31,are wings related to bear?,No,No
+32,a rhino has wings.,Yes,No
+33,a frog has wings.,Yes,No
+34,a snail has a wing.,No,No
+35,does a cow have wings?,No,No
+36,wings are part of cat body.,Yes,No
+37,a lion has a wing.,Yes,No
+38,wings are part of bear body.,No,No
+39,wing is a part of rhino body.,Yes,No
+40,does a dog have wings?,No,No
+41,are wings related to doberman?,No,No
+42,are wings related to yellowfin?,No,No
+43,wing is a part of cow body.,No,No
+44,a cat has a wing.,No,No
+45,does a jellyfish have a wing?,No,No
+46,does a jaguar have a wing?,Yes,No
+47,a lion has wings.,Yes,No
+48,are wings related to shark?,No,No
+49,does a ram have wings?,No,No
+50,does a deer have a wing?,Yes,No
+51,wing is a part of shark body.,No,No
+52,are wings related to pomeranian?,No,No
+53,a tuna has wings.,No,No
+54,wings are part of ram body.,No,No
+55,does a jaguar have wings?,Yes,No
+56,wings are part of salmon body.,No,No
+57,wings are part of eel body.,Yes,No
+58,does a dog have a wing?,No,No
+59,are wings related to ox?,No,No
+60,does a puma have wings?,No,No
+61,a monkey has wings.,No,No
+62,does a monkey have a wing?,No,No
+63,a salmon has wings.,No,No
+64,are wings related to salmon?,No,No
+65,wing is a part of monkey body.,No,No
+66,are wings related to ram?,No,No
+67,are wings related to snake?,No,No
+68,does a elephant have wings?,Yes,No
+69,does a cat have wings?,Yes,No
+70,are wings related to rhino?,Yes,No
+71,wings are part of elephant body.,No,No
+72,does a snail have a wing?,No,No
+73,does a donkey have wings?,Yes,No
+74,a doberman has a wing.,No,No
+75,a jaguar has wings.,Yes,No
+76,a tiger has a wing.,Yes,No
+77,are wings related to donkey?,No,No
+78,wing is a part of pig body.,Yes,No
+79,wings are part of monkey body.,No,No
+80,a goat has a wing.,No,No
+81,a salmon has a wing.,No,No
+82,wing is a part of whale body.,Yes,No
+83,a donkey has a wing.,No,No
+84,does a doberman have a wing?,No,No
+85,wing is a part of bull body.,Yes,No
+86,does a rottweiler have wings?,Yes,No
+87,wings are part of yellowfin body.,No,No
+88,a jellyfish has wings.,No,No
+89,wing is a part of puma body.,No,No
+90,a ox has a wing.,No,No
+91,wing is a part of poodle body.,Yes,No
+92,does a pomeranian have a wing?,No,No
+93,wings are part of tiger body.,Yes,No
+94,does a poodle have a wing?,Yes,No
+95,wing is a part of ram body.,Yes,No
+96,a fox has wings.,Yes,No
+97,wing is a part of rottweiler body.,Yes,No
+98,wing is a part of eel body.,Yes,No
+99,are wings related to dog?,No,No
+100,a rottweiler has wings.,Yes,No
+101,does a salmon have a wing?,No,No
+102,wing is a part of labrador body.,No,No
+103,does a cow have a wing?,No,No
+104,wings are part of tuna body.,No,No
+105,does a bull have wings?,No,No
+106,wing is a part of ox body.,No,No
+107,wing is a part of leopard body.,No,No
+108,does a snail have wings?,Yes,No
+109,a worm has wings.,Yes,No
+110,a leopard has a wing.,No,No
+111,wings are part of poodle body.,Yes,No
+112,a bull has a wing.,No,No
+113,wing is a part of doberman body.,No,No
+114,does a deer have wings?,Yes,No
+115,wings are part of shark body.,No,No
+116,wings are part of donkey body.,No,No
+117,does a labrador have a wing?,No,No
+118,wings are part of dog body.,Yes,No
+119,a rat has a wing.,No,No
+120,wing is a part of yellowfin body.,No,No
+121,wing is a part of corgi body.,No,No
+122,does a rottweiler have a wing?,Yes,No
+123,a worm has a wing.,Yes,No
+124,does a dolphin have wings?,No,No
+125,does a tuna have wings?,No,No
+126,wings are part of leopard body.,No,No
+127,wings are part of wolf body.,No,No
+128,wing is a part of jaguar body.,Yes,No
+129,wing is a part of dog body.,Yes,No
+130,a giraffe has wings.,Yes,No
+131,a dolphin has wings.,No,No
+132,wings are part of ox body.,No,No
+133,does a shark have wings?,Yes,No
+134,does a sheep have wings?,Yes,No
+135,does a lion have a wing?,Yes,No
+136,does a fox have a wing?,Yes,No
+137,wings are part of rat body.,No,No
+138,a eel has wings.,Yes,No
+139,does a lizard have a wing?,Yes,No
+140,wings are part of snake body.,No,No
+141,does a rat have a wing?,No,No
+142,are wings related to sheep?,No,No
+143,does a elephant have a wing?,No,No
+144,are wings related to dolphin?,No,No
+145,does a corgi have a wing?,No,No
+146,a ox has wings.,No,No
+147,a shark has wings.,Yes,No
+148,wing is a part of camel body.,Yes,No
+149,are wings related to puma?,No,No
+150,a pig has a wing.,Yes,No
+151,a sheep has wings.,Yes,No
+152,a dog has wings.,No,No
+153,a elephant has wings.,Yes,No
+154,does a frog have wings?,Yes,No
+155,wings are part of bull body.,No,No
+156,wing is a part of sheep body.,Yes,No
+157,does a labrador have wings?,No,No
+158,a tiger has wings.,Yes,No
+159,a yellowfin has a wing.,Yes,No
+160,does a tiger have a wing?,Yes,No
+161,a donkey has wings.,Yes,No
+162,wings are part of lion body.,Yes,No
+163,a ram has wings.,No,No
+164,wings are part of pig body.,Yes,No
+165,does a pomeranian have wings?,No,No
+166,a labrador has a wing.,No,No
+167,wing is a part of horse body.,No,No
+168,does a corgi have wings?,No,No
+169,are wings related to rottweiler?,No,No
+170,wings are part of fox body.,Yes,No
+171,a yellowfin has wings.,Yes,No
+172,wings are part of worm body.,Yes,No
+173,a wolf has wings.,No,No
+174,a beagle has wings.,Yes,No
+175,does a giraffe have a wing?,Yes,No
+176,are wings related to elephant?,No,No
+177,a shark has a wing.,No,No
+178,does a dolphin have a wing?,No,No
+179,a goat has wings.,Yes,No
+180,wings are part of frog body.,Yes,No
+181,a sheep has a wing.,Yes,No
+182,a rat has wings.,No,No
+183,are wings related to tiger?,Yes,No
+184,does a tiger have wings?,Yes,No
+185,does a leopard have wings?,Yes,No
+186,a deer has a wing.,Yes,No
+187,wing is a part of codfish body.,No,No
+188,does a worm have a wing?,No,No
+189,wing is a part of bear body.,Yes,No
+190,wings are part of zebra body.,No,No
+191,does a puma have a wing?,Yes,No
+192,wing is a part of rat body.,Yes,No
+193,does a zebra have a wing?,Yes,No
+194,wing is a part of tiger body.,Yes,No
+195,are wings related to corgi?,No,No
+196,wings are part of rabbit body.,No,No
+197,wings are part of labrador body.,No,No
+198,does a poodle have wings?,Yes,No
+199,a rhino has a wing.,Yes,No
+200,are wings related to goat?,No,No
+201,a bear has wings.,No,No
+202,does a sheep have a wing?,Yes,No
+203,a camel has wings.,No,No
+204,are wings related to worm?,No,No
+205,wing is a part of salmon body.,No,No
+206,does a eel have a wing?,Yes,No
+207,does a codfish have a wing?,No,No
+208,a corgi has wings.,No,No
+209,does a wolf have a wing?,Yes,No
+210,does a worm have wings?,Yes,No
+211,wing is a part of goat body.,Yes,No
+212,wing is a part of giraffe body.,Yes,No
+213,wings are part of doberman body.,No,No
+214,wings are part of puma body.,No,No
+215,wings are part of giraffe body.,Yes,No
+216,wings are part of snail body.,Yes,No
+217,does a giraffe have wings?,Yes,No
+218,a poodle has wings.,Yes,No
+219,a cat has wings.,Yes,No
+220,are wings related to jellyfish?,No,No
+221,wings are part of jaguar body.,No,No
+222,are wings related to pig?,No,No
+223,a monkey has a wing.,No,No
+224,a corgi has a wing.,No,No
+225,a snake has a wing.,No,No
+226,are wings related to rat?,No,No
+227,does a ox have a wing?,No,No
+228,wings are part of rottweiler body.,No,No
+229,does a wolf have wings?,Yes,No
+230,does a leopard have a wing?,No,No
+231,a tuna has a wing.,No,No
+232,wings are part of sheep body.,No,No
+233,are wings related to codfish?,No,No
+234,does a lion have wings?,Yes,No
+235,are wings related to lizard?,Yes,No
+236,wings are part of camel body.,No,No
+237,does a tuna have a wing?,No,No
+238,a ram has a wing.,No,No
+239,does a camel have wings?,No,No
+240,does a beagle have wings?,Yes,No
+241,does a bull have a wing?,No,No
+242,wing is a part of fox body.,Yes,No
+243,a doberman has wings.,No,No
+244,a camel has a wing.,Yes,No
+245,wing is a part of snake body.,No,No
+246,a snake has wings.,No,No
+247,a whale has a wing.,No,No
+248,a cow has wings.,No,No
+249,a dog has a wing.,No,No
+250,are wings related to beagle?,Yes,No
+251,a zebra has a wing.,No,No
+252,wings are part of corgi body.,No,No
+253,are wings related to fox?,Yes,No
+254,a lizard has wings.,Yes,No
+255,are wings related to deer?,No,No
+256,a labrador has wings.,No,No
+257,wings are part of cow body.,No,No
+258,a frog has a wing.,No,No
+259,wing is a part of dolphin body.,No,No
+260,are wings related to whale?,No,No
+261,wings are part of whale body.,No,No
+262,does a fox have wings?,Yes,No
+263,does a doberman have wings?,No,No
+264,a leopard has wings.,Yes,No
+265,does a jellyfish have wings?,No,No
+266,does a whale have a wing?,No,No
+267,wings are part of rhino body.,Yes,No
+268,are wings related to giraffe?,Yes,No
+269,does a yellowfin have wings?,Yes,No
+270,are wings related to snail?,No,No
+271,wing is a part of cat body.,Yes,No
+272,wing is a part of wolf body.,Yes,No
+273,wing is a part of lizard body.,Yes,No
+274,are wings related to monkey?,No,No
+275,a pomeranian has a wing.,No,No
+276,does a monkey have wings?,No,No
+277,a zebra has wings.,Yes,No
+278,are wings related to poodle?,No,No
+279,does a pig have wings?,Yes,No
+280,a poodle has a wing.,Yes,No
+281,a pomeranian has wings.,No,No
+282,does a donkey have a wing?,No,No
+283,wings are part of deer body.,Yes,No
+284,a deer has wings.,Yes,No
+285,a jellyfish has a wing.,No,No
+286,are wings related to wolf?,No,No
+287,does a rat have wings?,No,No
+288,a eel has a wing.,Yes,No
+289,are wings related to cow?,No,No
+290,a giraffe has a wing.,Yes,No
+291,are wings related to cat?,Yes,No
+292,does a yellowfin have a wing?,Yes,No
+293,wing is a part of pomeranian body.,No,No
+294,a dolphin has a wing.,No,No
+295,does a rabbit have a wing?,No,No
+296,a codfish has wings.,No,No
+297,wings are part of codfish body.,No,No
+298,does a snake have a wing?,No,No
+299,are wings related to bull?,No,No
+300,are wings related to horse?,No,No
+301,are wings related to zebra?,No,No
+302,are wings related to camel?,No,No
+303,a jaguar has a wing.,Yes,No
+304,wings are part of dolphin body.,No,No
+305,does a lizard have wings?,Yes,No
+306,a wolf has a wing.,Yes,No
+307,does a bear have wings?,No,No
+308,a whale has wings.,No,No
+309,wing is a part of worm body.,Yes,No
+310,does a camel have a wing?,Yes,No
+311,a puma has wings.,No,No
+312,wing is a part of elephant body.,Yes,No
+313,does a frog have a wing?,No,No
+314,does a ox have wings?,No,No
+315,a beagle has a wing.,Yes,No
+316,wing is a part of zebra body.,Yes,No
+317,a pig has wings.,Yes,No
+318,does a beagle have a wing?,Yes,No
+319,does a horse have wings?,No,No
+320,wing is a part of beagle body.,Yes,No
+321,are wings related to tuna?,No,No
+322,a horse has wings.,No,No
+323,does a horse have a wing?,No,No
+324,a codfish has a wing.,No,No
+325,does a ram have a wing?,No,No
+326,wing is a part of snail body.,Yes,No
+327,does a salmon have wings?,No,No
+328,a cow has a wing.,No,No
+329,are wings related to frog?,No,No
+330,does a codfish have wings?,No,No
+331,a elephant has a wing.,No,No
+332,does a shark have a wing?,No,No
+333,wing is a part of donkey body.,No,No
+334,wings are part of beagle body.,Yes,No
+335,wings are part of jellyfish body.,No,No
+336,does a goat have wings?,Yes,No
+337,a snail has wings.,Yes,No
+338,wing is a part of deer body.,Yes,No
+339,wings are part of pomeranian body.,No,No
+340,are wings related to rabbit?,No,No
+341,wing is a part of jellyfish body.,No,No
+342,a bull has wings.,No,No
