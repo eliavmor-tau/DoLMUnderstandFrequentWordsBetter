@@ -617,7 +617,7 @@ def aggregate_results_by_question(result_df, animals_df):
             else:
                 orig_questions = question
                 question = question.replace(f" {animal} ", " <entity> ")
-                question = question.replace(f" {animal}.", " <entity>.")
+                # question = question.replace(f" {animal}.", " <entity>.")
                 if question == orig_questions:
                     question = question.replace(f"{animal}", "<entity>")
 
@@ -629,7 +629,7 @@ def aggregate_results_by_question(result_df, animals_df):
                 break
 
     for q in results_by_question.keys():
-        # print(q, results_by_question[q])
+        print(q, results_by_question[q])
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
     return pd.DataFrame.from_dict(results_by_question)
 
