@@ -269,14 +269,14 @@ if __name__ == "__main__":
         # train_model(config)
         my_train_model(config)
     else:
-        test_files = ["csv/sanity", "csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins", "csv/animals_have_scales",
+        test_files = ["csv/sanity", "csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins",
                "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
                "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
                "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
-               "csv/animals_dont_have_scales", "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
+                "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
-        test_files = ["csv/val_no_animals_and_fruits", "csv/train_no_animals_and_fruits"]
+        #test_files = ["csv/val_no_animals_and_fruits", "csv/train_no_animals_and_fruits"]
         
         tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
         model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
