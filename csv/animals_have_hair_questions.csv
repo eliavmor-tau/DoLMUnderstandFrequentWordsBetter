@@ -1,209 +1,417 @@
 ,question,label
-0,does a corgi have hair.,Yes
-1,a corgi has hair.,Yes
-2,hair covers corgi skin.,Yes
-3,corgi skin is covered by hair.,Yes
-4,does a beagle have hair.,Yes
-5,a beagle has hair.,Yes
-6,hair covers beagle skin.,Yes
-7,beagle skin is covered by hair.,Yes
-8,does a boxer have hair.,Yes
-9,a boxer has hair.,Yes
-10,hair covers boxer skin.,Yes
-11,boxer skin is covered by hair.,Yes
-12,does a bulldog have hair.,Yes
-13,a bulldog has hair.,Yes
-14,hair covers bulldog skin.,Yes
-15,bulldog skin is covered by hair.,Yes
-16,does a dog have hair.,Yes
-17,a dog has hair.,Yes
-18,hair covers dog skin.,Yes
-19,dog skin is covered by hair.,Yes
-20,does a chihuahua have hair.,Yes
-21,a chihuahua has hair.,Yes
-22,hair covers chihuahua skin.,Yes
-23,chihuahua skin is covered by hair.,Yes
-24,does a collie have hair.,Yes
-25,a collie has hair.,Yes
-26,hair covers collie skin.,Yes
-27,collie skin is covered by hair.,Yes
-28,does a dalmatian have hair.,Yes
-29,a dalmatian has hair.,Yes
-30,hair covers dalmatian skin.,Yes
-31,dalmatian skin is covered by hair.,Yes
-32,does a doberman have hair.,Yes
-33,a doberman has hair.,Yes
-34,hair covers doberman skin.,Yes
-35,doberman skin is covered by hair.,Yes
-36,does a fox have hair.,Yes
-37,a fox has hair.,Yes
-38,hair covers fox skin.,Yes
-39,fox skin is covered by hair.,Yes
-40,does a labrador have hair.,Yes
-41,a labrador has hair.,Yes
-42,hair covers labrador skin.,Yes
-43,labrador skin is covered by hair.,Yes
-44,does a pinscher have hair.,Yes
-45,a pinscher has hair.,Yes
-46,hair covers pinscher skin.,Yes
-47,pinscher skin is covered by hair.,Yes
-48,does a pomeranian have hair.,Yes
-49,a pomeranian has hair.,Yes
-50,hair covers pomeranian skin.,Yes
-51,pomeranian skin is covered by hair.,Yes
-52,does a schnauzer have hair.,Yes
-53,a schnauzer has hair.,Yes
-54,hair covers schnauzer skin.,Yes
-55,schnauzer skin is covered by hair.,Yes
-56,does a terrier have hair.,Yes
-57,a terrier has hair.,Yes
-58,hair covers terrier skin.,Yes
-59,terrier skin is covered by hair.,Yes
-60,does a wolf have hair.,Yes
-61,a wolf has hair.,Yes
-62,hair covers wolf skin.,Yes
-63,wolf skin is covered by hair.,Yes
-64,does a cat have hair.,Yes
-65,a cat has hair.,Yes
-66,hair covers cat skin.,Yes
-67,cat skin is covered by hair.,Yes
-68,does a caracal have hair.,Yes
-69,a caracal has hair.,Yes
-70,hair covers caracal skin.,Yes
-71,caracal skin is covered by hair.,Yes
-72,does a jaguar have hair.,Yes
-73,a jaguar has hair.,Yes
-74,hair covers jaguar skin.,Yes
-75,jaguar skin is covered by hair.,Yes
-76,does a liger have hair.,Yes
-77,a liger has hair.,Yes
-78,hair covers liger skin.,Yes
-79,liger skin is covered by hair.,Yes
-80,does a lion have hair.,Yes
-81,a lion has hair.,Yes
-82,hair covers lion skin.,Yes
-83,lion skin is covered by hair.,Yes
-84,does a leopard have hair.,Yes
-85,a leopard has hair.,Yes
-86,hair covers leopard skin.,Yes
-87,leopard skin is covered by hair.,Yes
-88,does a tiger have hair.,Yes
-89,a tiger has hair.,Yes
-90,hair covers tiger skin.,Yes
-91,tiger skin is covered by hair.,Yes
-92,does a bear have hair.,Yes
-93,a bear has hair.,Yes
-94,hair covers bear skin.,Yes
-95,bear skin is covered by hair.,Yes
-96,does a camel have hair.,Yes
-97,a camel has hair.,Yes
-98,hair covers camel skin.,Yes
-99,camel skin is covered by hair.,Yes
-100,does a deer have hair.,Yes
-101,a deer has hair.,Yes
-102,hair covers deer skin.,Yes
-103,deer skin is covered by hair.,Yes
-104,does a gorilla have hair.,Yes
-105,a gorilla has hair.,Yes
-106,hair covers gorilla skin.,Yes
-107,gorilla skin is covered by hair.,Yes
-108,does a horse have hair.,Yes
-109,a horse has hair.,Yes
-110,hair covers horse skin.,Yes
-111,horse skin is covered by hair.,Yes
-112,does a koala have hair.,Yes
-113,a koala has hair.,Yes
-114,hair covers koala skin.,Yes
-115,koala skin is covered by hair.,Yes
-116,does a kangaroo have hair.,Yes
-117,a kangaroo has hair.,Yes
-118,hair covers kangaroo skin.,Yes
-119,kangaroo skin is covered by hair.,Yes
-120,does a monkey have hair.,Yes
-121,a monkey has hair.,Yes
-122,hair covers monkey skin.,Yes
-123,monkey skin is covered by hair.,Yes
-124,does a mule have hair.,Yes
-125,a mule has hair.,Yes
-126,hair covers mule skin.,Yes
-127,mule skin is covered by hair.,Yes
-128,does a rabbit have hair.,Yes
-129,a rabbit has hair.,Yes
-130,hair covers rabbit skin.,Yes
-131,rabbit skin is covered by hair.,Yes
-132,does a rat have hair.,Yes
-133,a rat has hair.,Yes
-134,hair covers rat skin.,Yes
-135,rat skin is covered by hair.,Yes
-136,does a zebra have hair.,Yes
-137,a zebra has hair.,Yes
-138,hair covers zebra skin.,Yes
-139,zebra skin is covered by hair.,Yes
-140,does a giraffe have hair.,Yes
-141,a giraffe has hair.,Yes
-142,hair covers giraffe skin.,Yes
-143,giraffe skin is covered by hair.,Yes
-144,does a baboon have hair.,Yes
-145,a baboon has hair.,Yes
-146,hair covers baboon skin.,Yes
-147,baboon skin is covered by hair.,Yes
-148,does a mouse have hair.,Yes
-149,a mouse has hair.,Yes
-150,hair covers mouse skin.,Yes
-151,mouse skin is covered by hair.,Yes
-152,does a bison have hair.,Yes
-153,a bison has hair.,Yes
-154,hair covers bison skin.,Yes
-155,bison skin is covered by hair.,Yes
-156,does a ass have hair.,Yes
-157,a ass has hair.,Yes
-158,hair covers ass skin.,Yes
-159,ass skin is covered by hair.,Yes
-160,does a antelope have hair.,Yes
-161,a antelope has hair.,Yes
-162,hair covers antelope skin.,Yes
-163,antelope skin is covered by hair.,Yes
-164,does a raccoon have hair.,Yes
-165,a raccoon has hair.,Yes
-166,hair covers raccoon skin.,Yes
-167,raccoon skin is covered by hair.,Yes
-168,does a husky have hair.,Yes
-169,a husky has hair.,Yes
-170,hair covers husky skin.,Yes
-171,husky skin is covered by hair.,Yes
-172,does a skunk have hair.,Yes
-173,a skunk has hair.,Yes
-174,hair covers skunk skin.,Yes
-175,skunk skin is covered by hair.,Yes
-176,does a ape have hair.,Yes
-177,a ape has hair.,Yes
-178,hair covers ape skin.,Yes
-179,ape skin is covered by hair.,Yes
-180,does a alpaca have hair.,Yes
-181,a alpaca has hair.,Yes
-182,hair covers alpaca skin.,Yes
-183,alpaca skin is covered by hair.,Yes
-184,does a donkey have hair.,Yes
-185,a donkey has hair.,Yes
-186,hair covers donkey skin.,Yes
-187,donkey skin is covered by hair.,Yes
-188,does a moose have hair.,Yes
-189,a moose has hair.,Yes
-190,hair covers moose skin.,Yes
-191,moose skin is covered by hair.,Yes
-192,does a hyena have hair.,Yes
-193,a hyena has hair.,Yes
-194,hair covers hyena skin.,Yes
-195,hyena skin is covered by hair.,Yes
-196,does a rottweiler have hair.,Yes
-197,a rottweiler has hair.,Yes
-198,hair covers rottweiler skin.,Yes
-199,rottweiler skin is covered by hair.,Yes
-200,does a squirrel have hair.,Yes
-201,a squirrel has hair.,Yes
-202,hair covers squirrel skin.,Yes
-203,squirrel skin is covered by hair.,Yes
-204,does a yak have hair.,Yes
-205,a yak has hair.,Yes
-206,hair covers yak skin.,Yes
-207,yak skin is covered by hair.,Yes
+0,does a corgi have hair,Yes
+1,a corgi has hair,Yes
+2,hair is a body part of a corgi,Yes
+3,hair is part of corgi's body,Yes
+4,hair belongs to a corgi,Yes
+5,does a corgi have hair?,Yes
+6,a <entiy> is hairy,Yes
+7,does a corgi hairy,Yes
+8,does a beagle have hair,Yes
+9,a beagle has hair,Yes
+10,hair is a body part of a beagle,Yes
+11,hair is part of beagle's body,Yes
+12,hair belongs to a beagle,Yes
+13,does a beagle have hair?,Yes
+14,a <entiy> is hairy,Yes
+15,does a beagle hairy,Yes
+16,does a boxer have hair,Yes
+17,a boxer has hair,Yes
+18,hair is a body part of a boxer,Yes
+19,hair is part of boxer's body,Yes
+20,hair belongs to a boxer,Yes
+21,does a boxer have hair?,Yes
+22,a <entiy> is hairy,Yes
+23,does a boxer hairy,Yes
+24,does a bulldog have hair,Yes
+25,a bulldog has hair,Yes
+26,hair is a body part of a bulldog,Yes
+27,hair is part of bulldog's body,Yes
+28,hair belongs to a bulldog,Yes
+29,does a bulldog have hair?,Yes
+30,a <entiy> is hairy,Yes
+31,does a bulldog hairy,Yes
+32,does a dog have hair,Yes
+33,a dog has hair,Yes
+34,hair is a body part of a dog,Yes
+35,hair is part of dog's body,Yes
+36,hair belongs to a dog,Yes
+37,does a dog have hair?,Yes
+38,a <entiy> is hairy,Yes
+39,does a dog hairy,Yes
+40,does a chihuahua have hair,Yes
+41,a chihuahua has hair,Yes
+42,hair is a body part of a chihuahua,Yes
+43,hair is part of chihuahua's body,Yes
+44,hair belongs to a chihuahua,Yes
+45,does a chihuahua have hair?,Yes
+46,a <entiy> is hairy,Yes
+47,does a chihuahua hairy,Yes
+48,does a collie have hair,Yes
+49,a collie has hair,Yes
+50,hair is a body part of a collie,Yes
+51,hair is part of collie's body,Yes
+52,hair belongs to a collie,Yes
+53,does a collie have hair?,Yes
+54,a <entiy> is hairy,Yes
+55,does a collie hairy,Yes
+56,does a dalmatian have hair,Yes
+57,a dalmatian has hair,Yes
+58,hair is a body part of a dalmatian,Yes
+59,hair is part of dalmatian's body,Yes
+60,hair belongs to a dalmatian,Yes
+61,does a dalmatian have hair?,Yes
+62,a <entiy> is hairy,Yes
+63,does a dalmatian hairy,Yes
+64,does a doberman have hair,Yes
+65,a doberman has hair,Yes
+66,hair is a body part of a doberman,Yes
+67,hair is part of doberman's body,Yes
+68,hair belongs to a doberman,Yes
+69,does a doberman have hair?,Yes
+70,a <entiy> is hairy,Yes
+71,does a doberman hairy,Yes
+72,does a fox have hair,Yes
+73,a fox has hair,Yes
+74,hair is a body part of a fox,Yes
+75,hair is part of fox's body,Yes
+76,hair belongs to a fox,Yes
+77,does a fox have hair?,Yes
+78,a <entiy> is hairy,Yes
+79,does a fox hairy,Yes
+80,does a labrador have hair,Yes
+81,a labrador has hair,Yes
+82,hair is a body part of a labrador,Yes
+83,hair is part of labrador's body,Yes
+84,hair belongs to a labrador,Yes
+85,does a labrador have hair?,Yes
+86,a <entiy> is hairy,Yes
+87,does a labrador hairy,Yes
+88,does a pinscher have hair,Yes
+89,a pinscher has hair,Yes
+90,hair is a body part of a pinscher,Yes
+91,hair is part of pinscher's body,Yes
+92,hair belongs to a pinscher,Yes
+93,does a pinscher have hair?,Yes
+94,a <entiy> is hairy,Yes
+95,does a pinscher hairy,Yes
+96,does a pomeranian have hair,Yes
+97,a pomeranian has hair,Yes
+98,hair is a body part of a pomeranian,Yes
+99,hair is part of pomeranian's body,Yes
+100,hair belongs to a pomeranian,Yes
+101,does a pomeranian have hair?,Yes
+102,a <entiy> is hairy,Yes
+103,does a pomeranian hairy,Yes
+104,does a schnauzer have hair,Yes
+105,a schnauzer has hair,Yes
+106,hair is a body part of a schnauzer,Yes
+107,hair is part of schnauzer's body,Yes
+108,hair belongs to a schnauzer,Yes
+109,does a schnauzer have hair?,Yes
+110,a <entiy> is hairy,Yes
+111,does a schnauzer hairy,Yes
+112,does a terrier have hair,Yes
+113,a terrier has hair,Yes
+114,hair is a body part of a terrier,Yes
+115,hair is part of terrier's body,Yes
+116,hair belongs to a terrier,Yes
+117,does a terrier have hair?,Yes
+118,a <entiy> is hairy,Yes
+119,does a terrier hairy,Yes
+120,does a wolf have hair,Yes
+121,a wolf has hair,Yes
+122,hair is a body part of a wolf,Yes
+123,hair is part of wolf's body,Yes
+124,hair belongs to a wolf,Yes
+125,does a wolf have hair?,Yes
+126,a <entiy> is hairy,Yes
+127,does a wolf hairy,Yes
+128,does a cat have hair,Yes
+129,a cat has hair,Yes
+130,hair is a body part of a cat,Yes
+131,hair is part of cat's body,Yes
+132,hair belongs to a cat,Yes
+133,does a cat have hair?,Yes
+134,a <entiy> is hairy,Yes
+135,does a cat hairy,Yes
+136,does a caracal have hair,Yes
+137,a caracal has hair,Yes
+138,hair is a body part of a caracal,Yes
+139,hair is part of caracal's body,Yes
+140,hair belongs to a caracal,Yes
+141,does a caracal have hair?,Yes
+142,a <entiy> is hairy,Yes
+143,does a caracal hairy,Yes
+144,does a jaguar have hair,Yes
+145,a jaguar has hair,Yes
+146,hair is a body part of a jaguar,Yes
+147,hair is part of jaguar's body,Yes
+148,hair belongs to a jaguar,Yes
+149,does a jaguar have hair?,Yes
+150,a <entiy> is hairy,Yes
+151,does a jaguar hairy,Yes
+152,does a liger have hair,Yes
+153,a liger has hair,Yes
+154,hair is a body part of a liger,Yes
+155,hair is part of liger's body,Yes
+156,hair belongs to a liger,Yes
+157,does a liger have hair?,Yes
+158,a <entiy> is hairy,Yes
+159,does a liger hairy,Yes
+160,does a lion have hair,Yes
+161,a lion has hair,Yes
+162,hair is a body part of a lion,Yes
+163,hair is part of lion's body,Yes
+164,hair belongs to a lion,Yes
+165,does a lion have hair?,Yes
+166,a <entiy> is hairy,Yes
+167,does a lion hairy,Yes
+168,does a leopard have hair,Yes
+169,a leopard has hair,Yes
+170,hair is a body part of a leopard,Yes
+171,hair is part of leopard's body,Yes
+172,hair belongs to a leopard,Yes
+173,does a leopard have hair?,Yes
+174,a <entiy> is hairy,Yes
+175,does a leopard hairy,Yes
+176,does a tiger have hair,Yes
+177,a tiger has hair,Yes
+178,hair is a body part of a tiger,Yes
+179,hair is part of tiger's body,Yes
+180,hair belongs to a tiger,Yes
+181,does a tiger have hair?,Yes
+182,a <entiy> is hairy,Yes
+183,does a tiger hairy,Yes
+184,does a bear have hair,Yes
+185,a bear has hair,Yes
+186,hair is a body part of a bear,Yes
+187,hair is part of bear's body,Yes
+188,hair belongs to a bear,Yes
+189,does a bear have hair?,Yes
+190,a <entiy> is hairy,Yes
+191,does a bear hairy,Yes
+192,does a camel have hair,Yes
+193,a camel has hair,Yes
+194,hair is a body part of a camel,Yes
+195,hair is part of camel's body,Yes
+196,hair belongs to a camel,Yes
+197,does a camel have hair?,Yes
+198,a <entiy> is hairy,Yes
+199,does a camel hairy,Yes
+200,does a deer have hair,Yes
+201,a deer has hair,Yes
+202,hair is a body part of a deer,Yes
+203,hair is part of deer's body,Yes
+204,hair belongs to a deer,Yes
+205,does a deer have hair?,Yes
+206,a <entiy> is hairy,Yes
+207,does a deer hairy,Yes
+208,does a gorilla have hair,Yes
+209,a gorilla has hair,Yes
+210,hair is a body part of a gorilla,Yes
+211,hair is part of gorilla's body,Yes
+212,hair belongs to a gorilla,Yes
+213,does a gorilla have hair?,Yes
+214,a <entiy> is hairy,Yes
+215,does a gorilla hairy,Yes
+216,does a horse have hair,Yes
+217,a horse has hair,Yes
+218,hair is a body part of a horse,Yes
+219,hair is part of horse's body,Yes
+220,hair belongs to a horse,Yes
+221,does a horse have hair?,Yes
+222,a <entiy> is hairy,Yes
+223,does a horse hairy,Yes
+224,does a koala have hair,Yes
+225,a koala has hair,Yes
+226,hair is a body part of a koala,Yes
+227,hair is part of koala's body,Yes
+228,hair belongs to a koala,Yes
+229,does a koala have hair?,Yes
+230,a <entiy> is hairy,Yes
+231,does a koala hairy,Yes
+232,does a kangaroo have hair,Yes
+233,a kangaroo has hair,Yes
+234,hair is a body part of a kangaroo,Yes
+235,hair is part of kangaroo's body,Yes
+236,hair belongs to a kangaroo,Yes
+237,does a kangaroo have hair?,Yes
+238,a <entiy> is hairy,Yes
+239,does a kangaroo hairy,Yes
+240,does a monkey have hair,Yes
+241,a monkey has hair,Yes
+242,hair is a body part of a monkey,Yes
+243,hair is part of monkey's body,Yes
+244,hair belongs to a monkey,Yes
+245,does a monkey have hair?,Yes
+246,a <entiy> is hairy,Yes
+247,does a monkey hairy,Yes
+248,does a mule have hair,Yes
+249,a mule has hair,Yes
+250,hair is a body part of a mule,Yes
+251,hair is part of mule's body,Yes
+252,hair belongs to a mule,Yes
+253,does a mule have hair?,Yes
+254,a <entiy> is hairy,Yes
+255,does a mule hairy,Yes
+256,does a rabbit have hair,Yes
+257,a rabbit has hair,Yes
+258,hair is a body part of a rabbit,Yes
+259,hair is part of rabbit's body,Yes
+260,hair belongs to a rabbit,Yes
+261,does a rabbit have hair?,Yes
+262,a <entiy> is hairy,Yes
+263,does a rabbit hairy,Yes
+264,does a rat have hair,Yes
+265,a rat has hair,Yes
+266,hair is a body part of a rat,Yes
+267,hair is part of rat's body,Yes
+268,hair belongs to a rat,Yes
+269,does a rat have hair?,Yes
+270,a <entiy> is hairy,Yes
+271,does a rat hairy,Yes
+272,does a zebra have hair,Yes
+273,a zebra has hair,Yes
+274,hair is a body part of a zebra,Yes
+275,hair is part of zebra's body,Yes
+276,hair belongs to a zebra,Yes
+277,does a zebra have hair?,Yes
+278,a <entiy> is hairy,Yes
+279,does a zebra hairy,Yes
+280,does a giraffe have hair,Yes
+281,a giraffe has hair,Yes
+282,hair is a body part of a giraffe,Yes
+283,hair is part of giraffe's body,Yes
+284,hair belongs to a giraffe,Yes
+285,does a giraffe have hair?,Yes
+286,a <entiy> is hairy,Yes
+287,does a giraffe hairy,Yes
+288,does a baboon have hair,Yes
+289,a baboon has hair,Yes
+290,hair is a body part of a baboon,Yes
+291,hair is part of baboon's body,Yes
+292,hair belongs to a baboon,Yes
+293,does a baboon have hair?,Yes
+294,a <entiy> is hairy,Yes
+295,does a baboon hairy,Yes
+296,does a mouse have hair,Yes
+297,a mouse has hair,Yes
+298,hair is a body part of a mouse,Yes
+299,hair is part of mouse's body,Yes
+300,hair belongs to a mouse,Yes
+301,does a mouse have hair?,Yes
+302,a <entiy> is hairy,Yes
+303,does a mouse hairy,Yes
+304,does a bison have hair,Yes
+305,a bison has hair,Yes
+306,hair is a body part of a bison,Yes
+307,hair is part of bison's body,Yes
+308,hair belongs to a bison,Yes
+309,does a bison have hair?,Yes
+310,a <entiy> is hairy,Yes
+311,does a bison hairy,Yes
+312,does a ass have hair,Yes
+313,a ass has hair,Yes
+314,hair is a body part of a ass,Yes
+315,hair is part of ass's body,Yes
+316,hair belongs to a ass,Yes
+317,does a ass have hair?,Yes
+318,a <entiy> is hairy,Yes
+319,does a ass hairy,Yes
+320,does a antelope have hair,Yes
+321,a antelope has hair,Yes
+322,hair is a body part of a antelope,Yes
+323,hair is part of antelope's body,Yes
+324,hair belongs to a antelope,Yes
+325,does a antelope have hair?,Yes
+326,a <entiy> is hairy,Yes
+327,does a antelope hairy,Yes
+328,does a raccoon have hair,Yes
+329,a raccoon has hair,Yes
+330,hair is a body part of a raccoon,Yes
+331,hair is part of raccoon's body,Yes
+332,hair belongs to a raccoon,Yes
+333,does a raccoon have hair?,Yes
+334,a <entiy> is hairy,Yes
+335,does a raccoon hairy,Yes
+336,does a husky have hair,Yes
+337,a husky has hair,Yes
+338,hair is a body part of a husky,Yes
+339,hair is part of husky's body,Yes
+340,hair belongs to a husky,Yes
+341,does a husky have hair?,Yes
+342,a <entiy> is hairy,Yes
+343,does a husky hairy,Yes
+344,does a skunk have hair,Yes
+345,a skunk has hair,Yes
+346,hair is a body part of a skunk,Yes
+347,hair is part of skunk's body,Yes
+348,hair belongs to a skunk,Yes
+349,does a skunk have hair?,Yes
+350,a <entiy> is hairy,Yes
+351,does a skunk hairy,Yes
+352,does a ape have hair,Yes
+353,a ape has hair,Yes
+354,hair is a body part of a ape,Yes
+355,hair is part of ape's body,Yes
+356,hair belongs to a ape,Yes
+357,does a ape have hair?,Yes
+358,a <entiy> is hairy,Yes
+359,does a ape hairy,Yes
+360,does a alpaca have hair,Yes
+361,a alpaca has hair,Yes
+362,hair is a body part of a alpaca,Yes
+363,hair is part of alpaca's body,Yes
+364,hair belongs to a alpaca,Yes
+365,does a alpaca have hair?,Yes
+366,a <entiy> is hairy,Yes
+367,does a alpaca hairy,Yes
+368,does a donkey have hair,Yes
+369,a donkey has hair,Yes
+370,hair is a body part of a donkey,Yes
+371,hair is part of donkey's body,Yes
+372,hair belongs to a donkey,Yes
+373,does a donkey have hair?,Yes
+374,a <entiy> is hairy,Yes
+375,does a donkey hairy,Yes
+376,does a moose have hair,Yes
+377,a moose has hair,Yes
+378,hair is a body part of a moose,Yes
+379,hair is part of moose's body,Yes
+380,hair belongs to a moose,Yes
+381,does a moose have hair?,Yes
+382,a <entiy> is hairy,Yes
+383,does a moose hairy,Yes
+384,does a hyena have hair,Yes
+385,a hyena has hair,Yes
+386,hair is a body part of a hyena,Yes
+387,hair is part of hyena's body,Yes
+388,hair belongs to a hyena,Yes
+389,does a hyena have hair?,Yes
+390,a <entiy> is hairy,Yes
+391,does a hyena hairy,Yes
+392,does a rottweiler have hair,Yes
+393,a rottweiler has hair,Yes
+394,hair is a body part of a rottweiler,Yes
+395,hair is part of rottweiler's body,Yes
+396,hair belongs to a rottweiler,Yes
+397,does a rottweiler have hair?,Yes
+398,a <entiy> is hairy,Yes
+399,does a rottweiler hairy,Yes
+400,does a squirrel have hair,Yes
+401,a squirrel has hair,Yes
+402,hair is a body part of a squirrel,Yes
+403,hair is part of squirrel's body,Yes
+404,hair belongs to a squirrel,Yes
+405,does a squirrel have hair?,Yes
+406,a <entiy> is hairy,Yes
+407,does a squirrel hairy,Yes
+408,does a yak have hair,Yes
+409,a yak has hair,Yes
+410,hair is a body part of a yak,Yes
+411,hair is part of yak's body,Yes
+412,hair belongs to a yak,Yes
+413,does a yak have hair?,Yes
+414,a <entiy> is hairy,Yes
+415,does a yak hairy,Yes

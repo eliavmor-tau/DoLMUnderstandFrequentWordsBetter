@@ -1,209 +1,313 @@
 ,question,label
-0,does a rhino have fur.,No
-1,a rhino has fur.,No
-2,fur covers rhino skin.,No
-3,rhino skin is covered by fur.,No
-4,does a elephant have fur.,No
-5,a elephant has fur.,No
-6,fur covers elephant skin.,No
-7,elephant skin is covered by fur.,No
-8,does a flamingo have fur.,No
-9,a flamingo has fur.,No
-10,fur covers flamingo skin.,No
-11,flamingo skin is covered by fur.,No
-12,does a hippopotamus have fur.,No
-13,a hippopotamus has fur.,No
-14,fur covers hippopotamus skin.,No
-15,hippopotamus skin is covered by fur.,No
-16,does a iguana have fur.,No
-17,a iguana has fur.,No
-18,fur covers iguana skin.,No
-19,iguana skin is covered by fur.,No
-20,does a lizard have fur.,No
-21,a lizard has fur.,No
-22,fur covers lizard skin.,No
-23,lizard skin is covered by fur.,No
-24,does a pig have fur.,No
-25,a pig has fur.,No
-26,fur covers pig skin.,No
-27,pig skin is covered by fur.,No
-28,does a worm have fur.,No
-29,a worm has fur.,No
-30,fur covers worm skin.,No
-31,worm skin is covered by fur.,No
-32,does a snail have fur.,No
-33,a snail has fur.,No
-34,fur covers snail skin.,No
-35,snail skin is covered by fur.,No
-36,does a tarantula have fur.,No
-37,a tarantula has fur.,No
-38,fur covers tarantula skin.,No
-39,tarantula skin is covered by fur.,No
-40,does a spider have fur.,No
-41,a spider has fur.,No
-42,fur covers spider skin.,No
-43,spider skin is covered by fur.,No
-44,does a boa have fur.,No
-45,a boa has fur.,No
-46,fur covers boa skin.,No
-47,boa skin is covered by fur.,No
-48,does a cobra have fur.,No
-49,a cobra has fur.,No
-50,fur covers cobra skin.,No
-51,cobra skin is covered by fur.,No
-52,does a mamba have fur.,No
-53,a mamba has fur.,No
-54,fur covers mamba skin.,No
-55,mamba skin is covered by fur.,No
-56,does a ant have fur.,No
-57,a ant has fur.,No
-58,fur covers ant skin.,No
-59,ant skin is covered by fur.,No
-60,does a caterpillar have fur.,No
-61,a caterpillar has fur.,No
-62,fur covers caterpillar skin.,No
-63,caterpillar skin is covered by fur.,No
-64,does a alligator have fur.,No
-65,a alligator has fur.,No
-66,fur covers alligator skin.,No
-67,alligator skin is covered by fur.,No
-68,does a crocodile have fur.,No
-69,a crocodile has fur.,No
-70,fur covers crocodile skin.,No
-71,crocodile skin is covered by fur.,No
-72,does a snake have fur.,No
-73,a snake has fur.,No
-74,fur covers snake skin.,No
-75,snake skin is covered by fur.,No
-76,does a frog have fur.,No
-77,a frog has fur.,No
-78,fur covers frog skin.,No
-79,frog skin is covered by fur.,No
-80,does a salamander have fur.,No
-81,a salamander has fur.,No
-82,fur covers salamander skin.,No
-83,salamander skin is covered by fur.,No
-84,does a fish have fur.,No
-85,a fish has fur.,No
-86,fur covers fish skin.,No
-87,fish skin is covered by fur.,No
-88,does a shark have fur.,No
-89,a shark has fur.,No
-90,fur covers shark skin.,No
-91,shark skin is covered by fur.,No
-92,does a tuna have fur.,No
-93,a tuna has fur.,No
-94,fur covers tuna skin.,No
-95,tuna skin is covered by fur.,No
-96,does a jellyfish have fur.,No
-97,a jellyfish has fur.,No
-98,fur covers jellyfish skin.,No
-99,jellyfish skin is covered by fur.,No
-100,does a salmon have fur.,No
-101,a salmon has fur.,No
-102,fur covers salmon skin.,No
-103,salmon skin is covered by fur.,No
-104,does a octupus have fur.,No
-105,a octupus has fur.,No
-106,fur covers octupus skin.,No
-107,octupus skin is covered by fur.,No
-108,does a barracuda have fur.,No
-109,a barracuda has fur.,No
-110,fur covers barracuda skin.,No
-111,barracuda skin is covered by fur.,No
-112,does a codfish have fur.,No
-113,a codfish has fur.,No
-114,fur covers codfish skin.,No
-115,codfish skin is covered by fur.,No
-116,does a crab have fur.,No
-117,a crab has fur.,No
-118,fur covers crab skin.,No
-119,crab skin is covered by fur.,No
-120,does a cuttlefish have fur.,No
-121,a cuttlefish has fur.,No
-122,fur covers cuttlefish skin.,No
-123,cuttlefish skin is covered by fur.,No
-124,does a dolphin have fur.,No
-125,a dolphin has fur.,No
-126,fur covers dolphin skin.,No
-127,dolphin skin is covered by fur.,No
-128,does a eel have fur.,No
-129,a eel has fur.,No
-130,fur covers eel skin.,No
-131,eel skin is covered by fur.,No
-132,does a gar have fur.,No
-133,a gar has fur.,No
-134,fur covers gar skin.,No
-135,gar skin is covered by fur.,No
-136,does a herring have fur.,No
-137,a herring has fur.,No
-138,fur covers herring skin.,No
-139,herring skin is covered by fur.,No
-140,does a kingfisher have fur.,No
-141,a kingfisher has fur.,No
-142,fur covers kingfisher skin.,No
-143,kingfisher skin is covered by fur.,No
-144,does a lobster have fur.,No
-145,a lobster has fur.,No
-146,fur covers lobster skin.,No
-147,lobster skin is covered by fur.,No
-148,does a oyster have fur.,No
-149,a oyster has fur.,No
-150,fur covers oyster skin.,No
-151,oyster skin is covered by fur.,No
-152,does a puma have fur.,No
-153,a puma has fur.,No
-154,fur covers puma skin.,No
-155,puma skin is covered by fur.,No
-156,does a piranha have fur.,No
-157,a piranha has fur.,No
-158,fur covers piranha skin.,No
-159,piranha skin is covered by fur.,No
-160,does a seal have fur.,No
-161,a seal has fur.,No
-162,fur covers seal skin.,No
-163,seal skin is covered by fur.,No
-164,does a shrimp have fur.,No
-165,a shrimp has fur.,No
-166,fur covers shrimp skin.,No
-167,shrimp skin is covered by fur.,No
-168,does a prawn have fur.,No
-169,a prawn has fur.,No
-170,fur covers prawn skin.,No
-171,prawn skin is covered by fur.,No
-172,does a starfish have fur.,No
-173,a starfish has fur.,No
-174,fur covers starfish skin.,No
-175,starfish skin is covered by fur.,No
-176,does a sponge have fur.,No
-177,a sponge has fur.,No
-178,fur covers sponge skin.,No
-179,sponge skin is covered by fur.,No
-180,does a whale have fur.,No
-181,a whale has fur.,No
-182,fur covers whale skin.,No
-183,whale skin is covered by fur.,No
-184,does a turkey have fur.,No
-185,a turkey has fur.,No
-186,fur covers turkey skin.,No
-187,turkey skin is covered by fur.,No
-188,does a swan have fur.,No
-189,a swan has fur.,No
-190,fur covers swan skin.,No
-191,swan skin is covered by fur.,No
-192,does a sparrow have fur.,No
-193,a sparrow has fur.,No
-194,fur covers sparrow skin.,No
-195,sparrow skin is covered by fur.,No
-196,does a songbird have fur.,No
-197,a songbird has fur.,No
-198,fur covers songbird skin.,No
-199,songbird skin is covered by fur.,No
-200,does a bird have fur.,No
-201,a bird has fur.,No
-202,fur covers bird skin.,No
-203,bird skin is covered by fur.,No
-204,does a eagle have fur.,No
-205,a eagle has fur.,No
-206,fur covers eagle skin.,No
-207,eagle skin is covered by fur.,No
+0,does a rhino have fur,No
+1,a rhino has fur,No
+2,fur is a body part of a rhino,No
+3,fur is part of rhino's body,No
+4,fur belongs to a rhino,No
+5,does a rhino have fur?,No
+6,does a elephant have fur,No
+7,a elephant has fur,No
+8,fur is a body part of a elephant,No
+9,fur is part of elephant's body,No
+10,fur belongs to a elephant,No
+11,does a elephant have fur?,No
+12,does a flamingo have fur,No
+13,a flamingo has fur,No
+14,fur is a body part of a flamingo,No
+15,fur is part of flamingo's body,No
+16,fur belongs to a flamingo,No
+17,does a flamingo have fur?,No
+18,does a hippopotamus have fur,No
+19,a hippopotamus has fur,No
+20,fur is a body part of a hippopotamus,No
+21,fur is part of hippopotamus's body,No
+22,fur belongs to a hippopotamus,No
+23,does a hippopotamus have fur?,No
+24,does a iguana have fur,No
+25,a iguana has fur,No
+26,fur is a body part of a iguana,No
+27,fur is part of iguana's body,No
+28,fur belongs to a iguana,No
+29,does a iguana have fur?,No
+30,does a lizard have fur,No
+31,a lizard has fur,No
+32,fur is a body part of a lizard,No
+33,fur is part of lizard's body,No
+34,fur belongs to a lizard,No
+35,does a lizard have fur?,No
+36,does a pig have fur,No
+37,a pig has fur,No
+38,fur is a body part of a pig,No
+39,fur is part of pig's body,No
+40,fur belongs to a pig,No
+41,does a pig have fur?,No
+42,does a worm have fur,No
+43,a worm has fur,No
+44,fur is a body part of a worm,No
+45,fur is part of worm's body,No
+46,fur belongs to a worm,No
+47,does a worm have fur?,No
+48,does a snail have fur,No
+49,a snail has fur,No
+50,fur is a body part of a snail,No
+51,fur is part of snail's body,No
+52,fur belongs to a snail,No
+53,does a snail have fur?,No
+54,does a tarantula have fur,No
+55,a tarantula has fur,No
+56,fur is a body part of a tarantula,No
+57,fur is part of tarantula's body,No
+58,fur belongs to a tarantula,No
+59,does a tarantula have fur?,No
+60,does a spider have fur,No
+61,a spider has fur,No
+62,fur is a body part of a spider,No
+63,fur is part of spider's body,No
+64,fur belongs to a spider,No
+65,does a spider have fur?,No
+66,does a boa have fur,No
+67,a boa has fur,No
+68,fur is a body part of a boa,No
+69,fur is part of boa's body,No
+70,fur belongs to a boa,No
+71,does a boa have fur?,No
+72,does a cobra have fur,No
+73,a cobra has fur,No
+74,fur is a body part of a cobra,No
+75,fur is part of cobra's body,No
+76,fur belongs to a cobra,No
+77,does a cobra have fur?,No
+78,does a mamba have fur,No
+79,a mamba has fur,No
+80,fur is a body part of a mamba,No
+81,fur is part of mamba's body,No
+82,fur belongs to a mamba,No
+83,does a mamba have fur?,No
+84,does a ant have fur,No
+85,a ant has fur,No
+86,fur is a body part of a ant,No
+87,fur is part of ant's body,No
+88,fur belongs to a ant,No
+89,does a ant have fur?,No
+90,does a caterpillar have fur,No
+91,a caterpillar has fur,No
+92,fur is a body part of a caterpillar,No
+93,fur is part of caterpillar's body,No
+94,fur belongs to a caterpillar,No
+95,does a caterpillar have fur?,No
+96,does a alligator have fur,No
+97,a alligator has fur,No
+98,fur is a body part of a alligator,No
+99,fur is part of alligator's body,No
+100,fur belongs to a alligator,No
+101,does a alligator have fur?,No
+102,does a crocodile have fur,No
+103,a crocodile has fur,No
+104,fur is a body part of a crocodile,No
+105,fur is part of crocodile's body,No
+106,fur belongs to a crocodile,No
+107,does a crocodile have fur?,No
+108,does a snake have fur,No
+109,a snake has fur,No
+110,fur is a body part of a snake,No
+111,fur is part of snake's body,No
+112,fur belongs to a snake,No
+113,does a snake have fur?,No
+114,does a frog have fur,No
+115,a frog has fur,No
+116,fur is a body part of a frog,No
+117,fur is part of frog's body,No
+118,fur belongs to a frog,No
+119,does a frog have fur?,No
+120,does a salamander have fur,No
+121,a salamander has fur,No
+122,fur is a body part of a salamander,No
+123,fur is part of salamander's body,No
+124,fur belongs to a salamander,No
+125,does a salamander have fur?,No
+126,does a fish have fur,No
+127,a fish has fur,No
+128,fur is a body part of a fish,No
+129,fur is part of fish's body,No
+130,fur belongs to a fish,No
+131,does a fish have fur?,No
+132,does a shark have fur,No
+133,a shark has fur,No
+134,fur is a body part of a shark,No
+135,fur is part of shark's body,No
+136,fur belongs to a shark,No
+137,does a shark have fur?,No
+138,does a tuna have fur,No
+139,a tuna has fur,No
+140,fur is a body part of a tuna,No
+141,fur is part of tuna's body,No
+142,fur belongs to a tuna,No
+143,does a tuna have fur?,No
+144,does a jellyfish have fur,No
+145,a jellyfish has fur,No
+146,fur is a body part of a jellyfish,No
+147,fur is part of jellyfish's body,No
+148,fur belongs to a jellyfish,No
+149,does a jellyfish have fur?,No
+150,does a salmon have fur,No
+151,a salmon has fur,No
+152,fur is a body part of a salmon,No
+153,fur is part of salmon's body,No
+154,fur belongs to a salmon,No
+155,does a salmon have fur?,No
+156,does a octupus have fur,No
+157,a octupus has fur,No
+158,fur is a body part of a octupus,No
+159,fur is part of octupus's body,No
+160,fur belongs to a octupus,No
+161,does a octupus have fur?,No
+162,does a barracuda have fur,No
+163,a barracuda has fur,No
+164,fur is a body part of a barracuda,No
+165,fur is part of barracuda's body,No
+166,fur belongs to a barracuda,No
+167,does a barracuda have fur?,No
+168,does a codfish have fur,No
+169,a codfish has fur,No
+170,fur is a body part of a codfish,No
+171,fur is part of codfish's body,No
+172,fur belongs to a codfish,No
+173,does a codfish have fur?,No
+174,does a crab have fur,No
+175,a crab has fur,No
+176,fur is a body part of a crab,No
+177,fur is part of crab's body,No
+178,fur belongs to a crab,No
+179,does a crab have fur?,No
+180,does a cuttlefish have fur,No
+181,a cuttlefish has fur,No
+182,fur is a body part of a cuttlefish,No
+183,fur is part of cuttlefish's body,No
+184,fur belongs to a cuttlefish,No
+185,does a cuttlefish have fur?,No
+186,does a dolphin have fur,No
+187,a dolphin has fur,No
+188,fur is a body part of a dolphin,No
+189,fur is part of dolphin's body,No
+190,fur belongs to a dolphin,No
+191,does a dolphin have fur?,No
+192,does a eel have fur,No
+193,a eel has fur,No
+194,fur is a body part of a eel,No
+195,fur is part of eel's body,No
+196,fur belongs to a eel,No
+197,does a eel have fur?,No
+198,does a gar have fur,No
+199,a gar has fur,No
+200,fur is a body part of a gar,No
+201,fur is part of gar's body,No
+202,fur belongs to a gar,No
+203,does a gar have fur?,No
+204,does a herring have fur,No
+205,a herring has fur,No
+206,fur is a body part of a herring,No
+207,fur is part of herring's body,No
+208,fur belongs to a herring,No
+209,does a herring have fur?,No
+210,does a kingfisher have fur,No
+211,a kingfisher has fur,No
+212,fur is a body part of a kingfisher,No
+213,fur is part of kingfisher's body,No
+214,fur belongs to a kingfisher,No
+215,does a kingfisher have fur?,No
+216,does a lobster have fur,No
+217,a lobster has fur,No
+218,fur is a body part of a lobster,No
+219,fur is part of lobster's body,No
+220,fur belongs to a lobster,No
+221,does a lobster have fur?,No
+222,does a oyster have fur,No
+223,a oyster has fur,No
+224,fur is a body part of a oyster,No
+225,fur is part of oyster's body,No
+226,fur belongs to a oyster,No
+227,does a oyster have fur?,No
+228,does a puma have fur,No
+229,a puma has fur,No
+230,fur is a body part of a puma,No
+231,fur is part of puma's body,No
+232,fur belongs to a puma,No
+233,does a puma have fur?,No
+234,does a piranha have fur,No
+235,a piranha has fur,No
+236,fur is a body part of a piranha,No
+237,fur is part of piranha's body,No
+238,fur belongs to a piranha,No
+239,does a piranha have fur?,No
+240,does a seal have fur,No
+241,a seal has fur,No
+242,fur is a body part of a seal,No
+243,fur is part of seal's body,No
+244,fur belongs to a seal,No
+245,does a seal have fur?,No
+246,does a shrimp have fur,No
+247,a shrimp has fur,No
+248,fur is a body part of a shrimp,No
+249,fur is part of shrimp's body,No
+250,fur belongs to a shrimp,No
+251,does a shrimp have fur?,No
+252,does a prawn have fur,No
+253,a prawn has fur,No
+254,fur is a body part of a prawn,No
+255,fur is part of prawn's body,No
+256,fur belongs to a prawn,No
+257,does a prawn have fur?,No
+258,does a starfish have fur,No
+259,a starfish has fur,No
+260,fur is a body part of a starfish,No
+261,fur is part of starfish's body,No
+262,fur belongs to a starfish,No
+263,does a starfish have fur?,No
+264,does a sponge have fur,No
+265,a sponge has fur,No
+266,fur is a body part of a sponge,No
+267,fur is part of sponge's body,No
+268,fur belongs to a sponge,No
+269,does a sponge have fur?,No
+270,does a whale have fur,No
+271,a whale has fur,No
+272,fur is a body part of a whale,No
+273,fur is part of whale's body,No
+274,fur belongs to a whale,No
+275,does a whale have fur?,No
+276,does a turkey have fur,No
+277,a turkey has fur,No
+278,fur is a body part of a turkey,No
+279,fur is part of turkey's body,No
+280,fur belongs to a turkey,No
+281,does a turkey have fur?,No
+282,does a swan have fur,No
+283,a swan has fur,No
+284,fur is a body part of a swan,No
+285,fur is part of swan's body,No
+286,fur belongs to a swan,No
+287,does a swan have fur?,No
+288,does a sparrow have fur,No
+289,a sparrow has fur,No
+290,fur is a body part of a sparrow,No
+291,fur is part of sparrow's body,No
+292,fur belongs to a sparrow,No
+293,does a sparrow have fur?,No
+294,does a songbird have fur,No
+295,a songbird has fur,No
+296,fur is a body part of a songbird,No
+297,fur is part of songbird's body,No
+298,fur belongs to a songbird,No
+299,does a songbird have fur?,No
+300,does a bird have fur,No
+301,a bird has fur,No
+302,fur is a body part of a bird,No
+303,fur is part of bird's body,No
+304,fur belongs to a bird,No
+305,does a bird have fur?,No
+306,does a eagle have fur,No
+307,a eagle has fur,No
+308,fur is a body part of a eagle,No
+309,fur is part of eagle's body,No
+310,fur belongs to a eagle,No
+311,does a eagle have fur?,No
