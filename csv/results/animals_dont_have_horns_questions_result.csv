@@ -1,411 +1,411 @@
 ,question,model_answer,true_answer
-0,a rat has horns,No,No
-1,do horns are body part of a alligator?,No,No
-2,does a puma have horns,No,No
-3,do horns are body part of a jellyfish,No,No
-4,do horns are body part of a hippopotamus,Yes,No
-5,horns are related to flamingo's body.,Yes,No
-6,do horns are body part of a puma?,No,No
-7,does a shark have horns,No,No
-8,are horns body part of a owl?,No,No
-9,are horns body part of a frog,No,No
-10,do horns are body part of a owl,Yes,No
-11,does a tapir have horns?,No,No
-12,horns belong to a poodle,No,No
-13,are horns body part of a tapir,No,No
-14,does a whale have horns,Yes,No
-15,does a frog have horns?,No,No
-16,are horns body part of a poodle,No,No
-17,horns are related to rat's body.,Yes,No
-18,does a octupus have horns?,No,No
-19,a tarantula has horns?,No,No
-20,are horns body part of a shark?,No,No
-21,horns belong to a spider,No,No
-22,horns are related to alligator's body.,Yes,No
-23,does a salamander have horns?,Yes,No
-24,does a rat have horns,No,No
-25,horns belong to a tuna,No,No
-26,are horns body part of a alligator,Yes,No
-27,do horns are body part of a caterpillar?,No,No
-28,do horns are body part of a boa,No,No
-29,do horns are body part of a whale,Yes,No
-30,does a gull have horns,No,No
-31,does a spider have horns?,No,No
-32,horns belong to a elephant,Yes,No
-33,a shark has horns,No,No
-34,a crocodile has horns?,No,No
-35,a eagle has horns?,Yes,No
-36,horns belong to a owl,Yes,No
-37,does a tarantula have horns,No,No
-38,are horns body part of a pig,Yes,No
-39,horns belong to a alligator,No,No
-40,do horns are body part of a poodle,No,No
-41,does a rabbit have horns?,No,No
-42,do horns are body part of a tuna?,No,No
-43,a gull has horns,No,No
-44,horns belong to a salamander,No,No
-45,horns belong to a eagle,Yes,No
-46,horns are related to octupus's body.,Yes,No
-47,do horns are body part of a pig?,Yes,No
-48,are horns body part of a boa?,No,No
-49,a worm has horns?,No,No
-50,a lizard has horns?,No,No
-51,does a gull have horns?,No,No
-52,are horns body part of a lion,Yes,No
-53,does a salmon have horns,No,No
-54,do horns are body part of a jaguar,Yes,No
-55,do horns are body part of a shark?,No,No
-56,do horns are body part of a crocodile,No,No
-57,horns belong to a pig,Yes,No
-58,do horns are body part of a tarantula,No,No
-59,horns are related to cat's body.,Yes,No
-60,horns are related to salmon's body.,Yes,No
-61,do horns are body part of a gull?,No,No
-62,does a eagle have horns?,No,No
-63,are horns body part of a songbird,Yes,No
-64,a eagle has horns,Yes,No
-65,are horns body part of a worm,No,No
-66,a fish has horns?,No,No
-67,does a jaguar have horns?,No,No
-68,are horns body part of a swan,Yes,No
-69,horns belong to a whale,Yes,No
-70,do horns are body part of a eagle?,No,No
-71,does a lion have horns,Yes,No
-72,horns are related to tapir's body.,Yes,No
-73,do horns are body part of a worm,No,No
-74,are horns body part of a gull?,No,No
-75,are horns body part of a crocodile,Yes,No
-76,a worm has horns,No,No
-77,does a pig have horns,Yes,No
-78,a iguana has horns?,No,No
-79,do horns are body part of a spider?,No,No
-80,does a songbird have horns,Yes,No
-81,horns are related to eagle's body.,Yes,No
-82,horns belong to a puma,No,No
-83,a whale has horns,Yes,No
-84,a pig has horns?,Yes,No
-85,does a worm have horns?,No,No
-86,a lion has horns,Yes,No
-87,are horns body part of a poodle?,No,No
-88,are horns body part of a tapir?,No,No
-89,a iguana has horns,Yes,No
-90,a caterpillar has horns?,No,No
-91,are horns body part of a whale?,Yes,No
-92,are horns body part of a alligator?,No,No
-93,does a puma have horns?,No,No
-94,are horns body part of a cat,No,No
-95,does a owl have horns,Yes,No
-96,horns belong to a frog,No,No
-97,does a poodle have horns,No,No
-98,are horns body part of a tarantula,No,No
-99,a cobra has horns,No,No
-100,a cat has horns?,No,No
-101,horns belong to a boa,No,No
-102,does a boa have horns,No,No
-103,do horns are body part of a bird?,Yes,No
-104,a shark has horns?,No,No
-105,are horns body part of a spider?,No,No
-106,are horns body part of a flamingo,No,No
-107,a tapir has horns,No,No
-108,a frog has horns?,No,No
-109,horns belong to a snake,Yes,No
-110,horns belong to a songbird,Yes,No
-111,a spider has horns,No,No
-112,a snail has horns?,No,No
-113,are horns body part of a salamander,Yes,No
-114,horns are related to snail's body.,Yes,No
-115,a alligator has horns?,No,No
-116,do horns are body part of a caterpillar,No,No
-117,a songbird has horns?,No,No
-118,do horns are body part of a fish,No,No
-119,do horns are body part of a octupus,No,No
-120,horns are related to swan's body.,Yes,No
-121,do horns are body part of a pig,Yes,No
-122,are horns body part of a worm?,No,No
-123,horns belong to a lion,Yes,No
-124,are horns body part of a tuna,No,No
-125,horns belong to a snail,No,No
-126,are horns body part of a puma,No,No
-127,are horns body part of a cobra,No,No
-128,a puma has horns,No,No
-129,a snail has horns,No,No
-130,are horns body part of a cobra?,No,No
-131,horns belong to a tapir,No,No
-132,a jaguar has horns,No,No
-133,horns belong to a gull,No,No
-134,do horns are body part of a frog,No,No
-135,does a dog have horns,Yes,No
-136,a jaguar has horns?,No,No
-137,a salmon has horns?,No,No
-138,do horns are body part of a tapir?,No,No
-139,does a whale have horns?,Yes,No
-140,horns belong to a tiger,Yes,No
-141,a salmon has horns,No,No
-142,does a dog have horns?,Yes,No
-143,horns belong to a cat,No,No
-144,horns are related to rabbit's body.,Yes,No
-145,do horns are body part of a cobra?,No,No
-146,are horns body part of a octupus,No,No
-147,are horns body part of a salmon,Yes,No
-148,does a spider have horns,No,No
-149,are horns body part of a jellyfish,No,No
-150,do horns are body part of a iguana,Yes,No
-151,do horns are body part of a alligator,No,No
-152,are horns body part of a eagle?,No,No
-153,horns belong to a lizard,No,No
-154,a poodle has horns?,No,No
-155,horns belong to a rabbit,No,No
-156,a salamander has horns,Yes,No
-157,a tuna has horns?,No,No
-158,a tuna has horns,No,No
-159,does a flamingo have horns?,No,No
-160,are horns body part of a whale,Yes,No
-161,do horns are body part of a tuna,No,No
-162,a elephant has horns?,Yes,No
-163,are horns body part of a salmon?,Yes,No
-164,do horns are body part of a rat,No,No
-165,are horns body part of a caterpillar,No,No
-166,are horns body part of a rat?,No,No
-167,a flamingo has horns,No,No
-168,are horns body part of a jaguar,Yes,No
-169,does a cat have horns,No,No
-170,do horns are body part of a shark,No,No
-171,are horns body part of a frog?,No,No
-172,do horns are body part of a whale?,Yes,No
-173,horns are related to tuna's body.,Yes,No
-174,horns are related to whale's body.,Yes,No
-175,are horns body part of a bird,Yes,No
-176,does a songbird have horns?,Yes,No
-177,does a tuna have horns,No,No
-178,horns belong to a crocodile,No,No
-179,a hippopotamus has horns,No,No
-180,do horns are body part of a fish?,No,No
-181,do horns are body part of a eagle,Yes,No
-182,do horns are body part of a owl?,No,No
-183,a gull has horns?,No,No
-184,horns belong to a hippopotamus,Yes,No
-185,horns are related to boa's body.,Yes,No
-186,a fish has horns,No,No
-187,a poodle has horns,No,No
-188,do horns are body part of a spider,No,No
-189,does a caterpillar have horns?,No,No
-190,does a swan have horns,No,No
-191,horns belong to a rat,No,No
-192,horns are related to lion's body.,Yes,No
-193,horns belong to a iguana,No,No
-194,are horns body part of a pig?,Yes,No
-195,horns belong to a jaguar,No,No
-196,does a octupus have horns,No,No
-197,do horns are body part of a gull,No,No
-198,do horns are body part of a rabbit?,No,No
-199,a pig has horns,Yes,No
-200,do horns are body part of a tiger?,Yes,No
-201,are horns body part of a snake?,No,No
-202,horns are related to crocodile's body.,Yes,No
-203,a tapir has horns?,No,No
-204,are horns body part of a bird?,Yes,No
-205,a bird has horns?,Yes,No
-206,a crocodile has horns,No,No
-207,are horns body part of a shark,No,No
-208,a swan has horns,No,No
-209,does a jaguar have horns,No,No
-210,horns are related to snake's body.,Yes,No
-211,are horns body part of a boa,No,No
-212,a puma has horns?,No,No
-213,do horns are body part of a lion?,Yes,No
-214,a dog has horns?,Yes,No
-215,a rat has horns?,No,No
-216,do horns are body part of a salmon,Yes,No
-217,a frog has horns,No,No
-218,horns belong to a caterpillar,No,No
-219,horns belong to a dog,Yes,No
-220,horns are related to worm's body.,Yes,No
-221,does a shark have horns?,No,No
-222,do horns are body part of a swan,Yes,No
-223,does a elephant have horns,Yes,No
-224,horns are related to jaguar's body.,Yes,No
-225,a tiger has horns,Yes,No
-226,are horns body part of a lizard,No,No
-227,do horns are body part of a dog,No,No
-228,horns belong to a bird,Yes,No
-229,does a snake have horns,Yes,No
-230,do horns are body part of a flamingo?,No,No
-231,does a frog have horns,No,No
-232,are horns body part of a rabbit?,No,No
-233,are horns body part of a iguana?,Yes,No
-234,does a lizard have horns?,No,No
-235,does a fish have horns,No,No
-236,horns are related to salamander's body.,Yes,No
-237,does a tapir have horns,No,No
-238,a rabbit has horns,No,No
-239,are horns body part of a snail?,No,No
-240,does a caterpillar have horns,No,No
-241,does a flamingo have horns,No,No
-242,are horns body part of a elephant?,Yes,No
-243,a caterpillar has horns,No,No
-244,horns are related to caterpillar's body.,Yes,No
-245,a octupus has horns?,No,No
-246,does a worm have horns,No,No
-247,does a cobra have horns?,No,No
-248,does a pig have horns?,Yes,No
-249,a swan has horns?,No,No
-250,do horns are body part of a jaguar?,No,No
-251,do horns are body part of a lizard?,No,No
-252,are horns body part of a lizard?,No,No
-253,do horns are body part of a tiger,Yes,No
-254,do horns are body part of a tapir,No,No
-255,does a boa have horns?,No,No
-256,do horns are body part of a octupus?,No,No
-257,a snake has horns?,No,No
-258,a lizard has horns,No,No
-259,does a eagle have horns,Yes,No
-260,horns are related to tarantula's body.,Yes,No
-261,are horns body part of a elephant,Yes,No
-262,horns are related to fish's body.,Yes,No
-263,are horns body part of a tarantula?,No,No
-264,horns are related to owl's body.,Yes,No
-265,a lion has horns?,Yes,No
-266,horns belong to a shark,No,No
-267,do horns are body part of a poodle?,No,No
-268,are horns body part of a lion?,Yes,No
-269,a boa has horns?,No,No
-270,does a rabbit have horns,No,No
-271,a bird has horns,Yes,No
-272,a jellyfish has horns,No,No
-273,does a snake have horns?,No,No
-274,does a jellyfish have horns,No,No
-275,does a lizard have horns,No,No
-276,are horns body part of a crocodile?,No,No
-277,are horns body part of a snake,Yes,No
-278,horns belong to a salmon,Yes,No
-279,do horns are body part of a frog?,No,No
-280,do horns are body part of a snail,No,No
-281,does a owl have horns?,No,No
-282,are horns body part of a spider,No,No
-283,do horns are body part of a songbird?,Yes,No
-284,a octupus has horns,No,No
-285,a jellyfish has horns?,No,No
-286,does a alligator have horns,Yes,No
-287,horns are related to shark's body.,Yes,No
-288,horns are related to lizard's body.,Yes,No
-289,are horns body part of a jellyfish?,No,No
-290,does a snail have horns,No,No
-291,does a cobra have horns,No,No
-292,are horns body part of a tiger?,No,No
-293,does a alligator have horns?,No,No
-294,horns are related to iguana's body.,Yes,No
-295,do horns are body part of a salamander,No,No
-296,does a crocodile have horns?,No,No
-297,does a salamander have horns,Yes,No
-298,horns are related to frog's body.,Yes,No
-299,a snake has horns,No,No
-300,horns are related to jellyfish's body.,Yes,No
-301,horns belong to a octupus,No,No
-302,horns are related to gull's body.,Yes,No
-303,do horns are body part of a cobra,No,No
-304,do horns are body part of a salmon?,No,No
-305,are horns body part of a rat,No,No
-306,do horns are body part of a worm?,No,No
-307,does a swan have horns?,No,No
-308,does a snail have horns?,No,No
-309,do horns are body part of a iguana?,No,No
-310,are horns body part of a cat?,No,No
-311,do horns are body part of a jellyfish?,No,No
-312,are horns body part of a octupus?,No,No
-313,a cobra has horns?,No,No
-314,are horns body part of a hippopotamus?,No,No
-315,do horns are body part of a crocodile?,No,No
-316,does a hippopotamus have horns?,No,No
-317,are horns body part of a jaguar?,No,No
-318,does a fish have horns?,No,No
-319,does a tarantula have horns?,No,No
-320,do horns are body part of a songbird,Yes,No
-321,horns are related to puma's body.,Yes,No
-322,a tiger has horns?,No,No
-323,horns are related to pig's body.,Yes,No
-324,a rabbit has horns?,No,No
-325,horns are related to elephant's body.,Yes,No
-326,does a crocodile have horns,No,No
-327,horns belong to a tarantula,No,No
-328,are horns body part of a dog,Yes,No
-329,are horns body part of a caterpillar?,No,No
-330,are horns body part of a hippopotamus,Yes,No
-331,horns are related to tiger's body.,Yes,No
-332,a boa has horns,No,No
-333,do horns are body part of a tarantula?,No,No
-334,horns are related to hippopotamus's body.,Yes,No
-335,a tarantula has horns,No,No
-336,do horns are body part of a elephant,Yes,No
-337,are horns body part of a fish?,No,No
-338,horns are related to cobra's body.,Yes,No
-339,do horns are body part of a puma,No,No
-340,do horns are body part of a swan?,No,No
-341,are horns body part of a salamander?,Yes,No
-342,horns are related to poodle's body.,Yes,No
-343,does a iguana have horns,Yes,No
-344,does a cat have horns?,No,No
-345,do horns are body part of a rabbit,No,No
-346,are horns body part of a iguana,Yes,No
-347,do horns are body part of a flamingo,No,No
-348,do horns are body part of a lizard,No,No
-349,do horns are body part of a snake,No,No
-350,a owl has horns?,No,No
-351,a hippopotamus has horns?,No,No
-352,are horns body part of a songbird?,Yes,No
-353,are horns body part of a swan?,No,No
-354,do horns are body part of a elephant?,Yes,No
-355,do horns are body part of a snake?,No,No
-356,does a hippopotamus have horns,Yes,No
-357,are horns body part of a eagle,Yes,No
-358,does a jellyfish have horns?,No,No
-359,a salamander has horns?,Yes,No
-360,are horns body part of a snail,No,No
-361,does a poodle have horns?,No,No
-362,do horns are body part of a cat?,No,No
-363,horns are related to songbird's body.,Yes,No
-364,horns are related to dog's body.,Yes,No
-365,are horns body part of a tiger,Yes,No
-366,horns belong to a swan,Yes,No
-367,a alligator has horns,No,No
-368,do horns are body part of a dog?,No,No
-369,are horns body part of a gull,No,No
-370,do horns are body part of a snail?,No,No
-371,do horns are body part of a boa?,No,No
-372,does a bird have horns?,Yes,No
-373,horns are related to spider's body.,Yes,No
-374,horns belong to a worm,No,No
-375,a cat has horns,No,No
-376,are horns body part of a puma?,No,No
-377,a songbird has horns,Yes,No
-378,horns belong to a flamingo,No,No
-379,are horns body part of a rabbit,Yes,No
-380,does a tuna have horns?,No,No
-381,does a iguana have horns?,No,No
-382,horns belong to a cobra,No,No
-383,does a tiger have horns,Yes,No
-384,do horns are body part of a rat?,No,No
-385,a whale has horns?,Yes,No
-386,horns belong to a fish,No,No
-387,do horns are body part of a bird,Yes,No
-388,horns belong to a jellyfish,No,No
-389,a flamingo has horns?,No,No
-390,horns are related to bird's body.,Yes,No
-391,are horns body part of a tuna?,No,No
-392,a owl has horns,Yes,No
-393,do horns are body part of a salamander?,No,No
-394,does a bird have horns,Yes,No
-395,are horns body part of a fish,No,No
-396,does a salmon have horns?,No,No
-397,a elephant has horns,Yes,No
-398,are horns body part of a flamingo?,No,No
-399,does a tiger have horns?,No,No
-400,does a rat have horns?,No,No
-401,do horns are body part of a lion,Yes,No
-402,a dog has horns,Yes,No
-403,do horns are body part of a cat,No,No
-404,does a elephant have horns?,Yes,No
-405,are horns body part of a owl,Yes,No
-406,does a lion have horns?,Yes,No
-407,are horns body part of a dog?,No,No
-408,a spider has horns?,No,No
-409,do horns are body part of a hippopotamus?,No,No
+0,a pig has horns?,Yes,No
+1,a salmon has horns?,No,No
+2,are horns body part of a cobra,No,No
+3,a tapir has horns,No,No
+4,does a hippopotamus have horns,Yes,No
+5,horns are related to poodle's body,Yes,No
+6,do horns are body part of a crocodile?,No,No
+7,do horns are body part of a salamander?,No,No
+8,does a gull have horns,No,No
+9,does a poodle have horns?,No,No
+10,are horns body part of a hippopotamus?,No,No
+11,does a poodle have horns,No,No
+12,are horns body part of a swan?,No,No
+13,do horns are body part of a puma?,No,No
+14,do horns are body part of a rat?,No,No
+15,a tuna has horns?,No,No
+16,do horns are body part of a flamingo,No,No
+17,are horns body part of a cat,No,No
+18,are horns body part of a octupus?,No,No
+19,are horns body part of a fish,No,No
+20,are horns body part of a dog?,No,No
+21,does a rabbit have horns,No,No
+22,does a shark have horns,No,No
+23,horns are related to pig's body,Yes,No
+24,a tapir has horns?,No,No
+25,are horns body part of a gull,No,No
+26,are horns body part of a cat?,No,No
+27,horns are related to caterpillar's body,Yes,No
+28,does a cobra have horns,No,No
+29,does a alligator have horns,Yes,No
+30,are horns body part of a salamander,Yes,No
+31,a gull has horns,No,No
+32,a lion has horns,Yes,No
+33,does a rabbit have horns?,No,No
+34,does a lion have horns,Yes,No
+35,do horns are body part of a rabbit,No,No
+36,do horns are body part of a cobra?,No,No
+37,a tiger has horns,Yes,No
+38,are horns body part of a fish?,No,No
+39,do horns are body part of a whale,Yes,No
+40,horns are related to jaguar's body,Yes,No
+41,are horns body part of a bird?,Yes,No
+42,are horns body part of a puma?,No,No
+43,are horns body part of a elephant,Yes,No
+44,does a lizard have horns?,No,No
+45,do horns are body part of a tiger,Yes,No
+46,horns are related to songbird's body,Yes,No
+47,does a eagle have horns,Yes,No
+48,are horns body part of a poodle?,No,No
+49,does a jellyfish have horns,No,No
+50,a salmon has horns,No,No
+51,are horns body part of a crocodile,Yes,No
+52,does a fish have horns?,No,No
+53,does a spider have horns?,No,No
+54,do horns are body part of a pig?,Yes,No
+55,do horns are body part of a iguana,Yes,No
+56,do horns are body part of a octupus,No,No
+57,horns are related to swan's body,Yes,No
+58,do horns are body part of a jellyfish?,No,No
+59,does a salamander have horns?,Yes,No
+60,do horns are body part of a dog?,No,No
+61,do horns are body part of a rat,No,No
+62,does a salmon have horns,No,No
+63,do horns are body part of a jaguar,Yes,No
+64,do horns are body part of a dog,No,No
+65,does a frog have horns,No,No
+66,horns are related to octupus's body,Yes,No
+67,does a dog have horns?,Yes,No
+68,do horns are body part of a tarantula?,No,No
+69,are horns body part of a caterpillar?,No,No
+70,does a songbird have horns,Yes,No
+71,are horns body part of a cobra?,No,No
+72,are horns body part of a rat?,No,No
+73,does a rat have horns?,No,No
+74,a spider has horns,No,No
+75,are horns body part of a puma,No,No
+76,are horns body part of a flamingo,No,No
+77,a cobra has horns?,No,No
+78,are horns body part of a worm,No,No
+79,a iguana has horns,Yes,No
+80,does a songbird have horns?,Yes,No
+81,a poodle has horns,No,No
+82,horns are related to salamander's body,Yes,No
+83,are horns body part of a octupus,No,No
+84,a caterpillar has horns,No,No
+85,a owl has horns?,No,No
+86,horns belong to a rabbit,No,No
+87,does a tiger have horns?,No,No
+88,a jaguar has horns?,No,No
+89,a worm has horns,No,No
+90,do horns are body part of a fish,No,No
+91,horns are related to bird's body,Yes,No
+92,horns belong to a octupus,No,No
+93,a alligator has horns,No,No
+94,do horns are body part of a caterpillar,No,No
+95,are horns body part of a boa?,No,No
+96,does a tapir have horns?,No,No
+97,horns are related to rat's body,Yes,No
+98,do horns are body part of a tarantula,No,No
+99,are horns body part of a tapir?,No,No
+100,are horns body part of a tiger?,No,No
+101,does a pig have horns,Yes,No
+102,horns are related to frog's body,Yes,No
+103,do horns are body part of a spider?,No,No
+104,a flamingo has horns,No,No
+105,horns belong to a puma,No,No
+106,horns belong to a jellyfish,No,No
+107,does a frog have horns?,No,No
+108,does a spider have horns,No,No
+109,a dog has horns?,Yes,No
+110,horns are related to puma's body,Yes,No
+111,does a snail have horns?,No,No
+112,does a hippopotamus have horns?,No,No
+113,are horns body part of a alligator?,No,No
+114,do horns are body part of a bird,Yes,No
+115,does a caterpillar have horns?,No,No
+116,does a cat have horns,No,No
+117,are horns body part of a lion,Yes,No
+118,a salamander has horns,Yes,No
+119,does a fish have horns,No,No
+120,horns are related to rabbit's body,Yes,No
+121,does a swan have horns?,No,No
+122,horns are related to tuna's body,Yes,No
+123,a fish has horns?,No,No
+124,does a crocodile have horns?,No,No
+125,do horns are body part of a shark?,No,No
+126,a puma has horns?,No,No
+127,are horns body part of a snail?,No,No
+128,does a dog have horns,Yes,No
+129,horns are related to snail's body,Yes,No
+130,do horns are body part of a alligator,No,No
+131,do horns are body part of a eagle?,No,No
+132,horns belong to a owl,Yes,No
+133,are horns body part of a lion?,Yes,No
+134,do horns are body part of a jellyfish,No,No
+135,does a worm have horns,No,No
+136,are horns body part of a tuna,No,No
+137,horns belong to a iguana,No,No
+138,do horns are body part of a fish?,No,No
+139,a caterpillar has horns?,No,No
+140,does a eagle have horns?,No,No
+141,do horns are body part of a caterpillar?,No,No
+142,are horns body part of a rat,No,No
+143,horns belong to a shark,No,No
+144,do horns are body part of a frog?,No,No
+145,does a snail have horns,No,No
+146,do horns are body part of a octupus?,No,No
+147,do horns are body part of a poodle?,No,No
+148,horns belong to a fish,No,No
+149,does a cat have horns?,No,No
+150,horns are related to whale's body,Yes,No
+151,do horns are body part of a swan,Yes,No
+152,do horns are body part of a owl,Yes,No
+153,does a puma have horns,No,No
+154,does a jellyfish have horns?,No,No
+155,a gull has horns?,No,No
+156,does a elephant have horns?,Yes,No
+157,horns belong to a bird,Yes,No
+158,do horns are body part of a gull,No,No
+159,horns belong to a worm,No,No
+160,a dog has horns,Yes,No
+161,are horns body part of a iguana,Yes,No
+162,are horns body part of a owl?,No,No
+163,a owl has horns,Yes,No
+164,do horns are body part of a snake?,No,No
+165,are horns body part of a pig?,Yes,No
+166,horns belong to a gull,No,No
+167,horns belong to a jaguar,No,No
+168,does a pig have horns?,Yes,No
+169,do horns are body part of a owl?,No,No
+170,horns are related to cobra's body,Yes,No
+171,are horns body part of a bird,Yes,No
+172,a whale has horns?,Yes,No
+173,are horns body part of a hippopotamus,Yes,No
+174,do horns are body part of a tapir,No,No
+175,do horns are body part of a worm,No,No
+176,does a owl have horns,Yes,No
+177,a rat has horns?,No,No
+178,are horns body part of a tapir,No,No
+179,do horns are body part of a cat,No,No
+180,do horns are body part of a iguana?,No,No
+181,does a cobra have horns?,No,No
+182,do horns are body part of a lion,Yes,No
+183,are horns body part of a songbird?,Yes,No
+184,does a octupus have horns,No,No
+185,does a swan have horns,No,No
+186,a pig has horns,Yes,No
+187,a frog has horns,No,No
+188,does a lion have horns?,Yes,No
+189,do horns are body part of a shark,No,No
+190,are horns body part of a shark?,No,No
+191,are horns body part of a rabbit?,No,No
+192,are horns body part of a caterpillar,No,No
+193,horns are related to tiger's body,Yes,No
+194,does a salamander have horns,Yes,No
+195,a crocodile has horns?,No,No
+196,are horns body part of a snake?,No,No
+197,do horns are body part of a cobra,No,No
+198,a poodle has horns?,No,No
+199,a hippopotamus has horns?,No,No
+200,are horns body part of a jaguar,Yes,No
+201,horns belong to a frog,No,No
+202,are horns body part of a tarantula,No,No
+203,a boa has horns?,No,No
+204,do horns are body part of a tuna,No,No
+205,are horns body part of a elephant?,Yes,No
+206,a octupus has horns,No,No
+207,do horns are body part of a cat?,No,No
+208,a shark has horns,No,No
+209,do horns are body part of a tapir?,No,No
+210,a snake has horns,No,No
+211,does a whale have horns?,Yes,No
+212,horns belong to a alligator,No,No
+213,does a puma have horns?,No,No
+214,a jellyfish has horns,No,No
+215,a jellyfish has horns?,No,No
+216,does a boa have horns,No,No
+217,horns belong to a snail,No,No
+218,does a tuna have horns,No,No
+219,a rabbit has horns,No,No
+220,horns belong to a elephant,Yes,No
+221,horns are related to fish's body,Yes,No
+222,horns are related to hippopotamus's body,Yes,No
+223,does a owl have horns?,No,No
+224,are horns body part of a owl,Yes,No
+225,does a octupus have horns?,No,No
+226,does a lizard have horns,No,No
+227,a salamander has horns?,Yes,No
+228,do horns are body part of a eagle,Yes,No
+229,a swan has horns?,No,No
+230,do horns are body part of a gull?,No,No
+231,does a salmon have horns?,No,No
+232,are horns body part of a frog?,No,No
+233,are horns body part of a tiger,Yes,No
+234,a cat has horns?,No,No
+235,does a flamingo have horns,No,No
+236,does a snake have horns,Yes,No
+237,horns are related to lizard's body,Yes,No
+238,a lizard has horns?,No,No
+239,do horns are body part of a salmon?,No,No
+240,are horns body part of a tarantula?,No,No
+241,horns are related to salmon's body,Yes,No
+242,a rabbit has horns?,No,No
+243,horns belong to a hippopotamus,Yes,No
+244,does a shark have horns?,No,No
+245,horns belong to a pig,Yes,No
+246,a octupus has horns?,No,No
+247,are horns body part of a salamander?,Yes,No
+248,horns are related to worm's body,Yes,No
+249,horns belong to a cobra,No,No
+250,a rat has horns,No,No
+251,do horns are body part of a hippopotamus?,No,No
+252,a alligator has horns?,No,No
+253,are horns body part of a crocodile?,No,No
+254,horns belong to a salamander,No,No
+255,do horns are body part of a tuna?,No,No
+256,horns are related to snake's body,Yes,No
+257,horns belong to a salmon,Yes,No
+258,do horns are body part of a worm?,No,No
+259,does a worm have horns?,No,No
+260,horns are related to owl's body,Yes,No
+261,are horns body part of a whale,Yes,No
+262,are horns body part of a pig,Yes,No
+263,horns are related to tarantula's body,Yes,No
+264,do horns are body part of a puma,No,No
+265,are horns body part of a alligator,Yes,No
+266,horns are related to iguana's body,Yes,No
+267,horns are related to gull's body,Yes,No
+268,are horns body part of a whale?,Yes,No
+269,are horns body part of a worm?,No,No
+270,do horns are body part of a boa,No,No
+271,horns are related to elephant's body,Yes,No
+272,are horns body part of a songbird,Yes,No
+273,are horns body part of a swan,Yes,No
+274,horns are related to shark's body,Yes,No
+275,horns belong to a flamingo,No,No
+276,do horns are body part of a jaguar?,No,No
+277,are horns body part of a dog,Yes,No
+278,a lizard has horns,No,No
+279,a songbird has horns,Yes,No
+280,a puma has horns,No,No
+281,a eagle has horns?,Yes,No
+282,a elephant has horns?,Yes,No
+283,a tarantula has horns,No,No
+284,does a tarantula have horns?,No,No
+285,do horns are body part of a lion?,Yes,No
+286,do horns are body part of a lizard,No,No
+287,do horns are body part of a crocodile,No,No
+288,a spider has horns?,No,No
+289,do horns are body part of a tiger?,Yes,No
+290,a snail has horns?,No,No
+291,horns belong to a caterpillar,No,No
+292,a jaguar has horns,No,No
+293,are horns body part of a lizard,No,No
+294,does a alligator have horns?,No,No
+295,are horns body part of a boa,No,No
+296,horns are related to tapir's body,Yes,No
+297,does a rat have horns,No,No
+298,do horns are body part of a salmon,Yes,No
+299,do horns are body part of a songbird,Yes,No
+300,are horns body part of a salmon,Yes,No
+301,a tuna has horns,No,No
+302,a bird has horns?,Yes,No
+303,horns belong to a tuna,No,No
+304,do horns are body part of a elephant,Yes,No
+305,does a tiger have horns,Yes,No
+306,are horns body part of a frog,No,No
+307,do horns are body part of a alligator?,No,No
+308,do horns are body part of a spider,No,No
+309,horns belong to a swan,Yes,No
+310,horns are related to alligator's body,Yes,No
+311,are horns body part of a poodle,No,No
+312,do horns are body part of a snail?,No,No
+313,horns belong to a lion,Yes,No
+314,does a tapir have horns,No,No
+315,horns are related to lion's body,Yes,No
+316,horns belong to a eagle,Yes,No
+317,horns belong to a tapir,No,No
+318,are horns body part of a snail,No,No
+319,horns belong to a dog,Yes,No
+320,does a tarantula have horns,No,No
+321,do horns are body part of a bird?,Yes,No
+322,do horns are body part of a pig,Yes,No
+323,horns are related to cat's body,Yes,No
+324,horns are related to eagle's body,Yes,No
+325,horns belong to a poodle,No,No
+326,horns belong to a lizard,No,No
+327,does a bird have horns?,Yes,No
+328,do horns are body part of a hippopotamus,Yes,No
+329,do horns are body part of a swan?,No,No
+330,are horns body part of a flamingo?,No,No
+331,horns belong to a tiger,Yes,No
+332,are horns body part of a spider?,No,No
+333,are horns body part of a eagle?,No,No
+334,horns belong to a spider,No,No
+335,does a flamingo have horns?,No,No
+336,are horns body part of a tuna?,No,No
+337,are horns body part of a rabbit,Yes,No
+338,horns are related to boa's body,Yes,No
+339,a swan has horns,No,No
+340,a flamingo has horns?,No,No
+341,do horns are body part of a frog,No,No
+342,does a bird have horns,Yes,No
+343,does a caterpillar have horns,No,No
+344,does a gull have horns?,No,No
+345,horns are related to flamingo's body,Yes,No
+346,does a jaguar have horns,No,No
+347,are horns body part of a gull?,No,No
+348,a frog has horns?,No,No
+349,a crocodile has horns,No,No
+350,does a tuna have horns?,No,No
+351,do horns are body part of a poodle,No,No
+352,does a iguana have horns?,No,No
+353,horns are related to jellyfish's body,Yes,No
+354,horns are related to spider's body,Yes,No
+355,horns belong to a whale,Yes,No
+356,do horns are body part of a salamander,No,No
+357,a snail has horns,No,No
+358,a elephant has horns,Yes,No
+359,a hippopotamus has horns,No,No
+360,a cobra has horns,No,No
+361,do horns are body part of a elephant?,Yes,No
+362,does a jaguar have horns?,No,No
+363,are horns body part of a snake,Yes,No
+364,horns belong to a snake,Yes,No
+365,horns belong to a rat,No,No
+366,are horns body part of a eagle,Yes,No
+367,are horns body part of a jellyfish,No,No
+368,a lion has horns?,Yes,No
+369,does a snake have horns?,No,No
+370,does a boa have horns?,No,No
+371,does a elephant have horns,Yes,No
+372,do horns are body part of a songbird?,Yes,No
+373,a iguana has horns?,No,No
+374,does a iguana have horns,Yes,No
+375,a snake has horns?,No,No
+376,horns are related to crocodile's body,Yes,No
+377,a bird has horns,Yes,No
+378,are horns body part of a spider,No,No
+379,do horns are body part of a whale?,Yes,No
+380,are horns body part of a jaguar?,No,No
+381,a shark has horns?,No,No
+382,horns are related to dog's body,Yes,No
+383,do horns are body part of a snail,No,No
+384,a worm has horns?,No,No
+385,does a whale have horns,Yes,No
+386,a cat has horns,No,No
+387,a fish has horns,No,No
+388,a eagle has horns,Yes,No
+389,horns belong to a crocodile,No,No
+390,do horns are body part of a flamingo?,No,No
+391,are horns body part of a lizard?,No,No
+392,horns belong to a boa,No,No
+393,do horns are body part of a snake,No,No
+394,a boa has horns,No,No
+395,do horns are body part of a boa?,No,No
+396,horns belong to a tarantula,No,No
+397,are horns body part of a jellyfish?,No,No
+398,a songbird has horns?,No,No
+399,a tiger has horns?,No,No
+400,are horns body part of a iguana?,Yes,No
+401,are horns body part of a shark,No,No
+402,do horns are body part of a lizard?,No,No
+403,a whale has horns,Yes,No
+404,a tarantula has horns?,No,No
+405,do horns are body part of a rabbit?,No,No
+406,are horns body part of a salmon?,Yes,No
+407,horns belong to a songbird,Yes,No
+408,horns belong to a cat,No,No
+409,does a crocodile have horns,No,No

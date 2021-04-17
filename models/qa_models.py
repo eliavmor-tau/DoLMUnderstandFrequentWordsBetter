@@ -269,7 +269,7 @@ if __name__ == "__main__":
         # train_model(config)
         my_train_model(config)
     else:
-        test_files = ["csv/sanity", "csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins",
+        test_files = ["csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins",
                "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
                "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
                "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
@@ -283,8 +283,6 @@ if __name__ == "__main__":
         model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
         if config.get("checkpoint", None):
             checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
-            #model.load_state_dict(checkpoint["state_dict"])
-            print(checkpoint)
             model.load_state_dict(checkpoint)
 
         for f in test_files:

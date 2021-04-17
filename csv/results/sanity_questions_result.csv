@@ -1,1243 +1,1243 @@
 ,question,model_answer,true_answer
-0,does a cushaw live underwater?,No,No
-1,is a tabasco capable of flying?,No,No
-2,a muscat lives in the water.,No,No
-3,does a peach live in the water?,No,No
-4,does a kohlrabi have fur?,No,No
-5,a cauliflower has wings.,No,No
-6,does a beet fly?,Yes,No
-7,does a berry live underwater?,No,No
-8,does a grape have fur?,No,No
-9,a lemon has feathers.,No,No
-10,a mango flys.,No,No
-11,is a blackberry capable of flying?,No,No
-12,does a kohlrabi have hair?,No,No
-13,a pea has fur.,No,No
-14,does a apple live in the water?,No,No
-15,does a peach have hair?,No,No
-16,a cherry has hair.,No,No
-17,a tabasco has a wing.,No,No
-18,a pea flys.,No,No
-19,a tomato lives underwater.,No,No
-20,a banana has wings.,No,No
-21,does a chestnut have horns?,No,No
-22,a greengage has a beak.,No,No
-23,does a corn have a wing?,No,No
-24,a kiwi lives in the water.,No,No
-25,a lemon has horns.,No,No
-26,a cushaw has horns.,No,No
-27,does a cumin live underwater?,No,No
-28,does a lentil have a beak?,No,No
-29,a papaya has hair.,No,No
-30,can a avocado fly?,No,No
-31,does a kiwi live underwater?,No,No
-32,a pea is capable of flying.,No,No
-33,does a fig have hair?,No,No
-34,does a beet have a beak?,Yes,No
-35,a muscat has a wing.,Yes,No
-36,is a eggplant capable of flying?,No,No
-37,a carrot has hair.,No,No
-38,a chestnut is capable of flying.,No,No
-39,a mango is capable of flying.,No,No
-40,a lemon has a wing.,No,No
-41,a citron has hair.,No,No
-42,does a lettuce have hair?,No,No
-43,a blackheart has horns.,No,No
-44,a chestnut flys.,No,No
-45,a fig has a beak.,No,No
-46,does a muscat have feathers?,No,No
-47,a jalapeno has feathers.,No,No
-48,a cushaw flys.,No,No
-49,a potato has a beak.,No,No
-50,a kale lives underwater.,No,No
-51,does a citron live in the water?,Yes,No
-52,does a kohlrabi fly?,No,No
-53,a carrot has a beak.,No,No
-54,does a lemon have fur?,No,No
-55,does a tabasco have feathers?,No,No
-56,a guava has wings.,No,No
-57,does a potato have fur?,No,No
-58,can a carrot fly?,No,No
-59,does a grape have wings?,No,No
-60,does a fig have fur?,No,No
-61,does a banana have a wing?,No,No
-62,a grapefruit is capable of flying.,No,No
-63,a lettuce has a wing.,No,No
-64,a zucchini has a wing.,No,No
-65,does a apple have feathers?,No,No
-66,does a apple have hair?,No,No
-67,does a lettuce live underwater?,No,No
-68,a citron is capable of flying.,No,No
-69,does a kiwi have wings?,No,No
-70,is a muscat capable of flying?,No,No
-71,is a chestnut capable of flying?,No,No
-72,a soy lives in the water.,No,No
-73,a citron has a beak.,No,No
-74,does a potato have a beak?,No,No
-75,does a papaya have feathers?,No,No
-76,does a fig have wings?,No,No
-77,a grape has feathers.,No,No
-78,a beet has fur.,No,No
-79,a melon lives in the water.,No,No
-80,a guava lives in the water.,Yes,No
-81,a kohlrabi lives underwater.,No,No
-82,does a potato have hair?,No,No
-83,does a citron have horns?,No,No
-84,a corn has a beak.,No,No
-85,does a lentil have fur?,No,No
-86,a cherry lives in the water.,No,No
-87,does a berry fly?,No,No
-88,does a broccoli have hair?,No,No
-89,does a melon have horns?,No,No
-90,a eggplant lives in the water.,No,No
-91,does a tabasco have fur?,No,No
-92,does a carrot have wings?,No,No
-93,a zucchini lives in the water.,No,No
-94,a radish lives in the water.,No,No
-95,does a broccoli live in the water?,No,No
-96,can a banana fly?,No,No
-97,does a mango have horns?,No,No
-98,a jalapeno lives underwater.,No,No
-99,a chestnut lives in the water.,No,No
-100,can a cherry fly?,No,No
-101,does a kiwi have a wing?,No,No
-102,a grapefruit has feathers.,No,No
-103,does a lentil live in the water?,No,No
-104,a tomato flys.,No,No
-105,is a cumin capable of flying?,No,No
-106,does a blueberry have a beak?,No,No
-107,a radish has fur.,No,No
-108,does a cabbage have feathers?,No,No
-109,does a greengage live underwater?,No,No
-110,a corn has fur.,No,No
-111,a lettuce flys.,No,No
-112,does a pepper have a wing?,No,No
-113,does a lettuce have fur?,No,No
-114,does a radish have fur?,No,No
-115,a chili has wings.,No,No
-116,does a mustard have wings?,No,No
-117,does a citron live underwater?,No,No
-118,can a beetroot fly?,No,No
-119,does a corn have hair?,No,No
-120,a avocado lives underwater.,No,No
-121,does a lemon have wings?,No,No
-122,a pepper has a wing.,No,No
-123,does a almond live in the water?,No,No
-124,does a cabbage live underwater?,No,No
-125,does a cauliflower have fur?,No,No
-126,can a potato fly?,No,No
-127,a jalapeno lives in the water.,No,No
-128,a berry has fur.,No,No
-129,does a spinach live underwater?,No,No
-130,does a apple have wings?,No,No
-131,a almond has a wing.,No,No
-132,can a cabbage fly?,No,No
-133,a guava has horns.,No,No
-134,does a muscat live in the water?,No,No
-135,a cherry is capable of flying.,No,No
-136,a peanut is capable of flying.,No,No
-137,a grapefruit has a wing.,No,No
-138,is a apricot capable of flying?,No,No
-139,does a kohlrabi have feathers?,No,No
-140,a peach has hair.,No,No
-141,a apricot has a beak.,No,No
-142,does a cauliflower have wings?,No,No
-143,a mustard has a wing.,No,No
-144,a cushaw has wings.,No,No
-145,a almond has hair.,No,No
-146,does a zucchini fly?,No,No
-147,does a lentil have feathers?,No,No
-148,a radish has a beak.,No,No
-149,a nut has horns.,No,No
-150,a lettuce has feathers.,No,No
-151,does a corn live underwater?,No,No
-152,a apple has hair.,No,No
-153,a apricot is capable of flying.,No,No
-154,a avocado has wings.,No,No
-155,a radish has horns.,No,No
-156,a papaya has horns.,No,No
-157,a chestnut has hair.,No,No
-158,does a pea have a beak?,No,No
-159,a grape has a wing.,No,No
-160,a apricot has fur.,No,No
-161,is a pepper capable of flying?,No,No
-162,a bean flys.,No,No
-163,a avocado has horns.,No,No
-164,does a grapefruit have a wing?,No,No
-165,does a peach have wings?,No,No
-166,does a chili have wings?,No,No
-167,does a beet live in the water?,Yes,No
-168,does a tabasco have hair?,No,No
-169,a greengage has horns.,No,No
-170,does a peach have fur?,No,No
-171,a zucchini is capable of flying.,No,No
-172,a cabbage is capable of flying.,No,No
-173,a chestnut lives underwater.,No,No
-174,a beetroot flys.,No,No
-175,does a jalapeno have a beak?,No,No
-176,a beetroot lives in the water.,Yes,No
-177,does a papaya fly?,No,No
-178,does a fig live underwater?,No,No
-179,a melon flys.,No,No
-180,a greengage is capable of flying.,No,No
-181,a cauliflower flys.,No,No
-182,a lentil lives underwater.,No,No
-183,does a jalapeno live underwater?,No,No
-184,a lemon has a beak.,No,No
-185,does a chili live in the water?,No,No
-186,a peanut has hair.,No,No
-187,a lemon is capable of flying.,No,No
-188,does a tabasco have a wing?,No,No
-189,a cushaw lives underwater.,No,No
-190,a fig has hair.,No,No
-191,a peanut lives underwater.,No,No
-192,a grape has wings.,No,No
-193,does a kohlrabi live underwater?,No,No
-194,a chili has a beak.,No,No
-195,a zucchini has horns.,No,No
-196,a cherry flys.,No,No
-197,a almond is capable of flying.,No,No
-198,a guava lives underwater.,Yes,No
-199,does a peanut live underwater?,No,No
-200,a kiwi lives underwater.,No,No
-201,a eggplant has feathers.,No,No
-202,a beet flys.,Yes,No
-203,a peach has horns.,No,No
-204,does a melon have a wing?,No,No
-205,a chestnut has feathers.,No,No
-206,does a lemon have hair?,No,No
-207,a mustard has horns.,No,No
-208,can a apricot fly?,No,No
-209,a kiwi has a beak.,No,No
-210,a avocado has feathers.,No,No
-211,a lettuce has a beak.,No,No
-212,a lentil has hair.,No,No
-213,does a pear live in the water?,Yes,No
-214,a melon has a beak.,No,No
-215,a cauliflower has hair.,No,No
-216,a mango lives underwater.,No,No
-217,a zucchini has hair.,No,No
-218,does a chili fly?,No,No
-219,does a grape have horns?,No,No
-220,does a banana have feathers?,No,No
-221,a pepper lives underwater.,No,No
-222,does a berry live in the water?,No,No
-223,does a soy have feathers?,No,No
-224,a kiwi has feathers.,No,No
-225,a berry has wings.,No,No
-226,does a mango live in the water?,No,No
-227,a blackberry has fur.,No,No
-228,a guava is capable of flying.,No,No
-229,a corn has feathers.,No,No
-230,does a soy have horns?,No,No
-231,does a almond have hair?,No,No
-232,a cumin has a beak.,No,No
-233,a jalapeno has a wing.,No,No
-234,does a citron have wings?,No,No
-235,a radish flys.,No,No
-236,a broccoli flys.,No,No
-237,does a kiwi have horns?,No,No
-238,a banana is capable of flying.,No,No
-239,a lentil is capable of flying.,No,No
-240,a greengage lives underwater.,No,No
-241,a nut lives underwater.,No,No
-242,a grape lives in the water.,No,No
-243,is a pear capable of flying?,No,No
-244,a blackheart has feathers.,No,No
-245,is a cushaw capable of flying?,No,No
-246,a broccoli has horns.,No,No
-247,does a guava have fur?,No,No
-248,a fig is capable of flying.,No,No
-249,does a spinach have feathers?,No,No
-250,a banana lives underwater.,No,No
-251,can a nut fly?,No,No
-252,does a broccoli have a beak?,No,No
-253,a blackberry has feathers.,No,No
-254,does a lettuce fly?,No,No
-255,is a nut capable of flying?,No,No
-256,a bean has a wing.,No,No
-257,does a citron fly?,No,No
-258,a berry has a wing.,No,No
-259,a citron has a wing.,Yes,No
-260,a beet has a wing.,Yes,No
-261,does a tabasco have horns?,No,No
-262,does a cushaw live in the water?,No,No
-263,does a blackheart live underwater?,No,No
-264,does a guava have a wing?,No,No
-265,does a jalapeno have hair?,No,No
-266,does a cauliflower live in the water?,No,No
-267,does a chili have hair?,No,No
-268,is a greengage capable of flying?,No,No
-269,can a jalapeno fly?,No,No
-270,a blueberry is capable of flying.,No,No
-271,does a pea have hair?,No,No
-272,a nut is capable of flying.,No,No
-273,does a papaya have a beak?,No,No
-274,does a mango fly?,No,No
-275,does a grapefruit have horns?,No,No
-276,does a cauliflower have horns?,No,No
-277,a blackheart is capable of flying.,No,No
-278,does a blackheart live in the water?,No,No
-279,is a cherry capable of flying?,No,No
-280,a tomato has a wing.,No,No
-281,a chestnut has fur.,Yes,No
-282,does a apricot have a wing?,No,No
-283,a pear has feathers.,No,No
-284,a broccoli has a wing.,No,No
-285,a peach has a wing.,No,No
-286,does a cumin have horns?,No,No
-287,a chili flys.,No,No
-288,a blackheart has a beak.,No,No
-289,does a eggplant fly?,No,No
-290,a mango has a wing.,No,No
-291,a jalapeno has a beak.,No,No
-292,does a cabbage have wings?,No,No
-293,does a almond have horns?,No,No
-294,does a berry have a wing?,No,No
-295,a mango has wings.,No,No
-296,does a potato fly?,No,No
-297,does a mustard have fur?,No,No
-298,does a potato live underwater?,No,No
-299,does a grapefruit have a beak?,No,No
-300,a broccoli has wings.,No,No
-301,a peach has feathers.,No,No
-302,a jalapeno flys.,No,No
-303,does a soy live in the water?,No,No
-304,a beet lives in the water.,Yes,No
-305,does a lentil have horns?,No,No
-306,a blueberry has fur.,No,No
-307,does a melon fly?,No,No
-308,does a lentil have hair?,No,No
-309,a potato flys.,No,No
-310,does a blueberry have horns?,No,No
-311,a cushaw has fur.,No,No
-312,a pear has a wing.,No,No
-313,does a nut have feathers?,No,No
-314,does a lentil live underwater?,No,No
-315,does a broccoli have feathers?,No,No
-316,a kale has horns.,No,No
-317,does a nut have fur?,No,No
-318,a berry lives in the water.,No,No
-319,is a lemon capable of flying?,No,No
-320,a chili has fur.,No,No
-321,a greengage has a wing.,No,No
-322,does a cushaw have a beak?,No,No
-323,does a spinach have a beak?,No,No
-324,a lettuce has wings.,No,No
-325,is a bean capable of flying?,No,No
-326,a berry has horns.,No,No
-327,does a blackberry have wings?,No,No
-328,a kohlrabi lives in the water.,No,No
-329,does a beetroot fly?,No,No
-330,a beet has a beak.,Yes,No
-331,a mustard lives in the water.,No,No
-332,does a pea fly?,No,No
-333,a cushaw has a wing.,No,No
-334,does a pear have hair?,No,No
-335,does a fig have a wing?,No,No
-336,a cauliflower is capable of flying.,No,No
-337,is a beet capable of flying?,No,No
-338,does a lettuce have horns?,No,No
-339,a citron has fur.,No,No
-340,does a soy have fur?,No,No
-341,does a guava have a beak?,No,No
-342,does a cherry have wings?,No,No
-343,a lentil has wings.,No,No
-344,a chestnut has horns.,No,No
-345,a almond lives underwater.,No,No
-346,does a pepper have a beak?,No,No
-347,can a blueberry fly?,No,No
-348,is a peanut capable of flying?,No,No
-349,does a chestnut fly?,No,No
-350,does a pea have fur?,No,No
-351,a kohlrabi has a beak.,No,No
-352,a chili has horns.,No,No
-353,a pepper has hair.,No,No
-354,does a cherry have a beak?,No,No
-355,does a avocado fly?,No,No
-356,a potato lives underwater.,No,No
-357,does a pear have horns?,No,No
-358,a fig has feathers.,No,No
-359,does a blueberry have feathers?,No,No
-360,does a avocado have hair?,No,No
-361,does a lemon have a beak?,No,No
-362,can a guava fly?,No,No
-363,a cabbage has a beak.,No,No
-364,does a zucchini have horns?,No,No
-365,does a tabasco live in the water?,No,No
-366,can a blackheart fly?,No,No
-367,does a chili have fur?,No,No
-368,does a cherry fly?,No,No
-369,a spinach lives in the water.,No,No
-370,does a carrot have a beak?,No,No
-371,does a lettuce have a beak?,No,No
-372,does a avocado have fur?,No,No
-373,a nut lives in the water.,No,No
+0,does a mango have a wing?,No,No
+1,can a cumin fly?,No,No
+2,a eggplant has a wing.,No,No
+3,a eggplant flys.,No,No
+4,a peanut has a wing.,No,No
+5,does a mustard have fur?,No,No
+6,does a pea have wings?,No,No
+7,a almond has wings.,No,No
+8,does a corn have horns?,Yes,No
+9,does a pear have feathers?,No,No
+10,a tomato has horns.,No,No
+11,does a cumin have hair?,No,No
+12,a zucchini has hair.,No,No
+13,does a guava have hair?,No,No
+14,is a muscat capable of flying?,No,No
+15,a cherry is capable of flying.,No,No
+16,a apricot has hair.,No,No
+17,does a carrot live in the water?,No,No
+18,does a potato live in the water?,No,No
+19,does a zucchini have a wing?,No,No
+20,does a cauliflower have a wing?,No,No
+21,does a guava have feathers?,No,No
+22,does a nut have horns?,No,No
+23,a potato flys.,No,No
+24,a chili has fur.,No,No
+25,is a berry capable of flying?,No,No
+26,a radish lives underwater.,No,No
+27,a guava lives underwater.,Yes,No
+28,does a bean have hair?,No,No
+29,does a guava live in the water?,Yes,No
+30,a grapefruit has fur.,No,No
+31,a zucchini has a wing.,No,No
+32,a broccoli is capable of flying.,No,No
+33,a citron flys.,No,No
+34,a eggplant has wings.,No,No
+35,is a cabbage capable of flying?,No,No
+36,a blackberry has feathers.,No,No
+37,does a berry live underwater?,No,No
+38,does a berry have wings?,No,No
+39,can a cauliflower fly?,No,No
+40,can a blackheart fly?,No,No
+41,a apple is capable of flying.,No,No
+42,a lemon lives underwater.,No,No
+43,does a soy live in the water?,No,No
+44,does a potato have a beak?,No,No
+45,a blackberry has horns.,No,No
+46,does a guava have horns?,No,No
+47,a chili has horns.,No,No
+48,does a peanut live underwater?,No,No
+49,does a lemon have a wing?,No,No
+50,a muscat has horns.,No,No
+51,a kale has fur.,No,No
+52,a grape lives underwater.,No,No
+53,a pea lives in the water.,No,No
+54,does a mango have horns?,No,No
+55,a blueberry has hair.,No,No
+56,a beet has fur.,No,No
+57,a cushaw has wings.,No,No
+58,a peanut has a beak.,No,No
+59,does a cushaw have a beak?,No,No
+60,a pea has a wing.,No,No
+61,a nut has a beak.,No,No
+62,a almond lives in the water.,No,No
+63,a papaya has fur.,No,No
+64,a mango has feathers.,No,No
+65,does a tabasco live underwater?,No,No
+66,a spinach has fur.,No,No
+67,does a lettuce have feathers?,No,No
+68,a zucchini has horns.,No,No
+69,a papaya flys.,No,No
+70,does a citron have a wing?,No,No
+71,does a guava have fur?,No,No
+72,does a kale have wings?,No,No
+73,can a greengage fly?,No,No
+74,a almond has a wing.,No,No
+75,does a chestnut live underwater?,No,No
+76,a eggplant has hair.,No,No
+77,a cumin lives underwater.,No,No
+78,a grape has hair.,No,No
+79,does a eggplant have a beak?,No,No
+80,is a greengage capable of flying?,No,No
+81,a avocado has fur.,No,No
+82,a mustard flys.,No,No
+83,a tabasco has feathers.,No,No
+84,a blackberry lives in the water.,No,No
+85,does a zucchini have hair?,No,No
+86,a peanut has wings.,No,No
+87,a peach has a beak.,No,No
+88,a blackberry has a wing.,No,No
+89,does a kale have a wing?,No,No
+90,a banana flys.,No,No
+91,does a pepper have wings?,No,No
+92,a spinach has horns.,No,No
+93,a broccoli has wings.,No,No
+94,does a spinach fly?,No,No
+95,does a tomato have a wing?,No,No
+96,does a cumin live in the water?,No,No
+97,does a melon have fur?,No,No
+98,a kohlrabi lives in the water.,No,No
+99,does a beet have wings?,Yes,No
+100,a blueberry lives in the water.,No,No
+101,does a soy have feathers?,No,No
+102,a lentil lives underwater.,No,No
+103,a mustard has a beak.,No,No
+104,does a cauliflower have horns?,No,No
+105,a radish flys.,No,No
+106,a blackheart lives in the water.,No,No
+107,a muscat lives in the water.,No,No
+108,a grapefruit has hair.,No,No
+109,does a radish live underwater?,No,No
+110,a blackberry lives underwater.,No,No
+111,does a lemon have feathers?,No,No
+112,does a lentil have feathers?,No,No
+113,a banana has fur.,No,No
+114,does a lemon have horns?,No,No
+115,does a chili fly?,No,No
+116,a jalapeno has feathers.,No,No
+117,a corn has fur.,No,No
+118,a berry flys.,No,No
+119,does a citron have wings?,No,No
+120,a kiwi has a wing.,No,No
+121,a papaya lives underwater.,No,No
+122,a blueberry lives underwater.,No,No
+123,does a pear have fur?,No,No
+124,does a pepper have horns?,No,No
+125,a cauliflower flys.,No,No
+126,does a tomato have fur?,No,No
+127,does a apricot live underwater?,No,No
+128,can a eggplant fly?,No,No
+129,a pear has hair.,No,No
+130,a grapefruit has horns.,No,No
+131,a spinach has wings.,No,No
+132,a lemon is capable of flying.,No,No
+133,a avocado lives underwater.,No,No
+134,a tabasco has fur.,No,No
+135,a tomato has hair.,No,No
+136,does a corn have wings?,No,No
+137,is a chili capable of flying?,No,No
+138,does a muscat have wings?,Yes,No
+139,a eggplant has feathers.,No,No
+140,a avocado has a beak.,No,No
+141,is a fig capable of flying?,No,No
+142,a chestnut flys.,No,No
+143,a citron lives in the water.,No,No
+144,does a apricot have a wing?,No,No
+145,a lettuce has hair.,No,No
+146,does a eggplant have hair?,No,No
+147,does a jalapeno have a wing?,No,No
+148,does a muscat fly?,No,No
+149,a pepper has wings.,No,No
+150,does a bean have feathers?,No,No
+151,does a lemon fly?,No,No
+152,can a blueberry fly?,No,No
+153,a blueberry is capable of flying.,No,No
+154,does a tabasco have feathers?,No,No
+155,a mango has hair.,No,No
+156,does a lemon have wings?,No,No
+157,can a grape fly?,No,No
+158,can a papaya fly?,No,No
+159,does a fig have horns?,No,No
+160,does a tabasco have wings?,No,No
+161,a beetroot is capable of flying.,No,No
+162,does a grapefruit have a beak?,No,No
+163,does a potato fly?,No,No
+164,does a pea live in the water?,Yes,No
+165,a mustard is capable of flying.,No,No
+166,does a soy have horns?,No,No
+167,a kiwi has horns.,No,No
+168,a pea is capable of flying.,No,No
+169,does a peach have a wing?,No,No
+170,a lentil has a wing.,No,No
+171,does a lentil have a wing?,No,No
+172,does a chestnut have fur?,No,No
+173,does a avocado have wings?,No,No
+174,a melon has a beak.,No,No
+175,does a mustard have feathers?,No,No
+176,a blackberry is capable of flying.,No,No
+177,does a blackheart have a wing?,No,No
+178,does a zucchini have wings?,No,No
+179,a peanut is capable of flying.,No,No
+180,does a tomato live in the water?,No,No
+181,does a grapefruit have feathers?,No,No
+182,a cumin has horns.,No,No
+183,does a fig have feathers?,No,No
+184,a chili lives underwater.,No,No
+185,a grapefruit lives underwater.,No,No
+186,does a grapefruit have a wing?,No,No
+187,does a lentil fly?,No,No
+188,a cauliflower has hair.,No,No
+189,a papaya has hair.,No,No
+190,a chestnut has horns.,No,No
+191,a potato has a beak.,No,No
+192,is a bean capable of flying?,No,No
+193,a nut has fur.,No,No
+194,a soy has a wing.,No,No
+195,does a lemon have hair?,No,No
+196,does a peach have wings?,No,No
+197,does a lettuce have fur?,No,No
+198,a carrot is capable of flying.,No,No
+199,does a peach have a beak?,No,No
+200,does a chestnut have wings?,No,No
+201,can a citron fly?,No,No
+202,does a soy have a wing?,No,No
+203,a pea lives underwater.,No,No
+204,does a apple have hair?,No,No
+205,a fig has horns.,No,No
+206,a jalapeno has wings.,No,No
+207,a bean has wings.,No,No
+208,does a soy have hair?,No,No
+209,does a tomato fly?,No,No
+210,does a tabasco have a wing?,No,No
+211,does a eggplant live underwater?,No,No
+212,does a lettuce live underwater?,No,No
+213,a lentil has feathers.,No,No
+214,does a spinach live underwater?,No,No
+215,a lemon has a beak.,No,No
+216,a avocado flys.,No,No
+217,does a tabasco fly?,No,No
+218,can a guava fly?,No,No
+219,a bean has horns.,No,No
+220,a blackheart has wings.,No,No
+221,a corn has horns.,Yes,No
+222,does a mustard live in the water?,No,No
+223,is a blueberry capable of flying?,No,No
+224,is a apricot capable of flying?,No,No
+225,a fig has hair.,No,No
+226,a eggplant is capable of flying.,No,No
+227,is a potato capable of flying?,No,No
+228,a kiwi has a beak.,No,No
+229,can a corn fly?,No,No
+230,does a carrot have a wing?,No,No
+231,can a pear fly?,No,No
+232,a muscat has a beak.,Yes,No
+233,a berry has horns.,No,No
+234,does a zucchini fly?,No,No
+235,a mango has a beak.,No,No
+236,does a peach have hair?,No,No
+237,a kiwi has hair.,No,No
+238,is a cushaw capable of flying?,No,No
+239,does a melon have a beak?,No,No
+240,does a potato have a wing?,No,No
+241,does a banana live underwater?,No,No
+242,does a cauliflower have wings?,No,No
+243,a cherry lives underwater.,No,No
+244,does a blackberry have fur?,No,No
+245,does a greengage live in the water?,No,No
+246,a cabbage has feathers.,No,No
+247,a pepper has fur.,No,No
+248,does a papaya live in the water?,No,No
+249,does a kale have hair?,No,No
+250,a cauliflower has horns.,No,No
+251,does a chili have feathers?,No,No
+252,can a zucchini fly?,No,No
+253,a apple has a beak.,No,No
+254,does a cherry have feathers?,No,No
+255,does a pepper live in the water?,Yes,No
+256,a lettuce flys.,No,No
+257,does a blackberry have wings?,No,No
+258,a lettuce has a wing.,No,No
+259,a avocado has horns.,No,No
+260,a lemon has wings.,No,No
+261,a radish has horns.,No,No
+262,does a bean live underwater?,No,No
+263,a papaya has a beak.,No,No
+264,a zucchini has a beak.,No,No
+265,does a mustard have hair?,No,No
+266,does a peach have fur?,No,No
+267,does a almond have wings?,No,No
+268,does a nut have wings?,No,No
+269,does a berry have a beak?,No,No
+270,does a mango live in the water?,No,No
+271,does a mango have feathers?,No,No
+272,a broccoli has a beak.,No,No
+273,is a lettuce capable of flying?,No,No
+274,a apricot is capable of flying.,No,No
+275,does a cherry have a wing?,No,No
+276,does a blackheart have a beak?,No,No
+277,does a apricot have hair?,No,No
+278,a pepper has hair.,No,No
+279,can a nut fly?,No,No
+280,does a lettuce have horns?,No,No
+281,can a mango fly?,No,No
+282,a chili is capable of flying.,No,No
+283,a spinach lives underwater.,No,No
+284,a lemon flys.,No,No
+285,a bean lives underwater.,No,No
+286,does a papaya have fur?,No,No
+287,a berry has fur.,No,No
+288,does a carrot have a beak?,No,No
+289,does a avocado live underwater?,No,No
+290,a blackheart has feathers.,No,No
+291,is a grapefruit capable of flying?,No,No
+292,does a fig live in the water?,No,No
+293,a lentil has horns.,No,No
+294,a cabbage has horns.,No,No
+295,a citron has feathers.,No,No
+296,does a soy have wings?,No,No
+297,does a cabbage have wings?,No,No
+298,does a lentil have hair?,No,No
+299,a zucchini lives in the water.,No,No
+300,a peach has hair.,No,No
+301,a broccoli has horns.,No,No
+302,a blackheart has fur.,No,No
+303,a cushaw flys.,No,No
+304,a chestnut has wings.,No,No
+305,a blueberry has feathers.,No,No
+306,does a grape have hair?,No,No
+307,does a muscat have fur?,Yes,No
+308,a greengage has feathers.,No,No
+309,does a cabbage have a wing?,No,No
+310,does a peanut fly?,No,No
+311,a blackheart has hair.,No,No
+312,a nut flys.,No,No
+313,a grape lives in the water.,No,No
+314,a cabbage has a wing.,No,No
+315,a greengage lives in the water.,No,No
+316,does a chestnut have hair?,No,No
+317,does a blackberry have hair?,No,No
+318,a mustard lives underwater.,No,No
+319,does a cushaw have horns?,No,No
+320,a berry has hair.,No,No
+321,a cushaw lives underwater.,No,No
+322,a berry has wings.,No,No
+323,a lemon has feathers.,No,No
+324,a almond has hair.,No,No
+325,a potato has horns.,No,No
+326,a peach is capable of flying.,No,No
+327,does a almond have a beak?,No,No
+328,does a nut have feathers?,No,No
+329,a grapefruit lives in the water.,No,No
+330,a chili has feathers.,No,No
+331,does a blackberry live underwater?,No,No
+332,does a kiwi fly?,No,No
+333,a cauliflower lives in the water.,No,No
+334,does a mustard have a wing?,No,No
+335,does a corn live in the water?,No,No
+336,a apricot has horns.,No,No
+337,a jalapeno has horns.,No,No
+338,does a corn have a beak?,No,No
+339,does a kiwi have a wing?,No,No
+340,a carrot lives underwater.,No,No
+341,is a almond capable of flying?,No,No
+342,does a carrot have feathers?,No,No
+343,a kale has feathers.,No,No
+344,does a kohlrabi have fur?,No,No
+345,can a carrot fly?,No,No
+346,does a lemon have fur?,No,No
+347,does a soy have fur?,No,No
+348,does a eggplant have feathers?,No,No
+349,does a papaya have wings?,Yes,No
+350,a chili has a beak.,No,No
+351,is a lentil capable of flying?,No,No
+352,does a blueberry have feathers?,No,No
+353,does a kohlrabi live underwater?,No,No
+354,can a apricot fly?,No,No
+355,a guava has a wing.,No,No
+356,a grape has fur.,No,No
+357,does a grapefruit have fur?,No,No
+358,does a radish have horns?,No,No
+359,a broccoli flys.,No,No
+360,a tabasco has wings.,No,No
+361,a nut is capable of flying.,No,No
+362,does a soy live underwater?,No,No
+363,does a pea have fur?,No,No
+364,does a pepper have fur?,No,No
+365,does a greengage have wings?,No,No
+366,does a avocado have a beak?,No,No
+367,does a blackheart live underwater?,No,No
+368,a papaya has feathers.,No,No
+369,does a broccoli have feathers?,No,No
+370,does a fig have hair?,No,No
+371,does a pear have wings?,No,No
+372,does a melon have hair?,No,No
+373,a beetroot lives in the water.,Yes,No
 374,a papaya has a wing.,No,No
-375,a blueberry has a beak.,No,No
-376,a radish has hair.,No,No
-377,a pea has wings.,No,No
-378,a almond flys.,No,No
-379,a papaya lives in the water.,No,No
-380,a soy lives underwater.,No,No
-381,a pepper has a beak.,No,No
-382,a zucchini has a beak.,No,No
-383,does a mustard have a wing?,No,No
-384,a almond has wings.,No,No
-385,does a kale have hair?,No,No
-386,does a cauliflower have hair?,No,No
-387,does a beet have horns?,No,No
-388,a zucchini flys.,No,No
-389,a kale has a beak.,No,No
-390,does a mustard live underwater?,No,No
-391,a pepper has wings.,No,No
-392,does a broccoli have horns?,No,No
-393,a pepper flys.,No,No
-394,a chili has hair.,No,No
-395,does a apple fly?,No,No
-396,a nut flys.,No,No
-397,does a beetroot live in the water?,Yes,No
-398,a tomato has horns.,No,No
-399,can a corn fly?,No,No
-400,does a carrot have hair?,No,No
-401,does a guava have horns?,No,No
-402,a kiwi has fur.,No,No
-403,does a apple have fur?,No,No
-404,a potato has hair.,No,No
-405,does a corn have feathers?,No,No
-406,does a apricot have horns?,No,No
-407,a apple lives in the water.,No,No
-408,a potato has horns.,No,No
-409,a greengage has feathers.,No,No
-410,can a grapefruit fly?,No,No
-411,a kale flys.,No,No
-412,does a avocado live underwater?,No,No
-413,does a almond have a beak?,No,No
-414,does a peanut live in the water?,No,No
-415,does a apricot live in the water?,No,No
-416,is a broccoli capable of flying?,No,No
-417,a spinach is capable of flying.,No,No
-418,does a citron have feathers?,No,No
-419,does a lentil have wings?,No,No
-420,can a tabasco fly?,No,No
-421,a spinach has feathers.,No,No
-422,does a zucchini have wings?,No,No
-423,does a papaya have horns?,No,No
-424,does a cabbage have a wing?,No,No
-425,does a grapefruit have hair?,No,No
-426,is a grapefruit capable of flying?,No,No
-427,does a citron have a beak?,No,No
-428,a tomato has fur.,No,No
-429,a papaya has wings.,Yes,No
-430,a kiwi is capable of flying.,No,No
-431,a broccoli lives underwater.,No,No
-432,is a radish capable of flying?,No,No
-433,a banana has hair.,No,No
-434,a blackberry is capable of flying.,No,No
-435,a bean lives in the water.,No,No
-436,a jalapeno has hair.,No,No
-437,a radish has a wing.,No,No
-438,a potato has feathers.,No,No
-439,does a blueberry have a wing?,No,No
-440,a carrot lives underwater.,No,No
-441,a potato has fur.,No,No
-442,does a apple live underwater?,No,No
-443,a peanut has feathers.,No,No
-444,a cabbage lives underwater.,No,No
-445,does a grape live in the water?,No,No
-446,does a grapefruit have feathers?,No,No
-447,does a melon have hair?,No,No
-448,does a tomato have hair?,No,No
-449,does a blackberry live in the water?,No,No
-450,does a cauliflower have a wing?,No,No
-451,a grapefruit has horns.,No,No
-452,is a grape capable of flying?,No,No
-453,a grapefruit flys.,No,No
-454,does a kiwi live in the water?,Yes,No
-455,does a beetroot have hair?,No,No
-456,is a soy capable of flying?,No,No
-457,a apricot has horns.,No,No
-458,does a beet have feathers?,No,No
-459,does a almond have feathers?,No,No
-460,does a jalapeno have a wing?,No,No
-461,does a radish have horns?,No,No
-462,does a blueberry have hair?,No,No
-463,does a peanut fly?,No,No
-464,a peanut has a beak.,No,No
-465,does a blackheart have hair?,Yes,No
-466,can a blackberry fly?,No,No
-467,a cumin lives in the water.,No,No
-468,does a melon live in the water?,Yes,No
-469,does a kale have horns?,No,No
-470,a corn lives underwater.,No,No
-471,does a banana fly?,No,No
-472,does a cherry have feathers?,No,No
-473,a blueberry has wings.,No,No
-474,a mango has a beak.,No,No
-475,does a blackheart have horns?,No,No
-476,a muscat is capable of flying.,Yes,No
-477,a cumin has horns.,No,No
-478,a beet lives underwater.,No,No
-479,does a radish live in the water?,Yes,No
-480,does a broccoli live underwater?,No,No
-481,does a beetroot have a beak?,No,No
-482,a tomato is capable of flying.,No,No
-483,a lettuce lives underwater.,No,No
-484,a beetroot has a beak.,Yes,No
-485,a pear has hair.,No,No
-486,a mango lives in the water.,No,No
-487,does a blackberry have a wing?,No,No
-488,a berry flys.,No,No
-489,does a tomato have horns?,No,No
-490,a tabasco has a beak.,No,No
-491,does a berry have wings?,No,No
-492,a grapefruit has wings.,No,No
-493,does a chili have a wing?,No,No
-494,does a kiwi fly?,No,No
-495,a almond has fur.,No,No
-496,a potato has wings.,No,No
-497,a blackberry lives in the water.,No,No
-498,does a blackberry have horns?,No,No
-499,does a greengage have a beak?,No,No
-500,a tabasco flys.,No,No
-501,is a kale capable of flying?,No,No
-502,a chili has feathers.,No,No
-503,does a peanut have feathers?,No,No
-504,a beet is capable of flying.,No,No
-505,does a potato have a wing?,No,No
-506,does a nut have a beak?,No,No
-507,does a blackheart have feathers?,No,No
-508,does a broccoli fly?,No,No
-509,a grapefruit lives in the water.,No,No
-510,a kohlrabi flys.,No,No
-511,is a citron capable of flying?,No,No
-512,a cauliflower lives underwater.,No,No
-513,does a apricot have feathers?,No,No
-514,a peanut flys.,No,No
-515,does a blackheart have a wing?,No,No
-516,does a tomato have wings?,No,No
-517,does a cabbage live in the water?,No,No
-518,a carrot flys.,No,No
-519,does a grape fly?,No,No
-520,does a soy have a beak?,No,No
-521,does a corn have fur?,No,No
-522,does a lentil have a wing?,No,No
-523,does a pepper live underwater?,No,No
-524,a cauliflower has a beak.,No,No
-525,a tabasco is capable of flying.,No,No
-526,a banana has a beak.,No,No
-527,a kohlrabi has horns.,No,No
-528,does a guava have feathers?,No,No
-529,does a kale live underwater?,Yes,No
-530,does a chestnut have hair?,No,No
-531,a guava has hair.,No,No
-532,does a eggplant have fur?,No,No
-533,a bean has wings.,No,No
-534,does a nut have a wing?,No,No
-535,a carrot is capable of flying.,No,No
-536,a banana flys.,No,No
-537,does a bean have fur?,No,No
-538,does a blackberry have hair?,No,No
-539,can a kohlrabi fly?,No,No
-540,a lentil has horns.,No,No
-541,does a soy have a wing?,No,No
-542,does a citron have a wing?,No,No
-543,a grape is capable of flying.,No,No
-544,does a berry have feathers?,No,No
-545,a cabbage has wings.,No,No
-546,a melon has hair.,No,No
-547,does a cherry live underwater?,No,No
-548,does a grapefruit have fur?,No,No
-549,a pear lives in the water.,No,No
-550,does a blackberry live underwater?,No,No
-551,does a spinach have a wing?,No,No
-552,can a greengage fly?,No,No
-553,a cushaw has feathers.,No,No
-554,a melon has wings.,No,No
-555,does a grape have hair?,No,No
-556,a banana lives in the water.,No,No
-557,does a cumin have a wing?,No,No
-558,does a peanut have a wing?,No,No
-559,a greengage flys.,No,No
-560,a lentil has fur.,No,No
-561,does a tomato have fur?,No,No
-562,a kale has hair.,No,No
-563,a blackheart lives in the water.,No,No
-564,does a lemon have a wing?,No,No
-565,does a avocado have a beak?,No,No
-566,can a lettuce fly?,No,No
-567,a guava flys.,No,No
-568,a radish is capable of flying.,No,No
-569,a citron lives underwater.,No,No
-570,a bean has a beak.,No,No
-571,a spinach has a beak.,No,No
-572,a nut has feathers.,No,No
-573,is a jalapeno capable of flying?,No,No
-574,a cherry has wings.,No,No
-575,a pepper lives in the water.,No,No
-576,a beetroot has fur.,No,No
-577,a berry has hair.,No,No
-578,a jalapeno has wings.,No,No
-579,can a chestnut fly?,No,No
-580,a berry has feathers.,No,No
-581,does a eggplant have hair?,No,No
-582,a apricot has wings.,No,No
-583,a grapefruit has fur.,No,No
-584,a pepper is capable of flying.,No,No
-585,is a berry capable of flying?,No,No
-586,does a cabbage have horns?,No,No
-587,a lentil flys.,No,No
-588,a kohlrabi is capable of flying.,No,No
-589,does a cumin have feathers?,No,No
-590,a almond has a beak.,No,No
-591,can a peach fly?,No,No
-592,a guava has a wing.,No,No
-593,does a lemon fly?,No,No
-594,does a fig have a beak?,No,No
-595,a cauliflower has a wing.,No,No
-596,is a cauliflower capable of flying?,No,No
-597,does a pepper fly?,No,No
-598,does a broccoli have fur?,No,No
-599,a avocado flys.,No,No
-600,a berry lives underwater.,No,No
-601,does a cushaw have wings?,No,No
-602,a nut has a wing.,No,No
-603,a peach has a beak.,No,No
-604,a peanut has horns.,No,No
-605,does a kale live in the water?,Yes,No
-606,does a melon live underwater?,Yes,No
-607,a peach is capable of flying.,No,No
-608,does a eggplant have wings?,No,No
-609,does a mustard fly?,No,No
-610,does a nut have wings?,No,No
-611,a blueberry lives underwater.,No,No
-612,does a grape have feathers?,No,No
-613,a beetroot has hair.,No,No
-614,does a cherry have a wing?,No,No
-615,does a kale have fur?,No,No
-616,does a radish fly?,No,No
-617,does a papaya have a wing?,No,No
-618,is a corn capable of flying?,No,No
-619,does a mango have fur?,No,No
-620,a chestnut has wings.,No,No
-621,a grapefruit has a beak.,No,No
-622,does a bean have hair?,No,No
-623,is a beetroot capable of flying?,No,No
-624,does a guava have wings?,No,No
-625,a carrot has horns.,No,No
-626,is a cabbage capable of flying?,No,No
-627,a eggplant has fur.,No,No
-628,can a soy fly?,No,No
-629,does a beetroot have a wing?,No,No
-630,a muscat has wings.,Yes,No
-631,does a chestnut have fur?,No,No
-632,a mustard has feathers.,No,No
-633,does a chestnut have a wing?,No,No
-634,can a fig fly?,No,No
-635,does a peanut have wings?,No,No
-636,does a tabasco live underwater?,No,No
-637,a apricot flys.,No,No
-638,does a mango live underwater?,No,No
-639,does a soy live underwater?,No,No
-640,a peach flys.,No,No
-641,a cumin has feathers.,No,No
-642,does a cherry live in the water?,No,No
-643,does a grapefruit live in the water?,Yes,No
-644,a tomato has wings.,No,No
-645,does a apricot have fur?,No,No
-646,does a peach have a wing?,No,No
-647,a nut has fur.,No,No
-648,does a corn have horns?,Yes,No
-649,does a almond fly?,No,No
-650,a blackheart has fur.,No,No
-651,does a grape have a beak?,No,No
-652,does a nut have horns?,No,No
-653,can a citron fly?,No,No
-654,is a apple capable of flying?,No,No
-655,does a mustard have hair?,No,No
-656,a cumin flys.,No,No
-657,does a potato live in the water?,No,No
-658,a grapefruit lives underwater.,No,No
-659,a banana has horns.,No,No
-660,a guava has fur.,No,No
-661,can a muscat fly?,Yes,No
-662,does a chestnut live in the water?,No,No
-663,does a corn fly?,No,No
-664,does a beet have hair?,No,No
-665,a greengage has hair.,No,No
-666,is a blackheart capable of flying?,No,No
-667,a lemon lives underwater.,No,No
-668,does a kale have a wing?,No,No
-669,does a beetroot have horns?,No,No
-670,does a cumin live in the water?,No,No
-671,a lemon has hair.,No,No
-672,does a potato have feathers?,No,No
-673,a radish has feathers.,No,No
-674,a mustard has wings.,No,No
-675,does a cherry have horns?,No,No
-676,does a lemon live in the water?,Yes,No
-677,a lemon flys.,No,No
-678,does a jalapeno have horns?,No,No
-679,a pepper has fur.,No,No
-680,does a blackberry fly?,No,No
-681,does a greengage have wings?,No,No
-682,a lettuce has horns.,No,No
-683,a tabasco lives in the water.,No,No
-684,does a pear live underwater?,No,No
-685,does a zucchini live in the water?,No,No
-686,a kale lives in the water.,Yes,No
-687,a cabbage has hair.,No,No
-688,does a cabbage have fur?,No,No
-689,a almond has feathers.,No,No
-690,a cumin is capable of flying.,No,No
-691,a broccoli lives in the water.,No,No
-692,does a chili have horns?,No,No
-693,a apple has a wing.,No,No
-694,does a cumin have fur?,No,No
-695,can a berry fly?,No,No
-696,a cabbage has feathers.,No,No
-697,does a pepper have feathers?,No,No
-698,does a zucchini have feathers?,No,No
-699,a cushaw has hair.,No,No
-700,a corn has hair.,No,No
-701,a nut has a beak.,No,No
-702,does a mango have feathers?,No,No
-703,a cumin has a wing.,No,No
-704,does a cherry have hair?,No,No
-705,does a muscat fly?,No,No
-706,a pea lives underwater.,No,No
-707,a melon has a wing.,No,No
-708,does a bean fly?,No,No
-709,does a bean live underwater?,No,No
-710,a peach has wings.,No,No
-711,a spinach has wings.,No,No
-712,a eggplant is capable of flying.,No,No
-713,does a mustard have feathers?,No,No
-714,a cumin has fur.,No,No
-715,does a nut fly?,No,No
-716,does a eggplant have a wing?,No,No
-717,does a greengage have a wing?,No,No
-718,does a cushaw have feathers?,No,No
-719,does a grapefruit live underwater?,No,No
-720,a cumin has wings.,No,No
-721,a fig flys.,No,No
-722,can a almond fly?,No,No
-723,a bean has feathers.,No,No
-724,does a potato have horns?,No,No
-725,a mustard has fur.,No,No
-726,a fig has fur.,No,No
-727,a beetroot has horns.,No,No
-728,a lettuce lives in the water.,No,No
-729,a cabbage has a wing.,No,No
-730,a kohlrabi has fur.,No,No
-731,a peanut has wings.,No,No
-732,a blackberry has a wing.,No,No
-733,a chestnut has a wing.,No,No
-734,does a pepper have horns?,No,No
-735,a bean has fur.,No,No
-736,a soy has hair.,No,No
-737,a apple has wings.,No,No
-738,does a corn live in the water?,No,No
-739,does a pepper have wings?,No,No
-740,a carrot has a wing.,No,No
-741,does a eggplant live in the water?,No,No
-742,a kohlrabi has hair.,No,No
-743,is a melon capable of flying?,No,No
-744,does a tomato have a beak?,No,No
-745,a kiwi flys.,No,No
-746,a apple is capable of flying.,No,No
-747,a lemon lives in the water.,No,No
-748,a jalapeno has fur.,No,No
-749,a corn lives in the water.,No,No
-750,a citron has horns.,No,No
-751,does a bean have feathers?,No,No
-752,does a nut have hair?,No,No
-753,does a pear have wings?,No,No
-754,can a eggplant fly?,No,No
-755,can a pear fly?,No,No
-756,does a almond have a wing?,No,No
-757,can a mango fly?,No,No
-758,a melon lives underwater.,No,No
-759,does a melon have fur?,No,No
-760,does a zucchini live underwater?,No,No
-761,a potato lives in the water.,No,No
-762,a lemon has wings.,No,No
-763,can a papaya fly?,No,No
-764,a soy has horns.,No,No
-765,does a blueberry fly?,No,No
-766,does a carrot live in the water?,No,No
-767,is a lettuce capable of flying?,No,No
-768,a banana has feathers.,No,No
-769,is a avocado capable of flying?,No,No
-770,does a melon have a beak?,No,No
-771,a fig lives in the water.,No,No
-772,a chestnut has a beak.,Yes,No
-773,does a apple have horns?,No,No
-774,a apple has a beak.,No,No
-775,can a melon fly?,No,No
-776,a peach lives in the water.,No,No
-777,a corn is capable of flying.,No,No
-778,a mango has feathers.,No,No
-779,a spinach has horns.,No,No
-780,a lentil has a wing.,No,No
-781,a fig has a wing.,No,No
-782,is a guava capable of flying?,No,No
-783,does a chestnut live underwater?,No,No
-784,does a guava live underwater?,Yes,No
-785,a cauliflower has fur.,No,No
-786,does a carrot live underwater?,No,No
-787,a beetroot has feathers.,No,No
-788,does a cabbage have hair?,No,No
-789,a papaya has fur.,No,No
-790,is a blueberry capable of flying?,No,No
-791,a kale is capable of flying.,No,No
-792,a broccoli has a beak.,No,No
-793,a guava has feathers.,No,No
-794,a berry has a beak.,No,No
-795,does a peanut have a beak?,No,No
-796,a muscat has feathers.,No,No
-797,a avocado lives in the water.,No,No
-798,a blackheart has wings.,No,No
-799,a citron has wings.,No,No
-800,does a guava live in the water?,Yes,No
-801,a spinach lives underwater.,No,No
-802,does a kohlrabi have wings?,No,No
-803,does a chili live underwater?,No,No
-804,a apricot has feathers.,No,No
-805,is a carrot capable of flying?,No,No
-806,is a potato capable of flying?,No,No
-807,does a soy have hair?,No,No
-808,a spinach has fur.,No,No
-809,a greengage lives in the water.,No,No
-810,a blackberry has wings.,No,No
-811,a mango has fur.,No,No
-812,does a citron have hair?,No,No
-813,is a papaya capable of flying?,No,No
-814,does a berry have horns?,No,No
-815,can a lentil fly?,No,No
-816,does a cushaw fly?,No,No
-817,does a banana have horns?,No,No
-818,a jalapeno has horns.,No,No
-819,does a pea have wings?,No,No
-820,a cumin has hair.,No,No
-821,does a eggplant have a beak?,No,No
-822,does a tomato have feathers?,No,No
-823,does a mustard have horns?,No,No
-824,does a beet have wings?,Yes,No
-825,a spinach flys.,No,No
-826,does a kohlrabi have a wing?,No,No
-827,a beetroot has wings.,No,No
-828,does a chili have a beak?,No,No
-829,a muscat has hair.,No,No
-830,a muscat has horns.,No,No
-831,a blackberry has horns.,No,No
-832,a muscat flys.,Yes,No
-833,does a eggplant have feathers?,No,No
-834,does a tabasco have wings?,No,No
-835,does a lettuce live in the water?,No,No
-836,does a pear fly?,No,No
-837,does a lemon live underwater?,No,No
-838,can a spinach fly?,No,No
-839,a eggplant flys.,No,No
-840,does a grapefruit have wings?,No,No
-841,does a kale have a beak?,No,No
-842,a pepper has horns.,No,No
-843,a cherry has horns.,No,No
-844,can a pepper fly?,Yes,No
-845,does a muscat have a beak?,Yes,No
-846,does a mango have wings?,No,No
-847,does a cauliflower have a beak?,No,No
-848,does a fig have feathers?,No,No
-849,a tabasco has feathers.,No,No
-850,a grapefruit has hair.,No,No
-851,does a guava fly?,No,No
-852,does a pear have fur?,No,No
-853,a tabasco has horns.,No,No
-854,does a tomato have a wing?,No,No
-855,a zucchini lives underwater.,No,No
-856,a muscat has fur.,Yes,No
-857,does a almond have wings?,No,No
-858,is a mango capable of flying?,No,No
-859,does a tomato fly?,No,No
-860,does a bean have a wing?,No,No
-861,does a beet have fur?,No,No
-862,a eggplant has hair.,No,No
-863,does a peach live underwater?,No,No
-864,a lentil lives in the water.,No,No
-865,a apricot has a wing.,No,No
-866,a tomato lives in the water.,No,No
-867,a cabbage lives in the water.,No,No
-868,does a bean have wings?,No,No
-869,is a pea capable of flying?,No,No
-870,a chili lives underwater.,No,No
-871,does a almond live underwater?,No,No
-872,does a radish have a beak?,No,No
-873,a radish has wings.,No,No
-874,a apricot has hair.,No,No
-875,does a blueberry live in the water?,Yes,No
-876,a corn has a wing.,No,No
-877,a kiwi has wings.,No,No
-878,does a broccoli have a wing?,No,No
-879,does a spinach fly?,No,No
-880,does a peach have horns?,No,No
-881,a nut has wings.,No,No
-882,a muscat lives underwater.,No,No
-883,does a banana live underwater?,No,No
-884,a guava has a beak.,No,No
-885,does a chestnut have wings?,No,No
-886,a beet has horns.,No,No
-887,a bean is capable of flying.,No,No
-888,does a cabbage fly?,No,No
-889,does a melon have wings?,No,No
-890,does a lemon have horns?,No,No
-891,a mustard lives underwater.,No,No
-892,can a grape fly?,No,No
-893,a soy has a wing.,No,No
-894,does a apricot have hair?,No,No
-895,does a cushaw have hair?,No,No
-896,a pea has feathers.,No,No
-897,a carrot has fur.,No,No
-898,a grape has a beak.,No,No
-899,is a almond capable of flying?,No,No
-900,a beet has hair.,No,No
-901,does a apricot live underwater?,No,No
-902,does a zucchini have hair?,No,No
-903,does a mango have hair?,No,No
-904,a carrot has feathers.,No,No
-905,a pear is capable of flying.,No,No
-906,a jalapeno is capable of flying.,No,No
-907,does a eggplant have horns?,No,No
-908,does a pepper live in the water?,Yes,No
-909,a soy has wings.,No,No
-910,does a avocado have horns?,No,No
-911,a blueberry has horns.,No,No
-912,can a broccoli fly?,No,No
-913,is a banana capable of flying?,No,No
-914,does a bean have horns?,No,No
-915,a broccoli has fur.,No,No
-916,a pea has a wing.,No,No
-917,a pea has hair.,No,No
-918,does a zucchini have fur?,No,No
-919,can a radish fly?,No,No
-920,does a blueberry have wings?,No,No
-921,does a spinach have hair?,No,No
-922,does a zucchini have a wing?,No,No
-923,a beet has feathers.,No,No
-924,does a greengage have fur?,No,No
-925,does a banana have hair?,No,No
-926,a pear lives underwater.,No,No
-927,a pepper has feathers.,No,No
-928,a almond lives in the water.,No,No
-929,is a fig capable of flying?,No,No
-930,does a banana have a beak?,No,No
-931,a peanut has a wing.,No,No
-932,does a cauliflower have feathers?,No,No
-933,does a muscat have horns?,No,No
-934,does a jalapeno have fur?,No,No
-935,a apricot lives in the water.,No,No
-936,a bean lives underwater.,No,No
-937,a melon has horns.,No,No
-938,a tomato has hair.,No,No
-939,a corn has wings.,No,No
-940,does a cauliflower live underwater?,No,No
-941,is a spinach capable of flying?,No,No
-942,does a broccoli have wings?,No,No
-943,does a pea live underwater?,No,No
-944,a spinach has a wing.,No,No
-945,does a greengage live in the water?,No,No
-946,a kiwi has hair.,No,No
-947,a kohlrabi has a wing.,No,No
-948,a banana has fur.,No,No
-949,a apple flys.,No,No
-950,does a carrot have feathers?,No,No
-951,a tomato has feathers.,No,No
-952,a eggplant has a wing.,No,No
-953,a cabbage has horns.,No,No
-954,a muscat has a beak.,Yes,No
-955,a mustard has hair.,No,No
-956,does a beetroot have feathers?,No,No
-957,a radish lives underwater.,No,No
-958,a cabbage has fur.,No,No
-959,does a chestnut have a beak?,No,No
-960,is a kohlrabi capable of flying?,No,No
-961,does a cherry have fur?,No,No
-962,a blackberry flys.,No,No
-963,a almond has horns.,No,No
-964,does a zucchini have a beak?,No,No
-965,a berry is capable of flying.,No,No
-966,does a mustard have a beak?,No,No
-967,does a cumin have hair?,No,No
-968,does a greengage have horns?,No,No
-969,a cushaw has a beak.,No,No
-970,a avocado has fur.,No,No
-971,can a cumin fly?,No,No
-972,a peach has fur.,No,No
-973,a blackheart has a wing.,No,No
-974,does a berry have a beak?,No,No
-975,a potato is capable of flying.,No,No
-976,a grape has fur.,No,No
-977,does a papaya have wings?,Yes,No
-978,a blackheart flys.,No,No
-979,a lettuce has hair.,No,No
-980,can a peanut fly?,No,No
-981,a carrot has wings.,No,No
-982,a spinach has hair.,No,No
-983,a potato has a wing.,No,No
-984,does a blackheart have wings?,No,No
-985,does a cumin have a beak?,No,No
-986,does a kale have wings?,No,No
-987,does a carrot have fur?,No,No
-988,a cushaw lives in the water.,No,No
-989,does a cushaw have horns?,No,No
-990,a broccoli has hair.,No,No
-991,a nut has hair.,No,No
-992,does a jalapeno have wings?,No,No
-993,a avocado has a wing.,No,No
-994,a pear has horns.,No,No
-995,can a apple fly?,No,No
-996,a grape lives underwater.,No,No
-997,does a peanut have horns?,No,No
-998,does a grapefruit fly?,No,No
-999,does a beet have a wing?,No,No
-1000,does a cushaw have a wing?,No,No
-1001,a tabasco has hair.,No,No
-1002,does a mango have a beak?,No,No
-1003,can a chili fly?,No,No
-1004,a mango has hair.,No,No
-1005,a papaya has feathers.,No,No
-1006,does a blueberry have fur?,No,No
-1007,does a pear have a wing?,No,No
-1008,a mango has horns.,No,No
-1009,does a muscat have hair?,No,No
-1010,does a cauliflower fly?,No,No
-1011,does a spinach live in the water?,No,No
-1012,a pear has a beak.,No,No
-1013,a citron lives in the water.,No,No
-1014,a bean has horns.,No,No
-1015,a avocado is capable of flying.,No,No
-1016,does a cumin fly?,No,No
-1017,a apple has fur.,No,No
-1018,a blackberry has a beak.,No,No
-1019,a beetroot lives underwater.,No,No
-1020,does a pea have horns?,No,No
-1021,does a spinach have horns?,No,No
-1022,a soy has a beak.,No,No
-1023,is a kiwi capable of flying?,No,No
-1024,does a spinach have wings?,No,No
-1025,a pea has horns.,No,No
-1026,does a carrot fly?,No,No
-1027,does a pear have a beak?,No,No
-1028,does a muscat live underwater?,Yes,No
-1029,is a peach capable of flying?,No,No
-1030,is a zucchini capable of flying?,No,No
-1031,does a radish have a wing?,No,No
-1032,does a greengage fly?,No,No
-1033,does a lettuce have wings?,No,No
-1034,a banana has a wing.,No,No
-1035,a broccoli is capable of flying.,No,No
-1036,does a lettuce have a wing?,No,No
-1037,does a pepper have fur?,No,No
-1038,a kiwi has a wing.,No,No
-1039,does a blackberry have fur?,No,No
-1040,does a muscat have wings?,Yes,No
-1041,a mustard flys.,No,No
-1042,does a apple have a beak?,No,No
-1043,does a pea have a wing?,No,No
-1044,is a mustard capable of flying?,No,No
-1045,does a mustard live in the water?,No,No
-1046,a cherry has a beak.,No,No
-1047,a kale has fur.,No,No
-1048,does a berry have hair?,No,No
-1049,a papaya has a beak.,No,No
-1050,can a mustard fly?,No,No
-1051,does a grape have a wing?,No,No
-1052,does a radish have feathers?,No,No
-1053,a cauliflower has feathers.,No,No
-1054,a peach lives underwater.,No,No
-1055,a blackberry has hair.,No,No
-1056,does a banana have fur?,No,No
-1057,a blueberry has a wing.,No,No
-1058,does a peach have feathers?,No,No
-1059,does a avocado have a wing?,No,No
-1060,can a pea fly?,No,No
-1061,does a soy have wings?,No,No
-1062,does a peanut have hair?,No,No
-1063,a pea lives in the water.,No,No
-1064,does a pear have feathers?,No,No
-1065,a fig lives underwater.,No,No
-1066,a fig has wings.,No,No
-1067,does a kiwi have hair?,Yes,No
-1068,does a avocado have feathers?,No,No
-1069,does a banana live in the water?,No,No
-1070,does a melon have feathers?,No,No
-1071,a corn has horns.,Yes,No
-1072,does a tomato live underwater?,No,No
-1073,a bean has hair.,No,No
-1074,a kale has a wing.,No,No
-1075,a carrot lives in the water.,No,No
-1076,a chili is capable of flying.,No,No
-1077,a lettuce is capable of flying.,No,No
-1078,can a kale fly?,No,No
-1079,a greengage has wings.,No,No
-1080,a chili lives in the water.,No,No
-1081,does a pea live in the water?,Yes,No
-1082,a zucchini has wings.,No,No
-1083,a apple has horns.,No,No
-1084,does a corn have a beak?,No,No
-1085,a mustard has a beak.,No,No
-1086,a lentil has a beak.,No,No
-1087,does a apricot have a beak?,No,No
-1088,does a bean live in the water?,No,No
-1089,does a soy fly?,No,No
-1090,does a berry have fur?,No,No
-1091,does a spinach have fur?,No,No
-1092,a tabasco lives underwater.,No,No
-1093,can a cauliflower fly?,No,No
-1094,does a jalapeno live in the water?,No,No
-1095,does a kiwi have feathers?,No,No
-1096,a soy flys.,No,No
-1097,a zucchini has feathers.,No,No
-1098,a papaya flys.,No,No
-1099,a cauliflower lives in the water.,No,No
-1100,does a avocado live in the water?,No,No
-1101,a cherry has feathers.,No,No
-1102,does a carrot have horns?,No,No
-1103,does a blackheart have fur?,No,No
-1104,a pear has wings.,No,No
-1105,does a peanut have fur?,No,No
-1106,a grape has horns.,No,No
-1107,does a peach have a beak?,No,No
-1108,does a apricot have wings?,No,No
-1109,can a beet fly?,Yes,No
-1110,a eggplant has a beak.,No,No
-1111,does a avocado have wings?,No,No
-1112,a cherry has a wing.,No,No
-1113,a chili has a wing.,No,No
-1114,does a lemon have feathers?,No,No
-1115,a melon has fur.,No,No
-1116,does a fig have horns?,No,No
-1117,can a tomato fly?,No,No
-1118,does a blackheart fly?,No,No
-1119,does a tabasco have a beak?,No,No
-1120,does a chili have feathers?,No,No
-1121,a broccoli has feathers.,No,No
-1122,does a pepper have hair?,No,No
-1123,a soy has fur.,No,No
-1124,does a apple have a wing?,No,No
-1125,a apple has feathers.,No,No
-1126,a kiwi has horns.,No,No
-1127,can a zucchini fly?,No,No
-1128,does a kale have feathers?,No,No
-1129,does a guava have hair?,No,No
-1130,is a chili capable of flying?,No,No
-1131,a cherry has fur.,No,No
-1132,a blueberry lives in the water.,No,No
-1133,does a carrot have a wing?,No,No
-1134,does a potato have wings?,No,No
-1135,does a nut live underwater?,No,No
-1136,does a greengage have hair?,No,No
-1137,does a lentil fly?,No,No
-1138,is a lentil capable of flying?,No,No
-1139,a apricot lives underwater.,No,No
-1140,does a papaya live underwater?,No,No
-1141,does a kale fly?,No,No
-1142,a eggplant has horns.,No,No
-1143,a blueberry flys.,No,No
-1144,a grape has hair.,No,No
-1145,a kale has wings.,No,No
-1146,a beetroot has a wing.,No,No
-1147,does a chestnut have feathers?,No,No
-1148,does a greengage have feathers?,No,No
-1149,a citron flys.,No,No
-1150,a soy has feathers.,No,No
-1151,does a fig fly?,No,No
-1152,a beet has wings.,Yes,No
-1153,does a muscat have a wing?,No,No
-1154,does a blackheart have a beak?,No,No
-1155,a blueberry has feathers.,No,No
-1156,a lentil has feathers.,No,No
-1157,does a mango have a wing?,No,No
-1158,does a blackberry have feathers?,No,No
-1159,a papaya lives underwater.,No,No
-1160,a peanut lives in the water.,No,No
-1161,a apple lives underwater.,No,No
-1162,does a jalapeno fly?,No,No
-1163,does a papaya have fur?,No,No
-1164,does a kohlrabi have horns?,No,No
-1165,a cauliflower has horns.,No,No
-1166,can a kiwi fly?,No,No
-1167,a kale has feathers.,No,No
-1168,does a nut live in the water?,No,No
-1169,a mustard is capable of flying.,No,No
-1170,a beetroot is capable of flying.,No,No
-1171,a zucchini has fur.,No,No
-1172,a blueberry has hair.,No,No
-1173,a cushaw is capable of flying.,No,No
-1174,a pea has a beak.,No,No
-1175,does a papaya have hair?,No,No
-1176,does a fig live in the water?,No,No
-1177,a cabbage flys.,No,No
-1178,does a cumin have wings?,No,No
-1179,a melon is capable of flying.,No,No
-1180,does a jalapeno have feathers?,No,No
-1181,does a beetroot have fur?,No,No
-1182,a greengage has fur.,No,No
-1183,does a bean have a beak?,No,No
-1184,does a radish have wings?,No,No
-1185,does a radish have hair?,No,No
-1186,does a citron have fur?,No,No
-1187,a papaya is capable of flying.,No,No
-1188,a citron has feathers.,No,No
-1189,a kohlrabi has feathers.,No,No
-1190,a blackberry lives underwater.,No,No
-1191,a cherry lives underwater.,No,No
-1192,does a almond have fur?,No,No
-1193,does a pea have feathers?,No,No
-1194,can a lemon fly?,No,No
-1195,a blackheart lives underwater.,No,No
-1196,does a eggplant live underwater?,No,No
-1197,does a kiwi have a beak?,No,No
-1198,a tomato has a beak.,No,No
-1199,does a apricot fly?,No,No
-1200,a tabasco has fur.,No,No
-1201,does a kohlrabi live in the water?,No,No
-1202,does a lettuce have feathers?,No,No
-1203,a fig has horns.,No,No
-1204,a eggplant lives underwater.,No,No
-1205,is a tomato capable of flying?,No,No
-1206,does a corn have wings?,No,No
-1207,a tabasco has wings.,No,No
-1208,does a muscat have fur?,Yes,No
-1209,a pear flys.,No,No
-1210,a avocado has hair.,No,No
-1211,does a grape live underwater?,No,No
-1212,a blackheart has hair.,No,No
-1213,does a peach fly?,No,No
-1214,does a kohlrabi have a beak?,No,No
-1215,a soy is capable of flying.,No,No
-1216,a pear has fur.,No,No
-1217,does a beetroot have wings?,No,No
-1218,does a papaya live in the water?,No,No
-1219,does a beet live underwater?,Yes,No
-1220,does a cushaw have fur?,No,No
-1221,a lemon has fur.,No,No
-1222,a melon has feathers.,No,No
-1223,does a beetroot live underwater?,Yes,No
-1224,does a tomato live in the water?,No,No
-1225,a cumin lives underwater.,No,No
-1226,a eggplant has wings.,No,No
-1227,a peanut has fur.,No,No
-1228,does a cabbage have a beak?,No,No
-1229,a lettuce has fur.,No,No
-1230,does a tabasco fly?,No,No
-1231,does a kiwi have fur?,Yes,No
-1232,a kohlrabi has wings.,No,No
-1233,a corn flys.,No,No
-1234,does a blueberry live underwater?,No,No
-1235,can a cushaw fly?,No,No
-1236,can a bean fly?,No,No
-1237,does a radish live underwater?,No,No
-1238,does a banana have wings?,No,No
-1239,does a blackberry have a beak?,No,No
-1240,a avocado has a beak.,No,No
-1241,a grape flys.,No,No
+375,does a nut have a wing?,No,No
+376,can a lettuce fly?,No,No
+377,does a kiwi have a beak?,No,No
+378,a banana has hair.,No,No
+379,is a cherry capable of flying?,No,No
+380,does a apple have horns?,No,No
+381,a apricot has a beak.,No,No
+382,a beet lives underwater.,No,No
+383,a radish has feathers.,No,No
+384,does a avocado have feathers?,No,No
+385,does a beet have fur?,No,No
+386,does a jalapeno live in the water?,No,No
+387,does a grapefruit have horns?,No,No
+388,does a lettuce live in the water?,No,No
+389,a soy has feathers.,No,No
+390,a soy is capable of flying.,No,No
+391,is a mustard capable of flying?,No,No
+392,does a beetroot have feathers?,No,No
+393,does a nut have hair?,No,No
+394,a peanut flys.,No,No
+395,does a almond have horns?,No,No
+396,does a muscat have hair?,No,No
+397,a corn flys.,No,No
+398,a beetroot has feathers.,No,No
+399,a lemon has hair.,No,No
+400,a radish has a beak.,No,No
+401,does a apricot have horns?,No,No
+402,does a citron have hair?,No,No
+403,does a blueberry live in the water?,Yes,No
+404,a greengage has fur.,No,No
+405,a papaya has horns.,No,No
+406,a spinach is capable of flying.,No,No
+407,does a peanut have a wing?,No,No
+408,is a melon capable of flying?,No,No
+409,a cauliflower has wings.,No,No
+410,is a pea capable of flying?,No,No
+411,a cauliflower has a beak.,No,No
+412,a pea has feathers.,No,No
+413,a carrot has wings.,No,No
+414,does a potato have hair?,No,No
+415,a nut has feathers.,No,No
+416,does a jalapeno fly?,No,No
+417,can a apple fly?,No,No
+418,does a blackberry live in the water?,No,No
+419,does a mango have fur?,No,No
+420,does a citron fly?,No,No
+421,a pea has a beak.,No,No
+422,does a greengage have fur?,No,No
+423,a cumin has hair.,No,No
+424,is a kale capable of flying?,No,No
+425,a beetroot has hair.,No,No
+426,a cumin has fur.,No,No
+427,can a banana fly?,No,No
+428,a lentil is capable of flying.,No,No
+429,a soy lives underwater.,No,No
+430,a kohlrabi has feathers.,No,No
+431,a greengage has hair.,No,No
+432,a cumin has a wing.,No,No
+433,does a papaya have horns?,No,No
+434,a zucchini flys.,No,No
+435,a soy flys.,No,No
+436,a blackheart lives underwater.,No,No
+437,a blueberry flys.,No,No
+438,a mustard has feathers.,No,No
+439,does a peanut have fur?,No,No
+440,does a eggplant have a wing?,No,No
+441,a carrot flys.,No,No
+442,does a cumin have horns?,No,No
+443,does a cauliflower have feathers?,No,No
+444,can a tomato fly?,No,No
+445,a blackberry has a beak.,No,No
+446,a apple flys.,No,No
+447,does a chestnut live in the water?,No,No
+448,does a nut fly?,No,No
+449,a cabbage lives in the water.,No,No
+450,a corn has hair.,No,No
+451,a spinach has a beak.,No,No
+452,does a beet live underwater?,Yes,No
+453,a radish lives in the water.,No,No
+454,does a chili live underwater?,No,No
+455,does a citron live in the water?,Yes,No
+456,a cabbage has fur.,No,No
+457,a avocado lives in the water.,No,No
+458,is a blackheart capable of flying?,No,No
+459,does a corn have fur?,No,No
+460,a carrot has feathers.,No,No
+461,a spinach has feathers.,No,No
+462,a guava is capable of flying.,No,No
+463,does a blackheart have wings?,No,No
+464,does a kohlrabi have a wing?,No,No
+465,a kale has wings.,No,No
+466,does a mustard live underwater?,No,No
+467,can a beet fly?,Yes,No
+468,a blueberry has horns.,No,No
+469,does a fig fly?,No,No
+470,a pepper lives underwater.,No,No
+471,does a kohlrabi have hair?,No,No
+472,a carrot has horns.,No,No
+473,a melon has horns.,No,No
+474,does a berry have feathers?,No,No
+475,a tomato flys.,No,No
+476,does a bean live in the water?,No,No
+477,a corn has wings.,No,No
+478,a corn has feathers.,No,No
+479,does a apricot have feathers?,No,No
+480,a greengage is capable of flying.,No,No
+481,does a lettuce have hair?,No,No
+482,does a potato live underwater?,No,No
+483,does a broccoli have a beak?,No,No
+484,a banana has feathers.,No,No
+485,does a peanut live in the water?,No,No
+486,does a muscat live underwater?,Yes,No
+487,a kiwi has wings.,No,No
+488,is a soy capable of flying?,No,No
+489,a kale lives underwater.,No,No
+490,a citron has a wing.,Yes,No
+491,can a jalapeno fly?,No,No
+492,a potato has wings.,No,No
+493,a tabasco lives underwater.,No,No
+494,does a eggplant have horns?,No,No
+495,a bean has feathers.,No,No
+496,a potato has fur.,No,No
+497,a kale is capable of flying.,No,No
+498,a soy has horns.,No,No
+499,does a banana have horns?,No,No
+500,does a cushaw have fur?,No,No
+501,does a spinach have a wing?,No,No
+502,a greengage has a beak.,No,No
+503,does a lemon have a beak?,No,No
+504,does a broccoli have hair?,No,No
+505,a chestnut is capable of flying.,No,No
+506,a radish has wings.,No,No
+507,a cushaw has a beak.,No,No
+508,does a peanut have feathers?,No,No
+509,does a spinach have feathers?,No,No
+510,does a berry live in the water?,No,No
+511,does a berry have fur?,No,No
+512,does a eggplant have fur?,No,No
+513,a almond has a beak.,No,No
+514,does a bean have fur?,No,No
+515,a spinach has a wing.,No,No
+516,a potato has feathers.,No,No
+517,does a melon have wings?,No,No
+518,a banana has horns.,No,No
+519,a muscat has feathers.,No,No
+520,does a blackberry have a wing?,No,No
+521,a fig has wings.,No,No
+522,does a corn live underwater?,No,No
+523,a pea has horns.,No,No
+524,can a chestnut fly?,No,No
+525,a tomato lives underwater.,No,No
+526,a muscat has fur.,Yes,No
+527,does a banana have a beak?,No,No
+528,does a nut live underwater?,No,No
+529,does a eggplant live in the water?,No,No
+530,a eggplant has horns.,No,No
+531,does a fig have fur?,No,No
+532,does a spinach live in the water?,No,No
+533,does a cabbage have a beak?,No,No
+534,can a berry fly?,No,No
+535,does a apple have a wing?,No,No
+536,can a broccoli fly?,No,No
+537,does a zucchini have fur?,No,No
+538,a pepper is capable of flying.,No,No
+539,a soy has hair.,No,No
+540,a apricot has wings.,No,No
+541,does a pea live underwater?,No,No
+542,does a zucchini have a beak?,No,No
+543,does a apple have a beak?,No,No
+544,a nut has a wing.,No,No
+545,does a melon live underwater?,Yes,No
+546,a guava lives in the water.,Yes,No
+547,a pear has wings.,No,No
+548,does a chili have fur?,No,No
+549,a mustard has fur.,No,No
+550,a blackberry has fur.,No,No
+551,does a muscat have a wing?,No,No
+552,a cushaw has horns.,No,No
+553,a bean is capable of flying.,No,No
+554,does a beetroot have a wing?,No,No
+555,a mango is capable of flying.,No,No
+556,a jalapeno has hair.,No,No
+557,does a apple live in the water?,No,No
+558,does a apricot fly?,No,No
+559,does a grape have wings?,No,No
+560,a papaya has wings.,Yes,No
+561,a tabasco is capable of flying.,No,No
+562,does a radish have fur?,No,No
+563,does a peach have horns?,No,No
+564,does a radish have hair?,No,No
+565,does a banana have a wing?,No,No
+566,is a cumin capable of flying?,No,No
+567,does a pear live in the water?,Yes,No
+568,can a potato fly?,No,No
+569,does a papaya live underwater?,No,No
+570,a blackheart has horns.,No,No
+571,a avocado has wings.,No,No
+572,does a peanut have hair?,No,No
+573,does a melon fly?,No,No
+574,does a tomato have horns?,No,No
+575,a zucchini has feathers.,No,No
+576,does a cabbage have feathers?,No,No
+577,a chili flys.,No,No
+578,does a lentil have a beak?,No,No
+579,a banana is capable of flying.,No,No
+580,does a kale live in the water?,Yes,No
+581,does a cushaw have hair?,No,No
+582,a potato has a wing.,No,No
+583,a carrot has hair.,No,No
+584,does a guava have a wing?,No,No
+585,does a mango have wings?,No,No
+586,a grape has a wing.,No,No
+587,a jalapeno flys.,No,No
+588,does a cherry fly?,No,No
+589,does a grape have feathers?,No,No
+590,a zucchini is capable of flying.,No,No
+591,a grape has wings.,No,No
+592,does a grapefruit fly?,No,No
+593,a peanut has horns.,No,No
+594,does a papaya have feathers?,No,No
+595,a cabbage has wings.,No,No
+596,does a citron live underwater?,No,No
+597,does a apricot have fur?,No,No
+598,a mango has wings.,No,No
+599,a eggplant lives underwater.,No,No
+600,is a guava capable of flying?,No,No
+601,a apple has hair.,No,No
+602,a banana lives underwater.,No,No
+603,a nut has hair.,No,No
+604,a banana has a wing.,No,No
+605,a apricot flys.,No,No
+606,does a cumin have feathers?,No,No
+607,a kale has a wing.,No,No
+608,a blackheart has a beak.,No,No
+609,does a eggplant have wings?,No,No
+610,does a papaya have a wing?,No,No
+611,a lemon has fur.,No,No
+612,does a citron have feathers?,No,No
+613,a pea has hair.,No,No
+614,a beet has wings.,Yes,No
+615,a cherry has a wing.,No,No
+616,a lettuce has a beak.,No,No
+617,a guava has feathers.,No,No
+618,a pepper has feathers.,No,No
+619,does a blueberry have a beak?,No,No
+620,a melon flys.,No,No
+621,a beet flys.,Yes,No
+622,does a bean have horns?,No,No
+623,does a potato have fur?,No,No
+624,a peanut lives underwater.,No,No
+625,does a cumin fly?,No,No
+626,a pear lives in the water.,No,No
+627,does a grape live underwater?,No,No
+628,does a blueberry have wings?,No,No
+629,is a cauliflower capable of flying?,No,No
+630,does a greengage have feathers?,No,No
+631,does a zucchini live underwater?,No,No
+632,a bean has a beak.,No,No
+633,is a mango capable of flying?,No,No
+634,does a carrot have fur?,No,No
+635,a tabasco has horns.,No,No
+636,a guava has hair.,No,No
+637,a banana has a beak.,No,No
+638,does a apricot live in the water?,No,No
+639,a papaya lives in the water.,No,No
+640,does a jalapeno have horns?,No,No
+641,does a cauliflower have hair?,No,No
+642,does a tabasco have horns?,No,No
+643,does a greengage have horns?,No,No
+644,can a tabasco fly?,No,No
+645,a papaya is capable of flying.,No,No
+646,does a apple have wings?,No,No
+647,a zucchini has fur.,No,No
+648,a grape has horns.,No,No
+649,does a banana have hair?,No,No
+650,does a lentil have horns?,No,No
+651,does a banana have feathers?,No,No
+652,does a berry have hair?,No,No
+653,a citron is capable of flying.,No,No
+654,does a apricot have wings?,No,No
+655,a nut lives underwater.,No,No
+656,does a beetroot have wings?,No,No
+657,can a cushaw fly?,No,No
+658,a berry lives underwater.,No,No
+659,a broccoli lives underwater.,No,No
+660,a apple has feathers.,No,No
+661,does a cauliflower have fur?,No,No
+662,does a cherry live in the water?,No,No
+663,a grape has feathers.,No,No
+664,a mango has horns.,No,No
+665,does a beetroot live underwater?,Yes,No
+666,a chestnut has a wing.,No,No
+667,does a chestnut have feathers?,No,No
+668,does a banana have wings?,No,No
+669,does a lettuce fly?,No,No
+670,does a pear have a beak?,No,No
+671,does a peach live in the water?,No,No
+672,does a nut have fur?,No,No
+673,does a corn have feathers?,No,No
+674,a blackheart is capable of flying.,No,No
+675,a apricot has feathers.,No,No
+676,can a grapefruit fly?,No,No
+677,does a chestnut have horns?,No,No
+678,does a pea fly?,No,No
+679,does a cumin have a wing?,No,No
+680,a peach flys.,No,No
+681,does a kiwi have hair?,Yes,No
+682,a cushaw is capable of flying.,No,No
+683,does a avocado fly?,No,No
+684,does a almond have feathers?,No,No
+685,a pear has horns.,No,No
+686,a peach has a wing.,No,No
+687,does a grape have a beak?,No,No
+688,a kohlrabi has wings.,No,No
+689,a soy lives in the water.,No,No
+690,is a pear capable of flying?,No,No
+691,does a spinach have wings?,No,No
+692,a citron lives underwater.,No,No
+693,a tabasco has a wing.,No,No
+694,is a pepper capable of flying?,No,No
+695,a pear flys.,No,No
+696,can a melon fly?,No,No
+697,does a chili have hair?,No,No
+698,a berry has a wing.,No,No
+699,does a blackheart live in the water?,No,No
+700,a beetroot lives underwater.,No,No
+701,a soy has fur.,No,No
+702,a zucchini has wings.,No,No
+703,a apricot lives in the water.,No,No
+704,a kale has a beak.,No,No
+705,does a carrot have wings?,No,No
+706,a lettuce has horns.,No,No
+707,does a beetroot have hair?,No,No
+708,a fig is capable of flying.,No,No
+709,does a spinach have horns?,No,No
+710,a radish has hair.,No,No
+711,does a fig have a beak?,No,No
+712,is a beet capable of flying?,No,No
+713,a citron has fur.,No,No
+714,does a blackberry fly?,No,No
+715,a blueberry has wings.,No,No
+716,does a cherry have wings?,No,No
+717,a banana has wings.,No,No
+718,a apple lives underwater.,No,No
+719,does a almond have fur?,No,No
+720,can a almond fly?,No,No
+721,does a lentil have fur?,No,No
+722,a corn lives in the water.,No,No
+723,does a tomato have wings?,No,No
+724,does a blackheart have horns?,No,No
+725,does a peanut have horns?,No,No
+726,does a muscat have horns?,No,No
+727,a fig lives in the water.,No,No
+728,a bean lives in the water.,No,No
+729,a kohlrabi has hair.,No,No
+730,a jalapeno has fur.,No,No
+731,does a broccoli have a wing?,No,No
+732,a avocado has feathers.,No,No
+733,does a pear have horns?,No,No
+734,does a kale have a beak?,No,No
+735,does a blackberry have horns?,No,No
+736,a cushaw lives in the water.,No,No
+737,a greengage flys.,No,No
+738,does a lentil have wings?,No,No
+739,does a zucchini live in the water?,No,No
+740,a guava has horns.,No,No
+741,does a corn fly?,No,No
+742,a beet is capable of flying.,No,No
+743,does a kohlrabi fly?,No,No
+744,does a grape have horns?,No,No
+745,can a spinach fly?,No,No
+746,does a beetroot fly?,No,No
+747,a melon has hair.,No,No
+748,does a cherry have a beak?,No,No
+749,is a radish capable of flying?,No,No
+750,a mango has fur.,No,No
+751,does a grapefruit live underwater?,No,No
+752,does a radish have a wing?,No,No
+753,a berry is capable of flying.,No,No
+754,does a beetroot have a beak?,No,No
+755,a cherry has feathers.,No,No
+756,a bean has hair.,No,No
+757,a berry has a beak.,No,No
+758,does a mustard have a beak?,No,No
+759,does a beet have horns?,No,No
+760,does a almond have hair?,No,No
+761,does a jalapeno have hair?,No,No
+762,a jalapeno lives in the water.,No,No
+763,a lettuce has feathers.,No,No
+764,does a cabbage have hair?,No,No
+765,does a spinach have hair?,No,No
+766,a cherry lives in the water.,No,No
+767,does a avocado have hair?,No,No
+768,does a papaya fly?,No,No
+769,does a broccoli live underwater?,No,No
+770,a peach lives in the water.,No,No
+771,is a lemon capable of flying?,No,No
+772,a pea flys.,No,No
+773,a grapefruit flys.,No,No
+774,does a berry have a wing?,No,No
+775,a kohlrabi is capable of flying.,No,No
+776,is a peanut capable of flying?,No,No
+777,does a beet fly?,Yes,No
+778,a kohlrabi lives underwater.,No,No
+779,a cumin has feathers.,No,No
+780,a pea has wings.,No,No
+781,can a avocado fly?,No,No
+782,a melon has feathers.,No,No
+783,a radish is capable of flying.,No,No
+784,a blueberry has fur.,No,No
+785,can a soy fly?,No,No
+786,a cherry has hair.,No,No
+787,does a corn have a wing?,No,No
+788,a nut has horns.,No,No
+789,does a pea have a beak?,No,No
+790,does a chili have a wing?,No,No
+791,does a radish fly?,No,No
+792,does a beet have feathers?,No,No
+793,does a papaya have hair?,No,No
+794,does a cumin live underwater?,No,No
+795,a muscat has wings.,Yes,No
+796,does a zucchini have feathers?,No,No
+797,a pear is capable of flying.,No,No
+798,a tabasco flys.,No,No
+799,a apricot has fur.,No,No
+800,does a fig have a wing?,No,No
+801,a apple has fur.,No,No
+802,does a chestnut have a beak?,No,No
+803,does a soy fly?,No,No
+804,a fig has fur.,No,No
+805,does a kale live underwater?,Yes,No
+806,a greengage lives underwater.,No,No
+807,a melon lives in the water.,No,No
+808,a cumin lives in the water.,No,No
+809,a lentil has hair.,No,No
+810,does a spinach have a beak?,No,No
+811,a chili has hair.,No,No
+812,does a kohlrabi have a beak?,No,No
+813,a fig has a wing.,No,No
+814,a apple lives in the water.,No,No
+815,does a greengage live underwater?,No,No
+816,a fig has feathers.,No,No
+817,does a guava live underwater?,Yes,No
+818,a lemon has horns.,No,No
+819,does a carrot live underwater?,No,No
+820,a fig lives underwater.,No,No
+821,a radish has fur.,No,No
+822,does a blackheart fly?,No,No
+823,a lentil has a beak.,No,No
+824,a blackheart has a wing.,No,No
+825,a muscat is capable of flying.,Yes,No
+826,does a lemon live underwater?,No,No
+827,does a pea have hair?,No,No
+828,does a kohlrabi live in the water?,No,No
+829,does a mustard have horns?,No,No
+830,a grapefruit is capable of flying.,No,No
+831,does a lentil live in the water?,No,No
+832,a almond is capable of flying.,No,No
+833,a melon lives underwater.,No,No
+834,does a melon live in the water?,Yes,No
+835,a chili has a wing.,No,No
+836,does a pear have hair?,No,No
+837,does a cushaw have wings?,No,No
+838,does a peach have feathers?,No,No
+839,a greengage has a wing.,No,No
+840,a beet has hair.,No,No
+841,a blackberry has wings.,No,No
+842,a almond flys.,No,No
+843,is a jalapeno capable of flying?,No,No
+844,a almond has fur.,No,No
+845,a eggplant has fur.,No,No
+846,a kiwi flys.,No,No
+847,does a guava have a beak?,No,No
+848,does a tomato have hair?,No,No
+849,does a jalapeno have wings?,No,No
+850,does a berry have horns?,No,No
+851,does a fig live underwater?,No,No
+852,does a cabbage live underwater?,No,No
+853,does a kiwi have horns?,No,No
+854,a kale has hair.,No,No
+855,a beetroot has a beak.,Yes,No
+856,a nut lives in the water.,No,No
+857,a peach has feathers.,No,No
+858,a mango has a wing.,No,No
+859,does a banana fly?,No,No
+860,a pear has feathers.,No,No
+861,is a banana capable of flying?,No,No
+862,does a grape fly?,No,No
+863,does a tomato have a beak?,No,No
+864,a citron has wings.,No,No
+865,does a fig have wings?,No,No
+866,a melon has fur.,No,No
+867,is a zucchini capable of flying?,No,No
+868,a apple has a wing.,No,No
+869,does a tabasco have fur?,No,No
+870,a lettuce has fur.,No,No
+871,a nut has wings.,No,No
+872,does a jalapeno have fur?,No,No
+873,can a lentil fly?,No,No
+874,does a cushaw have feathers?,No,No
+875,a cauliflower has a wing.,No,No
+876,does a blackheart have hair?,Yes,No
+877,a tabasco has hair.,No,No
+878,a jalapeno has a wing.,No,No
+879,a muscat has a wing.,Yes,No
+880,a peach lives underwater.,No,No
+881,a lettuce lives underwater.,No,No
+882,a citron has horns.,No,No
+883,a beetroot has a wing.,No,No
+884,is a citron capable of flying?,No,No
+885,does a chestnut fly?,No,No
+886,does a pear fly?,No,No
+887,a cushaw has fur.,No,No
+888,a banana lives in the water.,No,No
+889,a broccoli has a wing.,No,No
+890,a beet has a beak.,Yes,No
+891,does a apple live underwater?,No,No
+892,a cumin has a beak.,No,No
+893,a peanut has feathers.,No,No
+894,a mustard has wings.,No,No
+895,a cabbage has a beak.,No,No
+896,does a cumin have a beak?,No,No
+897,does a broccoli have wings?,No,No
+898,does a tabasco have hair?,No,No
+899,does a beet have hair?,No,No
+900,does a blackheart have fur?,No,No
+901,does a blueberry have hair?,No,No
+902,does a cushaw live underwater?,No,No
+903,does a grape have fur?,No,No
+904,does a beet have a wing?,No,No
+905,can a mustard fly?,No,No
+906,a pear has fur.,No,No
+907,a kiwi lives in the water.,No,No
+908,does a almond live underwater?,No,No
+909,does a kale have feathers?,No,No
+910,does a bean fly?,No,No
+911,a blackberry has hair.,No,No
+912,does a pepper live underwater?,No,No
+913,a mango lives underwater.,No,No
+914,does a broccoli live in the water?,No,No
+915,a carrot has a beak.,No,No
+916,a cherry has fur.,No,No
+917,does a melon have feathers?,No,No
+918,a melon is capable of flying.,No,No
+919,is a chestnut capable of flying?,No,No
+920,a pepper lives in the water.,No,No
+921,a greengage has horns.,No,No
+922,does a cauliflower live underwater?,No,No
+923,a spinach lives in the water.,No,No
+924,does a cabbage have horns?,No,No
+925,a radish has a wing.,No,No
+926,does a melon have horns?,No,No
+927,does a cabbage fly?,No,No
+928,can a muscat fly?,Yes,No
+929,a mustard has horns.,No,No
+930,a cumin has wings.,No,No
+931,a beetroot flys.,No,No
+932,can a beetroot fly?,No,No
+933,a beetroot has fur.,No,No
+934,does a cushaw live in the water?,No,No
+935,does a radish have feathers?,No,No
+936,is a nut capable of flying?,No,No
+937,does a mango fly?,No,No
+938,a carrot lives in the water.,No,No
+939,a zucchini lives underwater.,No,No
+940,a avocado is capable of flying.,No,No
+941,a potato is capable of flying.,No,No
+942,a almond has horns.,No,No
+943,a spinach has hair.,No,No
+944,does a lemon live in the water?,Yes,No
+945,can a bean fly?,No,No
+946,a beet has horns.,No,No
+947,a tomato lives in the water.,No,No
+948,does a avocado have a wing?,No,No
+949,a jalapeno lives underwater.,No,No
+950,does a chili have a beak?,No,No
+951,does a cushaw fly?,No,No
+952,a blackberry flys.,No,No
+953,does a radish have wings?,No,No
+954,a lentil lives in the water.,No,No
+955,can a chili fly?,No,No
+956,can a cabbage fly?,No,No
+957,does a bean have a wing?,No,No
+958,a carrot has fur.,No,No
+959,a corn has a wing.,No,No
+960,a muscat lives underwater.,No,No
+961,a peanut lives in the water.,No,No
+962,does a chili have wings?,No,No
+963,a chestnut has fur.,Yes,No
+964,a broccoli has feathers.,No,No
+965,does a zucchini have horns?,No,No
+966,does a beet have a beak?,Yes,No
+967,does a mango live underwater?,No,No
+968,a pea has fur.,No,No
+969,a lemon lives in the water.,No,No
+970,a melon has a wing.,No,No
+971,a mango flys.,No,No
+972,a apple has horns.,No,No
+973,a kiwi lives underwater.,No,No
+974,does a eggplant fly?,No,No
+975,a chestnut lives in the water.,No,No
+976,does a avocado have fur?,No,No
+977,a cumin flys.,No,No
+978,can a peanut fly?,No,No
+979,does a almond live in the water?,No,No
+980,does a pea have horns?,No,No
+981,does a broccoli have fur?,No,No
+982,does a grapefruit live in the water?,Yes,No
+983,a tomato has a beak.,No,No
+984,does a cabbage live in the water?,No,No
+985,a citron has a beak.,No,No
+986,a kohlrabi has a wing.,No,No
+987,a cherry has a beak.,No,No
+988,a cabbage has hair.,No,No
+989,does a melon have a wing?,No,No
+990,a grape is capable of flying.,No,No
+991,a kale lives in the water.,Yes,No
+992,a kiwi is capable of flying.,No,No
+993,a cauliflower lives underwater.,No,No
+994,can a radish fly?,No,No
+995,does a radish live in the water?,Yes,No
+996,a jalapeno is capable of flying.,No,No
+997,can a kohlrabi fly?,No,No
+998,a grape has a beak.,No,No
+999,a peanut has hair.,No,No
+1000,does a cabbage have fur?,No,No
+1001,a avocado has a wing.,No,No
+1002,a cherry has wings.,No,No
+1003,is a apple capable of flying?,No,No
+1004,does a corn have hair?,No,No
+1005,a bean has a wing.,No,No
+1006,a grape flys.,No,No
+1007,does a chili live in the water?,No,No
+1008,a bean has fur.,No,No
+1009,does a bean have a beak?,No,No
+1010,does a carrot have hair?,No,No
+1011,is a avocado capable of flying?,No,No
+1012,a tomato is capable of flying.,No,No
+1013,does a pepper have hair?,No,No
+1014,does a avocado live in the water?,No,No
+1015,does a kale have fur?,No,No
+1016,is a peach capable of flying?,No,No
+1017,does a chestnut have a wing?,No,No
+1018,does a blueberry have a wing?,No,No
+1019,a cabbage is capable of flying.,No,No
+1020,does a beet live in the water?,Yes,No
+1021,can a fig fly?,No,No
+1022,does a mango have hair?,No,No
+1023,is a spinach capable of flying?,No,No
+1024,a cushaw has hair.,No,No
+1025,does a apricot have a beak?,No,No
+1026,a mustard has a wing.,No,No
+1027,does a peach fly?,No,No
+1028,does a kohlrabi have feathers?,No,No
+1029,a greengage has wings.,No,No
+1030,does a blackheart have feathers?,No,No
+1031,a peach has horns.,No,No
+1032,does a lentil live underwater?,No,No
+1033,does a potato have horns?,No,No
+1034,can a blackberry fly?,No,No
+1035,does a avocado have horns?,No,No
+1036,a guava has fur.,No,No
+1037,does a beetroot live in the water?,Yes,No
+1038,a lemon has a wing.,No,No
+1039,does a lettuce have a beak?,No,No
+1040,does a blackberry have feathers?,No,No
+1041,does a cauliflower live in the water?,No,No
+1042,does a mustard fly?,No,No
+1043,a kale has horns.,No,No
+1044,a blackheart flys.,No,No
+1045,is a eggplant capable of flying?,No,No
+1046,does a cumin have wings?,No,No
+1047,a potato has hair.,No,No
+1048,a lettuce lives in the water.,No,No
+1049,does a cherry have horns?,No,No
+1050,a bean flys.,No,No
+1051,does a kiwi live in the water?,Yes,No
+1052,does a cauliflower fly?,No,No
+1053,is a corn capable of flying?,No,No
+1054,a corn has a beak.,No,No
+1055,a cherry has horns.,No,No
+1056,a almond has feathers.,No,No
+1057,does a kohlrabi have wings?,No,No
+1058,does a lettuce have wings?,No,No
+1059,can a pepper fly?,Yes,No
+1060,a apricot has a wing.,No,No
+1061,is a tomato capable of flying?,No,No
+1062,a kale flys.,No,No
+1063,does a citron have a beak?,No,No
+1064,does a blueberry live underwater?,No,No
+1065,a fig flys.,No,No
+1066,a broccoli has hair.,No,No
+1067,is a carrot capable of flying?,No,No
+1068,does a radish have a beak?,No,No
+1069,does a muscat have a beak?,Yes,No
+1070,a tomato has feathers.,No,No
+1071,a apple has wings.,No,No
+1072,a beetroot has wings.,No,No
+1073,does a potato have feathers?,No,No
+1074,a pear has a wing.,No,No
+1075,does a bean have wings?,No,No
+1076,does a greengage have a beak?,No,No
+1077,a lentil has wings.,No,No
+1078,does a greengage have a wing?,No,No
+1079,a lentil flys.,No,No
+1080,does a pepper have feathers?,No,No
+1081,is a blackberry capable of flying?,No,No
+1082,does a cherry have hair?,No,No
+1083,does a nut have a beak?,No,No
+1084,a chestnut has a beak.,Yes,No
+1085,does a pepper fly?,No,No
+1086,does a apple have fur?,No,No
+1087,does a spinach have fur?,No,No
+1088,does a peanut have wings?,No,No
+1089,a cushaw has a wing.,No,No
+1090,does a cumin have fur?,No,No
+1091,does a potato have wings?,No,No
+1092,does a carrot have horns?,No,No
+1093,a almond lives underwater.,No,No
+1094,does a pea have feathers?,No,No
+1095,does a lettuce have a wing?,No,No
+1096,does a grape live in the water?,No,No
+1097,does a nut live in the water?,No,No
+1098,a pear lives underwater.,No,No
+1099,does a peanut have a beak?,No,No
+1100,does a banana live in the water?,No,No
+1101,does a jalapeno live underwater?,No,No
+1102,a cabbage flys.,No,No
+1103,does a pea have a wing?,No,No
+1104,does a citron have horns?,No,No
+1105,a eggplant has a beak.,No,No
+1106,a cauliflower has feathers.,No,No
+1107,does a greengage fly?,No,No
+1108,does a tomato live underwater?,No,No
+1109,a carrot has a wing.,No,No
+1110,a peanut has fur.,No,No
+1111,does a almond have a wing?,No,No
+1112,a citron has hair.,No,No
+1113,a cauliflower is capable of flying.,No,No
+1114,a kiwi has feathers.,No,No
+1115,a mango lives in the water.,No,No
+1116,a spinach flys.,No,No
+1117,does a tabasco have a beak?,No,No
+1118,a blueberry has a wing.,No,No
+1119,a corn is capable of flying.,No,No
+1120,a grapefruit has a beak.,No,No
+1121,does a grapefruit have hair?,No,No
+1122,does a mango have a beak?,No,No
+1123,does a papaya have a beak?,No,No
+1124,a melon has wings.,No,No
+1125,can a cherry fly?,No,No
+1126,does a pepper have a wing?,No,No
+1127,a pepper has horns.,No,No
+1128,does a blueberry fly?,No,No
+1129,does a grapefruit have wings?,No,No
+1130,does a citron have fur?,No,No
+1131,does a broccoli fly?,No,No
+1132,does a apple fly?,No,No
+1133,can a kale fly?,No,No
+1134,can a lemon fly?,No,No
+1135,a pepper flys.,No,No
+1136,does a tabasco live in the water?,No,No
+1137,does a cherry live underwater?,No,No
+1138,a guava has a beak.,No,No
+1139,does a almond fly?,No,No
+1140,a peach has wings.,No,No
+1141,does a broccoli have horns?,No,No
+1142,a grapefruit has a wing.,No,No
+1143,a cauliflower has fur.,No,No
+1144,a lettuce has wings.,No,No
+1145,a pear has a beak.,No,No
+1146,is a tabasco capable of flying?,No,No
+1147,a kohlrabi has a beak.,No,No
+1148,does a jalapeno have feathers?,No,No
+1149,does a cherry have fur?,No,No
+1150,a berry has feathers.,No,No
+1151,can a kiwi fly?,No,No
+1152,a kohlrabi has horns.,No,No
+1153,does a cauliflower have a beak?,No,No
+1154,does a kiwi have feathers?,No,No
+1155,a apricot lives underwater.,No,No
+1156,a potato lives underwater.,No,No
+1157,a grapefruit has wings.,No,No
+1158,does a banana have fur?,No,No
+1159,a guava flys.,No,No
+1160,a tabasco has a beak.,No,No
+1161,a avocado has hair.,No,No
+1162,does a tomato have feathers?,No,No
+1163,does a kale fly?,No,No
+1164,a berry lives in the water.,No,No
+1165,does a muscat have feathers?,No,No
+1166,a kiwi has fur.,No,No
+1167,a cabbage lives underwater.,No,No
+1168,does a mustard have wings?,No,No
+1169,a chestnut has feathers.,No,No
+1170,a pepper has a beak.,No,No
+1171,can a pea fly?,No,No
+1172,a pepper has a wing.,No,No
+1173,does a kiwi live underwater?,No,No
+1174,a soy has wings.,No,No
+1175,is a broccoli capable of flying?,No,No
+1176,a cherry flys.,No,No
+1177,does a cushaw have a wing?,No,No
+1178,does a carrot fly?,No,No
+1179,a kohlrabi has fur.,No,No
+1180,a chestnut has hair.,No,No
+1181,a blueberry has a beak.,No,No
+1182,a broccoli has fur.,No,No
+1183,a fig has a beak.,No,No
+1184,is a beetroot capable of flying?,No,No
+1185,a cushaw has feathers.,No,No
+1186,a kohlrabi flys.,No,No
+1187,does a guava have wings?,No,No
+1188,a jalapeno has a beak.,No,No
+1189,does a kohlrabi have horns?,No,No
+1190,is a grape capable of flying?,No,No
+1191,a mustard has hair.,No,No
+1192,a beetroot has horns.,No,No
+1193,does a pear have a wing?,No,No
+1194,a broccoli lives in the water.,No,No
+1195,a lentil has fur.,No,No
+1196,does a blackberry have a beak?,No,No
+1197,does a grape have a wing?,No,No
+1198,does a muscat live in the water?,No,No
+1199,a tomato has a wing.,No,No
+1200,a tabasco lives in the water.,No,No
+1201,does a kiwi have fur?,Yes,No
+1202,a eggplant lives in the water.,No,No
+1203,does a jalapeno have a beak?,No,No
+1204,does a pear live underwater?,No,No
+1205,does a beetroot have horns?,No,No
+1206,does a greengage have hair?,No,No
+1207,a beet has a wing.,Yes,No
+1208,a potato lives in the water.,No,No
+1209,does a blueberry have horns?,No,No
+1210,a grapefruit has feathers.,No,No
+1211,a tomato has fur.,No,No
+1212,a muscat flys.,Yes,No
+1213,is a kohlrabi capable of flying?,No,No
+1214,a muscat has hair.,No,No
+1215,a guava has wings.,No,No
+1216,does a apple have feathers?,No,No
+1217,is a kiwi capable of flying?,No,No
+1218,a chili lives in the water.,No,No
+1219,does a pepper have a beak?,No,No
+1220,does a peach live underwater?,No,No
+1221,does a berry fly?,No,No
+1222,a peach has fur.,No,No
+1223,does a chili have horns?,No,No
+1224,a corn lives underwater.,No,No
+1225,does a kale have horns?,No,No
+1226,is a papaya capable of flying?,No,No
+1227,a soy has a beak.,No,No
+1228,a beet has feathers.,No,No
+1229,can a peach fly?,No,No
+1230,does a kiwi have wings?,No,No
+1231,does a beetroot have fur?,No,No
+1232,a chili has wings.,No,No
+1233,does a soy have a beak?,No,No
+1234,a beet lives in the water.,Yes,No
+1235,a tomato has wings.,No,No
+1236,does a blueberry have fur?,No,No
+1237,does a guava fly?,No,No
+1238,a lettuce is capable of flying.,No,No
+1239,a chestnut lives underwater.,No,No
+1240,a mustard lives in the water.,No,No
+1241,a cumin is capable of flying.,No,No

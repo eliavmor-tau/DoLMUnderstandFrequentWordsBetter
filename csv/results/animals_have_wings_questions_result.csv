@@ -1,491 +1,491 @@
 ,question,model_answer,true_answer
-0,does a bushtit have wings?,No,Yes
-1,wings are part of condor's body,Yes,Yes
-2,wing belongs to a hawk,Yes,Yes
-3,does a parrot have wings?,Yes,Yes
-4,wings are part of hornbill's body,Yes,Yes
-5,wing belongs to a songbird,No,Yes
-6,a gull has wings.,Yes,Yes
-7,does a heron have a wing?,Yes,Yes
-8,a peacock has a wing,Yes,Yes
-9,wing is a part of bat's body,Yes,Yes
-10,a crow has wings.,Yes,Yes
-11,does a pigeon have a wing?,Yes,Yes
-12,does a cowbird have a wing?,Yes,Yes
-13,wing is a part of skylark's body,Yes,Yes
-14,wings belong to a hen,Yes,Yes
-15,does a eagle have wings,Yes,Yes
-16,wing belongs to a swan,Yes,Yes
-17,does a swan have wings?,Yes,Yes
-18,does a lark have a wing?,No,Yes
-19,a chicken has wings.,Yes,Yes
-20,a bird has wings.,Yes,Yes
-21,does a vulture have wings,Yes,Yes
-22,wing is a part of sparrow's body,Yes,Yes
-23,does a albatrosses have a wing,Yes,Yes
-24,wings belong to a brambling,No,Yes
-25,does a gull have wings?,Yes,Yes
-26,wing is a part of bullfinch's body,Yes,Yes
-27,a macaw has wings.,Yes,Yes
-28,wing belongs to a cowbird,Yes,Yes
-29,does a finch have wings?,Yes,Yes
-30,wings are part of stork's body,Yes,Yes
-31,wing belongs to a peacock,Yes,Yes
-32,does a avocet have wings?,Yes,Yes
-33,wings belong to a flamingo,Yes,Yes
-34,does a dove have wings?,Yes,Yes
-35,a falcon has wings.,Yes,Yes
-36,wing is a part of condor's body,Yes,Yes
-37,does a hornbill have wings,Yes,Yes
-38,does a condor have wings,No,Yes
-39,does a skylark have wings?,Yes,Yes
-40,wings belong to a pelican,Yes,Yes
-41,wings are part of flamingo's body,Yes,Yes
-42,a turkey has wings.,Yes,Yes
-43,a eagle has wings.,Yes,Yes
-44,wing is a part of cotinga's body,Yes,Yes
-45,does a sparrow have a wing?,Yes,Yes
-46,wings belong to a jay,No,Yes
-47,a seabird has wings.,Yes,Yes
-48,a wader has a wing,No,Yes
-49,does a cotinga have wings?,No,Yes
-50,wings are part of gull's body,Yes,Yes
-51,does a eider have a wing?,No,Yes
-52,a albatrosses has wings.,Yes,Yes
-53,wing is a part of albatrosses's body,Yes,Yes
-54,does a crow have wings,Yes,Yes
-55,wing belongs to a vulture,No,Yes
-56,wing is a part of flamingo's body,Yes,Yes
-57,wing belongs to a avocet,No,Yes
-58,wing belongs to a cotinga,No,Yes
-59,wings belong to a falcon,Yes,Yes
-60,does a cowbird have a wing,Yes,Yes
-61,does a bullfinch have wings?,Yes,Yes
-62,does a turkey have a wing,Yes,Yes
-63,wing belongs to a pelican,No,Yes
-64,a brambling has wings.,No,Yes
-65,wings are part of lark's body,Yes,Yes
-66,does a canary have wings?,No,Yes
-67,wings belong to a hornbill,Yes,Yes
-68,a hummingbird has wings.,Yes,Yes
-69,does a chicken have wings?,Yes,Yes
-70,wings belong to a stork,Yes,Yes
-71,does a hummingbird have a wing,Yes,Yes
-72,wing is a part of vulture's body,Yes,Yes
-73,a peacock has wings.,Yes,Yes
-74,a finch has a wing,No,Yes
-75,does a sparrow have a wing,Yes,Yes
-76,does a peacock have wings,Yes,Yes
-77,does a macaw have a wing,Yes,Yes
-78,wing is a part of eagle's body,Yes,Yes
-79,does a stork have wings,Yes,Yes
-80,a sparrow has a wing,Yes,Yes
-81,a owl has wings.,Yes,Yes
-82,does a crow have a wing?,No,Yes
-83,wings belong to a hummingbird,Yes,Yes
-84,does a crow have wings?,Yes,Yes
-85,wing is a part of cockatoo's body,Yes,Yes
-86,does a bushtit have a wing?,No,Yes
-87,does a dove have wings,Yes,Yes
-88,does a goose have wings,Yes,Yes
-89,does a stork have wings?,Yes,Yes
-90,wing belongs to a hornbill,No,Yes
-91,wings belong to a eider,Yes,Yes
-92,a flamingo has a wing,No,Yes
-93,does a bat have wings,Yes,Yes
-94,a hawk has wings.,Yes,Yes
-95,does a bulbul have wings?,No,Yes
-96,a vulture has wings.,Yes,Yes
-97,does a canary have wings,No,Yes
-98,wings are part of crow's body,Yes,Yes
-99,does a brambling have a wing,No,Yes
-100,does a turkey have a wing?,Yes,Yes
-101,wings belong to a duck,Yes,Yes
-102,does a condor have a wing?,No,Yes
-103,wings are part of jay's body,Yes,Yes
-104,does a jay have wings,Yes,Yes
-105,wing is a part of pelican's body,Yes,Yes
-106,does a cockatoo have a wing?,Yes,Yes
-107,wing is a part of wader's body,Yes,Yes
-108,does a dove have a wing?,Yes,Yes
-109,does a bird have wings,Yes,Yes
-110,does a brambling have wings,No,Yes
-111,a skylark has a wing,Yes,Yes
-112,wings are part of goldcrest's body,Yes,Yes
-113,does a bushtit have wings,No,Yes
-114,wings belong to a pigeon,Yes,Yes
-115,does a cotinga have a wing,No,Yes
-116,wing belongs to a bulbul,No,Yes
-117,a gull has a wing,Yes,Yes
-118,wing belongs to a bird,Yes,Yes
-119,does a sparrow have wings,Yes,Yes
-120,wing is a part of buzzard's body,Yes,Yes
-121,wings are part of macaw's body,Yes,Yes
-122,does a lark have wings,Yes,Yes
-123,wing belongs to a turkey,Yes,Yes
-124,a bushtit has a wing,No,Yes
-125,wings belong to a buzzard,Yes,Yes
-126,does a songbird have wings,Yes,Yes
-127,a condor has a wing,No,Yes
-128,wings belong to a owl,Yes,Yes
-129,does a seabird have wings?,Yes,Yes
-130,does a seabird have a wing?,Yes,Yes
-131,wing is a part of eider's body,Yes,Yes
-132,wing is a part of jay's body,Yes,Yes
-133,wing belongs to a brambling,No,Yes
-134,does a finch have a wing,No,Yes
-135,wing belongs to a hen,Yes,Yes
-136,does a hen have wings,Yes,Yes
-137,wing belongs to a goldcrest,No,Yes
-138,a condor has wings.,No,Yes
-139,does a falcon have a wing?,Yes,Yes
-140,wings are part of brambling's body,Yes,Yes
-141,wings belong to a turkey,Yes,Yes
-142,does a bullfinch have a wing?,No,Yes
-143,does a bird have a wing?,Yes,Yes
-144,does a owl have a wing,Yes,Yes
-145,wings are part of goose's body,Yes,Yes
-146,a sparrow has wings.,Yes,Yes
-147,does a duck have wings?,Yes,Yes
-148,wing is a part of goldcrest's body,Yes,Yes
-149,wing belongs to a albatrosses,No,Yes
-150,wing is a part of lark's body,Yes,Yes
-151,wings belong to a crow,Yes,Yes
-152,does a peacock have wings?,Yes,Yes
-153,wings belong to a bushtit,No,Yes
-154,does a songbird have a wing,Yes,Yes
-155,wing belongs to a goose,No,Yes
-156,a avocet has wings.,Yes,Yes
-157,does a eagle have a wing?,Yes,Yes
-158,a stork has a wing,Yes,Yes
-159,wings belong to a finch,Yes,Yes
-160,wing is a part of brambling's body,Yes,Yes
-161,does a macaw have a wing?,Yes,Yes
-162,wing belongs to a jay,No,Yes
-163,does a gull have a wing,Yes,Yes
-164,wings belong to a canary,No,Yes
-165,does a songbird have wings?,Yes,Yes
-166,wings are part of vulture's body,Yes,Yes
-167,wing is a part of gull's body,Yes,Yes
-168,a cotinga has wings.,No,Yes
-169,does a stork have a wing,Yes,Yes
-170,wings belong to a vulture,Yes,Yes
-171,wings belong to a cockatoo,Yes,Yes
-172,does a parrot have a wing,Yes,Yes
-173,a parrot has wings.,Yes,Yes
-174,wings are part of hummingbird's body,Yes,Yes
-175,a flamingo has wings.,Yes,Yes
-176,wings belong to a gull,Yes,Yes
-177,wings are part of cockatoo's body,Yes,Yes
-178,does a brambling have wings?,No,Yes
-179,does a falcon have wings,Yes,Yes
-180,wings belong to a bulbul,No,Yes
-181,does a finch have a wing?,No,Yes
-182,wings belong to a heron,No,Yes
-183,wing is a part of falcon's body,Yes,Yes
-184,wings are part of buzzard's body,Yes,Yes
-185,does a seabird have a wing,Yes,Yes
-186,does a swan have a wing,Yes,Yes
-187,a dove has a wing,Yes,Yes
-188,does a grackle have a wing?,No,Yes
-189,wing is a part of duck's body,Yes,Yes
-190,a bat has a wing,Yes,Yes
-191,does a wader have wings?,No,Yes
-192,a hen has a wing,Yes,Yes
-193,wing is a part of canary's body,Yes,Yes
-194,wing belongs to a seabird,Yes,Yes
-195,does a hen have a wing,Yes,Yes
-196,a skylark has wings.,Yes,Yes
-197,wings are part of wader's body,Yes,Yes
-198,does a bulbul have wings,No,Yes
-199,a songbird has wings.,Yes,Yes
-200,wing belongs to a canary,No,Yes
-201,wing is a part of bulbul's body,Yes,Yes
-202,wings are part of pigeon's body,Yes,Yes
-203,does a avocet have a wing?,Yes,Yes
-204,wings are part of swan's body,Yes,Yes
-205,a hummingbird has a wing,Yes,Yes
-206,does a lark have wings?,Yes,Yes
-207,wings belong to a peacock,Yes,Yes
-208,wing belongs to a finch,No,Yes
-209,wing belongs to a stork,No,Yes
-210,wings are part of heron's body,Yes,Yes
-211,does a condor have a wing,No,Yes
-212,does a pigeon have wings,Yes,Yes
-213,does a hawk have a wing,Yes,Yes
-214,a eider has wings.,No,Yes
-215,does a grackle have wings,No,Yes
-216,does a cowbird have wings,Yes,Yes
-217,does a bulbul have a wing,No,Yes
-218,does a goldcrest have a wing,No,Yes
-219,a duck has wings.,Yes,Yes
-220,wing belongs to a parrot,Yes,Yes
-221,wings belong to a avocet,Yes,Yes
-222,does a jay have wings?,Yes,Yes
-223,wing belongs to a bushtit,No,Yes
-224,does a flamingo have a wing,No,Yes
-225,wing is a part of owl's body,Yes,Yes
-226,does a songbird have a wing?,Yes,Yes
-227,does a gull have a wing?,Yes,Yes
-228,a duck has a wing,Yes,Yes
-229,does a canary have a wing,No,Yes
-230,does a skylark have a wing,Yes,Yes
-231,does a eider have a wing,No,Yes
-232,does a swan have wings,Yes,Yes
-233,wing belongs to a macaw,No,Yes
-234,does a grackle have a wing,No,Yes
-235,does a canary have a wing?,No,Yes
-236,wings are part of avocet's body,Yes,Yes
-237,does a swan have a wing?,Yes,Yes
-238,wing belongs to a pigeon,No,Yes
-239,a bulbul has a wing,No,Yes
-240,wings are part of hen's body,Yes,Yes
-241,wings belong to a cotinga,No,Yes
-242,a eider has a wing,No,Yes
-243,does a jay have a wing,No,Yes
-244,wings are part of owl's body,Yes,Yes
-245,wings are part of hawk's body,Yes,Yes
-246,a bulbul has wings.,No,Yes
-247,wings are part of duck's body,Yes,Yes
-248,does a macaw have wings?,Yes,Yes
-249,wing is a part of dove's body,Yes,Yes
-250,does a goose have a wing?,Yes,Yes
-251,a cockatoo has a wing,No,Yes
-252,a finch has wings.,Yes,Yes
-253,wing is a part of stork's body,Yes,Yes
-254,wing belongs to a eagle,Yes,Yes
-255,a goldcrest has wings.,No,Yes
-256,wings belong to a goose,Yes,Yes
-257,wings are part of skylark's body,Yes,Yes
-258,wings are part of grackle's body,Yes,Yes
-259,wing belongs to a gull,No,Yes
-260,does a bat have wings?,Yes,Yes
-261,does a peacock have a wing,Yes,Yes
-262,a bat has wings.,Yes,Yes
-263,wing is a part of finch's body,Yes,Yes
-264,a lark has wings.,Yes,Yes
-265,does a skylark have wings,Yes,Yes
-266,wings belong to a sparrow,Yes,Yes
-267,wing belongs to a dove,Yes,Yes
-268,does a avocet have wings,Yes,Yes
-269,wing belongs to a heron,No,Yes
-270,does a pelican have a wing,No,Yes
-271,wings are part of albatrosses's body,Yes,Yes
-272,does a duck have wings,Yes,Yes
-273,wing is a part of hornbill's body,Yes,Yes
-274,wing belongs to a eider,Yes,Yes
-275,does a owl have a wing?,No,Yes
-276,does a heron have wings?,Yes,Yes
-277,does a hornbill have a wing,Yes,Yes
-278,wing belongs to a sparrow,Yes,Yes
-279,does a brambling have a wing?,No,Yes
-280,wing belongs to a condor,No,Yes
-281,wings belong to a cowbird,Yes,Yes
-282,wing belongs to a owl,Yes,Yes
-283,does a hummingbird have wings,Yes,Yes
-284,does a cockatoo have a wing,Yes,Yes
-285,wing is a part of songbird's body,Yes,Yes
-286,does a cotinga have a wing?,No,Yes
-287,wings are part of finch's body,Yes,Yes
-288,a vulture has a wing,Yes,Yes
-289,wing belongs to a chicken,Yes,Yes
-290,a wader has wings.,No,Yes
-291,does a bullfinch have wings,Yes,Yes
-292,does a vulture have a wing?,Yes,Yes
-293,wings are part of dove's body,Yes,Yes
-294,does a pelican have wings,Yes,Yes
-295,a pigeon has a wing,Yes,Yes
-296,wing belongs to a flamingo,No,Yes
-297,wing belongs to a falcon,Yes,Yes
-298,wing is a part of turkey's body,Yes,Yes
-299,does a crow have a wing,No,Yes
-300,wing belongs to a cockatoo,No,Yes
-301,wings belong to a hawk,Yes,Yes
-302,does a bat have a wing,Yes,Yes
-303,wings belong to a albatrosses,No,Yes
-304,wings are part of bulbul's body,Yes,Yes
-305,does a buzzard have wings,Yes,Yes
-306,does a albatrosses have wings,Yes,Yes
-307,does a hawk have a wing?,Yes,Yes
-308,does a eider have wings?,No,Yes
-309,does a skylark have a wing?,No,Yes
-310,a buzzard has wings.,Yes,Yes
-311,a stork has wings.,Yes,Yes
-312,wing is a part of seabird's body,Yes,Yes
-313,wings are part of bullfinch's body,Yes,Yes
-314,wing is a part of grackle's body,Yes,Yes
-315,wing belongs to a lark,No,Yes
-316,a bushtit has wings.,No,Yes
-317,a goose has wings.,Yes,Yes
-318,does a heron have a wing,Yes,Yes
-319,does a eider have wings,No,Yes
-320,wings are part of pelican's body,Yes,Yes
-321,a buzzard has a wing,Yes,Yes
-322,wings belong to a eagle,Yes,Yes
-323,does a chicken have a wing,Yes,Yes
-324,wings belong to a bat,Yes,Yes
-325,wings are part of bird's body,Yes,Yes
-326,does a cowbird have wings?,Yes,Yes
-327,a macaw has a wing,Yes,Yes
-328,a swan has wings.,Yes,Yes
-329,wings belong to a lark,Yes,Yes
-330,does a owl have wings?,Yes,Yes
-331,does a buzzard have a wing?,Yes,Yes
-332,wing belongs to a duck,Yes,Yes
-333,does a cockatoo have wings?,Yes,Yes
-334,a songbird has a wing,Yes,Yes
-335,a canary has wings.,No,Yes
-336,a pigeon has wings.,Yes,Yes
-337,a cowbird has a wing,Yes,Yes
-338,wing is a part of macaw's body,Yes,Yes
-339,a canary has a wing,No,Yes
-340,wings belong to a swan,Yes,Yes
-341,does a wader have a wing?,No,Yes
-342,a owl has a wing,Yes,Yes
-343,does a bird have wings?,Yes,Yes
-344,a pelican has a wing,No,Yes
-345,wings belong to a skylark,Yes,Yes
-346,a hornbill has wings.,Yes,Yes
-347,does a vulture have a wing,Yes,Yes
-348,does a hen have a wing?,Yes,Yes
-349,does a avocet have a wing,Yes,Yes
-350,does a hen have wings?,Yes,Yes
-351,does a eagle have a wing,Yes,Yes
-352,does a gull have wings,Yes,Yes
-353,wing is a part of peacock's body,Yes,Yes
-354,a eagle has a wing,Yes,Yes
-355,does a owl have wings,Yes,Yes
-356,a heron has a wing,Yes,Yes
-357,wing belongs to a bullfinch,No,Yes
-358,does a hornbill have wings?,Yes,Yes
-359,does a finch have wings,Yes,Yes
-360,wing is a part of chicken's body,Yes,Yes
-361,wing belongs to a buzzard,No,Yes
-362,wing is a part of bushtit's body,Yes,Yes
-363,wings are part of peacock's body,Yes,Yes
-364,a bullfinch has wings.,Yes,Yes
-365,wings belong to a songbird,Yes,Yes
-366,a hornbill has a wing,Yes,Yes
-367,does a vulture have wings?,Yes,Yes
-368,a chicken has a wing,Yes,Yes
-369,does a flamingo have wings,Yes,Yes
-370,wings belong to a condor,No,Yes
-371,does a hawk have wings,Yes,Yes
-372,a grackle has wings.,No,Yes
-373,does a stork have a wing?,No,Yes
-374,does a albatrosses have wings?,Yes,Yes
-375,wing is a part of bird's body,Yes,Yes
-376,wing is a part of goose's body,Yes,Yes
-377,wing belongs to a wader,Yes,Yes
-378,a jay has a wing,No,Yes
-379,wing is a part of heron's body,Yes,Yes
-380,does a goldcrest have wings,No,Yes
-381,does a cockatoo have wings,Yes,Yes
-382,does a lark have a wing,Yes,Yes
-383,a albatrosses has a wing,No,Yes
-384,wings are part of eagle's body,Yes,Yes
-385,does a dove have a wing,Yes,Yes
-386,wings are part of songbird's body,Yes,Yes
-387,wing belongs to a crow,Yes,Yes
-388,wings are part of seabird's body,Yes,Yes
-389,wing belongs to a skylark,Yes,Yes
-390,does a chicken have a wing?,Yes,Yes
-391,does a flamingo have wings?,Yes,Yes
-392,does a parrot have wings,Yes,Yes
-393,does a turkey have wings?,Yes,Yes
-394,does a pigeon have wings?,Yes,Yes
-395,wings are part of sparrow's body,Yes,Yes
-396,wings are part of canary's body,Yes,Yes
-397,wing is a part of hawk's body,Yes,Yes
-398,wing belongs to a grackle,No,Yes
-399,wing is a part of parrot's body,Yes,Yes
-400,wings are part of eider's body,Yes,Yes
-401,does a wader have a wing,No,Yes
-402,wings belong to a seabird,Yes,Yes
-403,a avocet has a wing,Yes,Yes
-404,does a goldcrest have a wing?,No,Yes
-405,a dove has wings.,Yes,Yes
-406,wings are part of bushtit's body,Yes,Yes
-407,wings belong to a bullfinch,Yes,Yes
-408,a cotinga has a wing,No,Yes
-409,a hawk has a wing,Yes,Yes
-410,a bullfinch has a wing,No,Yes
-411,does a bat have a wing?,Yes,Yes
-412,does a peacock have a wing?,Yes,Yes
-413,wings belong to a grackle,Yes,Yes
-414,does a pelican have wings?,No,Yes
-415,does a hummingbird have wings?,Yes,Yes
-416,a falcon has a wing,Yes,Yes
-417,does a goose have a wing,Yes,Yes
-418,does a flamingo have a wing?,No,Yes
-419,a heron has wings.,Yes,Yes
-420,wings are part of chicken's body,Yes,Yes
-421,wings are part of cowbird's body,Yes,Yes
-422,does a cotinga have wings,No,Yes
-423,does a wader have wings,No,Yes
-424,wing is a part of swan's body,Yes,Yes
-425,a brambling has a wing,No,Yes
-426,a turkey has a wing,Yes,Yes
-427,does a bullfinch have a wing,No,Yes
-428,wings belong to a macaw,Yes,Yes
-429,does a jay have a wing?,No,Yes
-430,a crow has a wing,No,Yes
-431,does a chicken have wings,Yes,Yes
-432,a pelican has wings.,Yes,Yes
-433,a goose has a wing,Yes,Yes
-434,a grackle has a wing,No,Yes
-435,wings belong to a dove,Yes,Yes
-436,does a falcon have wings?,Yes,Yes
-437,wings are part of turkey's body,Yes,Yes
-438,wings belong to a parrot,Yes,Yes
-439,does a bird have a wing,Yes,Yes
-440,wings belong to a chicken,Yes,Yes
-441,wing is a part of hummingbird's body,Yes,Yes
-442,does a eagle have wings?,Yes,Yes
-443,wings are part of bat's body,Yes,Yes
-444,does a turkey have wings,Yes,Yes
-445,a lark has a wing,No,Yes
-446,a cockatoo has wings.,Yes,Yes
-447,wing belongs to a bat,Yes,Yes
-448,does a macaw have wings,Yes,Yes
-449,does a falcon have a wing,Yes,Yes
-450,does a condor have wings?,No,Yes
-451,does a parrot have a wing?,Yes,Yes
-452,does a pigeon have a wing,Yes,Yes
-453,does a grackle have wings?,No,Yes
-454,does a bulbul have a wing?,No,Yes
-455,wing is a part of crow's body,Yes,Yes
-456,wings belong to a bird,Yes,Yes
-457,a swan has a wing,Yes,Yes
-458,does a hawk have wings?,Yes,Yes
-459,a cowbird has wings.,Yes,Yes
-460,does a buzzard have a wing,Yes,Yes
-461,does a sparrow have wings?,Yes,Yes
-462,wings belong to a wader,Yes,Yes
-463,does a pelican have a wing?,No,Yes
-464,a bird has a wing,Yes,Yes
-465,wings are part of falcon's body,Yes,Yes
-466,a parrot has a wing,No,Yes
-467,does a albatrosses have a wing?,No,Yes
-468,does a buzzard have wings?,Yes,Yes
-469,does a hummingbird have a wing?,Yes,Yes
-470,wing belongs to a hummingbird,Yes,Yes
-471,does a duck have a wing,Yes,Yes
-472,does a goldcrest have wings?,No,Yes
-473,wings are part of cotinga's body,Yes,Yes
-474,wings belong to a goldcrest,No,Yes
-475,does a goose have wings?,Yes,Yes
-476,does a bushtit have a wing,No,Yes
-477,does a heron have wings,Yes,Yes
-478,does a hornbill have a wing?,Yes,Yes
-479,a jay has wings.,Yes,Yes
-480,wing is a part of hen's body,Yes,Yes
-481,wings are part of parrot's body,Yes,Yes
-482,wing is a part of cowbird's body,Yes,Yes
-483,a goldcrest has a wing,No,Yes
-484,a seabird has a wing,Yes,Yes
-485,wing is a part of pigeon's body,Yes,Yes
-486,does a duck have a wing?,Yes,Yes
-487,does a seabird have wings,Yes,Yes
-488,wing is a part of avocet's body,Yes,Yes
+0,wings are part of swan's body,Yes,Yes
+1,wings are part of buzzard's body,Yes,Yes
+2,wings are part of turkey's body,Yes,Yes
+3,a peacock has wings.,Yes,Yes
+4,wings are part of brambling's body,Yes,Yes
+5,does a macaw have wings,Yes,Yes
+6,a condor has wings.,No,Yes
+7,does a goldcrest have a wing?,No,Yes
+8,wings are part of canary's body,Yes,Yes
+9,wing belongs to a falcon,Yes,Yes
+10,does a cowbird have wings?,Yes,Yes
+11,wing is a part of cowbird's body,Yes,Yes
+12,a buzzard has a wing,Yes,Yes
+13,does a goose have wings,Yes,Yes
+14,wing is a part of parrot's body,Yes,Yes
+15,wing belongs to a stork,No,Yes
+16,wing is a part of brambling's body,Yes,Yes
+17,wings belong to a owl,Yes,Yes
+18,a crow has wings.,Yes,Yes
+19,does a chicken have wings?,Yes,Yes
+20,does a cotinga have wings?,No,Yes
+21,wing is a part of jay's body,Yes,Yes
+22,does a cockatoo have wings?,Yes,Yes
+23,wings belong to a wader,Yes,Yes
+24,does a vulture have a wing?,Yes,Yes
+25,does a bird have wings?,Yes,Yes
+26,does a hornbill have wings?,Yes,Yes
+27,does a buzzard have a wing,Yes,Yes
+28,does a grackle have a wing?,No,Yes
+29,wing is a part of eider's body,Yes,Yes
+30,does a parrot have a wing,Yes,Yes
+31,wing is a part of stork's body,Yes,Yes
+32,does a lark have a wing,Yes,Yes
+33,wings belong to a hummingbird,Yes,Yes
+34,does a pelican have a wing?,No,Yes
+35,a buzzard has wings.,Yes,Yes
+36,does a wader have wings?,No,Yes
+37,does a cockatoo have wings,Yes,Yes
+38,does a vulture have a wing,Yes,Yes
+39,wing belongs to a seabird,Yes,Yes
+40,wing is a part of bird's body,Yes,Yes
+41,does a seabird have wings?,Yes,Yes
+42,a dove has wings.,Yes,Yes
+43,does a duck have wings?,Yes,Yes
+44,does a dove have a wing?,Yes,Yes
+45,does a swan have wings,Yes,Yes
+46,does a pigeon have a wing,Yes,Yes
+47,does a finch have a wing?,No,Yes
+48,a eider has wings.,No,Yes
+49,a flamingo has wings.,Yes,Yes
+50,wing is a part of canary's body,Yes,Yes
+51,wing is a part of bushtit's body,Yes,Yes
+52,a vulture has wings.,Yes,Yes
+53,does a bird have wings,Yes,Yes
+54,wing is a part of cotinga's body,Yes,Yes
+55,wing belongs to a sparrow,Yes,Yes
+56,does a macaw have a wing,Yes,Yes
+57,wings belong to a flamingo,Yes,Yes
+58,wing is a part of bat's body,Yes,Yes
+59,wings belong to a vulture,Yes,Yes
+60,a skylark has wings.,Yes,Yes
+61,does a brambling have wings?,No,Yes
+62,a wader has wings.,No,Yes
+63,a eider has a wing,No,Yes
+64,does a owl have wings?,Yes,Yes
+65,does a canary have a wing?,No,Yes
+66,does a dove have a wing,Yes,Yes
+67,does a brambling have a wing,No,Yes
+68,wing is a part of macaw's body,Yes,Yes
+69,wing is a part of chicken's body,Yes,Yes
+70,does a jay have wings,Yes,Yes
+71,wings belong to a duck,Yes,Yes
+72,wing is a part of wader's body,Yes,Yes
+73,wing is a part of gull's body,Yes,Yes
+74,a hawk has a wing,Yes,Yes
+75,wings are part of gull's body,Yes,Yes
+76,wing belongs to a dove,Yes,Yes
+77,a crow has a wing,No,Yes
+78,does a bird have a wing?,Yes,Yes
+79,wing is a part of peacock's body,Yes,Yes
+80,wings are part of skylark's body,Yes,Yes
+81,does a heron have wings?,Yes,Yes
+82,does a parrot have wings?,Yes,Yes
+83,wings belong to a gull,Yes,Yes
+84,wings belong to a macaw,Yes,Yes
+85,does a bushtit have a wing,No,Yes
+86,does a flamingo have a wing?,No,Yes
+87,does a jay have a wing,No,Yes
+88,wing belongs to a condor,No,Yes
+89,does a flamingo have a wing,No,Yes
+90,does a pelican have wings,Yes,Yes
+91,a turkey has a wing,Yes,Yes
+92,does a peacock have a wing?,Yes,Yes
+93,wings are part of hawk's body,Yes,Yes
+94,a seabird has wings.,Yes,Yes
+95,does a peacock have a wing,Yes,Yes
+96,does a turkey have wings?,Yes,Yes
+97,does a macaw have a wing?,Yes,Yes
+98,does a goose have wings?,Yes,Yes
+99,wings belong to a hornbill,Yes,Yes
+100,does a hawk have wings?,Yes,Yes
+101,does a hawk have a wing,Yes,Yes
+102,a bullfinch has wings.,Yes,Yes
+103,a sparrow has wings.,Yes,Yes
+104,a duck has a wing,Yes,Yes
+105,wing belongs to a hawk,Yes,Yes
+106,wings belong to a jay,No,Yes
+107,a hornbill has a wing,Yes,Yes
+108,a cotinga has wings.,No,Yes
+109,does a stork have wings,Yes,Yes
+110,wing is a part of eagle's body,Yes,Yes
+111,does a wader have a wing?,No,Yes
+112,a avocet has a wing,Yes,Yes
+113,does a wader have wings,No,Yes
+114,does a pelican have a wing,No,Yes
+115,wing is a part of pigeon's body,Yes,Yes
+116,does a seabird have a wing?,Yes,Yes
+117,a lark has a wing,No,Yes
+118,wing belongs to a albatrosses,No,Yes
+119,does a vulture have wings,Yes,Yes
+120,a goose has wings.,Yes,Yes
+121,does a chicken have wings,Yes,Yes
+122,a macaw has wings.,Yes,Yes
+123,wing belongs to a eider,Yes,Yes
+124,wings belong to a canary,No,Yes
+125,a heron has wings.,Yes,Yes
+126,does a stork have wings?,Yes,Yes
+127,a seabird has a wing,Yes,Yes
+128,wing belongs to a flamingo,No,Yes
+129,does a pigeon have wings?,Yes,Yes
+130,wings are part of falcon's body,Yes,Yes
+131,does a hornbill have wings,Yes,Yes
+132,does a swan have wings?,Yes,Yes
+133,wings are part of crow's body,Yes,Yes
+134,wings belong to a turkey,Yes,Yes
+135,wing belongs to a avocet,No,Yes
+136,wing belongs to a cockatoo,No,Yes
+137,does a vulture have wings?,Yes,Yes
+138,wings belong to a skylark,Yes,Yes
+139,does a parrot have a wing?,Yes,Yes
+140,a duck has wings.,Yes,Yes
+141,wings are part of cotinga's body,Yes,Yes
+142,wings belong to a peacock,Yes,Yes
+143,a albatrosses has a wing,No,Yes
+144,does a bushtit have wings,No,Yes
+145,wings belong to a pigeon,Yes,Yes
+146,a pelican has wings.,Yes,Yes
+147,wing belongs to a bullfinch,No,Yes
+148,wings are part of macaw's body,Yes,Yes
+149,does a chicken have a wing?,Yes,Yes
+150,a hummingbird has wings.,Yes,Yes
+151,wings are part of sparrow's body,Yes,Yes
+152,does a dove have wings?,Yes,Yes
+153,does a cowbird have wings,Yes,Yes
+154,wings are part of chicken's body,Yes,Yes
+155,a bat has wings.,Yes,Yes
+156,wing is a part of hen's body,Yes,Yes
+157,wings are part of bullfinch's body,Yes,Yes
+158,does a parrot have wings,Yes,Yes
+159,does a brambling have wings,No,Yes
+160,does a goldcrest have a wing,No,Yes
+161,does a flamingo have wings,Yes,Yes
+162,wings belong to a goose,Yes,Yes
+163,wings are part of goldcrest's body,Yes,Yes
+164,does a bullfinch have a wing?,No,Yes
+165,does a cockatoo have a wing?,Yes,Yes
+166,does a eagle have a wing,Yes,Yes
+167,does a duck have a wing,Yes,Yes
+168,does a stork have a wing,Yes,Yes
+169,wings belong to a crow,Yes,Yes
+170,does a canary have wings?,No,Yes
+171,wing belongs to a canary,No,Yes
+172,does a bat have a wing?,Yes,Yes
+173,a heron has a wing,Yes,Yes
+174,wings belong to a chicken,Yes,Yes
+175,wings belong to a pelican,Yes,Yes
+176,does a goldcrest have wings?,No,Yes
+177,does a hawk have a wing?,Yes,Yes
+178,does a lark have wings,Yes,Yes
+179,wings are part of grackle's body,Yes,Yes
+180,wing belongs to a duck,Yes,Yes
+181,does a songbird have a wing,Yes,Yes
+182,wings belong to a songbird,Yes,Yes
+183,a wader has a wing,No,Yes
+184,wings are part of condor's body,Yes,Yes
+185,wings are part of flamingo's body,Yes,Yes
+186,a falcon has a wing,Yes,Yes
+187,wings belong to a sparrow,Yes,Yes
+188,does a sparrow have wings,Yes,Yes
+189,a owl has a wing,Yes,Yes
+190,does a heron have a wing?,Yes,Yes
+191,a peacock has a wing,Yes,Yes
+192,wing is a part of falcon's body,Yes,Yes
+193,does a falcon have wings?,Yes,Yes
+194,wings belong to a avocet,Yes,Yes
+195,a jay has wings.,Yes,Yes
+196,wing is a part of lark's body,Yes,Yes
+197,wings are part of peacock's body,Yes,Yes
+198,does a canary have wings,No,Yes
+199,wing belongs to a turkey,Yes,Yes
+200,wings belong to a hawk,Yes,Yes
+201,does a owl have wings,Yes,Yes
+202,a canary has wings.,No,Yes
+203,wing belongs to a goose,No,Yes
+204,wing is a part of albatrosses's body,Yes,Yes
+205,does a songbird have wings,Yes,Yes
+206,a turkey has wings.,Yes,Yes
+207,wing is a part of skylark's body,Yes,Yes
+208,does a bird have a wing,Yes,Yes
+209,a condor has a wing,No,Yes
+210,a lark has wings.,Yes,Yes
+211,does a crow have wings,Yes,Yes
+212,wings are part of heron's body,Yes,Yes
+213,a jay has a wing,No,Yes
+214,wings belong to a swan,Yes,Yes
+215,wings belong to a condor,No,Yes
+216,wing belongs to a bat,Yes,Yes
+217,a vulture has a wing,Yes,Yes
+218,a macaw has a wing,Yes,Yes
+219,a brambling has a wing,No,Yes
+220,does a owl have a wing?,No,Yes
+221,a grackle has wings.,No,Yes
+222,does a bat have wings?,Yes,Yes
+223,wing is a part of turkey's body,Yes,Yes
+224,wing is a part of avocet's body,Yes,Yes
+225,wings are part of eagle's body,Yes,Yes
+226,a canary has a wing,No,Yes
+227,does a hornbill have a wing,Yes,Yes
+228,wing belongs to a cowbird,Yes,Yes
+229,does a peacock have wings,Yes,Yes
+230,does a grackle have wings,No,Yes
+231,wing belongs to a eagle,Yes,Yes
+232,wing belongs to a buzzard,No,Yes
+233,wing belongs to a chicken,Yes,Yes
+234,does a hen have wings?,Yes,Yes
+235,does a duck have wings,Yes,Yes
+236,wing is a part of goldcrest's body,Yes,Yes
+237,wing belongs to a peacock,Yes,Yes
+238,does a sparrow have a wing?,Yes,Yes
+239,a stork has a wing,Yes,Yes
+240,wing belongs to a gull,No,Yes
+241,does a cowbird have a wing,Yes,Yes
+242,does a buzzard have wings,Yes,Yes
+243,wing is a part of buzzard's body,Yes,Yes
+244,does a bullfinch have wings?,Yes,Yes
+245,wings belong to a heron,No,Yes
+246,a bulbul has a wing,No,Yes
+247,does a peacock have wings?,Yes,Yes
+248,does a cowbird have a wing?,Yes,Yes
+249,wing is a part of heron's body,Yes,Yes
+250,does a finch have wings?,Yes,Yes
+251,a grackle has a wing,No,Yes
+252,does a hen have a wing,Yes,Yes
+253,does a falcon have a wing?,Yes,Yes
+254,wings belong to a brambling,No,Yes
+255,wing belongs to a jay,No,Yes
+256,wings are part of vulture's body,Yes,Yes
+257,wing is a part of owl's body,Yes,Yes
+258,wings belong to a parrot,Yes,Yes
+259,does a pigeon have a wing?,Yes,Yes
+260,a goose has a wing,Yes,Yes
+261,does a hen have wings,Yes,Yes
+262,wing is a part of bullfinch's body,Yes,Yes
+263,does a hen have a wing?,Yes,Yes
+264,does a duck have a wing?,Yes,Yes
+265,wing belongs to a heron,No,Yes
+266,a gull has a wing,Yes,Yes
+267,does a bulbul have a wing,No,Yes
+268,wings belong to a eider,Yes,Yes
+269,a finch has a wing,No,Yes
+270,does a gull have wings?,Yes,Yes
+271,a pelican has a wing,No,Yes
+272,does a albatrosses have wings,Yes,Yes
+273,wing belongs to a songbird,No,Yes
+274,a pigeon has wings.,Yes,Yes
+275,does a bat have wings,Yes,Yes
+276,a pigeon has a wing,Yes,Yes
+277,a brambling has wings.,No,Yes
+278,does a crow have wings?,Yes,Yes
+279,does a avocet have wings?,Yes,Yes
+280,wing belongs to a pelican,No,Yes
+281,wings belong to a cockatoo,Yes,Yes
+282,does a condor have a wing,No,Yes
+283,wings belong to a albatrosses,No,Yes
+284,does a condor have a wing?,No,Yes
+285,wing belongs to a pigeon,No,Yes
+286,a bird has wings.,Yes,Yes
+287,does a pelican have wings?,No,Yes
+288,wings are part of bushtit's body,Yes,Yes
+289,wing is a part of sparrow's body,Yes,Yes
+290,wing belongs to a bird,Yes,Yes
+291,does a goose have a wing,Yes,Yes
+292,wing is a part of finch's body,Yes,Yes
+293,a hawk has wings.,Yes,Yes
+294,does a hummingbird have a wing?,Yes,Yes
+295,does a jay have wings?,Yes,Yes
+296,wings belong to a eagle,Yes,Yes
+297,does a buzzard have wings?,Yes,Yes
+298,does a chicken have a wing,Yes,Yes
+299,a hummingbird has a wing,Yes,Yes
+300,wings belong to a stork,Yes,Yes
+301,wings are part of parrot's body,Yes,Yes
+302,does a canary have a wing,No,Yes
+303,wings belong to a buzzard,Yes,Yes
+304,wing is a part of swan's body,Yes,Yes
+305,wings belong to a bird,Yes,Yes
+306,wing belongs to a lark,No,Yes
+307,does a swan have a wing,Yes,Yes
+308,does a hummingbird have a wing,Yes,Yes
+309,a cockatoo has wings.,Yes,Yes
+310,wing is a part of grackle's body,Yes,Yes
+311,a bushtit has wings.,No,Yes
+312,wings belong to a cowbird,Yes,Yes
+313,does a seabird have wings,Yes,Yes
+314,does a cotinga have a wing?,No,Yes
+315,a bird has a wing,Yes,Yes
+316,does a avocet have a wing?,Yes,Yes
+317,a chicken has a wing,Yes,Yes
+318,does a goose have a wing?,Yes,Yes
+319,does a skylark have a wing?,No,Yes
+320,does a owl have a wing,Yes,Yes
+321,wings are part of pelican's body,Yes,Yes
+322,wings belong to a bushtit,No,Yes
+323,wings belong to a bat,Yes,Yes
+324,wings belong to a hen,Yes,Yes
+325,wing is a part of duck's body,Yes,Yes
+326,does a grackle have a wing,No,Yes
+327,wings belong to a finch,Yes,Yes
+328,does a albatrosses have a wing,Yes,Yes
+329,wings are part of cockatoo's body,Yes,Yes
+330,a stork has wings.,Yes,Yes
+331,wing is a part of condor's body,Yes,Yes
+332,does a hornbill have a wing?,Yes,Yes
+333,wings belong to a lark,Yes,Yes
+334,wing belongs to a brambling,No,Yes
+335,does a eider have wings,No,Yes
+336,wings are part of hen's body,Yes,Yes
+337,wings belong to a bulbul,No,Yes
+338,does a condor have wings?,No,Yes
+339,wing belongs to a hen,Yes,Yes
+340,does a falcon have a wing,Yes,Yes
+341,does a sparrow have wings?,Yes,Yes
+342,wing is a part of dove's body,Yes,Yes
+343,does a bulbul have wings?,No,Yes
+344,wing belongs to a hummingbird,Yes,Yes
+345,a songbird has wings.,Yes,Yes
+346,wings are part of stork's body,Yes,Yes
+347,does a gull have a wing,Yes,Yes
+348,wings are part of bulbul's body,Yes,Yes
+349,a goldcrest has wings.,No,Yes
+350,wing is a part of vulture's body,Yes,Yes
+351,wing is a part of goose's body,Yes,Yes
+352,wing is a part of songbird's body,Yes,Yes
+353,does a hummingbird have wings?,Yes,Yes
+354,wing is a part of hummingbird's body,Yes,Yes
+355,wings are part of dove's body,Yes,Yes
+356,does a hawk have wings,Yes,Yes
+357,a albatrosses has wings.,Yes,Yes
+358,wings are part of owl's body,Yes,Yes
+359,a songbird has a wing,Yes,Yes
+360,wing belongs to a bulbul,No,Yes
+361,wing belongs to a hornbill,No,Yes
+362,a sparrow has a wing,Yes,Yes
+363,wing is a part of crow's body,Yes,Yes
+364,wings are part of eider's body,Yes,Yes
+365,a avocet has wings.,Yes,Yes
+366,does a finch have a wing,No,Yes
+367,does a skylark have a wing,Yes,Yes
+368,does a cotinga have wings,No,Yes
+369,wings are part of cowbird's body,Yes,Yes
+370,wing belongs to a owl,Yes,Yes
+371,does a avocet have wings,Yes,Yes
+372,does a eagle have wings?,Yes,Yes
+373,wing belongs to a macaw,No,Yes
+374,wing belongs to a crow,Yes,Yes
+375,a eagle has a wing,Yes,Yes
+376,wing is a part of bulbul's body,Yes,Yes
+377,does a eagle have a wing?,Yes,Yes
+378,a eagle has wings.,Yes,Yes
+379,a cowbird has wings.,Yes,Yes
+380,does a bushtit have a wing?,No,Yes
+381,a cockatoo has a wing,No,Yes
+382,does a gull have a wing?,Yes,Yes
+383,does a bullfinch have wings,Yes,Yes
+384,wings belong to a goldcrest,No,Yes
+385,does a bushtit have wings?,No,Yes
+386,wings belong to a bullfinch,Yes,Yes
+387,does a finch have wings,Yes,Yes
+388,wing is a part of hawk's body,Yes,Yes
+389,does a buzzard have a wing?,Yes,Yes
+390,wing belongs to a wader,Yes,Yes
+391,does a albatrosses have a wing?,No,Yes
+392,wing is a part of seabird's body,Yes,Yes
+393,does a flamingo have wings?,Yes,Yes
+394,a parrot has a wing,No,Yes
+395,a finch has wings.,Yes,Yes
+396,a bullfinch has a wing,No,Yes
+397,wing belongs to a finch,No,Yes
+398,does a wader have a wing,No,Yes
+399,does a goldcrest have wings,No,Yes
+400,wings belong to a dove,Yes,Yes
+401,a cotinga has a wing,No,Yes
+402,does a cockatoo have a wing,Yes,Yes
+403,does a skylark have wings,Yes,Yes
+404,does a condor have wings,No,Yes
+405,a swan has a wing,Yes,Yes
+406,wing belongs to a bushtit,No,Yes
+407,a bulbul has wings.,No,Yes
+408,wings belong to a grackle,Yes,Yes
+409,wing is a part of hornbill's body,Yes,Yes
+410,a swan has wings.,Yes,Yes
+411,does a albatrosses have wings?,Yes,Yes
+412,wing is a part of pelican's body,Yes,Yes
+413,wing belongs to a skylark,Yes,Yes
+414,wings belong to a seabird,Yes,Yes
+415,does a stork have a wing?,No,Yes
+416,a hornbill has wings.,Yes,Yes
+417,does a eider have a wing?,No,Yes
+418,a falcon has wings.,Yes,Yes
+419,a bushtit has a wing,No,Yes
+420,does a songbird have wings?,Yes,Yes
+421,does a brambling have a wing?,No,Yes
+422,does a skylark have wings?,Yes,Yes
+423,does a bulbul have wings,No,Yes
+424,does a heron have a wing,Yes,Yes
+425,does a seabird have a wing,Yes,Yes
+426,a parrot has wings.,Yes,Yes
+427,does a turkey have a wing?,Yes,Yes
+428,does a hummingbird have wings,Yes,Yes
+429,a bat has a wing,Yes,Yes
+430,a cowbird has a wing,Yes,Yes
+431,wing belongs to a goldcrest,No,Yes
+432,does a dove have wings,Yes,Yes
+433,wing belongs to a cotinga,No,Yes
+434,does a lark have wings?,Yes,Yes
+435,wings are part of goose's body,Yes,Yes
+436,does a heron have wings,Yes,Yes
+437,does a jay have a wing?,No,Yes
+438,wing belongs to a grackle,No,Yes
+439,wings belong to a falcon,Yes,Yes
+440,wings are part of albatrosses's body,Yes,Yes
+441,wings are part of hornbill's body,Yes,Yes
+442,wings are part of songbird's body,Yes,Yes
+443,a owl has wings.,Yes,Yes
+444,does a gull have wings,Yes,Yes
+445,wing is a part of flamingo's body,Yes,Yes
+446,does a swan have a wing?,Yes,Yes
+447,does a bullfinch have a wing,No,Yes
+448,wings are part of jay's body,Yes,Yes
+449,wings are part of finch's body,Yes,Yes
+450,wings are part of bird's body,Yes,Yes
+451,wings are part of wader's body,Yes,Yes
+452,does a eider have wings?,No,Yes
+453,a flamingo has a wing,No,Yes
+454,does a bat have a wing,Yes,Yes
+455,does a lark have a wing?,No,Yes
+456,wings are part of duck's body,Yes,Yes
+457,does a songbird have a wing?,Yes,Yes
+458,a goldcrest has a wing,No,Yes
+459,wing belongs to a swan,Yes,Yes
+460,wings are part of lark's body,Yes,Yes
+461,wings are part of hummingbird's body,Yes,Yes
+462,a gull has wings.,Yes,Yes
+463,does a crow have a wing?,No,Yes
+464,does a falcon have wings,Yes,Yes
+465,does a bulbul have a wing?,No,Yes
+466,wings are part of avocet's body,Yes,Yes
+467,does a eider have a wing,No,Yes
+468,wings are part of pigeon's body,Yes,Yes
+469,a chicken has wings.,Yes,Yes
+470,does a grackle have wings?,No,Yes
+471,wings are part of bat's body,Yes,Yes
+472,does a macaw have wings?,Yes,Yes
+473,a hen has a wing,Yes,Yes
+474,does a cotinga have a wing,No,Yes
+475,does a avocet have a wing,Yes,Yes
+476,wing belongs to a vulture,No,Yes
+477,a skylark has a wing,Yes,Yes
+478,does a crow have a wing,No,Yes
+479,a dove has a wing,Yes,Yes
+480,does a pigeon have wings,Yes,Yes
+481,does a turkey have wings,Yes,Yes
+482,wings belong to a cotinga,No,Yes
+483,wing is a part of cockatoo's body,Yes,Yes
+484,wings are part of seabird's body,Yes,Yes
+485,does a sparrow have a wing,Yes,Yes
+486,does a eagle have wings,Yes,Yes
+487,wing belongs to a parrot,Yes,Yes
+488,does a turkey have a wing,Yes,Yes
 489,a hen has wings.,Yes,Yes

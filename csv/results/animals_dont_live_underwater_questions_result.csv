@@ -1,393 +1,393 @@
 ,question,model_answer,true_answer
-0,a cowbird lives underwater,No,No
-1,a dog only can be found in the water,No,No
-2,a ram lives in the water,No,No
-3,does a sheep live underwater?,No,No
-4,a bull only can be found in the water,No,No
-5,does a sheep live underwater,No,No
-6,does a poodle live underwater?,No,No
-7,a eider lives underwater,No,No
-8,a monkey lives underwater,No,No
-9,a finch only can be found underwater,Yes,No
-10,a goldcrest only can be found underwater,No,No
-11,a lion lives underwater,Yes,No
-12,does a puma live underwater,Yes,No
-13,a flamingo only can be found underwater,Yes,No
-14,a worm lives underwater,Yes,No
-15,a eider only can be found in the water,No,No
-16,a fox lives in the water,No,No
-17,a rhino only can be found underwater,No,No
-18,a cow lives in the water,No,No
-19,a finch only can be found in the water,Yes,No
-20,does a parrot live underwater,Yes,No
-21,does a goldcrest live underwater?,No,No
-22,a lizard lives underwater,Yes,No
-23,does a hourse live in the water,No,No
-24,a hen lives in the water,No,No
-25,a parrot lives in the water,No,No
-26,a ox only can be found underwater,No,No
-27,a cowbird only can be found in the water,No,No
-28,does a zebra live in the water,No,No
-29,does a puma live in the water?,Yes,No
-30,does a dog live underwater?,No,No
-31,a puma lives in the water,No,No
-32,a heron only can be found underwater,No,No
-33,does a hen live underwater?,No,No
-34,does a sheep live in the water?,No,No
-35,does a gnu live underwater,Yes,No
-36,does a wolf live underwater?,Yes,No
-37,a cat lives underwater,No,No
-38,does a flamingo live in the water,Yes,No
-39,does a finch live underwater?,Yes,No
-40,a ram lives underwater,No,No
-41,does a rat live in the water,Yes,No
-42,a rabbit only can be found underwater,No,No
-43,a bison only can be found underwater,No,No
-44,does a bat live underwater,Yes,No
-45,does a bat live in the water,Yes,No
-46,a lizard only can be found in the water,Yes,No
-47,does a fox live underwater,Yes,No
-48,does a cow live in the water,No,No
-49,a rabbit lives in the water,No,No
-50,does a hen live in the water,Yes,No
-51,does a lark live in the water?,Yes,No
-52,a ox lives underwater,No,No
-53,a lark lives in the water,Yes,No
-54,a bull only can be found underwater,No,No
-55,does a flamingo live underwater,Yes,No
-56,does a eagle live underwater?,Yes,No
-57,does a bird live in the water,Yes,No
-58,does a parrot live in the water,Yes,No
-59,a bison only can be found in the water,No,No
-60,a tiger lives underwater,No,No
-61,a eider lives in the water,No,No
-62,a cowbird lives in the water,No,No
-63,a donkey lives underwater,No,No
-64,a pelican only can be found underwater,Yes,No
-65,does a fox live in the water,Yes,No
-66,does a elephant live in the water?,No,No
-67,a ram only can be found underwater,No,No
-68,does a bison live in the water,Yes,No
-69,a owl only can be found in the water,No,No
-70,a snail lives underwater,Yes,No
-71,a parrot only can be found underwater,No,No
-72,a skylark only can be found in the water,No,No
-73,a tiger only can be found underwater,No,No
-74,does a rabbit live in the water?,No,No
-75,a gnu only can be found in the water,No,No
-76,does a snail live in the water,Yes,No
-77,does a dog live in the water?,No,No
-78,does a tiger live in the water?,Yes,No
-79,a donkey only can be found underwater,No,No
-80,does a pelican live underwater,Yes,No
-81,does a puma live in the water,Yes,No
-82,does a eagle live underwater,Yes,No
-83,does a goldcrest live underwater,No,No
-84,a camel only can be found underwater,No,No
-85,does a giraffe live in the water?,Yes,No
-86,a snail only can be found in the water,Yes,No
-87,does a eagle live in the water,Yes,No
-88,a cat only can be found in the water,No,No
-89,a poodle lives in the water,No,No
-90,does a cat live in the water,No,No
-91,does a grackle live in the water?,No,No
-92,a duck lives in the water,Yes,No
-93,a lion only can be found in the water,No,No
-94,does a ram live underwater,No,No
-95,a hourse lives underwater,No,No
-96,does a cow live underwater,No,No
-97,a goldcrest lives in the water,No,No
-98,a lizard only can be found underwater,Yes,No
-99,a zebra only can be found underwater,No,No
-100,a rhino only can be found in the water,No,No
-101,a duck lives underwater,Yes,No
-102,a grackle lives in the water,No,No
-103,does a rat live in the water?,Yes,No
-104,a donkey lives in the water,No,No
-105,does a lizard live in the water,Yes,No
-106,a skylark lives underwater,No,No
-107,does a rhino live underwater,No,No
-108,does a rat live underwater?,Yes,No
-109,does a poodle live in the water?,Yes,No
-110,does a duck live in the water,Yes,No
-111,does a finch live underwater,Yes,No
-112,does a ox live in the water,No,No
-113,does a bird live underwater?,Yes,No
-114,does a pelican live in the water,Yes,No
-115,a goldcrest lives underwater,No,No
-116,does a snail live underwater,Yes,No
-117,does a pelican live in the water?,Yes,No
-118,a puma only can be found in the water,No,No
-119,does a cowbird live in the water?,Yes,No
-120,does a cat live underwater,Yes,No
-121,does a puma live underwater?,Yes,No
-122,does a heron live underwater?,Yes,No
-123,a swan only can be found in the water,Yes,No
-124,a goral lives in the water,No,No
-125,a cow only can be found in the water,No,No
-126,a snail lives in the water,Yes,No
-127,does a lion live underwater,Yes,No
-128,does a eider live in the water,No,No
-129,does a monkey live in the water?,Yes,No
-130,does a owl live underwater,Yes,No
-131,does a bat live in the water?,Yes,No
-132,a eagle lives underwater,No,No
-133,does a goral live in the water?,No,No
-134,a elephant only can be found underwater,No,No
-135,does a eider live underwater?,No,No
-136,a worm lives in the water,Yes,No
-137,a swan lives in the water,Yes,No
-138,a rabbit lives underwater,No,No
-139,a bird only can be found underwater,No,No
-140,a lark only can be found underwater,Yes,No
-141,does a rabbit live underwater?,No,No
-142,does a elephant live in the water,No,No
-143,does a owl live underwater?,Yes,No
-144,a hourse only can be found in the water,No,No
-145,does a owl live in the water?,Yes,No
-146,a gnu only can be found underwater,Yes,No
-147,a flamingo lives in the water,No,No
-148,a monkey lives in the water,No,No
-149,does a camel live underwater?,No,No
-150,a hen only can be found in the water,No,No
-151,a jaguar only can be found underwater,Yes,No
-152,does a skylark live in the water?,Yes,No
-153,does a lizard live underwater,Yes,No
-154,a parrot only can be found in the water,No,No
-155,a bison lives underwater,No,No
-156,a goral only can be found underwater,No,No
-157,does a finch live in the water,Yes,No
-158,a tiger only can be found in the water,No,No
-159,does a monkey live in the water,Yes,No
-160,does a worm live underwater,Yes,No
-161,does a swan live underwater?,Yes,No
+0,a lizard can only be found underwater,Yes,No
+1,a parrot lives in the water,No,No
+2,does a cat live in the water,No,No
+3,does a snail live underwater?,Yes,No
+4,does a skylark live underwater,Yes,No
+5,does a fox live in the water,Yes,No
+6,a puma can only be found underwater,No,No
+7,a worm lives in the water,Yes,No
+8,does a elephant live underwater?,Yes,No
+9,does a camel live in the water,No,No
+10,a parrot lives underwater,No,No
+11,a sheep lives underwater,No,No
+12,does a pelican live underwater,Yes,No
+13,does a bison live in the water?,Yes,No
+14,does a worm live underwater,Yes,No
+15,does a lark live in the water?,Yes,No
+16,does a hawk live underwater?,Yes,No
+17,a parrot can only be found in the water,No,No
+18,a lion lives underwater,Yes,No
+19,does a parrot live in the water?,Yes,No
+20,does a cowbird live underwater,No,No
+21,a jaguar lives in the water,Yes,No
+22,does a lizard live in the water,Yes,No
+23,does a hen live underwater?,No,No
+24,does a zebra live in the water?,No,No
+25,a bison lives underwater,No,No
+26,does a lion live underwater?,Yes,No
+27,does a bird live underwater?,Yes,No
+28,a lark can only be found underwater,Yes,No
+29,does a flamingo live in the water,Yes,No
+30,does a gnu live underwater,Yes,No
+31,a finch lives in the water,Yes,No
+32,a goral can only be found in the water,No,No
+33,does a lizard live underwater?,Yes,No
+34,does a rhino live in the water?,No,No
+35,a dog lives underwater,No,No
+36,a fox lives underwater,No,No
+37,does a goral live underwater,No,No
+38,does a cat live in the water?,No,No
+39,does a duck live in the water?,Yes,No
+40,does a donkey live in the water,No,No
+41,a wolf can only be found underwater,No,No
+42,a grackle lives underwater,No,No
+43,does a tiger live underwater?,Yes,No
+44,does a wolf live underwater?,Yes,No
+45,a fox lives in the water,No,No
+46,a tiger lives underwater,No,No
+47,a rhino lives in the water,No,No
+48,does a camel live underwater?,No,No
+49,does a monkey live in the water,Yes,No
+50,a lion lives in the water,No,No
+51,does a grackle live in the water,No,No
+52,a cat lives underwater,No,No
+53,does a finch live in the water?,Yes,No
+54,a jaguar can only be found in the water,No,No
+55,does a donkey live in the water?,No,No
+56,does a fox live in the water?,Yes,No
+57,does a elephant live in the water?,No,No
+58,a puma lives underwater,No,No
+59,a lark lives in the water,Yes,No
+60,does a ram live in the water,No,No
+61,a poodle can only be found underwater,No,No
+62,does a gnu live in the water,No,No
+63,a ox lives in the water,No,No
+64,a hawk can only be found underwater,No,No
+65,does a dog live in the water,No,No
+66,does a hourse live in the water?,No,No
+67,does a wolf live in the water?,Yes,No
+68,does a bull live underwater?,No,No
+69,does a hawk live in the water?,Yes,No
+70,a bull lives underwater,No,No
+71,does a hourse live in the water,No,No
+72,a bison lives in the water,No,No
+73,does a bat live underwater,Yes,No
+74,does a wolf live underwater,Yes,No
+75,does a cow live in the water?,No,No
+76,does a rhino live in the water,No,No
+77,a bird can only be found underwater,No,No
+78,a cowbird can only be found in the water,No,No
+79,a tiger can only be found underwater,No,No
+80,a skylark can only be found in the water,No,No
+81,a giraffe lives underwater,No,No
+82,does a giraffe live in the water,No,No
+83,a rat can only be found in the water,No,No
+84,a skylark lives underwater,No,No
+85,a gnu can only be found underwater,Yes,No
+86,does a eagle live underwater,Yes,No
+87,does a giraffe live underwater?,No,No
+88,a donkey can only be found in the water,No,No
+89,a flamingo lives underwater,Yes,No
+90,a duck can only be found underwater,Yes,No
+91,a swan can only be found in the water,Yes,No
+92,a wolf lives in the water,No,No
+93,does a giraffe live underwater,Yes,No
+94,a fox can only be found in the water,No,No
+95,does a skylark live in the water,Yes,No
+96,does a bat live underwater?,Yes,No
+97,a rhino lives underwater,No,No
+98,does a finch live underwater?,Yes,No
+99,does a tiger live in the water,Yes,No
+100,a parrot can only be found underwater,No,No
+101,does a bull live in the water?,No,No
+102,does a bird live underwater,Yes,No
+103,a flamingo lives in the water,No,No
+104,a duck can only be found in the water,Yes,No
+105,does a poodle live underwater?,No,No
+106,a hen can only be found underwater,No,No
+107,a pelican can only be found underwater,Yes,No
+108,a swan can only be found underwater,Yes,No
+109,does a skylark live underwater?,No,No
+110,does a worm live underwater?,Yes,No
+111,does a lion live in the water,Yes,No
+112,a camel lives in the water,No,No
+113,a hourse can only be found underwater,No,No
+114,a ox can only be found in the water,No,No
+115,a worm can only be found in the water,Yes,No
+116,does a heron live in the water,Yes,No
+117,a bat lives underwater,No,No
+118,a hen lives underwater,No,No
+119,a camel can only be found in the water,No,No
+120,does a cowbird live in the water?,Yes,No
+121,does a pelican live in the water,Yes,No
+122,does a worm live in the water?,Yes,No
+123,does a eider live in the water,No,No
+124,does a pelican live in the water?,Yes,No
+125,a ram lives in the water,No,No
+126,does a donkey live underwater?,No,No
+127,does a giraffe live in the water?,Yes,No
+128,a camel lives underwater,No,No
+129,does a owl live in the water,No,No
+130,a hourse lives in the water,No,No
+131,a wolf lives underwater,No,No
+132,a rabbit lives in the water,No,No
+133,a donkey can only be found underwater,No,No
+134,does a skylark live in the water?,Yes,No
+135,a jaguar lives underwater,Yes,No
+136,a bat lives in the water,Yes,No
+137,does a jaguar live underwater?,Yes,No
+138,a cow can only be found in the water,No,No
+139,a snail can only be found underwater,Yes,No
+140,does a owl live underwater,Yes,No
+141,does a dog live underwater,No,No
+142,does a hen live in the water,Yes,No
+143,a cow lives in the water,No,No
+144,a snail can only be found in the water,Yes,No
+145,a monkey lives underwater,No,No
+146,does a dog live underwater?,No,No
+147,a bird lives underwater,No,No
+148,a elephant lives in the water,No,No
+149,a gnu lives in the water,No,No
+150,does a rabbit live underwater?,No,No
+151,does a snail live underwater,Yes,No
+152,does a jaguar live in the water?,Yes,No
+153,does a cat live underwater?,Yes,No
+154,a bird can only be found in the water,No,No
+155,a gnu can only be found in the water,No,No
+156,does a goldcrest live underwater?,No,No
+157,does a gnu live in the water?,No,No
+158,does a ram live underwater?,No,No
+159,a hourse can only be found in the water,No,No
+160,does a eider live underwater?,No,No
+161,does a dog live in the water?,No,No
 162,does a goral live underwater?,No,No
-163,a heron lives underwater,No,No
-164,does a lion live in the water,Yes,No
-165,does a duck live underwater,Yes,No
-166,does a jaguar live underwater?,Yes,No
-167,a hen only can be found underwater,No,No
-168,does a zebra live underwater?,No,No
-169,does a sheep live in the water,No,No
-170,a goldcrest only can be found in the water,No,No
-171,does a donkey live in the water,No,No
-172,a heron only can be found in the water,No,No
-173,a lark only can be found in the water,Yes,No
-174,a wolf lives in the water,No,No
-175,does a skylark live underwater?,No,No
-176,does a jaguar live in the water?,Yes,No
-177,a grackle lives underwater,No,No
-178,a grackle only can be found underwater,No,No
-179,a sheep only can be found underwater,No,No
-180,a eider only can be found underwater,No,No
-181,a swan lives underwater,Yes,No
-182,a bird lives underwater,No,No
-183,a zebra lives in the water,No,No
-184,a pelican lives underwater,Yes,No
-185,a parrot lives underwater,No,No
-186,does a tiger live underwater,Yes,No
-187,does a swan live underwater,Yes,No
-188,a rabbit only can be found in the water,No,No
-189,does a cow live in the water?,No,No
-190,does a rabbit live in the water,No,No
-191,does a cowbird live underwater,No,No
-192,a monkey only can be found underwater,No,No
-193,does a rhino live in the water?,No,No
-194,does a monkey live underwater?,Yes,No
-195,does a ox live underwater?,No,No
-196,a puma lives underwater,No,No
-197,a lizard lives in the water,Yes,No
-198,a poodle lives underwater,No,No
-199,a rat only can be found underwater,No,No
-200,a cowbird only can be found underwater,No,No
-201,does a gnu live underwater?,No,No
-202,a poodle only can be found underwater,No,No
-203,does a hawk live underwater?,Yes,No
-204,a fox only can be found in the water,No,No
-205,a heron lives in the water,No,No
-206,a grackle only can be found in the water,No,No
-207,does a cat live in the water?,No,No
-208,does a lizard live in the water?,Yes,No
-209,a hawk lives underwater,No,No
-210,a bird only can be found in the water,No,No
-211,a dog lives underwater,No,No
-212,a cat only can be found underwater,No,No
-213,does a bull live in the water?,No,No
-214,a giraffe lives in the water,No,No
-215,does a skylark live underwater,Yes,No
-216,a zebra only can be found in the water,No,No
-217,a fox lives underwater,No,No
-218,does a wolf live underwater,Yes,No
-219,a elephant lives in the water,No,No
-220,does a elephant live underwater?,Yes,No
-221,does a bull live underwater?,No,No
-222,does a duck live in the water?,Yes,No
-223,does a giraffe live in the water,No,No
-224,a finch lives underwater,Yes,No
-225,does a grackle live in the water,No,No
-226,does a grackle live underwater,No,No
-227,does a gnu live in the water?,No,No
-228,a elephant only can be found in the water,No,No
-229,does a bison live underwater?,Yes,No
-230,does a rabbit live underwater,No,No
-231,does a zebra live underwater,No,No
-232,does a jaguar live underwater,Yes,No
-233,a duck only can be found underwater,Yes,No
-234,a hawk lives in the water,No,No
-235,a dog only can be found underwater,No,No
-236,a skylark lives in the water,No,No
-237,does a bull live in the water,No,No
-238,does a jaguar live in the water,Yes,No
-239,does a ox live in the water?,No,No
-240,does a rat live underwater,Yes,No
-241,does a lion live in the water?,Yes,No
-242,a elephant lives underwater,No,No
-243,a rhino lives underwater,No,No
-244,does a giraffe live underwater?,No,No
-245,a lion lives in the water,No,No
-246,does a heron live in the water,Yes,No
-247,a rat lives in the water,No,No
-248,a bird lives in the water,Yes,No
-249,does a cat live underwater?,Yes,No
-250,a bull lives in the water,No,No
-251,a giraffe only can be found in the water,No,No
-252,a snail only can be found underwater,Yes,No
-253,a pelican lives in the water,Yes,No
-254,does a lion live underwater?,Yes,No
-255,a flamingo only can be found in the water,No,No
-256,a hen lives underwater,No,No
-257,a cat lives in the water,No,No
-258,does a hourse live underwater?,No,No
-259,does a ox live underwater,No,No
-260,does a rhino live underwater?,No,No
-261,a puma only can be found underwater,No,No
-262,a flamingo lives underwater,Yes,No
-263,a hawk only can be found in the water,No,No
-264,does a lark live underwater,Yes,No
-265,does a parrot live underwater?,Yes,No
-266,a jaguar only can be found in the water,No,No
-267,does a goldcrest live in the water?,No,No
-268,does a goral live underwater,No,No
-269,does a lark live underwater?,Yes,No
-270,a wolf lives underwater,No,No
-271,a swan only can be found underwater,Yes,No
-272,a duck only can be found in the water,Yes,No
-273,a sheep lives underwater,No,No
-274,does a goldcrest live in the water,No,No
-275,a pelican only can be found in the water,Yes,No
-276,does a bat live underwater?,Yes,No
-277,does a tiger live underwater?,Yes,No
-278,does a hourse live underwater,No,No
-279,a zebra lives underwater,No,No
-280,a camel lives underwater,No,No
-281,does a eider live underwater,No,No
-282,a hourse only can be found underwater,No,No
-283,does a ram live in the water,No,No
-284,does a bison live in the water?,Yes,No
-285,does a bird live in the water?,Yes,No
-286,a goral only can be found in the water,No,No
-287,does a snail live in the water?,Yes,No
-288,a sheep lives in the water,No,No
-289,a ox only can be found in the water,No,No
-290,a eagle only can be found in the water,No,No
-291,does a skylark live in the water,Yes,No
-292,does a worm live in the water,Yes,No
-293,does a fox live in the water?,Yes,No
-294,does a poodle live underwater,Yes,No
-295,a rhino lives in the water,No,No
-296,does a swan live in the water,Yes,No
-297,a skylark only can be found underwater,No,No
-298,a eagle lives in the water,Yes,No
-299,does a flamingo live underwater?,Yes,No
-300,a lion only can be found underwater,Yes,No
-301,does a camel live in the water,No,No
-302,a ram only can be found in the water,No,No
-303,a wolf only can be found in the water,No,No
-304,a camel lives in the water,No,No
-305,a giraffe lives underwater,No,No
-306,does a cow live underwater?,No,No
-307,a hourse lives in the water,No,No
-308,does a wolf live in the water?,Yes,No
-309,a cow only can be found underwater,No,No
-310,a jaguar lives underwater,Yes,No
-311,does a bison live underwater,No,No
-312,does a fox live underwater?,Yes,No
-313,does a giraffe live underwater,Yes,No
-314,a jaguar lives in the water,Yes,No
-315,a bat lives in the water,Yes,No
-316,does a cowbird live in the water,Yes,No
-317,a goral lives underwater,No,No
-318,does a bird live underwater,Yes,No
-319,does a worm live underwater?,Yes,No
-320,a ox lives in the water,No,No
-321,does a flamingo live in the water?,Yes,No
-322,does a donkey live underwater,No,No
-323,a dog lives in the water,No,No
-324,a bat lives underwater,No,No
+163,does a ox live in the water,No,No
+164,a flamingo can only be found in the water,No,No
+165,a finch lives underwater,Yes,No
+166,does a sheep live in the water?,No,No
+167,a elephant can only be found underwater,No,No
+168,a ram lives underwater,No,No
+169,a eider can only be found underwater,No,No
+170,a bat can only be found in the water,No,No
+171,does a lizard live underwater,Yes,No
+172,a skylark can only be found underwater,No,No
+173,does a monkey live in the water?,Yes,No
+174,a duck lives underwater,Yes,No
+175,a puma lives in the water,No,No
+176,a hen can only be found in the water,No,No
+177,a lark lives underwater,No,No
+178,does a hawk live underwater,Yes,No
+179,a heron lives in the water,No,No
+180,does a camel live in the water?,No,No
+181,a cat can only be found underwater,No,No
+182,does a rat live underwater?,Yes,No
+183,a swan lives in the water,Yes,No
+184,does a bull live underwater,No,No
+185,does a snail live in the water?,Yes,No
+186,does a worm live in the water,Yes,No
+187,does a tiger live in the water?,Yes,No
+188,a zebra lives underwater,No,No
+189,does a lion live underwater,Yes,No
+190,a ram can only be found underwater,No,No
+191,a owl can only be found underwater,No,No
+192,does a hen live in the water?,Yes,No
+193,does a puma live in the water?,Yes,No
+194,does a duck live underwater?,Yes,No
+195,does a owl live underwater?,Yes,No
+196,a jaguar can only be found underwater,Yes,No
+197,a pelican lives in the water,Yes,No
+198,a finch can only be found underwater,Yes,No
+199,a finch can only be found in the water,Yes,No
+200,a lizard can only be found in the water,Yes,No
+201,a wolf can only be found in the water,No,No
+202,a rabbit can only be found underwater,No,No
+203,a lizard lives in the water,Yes,No
+204,a rat lives underwater,Yes,No
+205,does a goldcrest live in the water?,No,No
+206,does a elephant live in the water,No,No
+207,a eagle lives underwater,No,No
+208,a flamingo can only be found underwater,Yes,No
+209,does a lizard live in the water?,Yes,No
+210,a eagle can only be found underwater,No,No
+211,does a hen live underwater,No,No
+212,does a rat live in the water?,Yes,No
+213,does a snail live in the water,Yes,No
+214,does a rat live underwater,Yes,No
+215,does a puma live underwater?,Yes,No
+216,a rabbit lives underwater,No,No
+217,does a rabbit live in the water?,No,No
+218,does a sheep live in the water,No,No
+219,a donkey lives underwater,No,No
+220,does a duck live in the water,Yes,No
+221,a elephant lives underwater,No,No
+222,does a gnu live underwater?,No,No
+223,does a bat live in the water?,Yes,No
+224,does a puma live in the water,Yes,No
+225,a fox can only be found underwater,No,No
+226,a cat can only be found in the water,No,No
+227,does a cow live in the water,No,No
+228,does a ox live in the water?,No,No
+229,a rat lives in the water,No,No
+230,a puma can only be found in the water,No,No
+231,does a lark live in the water,Yes,No
+232,does a lark live underwater?,Yes,No
+233,a hawk lives underwater,No,No
+234,does a swan live in the water?,Yes,No
+235,does a finch live underwater,Yes,No
+236,a cowbird can only be found underwater,No,No
+237,does a flamingo live in the water?,Yes,No
+238,does a rat live in the water,Yes,No
+239,a owl lives in the water,No,No
+240,does a zebra live in the water,No,No
+241,does a duck live underwater,Yes,No
+242,a lion can only be found in the water,No,No
+243,a poodle can only be found in the water,No,No
+244,does a grackle live underwater,No,No
+245,a lion can only be found underwater,Yes,No
+246,a ram can only be found in the water,No,No
+247,a ox lives underwater,No,No
+248,a poodle lives underwater,No,No
+249,does a monkey live underwater?,Yes,No
+250,does a swan live underwater,Yes,No
+251,a camel can only be found underwater,No,No
+252,does a eagle live in the water,Yes,No
+253,a bird lives in the water,Yes,No
+254,a owl lives underwater,No,No
+255,a bison can only be found underwater,No,No
+256,a monkey can only be found in the water,No,No
+257,does a parrot live underwater,Yes,No
+258,does a donkey live underwater,No,No
+259,a zebra can only be found in the water,No,No
+260,does a zebra live underwater?,No,No
+261,a monkey can only be found underwater,No,No
+262,does a grackle live in the water?,No,No
+263,does a swan live underwater?,Yes,No
+264,a goldcrest lives in the water,No,No
+265,a pelican can only be found in the water,Yes,No
+266,does a rabbit live underwater,No,No
+267,a zebra can only be found underwater,No,No
+268,a goral lives in the water,No,No
+269,a eagle lives in the water,Yes,No
+270,does a goral live in the water,No,No
+271,a swan lives underwater,Yes,No
+272,a monkey lives in the water,No,No
+273,a goldcrest can only be found underwater,No,No
+274,does a zebra live underwater,No,No
+275,does a flamingo live underwater,Yes,No
+276,a zebra lives in the water,No,No
+277,a grackle lives in the water,No,No
+278,does a rhino live underwater,No,No
+279,does a elephant live underwater,Yes,No
+280,does a fox live underwater,Yes,No
+281,does a swan live in the water,Yes,No
+282,a skylark lives in the water,No,No
+283,a goral can only be found underwater,No,No
+284,does a cowbird live underwater?,No,No
+285,does a camel live underwater,No,No
+286,a cat lives in the water,No,No
+287,does a bull live in the water,No,No
+288,does a jaguar live in the water,Yes,No
+289,does a goral live in the water?,No,No
+290,does a ram live in the water?,Yes,No
+291,does a eider live in the water?,No,No
+292,a bull lives in the water,No,No
+293,a sheep can only be found underwater,No,No
+294,a eider lives in the water,No,No
+295,does a rabbit live in the water,No,No
+296,does a goldcrest live underwater,No,No
+297,does a goldcrest live in the water,No,No
+298,does a eider live underwater,No,No
+299,a eider lives underwater,No,No
+300,does a jaguar live underwater,Yes,No
+301,a cow can only be found underwater,No,No
+302,does a sheep live underwater,No,No
+303,does a pelican live underwater?,Yes,No
+304,a pelican lives underwater,Yes,No
+305,does a cat live underwater,Yes,No
+306,a dog can only be found underwater,No,No
+307,does a grackle live underwater?,No,No
+308,a tiger lives in the water,No,No
+309,a eider can only be found in the water,No,No
+310,a heron lives underwater,No,No
+311,does a ram live underwater,No,No
+312,a eagle can only be found in the water,No,No
+313,a lizard lives underwater,Yes,No
+314,does a owl live in the water?,Yes,No
+315,does a eagle live underwater?,Yes,No
+316,does a bison live underwater,No,No
+317,does a sheep live underwater?,No,No
+318,a goldcrest can only be found in the water,No,No
+319,a poodle lives in the water,No,No
+320,does a heron live in the water?,Yes,No
+321,does a hourse live underwater?,No,No
+322,does a bison live in the water,Yes,No
+323,does a cow live underwater?,No,No
+324,does a hawk live in the water,No,No
 325,does a poodle live in the water,No,No
-326,does a eider live in the water?,No,No
-327,does a heron live underwater,Yes,No
-328,a monkey only can be found in the water,No,No
-329,does a donkey live underwater?,No,No
-330,a rat lives underwater,Yes,No
-331,does a hourse live in the water?,No,No
-332,a bison lives in the water,No,No
-333,does a elephant live underwater,Yes,No
-334,a poodle only can be found in the water,No,No
-335,a bat only can be found in the water,No,No
-336,does a finch live in the water?,Yes,No
-337,does a hawk live in the water?,Yes,No
-338,does a zebra live in the water?,No,No
-339,does a hawk live underwater,Yes,No
-340,does a ram live underwater?,No,No
-341,a worm only can be found in the water,Yes,No
-342,does a bull live underwater,No,No
-343,does a camel live in the water?,No,No
-344,a bat only can be found underwater,No,No
-345,does a donkey live in the water?,No,No
-346,does a duck live underwater?,Yes,No
-347,a fox only can be found underwater,No,No
-348,a tiger lives in the water,No,No
-349,a donkey only can be found in the water,No,No
-350,a cow lives underwater,No,No
-351,does a snail live underwater?,Yes,No
-352,a hawk only can be found underwater,No,No
-353,does a pelican live underwater?,Yes,No
-354,a owl lives underwater,No,No
-355,does a parrot live in the water?,Yes,No
-356,a finch lives in the water,Yes,No
-357,does a heron live in the water?,Yes,No
-358,a gnu lives in the water,No,No
-359,does a dog live underwater,No,No
-360,a eagle only can be found underwater,No,No
-361,a wolf only can be found underwater,No,No
-362,does a hawk live in the water,No,No
-363,a gnu lives underwater,Yes,No
-364,does a hen live in the water?,Yes,No
-365,does a swan live in the water?,Yes,No
-366,a sheep only can be found in the water,No,No
-367,does a goral live in the water,No,No
-368,a owl only can be found underwater,No,No
-369,a worm only can be found underwater,Yes,No
-370,does a wolf live in the water,Yes,No
-371,does a owl live in the water,No,No
-372,does a cowbird live underwater?,No,No
-373,does a lark live in the water,Yes,No
-374,does a hen live underwater,No,No
-375,does a dog live in the water,No,No
-376,does a rhino live in the water,No,No
-377,does a grackle live underwater?,No,No
-378,a bull lives underwater,No,No
-379,a giraffe only can be found underwater,No,No
-380,a camel only can be found in the water,No,No
-381,does a camel live underwater,No,No
-382,does a lizard live underwater?,Yes,No
-383,a rat only can be found in the water,No,No
-384,does a monkey live underwater,Yes,No
-385,does a gnu live in the water,No,No
-386,does a tiger live in the water,Yes,No
-387,a lark lives underwater,No,No
-388,does a eagle live in the water?,Yes,No
-389,a owl lives in the water,No,No
-390,does a ram live in the water?,Yes,No
-391,does a worm live in the water?,Yes,No
+326,a grackle can only be found in the water,No,No
+327,a lark can only be found in the water,Yes,No
+328,a giraffe can only be found underwater,No,No
+329,does a parrot live underwater?,Yes,No
+330,does a poodle live underwater,Yes,No
+331,does a rhino live underwater?,No,No
+332,a dog can only be found in the water,No,No
+333,a rat can only be found underwater,No,No
+334,a cow lives underwater,No,No
+335,does a cow live underwater,No,No
+336,does a poodle live in the water?,Yes,No
+337,a heron can only be found underwater,No,No
+338,a elephant can only be found in the water,No,No
+339,a bison can only be found in the water,No,No
+340,a giraffe can only be found in the water,No,No
+341,a owl can only be found in the water,No,No
+342,does a ox live underwater,No,No
+343,a sheep can only be found in the water,No,No
+344,a goral lives underwater,No,No
+345,does a bird live in the water?,Yes,No
+346,a bat can only be found underwater,No,No
+347,does a tiger live underwater,Yes,No
+348,does a finch live in the water,Yes,No
+349,a hawk can only be found in the water,No,No
+350,a hen lives in the water,No,No
+351,does a wolf live in the water,Yes,No
+352,a cowbird lives in the water,No,No
+353,a snail lives underwater,Yes,No
+354,a dog lives in the water,No,No
+355,a gnu lives underwater,Yes,No
+356,a rhino can only be found underwater,No,No
+357,does a lark live underwater,Yes,No
+358,does a monkey live underwater,Yes,No
+359,a giraffe lives in the water,No,No
+360,a duck lives in the water,Yes,No
+361,a bull can only be found in the water,No,No
+362,does a puma live underwater,Yes,No
+363,does a ox live underwater?,No,No
+364,does a heron live underwater,Yes,No
+365,does a lion live in the water?,Yes,No
+366,a bull can only be found underwater,No,No
+367,does a bird live in the water,Yes,No
+368,does a cowbird live in the water,Yes,No
+369,a tiger can only be found in the water,No,No
+370,a ox can only be found underwater,No,No
+371,does a heron live underwater?,Yes,No
+372,a heron can only be found in the water,No,No
+373,a goldcrest lives underwater,No,No
+374,a hawk lives in the water,No,No
+375,a worm can only be found underwater,Yes,No
+376,does a bison live underwater?,Yes,No
+377,a snail lives in the water,Yes,No
+378,does a eagle live in the water?,Yes,No
+379,a hourse lives underwater,No,No
+380,does a parrot live in the water,Yes,No
+381,a worm lives underwater,Yes,No
+382,a rabbit can only be found in the water,No,No
+383,does a hourse live underwater,No,No
+384,a grackle can only be found underwater,No,No
+385,a rhino can only be found in the water,No,No
+386,a sheep lives in the water,No,No
+387,does a flamingo live underwater?,Yes,No
+388,does a fox live underwater?,Yes,No
+389,a donkey lives in the water,No,No
+390,a cowbird lives underwater,No,No
+391,does a bat live in the water,Yes,No
