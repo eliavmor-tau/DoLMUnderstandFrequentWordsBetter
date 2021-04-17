@@ -629,7 +629,7 @@ def aggregate_results_by_question(result_df, animals_df):
                 break
 
     for q in results_by_question.keys():
-        print(q, results_by_question[q])
+        # print(q, results_by_question[q])
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
     return pd.DataFrame.from_dict(results_by_question)
 
@@ -673,11 +673,10 @@ def plot_df(csv_path, output_path=""):
 
 
 def run_summarize_results():
-    files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
+    files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins",
              "animals_have_wings", "animals_have_feathers", "animals_have_fur",
              "animals_have_hair", "animals_live_underwater", "animals_can_fly",
              "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
-             "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
              "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "sanity"]
     for file in files:
@@ -687,11 +686,10 @@ def run_summarize_results():
 
 
 def run_generate_questions():
-    files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins", "animals_have_scales",
+    files = ["animals_have_a_beak", "animals_have_horns", "animals_have_fins",
              "animals_have_wings", "animals_have_feathers", "animals_have_fur",
              "animals_have_hair", "animals_live_underwater", "animals_can_fly",
              "animals_dont_have_a_beak", "animals_dont_have_horns", "animals_dont_have_fins",
-             "animals_dont_have_scales",
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
              "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "old/food", "old/furniture",
              "old/musical_instruments", "old/vehicle", "sanity"]
