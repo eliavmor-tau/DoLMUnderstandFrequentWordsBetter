@@ -7,7 +7,7 @@
 5,a addax has horns?,Yes
 6,do horns are body part of a addax?,Yes
 7,are horns body part of a addax?,Yes
-8,horns are related to addax's body.,Yes
+8,horns are related to addax's body,Yes
 9,horns belong to a addax,Yes
 10,does a alpaca have horns,Yes
 11,a alpaca has horns,Yes
@@ -17,7 +17,7 @@
 15,a alpaca has horns?,Yes
 16,do horns are body part of a alpaca?,Yes
 17,are horns body part of a alpaca?,Yes
-18,horns are related to alpaca's body.,Yes
+18,horns are related to alpaca's body,Yes
 19,horns belong to a alpaca,Yes
 20,does a anoa have horns,Yes
 21,a anoa has horns,Yes
@@ -27,7 +27,7 @@
 25,a anoa has horns?,Yes
 26,do horns are body part of a anoa?,Yes
 27,are horns body part of a anoa?,Yes
-28,horns are related to anoa's body.,Yes
+28,horns are related to anoa's body,Yes
 29,horns belong to a anoa,Yes
 30,does a antelope have horns,Yes
 31,a antelope has horns,Yes
@@ -37,7 +37,7 @@
 35,a antelope has horns?,Yes
 36,do horns are body part of a antelope?,Yes
 37,are horns body part of a antelope?,Yes
-38,horns are related to antelope's body.,Yes
+38,horns are related to antelope's body,Yes
 39,horns belong to a antelope,Yes
 40,does a bharal have horns,Yes
 41,a bharal has horns,Yes
@@ -47,7 +47,7 @@
 45,a bharal has horns?,Yes
 46,do horns are body part of a bharal?,Yes
 47,are horns body part of a bharal?,Yes
-48,horns are related to bharal's body.,Yes
+48,horns are related to bharal's body,Yes
 49,horns belong to a bharal,Yes
 50,does a bison have horns,Yes
 51,a bison has horns,Yes
@@ -57,7 +57,7 @@
 55,a bison has horns?,Yes
 56,do horns are body part of a bison?,Yes
 57,are horns body part of a bison?,Yes
-58,horns are related to bison's body.,Yes
+58,horns are related to bison's body,Yes
 59,horns belong to a bison,Yes
 60,does a blackbuck have horns,Yes
 61,a blackbuck has horns,Yes
@@ -67,7 +67,7 @@
 65,a blackbuck has horns?,Yes
 66,do horns are body part of a blackbuck?,Yes
 67,are horns body part of a blackbuck?,Yes
-68,horns are related to blackbuck's body.,Yes
+68,horns are related to blackbuck's body,Yes
 69,horns belong to a blackbuck,Yes
 70,does a buffalo have horns,Yes
 71,a buffalo has horns,Yes
@@ -77,7 +77,7 @@
 75,a buffalo has horns?,Yes
 76,do horns are body part of a buffalo?,Yes
 77,are horns body part of a buffalo?,Yes
-78,horns are related to buffalo's body.,Yes
+78,horns are related to buffalo's body,Yes
 79,horns belong to a buffalo,Yes
 80,does a cattle have horns,Yes
 81,a cattle has horns,Yes
@@ -87,7 +87,7 @@
 85,a cattle has horns?,Yes
 86,do horns are body part of a cattle?,Yes
 87,are horns body part of a cattle?,Yes
-88,horns are related to cattle's body.,Yes
+88,horns are related to cattle's body,Yes
 89,horns belong to a cattle,Yes
 90,does a cow have horns,Yes
 91,a cow has horns,Yes
@@ -97,7 +97,7 @@
 95,a cow has horns?,Yes
 96,do horns are body part of a cow?,Yes
 97,are horns body part of a cow?,Yes
-98,horns are related to cow's body.,Yes
+98,horns are related to cow's body,Yes
 99,horns belong to a cow,Yes
 100,does a deer have horns,Yes
 101,a deer has horns,Yes
@@ -107,7 +107,7 @@
 105,a deer has horns?,Yes
 106,do horns are body part of a deer?,Yes
 107,are horns body part of a deer?,Yes
-108,horns are related to deer's body.,Yes
+108,horns are related to deer's body,Yes
 109,horns belong to a deer,Yes
 110,does a eland have horns,Yes
 111,a eland has horns,Yes
@@ -117,7 +117,7 @@
 115,a eland has horns?,Yes
 116,do horns are body part of a eland?,Yes
 117,are horns body part of a eland?,Yes
-118,horns are related to eland's body.,Yes
+118,horns are related to eland's body,Yes
 119,horns belong to a eland,Yes
 120,does a elk have horns,Yes
 121,a elk has horns,Yes
@@ -127,7 +127,7 @@
 125,a elk has horns?,Yes
 126,do horns are body part of a elk?,Yes
 127,are horns body part of a elk?,Yes
-128,horns are related to elk's body.,Yes
+128,horns are related to elk's body,Yes
 129,horns belong to a elk,Yes
 130,does a goat have horns,Yes
 131,a goat has horns,Yes
@@ -137,7 +137,7 @@
 135,a goat has horns?,Yes
 136,do horns are body part of a goat?,Yes
 137,are horns body part of a goat?,Yes
-138,horns are related to goat's body.,Yes
+138,horns are related to goat's body,Yes
 139,horns belong to a goat,Yes
 140,does a ibex have horns,Yes
 141,a ibex has horns,Yes
@@ -147,7 +147,7 @@
 145,a ibex has horns?,Yes
 146,do horns are body part of a ibex?,Yes
 147,are horns body part of a ibex?,Yes
-148,horns are related to ibex's body.,Yes
+148,horns are related to ibex's body,Yes
 149,horns belong to a ibex,Yes
 150,does a impala have horns,Yes
 151,a impala has horns,Yes
@@ -157,7 +157,7 @@
 155,a impala has horns?,Yes
 156,do horns are body part of a impala?,Yes
 157,are horns body part of a impala?,Yes
-158,horns are related to impala's body.,Yes
+158,horns are related to impala's body,Yes
 159,horns belong to a impala,Yes
 160,does a kudu have horns,Yes
 161,a kudu has horns,Yes
@@ -167,7 +167,7 @@
 165,a kudu has horns?,Yes
 166,do horns are body part of a kudu?,Yes
 167,are horns body part of a kudu?,Yes
-168,horns are related to kudu's body.,Yes
+168,horns are related to kudu's body,Yes
 169,horns belong to a kudu,Yes
 170,does a markhor have horns,Yes
 171,a markhor has horns,Yes
@@ -177,7 +177,7 @@
 175,a markhor has horns?,Yes
 176,do horns are body part of a markhor?,Yes
 177,are horns body part of a markhor?,Yes
-178,horns are related to markhor's body.,Yes
+178,horns are related to markhor's body,Yes
 179,horns belong to a markhor,Yes
 180,does a moose have horns,Yes
 181,a moose has horns,Yes
@@ -187,7 +187,7 @@
 185,a moose has horns?,Yes
 186,do horns are body part of a moose?,Yes
 187,are horns body part of a moose?,Yes
-188,horns are related to moose's body.,Yes
+188,horns are related to moose's body,Yes
 189,horns belong to a moose,Yes
 190,does a mounflon have horns,Yes
 191,a mounflon has horns,Yes
@@ -197,7 +197,7 @@
 195,a mounflon has horns?,Yes
 196,do horns are body part of a mounflon?,Yes
 197,are horns body part of a mounflon?,Yes
-198,horns are related to mounflon's body.,Yes
+198,horns are related to mounflon's body,Yes
 199,horns belong to a mounflon,Yes
 200,does a oryx have horns,Yes
 201,a oryx has horns,Yes
@@ -207,7 +207,7 @@
 205,a oryx has horns?,Yes
 206,do horns are body part of a oryx?,Yes
 207,are horns body part of a oryx?,Yes
-208,horns are related to oryx's body.,Yes
+208,horns are related to oryx's body,Yes
 209,horns belong to a oryx,Yes
 210,does a ox have horns,Yes
 211,a ox has horns,Yes
@@ -217,7 +217,7 @@
 215,a ox has horns?,Yes
 216,do horns are body part of a ox?,Yes
 217,are horns body part of a ox?,Yes
-218,horns are related to ox's body.,Yes
+218,horns are related to ox's body,Yes
 219,horns belong to a ox,Yes
 220,does a reindeer have horns,Yes
 221,a reindeer has horns,Yes
@@ -227,7 +227,7 @@
 225,a reindeer has horns?,Yes
 226,do horns are body part of a reindeer?,Yes
 227,are horns body part of a reindeer?,Yes
-228,horns are related to reindeer's body.,Yes
+228,horns are related to reindeer's body,Yes
 229,horns belong to a reindeer,Yes
 230,does a rhino have horns,Yes
 231,a rhino has horns,Yes
@@ -237,7 +237,7 @@
 235,a rhino has horns?,Yes
 236,do horns are body part of a rhino?,Yes
 237,are horns body part of a rhino?,Yes
-238,horns are related to rhino's body.,Yes
+238,horns are related to rhino's body,Yes
 239,horns belong to a rhino,Yes
 240,does a sheep have horns,Yes
 241,a sheep has horns,Yes
@@ -247,7 +247,7 @@
 245,a sheep has horns?,Yes
 246,do horns are body part of a sheep?,Yes
 247,are horns body part of a sheep?,Yes
-248,horns are related to sheep's body.,Yes
+248,horns are related to sheep's body,Yes
 249,horns belong to a sheep,Yes
 250,does a springbox have horns,Yes
 251,a springbox has horns,Yes
@@ -257,7 +257,7 @@
 255,a springbox has horns?,Yes
 256,do horns are body part of a springbox?,Yes
 257,are horns body part of a springbox?,Yes
-258,horns are related to springbox's body.,Yes
+258,horns are related to springbox's body,Yes
 259,horns belong to a springbox,Yes
 260,does a wildbeest have horns,Yes
 261,a wildbeest has horns,Yes
@@ -267,7 +267,7 @@
 265,a wildbeest has horns?,Yes
 266,do horns are body part of a wildbeest?,Yes
 267,are horns body part of a wildbeest?,Yes
-268,horns are related to wildbeest's body.,Yes
+268,horns are related to wildbeest's body,Yes
 269,horns belong to a wildbeest,Yes
 270,does a yak have horns,Yes
 271,a yak has horns,Yes
@@ -277,7 +277,7 @@
 275,a yak has horns?,Yes
 276,do horns are body part of a yak?,Yes
 277,are horns body part of a yak?,Yes
-278,horns are related to yak's body.,Yes
+278,horns are related to yak's body,Yes
 279,horns belong to a yak,Yes
 280,does a bull have horns,Yes
 281,a bull has horns,Yes
@@ -287,7 +287,7 @@
 285,a bull has horns?,Yes
 286,do horns are body part of a bull?,Yes
 287,are horns body part of a bull?,Yes
-288,horns are related to bull's body.,Yes
+288,horns are related to bull's body,Yes
 289,horns belong to a bull,Yes
 290,does a giraffe have horns,Yes
 291,a giraffe has horns,Yes
@@ -297,7 +297,7 @@
 295,a giraffe has horns?,Yes
 296,do horns are body part of a giraffe?,Yes
 297,are horns body part of a giraffe?,Yes
-298,horns are related to giraffe's body.,Yes
+298,horns are related to giraffe's body,Yes
 299,horns belong to a giraffe,Yes
 300,does a gazelle have horns,Yes
 301,a gazelle has horns,Yes
@@ -307,7 +307,7 @@
 305,a gazelle has horns?,Yes
 306,do horns are body part of a gazelle?,Yes
 307,are horns body part of a gazelle?,Yes
-308,horns are related to gazelle's body.,Yes
+308,horns are related to gazelle's body,Yes
 309,horns belong to a gazelle,Yes
 310,does a gemsbok have horns,Yes
 311,a gemsbok has horns,Yes
@@ -317,7 +317,7 @@
 315,a gemsbok has horns?,Yes
 316,do horns are body part of a gemsbok?,Yes
 317,are horns body part of a gemsbok?,Yes
-318,horns are related to gemsbok's body.,Yes
+318,horns are related to gemsbok's body,Yes
 319,horns belong to a gemsbok,Yes
 320,does a gnu have horns,Yes
 321,a gnu has horns,Yes
@@ -327,7 +327,7 @@
 325,a gnu has horns?,Yes
 326,do horns are body part of a gnu?,Yes
 327,are horns body part of a gnu?,Yes
-328,horns are related to gnu's body.,Yes
+328,horns are related to gnu's body,Yes
 329,horns belong to a gnu,Yes
 330,does a goral have horns,Yes
 331,a goral has horns,Yes
@@ -337,7 +337,7 @@
 335,a goral has horns?,Yes
 336,do horns are body part of a goral?,Yes
 337,are horns body part of a goral?,Yes
-338,horns are related to goral's body.,Yes
+338,horns are related to goral's body,Yes
 339,horns belong to a goral,Yes
 340,does a ram have horns,Yes
 341,a ram has horns,Yes
@@ -347,7 +347,7 @@
 345,a ram has horns?,Yes
 346,do horns are body part of a ram?,Yes
 347,are horns body part of a ram?,Yes
-348,horns are related to ram's body.,Yes
+348,horns are related to ram's body,Yes
 349,horns belong to a ram,Yes
 350,does a takin have horns,Yes
 351,a takin has horns,Yes
@@ -357,7 +357,7 @@
 355,a takin has horns?,Yes
 356,do horns are body part of a takin?,Yes
 357,are horns body part of a takin?,Yes
-358,horns are related to takin's body.,Yes
+358,horns are related to takin's body,Yes
 359,horns belong to a takin,Yes
 360,does a yak have horns,Yes
 361,a yak has horns,Yes
@@ -367,7 +367,7 @@
 365,a yak has horns?,Yes
 366,do horns are body part of a yak?,Yes
 367,are horns body part of a yak?,Yes
-368,horns are related to yak's body.,Yes
+368,horns are related to yak's body,Yes
 369,horns belong to a yak,Yes
 370,does a wisent have horns,Yes
 371,a wisent has horns,Yes
@@ -377,7 +377,7 @@
 375,a wisent has horns?,Yes
 376,do horns are body part of a wisent?,Yes
 377,are horns body part of a wisent?,Yes
-378,horns are related to wisent's body.,Yes
+378,horns are related to wisent's body,Yes
 379,horns belong to a wisent,Yes
 380,does a zebu have horns,Yes
 381,a zebu has horns,Yes
@@ -387,7 +387,7 @@
 385,a zebu has horns?,Yes
 386,do horns are body part of a zebu?,Yes
 387,are horns body part of a zebu?,Yes
-388,horns are related to zebu's body.,Yes
+388,horns are related to zebu's body,Yes
 389,horns belong to a zebu,Yes
 390,does a africander have horns,Yes
 391,a africander has horns,Yes
@@ -397,7 +397,7 @@
 395,a africander has horns?,Yes
 396,do horns are body part of a africander?,Yes
 397,are horns body part of a africander?,Yes
-398,horns are related to africander's body.,Yes
+398,horns are related to africander's body,Yes
 399,horns belong to a africander,Yes
 400,does a bighorn have horns,Yes
 401,a bighorn has horns,Yes
@@ -407,5 +407,5 @@
 405,a bighorn has horns?,Yes
 406,do horns are body part of a bighorn?,Yes
 407,are horns body part of a bighorn?,Yes
-408,horns are related to bighorn's body.,Yes
+408,horns are related to bighorn's body,Yes
 409,horns belong to a bighorn,Yes

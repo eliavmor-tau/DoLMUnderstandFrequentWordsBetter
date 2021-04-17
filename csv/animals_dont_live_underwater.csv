@@ -1,4 +1,4 @@
-﻿entity,does a <entity> live underwater,a <entity> lives underwater,does a <entity> live in the water,a <entity> lives in the water,a <entity> only can be found underwater,a <entity> only can be found in the water,does a <entity> live underwater?,does a <entity> live in the water?
+﻿entity,does a <entity> live underwater,a <entity> lives underwater,does a <entity> live in the water,a <entity> lives in the water,a <entity> can only be found underwater,a <entity> can only be found in the water,does a <entity> live underwater?,does a <entity> live in the water?
 dog,0,0,0,0,0,0,0,0
 cat,0,0,0,0,0,0,0,0
 fox,0,0,0,0,0,0,0,0
