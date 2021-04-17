@@ -1,417 +1,157 @@
 ,question,label
 0,does a rhino have hair,No
 1,a rhino has hair,No
-2,hair is a body part of a rhino,No
-3,hair is part of rhino's body,No
-4,hair belongs to a rhino,No
-5,does a rhino have hair?,No
-6,a rhino is hairy,No
-7,does a rhino hairy,No
-8,does a elephant have hair,No
-9,a elephant has hair,No
-10,hair is a body part of a elephant,No
-11,hair is part of elephant's body,No
-12,hair belongs to a elephant,No
-13,does a elephant have hair?,No
-14,a elephant is hairy,No
-15,does a elephant hairy,No
-16,does a flamingo have hair,No
-17,a flamingo has hair,No
-18,hair is a body part of a flamingo,No
-19,hair is part of flamingo's body,No
-20,hair belongs to a flamingo,No
-21,does a flamingo have hair?,No
-22,a flamingo is hairy,No
-23,does a flamingo hairy,No
-24,does a hippopotamus have hair,No
-25,a hippopotamus has hair,No
-26,hair is a body part of a hippopotamus,No
-27,hair is part of hippopotamus's body,No
-28,hair belongs to a hippopotamus,No
-29,does a hippopotamus have hair?,No
-30,a hippopotamus is hairy,No
-31,does a hippopotamus hairy,No
-32,does a iguana have hair,No
-33,a iguana has hair,No
-34,hair is a body part of a iguana,No
-35,hair is part of iguana's body,No
-36,hair belongs to a iguana,No
-37,does a iguana have hair?,No
-38,a iguana is hairy,No
-39,does a iguana hairy,No
-40,does a lizard have hair,No
-41,a lizard has hair,No
-42,hair is a body part of a lizard,No
-43,hair is part of lizard's body,No
-44,hair belongs to a lizard,No
-45,does a lizard have hair?,No
-46,a lizard is hairy,No
-47,does a lizard hairy,No
-48,does a pig have hair,No
-49,a pig has hair,No
-50,hair is a body part of a pig,No
-51,hair is part of pig's body,No
-52,hair belongs to a pig,No
-53,does a pig have hair?,No
-54,a pig is hairy,No
-55,does a pig hairy,No
-56,does a worm have hair,No
-57,a worm has hair,No
-58,hair is a body part of a worm,No
-59,hair is part of worm's body,No
-60,hair belongs to a worm,No
-61,does a worm have hair?,No
-62,a worm is hairy,No
-63,does a worm hairy,No
-64,does a snail have hair,No
-65,a snail has hair,No
-66,hair is a body part of a snail,No
-67,hair is part of snail's body,No
-68,hair belongs to a snail,No
-69,does a snail have hair?,No
-70,a snail is hairy,No
-71,does a snail hairy,No
-72,does a tarantula have hair,No
-73,a tarantula has hair,No
-74,hair is a body part of a tarantula,No
-75,hair is part of tarantula's body,No
-76,hair belongs to a tarantula,No
-77,does a tarantula have hair?,No
-78,a tarantula is hairy,No
-79,does a tarantula hairy,No
-80,does a spider have hair,No
-81,a spider has hair,No
-82,hair is a body part of a spider,No
-83,hair is part of spider's body,No
-84,hair belongs to a spider,No
-85,does a spider have hair?,No
-86,a spider is hairy,No
-87,does a spider hairy,No
-88,does a boa have hair,No
-89,a boa has hair,No
-90,hair is a body part of a boa,No
-91,hair is part of boa's body,No
-92,hair belongs to a boa,No
-93,does a boa have hair?,No
-94,a boa is hairy,No
-95,does a boa hairy,No
-96,does a cobra have hair,No
-97,a cobra has hair,No
-98,hair is a body part of a cobra,No
-99,hair is part of cobra's body,No
-100,hair belongs to a cobra,No
-101,does a cobra have hair?,No
-102,a cobra is hairy,No
-103,does a cobra hairy,No
-104,does a mamba have hair,No
-105,a mamba has hair,No
-106,hair is a body part of a mamba,No
-107,hair is part of mamba's body,No
-108,hair belongs to a mamba,No
-109,does a mamba have hair?,No
-110,a mamba is hairy,No
-111,does a mamba hairy,No
-112,does a ant have hair,No
-113,a ant has hair,No
-114,hair is a body part of a ant,No
-115,hair is part of ant's body,No
-116,hair belongs to a ant,No
-117,does a ant have hair?,No
-118,a ant is hairy,No
-119,does a ant hairy,No
-120,does a caterpillar have hair,No
-121,a caterpillar has hair,No
-122,hair is a body part of a caterpillar,No
-123,hair is part of caterpillar's body,No
-124,hair belongs to a caterpillar,No
-125,does a caterpillar have hair?,No
-126,a caterpillar is hairy,No
-127,does a caterpillar hairy,No
-128,does a alligator have hair,No
-129,a alligator has hair,No
-130,hair is a body part of a alligator,No
-131,hair is part of alligator's body,No
-132,hair belongs to a alligator,No
-133,does a alligator have hair?,No
-134,a alligator is hairy,No
-135,does a alligator hairy,No
-136,does a crocodile have hair,No
-137,a crocodile has hair,No
-138,hair is a body part of a crocodile,No
-139,hair is part of crocodile's body,No
-140,hair belongs to a crocodile,No
-141,does a crocodile have hair?,No
-142,a crocodile is hairy,No
-143,does a crocodile hairy,No
-144,does a snake have hair,No
-145,a snake has hair,No
-146,hair is a body part of a snake,No
-147,hair is part of snake's body,No
-148,hair belongs to a snake,No
-149,does a snake have hair?,No
-150,a snake is hairy,No
-151,does a snake hairy,No
-152,does a frog have hair,No
-153,a frog has hair,No
-154,hair is a body part of a frog,No
-155,hair is part of frog's body,No
-156,hair belongs to a frog,No
-157,does a frog have hair?,No
-158,a frog is hairy,No
-159,does a frog hairy,No
-160,does a salamander have hair,No
-161,a salamander has hair,No
-162,hair is a body part of a salamander,No
-163,hair is part of salamander's body,No
-164,hair belongs to a salamander,No
-165,does a salamander have hair?,No
-166,a salamander is hairy,No
-167,does a salamander hairy,No
-168,does a tapir have hair,No
-169,a tapir has hair,No
-170,hair is a body part of a tapir,No
-171,hair is part of tapir's body,No
-172,hair belongs to a tapir,No
-173,does a tapir have hair?,No
-174,a tapir is hairy,No
-175,does a tapir hairy,No
-176,does a fish have hair,No
-177,a fish has hair,No
-178,hair is a body part of a fish,No
-179,hair is part of fish's body,No
-180,hair belongs to a fish,No
-181,does a fish have hair?,No
-182,a fish is hairy,No
-183,does a fish hairy,No
-184,does a shark have hair,No
-185,a shark has hair,No
-186,hair is a body part of a shark,No
-187,hair is part of shark's body,No
-188,hair belongs to a shark,No
-189,does a shark have hair?,No
-190,a shark is hairy,No
-191,does a shark hairy,No
-192,does a tuna have hair,No
-193,a tuna has hair,No
-194,hair is a body part of a tuna,No
-195,hair is part of tuna's body,No
-196,hair belongs to a tuna,No
-197,does a tuna have hair?,No
-198,a tuna is hairy,No
-199,does a tuna hairy,No
-200,does a jellyfish have hair,No
-201,a jellyfish has hair,No
-202,hair is a body part of a jellyfish,No
-203,hair is part of jellyfish's body,No
-204,hair belongs to a jellyfish,No
-205,does a jellyfish have hair?,No
-206,a jellyfish is hairy,No
-207,does a jellyfish hairy,No
-208,does a salmon have hair,No
-209,a salmon has hair,No
-210,hair is a body part of a salmon,No
-211,hair is part of salmon's body,No
-212,hair belongs to a salmon,No
-213,does a salmon have hair?,No
-214,a salmon is hairy,No
-215,does a salmon hairy,No
-216,does a octupus have hair,No
-217,a octupus has hair,No
-218,hair is a body part of a octupus,No
-219,hair is part of octupus's body,No
-220,hair belongs to a octupus,No
-221,does a octupus have hair?,No
-222,a octupus is hairy,No
-223,does a octupus hairy,No
-224,does a barracuda have hair,No
-225,a barracuda has hair,No
-226,hair is a body part of a barracuda,No
-227,hair is part of barracuda's body,No
-228,hair belongs to a barracuda,No
-229,does a barracuda have hair?,No
-230,a barracuda is hairy,No
-231,does a barracuda hairy,No
-232,does a codfish have hair,No
-233,a codfish has hair,No
-234,hair is a body part of a codfish,No
-235,hair is part of codfish's body,No
-236,hair belongs to a codfish,No
-237,does a codfish have hair?,No
-238,a codfish is hairy,No
-239,does a codfish hairy,No
-240,does a crab have hair,No
-241,a crab has hair,No
-242,hair is a body part of a crab,No
-243,hair is part of crab's body,No
-244,hair belongs to a crab,No
-245,does a crab have hair?,No
-246,a crab is hairy,No
-247,does a crab hairy,No
-248,does a cuttlefish have hair,No
-249,a cuttlefish has hair,No
-250,hair is a body part of a cuttlefish,No
-251,hair is part of cuttlefish's body,No
-252,hair belongs to a cuttlefish,No
-253,does a cuttlefish have hair?,No
-254,a cuttlefish is hairy,No
-255,does a cuttlefish hairy,No
-256,does a dolphin have hair,No
-257,a dolphin has hair,No
-258,hair is a body part of a dolphin,No
-259,hair is part of dolphin's body,No
-260,hair belongs to a dolphin,No
-261,does a dolphin have hair?,No
-262,a dolphin is hairy,No
-263,does a dolphin hairy,No
-264,does a eel have hair,No
-265,a eel has hair,No
-266,hair is a body part of a eel,No
-267,hair is part of eel's body,No
-268,hair belongs to a eel,No
-269,does a eel have hair?,No
-270,a eel is hairy,No
-271,does a eel hairy,No
-272,does a gar have hair,No
-273,a gar has hair,No
-274,hair is a body part of a gar,No
-275,hair is part of gar's body,No
-276,hair belongs to a gar,No
-277,does a gar have hair?,No
-278,a gar is hairy,No
-279,does a gar hairy,No
-280,does a herring have hair,No
-281,a herring has hair,No
-282,hair is a body part of a herring,No
-283,hair is part of herring's body,No
-284,hair belongs to a herring,No
-285,does a herring have hair?,No
-286,a herring is hairy,No
-287,does a herring hairy,No
-288,does a kingfisher have hair,No
-289,a kingfisher has hair,No
-290,hair is a body part of a kingfisher,No
-291,hair is part of kingfisher's body,No
-292,hair belongs to a kingfisher,No
-293,does a kingfisher have hair?,No
-294,a kingfisher is hairy,No
-295,does a kingfisher hairy,No
-296,does a lobster have hair,No
-297,a lobster has hair,No
-298,hair is a body part of a lobster,No
-299,hair is part of lobster's body,No
-300,hair belongs to a lobster,No
-301,does a lobster have hair?,No
-302,a lobster is hairy,No
-303,does a lobster hairy,No
-304,does a oyster have hair,No
-305,a oyster has hair,No
-306,hair is a body part of a oyster,No
-307,hair is part of oyster's body,No
-308,hair belongs to a oyster,No
-309,does a oyster have hair?,No
-310,a oyster is hairy,No
-311,does a oyster hairy,No
-312,does a piranha have hair,No
-313,a piranha has hair,No
-314,hair is a body part of a piranha,No
-315,hair is part of piranha's body,No
-316,hair belongs to a piranha,No
-317,does a piranha have hair?,No
-318,a piranha is hairy,No
-319,does a piranha hairy,No
-320,does a seal have hair,No
-321,a seal has hair,No
-322,hair is a body part of a seal,No
-323,hair is part of seal's body,No
-324,hair belongs to a seal,No
-325,does a seal have hair?,No
-326,a seal is hairy,No
-327,does a seal hairy,No
-328,does a shrimp have hair,No
-329,a shrimp has hair,No
-330,hair is a body part of a shrimp,No
-331,hair is part of shrimp's body,No
-332,hair belongs to a shrimp,No
-333,does a shrimp have hair?,No
-334,a shrimp is hairy,No
-335,does a shrimp hairy,No
-336,does a prawn have hair,No
-337,a prawn has hair,No
-338,hair is a body part of a prawn,No
-339,hair is part of prawn's body,No
-340,hair belongs to a prawn,No
-341,does a prawn have hair?,No
-342,a prawn is hairy,No
-343,does a prawn hairy,No
-344,does a starfish have hair,No
-345,a starfish has hair,No
-346,hair is a body part of a starfish,No
-347,hair is part of starfish's body,No
-348,hair belongs to a starfish,No
-349,does a starfish have hair?,No
-350,a starfish is hairy,No
-351,does a starfish hairy,No
-352,does a sponge have hair,No
-353,a sponge has hair,No
-354,hair is a body part of a sponge,No
-355,hair is part of sponge's body,No
-356,hair belongs to a sponge,No
-357,does a sponge have hair?,No
-358,a sponge is hairy,No
-359,does a sponge hairy,No
-360,does a whale have hair,No
-361,a whale has hair,No
-362,hair is a body part of a whale,No
-363,hair is part of whale's body,No
-364,hair belongs to a whale,No
-365,does a whale have hair?,No
-366,a whale is hairy,No
-367,does a whale hairy,No
-368,does a turkey have hair,No
-369,a turkey has hair,No
-370,hair is a body part of a turkey,No
-371,hair is part of turkey's body,No
-372,hair belongs to a turkey,No
-373,does a turkey have hair?,No
-374,a turkey is hairy,No
-375,does a turkey hairy,No
-376,does a swan have hair,No
-377,a swan has hair,No
-378,hair is a body part of a swan,No
-379,hair is part of swan's body,No
-380,hair belongs to a swan,No
-381,does a swan have hair?,No
-382,a swan is hairy,No
-383,does a swan hairy,No
-384,does a sparrow have hair,No
-385,a sparrow has hair,No
-386,hair is a body part of a sparrow,No
-387,hair is part of sparrow's body,No
-388,hair belongs to a sparrow,No
-389,does a sparrow have hair?,No
-390,a sparrow is hairy,No
-391,does a sparrow hairy,No
-392,does a songbird have hair,No
-393,a songbird has hair,No
-394,hair is a body part of a songbird,No
-395,hair is part of songbird's body,No
-396,hair belongs to a songbird,No
-397,does a songbird have hair?,No
-398,a songbird is hairy,No
-399,does a songbird hairy,No
-400,does a roaster have hair,No
-401,a roaster has hair,No
-402,hair is a body part of a roaster,No
-403,hair is part of roaster's body,No
-404,hair belongs to a roaster,No
-405,does a roaster have hair?,No
-406,a roaster is hairy,No
-407,does a roaster hairy,No
-408,does a bird have hair,No
-409,a bird has hair,No
-410,hair is a body part of a bird,No
-411,hair is part of bird's body,No
-412,hair belongs to a bird,No
-413,does a bird have hair?,No
-414,a bird is hairy,No
-415,does a bird hairy,No
+2,hair is a part of a rhino body,No
+3,does a elephant have hair,No
+4,a elephant has hair,No
+5,hair is a part of a elephant body,No
+6,does a flamingo have hair,No
+7,a flamingo has hair,No
+8,hair is a part of a flamingo body,No
+9,does a hippopotamus have hair,No
+10,a hippopotamus has hair,No
+11,hair is a part of a hippopotamus body,No
+12,does a iguana have hair,No
+13,a iguana has hair,No
+14,hair is a part of a iguana body,No
+15,does a lizard have hair,No
+16,a lizard has hair,No
+17,hair is a part of a lizard body,No
+18,does a pig have hair,No
+19,a pig has hair,No
+20,hair is a part of a pig body,No
+21,does a worm have hair,No
+22,a worm has hair,No
+23,hair is a part of a worm body,No
+24,does a snail have hair,No
+25,a snail has hair,No
+26,hair is a part of a snail body,No
+27,does a tarantula have hair,No
+28,a tarantula has hair,No
+29,hair is a part of a tarantula body,No
+30,does a spider have hair,No
+31,a spider has hair,No
+32,hair is a part of a spider body,No
+33,does a boa have hair,No
+34,a boa has hair,No
+35,hair is a part of a boa body,No
+36,does a cobra have hair,No
+37,a cobra has hair,No
+38,hair is a part of a cobra body,No
+39,does a mamba have hair,No
+40,a mamba has hair,No
+41,hair is a part of a mamba body,No
+42,does a ant have hair,No
+43,a ant has hair,No
+44,hair is a part of a ant body,No
+45,does a caterpillar have hair,No
+46,a caterpillar has hair,No
+47,hair is a part of a caterpillar body,No
+48,does a alligator have hair,No
+49,a alligator has hair,No
+50,hair is a part of a alligator body,No
+51,does a crocodile have hair,No
+52,a crocodile has hair,No
+53,hair is a part of a crocodile body,No
+54,does a snake have hair,No
+55,a snake has hair,No
+56,hair is a part of a snake body,No
+57,does a frog have hair,No
+58,a frog has hair,No
+59,hair is a part of a frog body,No
+60,does a salamander have hair,No
+61,a salamander has hair,No
+62,hair is a part of a salamander body,No
+63,does a tapir have hair,No
+64,a tapir has hair,No
+65,hair is a part of a tapir body,No
+66,does a fish have hair,No
+67,a fish has hair,No
+68,hair is a part of a fish body,No
+69,does a shark have hair,No
+70,a shark has hair,No
+71,hair is a part of a shark body,No
+72,does a tuna have hair,No
+73,a tuna has hair,No
+74,hair is a part of a tuna body,No
+75,does a jellyfish have hair,No
+76,a jellyfish has hair,No
+77,hair is a part of a jellyfish body,No
+78,does a salmon have hair,No
+79,a salmon has hair,No
+80,hair is a part of a salmon body,No
+81,does a octupus have hair,No
+82,a octupus has hair,No
+83,hair is a part of a octupus body,No
+84,does a barracuda have hair,No
+85,a barracuda has hair,No
+86,hair is a part of a barracuda body,No
+87,does a codfish have hair,No
+88,a codfish has hair,No
+89,hair is a part of a codfish body,No
+90,does a crab have hair,No
+91,a crab has hair,No
+92,hair is a part of a crab body,No
+93,does a cuttlefish have hair,No
+94,a cuttlefish has hair,No
+95,hair is a part of a cuttlefish body,No
+96,does a dolphin have hair,No
+97,a dolphin has hair,No
+98,hair is a part of a dolphin body,No
+99,does a eel have hair,No
+100,a eel has hair,No
+101,hair is a part of a eel body,No
+102,does a gar have hair,No
+103,a gar has hair,No
+104,hair is a part of a gar body,No
+105,does a herring have hair,No
+106,a herring has hair,No
+107,hair is a part of a herring body,No
+108,does a kingfisher have hair,No
+109,a kingfisher has hair,No
+110,hair is a part of a kingfisher body,No
+111,does a lobster have hair,No
+112,a lobster has hair,No
+113,hair is a part of a lobster body,No
+114,does a oyster have hair,No
+115,a oyster has hair,No
+116,hair is a part of a oyster body,No
+117,does a piranha have hair,No
+118,a piranha has hair,No
+119,hair is a part of a piranha body,No
+120,does a seal have hair,No
+121,a seal has hair,No
+122,hair is a part of a seal body,No
+123,does a shrimp have hair,No
+124,a shrimp has hair,No
+125,hair is a part of a shrimp body,No
+126,does a prawn have hair,No
+127,a prawn has hair,No
+128,hair is a part of a prawn body,No
+129,does a starfish have hair,No
+130,a starfish has hair,No
+131,hair is a part of a starfish body,No
+132,does a sponge have hair,No
+133,a sponge has hair,No
+134,hair is a part of a sponge body,No
+135,does a whale have hair,No
+136,a whale has hair,No
+137,hair is a part of a whale body,No
+138,does a turkey have hair,No
+139,a turkey has hair,No
+140,hair is a part of a turkey body,No
+141,does a swan have hair,No
+142,a swan has hair,No
+143,hair is a part of a swan body,No
+144,does a sparrow have hair,No
+145,a sparrow has hair,No
+146,hair is a part of a sparrow body,No
+147,does a songbird have hair,No
+148,a songbird has hair,No
+149,hair is a part of a songbird body,No
+150,does a roaster have hair,No
+151,a roaster has hair,No
+152,hair is a part of a roaster body,No
+153,does a bird have hair,No
+154,a bird has hair,No
+155,hair is a part of a bird body,No

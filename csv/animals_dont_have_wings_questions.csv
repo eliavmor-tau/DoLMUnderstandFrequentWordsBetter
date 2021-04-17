@@ -1,491 +1,197 @@
 ,question,label
 0,does a dog have wings,No
-1,a dog has wings.,No
+1,a dog has wings,No
 2,does a dog have a wing,No
 3,a dog has a wing,No
-4,wings are part of dog's body,No
-5,wing is a part of dog's body,No
-6,wings belong to a dog,No
-7,wing belongs to a dog,No
-8,does a dog have wings?,No
-9,does a dog have a wing?,No
-10,does a cat have wings,No
-11,a cat has wings.,No
-12,does a cat have a wing,No
-13,a cat has a wing,No
-14,wings are part of cat's body,No
-15,wing is a part of cat's body,No
-16,wings belong to a cat,No
-17,wing belongs to a cat,No
-18,does a cat have wings?,No
-19,does a cat have a wing?,No
-20,does a fox have wings,No
-21,a fox has wings.,No
-22,does a fox have a wing,No
-23,a fox has a wing,No
-24,wings are part of fox's body,No
-25,wing is a part of fox's body,No
-26,wings belong to a fox,No
-27,wing belongs to a fox,No
-28,does a fox have wings?,No
-29,does a fox have a wing?,No
-30,does a wolf have wings,No
-31,a wolf has wings.,No
-32,does a wolf have a wing,No
-33,a wolf has a wing,No
-34,wings are part of wolf's body,No
-35,wing is a part of wolf's body,No
-36,wings belong to a wolf,No
-37,wing belongs to a wolf,No
-38,does a wolf have wings?,No
-39,does a wolf have a wing?,No
-40,does a lion have wings,No
-41,a lion has wings.,No
-42,does a lion have a wing,No
-43,a lion has a wing,No
-44,wings are part of lion's body,No
-45,wing is a part of lion's body,No
-46,wings belong to a lion,No
-47,wing belongs to a lion,No
-48,does a lion have wings?,No
-49,does a lion have a wing?,No
-50,does a zebra have wings,No
-51,a zebra has wings.,No
-52,does a zebra have a wing,No
-53,a zebra has a wing,No
-54,wings are part of zebra's body,No
-55,wing is a part of zebra's body,No
-56,wings belong to a zebra,No
-57,wing belongs to a zebra,No
-58,does a zebra have wings?,No
-59,does a zebra have a wing?,No
-60,does a tiger have wings,No
-61,a tiger has wings.,No
-62,does a tiger have a wing,No
-63,a tiger has a wing,No
-64,wings are part of tiger's body,No
-65,wing is a part of tiger's body,No
-66,wings belong to a tiger,No
-67,wing belongs to a tiger,No
-68,does a tiger have wings?,No
-69,does a tiger have a wing?,No
-70,does a cow have wings,No
-71,a cow has wings.,No
-72,does a cow have a wing,No
-73,a cow has a wing,No
-74,wings are part of cow's body,No
-75,wing is a part of cow's body,No
-76,wings belong to a cow,No
-77,wing belongs to a cow,No
-78,does a cow have wings?,No
-79,does a cow have a wing?,No
-80,does a frog have wings,No
-81,a frog has wings.,No
-82,does a frog have a wing,No
-83,a frog has a wing,No
-84,wings are part of frog's body,No
-85,wing is a part of frog's body,No
-86,wings belong to a frog,No
-87,wing belongs to a frog,No
-88,does a frog have wings?,No
-89,does a frog have a wing?,No
-90,does a deer have wings,No
-91,a deer has wings.,No
-92,does a deer have a wing,No
-93,a deer has a wing,No
-94,wings are part of deer's body,No
-95,wing is a part of deer's body,No
-96,wings belong to a deer,No
-97,wing belongs to a deer,No
-98,does a deer have wings?,No
-99,does a deer have a wing?,No
-100,does a pig have wings,No
-101,a pig has wings.,No
-102,does a pig have a wing,No
-103,a pig has a wing,No
-104,wings are part of pig's body,No
-105,wing is a part of pig's body,No
-106,wings belong to a pig,No
-107,wing belongs to a pig,No
-108,does a pig have wings?,No
-109,does a pig have a wing?,No
-110,does a horse have wings,No
-111,a horse has wings.,No
-112,does a horse have a wing,No
-113,a horse has a wing,No
-114,wings are part of horse's body,No
-115,wing is a part of horse's body,No
-116,wings belong to a horse,No
-117,wing belongs to a horse,No
-118,does a horse have wings?,No
-119,does a horse have a wing?,No
-120,does a camel have wings,No
-121,a camel has wings.,No
-122,does a camel have a wing,No
-123,a camel has a wing,No
-124,wings are part of camel's body,No
-125,wing is a part of camel's body,No
-126,wings belong to a camel,No
-127,wing belongs to a camel,No
-128,does a camel have wings?,No
-129,does a camel have a wing?,No
-130,does a bull have wings,No
-131,a bull has wings.,No
-132,does a bull have a wing,No
-133,a bull has a wing,No
-134,wings are part of bull's body,No
-135,wing is a part of bull's body,No
-136,wings belong to a bull,No
-137,wing belongs to a bull,No
-138,does a bull have wings?,No
-139,does a bull have a wing?,No
-140,does a shark have wings,No
-141,a shark has wings.,No
-142,does a shark have a wing,No
-143,a shark has a wing,No
-144,wings are part of shark's body,No
-145,wing is a part of shark's body,No
-146,wings belong to a shark,No
-147,wing belongs to a shark,No
-148,does a shark have wings?,No
-149,does a shark have a wing?,No
-150,does a rhino have wings,No
-151,a rhino has wings.,No
-152,does a rhino have a wing,No
-153,a rhino has a wing,No
-154,wings are part of rhino's body,No
-155,wing is a part of rhino's body,No
-156,wings belong to a rhino,No
-157,wing belongs to a rhino,No
-158,does a rhino have wings?,No
-159,does a rhino have a wing?,No
-160,does a elephant have wings,No
-161,a elephant has wings.,No
-162,does a elephant have a wing,No
-163,a elephant has a wing,No
-164,wings are part of elephant's body,No
-165,wing is a part of elephant's body,No
-166,wings belong to a elephant,No
-167,wing belongs to a elephant,No
-168,does a elephant have wings?,No
-169,does a elephant have a wing?,No
-170,does a snake have wings,No
-171,a snake has wings.,No
-172,does a snake have a wing,No
-173,a snake has a wing,No
-174,wings are part of snake's body,No
-175,wing is a part of snake's body,No
-176,wings belong to a snake,No
-177,wing belongs to a snake,No
-178,does a snake have wings?,No
-179,does a snake have a wing?,No
-180,does a lizard have wings,No
-181,a lizard has wings.,No
-182,does a lizard have a wing,No
-183,a lizard has a wing,No
-184,wings are part of lizard's body,No
-185,wing is a part of lizard's body,No
-186,wings belong to a lizard,No
-187,wing belongs to a lizard,No
-188,does a lizard have wings?,No
-189,does a lizard have a wing?,No
-190,does a rabbit have wings,No
-191,a rabbit has wings.,No
-192,does a rabbit have a wing,No
-193,a rabbit has a wing,No
-194,wings are part of rabbit's body,No
-195,wing is a part of rabbit's body,No
-196,wings belong to a rabbit,No
-197,wing belongs to a rabbit,No
-198,does a rabbit have wings?,No
-199,does a rabbit have a wing?,No
-200,does a monkey have wings,No
-201,a monkey has wings.,No
-202,does a monkey have a wing,No
-203,a monkey has a wing,No
-204,wings are part of monkey's body,No
-205,wing is a part of monkey's body,No
-206,wings belong to a monkey,No
-207,wing belongs to a monkey,No
-208,does a monkey have wings?,No
-209,does a monkey have a wing?,No
-210,does a sheep have wings,No
-211,a sheep has wings.,No
-212,does a sheep have a wing,No
-213,a sheep has a wing,No
-214,wings are part of sheep's body,No
-215,wing is a part of sheep's body,No
-216,wings belong to a sheep,No
-217,wing belongs to a sheep,No
-218,does a sheep have wings?,No
-219,does a sheep have a wing?,No
-220,does a donkey have wings,No
-221,a donkey has wings.,No
-222,does a donkey have a wing,No
-223,a donkey has a wing,No
-224,wings are part of donkey's body,No
-225,wing is a part of donkey's body,No
-226,wings belong to a donkey,No
-227,wing belongs to a donkey,No
-228,does a donkey have wings?,No
-229,does a donkey have a wing?,No
-230,does a giraffe have wings,No
-231,a giraffe has wings.,No
-232,does a giraffe have a wing,No
-233,a giraffe has a wing,No
-234,wings are part of giraffe's body,No
-235,wing is a part of giraffe's body,No
-236,wings belong to a giraffe,No
-237,wing belongs to a giraffe,No
-238,does a giraffe have wings?,No
-239,does a giraffe have a wing?,No
-240,does a worm have wings,No
-241,a worm has wings.,No
-242,does a worm have a wing,No
-243,a worm has a wing,No
-244,wings are part of worm's body,No
-245,wing is a part of worm's body,No
-246,wings belong to a worm,No
-247,wing belongs to a worm,No
-248,does a worm have wings?,No
-249,does a worm have a wing?,No
-250,does a goat have wings,No
-251,a goat has wings.,No
-252,does a goat have a wing,No
-253,a goat has a wing,No
-254,wings are part of goat's body,No
-255,wing is a part of goat's body,No
-256,wings belong to a goat,No
-257,wing belongs to a goat,No
-258,does a goat have wings?,No
-259,does a goat have a wing?,No
-260,does a rat have wings,No
-261,a rat has wings.,No
-262,does a rat have a wing,No
-263,a rat has a wing,No
-264,wings are part of rat's body,No
-265,wing is a part of rat's body,No
-266,wings belong to a rat,No
-267,wing belongs to a rat,No
-268,does a rat have wings?,No
-269,does a rat have a wing?,No
-270,does a ox have wings,No
-271,a ox has wings.,No
-272,does a ox have a wing,No
-273,a ox has a wing,No
-274,wings are part of ox's body,No
-275,wing is a part of ox's body,No
-276,wings belong to a ox,No
-277,wing belongs to a ox,No
-278,does a ox have wings?,No
-279,does a ox have a wing?,No
-280,does a bear have wings,No
-281,a bear has wings.,No
-282,does a bear have a wing,No
-283,a bear has a wing,No
-284,wings are part of bear's body,No
-285,wing is a part of bear's body,No
-286,wings belong to a bear,No
-287,wing belongs to a bear,No
-288,does a bear have wings?,No
-289,does a bear have a wing?,No
-290,does a leopard have wings,No
-291,a leopard has wings.,No
-292,does a leopard have a wing,No
-293,a leopard has a wing,No
-294,wings are part of leopard's body,No
-295,wing is a part of leopard's body,No
-296,wings belong to a leopard,No
-297,wing belongs to a leopard,No
-298,does a leopard have wings?,No
-299,does a leopard have a wing?,No
-300,does a jaguar have wings,No
-301,a jaguar has wings.,No
-302,does a jaguar have a wing,No
-303,a jaguar has a wing,No
-304,wings are part of jaguar's body,No
-305,wing is a part of jaguar's body,No
-306,wings belong to a jaguar,No
-307,wing belongs to a jaguar,No
-308,does a jaguar have wings?,No
-309,does a jaguar have a wing?,No
-310,does a puma have wings,No
-311,a puma has wings.,No
-312,does a puma have a wing,No
-313,a puma has a wing,No
-314,wings are part of puma's body,No
-315,wing is a part of puma's body,No
-316,wings belong to a puma,No
-317,wing belongs to a puma,No
-318,does a puma have wings?,No
-319,does a puma have a wing?,No
-320,does a poodle have wings,No
-321,a poodle has wings.,No
-322,does a poodle have a wing,No
-323,a poodle has a wing,No
-324,wings are part of poodle's body,No
-325,wing is a part of poodle's body,No
-326,wings belong to a poodle,No
-327,wing belongs to a poodle,No
-328,does a poodle have wings?,No
-329,does a poodle have a wing?,No
-330,does a rottweiler have wings,No
-331,a rottweiler has wings.,No
-332,does a rottweiler have a wing,No
-333,a rottweiler has a wing,No
-334,wings are part of rottweiler's body,No
-335,wing is a part of rottweiler's body,No
-336,wings belong to a rottweiler,No
-337,wing belongs to a rottweiler,No
-338,does a rottweiler have wings?,No
-339,does a rottweiler have a wing?,No
-340,does a pomeranian have wings,No
-341,a pomeranian has wings.,No
-342,does a pomeranian have a wing,No
-343,a pomeranian has a wing,No
-344,wings are part of pomeranian's body,No
-345,wing is a part of pomeranian's body,No
-346,wings belong to a pomeranian,No
-347,wing belongs to a pomeranian,No
-348,does a pomeranian have wings?,No
-349,does a pomeranian have a wing?,No
-350,does a doberman have wings,No
-351,a doberman has wings.,No
-352,does a doberman have a wing,No
-353,a doberman has a wing,No
-354,wings are part of doberman's body,No
-355,wing is a part of doberman's body,No
-356,wings belong to a doberman,No
-357,wing belongs to a doberman,No
-358,does a doberman have wings?,No
-359,does a doberman have a wing?,No
-360,does a corgi have wings,No
-361,a corgi has wings.,No
-362,does a corgi have a wing,No
-363,a corgi has a wing,No
-364,wings are part of corgi's body,No
-365,wing is a part of corgi's body,No
-366,wings belong to a corgi,No
-367,wing belongs to a corgi,No
-368,does a corgi have wings?,No
-369,does a corgi have a wing?,No
-370,does a beagle have wings,No
-371,a beagle has wings.,No
-372,does a beagle have a wing,No
-373,a beagle has a wing,No
-374,wings are part of beagle's body,No
-375,wing is a part of beagle's body,No
-376,wings belong to a beagle,No
-377,wing belongs to a beagle,No
-378,does a beagle have wings?,No
-379,does a beagle have a wing?,No
-380,does a labrador have wings,No
-381,a labrador has wings.,No
-382,does a labrador have a wing,No
-383,a labrador has a wing,No
-384,wings are part of labrador's body,No
-385,wing is a part of labrador's body,No
-386,wings belong to a labrador,No
-387,wing belongs to a labrador,No
-388,does a labrador have wings?,No
-389,does a labrador have a wing?,No
-390,does a yellowfin have wings,No
-391,a yellowfin has wings.,No
-392,does a yellowfin have a wing,No
-393,a yellowfin has a wing,No
-394,wings are part of yellowfin's body,No
-395,wing is a part of yellowfin's body,No
-396,wings belong to a yellowfin,No
-397,wing belongs to a yellowfin,No
-398,does a yellowfin have wings?,No
-399,does a yellowfin have a wing?,No
-400,does a tuna have wings,No
-401,a tuna has wings.,No
-402,does a tuna have a wing,No
-403,a tuna has a wing,No
-404,wings are part of tuna's body,No
-405,wing is a part of tuna's body,No
-406,wings belong to a tuna,No
-407,wing belongs to a tuna,No
-408,does a tuna have wings?,No
-409,does a tuna have a wing?,No
-410,does a salmon have wings,No
-411,a salmon has wings.,No
-412,does a salmon have a wing,No
-413,a salmon has a wing,No
-414,wings are part of salmon's body,No
-415,wing is a part of salmon's body,No
-416,wings belong to a salmon,No
-417,wing belongs to a salmon,No
-418,does a salmon have wings?,No
-419,does a salmon have a wing?,No
-420,does a whale have wings,No
-421,a whale has wings.,No
-422,does a whale have a wing,No
-423,a whale has a wing,No
-424,wings are part of whale's body,No
-425,wing is a part of whale's body,No
-426,wings belong to a whale,No
-427,wing belongs to a whale,No
-428,does a whale have wings?,No
-429,does a whale have a wing?,No
-430,does a dolphin have wings,No
-431,a dolphin has wings.,No
-432,does a dolphin have a wing,No
-433,a dolphin has a wing,No
-434,wings are part of dolphin's body,No
-435,wing is a part of dolphin's body,No
-436,wings belong to a dolphin,No
-437,wing belongs to a dolphin,No
-438,does a dolphin have wings?,No
-439,does a dolphin have a wing?,No
-440,does a eel have wings,No
-441,a eel has wings.,No
-442,does a eel have a wing,No
-443,a eel has a wing,No
-444,wings are part of eel's body,No
-445,wing is a part of eel's body,No
-446,wings belong to a eel,No
-447,wing belongs to a eel,No
-448,does a eel have wings?,No
-449,does a eel have a wing?,No
-450,does a jellyfish have wings,No
-451,a jellyfish has wings.,No
-452,does a jellyfish have a wing,No
-453,a jellyfish has a wing,No
-454,wings are part of jellyfish's body,No
-455,wing is a part of jellyfish's body,No
-456,wings belong to a jellyfish,No
-457,wing belongs to a jellyfish,No
-458,does a jellyfish have wings?,No
-459,does a jellyfish have a wing?,No
-460,does a snail have wings,No
-461,a snail has wings.,No
-462,does a snail have a wing,No
-463,a snail has a wing,No
-464,wings are part of snail's body,No
-465,wing is a part of snail's body,No
-466,wings belong to a snail,No
-467,wing belongs to a snail,No
-468,does a snail have wings?,No
-469,does a snail have a wing?,No
-470,does a codfish have wings,No
-471,a codfish has wings.,No
-472,does a codfish have a wing,No
-473,a codfish has a wing,No
-474,wings are part of codfish's body,No
-475,wing is a part of codfish's body,No
-476,wings belong to a codfish,No
-477,wing belongs to a codfish,No
-478,does a codfish have wings?,No
-479,does a codfish have a wing?,No
-480,does a ram have wings,No
-481,a ram has wings.,No
-482,does a ram have a wing,No
-483,a ram has a wing,No
-484,wings are part of ram's body,No
-485,wing is a part of ram's body,No
-486,wings belong to a ram,No
-487,wing belongs to a ram,No
-488,does a ram have wings?,No
-489,does a ram have a wing?,No
+4,does a cat have wings,No
+5,a cat has wings,No
+6,does a cat have a wing,No
+7,a cat has a wing,No
+8,does a fox have wings,No
+9,a fox has wings,No
+10,does a fox have a wing,No
+11,a fox has a wing,No
+12,does a wolf have wings,No
+13,a wolf has wings,No
+14,does a wolf have a wing,No
+15,a wolf has a wing,No
+16,does a lion have wings,No
+17,a lion has wings,No
+18,does a lion have a wing,No
+19,a lion has a wing,No
+20,does a zebra have wings,No
+21,a zebra has wings,No
+22,does a zebra have a wing,No
+23,a zebra has a wing,No
+24,does a tiger have wings,No
+25,a tiger has wings,No
+26,does a tiger have a wing,No
+27,a tiger has a wing,No
+28,does a cow have wings,No
+29,a cow has wings,No
+30,does a cow have a wing,No
+31,a cow has a wing,No
+32,does a frog have wings,No
+33,a frog has wings,No
+34,does a frog have a wing,No
+35,a frog has a wing,No
+36,does a deer have wings,No
+37,a deer has wings,No
+38,does a deer have a wing,No
+39,a deer has a wing,No
+40,does a pig have wings,No
+41,a pig has wings,No
+42,does a pig have a wing,No
+43,a pig has a wing,No
+44,does a horse have wings,No
+45,a horse has wings,No
+46,does a horse have a wing,No
+47,a horse has a wing,No
+48,does a camel have wings,No
+49,a camel has wings,No
+50,does a camel have a wing,No
+51,a camel has a wing,No
+52,does a bull have wings,No
+53,a bull has wings,No
+54,does a bull have a wing,No
+55,a bull has a wing,No
+56,does a shark have wings,No
+57,a shark has wings,No
+58,does a shark have a wing,No
+59,a shark has a wing,No
+60,does a rhino have wings,No
+61,a rhino has wings,No
+62,does a rhino have a wing,No
+63,a rhino has a wing,No
+64,does a elephant have wings,No
+65,a elephant has wings,No
+66,does a elephant have a wing,No
+67,a elephant has a wing,No
+68,does a snake have wings,No
+69,a snake has wings,No
+70,does a snake have a wing,No
+71,a snake has a wing,No
+72,does a lizard have wings,No
+73,a lizard has wings,No
+74,does a lizard have a wing,No
+75,a lizard has a wing,No
+76,does a rabbit have wings,No
+77,a rabbit has wings,No
+78,does a rabbit have a wing,No
+79,a rabbit has a wing,No
+80,does a monkey have wings,No
+81,a monkey has wings,No
+82,does a monkey have a wing,No
+83,a monkey has a wing,No
+84,does a sheep have wings,No
+85,a sheep has wings,No
+86,does a sheep have a wing,No
+87,a sheep has a wing,No
+88,does a donkey have wings,No
+89,a donkey has wings,No
+90,does a donkey have a wing,No
+91,a donkey has a wing,No
+92,does a giraffe have wings,No
+93,a giraffe has wings,No
+94,does a giraffe have a wing,No
+95,a giraffe has a wing,No
+96,does a worm have wings,No
+97,a worm has wings,No
+98,does a worm have a wing,No
+99,a worm has a wing,No
+100,does a goat have wings,No
+101,a goat has wings,No
+102,does a goat have a wing,No
+103,a goat has a wing,No
+104,does a rat have wings,No
+105,a rat has wings,No
+106,does a rat have a wing,No
+107,a rat has a wing,No
+108,does a ox have wings,No
+109,a ox has wings,No
+110,does a ox have a wing,No
+111,a ox has a wing,No
+112,does a bear have wings,No
+113,a bear has wings,No
+114,does a bear have a wing,No
+115,a bear has a wing,No
+116,does a leopard have wings,No
+117,a leopard has wings,No
+118,does a leopard have a wing,No
+119,a leopard has a wing,No
+120,does a jaguar have wings,No
+121,a jaguar has wings,No
+122,does a jaguar have a wing,No
+123,a jaguar has a wing,No
+124,does a puma have wings,No
+125,a puma has wings,No
+126,does a puma have a wing,No
+127,a puma has a wing,No
+128,does a poodle have wings,No
+129,a poodle has wings,No
+130,does a poodle have a wing,No
+131,a poodle has a wing,No
+132,does a rottweiler have wings,No
+133,a rottweiler has wings,No
+134,does a rottweiler have a wing,No
+135,a rottweiler has a wing,No
+136,does a pomeranian have wings,No
+137,a pomeranian has wings,No
+138,does a pomeranian have a wing,No
+139,a pomeranian has a wing,No
+140,does a doberman have wings,No
+141,a doberman has wings,No
+142,does a doberman have a wing,No
+143,a doberman has a wing,No
+144,does a corgi have wings,No
+145,a corgi has wings,No
+146,does a corgi have a wing,No
+147,a corgi has a wing,No
+148,does a beagle have wings,No
+149,a beagle has wings,No
+150,does a beagle have a wing,No
+151,a beagle has a wing,No
+152,does a labrador have wings,No
+153,a labrador has wings,No
+154,does a labrador have a wing,No
+155,a labrador has a wing,No
+156,does a yellowfin have wings,No
+157,a yellowfin has wings,No
+158,does a yellowfin have a wing,No
+159,a yellowfin has a wing,No
+160,does a tuna have wings,No
+161,a tuna has wings,No
+162,does a tuna have a wing,No
+163,a tuna has a wing,No
+164,does a salmon have wings,No
+165,a salmon has wings,No
+166,does a salmon have a wing,No
+167,a salmon has a wing,No
+168,does a whale have wings,No
+169,a whale has wings,No
+170,does a whale have a wing,No
+171,a whale has a wing,No
+172,does a dolphin have wings,No
+173,a dolphin has wings,No
+174,does a dolphin have a wing,No
+175,a dolphin has a wing,No
+176,does a eel have wings,No
+177,a eel has wings,No
+178,does a eel have a wing,No
+179,a eel has a wing,No
+180,does a jellyfish have wings,No
+181,a jellyfish has wings,No
+182,does a jellyfish have a wing,No
+183,a jellyfish has a wing,No
+184,does a snail have wings,No
+185,a snail has wings,No
+186,does a snail have a wing,No
+187,a snail has a wing,No
+188,does a codfish have wings,No
+189,a codfish has wings,No
+190,does a codfish have a wing,No
+191,a codfish has a wing,No
+192,does a ram have wings,No
+193,a ram has wings,No
+194,does a ram have a wing,No
+195,a ram has a wing,No

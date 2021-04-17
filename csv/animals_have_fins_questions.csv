@@ -1,393 +1,197 @@
 ,question,label
 0,does a fish have fins,Yes
 1,a fish has fins,Yes
-2,fins are part of fish's body,Yes
-3,fins belong to a fish,Yes
-4,does a fish have a fin,Yes
-5,a fish has a fin,Yes
-6,fin is part of fish's body,Yes
-7,fin belongs to a fish,Yes
-8,does a shark have fins,Yes
-9,a shark has fins,Yes
-10,fins are part of shark's body,Yes
-11,fins belong to a shark,Yes
-12,does a shark have a fin,Yes
-13,a shark has a fin,Yes
-14,fin is part of shark's body,Yes
-15,fin belongs to a shark,Yes
-16,does a tuna have fins,Yes
-17,a tuna has fins,Yes
-18,fins are part of tuna's body,Yes
-19,fins belong to a tuna,Yes
-20,does a tuna have a fin,Yes
-21,a tuna has a fin,Yes
-22,fin is part of tuna's body,Yes
-23,fin belongs to a tuna,Yes
-24,does a salmon have fins,Yes
-25,a salmon has fins,Yes
-26,fins are part of salmon's body,Yes
-27,fins belong to a salmon,Yes
-28,does a salmon have a fin,Yes
-29,a salmon has a fin,Yes
-30,fin is part of salmon's body,Yes
-31,fin belongs to a salmon,Yes
-32,does a barracuda have fins,Yes
-33,a barracuda has fins,Yes
-34,fins are part of barracuda's body,Yes
-35,fins belong to a barracuda,Yes
-36,does a barracuda have a fin,Yes
-37,a barracuda has a fin,Yes
-38,fin is part of barracuda's body,Yes
-39,fin belongs to a barracuda,Yes
-40,does a codfish have fins,Yes
-41,a codfish has fins,Yes
-42,fins are part of codfish's body,Yes
-43,fins belong to a codfish,Yes
-44,does a codfish have a fin,Yes
-45,a codfish has a fin,Yes
-46,fin is part of codfish's body,Yes
-47,fin belongs to a codfish,Yes
-48,does a cuttlefish have fins,Yes
-49,a cuttlefish has fins,Yes
-50,fins are part of cuttlefish's body,Yes
-51,fins belong to a cuttlefish,Yes
-52,does a cuttlefish have a fin,Yes
-53,a cuttlefish has a fin,Yes
-54,fin is part of cuttlefish's body,Yes
-55,fin belongs to a cuttlefish,Yes
-56,does a dolphin have fins,Yes
-57,a dolphin has fins,Yes
-58,fins are part of dolphin's body,Yes
-59,fins belong to a dolphin,Yes
-60,does a dolphin have a fin,Yes
-61,a dolphin has a fin,Yes
-62,fin is part of dolphin's body,Yes
-63,fin belongs to a dolphin,Yes
-64,does a eel have fins,Yes
-65,a eel has fins,Yes
-66,fins are part of eel's body,Yes
-67,fins belong to a eel,Yes
-68,does a eel have a fin,Yes
-69,a eel has a fin,Yes
-70,fin is part of eel's body,Yes
-71,fin belongs to a eel,Yes
-72,does a garfish have fins,Yes
-73,a garfish has fins,Yes
-74,fins are part of garfish's body,Yes
-75,fins belong to a garfish,Yes
-76,does a garfish have a fin,Yes
-77,a garfish has a fin,Yes
-78,fin is part of garfish's body,Yes
-79,fin belongs to a garfish,Yes
-80,does a herring have fins,Yes
-81,a herring has fins,Yes
-82,fins are part of herring's body,Yes
-83,fins belong to a herring,Yes
-84,does a herring have a fin,Yes
-85,a herring has a fin,Yes
-86,fin is part of herring's body,Yes
-87,fin belongs to a herring,Yes
-88,does a piranha have fins,Yes
-89,a piranha has fins,Yes
-90,fins are part of piranha's body,Yes
-91,fins belong to a piranha,Yes
-92,does a piranha have a fin,Yes
-93,a piranha has a fin,Yes
-94,fin is part of piranha's body,Yes
-95,fin belongs to a piranha,Yes
-96,does a bluefish have fins,Yes
-97,a bluefish has fins,Yes
-98,fins are part of bluefish's body,Yes
-99,fins belong to a bluefish,Yes
-100,does a bluefish have a fin,Yes
-101,a bluefish has a fin,Yes
-102,fin is part of bluefish's body,Yes
-103,fin belongs to a bluefish,Yes
-104,does a oyster have fins,Yes
-105,a oyster has fins,Yes
-106,fins are part of oyster's body,Yes
-107,fins belong to a oyster,Yes
-108,does a oyster have a fin,Yes
-109,a oyster has a fin,Yes
-110,fin is part of oyster's body,Yes
-111,fin belongs to a oyster,Yes
-112,does a buri have fins,Yes
-113,a buri has fins,Yes
-114,fins are part of buri's body,Yes
-115,fins belong to a buri,Yes
-116,does a buri have a fin,Yes
-117,a buri has a fin,Yes
-118,fin is part of buri's body,Yes
-119,fin belongs to a buri,Yes
-120,does a knifefish have fins,Yes
-121,a knifefish has fins,Yes
-122,fins are part of knifefish's body,Yes
-123,fins belong to a knifefish,Yes
-124,does a knifefish have a fin,Yes
-125,a knifefish has a fin,Yes
-126,fin is part of knifefish's body,Yes
-127,fin belongs to a knifefish,Yes
-128,does a orca have fins,Yes
-129,a orca has fins,Yes
-130,fins are part of orca's body,Yes
-131,fins belong to a orca,Yes
-132,does a orca have a fin,Yes
-133,a orca has a fin,Yes
-134,fin is part of orca's body,Yes
-135,fin belongs to a orca,Yes
-136,does a whale have fins,Yes
-137,a whale has fins,Yes
-138,fins are part of whale's body,Yes
-139,fins belong to a whale,Yes
-140,does a whale have a fin,Yes
-141,a whale has a fin,Yes
-142,fin is part of whale's body,Yes
-143,fin belongs to a whale,Yes
-144,does a dugongs have fins,Yes
-145,a dugongs has fins,Yes
-146,fins are part of dugongs's body,Yes
-147,fins belong to a dugongs,Yes
-148,does a dugongs have a fin,Yes
-149,a dugongs has a fin,Yes
-150,fin is part of dugongs's body,Yes
-151,fin belongs to a dugongs,Yes
-152,does a seahorse have fins,Yes
-153,a seahorse has fins,Yes
-154,fins are part of seahorse's body,Yes
-155,fins belong to a seahorse,Yes
-156,does a seahorse have a fin,Yes
-157,a seahorse has a fin,Yes
-158,fin is part of seahorse's body,Yes
-159,fin belongs to a seahorse,Yes
-160,does a rorqual have fins,Yes
-161,a rorqual has fins,Yes
-162,fins are part of rorqual's body,Yes
-163,fins belong to a rorqual,Yes
-164,does a rorqual have a fin,Yes
-165,a rorqual has a fin,Yes
-166,fin is part of rorqual's body,Yes
-167,fin belongs to a rorqual,Yes
-168,does a porpoise have fins,Yes
-169,a porpoise has fins,Yes
-170,fins are part of porpoise's body,Yes
-171,fins belong to a porpoise,Yes
-172,does a porpoise have a fin,Yes
-173,a porpoise has a fin,Yes
-174,fin is part of porpoise's body,Yes
-175,fin belongs to a porpoise,Yes
-176,does a yellowfin have fins,Yes
-177,a yellowfin has fins,Yes
-178,fins are part of yellowfin's body,Yes
-179,fins belong to a yellowfin,Yes
-180,does a yellowfin have a fin,Yes
-181,a yellowfin has a fin,Yes
-182,fin is part of yellowfin's body,Yes
-183,fin belongs to a yellowfin,Yes
-184,does a whitefish have fins,Yes
-185,a whitefish has fins,Yes
-186,fins are part of whitefish's body,Yes
-187,fins belong to a whitefish,Yes
-188,does a whitefish have a fin,Yes
-189,a whitefish has a fin,Yes
-190,fin is part of whitefish's body,Yes
-191,fin belongs to a whitefish,Yes
-192,does a stonefish have fins,Yes
-193,a stonefish has fins,Yes
-194,fins are part of stonefish's body,Yes
-195,fins belong to a stonefish,Yes
-196,does a stonefish have a fin,Yes
-197,a stonefish has a fin,Yes
-198,fin is part of stonefish's body,Yes
-199,fin belongs to a stonefish,Yes
-200,does a swordfish have fins,Yes
-201,a swordfish has fins,Yes
-202,fins are part of swordfish's body,Yes
-203,fins belong to a swordfish,Yes
-204,does a swordfish have a fin,Yes
-205,a swordfish has a fin,Yes
-206,fin is part of swordfish's body,Yes
-207,fin belongs to a swordfish,Yes
-208,does a spearfish have fins,Yes
-209,a spearfish has fins,Yes
-210,fins are part of spearfish's body,Yes
-211,fins belong to a spearfish,Yes
-212,does a spearfish have a fin,Yes
-213,a spearfish has a fin,Yes
-214,fin is part of spearfish's body,Yes
-215,fin belongs to a spearfish,Yes
-216,does a snook have fins,Yes
-217,a snook has fins,Yes
-218,fins are part of snook's body,Yes
-219,fins belong to a snook,Yes
-220,does a snook have a fin,Yes
-221,a snook has a fin,Yes
-222,fin is part of snook's body,Yes
-223,fin belongs to a snook,Yes
-224,does a smelt have fins,Yes
-225,a smelt has fins,Yes
-226,fins are part of smelt's body,Yes
-227,fins belong to a smelt,Yes
-228,does a smelt have a fin,Yes
-229,a smelt has a fin,Yes
-230,fin is part of smelt's body,Yes
-231,fin belongs to a smelt,Yes
-232,does a porgy have fins,Yes
-233,a porgy has fins,Yes
-234,fins are part of porgy's body,Yes
-235,fins belong to a porgy,Yes
-236,does a porgy have a fin,Yes
-237,a porgy has a fin,Yes
-238,fin is part of porgy's body,Yes
-239,fin belongs to a porgy,Yes
-240,does a pomfret have fins,Yes
-241,a pomfret has fins,Yes
-242,fins are part of pomfret's body,Yes
-243,fins belong to a pomfret,Yes
-244,does a pomfret have a fin,Yes
-245,a pomfret has a fin,Yes
-246,fin is part of pomfret's body,Yes
-247,fin belongs to a pomfret,Yes
-248,does a ling have fins,Yes
-249,a ling has fins,Yes
-250,fins are part of ling's body,Yes
-251,fins belong to a ling,Yes
-252,does a ling have a fin,Yes
-253,a ling has a fin,Yes
-254,fin is part of ling's body,Yes
-255,fin belongs to a ling,Yes
-256,does a kingfish have fins,Yes
-257,a kingfish has fins,Yes
-258,fins are part of kingfish's body,Yes
-259,fins belong to a kingfish,Yes
-260,does a kingfish have a fin,Yes
-261,a kingfish has a fin,Yes
-262,fin is part of kingfish's body,Yes
-263,fin belongs to a kingfish,Yes
-264,does a hogfish have fins,Yes
-265,a hogfish has fins,Yes
-266,fins are part of hogfish's body,Yes
-267,fins belong to a hogfish,Yes
-268,does a hogfish have a fin,Yes
-269,a hogfish has a fin,Yes
-270,fin is part of hogfish's body,Yes
-271,fin belongs to a hogfish,Yes
-272,does a jawfish have fins,Yes
-273,a jawfish has fins,Yes
-274,fins are part of jawfish's body,Yes
-275,fins belong to a jawfish,Yes
-276,does a jawfish have a fin,Yes
-277,a jawfish has a fin,Yes
-278,fin is part of jawfish's body,Yes
-279,fin belongs to a jawfish,Yes
-280,does a carp have fins,Yes
-281,a carp has fins,Yes
-282,fins are part of carp's body,Yes
-283,fins belong to a carp,Yes
-284,does a carp have a fin,Yes
-285,a carp has a fin,Yes
-286,fin is part of carp's body,Yes
-287,fin belongs to a carp,Yes
-288,does a burbot have fins,Yes
-289,a burbot has fins,Yes
-290,fins are part of burbot's body,Yes
-291,fins belong to a burbot,Yes
-292,does a burbot have a fin,Yes
-293,a burbot has a fin,Yes
-294,fin is part of burbot's body,Yes
-295,fin belongs to a burbot,Yes
-296,does a burrfish have fins,Yes
-297,a burrfish has fins,Yes
-298,fins are part of burrfish's body,Yes
-299,fins belong to a burrfish,Yes
-300,does a burrfish have a fin,Yes
-301,a burrfish has a fin,Yes
-302,fin is part of burrfish's body,Yes
-303,fin belongs to a burrfish,Yes
-304,does a bluefin have fins,Yes
-305,a bluefin has fins,Yes
-306,fins are part of bluefin's body,Yes
-307,fins belong to a bluefin,Yes
-308,does a bluefin have a fin,Yes
-309,a bluefin has a fin,Yes
-310,fin is part of bluefin's body,Yes
-311,fin belongs to a bluefin,Yes
-312,does a anchovy have fins,Yes
-313,a anchovy has fins,Yes
-314,fins are part of anchovy's body,Yes
-315,fins belong to a anchovy,Yes
-316,does a anchovy have a fin,Yes
-317,a anchovy has a fin,Yes
-318,fin is part of anchovy's body,Yes
-319,fin belongs to a anchovy,Yes
-320,does a albacore have fins,Yes
-321,a albacore has fins,Yes
-322,fins are part of albacore's body,Yes
-323,fins belong to a albacore,Yes
-324,does a albacore have a fin,Yes
-325,a albacore has a fin,Yes
-326,fin is part of albacore's body,Yes
-327,fin belongs to a albacore,Yes
-328,does a flatfish have fins,Yes
-329,a flatfish has fins,Yes
-330,fins are part of flatfish's body,Yes
-331,fins belong to a flatfish,Yes
-332,does a flatfish have a fin,Yes
-333,a flatfish has a fin,Yes
-334,fin is part of flatfish's body,Yes
-335,fin belongs to a flatfish,Yes
-336,does a goldfish have fins,Yes
-337,a goldfish has fins,Yes
-338,fins are part of goldfish's body,Yes
-339,fins belong to a goldfish,Yes
-340,does a goldfish have a fin,Yes
-341,a goldfish has a fin,Yes
-342,fin is part of goldfish's body,Yes
-343,fin belongs to a goldfish,Yes
-344,does a beluga have fins,Yes
-345,a beluga has fins,Yes
-346,fins are part of beluga's body,Yes
-347,fins belong to a beluga,Yes
-348,does a beluga have a fin,Yes
-349,a beluga has a fin,Yes
-350,fin is part of beluga's body,Yes
-351,fin belongs to a beluga,Yes
-352,does a bluegill have fins,Yes
-353,a bluegill has fins,Yes
-354,fins are part of bluegill's body,Yes
-355,fins belong to a bluegill,Yes
-356,does a bluegill have a fin,Yes
-357,a bluegill has a fin,Yes
-358,fin is part of bluegill's body,Yes
-359,fin belongs to a bluegill,Yes
-360,does a rhinocodon have fins,Yes
-361,a rhinocodon has fins,Yes
-362,fins are part of rhinocodon's body,Yes
-363,fins belong to a rhinocodon,Yes
-364,does a rhinocodon have a fin,Yes
-365,a rhinocodon has a fin,Yes
-366,fin is part of rhinocodon's body,Yes
-367,fin belongs to a rhinocodon,Yes
-368,does a baiji have fins,Yes
-369,a baiji has fins,Yes
-370,fins are part of baiji's body,Yes
-371,fins belong to a baiji,Yes
-372,does a baiji have a fin,Yes
-373,a baiji has a fin,Yes
-374,fin is part of baiji's body,Yes
-375,fin belongs to a baiji,Yes
-376,does a moray have fins,Yes
-377,a moray has fins,Yes
-378,fins are part of moray's body,Yes
-379,fins belong to a moray,Yes
-380,does a moray have a fin,Yes
-381,a moray has a fin,Yes
-382,fin is part of moray's body,Yes
-383,fin belongs to a moray,Yes
-384,does a conger have fins,Yes
-385,a conger has fins,Yes
-386,fins are part of conger's body,Yes
-387,fins belong to a conger,Yes
-388,does a conger have a fin,Yes
-389,a conger has a fin,Yes
-390,fin is part of conger's body,Yes
-391,fin belongs to a conger,Yes
+2,does a fish have a fin,Yes
+3,a fish has a fin,Yes
+4,does a shark have fins,Yes
+5,a shark has fins,Yes
+6,does a shark have a fin,Yes
+7,a shark has a fin,Yes
+8,does a tuna have fins,Yes
+9,a tuna has fins,Yes
+10,does a tuna have a fin,Yes
+11,a tuna has a fin,Yes
+12,does a salmon have fins,Yes
+13,a salmon has fins,Yes
+14,does a salmon have a fin,Yes
+15,a salmon has a fin,Yes
+16,does a barracuda have fins,Yes
+17,a barracuda has fins,Yes
+18,does a barracuda have a fin,Yes
+19,a barracuda has a fin,Yes
+20,does a codfish have fins,Yes
+21,a codfish has fins,Yes
+22,does a codfish have a fin,Yes
+23,a codfish has a fin,Yes
+24,does a cuttlefish have fins,Yes
+25,a cuttlefish has fins,Yes
+26,does a cuttlefish have a fin,Yes
+27,a cuttlefish has a fin,Yes
+28,does a dolphin have fins,Yes
+29,a dolphin has fins,Yes
+30,does a dolphin have a fin,Yes
+31,a dolphin has a fin,Yes
+32,does a eel have fins,Yes
+33,a eel has fins,Yes
+34,does a eel have a fin,Yes
+35,a eel has a fin,Yes
+36,does a garfish have fins,Yes
+37,a garfish has fins,Yes
+38,does a garfish have a fin,Yes
+39,a garfish has a fin,Yes
+40,does a herring have fins,Yes
+41,a herring has fins,Yes
+42,does a herring have a fin,Yes
+43,a herring has a fin,Yes
+44,does a piranha have fins,Yes
+45,a piranha has fins,Yes
+46,does a piranha have a fin,Yes
+47,a piranha has a fin,Yes
+48,does a bluefish have fins,Yes
+49,a bluefish has fins,Yes
+50,does a bluefish have a fin,Yes
+51,a bluefish has a fin,Yes
+52,does a oyster have fins,Yes
+53,a oyster has fins,Yes
+54,does a oyster have a fin,Yes
+55,a oyster has a fin,Yes
+56,does a buri have fins,Yes
+57,a buri has fins,Yes
+58,does a buri have a fin,Yes
+59,a buri has a fin,Yes
+60,does a knifefish have fins,Yes
+61,a knifefish has fins,Yes
+62,does a knifefish have a fin,Yes
+63,a knifefish has a fin,Yes
+64,does a orca have fins,Yes
+65,a orca has fins,Yes
+66,does a orca have a fin,Yes
+67,a orca has a fin,Yes
+68,does a whale have fins,Yes
+69,a whale has fins,Yes
+70,does a whale have a fin,Yes
+71,a whale has a fin,Yes
+72,does a dugongs have fins,Yes
+73,a dugongs has fins,Yes
+74,does a dugongs have a fin,Yes
+75,a dugongs has a fin,Yes
+76,does a seahorse have fins,Yes
+77,a seahorse has fins,Yes
+78,does a seahorse have a fin,Yes
+79,a seahorse has a fin,Yes
+80,does a rorqual have fins,Yes
+81,a rorqual has fins,Yes
+82,does a rorqual have a fin,Yes
+83,a rorqual has a fin,Yes
+84,does a porpoise have fins,Yes
+85,a porpoise has fins,Yes
+86,does a porpoise have a fin,Yes
+87,a porpoise has a fin,Yes
+88,does a yellowfin have fins,Yes
+89,a yellowfin has fins,Yes
+90,does a yellowfin have a fin,Yes
+91,a yellowfin has a fin,Yes
+92,does a whitefish have fins,Yes
+93,a whitefish has fins,Yes
+94,does a whitefish have a fin,Yes
+95,a whitefish has a fin,Yes
+96,does a stonefish have fins,Yes
+97,a stonefish has fins,Yes
+98,does a stonefish have a fin,Yes
+99,a stonefish has a fin,Yes
+100,does a swordfish have fins,Yes
+101,a swordfish has fins,Yes
+102,does a swordfish have a fin,Yes
+103,a swordfish has a fin,Yes
+104,does a spearfish have fins,Yes
+105,a spearfish has fins,Yes
+106,does a spearfish have a fin,Yes
+107,a spearfish has a fin,Yes
+108,does a snook have fins,Yes
+109,a snook has fins,Yes
+110,does a snook have a fin,Yes
+111,a snook has a fin,Yes
+112,does a smelt have fins,Yes
+113,a smelt has fins,Yes
+114,does a smelt have a fin,Yes
+115,a smelt has a fin,Yes
+116,does a porgy have fins,Yes
+117,a porgy has fins,Yes
+118,does a porgy have a fin,Yes
+119,a porgy has a fin,Yes
+120,does a pomfret have fins,Yes
+121,a pomfret has fins,Yes
+122,does a pomfret have a fin,Yes
+123,a pomfret has a fin,Yes
+124,does a ling have fins,Yes
+125,a ling has fins,Yes
+126,does a ling have a fin,Yes
+127,a ling has a fin,Yes
+128,does a kingfish have fins,Yes
+129,a kingfish has fins,Yes
+130,does a kingfish have a fin,Yes
+131,a kingfish has a fin,Yes
+132,does a hogfish have fins,Yes
+133,a hogfish has fins,Yes
+134,does a hogfish have a fin,Yes
+135,a hogfish has a fin,Yes
+136,does a jawfish have fins,Yes
+137,a jawfish has fins,Yes
+138,does a jawfish have a fin,Yes
+139,a jawfish has a fin,Yes
+140,does a carp have fins,Yes
+141,a carp has fins,Yes
+142,does a carp have a fin,Yes
+143,a carp has a fin,Yes
+144,does a burbot have fins,Yes
+145,a burbot has fins,Yes
+146,does a burbot have a fin,Yes
+147,a burbot has a fin,Yes
+148,does a burrfish have fins,Yes
+149,a burrfish has fins,Yes
+150,does a burrfish have a fin,Yes
+151,a burrfish has a fin,Yes
+152,does a bluefin have fins,Yes
+153,a bluefin has fins,Yes
+154,does a bluefin have a fin,Yes
+155,a bluefin has a fin,Yes
+156,does a anchovy have fins,Yes
+157,a anchovy has fins,Yes
+158,does a anchovy have a fin,Yes
+159,a anchovy has a fin,Yes
+160,does a albacore have fins,Yes
+161,a albacore has fins,Yes
+162,does a albacore have a fin,Yes
+163,a albacore has a fin,Yes
+164,does a flatfish have fins,Yes
+165,a flatfish has fins,Yes
+166,does a flatfish have a fin,Yes
+167,a flatfish has a fin,Yes
+168,does a goldfish have fins,Yes
+169,a goldfish has fins,Yes
+170,does a goldfish have a fin,Yes
+171,a goldfish has a fin,Yes
+172,does a beluga have fins,Yes
+173,a beluga has fins,Yes
+174,does a beluga have a fin,Yes
+175,a beluga has a fin,Yes
+176,does a bluegill have fins,Yes
+177,a bluegill has fins,Yes
+178,does a bluegill have a fin,Yes
+179,a bluegill has a fin,Yes
+180,does a rhinocodon have fins,Yes
+181,a rhinocodon has fins,Yes
+182,does a rhinocodon have a fin,Yes
+183,a rhinocodon has a fin,Yes
+184,does a baiji have fins,Yes
+185,a baiji has fins,Yes
+186,does a baiji have a fin,Yes
+187,a baiji has a fin,Yes
+188,does a moray have fins,Yes
+189,a moray has fins,Yes
+190,does a moray have a fin,Yes
+191,a moray has a fin,Yes
+192,does a conger have fins,Yes
+193,a conger has fins,Yes
+194,does a conger have a fin,Yes
+195,a conger has a fin,Yes

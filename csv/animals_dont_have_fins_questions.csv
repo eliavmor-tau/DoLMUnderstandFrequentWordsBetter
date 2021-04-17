@@ -1,393 +1,197 @@
 ,question,label
 0,does a dog have fins,No
 1,a dog has fins,No
-2,fins are part of dog's body,No
-3,fins belong to a dog,No
-4,does a dog have a fin,No
-5,a dog has a fin,No
-6,fin is part of dog's body,No
-7,fin belongs to a dog,No
-8,does a cat have fins,No
-9,a cat has fins,No
-10,fins are part of cat's body,No
-11,fins belong to a cat,No
-12,does a cat have a fin,No
-13,a cat has a fin,No
-14,fin is part of cat's body,No
-15,fin belongs to a cat,No
-16,does a fox have fins,No
-17,a fox has fins,No
-18,fins are part of fox's body,No
-19,fins belong to a fox,No
-20,does a fox have a fin,No
-21,a fox has a fin,No
-22,fin is part of fox's body,No
-23,fin belongs to a fox,No
-24,does a wolf have fins,No
-25,a wolf has fins,No
-26,fins are part of wolf's body,No
-27,fins belong to a wolf,No
-28,does a wolf have a fin,No
-29,a wolf has a fin,No
-30,fin is part of wolf's body,No
-31,fin belongs to a wolf,No
-32,does a lion have fins,No
-33,a lion has fins,No
-34,fins are part of lion's body,No
-35,fins belong to a lion,No
-36,does a lion have a fin,No
-37,a lion has a fin,No
-38,fin is part of lion's body,No
-39,fin belongs to a lion,No
-40,does a zebra have fins,No
-41,a zebra has fins,No
-42,fins are part of zebra's body,No
-43,fins belong to a zebra,No
-44,does a zebra have a fin,No
-45,a zebra has a fin,No
-46,fin is part of zebra's body,No
-47,fin belongs to a zebra,No
-48,does a tiger have fins,No
-49,a tiger has fins,No
-50,fins are part of tiger's body,No
-51,fins belong to a tiger,No
-52,does a tiger have a fin,No
-53,a tiger has a fin,No
-54,fin is part of tiger's body,No
-55,fin belongs to a tiger,No
-56,does a cow have fins,No
-57,a cow has fins,No
-58,fins are part of cow's body,No
-59,fins belong to a cow,No
-60,does a cow have a fin,No
-61,a cow has a fin,No
-62,fin is part of cow's body,No
-63,fin belongs to a cow,No
-64,does a hen have fins,No
-65,a hen has fins,No
-66,fins are part of hen's body,No
-67,fins belong to a hen,No
-68,does a hen have a fin,No
-69,a hen has a fin,No
-70,fin is part of hen's body,No
-71,fin belongs to a hen,No
-72,does a duck have fins,No
-73,a duck has fins,No
-74,fins are part of duck's body,No
-75,fins belong to a duck,No
-76,does a duck have a fin,No
-77,a duck has a fin,No
-78,fin is part of duck's body,No
-79,fin belongs to a duck,No
-80,does a bird have fins,No
-81,a bird has fins,No
-82,fins are part of bird's body,No
-83,fins belong to a bird,No
-84,does a bird have a fin,No
-85,a bird has a fin,No
-86,fin is part of bird's body,No
-87,fin belongs to a bird,No
-88,does a eagle have fins,No
-89,a eagle has fins,No
-90,fins are part of eagle's body,No
-91,fins belong to a eagle,No
-92,does a eagle have a fin,No
-93,a eagle has a fin,No
-94,fin is part of eagle's body,No
-95,fin belongs to a eagle,No
-96,does a swan have fins,No
-97,a swan has fins,No
-98,fins are part of swan's body,No
-99,fins belong to a swan,No
-100,does a swan have a fin,No
-101,a swan has a fin,No
-102,fin is part of swan's body,No
-103,fin belongs to a swan,No
-104,does a bull have fins,No
-105,a bull has fins,No
-106,fins are part of bull's body,No
-107,fins belong to a bull,No
-108,does a bull have a fin,No
-109,a bull has a fin,No
-110,fin is part of bull's body,No
-111,fin belongs to a bull,No
-112,does a bat have fins,No
-113,a bat has fins,No
-114,fins are part of bat's body,No
-115,fins belong to a bat,No
-116,does a bat have a fin,No
-117,a bat has a fin,No
-118,fin is part of bat's body,No
-119,fin belongs to a bat,No
-120,does a rhino have fins,No
-121,a rhino has fins,No
-122,fins are part of rhino's body,No
-123,fins belong to a rhino,No
-124,does a rhino have a fin,No
-125,a rhino has a fin,No
-126,fin is part of rhino's body,No
-127,fin belongs to a rhino,No
-128,does a elephant have fins,No
-129,a elephant has fins,No
-130,fins are part of elephant's body,No
-131,fins belong to a elephant,No
-132,does a elephant have a fin,No
-133,a elephant has a fin,No
-134,fin is part of elephant's body,No
-135,fin belongs to a elephant,No
-136,does a rat have fins,No
-137,a rat has fins,No
-138,fins are part of rat's body,No
-139,fins belong to a rat,No
-140,does a rat have a fin,No
-141,a rat has a fin,No
-142,fin is part of rat's body,No
-143,fin belongs to a rat,No
-144,does a lizard have fins,No
-145,a lizard has fins,No
-146,fins are part of lizard's body,No
-147,fins belong to a lizard,No
-148,does a lizard have a fin,No
-149,a lizard has a fin,No
-150,fin is part of lizard's body,No
-151,fin belongs to a lizard,No
-152,does a rabbit have fins,No
-153,a rabbit has fins,No
-154,fins are part of rabbit's body,No
-155,fins belong to a rabbit,No
-156,does a rabbit have a fin,No
-157,a rabbit has a fin,No
-158,fin is part of rabbit's body,No
-159,fin belongs to a rabbit,No
-160,does a monkey have fins,No
-161,a monkey has fins,No
-162,fins are part of monkey's body,No
-163,fins belong to a monkey,No
-164,does a monkey have a fin,No
-165,a monkey has a fin,No
-166,fin is part of monkey's body,No
-167,fin belongs to a monkey,No
-168,does a sheep have fins,No
-169,a sheep has fins,No
-170,fins are part of sheep's body,No
-171,fins belong to a sheep,No
-172,does a sheep have a fin,No
-173,a sheep has a fin,No
-174,fin is part of sheep's body,No
-175,fin belongs to a sheep,No
-176,does a donkey have fins,No
-177,a donkey has fins,No
-178,fins are part of donkey's body,No
-179,fins belong to a donkey,No
-180,does a donkey have a fin,No
-181,a donkey has a fin,No
-182,fin is part of donkey's body,No
-183,fin belongs to a donkey,No
-184,does a giraffe have fins,No
-185,a giraffe has fins,No
-186,fins are part of giraffe's body,No
-187,fins belong to a giraffe,No
-188,does a giraffe have a fin,No
-189,a giraffe has a fin,No
-190,fin is part of giraffe's body,No
-191,fin belongs to a giraffe,No
-192,does a worm have fins,No
-193,a worm has fins,No
-194,fins are part of worm's body,No
-195,fins belong to a worm,No
-196,does a worm have a fin,No
-197,a worm has a fin,No
-198,fin is part of worm's body,No
-199,fin belongs to a worm,No
-200,does a snail have fins,No
-201,a snail has fins,No
-202,fins are part of snail's body,No
-203,fins belong to a snail,No
-204,does a snail have a fin,No
-205,a snail has a fin,No
-206,fin is part of snail's body,No
-207,fin belongs to a snail,No
-208,does a parrot have fins,No
-209,a parrot has fins,No
-210,fins are part of parrot's body,No
-211,fins belong to a parrot,No
-212,does a parrot have a fin,No
-213,a parrot has a fin,No
-214,fin is part of parrot's body,No
-215,fin belongs to a parrot,No
-216,does a ox have fins,No
-217,a ox has fins,No
-218,fins are part of ox's body,No
-219,fins belong to a ox,No
-220,does a ox have a fin,No
-221,a ox has a fin,No
-222,fin is part of ox's body,No
-223,fin belongs to a ox,No
-224,does a puma have fins,No
-225,a puma has fins,No
-226,fins are part of puma's body,No
-227,fins belong to a puma,No
-228,does a puma have a fin,No
-229,a puma has a fin,No
-230,fin is part of puma's body,No
-231,fin belongs to a puma,No
-232,does a jaguar have fins,No
-233,a jaguar has fins,No
-234,fins are part of jaguar's body,No
-235,fins belong to a jaguar,No
-236,does a jaguar have a fin,No
-237,a jaguar has a fin,No
-238,fin is part of jaguar's body,No
-239,fin belongs to a jaguar,No
-240,does a owl have fins,No
-241,a owl has fins,No
-242,fins are part of owl's body,No
-243,fins belong to a owl,No
-244,does a owl have a fin,No
-245,a owl has a fin,No
-246,fin is part of owl's body,No
-247,fin belongs to a owl,No
-248,does a flamingo have fins,No
-249,a flamingo has fins,No
-250,fins are part of flamingo's body,No
-251,fins belong to a flamingo,No
-252,does a flamingo have a fin,No
-253,a flamingo has a fin,No
-254,fin is part of flamingo's body,No
-255,fin belongs to a flamingo,No
-256,does a camel have fins,No
-257,a camel has fins,No
-258,fins are part of camel's body,No
-259,fins belong to a camel,No
-260,does a camel have a fin,No
-261,a camel has a fin,No
-262,fin is part of camel's body,No
-263,fin belongs to a camel,No
-264,does a hourse have fins,No
-265,a hourse has fins,No
-266,fins are part of hourse's body,No
-267,fins belong to a hourse,No
-268,does a hourse have a fin,No
-269,a hourse has a fin,No
-270,fin is part of hourse's body,No
-271,fin belongs to a hourse,No
-272,does a bison have fins,No
-273,a bison has fins,No
-274,fins are part of bison's body,No
-275,fins belong to a bison,No
-276,does a bison have a fin,No
-277,a bison has a fin,No
-278,fin is part of bison's body,No
-279,fin belongs to a bison,No
-280,does a poodle have fins,No
-281,a poodle has fins,No
-282,fins are part of poodle's body,No
-283,fins belong to a poodle,No
-284,does a poodle have a fin,No
-285,a poodle has a fin,No
-286,fin is part of poodle's body,No
-287,fin belongs to a poodle,No
-288,does a cowbird have fins,No
-289,a cowbird has fins,No
-290,fins are part of cowbird's body,No
-291,fins belong to a cowbird,No
-292,does a cowbird have a fin,No
-293,a cowbird has a fin,No
-294,fin is part of cowbird's body,No
-295,fin belongs to a cowbird,No
-296,does a eider have fins,No
-297,a eider has fins,No
-298,fins are part of eider's body,No
-299,fins belong to a eider,No
-300,does a eider have a fin,No
-301,a eider has a fin,No
-302,fin is part of eider's body,No
-303,fin belongs to a eider,No
-304,does a finch have fins,No
-305,a finch has fins,No
-306,fins are part of finch's body,No
-307,fins belong to a finch,No
-308,does a finch have a fin,No
-309,a finch has a fin,No
-310,fin is part of finch's body,No
-311,fin belongs to a finch,No
-312,does a goldcrest have fins,No
-313,a goldcrest has fins,No
-314,fins are part of goldcrest's body,No
-315,fins belong to a goldcrest,No
-316,does a goldcrest have a fin,No
-317,a goldcrest has a fin,No
-318,fin is part of goldcrest's body,No
-319,fin belongs to a goldcrest,No
-320,does a grackle have fins,No
-321,a grackle has fins,No
-322,fins are part of grackle's body,No
-323,fins belong to a grackle,No
-324,does a grackle have a fin,No
-325,a grackle has a fin,No
-326,fin is part of grackle's body,No
-327,fin belongs to a grackle,No
-328,does a hawk have fins,No
-329,a hawk has fins,No
-330,fins are part of hawk's body,No
-331,fins belong to a hawk,No
-332,does a hawk have a fin,No
-333,a hawk has a fin,No
-334,fin is part of hawk's body,No
-335,fin belongs to a hawk,No
-336,does a heron have fins,No
-337,a heron has fins,No
-338,fins are part of heron's body,No
-339,fins belong to a heron,No
-340,does a heron have a fin,No
-341,a heron has a fin,No
-342,fin is part of heron's body,No
-343,fin belongs to a heron,No
-344,does a lark have fins,No
-345,a lark has fins,No
-346,fins are part of lark's body,No
-347,fins belong to a lark,No
-348,does a lark have a fin,No
-349,a lark has a fin,No
-350,fin is part of lark's body,No
-351,fin belongs to a lark,No
-352,does a pelican have fins,No
-353,a pelican has fins,No
-354,fins are part of pelican's body,No
-355,fins belong to a pelican,No
-356,does a pelican have a fin,No
-357,a pelican has a fin,No
-358,fin is part of pelican's body,No
-359,fin belongs to a pelican,No
-360,does a skylark have fins,No
-361,a skylark has fins,No
-362,fins are part of skylark's body,No
-363,fins belong to a skylark,No
-364,does a skylark have a fin,No
-365,a skylark has a fin,No
-366,fin is part of skylark's body,No
-367,fin belongs to a skylark,No
-368,does a gnu have fins,No
-369,a gnu has fins,No
-370,fins are part of gnu's body,No
-371,fins belong to a gnu,No
-372,does a gnu have a fin,No
-373,a gnu has a fin,No
-374,fin is part of gnu's body,No
-375,fin belongs to a gnu,No
-376,does a goral have fins,No
-377,a goral has fins,No
-378,fins are part of goral's body,No
-379,fins belong to a goral,No
-380,does a goral have a fin,No
-381,a goral has a fin,No
-382,fin is part of goral's body,No
-383,fin belongs to a goral,No
-384,does a ram have fins,No
-385,a ram has fins,No
-386,fins are part of ram's body,No
-387,fins belong to a ram,No
-388,does a ram have a fin,No
-389,a ram has a fin,No
-390,fin is part of ram's body,No
-391,fin belongs to a ram,No
+2,does a dog have a fin,No
+3,a dog has a fin,No
+4,does a cat have fins,No
+5,a cat has fins,No
+6,does a cat have a fin,No
+7,a cat has a fin,No
+8,does a fox have fins,No
+9,a fox has fins,No
+10,does a fox have a fin,No
+11,a fox has a fin,No
+12,does a wolf have fins,No
+13,a wolf has fins,No
+14,does a wolf have a fin,No
+15,a wolf has a fin,No
+16,does a lion have fins,No
+17,a lion has fins,No
+18,does a lion have a fin,No
+19,a lion has a fin,No
+20,does a zebra have fins,No
+21,a zebra has fins,No
+22,does a zebra have a fin,No
+23,a zebra has a fin,No
+24,does a tiger have fins,No
+25,a tiger has fins,No
+26,does a tiger have a fin,No
+27,a tiger has a fin,No
+28,does a cow have fins,No
+29,a cow has fins,No
+30,does a cow have a fin,No
+31,a cow has a fin,No
+32,does a hen have fins,No
+33,a hen has fins,No
+34,does a hen have a fin,No
+35,a hen has a fin,No
+36,does a duck have fins,No
+37,a duck has fins,No
+38,does a duck have a fin,No
+39,a duck has a fin,No
+40,does a bird have fins,No
+41,a bird has fins,No
+42,does a bird have a fin,No
+43,a bird has a fin,No
+44,does a eagle have fins,No
+45,a eagle has fins,No
+46,does a eagle have a fin,No
+47,a eagle has a fin,No
+48,does a swan have fins,No
+49,a swan has fins,No
+50,does a swan have a fin,No
+51,a swan has a fin,No
+52,does a bull have fins,No
+53,a bull has fins,No
+54,does a bull have a fin,No
+55,a bull has a fin,No
+56,does a bat have fins,No
+57,a bat has fins,No
+58,does a bat have a fin,No
+59,a bat has a fin,No
+60,does a rhino have fins,No
+61,a rhino has fins,No
+62,does a rhino have a fin,No
+63,a rhino has a fin,No
+64,does a elephant have fins,No
+65,a elephant has fins,No
+66,does a elephant have a fin,No
+67,a elephant has a fin,No
+68,does a rat have fins,No
+69,a rat has fins,No
+70,does a rat have a fin,No
+71,a rat has a fin,No
+72,does a lizard have fins,No
+73,a lizard has fins,No
+74,does a lizard have a fin,No
+75,a lizard has a fin,No
+76,does a rabbit have fins,No
+77,a rabbit has fins,No
+78,does a rabbit have a fin,No
+79,a rabbit has a fin,No
+80,does a monkey have fins,No
+81,a monkey has fins,No
+82,does a monkey have a fin,No
+83,a monkey has a fin,No
+84,does a sheep have fins,No
+85,a sheep has fins,No
+86,does a sheep have a fin,No
+87,a sheep has a fin,No
+88,does a donkey have fins,No
+89,a donkey has fins,No
+90,does a donkey have a fin,No
+91,a donkey has a fin,No
+92,does a giraffe have fins,No
+93,a giraffe has fins,No
+94,does a giraffe have a fin,No
+95,a giraffe has a fin,No
+96,does a worm have fins,No
+97,a worm has fins,No
+98,does a worm have a fin,No
+99,a worm has a fin,No
+100,does a snail have fins,No
+101,a snail has fins,No
+102,does a snail have a fin,No
+103,a snail has a fin,No
+104,does a parrot have fins,No
+105,a parrot has fins,No
+106,does a parrot have a fin,No
+107,a parrot has a fin,No
+108,does a ox have fins,No
+109,a ox has fins,No
+110,does a ox have a fin,No
+111,a ox has a fin,No
+112,does a puma have fins,No
+113,a puma has fins,No
+114,does a puma have a fin,No
+115,a puma has a fin,No
+116,does a jaguar have fins,No
+117,a jaguar has fins,No
+118,does a jaguar have a fin,No
+119,a jaguar has a fin,No
+120,does a owl have fins,No
+121,a owl has fins,No
+122,does a owl have a fin,No
+123,a owl has a fin,No
+124,does a flamingo have fins,No
+125,a flamingo has fins,No
+126,does a flamingo have a fin,No
+127,a flamingo has a fin,No
+128,does a camel have fins,No
+129,a camel has fins,No
+130,does a camel have a fin,No
+131,a camel has a fin,No
+132,does a hourse have fins,No
+133,a hourse has fins,No
+134,does a hourse have a fin,No
+135,a hourse has a fin,No
+136,does a bison have fins,No
+137,a bison has fins,No
+138,does a bison have a fin,No
+139,a bison has a fin,No
+140,does a poodle have fins,No
+141,a poodle has fins,No
+142,does a poodle have a fin,No
+143,a poodle has a fin,No
+144,does a cowbird have fins,No
+145,a cowbird has fins,No
+146,does a cowbird have a fin,No
+147,a cowbird has a fin,No
+148,does a eider have fins,No
+149,a eider has fins,No
+150,does a eider have a fin,No
+151,a eider has a fin,No
+152,does a finch have fins,No
+153,a finch has fins,No
+154,does a finch have a fin,No
+155,a finch has a fin,No
+156,does a goldcrest have fins,No
+157,a goldcrest has fins,No
+158,does a goldcrest have a fin,No
+159,a goldcrest has a fin,No
+160,does a grackle have fins,No
+161,a grackle has fins,No
+162,does a grackle have a fin,No
+163,a grackle has a fin,No
+164,does a hawk have fins,No
+165,a hawk has fins,No
+166,does a hawk have a fin,No
+167,a hawk has a fin,No
+168,does a heron have fins,No
+169,a heron has fins,No
+170,does a heron have a fin,No
+171,a heron has a fin,No
+172,does a lark have fins,No
+173,a lark has fins,No
+174,does a lark have a fin,No
+175,a lark has a fin,No
+176,does a pelican have fins,No
+177,a pelican has fins,No
+178,does a pelican have a fin,No
+179,a pelican has a fin,No
+180,does a skylark have fins,No
+181,a skylark has fins,No
+182,does a skylark have a fin,No
+183,a skylark has a fin,No
+184,does a gnu have fins,No
+185,a gnu has fins,No
+186,does a gnu have a fin,No
+187,a gnu has a fin,No
+188,does a goral have fins,No
+189,a goral has fins,No
+190,does a goral have a fin,No
+191,a goral has a fin,No
+192,does a ram have fins,No
+193,a ram has fins,No
+194,does a ram have a fin,No
+195,a ram has a fin,No
