@@ -276,7 +276,7 @@ if __name__ == "__main__":
                 "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
                "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
                "csv/animals_cant_fly"]
-        test_files = ["csv/animal_even_properties"]
+        test_files = ["csv/animals_even_properties"]
         
         tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
         model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")

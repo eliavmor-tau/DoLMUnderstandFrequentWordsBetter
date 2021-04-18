@@ -1,0 +1,2157 @@
+,question,model_answer,true_answer
+0,a swan has fins,Yes,No
+1,does a bat have wings,Yes,Yes
+2,does a whitefish fly,No,No
+3,a garfish can be found underwater,Yes,Yes
+4,a shark flies,Yes,No
+5,does a finch live underwater,Yes,No
+6,a peacock lives underwater,No,No
+7,does a pelican have fins,Yes,No
+8,does a dove have wings,Yes,Yes
+9,does a seabird live underwater,Yes,No
+10,a godwit has wings,No,Yes
+11,a wader can be found underwater,No,No
+12,does a cotinga fly,No,Yes
+13,a buri swims,No,Yes
+14,does a owl live underwater,Yes,No
+15,a cuttlefish has a fin,Yes,Yes
+16,a porgy is capable of swimming,Yes,Yes
+17,a albatrosses has a beak,No,Yes
+18,a salmon has a wing,No,No
+19,can a pangasius swim,No,Yes
+20,a yellowfin lives underwater,No,Yes
+21,does a carpione fly,No,No
+22,does a piranha fly,No,No
+23,can a bird swim,Yes,No
+24,does a brambling have a fin,No,No
+25,a hornbill flies,Yes,Yes
+26,does a fish have wings,No,No
+27,a cowbird has a fin,Yes,No
+28,a shark can be found in the water,Yes,Yes
+29,does a goldcrest fly,No,Yes
+30,a pomfret has a wing,No,No
+31,a cotinga lives in the water,No,No
+32,does a lark have a beak,Yes,Yes
+33,a carpione can be found underwater,No,Yes
+34,a dolphin has a wing,No,No
+35,a falcon has wings,Yes,Yes
+36,a ling flies,No,No
+37,does a cuttlefish have a wing,No,No
+38,can a sparrow fly,Yes,Yes
+39,does a pangasius live in the water,No,Yes
+40,a flatfish lives underwater,Yes,Yes
+41,does a bluefish live in the water,Yes,Yes
+42,a porpoise swims,Yes,Yes
+43,does a buri have fins,No,Yes
+44,a spearfish has a fin,Yes,Yes
+45,does a lark live in the water,Yes,No
+46,can a avocet fly,Yes,Yes
+47,a codfish lives underwater,Yes,Yes
+48,a brambling lives underwater,No,No
+49,a cuttlefish has a beak,Yes,No
+50,does a stork have fins,No,No
+51,a pigeon can be found in the water,No,No
+52,a albatrosses can be found in the water,Yes,No
+53,a whale can be found in the water,Yes,Yes
+54,a flamingo has a fin,Yes,No
+55,a mullet swims,No,Yes
+56,does a heron live underwater,Yes,No
+57,can a albatrosses swim,Yes,No
+58,does a jay live underwater,Yes,No
+59,a heron can be found in the water,No,No
+60,a knifefish can be found underwater,Yes,Yes
+61,a whitefish has a wing,No,No
+62,does a wader live underwater,No,No
+63,a mallard has a fin,No,No
+64,does a swordfish live underwater,Yes,Yes
+65,a grackle has wings,No,Yes
+66,a mallard can be found underwater,No,No
+67,a porpoise has a fin,Yes,Yes
+68,does a piranha have a beak,No,No
+69,does a eagle have fins,Yes,No
+70,does a hummingbird have a beak,Yes,Yes
+71,a fish lives underwater,Yes,Yes
+72,does a condor have a wing,No,Yes
+73,a codfish swims,Yes,Yes
+74,a gull has a beak,Yes,Yes
+75,a halibut has a fin,Yes,Yes
+76,a stonefish swims,Yes,Yes
+77,a owl has a fin,Yes,No
+78,does a whale have a beak,Yes,No
+79,a eider has a fin,Yes,No
+80,a clownfish has wings,No,No
+81,does a porgy have fins,No,Yes
+82,does a bustard fly,No,Yes
+83,does a dugong have a fin,No,Yes
+84,does a angelshark live in the water,Yes,Yes
+85,a burbot lives underwater,No,Yes
+86,a anchovy lives underwater,No,Yes
+87,a salmon can be found in the water,Yes,Yes
+88,can a garfish swim,Yes,Yes
+89,does a cotinga live underwater,No,No
+90,a albacore lives underwater,No,Yes
+91,a grackle can be found underwater,No,No
+92,can a kingfish fly,No,No
+93,a stork has fins,No,No
+94,does a godwit have a wing,Yes,Yes
+95,does a skylark have fins,Yes,No
+96,a barracuda has a fin,No,Yes
+97,a peacock has fins,Yes,No
+98,can a carpione fly,Yes,No
+99,a seabird lives in the water,Yes,No
+100,a macaw has a wing,Yes,Yes
+101,does a swordfish have wings,Yes,No
+102,a pomfret can be found in the water,No,Yes
+103,does a heron have a beak,Yes,Yes
+104,does a mackerel have a wing,Yes,No
+105,a bird lives in the water,Yes,No
+106,a wader has fins,No,No
+107,a rorqual has a fin,No,Yes
+108,does a porgy have wings,Yes,No
+109,a hawk is capable of swimming,No,No
+110,a wader lives in the water,No,No
+111,does a tilapia have a beak,No,No
+112,can a barracuda fly,No,No
+113,a garfish swims,Yes,Yes
+114,a whitefish can be found underwater,Yes,Yes
+115,does a goldcrest live underwater,No,No
+116,does a bluefish have a wing,No,No
+117,a falcon has a fin,Yes,No
+118,a condor flies,No,Yes
+119,a condor can be found in the water,No,No
+120,a songbird has a beak,Yes,Yes
+121,does a fish live underwater,Yes,Yes
+122,a knifefish can be found in the water,Yes,Yes
+123,a stonefish lives in the water,Yes,Yes
+124,a crow has a fin,Yes,No
+125,a avocet swims,No,No
+126,does a swan have a fin,Yes,No
+127,a falcon has a beak,Yes,Yes
+128,a eagle is capable of swimming,No,No
+129,can a codfish swim,Yes,Yes
+130,a goose lives underwater,No,No
+131,a condor has wings,No,Yes
+132,can a porpoise swim,Yes,Yes
+133,a albacore has a wing,No,No
+134,a garfish has fins,Yes,Yes
+135,can a rorqual swim,No,Yes
+136,a hawk lives in the water,No,No
+137,a grackle is capable of swimming,No,No
+138,does a spearfish fly,No,No
+139,does a carpione live in the water,No,Yes
+140,does a sparrow fly,Yes,Yes
+141,a goose lives in the water,No,No
+142,does a hornbill have a fin,Yes,No
+143,a kingfish flies,No,No
+144,a songbird has a wing,Yes,Yes
+145,does a falcon fly,Yes,Yes
+146,does a seabird have a fin,Yes,No
+147,a vulture is capable of swimming,No,No
+148,does a condor live in the water,No,No
+149,does a lark have a wing,Yes,Yes
+150,does a duck have fins,Yes,No
+151,does a hawk have a wing,Yes,Yes
+152,does a salmon have a wing,No,No
+153,a spearfish lives in the water,Yes,Yes
+154,does a grackle live underwater,No,No
+155,a barracuda lives underwater,No,Yes
+156,does a skylark have wings,Yes,Yes
+157,does a ling live in the water,No,Yes
+158,a sparrow can be found underwater,No,No
+159,can a macaw fly,Yes,Yes
+160,a mullet can be found underwater,No,Yes
+161,a hornbill lives underwater,No,No
+162,a ling can be found underwater,No,Yes
+163,does a bustard have a fin,Yes,No
+164,does a cowbird live in the water,Yes,No
+165,a hawk has wings,Yes,Yes
+166,a heron has fins,No,No
+167,does a albatrosses live underwater,No,No
+168,a mullet has fins,No,Yes
+169,does a albatrosses fly,Yes,Yes
+170,a eider flies,Yes,Yes
+171,a dove lives underwater,No,No
+172,a hornbill lives in the water,Yes,No
+173,does a hogfish live underwater,Yes,Yes
+174,can a mallard swim,Yes,No
+175,a smelt is capable of swimming,No,Yes
+176,a grackle can be found in the water,No,No
+177,a bluefin has wings,No,No
+178,can a grackle fly,No,Yes
+179,does a avocet have a wing,Yes,Yes
+180,a finch swims,Yes,No
+181,a bat swims,Yes,No
+182,can a bat fly,Yes,Yes
+183,a eel lives in the water,No,Yes
+184,a avocet has a beak,Yes,Yes
+185,a cuttlefish has a wing,No,No
+186,can a yellowfin fly,Yes,No
+187,a pelican has a fin,Yes,No
+188,a garfish has a beak,Yes,No
+189,a bat has a beak,Yes,Yes
+190,a flatfish has fins,Yes,Yes
+191,a cowbird has fins,No,No
+192,a cotinga has a wing,No,Yes
+193,a cuttlefish flies,No,No
+194,a bat has a wing,Yes,Yes
+195,does a cotinga have a beak,No,Yes
+196,can a fish fly,Yes,No
+197,does a barracuda live underwater,No,Yes
+198,a spearfish has fins,Yes,Yes
+199,a duck has fins,Yes,No
+200,a sparrow flies,Yes,Yes
+201,a dugong has a fin,No,Yes
+202,does a bluefin have wings,No,No
+203,does a halibut live underwater,Yes,Yes
+204,does a bluefin fly,No,No
+205,does a spearfish live in the water,Yes,Yes
+206,a yellowfin flies,Yes,No
+207,a burrfish lives underwater,Yes,Yes
+208,does a pigeon have a beak,Yes,Yes
+209,a dove can be found in the water,Yes,No
+210,a pomfret can be found underwater,No,Yes
+211,does a hawk have wings,Yes,Yes
+212,a clownfish has fins,Yes,Yes
+213,a bushtit has wings,No,Yes
+214,a bushtit is capable of swimming,No,No
+215,a monkfish can be found in the water,Yes,Yes
+216,does a stork live underwater,Yes,No
+217,a eagle has a fin,Yes,No
+218,a albatrosses has wings,Yes,Yes
+219,a cotinga flies,No,Yes
+220,does a songbird have fins,Yes,No
+221,does a monkfish live underwater,Yes,Yes
+222,does a bird fly,Yes,Yes
+223,a monkfish has a wing,No,No
+224,a sternidae is capable of swimming,Yes,No
+225,does a flamingo have a wing,No,Yes
+226,does a canary live in the water,No,No
+227,a seabird can be found in the water,Yes,No
+228,does a flamingo fly,Yes,Yes
+229,a garfish has a wing,No,No
+230,a knifefish has fins,Yes,Yes
+231,a cuttlefish has wings,No,No
+232,a goldcrest has a fin,No,No
+233,a eider lives underwater,No,No
+234,a hogfish has a beak,Yes,No
+235,a herring has a wing,No,No
+236,a godwit has a beak,No,Yes
+237,a orca has a fin,Yes,Yes
+238,can a eider fly,Yes,Yes
+239,does a yellowfin have a fin,Yes,Yes
+240,a fish has wings,No,No
+241,does a canary have a wing,No,Yes
+242,does a vulture have wings,Yes,Yes
+243,a orca is capable of swimming,Yes,Yes
+244,does a avocet live underwater,Yes,No
+245,a pangasius swims,No,Yes
+246,does a swan live in the water,Yes,No
+247,does a dolphin have a wing,No,No
+248,does a bird have a beak,Yes,Yes
+249,a mallard has a beak,No,Yes
+250,a porgy has a wing,No,No
+251,does a rorqual have a fin,No,Yes
+252,a cotinga has wings,No,Yes
+253,does a cotinga have a fin,No,No
+254,a piranha swims,Yes,Yes
+255,does a mackerel have a beak,Yes,No
+256,a bustard swims,No,No
+257,does a herring have a fin,No,Yes
+258,does a bat fly,Yes,Yes
+259,a anchovy has a beak,No,No
+260,does a mullet have a fin,No,Yes
+261,a halibut has fins,Yes,Yes
+262,does a porpoise have wings,Yes,No
+263,does a smelt have fins,No,Yes
+264,a swordfish is capable of swimming,Yes,Yes
+265,a hogfish has wings,No,No
+266,can a duck swim,Yes,No
+267,a kingfish has wings,No,No
+268,a pelican lives underwater,Yes,No
+269,a gull has a fin,Yes,No
+270,does a pelican have wings,Yes,Yes
+271,does a cowbird have a beak,Yes,Yes
+272,does a yellowfin fly,No,No
+273,a bluefish has fins,Yes,Yes
+274,a porpoise lives underwater,No,Yes
+275,does a parrot fly,Yes,Yes
+276,a duck has a fin,Yes,No
+277,a smelt has a beak,Yes,No
+278,does a grackle have a fin,No,No
+279,a jay swims,Yes,No
+280,does a salmon live in the water,Yes,Yes
+281,a burbot lives in the water,No,Yes
+282,does a pelican have a beak,No,Yes
+283,does a knifefish have a fin,Yes,Yes
+284,does a eel fly,Yes,No
+285,a fish flies,Yes,No
+286,a pelican has wings,Yes,Yes
+287,a hornbill is capable of swimming,No,No
+288,does a brambling have a beak,No,Yes
+289,a fish has a wing,No,No
+290,a condor lives underwater,No,No
+291,does a wader have a wing,No,Yes
+292,does a catshark live in the water,Yes,Yes
+293,does a salmon have a beak,Yes,No
+294,can a angelshark fly,No,No
+295,a ling has a fin,No,Yes
+296,a catshark has a beak,Yes,No
+297,a pelican flies,Yes,Yes
+298,does a condor have wings,No,Yes
+299,can a buri swim,No,Yes
+300,does a goose have a fin,Yes,No
+301,can a knifefish fly,No,No
+302,a fish is capable of swimming,Yes,Yes
+303,a anchovy has wings,No,No
+304,a whitefish has a fin,Yes,Yes
+305,does a piranha have fins,Yes,Yes
+306,a falcon has a wing,Yes,Yes
+307,does a dugong live underwater,No,Yes
+308,a sparrow lives in the water,Yes,No
+309,does a hawk have a beak,Yes,Yes
+310,a skylark has a fin,Yes,No
+311,can a herring swim,Yes,Yes
+312,does a shark have a fin,Yes,Yes
+313,does a shark have a beak,Yes,No
+314,a eagle has wings,Yes,Yes
+315,can a ling fly,No,No
+316,does a whale live in the water,Yes,Yes
+317,a dove is capable of swimming,No,No
+318,does a eagle live underwater,Yes,No
+319,does a eagle have a wing,Yes,Yes
+320,a buzzard can be found in the water,No,No
+321,does a crow live in the water,Yes,No
+322,does a mallard live underwater,Yes,No
+323,a brambling has a wing,No,Yes
+324,does a bluefish live underwater,Yes,Yes
+325,a eider can be found in the water,No,No
+326,does a codfish live in the water,Yes,Yes
+327,a bustard has wings,No,Yes
+328,a yellowfin swims,No,Yes
+329,does a angelshark have a fin,Yes,Yes
+330,a carpione swims,No,Yes
+331,does a carpione have a wing,No,No
+332,a mullet has a beak,No,No
+333,can a piranha fly,Yes,No
+334,a salmon can be found underwater,Yes,Yes
+335,a herring has fins,Yes,Yes
+336,a stork lives underwater,No,No
+337,can a pigeon fly,Yes,Yes
+338,can a canary fly,No,Yes
+339,does a porpoise live in the water,Yes,Yes
+340,a parrot has wings,Yes,Yes
+341,does a herring have a wing,No,No
+342,does a albacore live in the water,Yes,Yes
+343,a owl flies,No,Yes
+344,does a bushtit fly,Yes,Yes
+345,a salmon flies,Yes,No
+346,does a halibut live in the water,Yes,Yes
+347,a bullfinch lives in the water,No,No
+348,a burrfish has fins,Yes,Yes
+349,does a kingfish fly,No,No
+350,does a gull have a beak,Yes,Yes
+351,does a anchovy fly,No,No
+352,does a spearfish have fins,Yes,Yes
+353,a monkfish has a fin,Yes,Yes
+354,a clownfish has a fin,Yes,Yes
+355,does a pomfret have a fin,No,Yes
+356,does a swordfish have fins,Yes,Yes
+357,a vulture flies,Yes,Yes
+358,does a gull live in the water,Yes,No
+359,a pigeon has a wing,Yes,Yes
+360,does a heron fly,Yes,Yes
+361,a buri has a fin,No,Yes
+362,a bullfinch swims,No,No
+363,a skylark swims,No,No
+364,does a falcon have fins,Yes,No
+365,a angelshark swims,No,Yes
+366,does a carpione have wings,No,No
+367,does a vulture have fins,No,No
+368,does a hornbill live in the water,Yes,No
+369,a stonefish has wings,No,No
+370,does a finch have a fin,Yes,No
+371,a carpione has a wing,No,No
+372,a rorqual lives underwater,No,Yes
+373,a godwit is capable of swimming,No,No
+374,a lark has wings,Yes,Yes
+375,a hawk has a fin,Yes,No
+376,a burbot has a wing,No,No
+377,can a goose swim,Yes,No
+378,a eagle flies,Yes,Yes
+379,a burrfish flies,Yes,No
+380,does a knifefish have fins,Yes,Yes
+381,does a condor have a beak,No,Yes
+382,does a porpoise have a fin,Yes,Yes
+383,a kingfish has a beak,Yes,No
+384,a hawk can be found in the water,No,No
+385,a skylark has fins,Yes,No
+386,does a buri live underwater,No,Yes
+387,does a anchovy have a wing,No,No
+388,a kingfish is capable of swimming,Yes,Yes
+389,can a skylark swim,Yes,No
+390,a mullet lives underwater,No,Yes
+391,a pangasius can be found in the water,No,Yes
+392,does a duck live underwater,Yes,No
+393,does a carpione have fins,No,Yes
+394,does a dolphin have a fin,Yes,Yes
+395,a skylark lives underwater,No,No
+396,a parrot has a wing,No,Yes
+397,a bat has a fin,No,No
+398,a hawk has a beak,Yes,Yes
+399,does a stork have a beak,Yes,Yes
+400,can a dove fly,Yes,Yes
+401,does a porgy have a wing,No,No
+402,does a jay have wings,Yes,Yes
+403,a lark is capable of swimming,No,No
+404,a monkfish lives in the water,Yes,Yes
+405,does a codfish have wings,No,No
+406,can a fish swim,Yes,Yes
+407,a hummingbird can be found underwater,No,No
+408,can a bluefin swim,Yes,Yes
+409,a cockatoo has wings,Yes,Yes
+410,does a mullet live underwater,No,Yes
+411,a knifefish has a fin,Yes,Yes
+412,a gull can be found underwater,Yes,No
+413,a hawk has fins,No,No
+414,does a avocet have wings,Yes,Yes
+415,does a skylark have a beak,Yes,Yes
+416,a bluefin is capable of swimming,No,Yes
+417,does a vulture live in the water,Yes,No
+418,does a halibut fly,No,No
+419,a albacore flies,No,No
+420,can a owl fly,Yes,Yes
+421,a carpione lives in the water,No,Yes
+422,does a buzzard live in the water,Yes,No
+423,a mackerel is capable of swimming,No,Yes
+424,does a hogfish have a wing,No,No
+425,does a pangasius fly,Yes,No
+426,a hawk has a wing,Yes,Yes
+427,can a porpoise fly,Yes,No
+428,does a bat have a fin,Yes,No
+429,a knifefish lives underwater,Yes,Yes
+430,a swan has wings,Yes,Yes
+431,does a dove live in the water,Yes,No
+432,a smelt has wings,No,No
+433,a albatrosses is capable of swimming,No,No
+434,a goose has a wing,Yes,Yes
+435,a angelshark has wings,Yes,No
+436,a snook swims,No,Yes
+437,a snook has wings,No,No
+438,a owl is capable of swimming,No,No
+439,does a kingfish have a wing,No,No
+440,does a bushtit have a fin,Yes,No
+441,a carpione lives underwater,No,Yes
+442,does a buri have a beak,No,No
+443,a condor has fins,No,No
+444,does a canary have a fin,No,No
+445,a flatfish lives in the water,Yes,Yes
+446,a skylark has a beak,Yes,Yes
+447,a flatfish is capable of swimming,Yes,Yes
+448,a owl lives underwater,No,No
+449,a seabird has wings,Yes,Yes
+450,a sparrow swims,Yes,No
+451,can a wader fly,No,Yes
+452,does a eider live in the water,No,No
+453,a brambling has a beak,No,Yes
+454,does a rorqual live underwater,No,Yes
+455,a swordfish has a beak,Yes,No
+456,a piranha has wings,Yes,No
+457,a seabird has a wing,Yes,Yes
+458,a pelican can be found in the water,Yes,No
+459,can a salmon swim,Yes,Yes
+460,does a shark live in the water,Yes,Yes
+461,does a finch fly,Yes,Yes
+462,can a bustard fly,Yes,Yes
+463,a ling is capable of swimming,No,Yes
+464,a flatfish has a fin,Yes,Yes
+465,does a fish have fins,Yes,Yes
+466,does a whale have wings,Yes,No
+467,a condor has a beak,No,Yes
+468,a codfish can be found in the water,Yes,Yes
+469,does a burbot have fins,No,Yes
+470,does a tuna live underwater,Yes,Yes
+471,a dolphin flies,Yes,No
+472,a owl has a wing,Yes,Yes
+473,a shark has a fin,Yes,Yes
+474,a pigeon has wings,Yes,Yes
+475,a whitefish can be found in the water,Yes,Yes
+476,a crow lives in the water,No,No
+477,a pigeon has a beak,Yes,Yes
+478,a salmon has a fin,Yes,Yes
+479,does a wader fly,No,Yes
+480,does a hummingbird have a fin,Yes,No
+481,can a songbird fly,Yes,Yes
+482,a mallard has wings,No,Yes
+483,a pomfret has a beak,No,No
+484,does a buri live in the water,No,Yes
+485,a bird can be found in the water,Yes,No
+486,does a bluefin live underwater,Yes,Yes
+487,a goldcrest lives underwater,No,No
+488,does a brambling have a wing,No,Yes
+489,does a grackle have a beak,No,Yes
+490,a bat flies,Yes,Yes
+491,can a pigeon swim,Yes,No
+492,a avocet has fins,No,No
+493,a heron is capable of swimming,No,No
+494,does a mackerel have a fin,Yes,Yes
+495,does a pomfret have wings,Yes,No
+496,does a stork fly,No,Yes
+497,can a spearfish swim,Yes,Yes
+498,does a burrfish live in the water,Yes,Yes
+499,can a heron fly,Yes,Yes
+500,a barracuda has fins,No,Yes
+501,a bat lives underwater,No,No
+502,a goldcrest can be found in the water,No,No
+503,does a seabird have wings,Yes,Yes
+504,a grackle has a beak,No,Yes
+505,does a flamingo have a beak,No,Yes
+506,can a dolphin fly,Yes,No
+507,does a burbot have a beak,No,No
+508,a yellowfin has a beak,No,No
+509,does a sparrow have a beak,Yes,Yes
+510,a burrfish has a fin,Yes,Yes
+511,does a piranha have a wing,Yes,No
+512,can a vulture fly,Yes,Yes
+513,does a pigeon have a fin,Yes,No
+514,a buzzard flies,Yes,Yes
+515,a sternidae flies,Yes,Yes
+516,a cuttlefish lives in the water,Yes,Yes
+517,a bullfinch flies,Yes,Yes
+518,a crow has a beak,No,Yes
+519,does a hummingbird live underwater,Yes,No
+520,a porgy has wings,No,No
+521,a seabird flies,Yes,Yes
+522,can a bluefin fly,No,No
+523,a catshark has a fin,Yes,Yes
+524,can a gull fly,Yes,Yes
+525,a buzzard lives in the water,Yes,No
+526,does a hornbill fly,Yes,Yes
+527,does a monkfish live in the water,Yes,Yes
+528,a halibut swims,Yes,Yes
+529,a vulture can be found underwater,Yes,No
+530,can a mallard fly,Yes,Yes
+531,a bustard lives in the water,No,No
+532,a swordfish flies,No,No
+533,a codfish has a fin,Yes,Yes
+534,a grackle has fins,No,No
+535,a albacore lives in the water,No,Yes
+536,a godwit has a fin,No,No
+537,a finch has a beak,No,Yes
+538,a hogfish flies,Yes,No
+539,does a brambling have fins,No,No
+540,a songbird lives underwater,No,No
+541,does a catshark have fins,Yes,Yes
+542,does a condor have a fin,No,No
+543,does a dugong have a beak,No,No
+544,a albacore has wings,No,No
+545,a pigeon has fins,Yes,No
+546,a pangasius is capable of swimming,No,Yes
+547,does a monkfish fly,No,No
+548,does a eel live underwater,Yes,Yes
+549,a dolphin has wings,Yes,No
+550,can a jay fly,Yes,Yes
+551,does a mullet fly,No,No
+552,a pelican has a beak,No,Yes
+553,a vulture has fins,No,No
+554,a bullfinch has a fin,Yes,No
+555,a mackerel can be found underwater,Yes,Yes
+556,can a wader swim,No,No
+557,a jawfish has a wing,No,No
+558,a whitefish has wings,No,No
+559,a brambling can be found underwater,No,No
+560,a bullfinch has fins,Yes,No
+561,a snook flies,No,No
+562,does a crow have a wing,No,Yes
+563,does a albacore have fins,No,Yes
+564,a pigeon is capable of swimming,Yes,No
+565,a angelshark lives in the water,No,Yes
+566,a bushtit can be found underwater,No,No
+567,does a pelican have a wing,No,Yes
+568,a condor is capable of swimming,No,No
+569,a pelican can be found underwater,Yes,No
+570,a flamingo has wings,Yes,Yes
+571,a bird can be found underwater,No,No
+572,a codfish can be found underwater,Yes,Yes
+573,can a pangasius fly,Yes,No
+574,does a dove live underwater,Yes,No
+575,a gull has a wing,Yes,Yes
+576,does a gull have fins,Yes,No
+577,a pelican swims,Yes,No
+578,does a hummingbird have wings,Yes,Yes
+579,does a whale have a fin,Yes,Yes
+580,does a hummingbird have a wing,Yes,Yes
+581,a barracuda has a wing,No,No
+582,does a canary live underwater,No,No
+583,a tilapia has a wing,No,No
+584,does a orca live underwater,Yes,Yes
+585,a sternidae lives in the water,Yes,No
+586,does a barracuda have wings,No,No
+587,a parrot has a fin,No,No
+588,a piranha flies,Yes,No
+589,a cockatoo has a fin,No,No
+590,does a bluefish have a fin,Yes,Yes
+591,a seabird has a beak,Yes,Yes
+592,a falcon lives underwater,Yes,No
+593,does a dove have fins,No,No
+594,a albacore is capable of swimming,No,Yes
+595,a bird has a beak,Yes,Yes
+596,a owl can be found underwater,No,No
+597,a jawfish has a fin,Yes,Yes
+598,does a albatrosses have a fin,Yes,No
+599,a swan swims,Yes,No
+600,does a eel have wings,Yes,No
+601,does a pigeon fly,Yes,Yes
+602,a stork has a fin,No,No
+603,does a seabird have fins,Yes,No
+604,does a falcon have wings,Yes,Yes
+605,can a jawfish swim,Yes,Yes
+606,does a lark have fins,Yes,No
+607,does a jay have a wing,No,Yes
+608,a macaw can be found in the water,No,No
+609,does a rorqual have a wing,No,No
+610,can a clownfish swim,Yes,Yes
+611,does a flamingo have wings,Yes,Yes
+612,does a pomfret have fins,No,Yes
+613,does a shark fly,Yes,No
+614,does a peacock have fins,Yes,No
+615,a snook is capable of swimming,No,Yes
+616,does a pomfret have a beak,No,No
+617,a herring is capable of swimming,No,Yes
+618,does a tuna have fins,No,Yes
+619,does a pomfret live in the water,Yes,Yes
+620,does a rorqual have a beak,No,No
+621,does a mallard live in the water,Yes,No
+622,does a snook have a beak,No,No
+623,does a cowbird fly,Yes,Yes
+624,does a skylark have a fin,Yes,No
+625,can a snook fly,No,No
+626,does a albacore have a wing,No,No
+627,does a songbird have a beak,Yes,Yes
+628,does a pangasius have a fin,No,Yes
+629,a catshark flies,No,No
+630,a clownfish has a beak,Yes,No
+631,does a eider live underwater,No,No
+632,a owl has a beak,No,Yes
+633,a pelican has fins,Yes,No
+634,does a canary fly,No,Yes
+635,does a jawfish live in the water,Yes,Yes
+636,a bustard has a wing,No,Yes
+637,a dolphin can be found in the water,Yes,Yes
+638,does a macaw fly,Yes,Yes
+639,a garfish lives in the water,Yes,Yes
+640,a dugong lives underwater,Yes,Yes
+641,a mallard has a wing,No,Yes
+642,a finch can be found underwater,Yes,No
+643,a brambling has a fin,No,No
+644,a pangasius has a fin,Yes,Yes
+645,can a sternidae swim,Yes,No
+646,a anchovy swims,Yes,Yes
+647,does a stonefish have a beak,Yes,No
+648,does a pomfret live underwater,No,Yes
+649,can a mullet fly,No,No
+650,a barracuda can be found in the water,No,Yes
+651,a peacock is capable of swimming,No,No
+652,a kingfish lives underwater,Yes,Yes
+653,can a tilapia swim,Yes,Yes
+654,a albatrosses flies,No,Yes
+655,does a sparrow have a fin,Yes,No
+656,does a bullfinch have a beak,No,Yes
+657,a catshark has a wing,No,No
+658,a anchovy lives in the water,No,Yes
+659,does a heron have wings,Yes,Yes
+660,can a angelshark swim,No,Yes
+661,does a fish fly,Yes,No
+662,does a burrfish live underwater,Yes,Yes
+663,does a anchovy live underwater,Yes,Yes
+664,does a buri fly,No,No
+665,does a pomfret fly,No,No
+666,a tilapia can be found in the water,Yes,Yes
+667,does a whale live underwater,Yes,Yes
+668,does a crow fly,Yes,Yes
+669,does a anchovy have a fin,Yes,Yes
+670,can a orca fly,Yes,No
+671,does a buzzard fly,Yes,Yes
+672,does a pigeon have fins,Yes,No
+673,a macaw is capable of swimming,No,No
+674,does a tilapia fly,No,No
+675,does a mallard have a wing,Yes,Yes
+676,can a brambling swim,No,No
+677,a carpione can be found in the water,No,Yes
+678,a godwit flies,No,Yes
+679,does a albacore live underwater,Yes,Yes
+680,does a spearfish have a wing,No,No
+681,does a whitefish live underwater,Yes,Yes
+682,a flatfish flies,Yes,No
+683,a canary has a wing,No,Yes
+684,does a owl have a beak,No,Yes
+685,a hummingbird lives in the water,Yes,No
+686,a snook has a wing,No,No
+687,does a falcon have a beak,Yes,Yes
+688,does a albacore have a fin,No,Yes
+689,does a cockatoo have wings,Yes,Yes
+690,does a seabird have a beak,Yes,Yes
+691,does a skylark live underwater,Yes,No
+692,does a parrot have a wing,Yes,Yes
+693,a cotinga can be found underwater,No,No
+694,a falcon swims,No,No
+695,a eider swims,No,No
+696,a barracuda lives in the water,No,Yes
+697,a clownfish can be found underwater,Yes,Yes
+698,a jay can be found underwater,No,No
+699,a dove can be found underwater,Yes,No
+700,a gull is capable of swimming,Yes,No
+701,a tilapia swims,No,Yes
+702,a knifefish has a wing,No,No
+703,a cuttlefish lives underwater,Yes,Yes
+704,a flatfish has a wing,No,No
+705,a bird has fins,Yes,No
+706,does a lark fly,Yes,Yes
+707,a heron lives in the water,No,No
+708,a whale lives in the water,Yes,Yes
+709,a albatrosses has a wing,No,Yes
+710,a vulture can be found in the water,No,No
+711,a seabird lives underwater,Yes,No
+712,does a jawfish fly,No,No
+713,can a stork fly,Yes,Yes
+714,a bird has a fin,Yes,No
+715,a spearfish is capable of swimming,Yes,Yes
+716,a songbird has a fin,Yes,No
+717,does a peacock live in the water,Yes,No
+718,a hummingbird has fins,No,No
+719,a knifefish lives in the water,Yes,Yes
+720,a bushtit swims,No,No
+721,does a burrfish have a fin,Yes,Yes
+722,a dugong has a beak,No,No
+723,a snook can be found in the water,Yes,Yes
+724,a eel can be found underwater,Yes,Yes
+725,a spearfish swims,Yes,Yes
+726,can a peacock swim,Yes,No
+727,does a rorqual have fins,No,Yes
+728,a albatrosses can be found underwater,No,No
+729,a cotinga swims,No,No
+730,a orca swims,Yes,Yes
+731,does a sternidae have fins,No,No
+732,does a burrfish have wings,Yes,No
+733,a fish has a beak,Yes,No
+734,a bird flies,Yes,Yes
+735,does a hogfish live in the water,Yes,Yes
+736,a vulture lives in the water,No,No
+737,does a wader have fins,No,No
+738,does a swan have fins,Yes,No
+739,does a goldcrest have a beak,No,Yes
+740,a albacore has a beak,No,No
+741,a tilapia lives underwater,No,Yes
+742,a bushtit flies,Yes,Yes
+743,does a snook have a wing,No,No
+744,a tuna has a beak,No,No
+745,a salmon has a beak,Yes,No
+746,a whale has a wing,No,No
+747,a godwit lives in the water,No,No
+748,does a bullfinch have a fin,Yes,No
+749,a piranha can be found in the water,No,Yes
+750,can a bushtit swim,No,No
+751,does a tuna fly,No,No
+752,a yellowfin has a fin,Yes,Yes
+753,does a swan have a beak,Yes,Yes
+754,a codfish is capable of swimming,Yes,Yes
+755,a avocet is capable of swimming,No,No
+756,does a herring have wings,No,No
+757,a hogfish has fins,Yes,Yes
+758,a barracuda is capable of swimming,No,Yes
+759,does a wader live in the water,No,No
+760,does a yellowfin have a wing,No,No
+761,a carpione has fins,No,Yes
+762,a hawk flies,Yes,Yes
+763,a lark can be found in the water,Yes,No
+764,does a skylark fly,Yes,Yes
+765,a gull lives in the water,Yes,No
+766,does a kingfish have a beak,Yes,No
+767,does a jay have a beak,No,Yes
+768,can a monkfish swim,Yes,Yes
+769,a stonefish has a wing,No,No
+770,a cowbird is capable of swimming,No,No
+771,a whitefish swims,Yes,Yes
+772,a brambling lives in the water,No,No
+773,a mackerel has fins,Yes,Yes
+774,a goose can be found in the water,No,No
+775,a seabird is capable of swimming,Yes,No
+776,a barracuda swims,No,Yes
+777,a duck has a beak,Yes,Yes
+778,does a mackerel have fins,Yes,Yes
+779,does a songbird have a fin,Yes,No
+780,a pangasius has a beak,No,No
+781,does a orca have wings,Yes,No
+782,a jawfish swims,Yes,Yes
+783,does a burbot live underwater,No,Yes
+784,a monkfish swims,Yes,Yes
+785,a codfish flies,No,No
+786,a goldcrest has a beak,No,Yes
+787,can a finch fly,Yes,Yes
+788,does a cockatoo have fins,Yes,No
+789,a pigeon swims,No,No
+790,a buri lives underwater,No,Yes
+791,a bird swims,Yes,No
+792,does a eider have a wing,No,Yes
+793,does a gull live underwater,Yes,No
+794,does a bustard have wings,No,Yes
+795,can a yellowfin swim,No,Yes
+796,can a tilapia fly,No,No
+797,does a lark have wings,Yes,Yes
+798,a bushtit has fins,No,No
+799,a gull lives underwater,Yes,No
+800,a goldcrest lives in the water,No,No
+801,a eel can be found in the water,Yes,Yes
+802,does a swan live underwater,Yes,No
+803,does a grackle have a wing,No,Yes
+804,does a pelican have a fin,Yes,No
+805,can a macaw swim,Yes,No
+806,does a tuna have a wing,No,No
+807,a bustard can be found underwater,No,No
+808,can a kingfish swim,Yes,Yes
+809,a albatrosses lives in the water,No,No
+810,a eel swims,Yes,Yes
+811,a stork flies,No,Yes
+812,a catshark lives in the water,No,Yes
+813,a hornbill has a wing,Yes,Yes
+814,a dugong flies,No,No
+815,does a goldcrest have fins,No,No
+816,a brambling has fins,No,No
+817,a bullfinch is capable of swimming,No,No
+818,does a ling have a beak,No,No
+819,a piranha has a wing,No,No
+820,does a macaw live in the water,Yes,No
+821,does a vulture fly,Yes,Yes
+822,does a owl have wings,Yes,Yes
+823,a swan is capable of swimming,Yes,No
+824,a pomfret lives underwater,No,Yes
+825,can a bushtit fly,Yes,Yes
+826,does a tuna have a beak,No,No
+827,can a bird fly,Yes,Yes
+828,does a bushtit have a beak,No,Yes
+829,does a swan have a wing,Yes,Yes
+830,a mallard lives in the water,No,No
+831,a parrot can be found in the water,No,No
+832,a jay has wings,No,Yes
+833,does a whitefish have wings,Yes,No
+834,does a dolphin live in the water,Yes,Yes
+835,a heron has wings,Yes,Yes
+836,does a cuttlefish have wings,Yes,No
+837,does a finch live in the water,Yes,No
+838,does a monkfish have fins,Yes,Yes
+839,a pigeon can be found underwater,No,No
+840,does a finch have a beak,No,Yes
+841,a eagle can be found in the water,Yes,No
+842,a shark lives underwater,Yes,Yes
+843,a buri is capable of swimming,No,Yes
+844,a hogfish can be found in the water,Yes,Yes
+845,does a dove fly,No,Yes
+846,a monkfish is capable of swimming,Yes,Yes
+847,a swordfish has a wing,No,No
+848,does a burbot live in the water,No,Yes
+849,a dolphin has a fin,Yes,Yes
+850,a goldcrest is capable of swimming,No,No
+851,a whale has a fin,Yes,Yes
+852,does a clownfish have a beak,Yes,No
+853,a lark lives underwater,No,No
+854,a owl has wings,Yes,Yes
+855,does a dugong have a wing,No,No
+856,does a herring have fins,No,Yes
+857,a mullet has wings,No,No
+858,does a stonefish live underwater,Yes,Yes
+859,does a sparrow live in the water,Yes,No
+860,a fish swims,Yes,Yes
+861,does a hornbill have wings,Yes,Yes
+862,a porgy can be found in the water,No,Yes
+863,a clownfish lives in the water,Yes,Yes
+864,does a dolphin fly,Yes,No
+865,does a knifefish have a wing,No,No
+866,can a hogfish swim,Yes,Yes
+867,a halibut can be found underwater,Yes,Yes
+868,does a brambling live in the water,No,No
+869,a grackle flies,No,Yes
+870,a crow lives underwater,No,No
+871,a sternidae has a beak,No,Yes
+872,does a ling live underwater,No,Yes
+873,a porpoise lives in the water,Yes,Yes
+874,does a dove have a wing,Yes,Yes
+875,a burbot swims,No,Yes
+876,does a eider have a fin,No,No
+877,a wader has a wing,No,Yes
+878,a macaw has a beak,Yes,Yes
+879,a swan flies,Yes,Yes
+880,a jay is capable of swimming,No,No
+881,does a clownfish live underwater,Yes,Yes
+882,a vulture has wings,Yes,Yes
+883,a duck swims,Yes,No
+884,a carpione has a fin,Yes,Yes
+885,a halibut lives in the water,Yes,Yes
+886,a salmon swims,Yes,Yes
+887,does a clownfish fly,Yes,No
+888,does a eel have a beak,No,No
+889,does a porpoise have fins,Yes,Yes
+890,does a macaw have a wing,Yes,Yes
+891,does a spearfish have a fin,Yes,Yes
+892,a gull can be found in the water,Yes,No
+893,a codfish has wings,No,No
+894,a spearfish has a beak,Yes,No
+895,can a orca swim,Yes,Yes
+896,a whale flies,No,No
+897,a canary is capable of swimming,No,No
+898,does a catshark live underwater,Yes,Yes
+899,does a knifefish have a beak,Yes,No
+900,a kingfish has a wing,No,No
+901,a snook can be found underwater,Yes,Yes
+902,does a pelican fly,No,Yes
+903,does a stonefish have a fin,Yes,Yes
+904,does a mallard have a beak,Yes,Yes
+905,a jay has a beak,No,Yes
+906,a halibut has a beak,Yes,No
+907,a eider has a beak,No,Yes
+908,a vulture lives underwater,Yes,No
+909,a seabird swims,Yes,No
+910,does a smelt have a fin,Yes,Yes
+911,a finch lives underwater,Yes,No
+912,a duck has wings,Yes,Yes
+913,a hogfish lives underwater,Yes,Yes
+914,a lark lives in the water,Yes,No
+915,does a orca have a wing,Yes,No
+916,a porpoise has fins,Yes,Yes
+917,does a sternidae have a beak,No,Yes
+918,a brambling can be found in the water,No,No
+919,does a garfish have a fin,Yes,Yes
+920,does a knifefish fly,No,No
+921,a eider can be found underwater,No,No
+922,a bird has wings,Yes,Yes
+923,does a jawfish have a fin,Yes,Yes
+924,a flamingo flies,Yes,Yes
+925,a yellowfin is capable of swimming,No,Yes
+926,does a stonefish have wings,Yes,No
+927,can a swordfish fly,Yes,No
+928,a kingfish can be found in the water,Yes,Yes
+929,a pangasius lives in the water,No,Yes
+930,can a burbot swim,No,Yes
+931,a eagle has fins,Yes,No
+932,a dove swims,Yes,No
+933,does a albatrosses have fins,Yes,No
+934,a brambling is capable of swimming,No,No
+935,a seabird has fins,Yes,No
+936,a eider lives in the water,No,No
+937,a brambling has wings,No,Yes
+938,can a knifefish swim,Yes,Yes
+939,does a owl have a fin,No,No
+940,does a crow have a beak,No,Yes
+941,a songbird swims,No,No
+942,a pomfret has a fin,Yes,Yes
+943,a bluefish swims,Yes,Yes
+944,does a stonefish fly,No,No
+945,does a peacock fly,No,Yes
+946,a cuttlefish is capable of swimming,Yes,Yes
+947,a cuttlefish has fins,Yes,Yes
+948,a peacock has wings,Yes,Yes
+949,a sparrow has fins,Yes,No
+950,a bluefish has wings,No,No
+951,can a piranha swim,Yes,Yes
+952,a rorqual lives in the water,No,Yes
+953,a yellowfin can be found in the water,Yes,Yes
+954,a cowbird can be found underwater,No,No
+955,can a ling swim,No,Yes
+956,does a whitefish have a wing,No,No
+957,does a cuttlefish have fins,Yes,Yes
+958,does a bluefin have a beak,No,No
+959,a jawfish has a beak,Yes,No
+960,a goose is capable of swimming,No,No
+961,a tilapia can be found underwater,Yes,Yes
+962,does a codfish fly,No,No
+963,a catshark has fins,No,Yes
+964,does a hummingbird fly,Yes,Yes
+965,does a burrfish have a wing,No,No
+966,can a rorqual fly,Yes,No
+967,a eel lives underwater,No,Yes
+968,does a goose fly,Yes,Yes
+969,a tuna has wings,No,No
+970,a songbird flies,No,Yes
+971,can a flamingo fly,Yes,Yes
+972,a bullfinch lives underwater,No,No
+973,does a falcon live underwater,Yes,No
+974,a swan can be found underwater,Yes,No
+975,a brambling flies,No,Yes
+976,can a finch swim,Yes,No
+977,a finch has a fin,Yes,No
+978,a carpione flies,No,No
+979,a dugong has wings,No,No
+980,a porpoise is capable of swimming,Yes,Yes
+981,a albacore can be found in the water,No,Yes
+982,a tuna flies,No,No
+983,does a porpoise live underwater,Yes,Yes
+984,a macaw swims,No,No
+985,does a herring have a beak,No,No
+986,a jay has a wing,No,Yes
+987,a codfish has a wing,No,No
+988,a burbot flies,No,No
+989,does a bullfinch have fins,Yes,No
+990,a monkfish has fins,Yes,Yes
+991,a falcon flies,Yes,Yes
+992,a clownfish flies,Yes,No
+993,does a pangasius have wings,No,No
+994,a peacock can be found in the water,No,No
+995,a cotinga has a fin,No,No
+996,a bluefin can be found underwater,Yes,Yes
+997,a carpione has a beak,No,No
+998,a finch has fins,Yes,No
+999,a bat lives in the water,Yes,No
+1000,a dolphin has a beak,Yes,No
+1001,a stonefish has fins,Yes,Yes
+1002,a kingfish can be found underwater,Yes,Yes
+1003,does a cockatoo live in the water,Yes,No
+1004,a avocet can be found underwater,No,No
+1005,does a grackle fly,No,Yes
+1006,a dove has wings,Yes,Yes
+1007,does a flatfish fly,Yes,No
+1008,a hummingbird has a wing,Yes,Yes
+1009,a bluefish can be found in the water,Yes,Yes
+1010,a sparrow lives underwater,No,No
+1011,can a condor swim,No,No
+1012,a barracuda flies,No,No
+1013,a shark is capable of swimming,Yes,Yes
+1014,does a anchovy have wings,Yes,No
+1015,can a seabird swim,Yes,No
+1016,can a swordfish swim,Yes,Yes
+1017,does a dugong have wings,No,No
+1018,a burrfish has wings,No,No
+1019,does a bluefin have a wing,No,No
+1020,a eel has a wing,No,No
+1021,does a codfish have a fin,Yes,Yes
+1022,does a salmon have wings,No,No
+1023,can a whitefish swim,Yes,Yes
+1024,does a owl have fins,No,No
+1025,a garfish is capable of swimming,Yes,Yes
+1026,a monkfish flies,No,No
+1027,can a cowbird fly,Yes,Yes
+1028,does a ling have fins,No,Yes
+1029,a buri flies,No,No
+1030,a hogfish is capable of swimming,Yes,Yes
+1031,a cotinga can be found in the water,No,No
+1032,a duck lives in the water,Yes,No
+1033,a herring flies,No,No
+1034,a anchovy has a fin,No,Yes
+1035,does a eider have a beak,No,Yes
+1036,a swordfish can be found in the water,Yes,Yes
+1037,a snook has a beak,No,No
+1038,a vulture has a wing,Yes,Yes
+1039,a crow is capable of swimming,No,No
+1040,does a hummingbird have fins,Yes,No
+1041,a hogfish swims,Yes,Yes
+1042,a macaw has a fin,Yes,No
+1043,a hawk swims,No,No
+1044,can a codfish fly,No,No
+1045,does a pangasius live underwater,No,Yes
+1046,does a cockatoo fly,Yes,Yes
+1047,does a carpione have a fin,Yes,Yes
+1048,a barracuda has wings,No,No
+1049,does a eel live in the water,Yes,Yes
+1050,a macaw has wings,Yes,Yes
+1051,can a pelican swim,Yes,No
+1052,can a dolphin swim,Yes,Yes
+1053,does a piranha have wings,Yes,No
+1054,a dugong is capable of swimming,Yes,Yes
+1055,can a vulture swim,Yes,No
+1056,does a yellowfin live in the water,Yes,Yes
+1057,a bat has wings,Yes,Yes
+1058,a ling lives underwater,No,Yes
+1059,a parrot can be found underwater,No,No
+1060,a stork swims,No,No
+1061,does a sternidae have wings,Yes,Yes
+1062,does a barracuda have a beak,No,No
+1063,a swordfish has wings,No,No
+1064,a snook lives in the water,No,Yes
+1065,does a fish have a fin,Yes,Yes
+1066,a jawfish has fins,Yes,Yes
+1067,a wader is capable of swimming,No,No
+1068,a stork can be found underwater,No,No
+1069,a grackle has a wing,No,Yes
+1070,does a garfish have wings,Yes,No
+1071,a piranha has fins,No,Yes
+1072,does a bird have fins,Yes,No
+1073,a cockatoo swims,Yes,No
+1074,a crow has a wing,No,Yes
+1075,can a shark fly,Yes,No
+1076,does a gull have a wing,Yes,Yes
+1077,a albatrosses has fins,No,No
+1078,does a fish have a beak,Yes,No
+1079,does a anchovy have a beak,Yes,No
+1080,a pomfret swims,No,Yes
+1081,does a heron have fins,No,No
+1082,a crow has fins,No,No
+1083,does a shark have fins,Yes,Yes
+1084,does a eel have fins,No,Yes
+1085,a cockatoo is capable of swimming,No,No
+1086,does a parrot have a beak,Yes,Yes
+1087,can a godwit fly,No,Yes
+1088,a smelt can be found underwater,Yes,Yes
+1089,a garfish can be found in the water,Yes,Yes
+1090,a hummingbird can be found in the water,No,No
+1091,a pangasius lives underwater,No,Yes
+1092,does a macaw have fins,Yes,No
+1093,a whale can be found underwater,Yes,Yes
+1094,does a catshark have a wing,Yes,No
+1095,a flatfish swims,Yes,Yes
+1096,can a lark swim,Yes,No
+1097,a wader lives underwater,No,No
+1098,a clownfish lives underwater,Yes,Yes
+1099,does a songbird live underwater,Yes,No
+1100,a clownfish is capable of swimming,Yes,Yes
+1101,a kingfish lives in the water,Yes,Yes
+1102,a hummingbird lives underwater,No,No
+1103,a owl lives in the water,No,No
+1104,does a seabird have a wing,Yes,Yes
+1105,a burrfish has a wing,No,No
+1106,does a hornbill have a wing,Yes,Yes
+1107,a halibut has a wing,No,No
+1108,a bullfinch can be found in the water,No,No
+1109,does a catshark fly,No,No
+1110,does a dolphin have fins,Yes,Yes
+1111,does a eider have wings,No,Yes
+1112,a wader has a beak,No,Yes
+1113,does a parrot have wings,Yes,Yes
+1114,a rorqual has a beak,No,No
+1115,does a albacore have wings,Yes,No
+1116,can a swan swim,Yes,No
+1117,a snook lives underwater,No,Yes
+1118,can a flatfish fly,Yes,No
+1119,does a shark live underwater,Yes,Yes
+1120,a swordfish has a fin,Yes,Yes
+1121,does a snook have fins,No,Yes
+1122,a hornbill has wings,Yes,Yes
+1123,a cotinga lives underwater,No,No
+1124,a garfish flies,Yes,No
+1125,does a salmon have a fin,Yes,Yes
+1126,a grackle lives underwater,No,No
+1127,a jay has a fin,No,No
+1128,does a pigeon have a wing,Yes,Yes
+1129,can a dugong swim,No,Yes
+1130,a cowbird swims,No,No
+1131,a skylark can be found in the water,No,No
+1132,does a tilapia have a fin,Yes,Yes
+1133,does a kingfish have fins,Yes,Yes
+1134,a flamingo lives in the water,No,No
+1135,a bluefish flies,No,No
+1136,does a pomfret have a wing,No,No
+1137,does a knifefish have wings,Yes,No
+1138,a falcon can be found underwater,No,No
+1139,does a flatfish live underwater,Yes,Yes
+1140,does a macaw live underwater,Yes,No
+1141,does a lark have a fin,Yes,No
+1142,a carpione has wings,No,No
+1143,does a canary have a beak,No,Yes
+1144,does a brambling have wings,No,Yes
+1145,a bluefin has fins,Yes,Yes
+1146,does a hogfish have a fin,Yes,Yes
+1147,does a cowbird have wings,Yes,Yes
+1148,a fish can be found underwater,Yes,Yes
+1149,a dove has fins,Yes,No
+1150,a avocet lives underwater,No,No
+1151,a buzzard has a fin,No,No
+1152,a jawfish lives underwater,Yes,Yes
+1153,does a kingfish live in the water,Yes,Yes
+1154,does a sternidae fly,Yes,Yes
+1155,a stork can be found in the water,No,No
+1156,does a flamingo have fins,Yes,No
+1157,a gull has wings,Yes,Yes
+1158,does a orca have fins,No,Yes
+1159,does a cuttlefish have a fin,Yes,Yes
+1160,does a buzzard live underwater,Yes,No
+1161,a stork has a wing,Yes,Yes
+1162,a bluefish lives in the water,Yes,Yes
+1163,a finch flies,Yes,Yes
+1164,a smelt lives underwater,Yes,Yes
+1165,a whitefish has fins,Yes,Yes
+1166,does a barracuda live in the water,Yes,Yes
+1167,does a heron have a wing,Yes,Yes
+1168,a salmon lives in the water,Yes,Yes
+1169,a seabird can be found underwater,Yes,No
+1170,a sparrow is capable of swimming,No,No
+1171,does a anchovy have fins,Yes,Yes
+1172,does a kingfish live underwater,Yes,Yes
+1173,does a buri have a fin,No,Yes
+1174,does a tilapia live underwater,Yes,Yes
+1175,does a smelt live underwater,Yes,Yes
+1176,a tuna has fins,Yes,Yes
+1177,does a orca have a beak,Yes,No
+1178,a porpoise can be found in the water,Yes,Yes
+1179,does a mallard fly,Yes,Yes
+1180,does a snook live in the water,Yes,Yes
+1181,does a salmon fly,Yes,No
+1182,does a owl live in the water,No,No
+1183,does a avocet fly,Yes,Yes
+1184,a heron has a fin,No,No
+1185,a canary has a fin,No,No
+1186,can a clownfish fly,Yes,No
+1187,a albatrosses swims,No,No
+1188,does a bluefish have wings,Yes,No
+1189,can a goldcrest swim,No,No
+1190,a kingfish swims,Yes,Yes
+1191,can a hawk swim,No,No
+1192,a pigeon lives in the water,No,No
+1193,a pigeon has a fin,Yes,No
+1194,a dove has a beak,No,Yes
+1195,can a carpione swim,No,Yes
+1196,a swordfish lives in the water,Yes,Yes
+1197,a swordfish lives underwater,Yes,Yes
+1198,can a spearfish fly,Yes,No
+1199,does a pelican live underwater,Yes,No
+1200,does a flatfish have a beak,Yes,No
+1201,a salmon lives underwater,Yes,Yes
+1202,a songbird can be found underwater,No,No
+1203,a bullfinch can be found underwater,No,No
+1204,a peacock can be found underwater,No,No
+1205,a cuttlefish can be found underwater,Yes,Yes
+1206,does a jawfish live underwater,Yes,Yes
+1207,does a sparrow live underwater,Yes,No
+1208,does a bird have wings,Yes,Yes
+1209,a burrfish swims,Yes,Yes
+1210,a jawfish has wings,No,No
+1211,does a canary have fins,No,No
+1212,can a halibut fly,Yes,No
+1213,a cowbird has a wing,Yes,Yes
+1214,a goose can be found underwater,No,No
+1215,does a porpoise fly,No,No
+1216,can a burrfish fly,Yes,No
+1217,a skylark has a wing,Yes,Yes
+1218,does a shark have wings,Yes,No
+1219,a cowbird has a beak,Yes,Yes
+1220,can a eagle swim,Yes,No
+1221,a flamingo can be found underwater,Yes,No
+1222,a hawk can be found underwater,No,No
+1223,does a sternidae have a fin,No,No
+1224,can a porgy swim,Yes,Yes
+1225,a cowbird can be found in the water,No,No
+1226,a eider has fins,Yes,No
+1227,does a smelt have wings,No,No
+1228,a albatrosses lives underwater,No,No
+1229,does a burrfish fly,No,No
+1230,does a crow have fins,No,No
+1231,does a sparrow have wings,Yes,Yes
+1232,can a avocet swim,Yes,No
+1233,can a pomfret swim,Yes,Yes
+1234,does a sparrow have fins,Yes,No
+1235,a dugong lives in the water,No,Yes
+1236,does a hawk live in the water,No,No
+1237,does a smelt have a beak,No,No
+1238,a hornbill swims,No,No
+1239,a duck has a wing,Yes,Yes
+1240,does a parrot live in the water,Yes,No
+1241,does a goose have fins,Yes,No
+1242,does a godwit have wings,Yes,Yes
+1243,can a whitefish fly,No,No
+1244,a hummingbird has wings,Yes,Yes
+1245,a bat has fins,No,No
+1246,a smelt swims,No,Yes
+1247,a mackerel can be found in the water,Yes,Yes
+1248,does a condor fly,No,Yes
+1249,does a falcon have a wing,Yes,Yes
+1250,a finch is capable of swimming,No,No
+1251,does a peacock have a wing,Yes,Yes
+1252,a lark can be found underwater,Yes,No
+1253,does a crow have a fin,No,No
+1254,a angelshark flies,No,No
+1255,a stork has a beak,Yes,Yes
+1256,a tilapia has a fin,Yes,Yes
+1257,a bullfinch has a beak,No,Yes
+1258,does a hogfish have wings,Yes,No
+1259,can a halibut swim,Yes,Yes
+1260,a monkfish has a beak,Yes,No
+1261,a burrfish lives in the water,Yes,Yes
+1262,a porpoise can be found underwater,No,Yes
+1263,a skylark is capable of swimming,No,No
+1264,a orca lives underwater,Yes,Yes
+1265,does a pelican live in the water,Yes,No
+1266,a parrot has a beak,No,Yes
+1267,does a clownfish have a wing,No,No
+1268,does a bird have a fin,Yes,No
+1269,does a mullet have a wing,No,No
+1270,a whitefish has a beak,Yes,No
+1271,a eagle swims,No,No
+1272,does a heron live in the water,Yes,No
+1273,a porgy has a fin,Yes,Yes
+1274,a flamingo lives underwater,Yes,No
+1275,can a salmon fly,Yes,No
+1276,does a yellowfin have wings,No,No
+1277,can a bullfinch fly,Yes,Yes
+1278,a lark has fins,Yes,No
+1279,a shark can be found underwater,Yes,Yes
+1280,does a hawk have a fin,Yes,No
+1281,does a cockatoo have a wing,Yes,Yes
+1282,a finch lives in the water,Yes,No
+1283,does a finch have a wing,No,Yes
+1284,does a garfish fly,Yes,No
+1285,can a pelican fly,No,Yes
+1286,does a buzzard have a beak,No,Yes
+1287,can a albatrosses fly,Yes,Yes
+1288,does a herring live underwater,No,Yes
+1289,a cuttlefish can be found in the water,Yes,Yes
+1290,a stonefish can be found in the water,Yes,Yes
+1291,a canary swims,No,No
+1292,does a kingfish have a fin,Yes,Yes
+1293,a flatfish can be found underwater,Yes,Yes
+1294,a falcon is capable of swimming,No,No
+1295,a smelt has a wing,No,No
+1296,does a grackle have fins,No,No
+1297,a sparrow has a beak,Yes,Yes
+1298,a flamingo has fins,Yes,No
+1299,a shark swims,Yes,Yes
+1300,a stonefish lives underwater,Yes,Yes
+1301,a mackerel flies,Yes,No
+1302,does a duck have a wing,Yes,Yes
+1303,a herring can be found in the water,No,Yes
+1304,does a yellowfin have fins,Yes,Yes
+1305,a lark swims,Yes,No
+1306,a orca can be found underwater,Yes,Yes
+1307,a burbot can be found in the water,No,Yes
+1308,does a peacock have wings,Yes,Yes
+1309,does a swordfish live in the water,Yes,Yes
+1310,does a hogfish fly,No,No
+1311,does a anchovy live in the water,Yes,Yes
+1312,does a tilapia have fins,Yes,Yes
+1313,a whale has fins,Yes,Yes
+1314,does a orca live in the water,Yes,Yes
+1315,a avocet can be found in the water,No,No
+1316,does a gull have a fin,Yes,No
+1317,can a bluefish fly,No,No
+1318,a mackerel swims,Yes,Yes
+1319,a whale has a beak,Yes,No
+1320,a heron can be found underwater,No,No
+1321,does a whitefish live in the water,Yes,Yes
+1322,can a dove swim,Yes,No
+1323,a buri has a wing,No,No
+1324,a albatrosses has a fin,No,No
+1325,a cotinga is capable of swimming,No,No
+1326,does a tuna live in the water,Yes,Yes
+1327,a buri can be found underwater,No,Yes
+1328,a canary can be found in the water,No,No
+1329,does a swordfish have a beak,Yes,No
+1330,does a spearfish have wings,No,No
+1331,does a goose live underwater,Yes,No
+1332,a sternidae can be found underwater,Yes,No
+1333,a codfish has fins,Yes,Yes
+1334,does a canary have wings,No,Yes
+1335,does a dugong fly,No,No
+1336,a peacock has a wing,Yes,Yes
+1337,does a goose have wings,Yes,Yes
+1338,does a albatrosses have wings,Yes,Yes
+1339,a shark has a wing,No,No
+1340,a anchovy flies,No,No
+1341,a cockatoo lives in the water,No,No
+1342,a lark has a wing,No,Yes
+1343,does a mackerel fly,No,No
+1344,a bluefin has a beak,No,No
+1345,a mackerel lives underwater,No,Yes
+1346,does a codfish have a beak,Yes,No
+1347,a duck is capable of swimming,Yes,No
+1348,a tuna has a wing,No,No
+1349,a bullfinch has wings,Yes,Yes
+1350,does a godwit live underwater,Yes,No
+1351,a angelshark has a beak,No,No
+1352,a buzzard has a beak,No,Yes
+1353,a bluefish is capable of swimming,Yes,Yes
+1354,a catshark can be found in the water,No,Yes
+1355,a canary can be found underwater,No,No
+1356,can a mackerel fly,Yes,No
+1357,a buzzard has wings,Yes,Yes
+1358,a bat is capable of swimming,No,No
+1359,a canary lives in the water,No,No
+1360,does a pangasius have a wing,No,No
+1361,can a sternidae fly,Yes,Yes
+1362,a burbot can be found underwater,No,Yes
+1363,can a stonefish fly,No,No
+1364,does a goldcrest have a fin,No,No
+1365,does a brambling live underwater,No,No
+1366,does a garfish have a beak,Yes,No
+1367,a wader has wings,No,Yes
+1368,a sternidae has a fin,No,No
+1369,a goose has a fin,Yes,No
+1370,a goose has wings,Yes,Yes
+1371,a mullet is capable of swimming,No,Yes
+1372,a dugong has a wing,No,No
+1373,a crow has wings,Yes,Yes
+1374,does a eagle have a fin,Yes,No
+1375,does a duck have a fin,Yes,No
+1376,does a stork have wings,Yes,Yes
+1377,can a eider swim,Yes,No
+1378,a porpoise flies,Yes,No
+1379,a pomfret has fins,Yes,Yes
+1380,a avocet flies,Yes,Yes
+1381,does a goose live in the water,Yes,No
+1382,does a godwit have a beak,Yes,Yes
+1383,a buzzard swims,Yes,No
+1384,does a bustard have fins,No,No
+1385,a heron has a beak,No,Yes
+1386,a ling can be found in the water,No,Yes
+1387,a rorqual can be found underwater,No,Yes
+1388,does a mullet have wings,No,No
+1389,can a tuna swim,Yes,Yes
+1390,can a cowbird swim,Yes,No
+1391,does a carpione live underwater,No,Yes
+1392,a ling swims,No,Yes
+1393,a piranha lives underwater,Yes,Yes
+1394,a burbot has a beak,No,No
+1395,does a owl have a wing,Yes,Yes
+1396,a orca flies,Yes,No
+1397,does a dolphin have a beak,Yes,No
+1398,a wader can be found in the water,No,No
+1399,a orca has wings,Yes,No
+1400,a rorqual has a wing,No,No
+1401,can a dugong fly,No,No
+1402,a jay lives in the water,Yes,No
+1403,a swan can be found in the water,Yes,No
+1404,can a hornbill swim,Yes,No
+1405,does a eider fly,Yes,Yes
+1406,does a catshark have a fin,Yes,Yes
+1407,does a garfish have fins,Yes,Yes
+1408,a cockatoo has a beak,Yes,Yes
+1409,a orca has a beak,No,No
+1410,does a stonefish have a wing,No,No
+1411,does a codfish have fins,Yes,Yes
+1412,a grackle lives in the water,No,No
+1413,a wader flies,No,Yes
+1414,can a porgy fly,Yes,No
+1415,does a tilapia have a wing,No,No
+1416,can a cotinga fly,No,Yes
+1417,does a bullfinch fly,Yes,Yes
+1418,can a flamingo swim,Yes,No
+1419,does a burbot fly,No,No
+1420,a mullet lives in the water,No,Yes
+1421,does a jawfish have a wing,No,No
+1422,a swan lives in the water,Yes,No
+1423,can a garfish fly,Yes,No
+1424,a canary flies,No,Yes
+1425,a songbird is capable of swimming,No,No
+1426,can a buri fly,No,No
+1427,a buri lives in the water,No,Yes
+1428,a owl swims,No,No
+1429,a burrfish has a beak,Yes,No
+1430,a buri has a beak,No,No
+1431,does a seabird fly,Yes,Yes
+1432,does a swordfish fly,No,No
+1433,a lark has a beak,Yes,Yes
+1434,can a hummingbird fly,Yes,Yes
+1435,a rorqual flies,No,No
+1436,a bluefish has a wing,No,No
+1437,a stork lives in the water,Yes,No
+1438,a songbird lives in the water,No,No
+1439,does a hawk have fins,No,No
+1440,a peacock lives in the water,Yes,No
+1441,a buri has wings,No,No
+1442,does a snook have wings,No,No
+1443,can a crow fly,Yes,Yes
+1444,a shark has wings,No,No
+1445,does a codfish live underwater,Yes,Yes
+1446,a sternidae has fins,No,No
+1447,a cotinga has a beak,No,Yes
+1448,a eel is capable of swimming,No,Yes
+1449,a dugong can be found in the water,No,Yes
+1450,does a dolphin have wings,Yes,No
+1451,a angelshark can be found in the water,No,Yes
+1452,does a burbot have a wing,No,No
+1453,does a swan have wings,Yes,Yes
+1454,a buzzard is capable of swimming,No,No
+1455,does a vulture live underwater,Yes,No
+1456,a godwit can be found in the water,No,No
+1457,a pomfret flies,No,No
+1458,a bushtit has a fin,Yes,No
+1459,does a snook fly,No,No
+1460,does a albacore fly,No,No
+1461,a bluefish lives underwater,Yes,Yes
+1462,does a goose have a wing,Yes,Yes
+1463,a parrot swims,Yes,No
+1464,can a stonefish swim,Yes,Yes
+1465,can a cockatoo fly,Yes,Yes
+1466,does a dugong live in the water,No,Yes
+1467,a orca has a wing,No,No
+1468,does a jawfish have a beak,No,No
+1469,does a snook live underwater,Yes,Yes
+1470,a burbot is capable of swimming,No,Yes
+1471,does a sternidae have a wing,Yes,Yes
+1472,does a vulture have a wing,Yes,Yes
+1473,does a hornbill have a beak,No,Yes
+1474,can a burbot fly,No,No
+1475,a tuna has a fin,Yes,Yes
+1476,a smelt flies,No,No
+1477,a gull swims,Yes,No
+1478,a mackerel has a wing,Yes,No
+1479,a songbird has fins,Yes,No
+1480,does a crow live underwater,Yes,No
+1481,a catshark lives underwater,No,Yes
+1482,a swan has a beak,Yes,Yes
+1483,does a tilapia have wings,No,No
+1484,can a snook swim,No,Yes
+1485,a stonefish can be found underwater,Yes,Yes
+1486,a rorqual swims,No,Yes
+1487,a porgy can be found underwater,Yes,Yes
+1488,a duck flies,Yes,Yes
+1489,does a clownfish have fins,Yes,Yes
+1490,a tilapia has wings,No,No
+1491,does a buzzard have a wing,Yes,Yes
+1492,does a brambling fly,Yes,Yes
+1493,can a buzzard swim,Yes,No
+1494,a eel has wings,Yes,No
+1495,a porpoise has a wing,Yes,No
+1496,does a lark live underwater,Yes,No
+1497,a lark has a fin,Yes,No
+1498,a sternidae swims,Yes,No
+1499,does a spearfish have a beak,Yes,No
+1500,does a halibut have fins,Yes,Yes
+1501,does a halibut have wings,Yes,No
+1502,does a peacock live underwater,Yes,No
+1503,a cockatoo can be found in the water,No,No
+1504,a porgy has fins,No,Yes
+1505,a hogfish has a wing,No,No
+1506,does a porpoise have a beak,Yes,No
+1507,does a cockatoo have a beak,Yes,Yes
+1508,a hummingbird flies,No,Yes
+1509,does a eider have fins,No,No
+1510,a goose flies,Yes,Yes
+1511,a piranha has a beak,No,No
+1512,does a swordfish have a wing,No,No
+1513,a crow swims,No,No
+1514,a whale has wings,Yes,No
+1515,can a eel fly,Yes,No
+1516,a shark lives in the water,Yes,Yes
+1517,can a jawfish fly,Yes,No
+1518,does a sparrow have a wing,Yes,Yes
+1519,a dolphin has fins,Yes,Yes
+1520,a whitefish flies,No,No
+1521,a bluefish has a beak,Yes,No
+1522,does a pigeon have wings,Yes,Yes
+1523,does a bullfinch live underwater,No,No
+1524,a jawfish can be found in the water,Yes,Yes
+1525,does a pangasius have fins,No,Yes
+1526,can a duck fly,Yes,Yes
+1527,does a barracuda have a wing,No,No
+1528,a tilapia has a beak,No,No
+1529,a tuna swims,Yes,Yes
+1530,does a finch have wings,Yes,Yes
+1531,does a monkfish have a fin,Yes,Yes
+1532,a avocet has wings,Yes,Yes
+1533,a dolphin lives underwater,Yes,Yes
+1534,a bullfinch has a wing,No,Yes
+1535,does a pigeon live in the water,Yes,No
+1536,a herring has a fin,Yes,Yes
+1537,a bustard has a beak,Yes,Yes
+1538,a catshark swims,No,Yes
+1539,does a garfish have a wing,No,No
+1540,a macaw has fins,Yes,No
+1541,a godwit has a wing,Yes,Yes
+1542,does a jay live in the water,Yes,No
+1543,a swordfish can be found underwater,Yes,Yes
+1544,a hornbill has fins,Yes,No
+1545,can a owl swim,No,No
+1546,a catshark is capable of swimming,No,Yes
+1547,does a spearfish live underwater,Yes,Yes
+1548,does a flatfish have a wing,No,No
+1549,does a tilapia live in the water,Yes,Yes
+1550,does a snook have a fin,No,Yes
+1551,a angelshark has fins,No,Yes
+1552,a knifefish has wings,No,No
+1553,a clownfish can be found in the water,Yes,Yes
+1554,does a cotinga have a wing,No,Yes
+1555,a porgy swims,Yes,Yes
+1556,a parrot is capable of swimming,No,No
+1557,a goldcrest has wings,No,Yes
+1558,does a wader have a fin,No,No
+1559,a parrot lives in the water,No,No
+1560,a condor has a fin,No,No
+1561,a swan has a fin,Yes,No
+1562,a eel has fins,Yes,Yes
+1563,a bird has a wing,Yes,Yes
+1564,a condor has a wing,No,Yes
+1565,a cockatoo has fins,No,No
+1566,a eel has a beak,No,No
+1567,a yellowfin has a wing,No,No
+1568,a snook has fins,No,Yes
+1569,a albacore can be found underwater,No,Yes
+1570,does a albatrosses live in the water,Yes,No
+1571,does a bluefish have fins,Yes,Yes
+1572,does a songbird fly,Yes,Yes
+1573,does a bullfinch live in the water,Yes,No
+1574,does a avocet have fins,Yes,No
+1575,does a stork have a fin,No,No
+1576,does a bustard have a wing,No,Yes
+1577,does a bat have a wing,Yes,Yes
+1578,a macaw flies,Yes,Yes
+1579,does a albacore have a beak,No,No
+1580,does a porgy fly,Yes,No
+1581,a rorqual can be found in the water,No,Yes
+1582,a eider has a wing,No,Yes
+1583,a jay has fins,No,No
+1584,a bustard has fins,No,No
+1585,does a hornbill have fins,No,No
+1586,a tilapia flies,No,No
+1587,a falcon has fins,Yes,No
+1588,a whale swims,Yes,Yes
+1589,a herring lives in the water,No,Yes
+1590,does a songbird have wings,Yes,Yes
+1591,a catshark can be found underwater,No,Yes
+1592,does a macaw have wings,Yes,Yes
+1593,a skylark can be found underwater,No,No
+1594,a anchovy is capable of swimming,No,Yes
+1595,a parrot lives underwater,No,No
+1596,a bushtit has a beak,No,Yes
+1597,does a mallard have wings,Yes,Yes
+1598,does a mackerel live in the water,Yes,Yes
+1599,a angelshark has a fin,No,Yes
+1600,a smelt has a fin,Yes,Yes
+1601,a cockatoo can be found underwater,No,No
+1602,a tilapia lives in the water,Yes,Yes
+1603,a skylark flies,Yes,Yes
+1604,a codfish lives in the water,Yes,Yes
+1605,a stork has wings,Yes,Yes
+1606,a stork is capable of swimming,No,No
+1607,does a orca fly,No,No
+1608,can a whale fly,Yes,No
+1609,does a skylark live in the water,Yes,No
+1610,a bushtit can be found in the water,No,No
+1611,a sternidae can be found in the water,Yes,No
+1612,can a seabird fly,Yes,Yes
+1613,a eider has wings,No,Yes
+1614,a swan lives underwater,Yes,No
+1615,does a flatfish have a fin,Yes,Yes
+1616,a eagle can be found underwater,No,No
+1617,does a godwit live in the water,No,No
+1618,a heron has a wing,Yes,Yes
+1619,does a sternidae live in the water,Yes,No
+1620,a swan has a wing,Yes,Yes
+1621,does a bluefish have a beak,Yes,No
+1622,a knifefish is capable of swimming,Yes,Yes
+1623,a goldcrest has a wing,No,Yes
+1624,a mallard swims,Yes,No
+1625,does a mullet have a beak,No,No
+1626,does a cuttlefish fly,No,No
+1627,a salmon is capable of swimming,Yes,Yes
+1628,does a flatfish have wings,Yes,No
+1629,a dolphin swims,Yes,Yes
+1630,a canary has wings,No,Yes
+1631,a mullet can be found in the water,No,Yes
+1632,a macaw lives in the water,Yes,No
+1633,a herring has wings,No,No
+1634,a eagle lives underwater,No,No
+1635,does a fish have a wing,No,No
+1636,does a mullet have fins,No,Yes
+1637,a herring has a beak,No,No
+1638,a knifefish has a beak,Yes,No
+1639,does a smelt fly,No,No
+1640,can a stork swim,No,No
+1641,a mallard has fins,No,No
+1642,does a angelshark have fins,No,Yes
+1643,a crow flies,No,Yes
+1644,does a flamingo have a fin,Yes,No
+1645,does a flatfish live in the water,Yes,Yes
+1646,does a angelshark fly,No,No
+1647,a peacock swims,Yes,No
+1648,does a eagle fly,No,Yes
+1649,does a yellowfin have a beak,No,No
+1650,a grackle swims,No,No
+1651,does a godwit have a fin,Yes,No
+1652,a pigeon lives underwater,No,No
+1653,can a bluefish swim,Yes,Yes
+1654,can a canary swim,No,No
+1655,can a pomfret fly,No,No
+1656,can a condor fly,No,Yes
+1657,a vulture has a beak,Yes,Yes
+1658,a songbird can be found in the water,No,No
+1659,does a bat live in the water,Yes,No
+1660,does a flamingo live underwater,Yes,No
+1661,does a dugong have fins,No,Yes
+1662,a flamingo is capable of swimming,Yes,No
+1663,a porgy flies,No,No
+1664,does a bird live underwater,Yes,No
+1665,does a burbot have wings,No,No
+1666,does a stork have a wing,Yes,Yes
+1667,does a garfish live in the water,Yes,Yes
+1668,a albacore has a fin,No,Yes
+1669,a bushtit lives in the water,No,No
+1670,a piranha has a fin,Yes,Yes
+1671,a ling has fins,No,Yes
+1672,a bustard is capable of swimming,No,No
+1673,a burbot has wings,No,No
+1674,does a peacock have a fin,Yes,No
+1675,does a parrot have fins,No,No
+1676,a pigeon flies,Yes,Yes
+1677,a condor lives in the water,No,No
+1678,a pelican is capable of swimming,Yes,No
+1679,does a ling fly,No,No
+1680,a angelshark lives underwater,No,Yes
+1681,a eider is capable of swimming,No,No
+1682,does a barracuda fly,No,No
+1683,does a falcon have a fin,Yes,No
+1684,a catshark has wings,No,No
+1685,a garfish lives underwater,Yes,Yes
+1686,can a barracuda swim,No,Yes
+1687,a condor can be found underwater,No,No
+1688,does a cowbird have a wing,Yes,Yes
+1689,does a duck have a beak,Yes,Yes
+1690,a halibut lives underwater,Yes,Yes
+1691,does a owl fly,Yes,Yes
+1692,a mackerel lives in the water,Yes,Yes
+1693,a shark has fins,Yes,Yes
+1694,does a salmon live underwater,Yes,Yes
+1695,does a porgy have a beak,Yes,No
+1696,a grackle has a fin,No,No
+1697,does a dove have a fin,Yes,No
+1698,a ling has a wing,No,No
+1699,a mallard flies,Yes,Yes
+1700,does a bushtit have a wing,No,Yes
+1701,a parrot has fins,No,No
+1702,does a mullet live in the water,No,Yes
+1703,a garfish has a fin,Yes,Yes
+1704,does a piranha live underwater,Yes,Yes
+1705,does a cowbird have fins,Yes,No
+1706,a bluefin has a fin,Yes,Yes
+1707,does a cowbird live underwater,No,No
+1708,a sternidae has a wing,No,Yes
+1709,a rorqual is capable of swimming,No,Yes
+1710,a pomfret has wings,No,No
+1711,a porgy lives underwater,No,Yes
+1712,a anchovy can be found in the water,Yes,Yes
+1713,a jay lives underwater,No,No
+1714,does a porgy live underwater,Yes,Yes
+1715,a spearfish lives underwater,Yes,Yes
+1716,a mullet flies,No,No
+1717,does a jay have fins,Yes,No
+1718,a vulture swims,No,No
+1719,a burrfish is capable of swimming,Yes,Yes
+1720,does a halibut have a wing,Yes,No
+1721,a pangasius can be found underwater,No,Yes
+1722,can a goldcrest fly,No,Yes
+1723,a burbot has a fin,No,Yes
+1724,a flamingo has a beak,No,Yes
+1725,a spearfish can be found underwater,Yes,Yes
+1726,does a cuttlefish have a beak,Yes,No
+1727,does a bluefish fly,No,No
+1728,can a sparrow swim,Yes,No
+1729,a cowbird has wings,Yes,Yes
+1730,can a mackerel swim,Yes,Yes
+1731,can a falcon swim,Yes,No
+1732,does a bluefin live in the water,Yes,Yes
+1733,a hornbill can be found underwater,No,No
+1734,a hawk lives underwater,No,No
+1735,does a cockatoo have a fin,Yes,No
+1736,a owl can be found in the water,No,No
+1737,can a bat swim,Yes,No
+1738,does a hummingbird live in the water,Yes,No
+1739,does a sternidae live underwater,Yes,No
+1740,a avocet has a fin,No,No
+1741,does a condor live underwater,No,No
+1742,can a gull swim,Yes,No
+1743,a bluefish has a fin,Yes,Yes
+1744,a hummingbird has a fin,Yes,No
+1745,can a albacore fly,No,No
+1746,a mallard lives underwater,No,No
+1747,can a herring fly,Yes,No
+1748,does a barracuda have a fin,No,Yes
+1749,a knifefish flies,Yes,No
+1750,does a smelt have a wing,No,No
+1751,a halibut flies,No,No
+1752,a tilapia is capable of swimming,Yes,Yes
+1753,a piranha is capable of swimming,Yes,Yes
+1754,does a cuttlefish live in the water,Yes,Yes
+1755,a pomfret lives in the water,No,Yes
+1756,does a fish live in the water,Yes,Yes
+1757,can a godwit swim,Yes,No
+1758,a goose has fins,Yes,No
+1759,does a halibut have a fin,Yes,Yes
+1760,does a codfish have a wing,No,No
+1761,does a porgy have a fin,Yes,Yes
+1762,a eagle has a beak,Yes,Yes
+1763,a eagle has a wing,Yes,Yes
+1764,a buzzard can be found underwater,No,No
+1765,a hummingbird has a beak,Yes,Yes
+1766,does a angelshark have wings,Yes,No
+1767,a goldcrest flies,No,Yes
+1768,a snook has a fin,Yes,Yes
+1769,a bat can be found underwater,No,No
+1770,does a seabird live in the water,Yes,No
+1771,a goldcrest can be found underwater,No,No
+1772,can a falcon fly,Yes,Yes
+1773,a peacock flies,No,Yes
+1774,a jawfish flies,No,No
+1775,does a eagle live in the water,Yes,No
+1776,does a wader have wings,No,Yes
+1777,does a ling have wings,No,No
+1778,a jawfish is capable of swimming,Yes,Yes
+1779,does a cotinga have fins,No,No
+1780,a crow can be found underwater,No,No
+1781,does a bustard live in the water,No,No
+1782,a wader swims,No,No
+1783,a piranha lives in the water,Yes,Yes
+1784,a clownfish has a wing,No,No
+1785,does a kingfish have wings,Yes,No
+1786,can a skylark fly,Yes,Yes
+1787,can a hawk fly,Yes,Yes
+1788,a mallard is capable of swimming,No,No
+1789,a tuna lives underwater,Yes,Yes
+1790,a goose swims,Yes,No
+1791,does a grackle have wings,No,Yes
+1792,a angelshark has a wing,No,No
+1793,does a knifefish live in the water,Yes,Yes
+1794,a buri can be found in the water,No,Yes
+1795,does a cowbird have a fin,Yes,No
+1796,can a songbird swim,Yes,No
+1797,does a rorqual have wings,No,No
+1798,does a crow have wings,Yes,Yes
+1799,a halibut is capable of swimming,Yes,Yes
+1800,a hornbill has a beak,No,Yes
+1801,does a porgy live in the water,Yes,Yes
+1802,a avocet lives in the water,No,No
+1803,a buzzard has fins,Yes,No
+1804,a bustard can be found in the water,No,No
+1805,a angelshark is capable of swimming,No,Yes
+1806,a monkfish lives underwater,Yes,Yes
+1807,a bluefin lives in the water,No,Yes
+1808,does a condor have fins,No,No
+1809,does a carpione have a beak,No,No
+1810,can a swan fly,Yes,Yes
+1811,does a gull fly,Yes,Yes
+1812,a tuna can be found in the water,Yes,Yes
+1813,does a bullfinch have a wing,No,Yes
+1814,a skylark lives in the water,No,No
+1815,a stonefish has a beak,Yes,No
+1816,a dugong has fins,No,Yes
+1817,a hummingbird is capable of swimming,No,No
+1818,a heron flies,No,Yes
+1819,a bushtit has a wing,No,Yes
+1820,a bluefish can be found underwater,Yes,Yes
+1821,does a whitefish have a beak,Yes,No
+1822,does a angelshark have a beak,No,No
+1823,can a bustard swim,No,No
+1824,a bluefin lives underwater,No,Yes
+1825,does a tuna have a fin,Yes,Yes
+1826,does a duck live in the water,Yes,No
+1827,a dugong can be found underwater,Yes,Yes
+1828,does a bird have a wing,Yes,Yes
+1829,a owl has fins,No,No
+1830,a dolphin can be found underwater,Yes,Yes
+1831,does a angelshark have a wing,No,No
+1832,does a heron have a fin,Yes,No
+1833,a anchovy has a wing,No,No
+1834,a bird is capable of swimming,No,No
+1835,does a whale have a wing,No,No
+1836,a spearfish has a wing,No,No
+1837,a brambling swims,No,No
+1838,can a burrfish swim,Yes,Yes
+1839,does a macaw have a fin,Yes,No
+1840,does a buzzard have wings,Yes,Yes
+1841,does a buzzard have fins,No,No
+1842,a bluefin swims,No,Yes
+1843,a ling lives in the water,No,Yes
+1844,does a swordfish have a fin,Yes,Yes
+1845,does a piranha live in the water,Yes,Yes
+1846,a spearfish has wings,No,No
+1847,a barracuda can be found underwater,No,Yes
+1848,does a skylark have a wing,Yes,Yes
+1849,does a rorqual live in the water,No,Yes
+1850,a gull flies,Yes,Yes
+1851,a smelt lives in the water,Yes,Yes
+1852,a flamingo can be found in the water,No,No
+1853,does a burrfish have fins,Yes,Yes
+1854,does a songbird have a wing,Yes,Yes
+1855,does a mallard have fins,No,No
+1856,does a eagle have wings,Yes,Yes
+1857,a falcon can be found in the water,No,No
+1858,a whitefish is capable of swimming,Yes,Yes
+1859,a fish lives in the water,Yes,Yes
+1860,does a whitefish have a fin,Yes,Yes
+1861,does a bird live in the water,Yes,No
+1862,does a piranha have a fin,Yes,Yes
+1863,does a dove have a beak,No,Yes
+1864,a mackerel has a fin,Yes,Yes
+1865,a mackerel has wings,Yes,No
+1866,a stonefish flies,Yes,No
+1867,does a godwit have fins,No,No
+1868,a finch has wings,Yes,Yes
+1869,a canary lives underwater,No,No
+1870,a dove has a wing,Yes,Yes
+1871,a yellowfin has fins,Yes,Yes
+1872,does a buri have a wing,No,No
+1873,can a bullfinch swim,No,No
+1874,a goldcrest swims,No,No
+1875,a fish can be found in the water,Yes,Yes
+1876,does a macaw have a beak,Yes,Yes
+1877,a godwit swims,No,No
+1878,a buri has fins,No,Yes
+1879,a herring swims,No,Yes
+1880,a mullet has a wing,No,No
+1881,a goose has a beak,Yes,Yes
+1882,a bluefin flies,No,No
+1883,does a clownfish have a fin,Yes,Yes
+1884,a godwit can be found underwater,No,No
+1885,does a jay have a fin,Yes,No
+1886,does a tuna have wings,No,No
+1887,can a albacore swim,Yes,Yes
+1888,does a bat live underwater,Yes,No
+1889,does a smelt live in the water,Yes,Yes
+1890,a burrfish can be found in the water,Yes,Yes
+1891,a finch can be found in the water,Yes,No
+1892,a dove has a fin,Yes,No
+1893,does a stork live in the water,Yes,No
+1894,a ling has a beak,No,No
+1895,does a jay fly,Yes,Yes
+1896,does a goose have a beak,Yes,Yes
+1897,does a flatfish have fins,Yes,Yes
+1898,does a jawfish have fins,Yes,Yes
+1899,does a buzzard have a fin,No,No
+1900,a orca can be found in the water,No,Yes
+1901,a hogfish can be found underwater,Yes,Yes
+1902,a cowbird flies,Yes,Yes
+1903,does a pangasius have a beak,No,No
+1904,a porgy has a beak,No,No
+1905,a porpoise has a beak,Yes,No
+1906,a monkfish has wings,No,No
+1907,a albacore has fins,No,Yes
+1908,a yellowfin has wings,No,No
+1909,a herring lives underwater,No,Yes
+1910,a skylark has wings,Yes,Yes
+1911,does a clownfish live in the water,Yes,Yes
+1912,a knifefish swims,Yes,Yes
+1913,does a hogfish have a beak,Yes,No
+1914,can a crow swim,Yes,No
+1915,a cockatoo flies,No,Yes
+1916,can a parrot swim,Yes,No
+1917,a sparrow has a wing,Yes,Yes
+1918,a whitefish lives underwater,Yes,Yes
+1919,does a parrot have a fin,Yes,No
+1920,a eel has a fin,Yes,Yes
+1921,a rorqual has fins,No,Yes
+1922,a pangasius has fins,No,Yes
+1923,can a buzzard fly,Yes,Yes
+1924,can a peacock fly,Yes,Yes
+1925,does a clownfish have wings,Yes,No
+1926,does a whitefish have fins,Yes,Yes
+1927,a bustard lives underwater,No,No
+1928,does a eagle have a beak,Yes,Yes
+1929,does a monkfish have a beak,Yes,No
+1930,a vulture has a fin,Yes,No
+1931,a parrot flies,No,Yes
+1932,does a flamingo live in the water,Yes,No
+1933,a jay can be found in the water,Yes,No
+1934,does a angelshark live underwater,No,Yes
+1935,a jawfish can be found underwater,Yes,Yes
+1936,a stonefish has a fin,Yes,Yes
+1937,a songbird has wings,Yes,Yes
+1938,a wader has a fin,No,No
+1939,a godwit lives underwater,No,No
+1940,a pelican lives in the water,Yes,No
+1941,does a albatrosses have a beak,Yes,Yes
+1942,a canary has fins,No,No
+1943,a sternidae lives underwater,Yes,No
+1944,can a flatfish swim,Yes,Yes
+1945,a bird lives underwater,No,No
+1946,a dugong swims,No,Yes
+1947,a herring can be found underwater,No,Yes
+1948,a canary has a beak,No,Yes
+1949,a flamingo has a wing,No,Yes
+1950,does a ling have a wing,No,No
+1951,a hummingbird swims,No,No
+1952,a duck lives underwater,Yes,No
+1953,a cowbird lives underwater,No,No
+1954,a tuna can be found underwater,Yes,Yes
+1955,does a burrfish have a beak,Yes,No
+1956,does a grackle live in the water,No,No
+1957,a bluefin has a wing,No,No
+1958,can a hornbill fly,Yes,Yes
+1959,a whale lives underwater,Yes,Yes
+1960,a stonefish is capable of swimming,Yes,Yes
+1961,a spearfish flies,No,No
+1962,can a anchovy fly,Yes,No
+1963,does a hawk live underwater,Yes,No
+1964,a jawfish lives in the water,Yes,Yes
+1965,a pomfret is capable of swimming,No,Yes
+1966,a tuna is capable of swimming,Yes,Yes
+1967,does a catshark have wings,Yes,No
+1968,a whale is capable of swimming,Yes,Yes
+1969,does a avocet live in the water,Yes,No
+1970,a tuna lives in the water,Yes,Yes
+1971,does a bushtit have fins,No,No
+1972,a sparrow can be found in the water,No,No
+1973,does a bluefin have a fin,Yes,Yes
+1974,does a rorqual fly,No,No
+1975,does a wader have a beak,No,Yes
+1976,can a lark fly,Yes,Yes
+1977,can a smelt swim,No,Yes
+1978,does a peacock have a beak,Yes,Yes
+1979,a flatfish can be found in the water,Yes,Yes
+1980,a angelshark can be found underwater,No,Yes
+1981,a clownfish swims,Yes,Yes
+1982,does a goldcrest have a wing,No,Yes
+1983,does a mallard have a fin,Yes,No
+1984,does a godwit fly,No,Yes
+1985,a salmon has wings,No,No
+1986,can a catshark fly,No,No
+1987,does a stonefish live in the water,Yes,Yes
+1988,does a whale fly,Yes,No
+1989,a goldcrest has fins,No,No
+1990,can a cuttlefish fly,No,No
+1991,a pangasius flies,Yes,No
+1992,a seabird has a fin,Yes,No
+1993,can a smelt fly,No,No
+1994,does a burbot have a fin,No,Yes
+1995,a yellowfin can be found underwater,No,Yes
+1996,a cowbird lives in the water,No,No
+1997,a macaw can be found underwater,No,No
+1998,a falcon lives in the water,No,No
+1999,a carpione is capable of swimming,No,Yes
+2000,a heron lives underwater,No,No
+2001,can a whale swim,Yes,Yes
+2002,does a falcon live in the water,No,No
+2003,a pelican has a wing,No,Yes
+2004,does a finch have fins,Yes,No
+2005,does a avocet have a beak,Yes,Yes
+2006,does a bustard have a beak,No,Yes
+2007,does a gull have wings,Yes,Yes
+2008,does a eel have a wing,No,No
+2009,does a porpoise have a wing,Yes,No
+2010,a burbot has fins,No,Yes
+2011,a condor swims,No,No
+2012,a cuttlefish swims,Yes,Yes
+2013,a swordfish swims,Yes,Yes
+2014,does a hogfish have fins,Yes,Yes
+2015,does a shark have a wing,No,No
+2016,a halibut can be found in the water,Yes,Yes
+2017,does a cockatoo live underwater,Yes,No
+2018,can a shark swim,Yes,Yes
+2019,a flamingo swims,Yes,No
+2020,does a duck fly,Yes,Yes
+2021,a mallard can be found in the water,No,No
+2022,a monkfish can be found underwater,Yes,Yes
+2023,a bat can be found in the water,No,No
+2024,a ling has wings,No,No
+2025,does a swan fly,Yes,Yes
+2026,does a bullfinch have wings,Yes,Yes
+2027,a mullet has a fin,No,Yes
+2028,a kingfish has fins,Yes,Yes
+2029,does a eel have a fin,Yes,Yes
+2030,a halibut has wings,Yes,No
+2031,a sternidae has wings,Yes,Yes
+2032,does a bushtit have wings,No,Yes
+2033,does a bushtit live underwater,No,No
+2034,a yellowfin lives in the water,No,Yes
+2035,a peacock has a beak,Yes,Yes
+2036,does a albatrosses have a wing,Yes,Yes
+2037,a salmon has fins,Yes,Yes
+2038,can a eagle fly,Yes,Yes
+2039,does a bat have a beak,Yes,Yes
+2040,a cotinga has fins,No,No
+2041,a pangasius has wings,No,No
+2042,can a cotinga swim,No,No
+2043,does a duck have wings,Yes,Yes
+2044,can a monkfish fly,Yes,No
+2045,a rorqual has wings,No,No
+2046,a codfish has a beak,Yes,No
+2047,a hogfish has a fin,Yes,Yes
+2048,a macaw lives underwater,No,No
+2049,a albacore swims,No,Yes
+2050,does a salmon have fins,Yes,Yes
+2051,a heron swims,No,No
+2052,can a catshark swim,No,Yes
+2053,does a avocet have a fin,No,No
+2054,does a halibut have a beak,Yes,No
+2055,does a catshark have a beak,Yes,No
+2056,a barracuda has a beak,No,No
+2057,does a cuttlefish live underwater,Yes,Yes
+2058,does a yellowfin live underwater,No,Yes
+2059,a duck can be found in the water,Yes,No
+2060,a fish has fins,Yes,Yes
+2061,does a vulture have a fin,Yes,No
+2062,does a barracuda have fins,No,Yes
+2063,a whitefish lives in the water,Yes,Yes
+2064,can a cockatoo swim,Yes,No
+2065,can a brambling fly,Yes,Yes
+2066,does a mackerel live underwater,Yes,Yes
+2067,does a pigeon live underwater,Yes,No
+2068,a fish has a fin,Yes,Yes
+2069,a pangasius has a wing,No,No
+2070,a dove lives in the water,Yes,No
+2071,a peacock has a fin,Yes,No
+2072,a hornbill can be found in the water,Yes,No
+2073,does a songbird live in the water,Yes,No
+2074,a cockatoo lives underwater,No,No
+2075,does a cotinga live in the water,No,No
+2076,a eel flies,Yes,No
+2077,does a goldcrest live in the water,No,No
+2078,can a hogfish fly,Yes,No
+2079,a tilapia has fins,Yes,Yes
+2080,can a parrot fly,Yes,Yes
+2081,a porpoise has wings,Yes,No
+2082,does a knifefish live underwater,Yes,Yes
+2083,a smelt can be found in the water,Yes,Yes
+2084,does a mackerel have wings,Yes,No
+2085,does a herring live in the water,Yes,Yes
+2086,a duck can be found underwater,Yes,No
+2087,does a garfish live underwater,Yes,Yes
+2088,can a hummingbird swim,Yes,No
+2089,does a monkfish have wings,Yes,No
+2090,can a eel swim,Yes,Yes
+2091,a eagle lives in the water,Yes,No
+2092,a kingfish has a fin,Yes,Yes
+2093,does a dolphin live underwater,Yes,Yes
+2094,does a hornbill live underwater,Yes,No
+2095,does a stonefish have fins,Yes,Yes
+2096,a buzzard lives underwater,No,No
+2097,a hogfish lives in the water,Yes,Yes
+2098,a jay flies,Yes,Yes
+2099,a mackerel has a beak,Yes,No
+2100,a flatfish has a beak,Yes,No
+2101,can a cuttlefish swim,Yes,Yes
+2102,a piranha can be found underwater,Yes,Yes
+2103,does a parrot live underwater,Yes,No
+2104,does a bat have fins,Yes,No
+2105,a smelt has fins,Yes,Yes
+2106,a dolphin is capable of swimming,Yes,Yes
+2107,a gull has fins,Yes,No
+2108,can a heron swim,Yes,No
+2109,a bustard has a fin,No,No
+2110,can a goose fly,Yes,Yes
+2111,does a goldcrest have wings,No,Yes
+2112,a anchovy can be found underwater,Yes,Yes
+2113,a lark flies,Yes,Yes
+2114,can a anchovy swim,Yes,Yes
+2115,can a grackle swim,No,No
+2116,a garfish has wings,No,No
+2117,a orca has fins,Yes,Yes
+2118,does a jawfish have wings,No,No
+2119,a crow can be found in the water,No,No
+2120,does a monkfish have a wing,No,No
+2121,does a cotinga have wings,No,Yes
+2122,a shark has a beak,Yes,No
+2123,does a buri have wings,No,No
+2124,a porgy lives in the water,No,Yes
+2125,a buzzard has a wing,Yes,Yes
+2126,a bluefin can be found in the water,Yes,Yes
+2127,a bustard flies,No,Yes
+2128,a cockatoo has a wing,No,Yes
+2129,does a bluefin have fins,Yes,Yes
+2130,a dove flies,Yes,Yes
+2131,a hornbill has a fin,Yes,No
+2132,a bushtit lives underwater,No,No
+2133,can a tuna fly,Yes,No
+2134,a anchovy has fins,No,Yes
+2135,a flatfish has wings,No,No
+2136,a godwit has fins,No,No
+2137,a dolphin lives in the water,Yes,Yes
+2138,a swordfish has fins,Yes,Yes
+2139,does a hawk fly,Yes,Yes
+2140,a sparrow has wings,Yes,Yes
+2141,does a whale have fins,Yes,Yes
+2142,does a ling have a fin,No,Yes
+2143,a sparrow has a fin,Yes,No
+2144,a burrfish can be found underwater,Yes,Yes
+2145,does a vulture have a beak,Yes,Yes
+2146,does a herring fly,No,No
+2147,a avocet has a wing,Yes,Yes
+2148,a finch has a wing,No,Yes
+2149,does a bushtit live in the water,Yes,No
+2150,a orca lives in the water,No,Yes
+2151,can a mullet swim,No,Yes
+2152,does a bustard live underwater,No,No
+2153,can a jay swim,Yes,No
+2154,a spearfish can be found in the water,Yes,Yes
+2155,does a orca have a fin,No,Yes
