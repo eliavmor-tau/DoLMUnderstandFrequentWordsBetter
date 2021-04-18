@@ -617,7 +617,6 @@ def aggregate_results_by_question(result_df, animals_df):
             else:
                 orig_questions = question
                 question = question.replace(f" {animal} ", " <entity> ")
-                # question = question.replace(f" {animal}.", " <entity>.")
                 if question == orig_questions:
                     question = question.replace(f"{animal}", "<entity>")
 
@@ -625,12 +624,12 @@ def aggregate_results_by_question(result_df, animals_df):
             if question == q:
                 results_by_question[q]["accuracy"] += int(status)
                 results_by_question[q]["yes_count"] += int(is_yes)
-                results_by_question[q]["no_count"] += int(not is_yes)
+                results_by_question[q]["no_count"] += abs(int(is_yes) - 1)
                 break
 
     for q in results_by_question.keys():
-        print(q, results_by_question[q])
         results_by_question[q]["accuracy"] /= float(results_by_question[q]["yes_count"] + results_by_question[q]["no_count"])
+        print(q, results_by_question[q])
     return pd.DataFrame.from_dict(results_by_question)
 
 
@@ -693,6 +692,7 @@ def run_generate_questions():
              "animals_dont_have_wings", "animals_dont_have_feathers", "animals_dont_have_fur",
              "animals_dont_have_hair", "animals_dont_live_underwater", "animals_cant_fly", "old/food", "old/furniture",
              "old/musical_instruments", "old/vehicle", "sanity"]
+    files = ["animals_even_properties"]
     for file in files:
         questions = generate_questions_from_csv(csv_path=f"csv/{file}.csv")
         questions = pd.DataFrame.from_dict(questions)

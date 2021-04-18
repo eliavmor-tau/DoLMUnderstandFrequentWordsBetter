@@ -1,0 +1,2157 @@
+,question,label
+0,does a albatrosses fly,Yes
+1,can a albatrosses fly,Yes
+2,a albatrosses flies,Yes
+3,does a albatrosses have wings,Yes
+4,a albatrosses has wings,Yes
+5,does a albatrosses have a wing,Yes
+6,a albatrosses has a wing,Yes
+7,does a albatrosses have a beak,Yes
+8,a albatrosses has a beak,Yes
+9,does a albatrosses live underwater,No
+10,a albatrosses lives underwater,No
+11,does a albatrosses live in the water,No
+12,a albatrosses lives in the water,No
+13,a albatrosses can be found underwater,No
+14,a albatrosses can be found in the water,No
+15,a albatrosses swims,No
+16,can a albatrosses swim,No
+17,a albatrosses is capable of swimming,No
+18,a albatrosses has fins,No
+19,does a albatrosses have fins,No
+20,a albatrosses has a fin,No
+21,does a albatrosses have a wing.1,No
+22,does a avocet fly,Yes
+23,can a avocet fly,Yes
+24,a avocet flies,Yes
+25,does a avocet have wings,Yes
+26,a avocet has wings,Yes
+27,does a avocet have a wing,Yes
+28,a avocet has a wing,Yes
+29,does a avocet have a beak,Yes
+30,a avocet has a beak,Yes
+31,does a avocet live underwater,No
+32,a avocet lives underwater,No
+33,does a avocet live in the water,No
+34,a avocet lives in the water,No
+35,a avocet can be found underwater,No
+36,a avocet can be found in the water,No
+37,a avocet swims,No
+38,can a avocet swim,No
+39,a avocet is capable of swimming,No
+40,a avocet has fins,No
+41,does a avocet have fins,No
+42,a avocet has a fin,No
+43,does a avocet have a wing.1,No
+44,does a bat fly,Yes
+45,can a bat fly,Yes
+46,a bat flies,Yes
+47,does a bat have wings,Yes
+48,a bat has wings,Yes
+49,does a bat have a wing,Yes
+50,a bat has a wing,Yes
+51,does a bat have a beak,Yes
+52,a bat has a beak,Yes
+53,does a bat live underwater,No
+54,a bat lives underwater,No
+55,does a bat live in the water,No
+56,a bat lives in the water,No
+57,a bat can be found underwater,No
+58,a bat can be found in the water,No
+59,a bat swims,No
+60,can a bat swim,No
+61,a bat is capable of swimming,No
+62,a bat has fins,No
+63,does a bat have fins,No
+64,a bat has a fin,No
+65,does a bat have a wing.1,No
+66,does a bird fly,Yes
+67,can a bird fly,Yes
+68,a bird flies,Yes
+69,does a bird have wings,Yes
+70,a bird has wings,Yes
+71,does a bird have a wing,Yes
+72,a bird has a wing,Yes
+73,does a bird have a beak,Yes
+74,a bird has a beak,Yes
+75,does a bird live underwater,No
+76,a bird lives underwater,No
+77,does a bird live in the water,No
+78,a bird lives in the water,No
+79,a bird can be found underwater,No
+80,a bird can be found in the water,No
+81,a bird swims,No
+82,can a bird swim,No
+83,a bird is capable of swimming,No
+84,a bird has fins,No
+85,does a bird have fins,No
+86,a bird has a fin,No
+87,does a bird have a wing.1,No
+88,does a brambling fly,Yes
+89,can a brambling fly,Yes
+90,a brambling flies,Yes
+91,does a brambling have wings,Yes
+92,a brambling has wings,Yes
+93,does a brambling have a wing,Yes
+94,a brambling has a wing,Yes
+95,does a brambling have a beak,Yes
+96,a brambling has a beak,Yes
+97,does a brambling live underwater,No
+98,a brambling lives underwater,No
+99,does a brambling live in the water,No
+100,a brambling lives in the water,No
+101,a brambling can be found underwater,No
+102,a brambling can be found in the water,No
+103,a brambling swims,No
+104,can a brambling swim,No
+105,a brambling is capable of swimming,No
+106,a brambling has fins,No
+107,does a brambling have fins,No
+108,a brambling has a fin,No
+109,does a brambling have a wing.1,No
+110,does a bullfinch fly,Yes
+111,can a bullfinch fly,Yes
+112,a bullfinch flies,Yes
+113,does a bullfinch have wings,Yes
+114,a bullfinch has wings,Yes
+115,does a bullfinch have a wing,Yes
+116,a bullfinch has a wing,Yes
+117,does a bullfinch have a beak,Yes
+118,a bullfinch has a beak,Yes
+119,does a bullfinch live underwater,No
+120,a bullfinch lives underwater,No
+121,does a bullfinch live in the water,No
+122,a bullfinch lives in the water,No
+123,a bullfinch can be found underwater,No
+124,a bullfinch can be found in the water,No
+125,a bullfinch swims,No
+126,can a bullfinch swim,No
+127,a bullfinch is capable of swimming,No
+128,a bullfinch has fins,No
+129,does a bullfinch have fins,No
+130,a bullfinch has a fin,No
+131,does a bullfinch have a wing.1,No
+132,does a bushtit fly,Yes
+133,can a bushtit fly,Yes
+134,a bushtit flies,Yes
+135,does a bushtit have wings,Yes
+136,a bushtit has wings,Yes
+137,does a bushtit have a wing,Yes
+138,a bushtit has a wing,Yes
+139,does a bushtit have a beak,Yes
+140,a bushtit has a beak,Yes
+141,does a bushtit live underwater,No
+142,a bushtit lives underwater,No
+143,does a bushtit live in the water,No
+144,a bushtit lives in the water,No
+145,a bushtit can be found underwater,No
+146,a bushtit can be found in the water,No
+147,a bushtit swims,No
+148,can a bushtit swim,No
+149,a bushtit is capable of swimming,No
+150,a bushtit has fins,No
+151,does a bushtit have fins,No
+152,a bushtit has a fin,No
+153,does a bushtit have a wing.1,No
+154,does a buzzard fly,Yes
+155,can a buzzard fly,Yes
+156,a buzzard flies,Yes
+157,does a buzzard have wings,Yes
+158,a buzzard has wings,Yes
+159,does a buzzard have a wing,Yes
+160,a buzzard has a wing,Yes
+161,does a buzzard have a beak,Yes
+162,a buzzard has a beak,Yes
+163,does a buzzard live underwater,No
+164,a buzzard lives underwater,No
+165,does a buzzard live in the water,No
+166,a buzzard lives in the water,No
+167,a buzzard can be found underwater,No
+168,a buzzard can be found in the water,No
+169,a buzzard swims,No
+170,can a buzzard swim,No
+171,a buzzard is capable of swimming,No
+172,a buzzard has fins,No
+173,does a buzzard have fins,No
+174,a buzzard has a fin,No
+175,does a buzzard have a wing.1,No
+176,does a canary fly,Yes
+177,can a canary fly,Yes
+178,a canary flies,Yes
+179,does a canary have wings,Yes
+180,a canary has wings,Yes
+181,does a canary have a wing,Yes
+182,a canary has a wing,Yes
+183,does a canary have a beak,Yes
+184,a canary has a beak,Yes
+185,does a canary live underwater,No
+186,a canary lives underwater,No
+187,does a canary live in the water,No
+188,a canary lives in the water,No
+189,a canary can be found underwater,No
+190,a canary can be found in the water,No
+191,a canary swims,No
+192,can a canary swim,No
+193,a canary is capable of swimming,No
+194,a canary has fins,No
+195,does a canary have fins,No
+196,a canary has a fin,No
+197,does a canary have a wing.1,No
+198,does a cockatoo fly,Yes
+199,can a cockatoo fly,Yes
+200,a cockatoo flies,Yes
+201,does a cockatoo have wings,Yes
+202,a cockatoo has wings,Yes
+203,does a cockatoo have a wing,Yes
+204,a cockatoo has a wing,Yes
+205,does a cockatoo have a beak,Yes
+206,a cockatoo has a beak,Yes
+207,does a cockatoo live underwater,No
+208,a cockatoo lives underwater,No
+209,does a cockatoo live in the water,No
+210,a cockatoo lives in the water,No
+211,a cockatoo can be found underwater,No
+212,a cockatoo can be found in the water,No
+213,a cockatoo swims,No
+214,can a cockatoo swim,No
+215,a cockatoo is capable of swimming,No
+216,a cockatoo has fins,No
+217,does a cockatoo have fins,No
+218,a cockatoo has a fin,No
+219,does a cockatoo have a wing.1,No
+220,does a condor fly,Yes
+221,can a condor fly,Yes
+222,a condor flies,Yes
+223,does a condor have wings,Yes
+224,a condor has wings,Yes
+225,does a condor have a wing,Yes
+226,a condor has a wing,Yes
+227,does a condor have a beak,Yes
+228,a condor has a beak,Yes
+229,does a condor live underwater,No
+230,a condor lives underwater,No
+231,does a condor live in the water,No
+232,a condor lives in the water,No
+233,a condor can be found underwater,No
+234,a condor can be found in the water,No
+235,a condor swims,No
+236,can a condor swim,No
+237,a condor is capable of swimming,No
+238,a condor has fins,No
+239,does a condor have fins,No
+240,a condor has a fin,No
+241,does a condor have a wing.1,No
+242,does a cotinga fly,Yes
+243,can a cotinga fly,Yes
+244,a cotinga flies,Yes
+245,does a cotinga have wings,Yes
+246,a cotinga has wings,Yes
+247,does a cotinga have a wing,Yes
+248,a cotinga has a wing,Yes
+249,does a cotinga have a beak,Yes
+250,a cotinga has a beak,Yes
+251,does a cotinga live underwater,No
+252,a cotinga lives underwater,No
+253,does a cotinga live in the water,No
+254,a cotinga lives in the water,No
+255,a cotinga can be found underwater,No
+256,a cotinga can be found in the water,No
+257,a cotinga swims,No
+258,can a cotinga swim,No
+259,a cotinga is capable of swimming,No
+260,a cotinga has fins,No
+261,does a cotinga have fins,No
+262,a cotinga has a fin,No
+263,does a cotinga have a wing.1,No
+264,does a cowbird fly,Yes
+265,can a cowbird fly,Yes
+266,a cowbird flies,Yes
+267,does a cowbird have wings,Yes
+268,a cowbird has wings,Yes
+269,does a cowbird have a wing,Yes
+270,a cowbird has a wing,Yes
+271,does a cowbird have a beak,Yes
+272,a cowbird has a beak,Yes
+273,does a cowbird live underwater,No
+274,a cowbird lives underwater,No
+275,does a cowbird live in the water,No
+276,a cowbird lives in the water,No
+277,a cowbird can be found underwater,No
+278,a cowbird can be found in the water,No
+279,a cowbird swims,No
+280,can a cowbird swim,No
+281,a cowbird is capable of swimming,No
+282,a cowbird has fins,No
+283,does a cowbird have fins,No
+284,a cowbird has a fin,No
+285,does a cowbird have a wing.1,No
+286,does a crow fly,Yes
+287,can a crow fly,Yes
+288,a crow flies,Yes
+289,does a crow have wings,Yes
+290,a crow has wings,Yes
+291,does a crow have a wing,Yes
+292,a crow has a wing,Yes
+293,does a crow have a beak,Yes
+294,a crow has a beak,Yes
+295,does a crow live underwater,No
+296,a crow lives underwater,No
+297,does a crow live in the water,No
+298,a crow lives in the water,No
+299,a crow can be found underwater,No
+300,a crow can be found in the water,No
+301,a crow swims,No
+302,can a crow swim,No
+303,a crow is capable of swimming,No
+304,a crow has fins,No
+305,does a crow have fins,No
+306,a crow has a fin,No
+307,does a crow have a wing.1,No
+308,does a dove fly,Yes
+309,can a dove fly,Yes
+310,a dove flies,Yes
+311,does a dove have wings,Yes
+312,a dove has wings,Yes
+313,does a dove have a wing,Yes
+314,a dove has a wing,Yes
+315,does a dove have a beak,Yes
+316,a dove has a beak,Yes
+317,does a dove live underwater,No
+318,a dove lives underwater,No
+319,does a dove live in the water,No
+320,a dove lives in the water,No
+321,a dove can be found underwater,No
+322,a dove can be found in the water,No
+323,a dove swims,No
+324,can a dove swim,No
+325,a dove is capable of swimming,No
+326,a dove has fins,No
+327,does a dove have fins,No
+328,a dove has a fin,No
+329,does a dove have a wing.1,No
+330,does a duck fly,Yes
+331,can a duck fly,Yes
+332,a duck flies,Yes
+333,does a duck have wings,Yes
+334,a duck has wings,Yes
+335,does a duck have a wing,Yes
+336,a duck has a wing,Yes
+337,does a duck have a beak,Yes
+338,a duck has a beak,Yes
+339,does a duck live underwater,No
+340,a duck lives underwater,No
+341,does a duck live in the water,No
+342,a duck lives in the water,No
+343,a duck can be found underwater,No
+344,a duck can be found in the water,No
+345,a duck swims,No
+346,can a duck swim,No
+347,a duck is capable of swimming,No
+348,a duck has fins,No
+349,does a duck have fins,No
+350,a duck has a fin,No
+351,does a duck have a wing.1,No
+352,does a eagle fly,Yes
+353,can a eagle fly,Yes
+354,a eagle flies,Yes
+355,does a eagle have wings,Yes
+356,a eagle has wings,Yes
+357,does a eagle have a wing,Yes
+358,a eagle has a wing,Yes
+359,does a eagle have a beak,Yes
+360,a eagle has a beak,Yes
+361,does a eagle live underwater,No
+362,a eagle lives underwater,No
+363,does a eagle live in the water,No
+364,a eagle lives in the water,No
+365,a eagle can be found underwater,No
+366,a eagle can be found in the water,No
+367,a eagle swims,No
+368,can a eagle swim,No
+369,a eagle is capable of swimming,No
+370,a eagle has fins,No
+371,does a eagle have fins,No
+372,a eagle has a fin,No
+373,does a eagle have a wing.1,No
+374,does a eider fly,Yes
+375,can a eider fly,Yes
+376,a eider flies,Yes
+377,does a eider have wings,Yes
+378,a eider has wings,Yes
+379,does a eider have a wing,Yes
+380,a eider has a wing,Yes
+381,does a eider have a beak,Yes
+382,a eider has a beak,Yes
+383,does a eider live underwater,No
+384,a eider lives underwater,No
+385,does a eider live in the water,No
+386,a eider lives in the water,No
+387,a eider can be found underwater,No
+388,a eider can be found in the water,No
+389,a eider swims,No
+390,can a eider swim,No
+391,a eider is capable of swimming,No
+392,a eider has fins,No
+393,does a eider have fins,No
+394,a eider has a fin,No
+395,does a eider have a wing.1,No
+396,does a falcon fly,Yes
+397,can a falcon fly,Yes
+398,a falcon flies,Yes
+399,does a falcon have wings,Yes
+400,a falcon has wings,Yes
+401,does a falcon have a wing,Yes
+402,a falcon has a wing,Yes
+403,does a falcon have a beak,Yes
+404,a falcon has a beak,Yes
+405,does a falcon live underwater,No
+406,a falcon lives underwater,No
+407,does a falcon live in the water,No
+408,a falcon lives in the water,No
+409,a falcon can be found underwater,No
+410,a falcon can be found in the water,No
+411,a falcon swims,No
+412,can a falcon swim,No
+413,a falcon is capable of swimming,No
+414,a falcon has fins,No
+415,does a falcon have fins,No
+416,a falcon has a fin,No
+417,does a falcon have a wing.1,No
+418,does a finch fly,Yes
+419,can a finch fly,Yes
+420,a finch flies,Yes
+421,does a finch have wings,Yes
+422,a finch has wings,Yes
+423,does a finch have a wing,Yes
+424,a finch has a wing,Yes
+425,does a finch have a beak,Yes
+426,a finch has a beak,Yes
+427,does a finch live underwater,No
+428,a finch lives underwater,No
+429,does a finch live in the water,No
+430,a finch lives in the water,No
+431,a finch can be found underwater,No
+432,a finch can be found in the water,No
+433,a finch swims,No
+434,can a finch swim,No
+435,a finch is capable of swimming,No
+436,a finch has fins,No
+437,does a finch have fins,No
+438,a finch has a fin,No
+439,does a finch have a wing.1,No
+440,does a flamingo fly,Yes
+441,can a flamingo fly,Yes
+442,a flamingo flies,Yes
+443,does a flamingo have wings,Yes
+444,a flamingo has wings,Yes
+445,does a flamingo have a wing,Yes
+446,a flamingo has a wing,Yes
+447,does a flamingo have a beak,Yes
+448,a flamingo has a beak,Yes
+449,does a flamingo live underwater,No
+450,a flamingo lives underwater,No
+451,does a flamingo live in the water,No
+452,a flamingo lives in the water,No
+453,a flamingo can be found underwater,No
+454,a flamingo can be found in the water,No
+455,a flamingo swims,No
+456,can a flamingo swim,No
+457,a flamingo is capable of swimming,No
+458,a flamingo has fins,No
+459,does a flamingo have fins,No
+460,a flamingo has a fin,No
+461,does a flamingo have a wing.1,No
+462,does a goldcrest fly,Yes
+463,can a goldcrest fly,Yes
+464,a goldcrest flies,Yes
+465,does a goldcrest have wings,Yes
+466,a goldcrest has wings,Yes
+467,does a goldcrest have a wing,Yes
+468,a goldcrest has a wing,Yes
+469,does a goldcrest have a beak,Yes
+470,a goldcrest has a beak,Yes
+471,does a goldcrest live underwater,No
+472,a goldcrest lives underwater,No
+473,does a goldcrest live in the water,No
+474,a goldcrest lives in the water,No
+475,a goldcrest can be found underwater,No
+476,a goldcrest can be found in the water,No
+477,a goldcrest swims,No
+478,can a goldcrest swim,No
+479,a goldcrest is capable of swimming,No
+480,a goldcrest has fins,No
+481,does a goldcrest have fins,No
+482,a goldcrest has a fin,No
+483,does a goldcrest have a wing.1,No
+484,does a goose fly,Yes
+485,can a goose fly,Yes
+486,a goose flies,Yes
+487,does a goose have wings,Yes
+488,a goose has wings,Yes
+489,does a goose have a wing,Yes
+490,a goose has a wing,Yes
+491,does a goose have a beak,Yes
+492,a goose has a beak,Yes
+493,does a goose live underwater,No
+494,a goose lives underwater,No
+495,does a goose live in the water,No
+496,a goose lives in the water,No
+497,a goose can be found underwater,No
+498,a goose can be found in the water,No
+499,a goose swims,No
+500,can a goose swim,No
+501,a goose is capable of swimming,No
+502,a goose has fins,No
+503,does a goose have fins,No
+504,a goose has a fin,No
+505,does a goose have a wing.1,No
+506,does a grackle fly,Yes
+507,can a grackle fly,Yes
+508,a grackle flies,Yes
+509,does a grackle have wings,Yes
+510,a grackle has wings,Yes
+511,does a grackle have a wing,Yes
+512,a grackle has a wing,Yes
+513,does a grackle have a beak,Yes
+514,a grackle has a beak,Yes
+515,does a grackle live underwater,No
+516,a grackle lives underwater,No
+517,does a grackle live in the water,No
+518,a grackle lives in the water,No
+519,a grackle can be found underwater,No
+520,a grackle can be found in the water,No
+521,a grackle swims,No
+522,can a grackle swim,No
+523,a grackle is capable of swimming,No
+524,a grackle has fins,No
+525,does a grackle have fins,No
+526,a grackle has a fin,No
+527,does a grackle have a wing.1,No
+528,does a gull fly,Yes
+529,can a gull fly,Yes
+530,a gull flies,Yes
+531,does a gull have wings,Yes
+532,a gull has wings,Yes
+533,does a gull have a wing,Yes
+534,a gull has a wing,Yes
+535,does a gull have a beak,Yes
+536,a gull has a beak,Yes
+537,does a gull live underwater,No
+538,a gull lives underwater,No
+539,does a gull live in the water,No
+540,a gull lives in the water,No
+541,a gull can be found underwater,No
+542,a gull can be found in the water,No
+543,a gull swims,No
+544,can a gull swim,No
+545,a gull is capable of swimming,No
+546,a gull has fins,No
+547,does a gull have fins,No
+548,a gull has a fin,No
+549,does a gull have a wing.1,No
+550,does a hawk fly,Yes
+551,can a hawk fly,Yes
+552,a hawk flies,Yes
+553,does a hawk have wings,Yes
+554,a hawk has wings,Yes
+555,does a hawk have a wing,Yes
+556,a hawk has a wing,Yes
+557,does a hawk have a beak,Yes
+558,a hawk has a beak,Yes
+559,does a hawk live underwater,No
+560,a hawk lives underwater,No
+561,does a hawk live in the water,No
+562,a hawk lives in the water,No
+563,a hawk can be found underwater,No
+564,a hawk can be found in the water,No
+565,a hawk swims,No
+566,can a hawk swim,No
+567,a hawk is capable of swimming,No
+568,a hawk has fins,No
+569,does a hawk have fins,No
+570,a hawk has a fin,No
+571,does a hawk have a wing.1,No
+572,does a heron fly,Yes
+573,can a heron fly,Yes
+574,a heron flies,Yes
+575,does a heron have wings,Yes
+576,a heron has wings,Yes
+577,does a heron have a wing,Yes
+578,a heron has a wing,Yes
+579,does a heron have a beak,Yes
+580,a heron has a beak,Yes
+581,does a heron live underwater,No
+582,a heron lives underwater,No
+583,does a heron live in the water,No
+584,a heron lives in the water,No
+585,a heron can be found underwater,No
+586,a heron can be found in the water,No
+587,a heron swims,No
+588,can a heron swim,No
+589,a heron is capable of swimming,No
+590,a heron has fins,No
+591,does a heron have fins,No
+592,a heron has a fin,No
+593,does a heron have a wing.1,No
+594,does a hornbill fly,Yes
+595,can a hornbill fly,Yes
+596,a hornbill flies,Yes
+597,does a hornbill have wings,Yes
+598,a hornbill has wings,Yes
+599,does a hornbill have a wing,Yes
+600,a hornbill has a wing,Yes
+601,does a hornbill have a beak,Yes
+602,a hornbill has a beak,Yes
+603,does a hornbill live underwater,No
+604,a hornbill lives underwater,No
+605,does a hornbill live in the water,No
+606,a hornbill lives in the water,No
+607,a hornbill can be found underwater,No
+608,a hornbill can be found in the water,No
+609,a hornbill swims,No
+610,can a hornbill swim,No
+611,a hornbill is capable of swimming,No
+612,a hornbill has fins,No
+613,does a hornbill have fins,No
+614,a hornbill has a fin,No
+615,does a hornbill have a wing.1,No
+616,does a hummingbird fly,Yes
+617,can a hummingbird fly,Yes
+618,a hummingbird flies,Yes
+619,does a hummingbird have wings,Yes
+620,a hummingbird has wings,Yes
+621,does a hummingbird have a wing,Yes
+622,a hummingbird has a wing,Yes
+623,does a hummingbird have a beak,Yes
+624,a hummingbird has a beak,Yes
+625,does a hummingbird live underwater,No
+626,a hummingbird lives underwater,No
+627,does a hummingbird live in the water,No
+628,a hummingbird lives in the water,No
+629,a hummingbird can be found underwater,No
+630,a hummingbird can be found in the water,No
+631,a hummingbird swims,No
+632,can a hummingbird swim,No
+633,a hummingbird is capable of swimming,No
+634,a hummingbird has fins,No
+635,does a hummingbird have fins,No
+636,a hummingbird has a fin,No
+637,does a hummingbird have a wing.1,No
+638,does a jay fly,Yes
+639,can a jay fly,Yes
+640,a jay flies,Yes
+641,does a jay have wings,Yes
+642,a jay has wings,Yes
+643,does a jay have a wing,Yes
+644,a jay has a wing,Yes
+645,does a jay have a beak,Yes
+646,a jay has a beak,Yes
+647,does a jay live underwater,No
+648,a jay lives underwater,No
+649,does a jay live in the water,No
+650,a jay lives in the water,No
+651,a jay can be found underwater,No
+652,a jay can be found in the water,No
+653,a jay swims,No
+654,can a jay swim,No
+655,a jay is capable of swimming,No
+656,a jay has fins,No
+657,does a jay have fins,No
+658,a jay has a fin,No
+659,does a jay have a wing.1,No
+660,does a lark fly,Yes
+661,can a lark fly,Yes
+662,a lark flies,Yes
+663,does a lark have wings,Yes
+664,a lark has wings,Yes
+665,does a lark have a wing,Yes
+666,a lark has a wing,Yes
+667,does a lark have a beak,Yes
+668,a lark has a beak,Yes
+669,does a lark live underwater,No
+670,a lark lives underwater,No
+671,does a lark live in the water,No
+672,a lark lives in the water,No
+673,a lark can be found underwater,No
+674,a lark can be found in the water,No
+675,a lark swims,No
+676,can a lark swim,No
+677,a lark is capable of swimming,No
+678,a lark has fins,No
+679,does a lark have fins,No
+680,a lark has a fin,No
+681,does a lark have a wing.1,No
+682,does a macaw fly,Yes
+683,can a macaw fly,Yes
+684,a macaw flies,Yes
+685,does a macaw have wings,Yes
+686,a macaw has wings,Yes
+687,does a macaw have a wing,Yes
+688,a macaw has a wing,Yes
+689,does a macaw have a beak,Yes
+690,a macaw has a beak,Yes
+691,does a macaw live underwater,No
+692,a macaw lives underwater,No
+693,does a macaw live in the water,No
+694,a macaw lives in the water,No
+695,a macaw can be found underwater,No
+696,a macaw can be found in the water,No
+697,a macaw swims,No
+698,can a macaw swim,No
+699,a macaw is capable of swimming,No
+700,a macaw has fins,No
+701,does a macaw have fins,No
+702,a macaw has a fin,No
+703,does a macaw have a wing.1,No
+704,does a owl fly,Yes
+705,can a owl fly,Yes
+706,a owl flies,Yes
+707,does a owl have wings,Yes
+708,a owl has wings,Yes
+709,does a owl have a wing,Yes
+710,a owl has a wing,Yes
+711,does a owl have a beak,Yes
+712,a owl has a beak,Yes
+713,does a owl live underwater,No
+714,a owl lives underwater,No
+715,does a owl live in the water,No
+716,a owl lives in the water,No
+717,a owl can be found underwater,No
+718,a owl can be found in the water,No
+719,a owl swims,No
+720,can a owl swim,No
+721,a owl is capable of swimming,No
+722,a owl has fins,No
+723,does a owl have fins,No
+724,a owl has a fin,No
+725,does a owl have a wing.1,No
+726,does a parrot fly,Yes
+727,can a parrot fly,Yes
+728,a parrot flies,Yes
+729,does a parrot have wings,Yes
+730,a parrot has wings,Yes
+731,does a parrot have a wing,Yes
+732,a parrot has a wing,Yes
+733,does a parrot have a beak,Yes
+734,a parrot has a beak,Yes
+735,does a parrot live underwater,No
+736,a parrot lives underwater,No
+737,does a parrot live in the water,No
+738,a parrot lives in the water,No
+739,a parrot can be found underwater,No
+740,a parrot can be found in the water,No
+741,a parrot swims,No
+742,can a parrot swim,No
+743,a parrot is capable of swimming,No
+744,a parrot has fins,No
+745,does a parrot have fins,No
+746,a parrot has a fin,No
+747,does a parrot have a wing.1,No
+748,does a peacock fly,Yes
+749,can a peacock fly,Yes
+750,a peacock flies,Yes
+751,does a peacock have wings,Yes
+752,a peacock has wings,Yes
+753,does a peacock have a wing,Yes
+754,a peacock has a wing,Yes
+755,does a peacock have a beak,Yes
+756,a peacock has a beak,Yes
+757,does a peacock live underwater,No
+758,a peacock lives underwater,No
+759,does a peacock live in the water,No
+760,a peacock lives in the water,No
+761,a peacock can be found underwater,No
+762,a peacock can be found in the water,No
+763,a peacock swims,No
+764,can a peacock swim,No
+765,a peacock is capable of swimming,No
+766,a peacock has fins,No
+767,does a peacock have fins,No
+768,a peacock has a fin,No
+769,does a peacock have a wing.1,No
+770,does a pelican fly,Yes
+771,can a pelican fly,Yes
+772,a pelican flies,Yes
+773,does a pelican have wings,Yes
+774,a pelican has wings,Yes
+775,does a pelican have a wing,Yes
+776,a pelican has a wing,Yes
+777,does a pelican have a beak,Yes
+778,a pelican has a beak,Yes
+779,does a pelican live underwater,No
+780,a pelican lives underwater,No
+781,does a pelican live in the water,No
+782,a pelican lives in the water,No
+783,a pelican can be found underwater,No
+784,a pelican can be found in the water,No
+785,a pelican swims,No
+786,can a pelican swim,No
+787,a pelican is capable of swimming,No
+788,a pelican has fins,No
+789,does a pelican have fins,No
+790,a pelican has a fin,No
+791,does a pelican have a wing.1,No
+792,does a pigeon fly,Yes
+793,can a pigeon fly,Yes
+794,a pigeon flies,Yes
+795,does a pigeon have wings,Yes
+796,a pigeon has wings,Yes
+797,does a pigeon have a wing,Yes
+798,a pigeon has a wing,Yes
+799,does a pigeon have a beak,Yes
+800,a pigeon has a beak,Yes
+801,does a pigeon live underwater,No
+802,a pigeon lives underwater,No
+803,does a pigeon live in the water,No
+804,a pigeon lives in the water,No
+805,a pigeon can be found underwater,No
+806,a pigeon can be found in the water,No
+807,a pigeon swims,No
+808,can a pigeon swim,No
+809,a pigeon is capable of swimming,No
+810,a pigeon has fins,No
+811,does a pigeon have fins,No
+812,a pigeon has a fin,No
+813,does a pigeon have a wing.1,No
+814,does a seabird fly,Yes
+815,can a seabird fly,Yes
+816,a seabird flies,Yes
+817,does a seabird have wings,Yes
+818,a seabird has wings,Yes
+819,does a seabird have a wing,Yes
+820,a seabird has a wing,Yes
+821,does a seabird have a beak,Yes
+822,a seabird has a beak,Yes
+823,does a seabird live underwater,No
+824,a seabird lives underwater,No
+825,does a seabird live in the water,No
+826,a seabird lives in the water,No
+827,a seabird can be found underwater,No
+828,a seabird can be found in the water,No
+829,a seabird swims,No
+830,can a seabird swim,No
+831,a seabird is capable of swimming,No
+832,a seabird has fins,No
+833,does a seabird have fins,No
+834,a seabird has a fin,No
+835,does a seabird have a wing.1,No
+836,does a skylark fly,Yes
+837,can a skylark fly,Yes
+838,a skylark flies,Yes
+839,does a skylark have wings,Yes
+840,a skylark has wings,Yes
+841,does a skylark have a wing,Yes
+842,a skylark has a wing,Yes
+843,does a skylark have a beak,Yes
+844,a skylark has a beak,Yes
+845,does a skylark live underwater,No
+846,a skylark lives underwater,No
+847,does a skylark live in the water,No
+848,a skylark lives in the water,No
+849,a skylark can be found underwater,No
+850,a skylark can be found in the water,No
+851,a skylark swims,No
+852,can a skylark swim,No
+853,a skylark is capable of swimming,No
+854,a skylark has fins,No
+855,does a skylark have fins,No
+856,a skylark has a fin,No
+857,does a skylark have a wing.1,No
+858,does a songbird fly,Yes
+859,can a songbird fly,Yes
+860,a songbird flies,Yes
+861,does a songbird have wings,Yes
+862,a songbird has wings,Yes
+863,does a songbird have a wing,Yes
+864,a songbird has a wing,Yes
+865,does a songbird have a beak,Yes
+866,a songbird has a beak,Yes
+867,does a songbird live underwater,No
+868,a songbird lives underwater,No
+869,does a songbird live in the water,No
+870,a songbird lives in the water,No
+871,a songbird can be found underwater,No
+872,a songbird can be found in the water,No
+873,a songbird swims,No
+874,can a songbird swim,No
+875,a songbird is capable of swimming,No
+876,a songbird has fins,No
+877,does a songbird have fins,No
+878,a songbird has a fin,No
+879,does a songbird have a wing.1,No
+880,does a sparrow fly,Yes
+881,can a sparrow fly,Yes
+882,a sparrow flies,Yes
+883,does a sparrow have wings,Yes
+884,a sparrow has wings,Yes
+885,does a sparrow have a wing,Yes
+886,a sparrow has a wing,Yes
+887,does a sparrow have a beak,Yes
+888,a sparrow has a beak,Yes
+889,does a sparrow live underwater,No
+890,a sparrow lives underwater,No
+891,does a sparrow live in the water,No
+892,a sparrow lives in the water,No
+893,a sparrow can be found underwater,No
+894,a sparrow can be found in the water,No
+895,a sparrow swims,No
+896,can a sparrow swim,No
+897,a sparrow is capable of swimming,No
+898,a sparrow has fins,No
+899,does a sparrow have fins,No
+900,a sparrow has a fin,No
+901,does a sparrow have a wing.1,No
+902,does a stork fly,Yes
+903,can a stork fly,Yes
+904,a stork flies,Yes
+905,does a stork have wings,Yes
+906,a stork has wings,Yes
+907,does a stork have a wing,Yes
+908,a stork has a wing,Yes
+909,does a stork have a beak,Yes
+910,a stork has a beak,Yes
+911,does a stork live underwater,No
+912,a stork lives underwater,No
+913,does a stork live in the water,No
+914,a stork lives in the water,No
+915,a stork can be found underwater,No
+916,a stork can be found in the water,No
+917,a stork swims,No
+918,can a stork swim,No
+919,a stork is capable of swimming,No
+920,a stork has fins,No
+921,does a stork have fins,No
+922,a stork has a fin,No
+923,does a stork have a wing.1,No
+924,does a swan fly,Yes
+925,can a swan fly,Yes
+926,a swan flies,Yes
+927,does a swan have wings,Yes
+928,a swan has wings,Yes
+929,does a swan have a wing,Yes
+930,a swan has a wing,Yes
+931,does a swan have a beak,Yes
+932,a swan has a beak,Yes
+933,does a swan live underwater,No
+934,a swan lives underwater,No
+935,does a swan live in the water,No
+936,a swan lives in the water,No
+937,a swan can be found underwater,No
+938,a swan can be found in the water,No
+939,a swan swims,No
+940,can a swan swim,No
+941,a swan is capable of swimming,No
+942,a swan has fins,No
+943,does a swan have fins,No
+944,a swan has a fin,No
+945,does a swan have a wing.1,No
+946,does a vulture fly,Yes
+947,can a vulture fly,Yes
+948,a vulture flies,Yes
+949,does a vulture have wings,Yes
+950,a vulture has wings,Yes
+951,does a vulture have a wing,Yes
+952,a vulture has a wing,Yes
+953,does a vulture have a beak,Yes
+954,a vulture has a beak,Yes
+955,does a vulture live underwater,No
+956,a vulture lives underwater,No
+957,does a vulture live in the water,No
+958,a vulture lives in the water,No
+959,a vulture can be found underwater,No
+960,a vulture can be found in the water,No
+961,a vulture swims,No
+962,can a vulture swim,No
+963,a vulture is capable of swimming,No
+964,a vulture has fins,No
+965,does a vulture have fins,No
+966,a vulture has a fin,No
+967,does a vulture have a wing.1,No
+968,does a wader fly,Yes
+969,can a wader fly,Yes
+970,a wader flies,Yes
+971,does a wader have wings,Yes
+972,a wader has wings,Yes
+973,does a wader have a wing,Yes
+974,a wader has a wing,Yes
+975,does a wader have a beak,Yes
+976,a wader has a beak,Yes
+977,does a wader live underwater,No
+978,a wader lives underwater,No
+979,does a wader live in the water,No
+980,a wader lives in the water,No
+981,a wader can be found underwater,No
+982,a wader can be found in the water,No
+983,a wader swims,No
+984,can a wader swim,No
+985,a wader is capable of swimming,No
+986,a wader has fins,No
+987,does a wader have fins,No
+988,a wader has a fin,No
+989,does a wader have a wing.1,No
+990,does a mallard fly,Yes
+991,can a mallard fly,Yes
+992,a mallard flies,Yes
+993,does a mallard have wings,Yes
+994,a mallard has wings,Yes
+995,does a mallard have a wing,Yes
+996,a mallard has a wing,Yes
+997,does a mallard have a beak,Yes
+998,a mallard has a beak,Yes
+999,does a mallard live underwater,No
+1000,a mallard lives underwater,No
+1001,does a mallard live in the water,No
+1002,a mallard lives in the water,No
+1003,a mallard can be found underwater,No
+1004,a mallard can be found in the water,No
+1005,a mallard swims,No
+1006,can a mallard swim,No
+1007,a mallard is capable of swimming,No
+1008,a mallard has fins,No
+1009,does a mallard have fins,No
+1010,a mallard has a fin,No
+1011,does a mallard have a wing.1,No
+1012,does a godwit fly,Yes
+1013,can a godwit fly,Yes
+1014,a godwit flies,Yes
+1015,does a godwit have wings,Yes
+1016,a godwit has wings,Yes
+1017,does a godwit have a wing,Yes
+1018,a godwit has a wing,Yes
+1019,does a godwit have a beak,Yes
+1020,a godwit has a beak,Yes
+1021,does a godwit live underwater,No
+1022,a godwit lives underwater,No
+1023,does a godwit live in the water,No
+1024,a godwit lives in the water,No
+1025,a godwit can be found underwater,No
+1026,a godwit can be found in the water,No
+1027,a godwit swims,No
+1028,can a godwit swim,No
+1029,a godwit is capable of swimming,No
+1030,a godwit has fins,No
+1031,does a godwit have fins,No
+1032,a godwit has a fin,No
+1033,does a godwit have a wing.1,No
+1034,does a sternidae fly,Yes
+1035,can a sternidae fly,Yes
+1036,a sternidae flies,Yes
+1037,does a sternidae have wings,Yes
+1038,a sternidae has wings,Yes
+1039,does a sternidae have a wing,Yes
+1040,a sternidae has a wing,Yes
+1041,does a sternidae have a beak,Yes
+1042,a sternidae has a beak,Yes
+1043,does a sternidae live underwater,No
+1044,a sternidae lives underwater,No
+1045,does a sternidae live in the water,No
+1046,a sternidae lives in the water,No
+1047,a sternidae can be found underwater,No
+1048,a sternidae can be found in the water,No
+1049,a sternidae swims,No
+1050,can a sternidae swim,No
+1051,a sternidae is capable of swimming,No
+1052,a sternidae has fins,No
+1053,does a sternidae have fins,No
+1054,a sternidae has a fin,No
+1055,does a sternidae have a wing.1,No
+1056,does a bustard fly,Yes
+1057,can a bustard fly,Yes
+1058,a bustard flies,Yes
+1059,does a bustard have wings,Yes
+1060,a bustard has wings,Yes
+1061,does a bustard have a wing,Yes
+1062,a bustard has a wing,Yes
+1063,does a bustard have a beak,Yes
+1064,a bustard has a beak,Yes
+1065,does a bustard live underwater,No
+1066,a bustard lives underwater,No
+1067,does a bustard live in the water,No
+1068,a bustard lives in the water,No
+1069,a bustard can be found underwater,No
+1070,a bustard can be found in the water,No
+1071,a bustard swims,No
+1072,can a bustard swim,No
+1073,a bustard is capable of swimming,No
+1074,a bustard has fins,No
+1075,does a bustard have fins,No
+1076,a bustard has a fin,No
+1077,does a bustard have a wing.1,No
+1078,does a fish fly,No
+1079,can a fish fly,No
+1080,a fish flies,No
+1081,does a fish have wings,No
+1082,a fish has wings,No
+1083,does a fish have a wing,No
+1084,a fish has a wing,No
+1085,does a fish have a beak,No
+1086,a fish has a beak,No
+1087,does a fish live underwater,Yes
+1088,a fish lives underwater,Yes
+1089,does a fish live in the water,Yes
+1090,a fish lives in the water,Yes
+1091,a fish can be found underwater,Yes
+1092,a fish can be found in the water,Yes
+1093,a fish swims,Yes
+1094,can a fish swim,Yes
+1095,a fish is capable of swimming,Yes
+1096,a fish has fins,Yes
+1097,does a fish have fins,Yes
+1098,a fish has a fin,Yes
+1099,does a fish have a wing.1,Yes
+1100,does a shark fly,No
+1101,can a shark fly,No
+1102,a shark flies,No
+1103,does a shark have wings,No
+1104,a shark has wings,No
+1105,does a shark have a wing,No
+1106,a shark has a wing,No
+1107,does a shark have a beak,No
+1108,a shark has a beak,No
+1109,does a shark live underwater,Yes
+1110,a shark lives underwater,Yes
+1111,does a shark live in the water,Yes
+1112,a shark lives in the water,Yes
+1113,a shark can be found underwater,Yes
+1114,a shark can be found in the water,Yes
+1115,a shark swims,Yes
+1116,can a shark swim,Yes
+1117,a shark is capable of swimming,Yes
+1118,a shark has fins,Yes
+1119,does a shark have fins,Yes
+1120,a shark has a fin,Yes
+1121,does a shark have a wing.1,Yes
+1122,does a tuna fly,No
+1123,can a tuna fly,No
+1124,a tuna flies,No
+1125,does a tuna have wings,No
+1126,a tuna has wings,No
+1127,does a tuna have a wing,No
+1128,a tuna has a wing,No
+1129,does a tuna have a beak,No
+1130,a tuna has a beak,No
+1131,does a tuna live underwater,Yes
+1132,a tuna lives underwater,Yes
+1133,does a tuna live in the water,Yes
+1134,a tuna lives in the water,Yes
+1135,a tuna can be found underwater,Yes
+1136,a tuna can be found in the water,Yes
+1137,a tuna swims,Yes
+1138,can a tuna swim,Yes
+1139,a tuna is capable of swimming,Yes
+1140,a tuna has fins,Yes
+1141,does a tuna have fins,Yes
+1142,a tuna has a fin,Yes
+1143,does a tuna have a wing.1,Yes
+1144,does a salmon fly,No
+1145,can a salmon fly,No
+1146,a salmon flies,No
+1147,does a salmon have wings,No
+1148,a salmon has wings,No
+1149,does a salmon have a wing,No
+1150,a salmon has a wing,No
+1151,does a salmon have a beak,No
+1152,a salmon has a beak,No
+1153,does a salmon live underwater,Yes
+1154,a salmon lives underwater,Yes
+1155,does a salmon live in the water,Yes
+1156,a salmon lives in the water,Yes
+1157,a salmon can be found underwater,Yes
+1158,a salmon can be found in the water,Yes
+1159,a salmon swims,Yes
+1160,can a salmon swim,Yes
+1161,a salmon is capable of swimming,Yes
+1162,a salmon has fins,Yes
+1163,does a salmon have fins,Yes
+1164,a salmon has a fin,Yes
+1165,does a salmon have a wing.1,Yes
+1166,does a octupus fly,No
+1167,can a octupus fly,No
+1168,a octupus flies,No
+1169,does a octupus have wings,No
+1170,a octupus has wings,No
+1171,does a octupus have a wing,No
+1172,a octupus has a wing,No
+1173,does a octupus have a beak,No
+1174,a octupus has a beak,No
+1175,does a octupus live underwater,Yes
+1176,a octupus lives underwater,Yes
+1177,does a octupus live in the water,Yes
+1178,a octupus lives in the water,Yes
+1179,a octupus can be found underwater,Yes
+1180,a octupus can be found in the water,Yes
+1181,a octupus swims,Yes
+1182,can a octupus swim,Yes
+1183,a octupus is capable of swimming,Yes
+1184,a octupus has fins,Yes
+1185,does a octupus have fins,Yes
+1186,a octupus has a fin,Yes
+1187,does a octupus have a wing.1,Yes
+1188,does a barracuda fly,No
+1189,can a barracuda fly,No
+1190,a barracuda flies,No
+1191,does a barracuda have wings,No
+1192,a barracuda has wings,No
+1193,does a barracuda have a wing,No
+1194,a barracuda has a wing,No
+1195,does a barracuda have a beak,No
+1196,a barracuda has a beak,No
+1197,does a barracuda live underwater,Yes
+1198,a barracuda lives underwater,Yes
+1199,does a barracuda live in the water,Yes
+1200,a barracuda lives in the water,Yes
+1201,a barracuda can be found underwater,Yes
+1202,a barracuda can be found in the water,Yes
+1203,a barracuda swims,Yes
+1204,can a barracuda swim,Yes
+1205,a barracuda is capable of swimming,Yes
+1206,a barracuda has fins,Yes
+1207,does a barracuda have fins,Yes
+1208,a barracuda has a fin,Yes
+1209,does a barracuda have a wing.1,Yes
+1210,does a codfish fly,No
+1211,can a codfish fly,No
+1212,a codfish flies,No
+1213,does a codfish have wings,No
+1214,a codfish has wings,No
+1215,does a codfish have a wing,No
+1216,a codfish has a wing,No
+1217,does a codfish have a beak,No
+1218,a codfish has a beak,No
+1219,does a codfish live underwater,Yes
+1220,a codfish lives underwater,Yes
+1221,does a codfish live in the water,Yes
+1222,a codfish lives in the water,Yes
+1223,a codfish can be found underwater,Yes
+1224,a codfish can be found in the water,Yes
+1225,a codfish swims,Yes
+1226,can a codfish swim,Yes
+1227,a codfish is capable of swimming,Yes
+1228,a codfish has fins,Yes
+1229,does a codfish have fins,Yes
+1230,a codfish has a fin,Yes
+1231,does a codfish have a wing.1,Yes
+1232,does a cuttlefish fly,No
+1233,can a cuttlefish fly,No
+1234,a cuttlefish flies,No
+1235,does a cuttlefish have wings,No
+1236,a cuttlefish has wings,No
+1237,does a cuttlefish have a wing,No
+1238,a cuttlefish has a wing,No
+1239,does a cuttlefish have a beak,No
+1240,a cuttlefish has a beak,No
+1241,does a cuttlefish live underwater,Yes
+1242,a cuttlefish lives underwater,Yes
+1243,does a cuttlefish live in the water,Yes
+1244,a cuttlefish lives in the water,Yes
+1245,a cuttlefish can be found underwater,Yes
+1246,a cuttlefish can be found in the water,Yes
+1247,a cuttlefish swims,Yes
+1248,can a cuttlefish swim,Yes
+1249,a cuttlefish is capable of swimming,Yes
+1250,a cuttlefish has fins,Yes
+1251,does a cuttlefish have fins,Yes
+1252,a cuttlefish has a fin,Yes
+1253,does a cuttlefish have a wing.1,Yes
+1254,does a dolphin fly,No
+1255,can a dolphin fly,No
+1256,a dolphin flies,No
+1257,does a dolphin have wings,No
+1258,a dolphin has wings,No
+1259,does a dolphin have a wing,No
+1260,a dolphin has a wing,No
+1261,does a dolphin have a beak,No
+1262,a dolphin has a beak,No
+1263,does a dolphin live underwater,Yes
+1264,a dolphin lives underwater,Yes
+1265,does a dolphin live in the water,Yes
+1266,a dolphin lives in the water,Yes
+1267,a dolphin can be found underwater,Yes
+1268,a dolphin can be found in the water,Yes
+1269,a dolphin swims,Yes
+1270,can a dolphin swim,Yes
+1271,a dolphin is capable of swimming,Yes
+1272,a dolphin has fins,Yes
+1273,does a dolphin have fins,Yes
+1274,a dolphin has a fin,Yes
+1275,does a dolphin have a wing.1,Yes
+1276,does a eel fly,No
+1277,can a eel fly,No
+1278,a eel flies,No
+1279,does a eel have wings,No
+1280,a eel has wings,No
+1281,does a eel have a wing,No
+1282,a eel has a wing,No
+1283,does a eel have a beak,No
+1284,a eel has a beak,No
+1285,does a eel live underwater,Yes
+1286,a eel lives underwater,Yes
+1287,does a eel live in the water,Yes
+1288,a eel lives in the water,Yes
+1289,a eel can be found underwater,Yes
+1290,a eel can be found in the water,Yes
+1291,a eel swims,Yes
+1292,can a eel swim,Yes
+1293,a eel is capable of swimming,Yes
+1294,a eel has fins,Yes
+1295,does a eel have fins,Yes
+1296,a eel has a fin,Yes
+1297,does a eel have a wing.1,Yes
+1298,does a gar fly,No
+1299,can a gar fly,No
+1300,a gar flies,No
+1301,does a gar have wings,No
+1302,a gar has wings,No
+1303,does a gar have a wing,No
+1304,a gar has a wing,No
+1305,does a gar have a beak,No
+1306,a gar has a beak,No
+1307,does a gar live underwater,Yes
+1308,a gar lives underwater,Yes
+1309,does a gar live in the water,Yes
+1310,a gar lives in the water,Yes
+1311,a gar can be found underwater,Yes
+1312,a gar can be found in the water,Yes
+1313,a gar swims,Yes
+1314,can a gar swim,Yes
+1315,a gar is capable of swimming,Yes
+1316,a gar has fins,Yes
+1317,does a gar have fins,Yes
+1318,a gar has a fin,Yes
+1319,does a gar have a wing.1,Yes
+1320,does a herring fly,No
+1321,can a herring fly,No
+1322,a herring flies,No
+1323,does a herring have wings,No
+1324,a herring has wings,No
+1325,does a herring have a wing,No
+1326,a herring has a wing,No
+1327,does a herring have a beak,No
+1328,a herring has a beak,No
+1329,does a herring live underwater,Yes
+1330,a herring lives underwater,Yes
+1331,does a herring live in the water,Yes
+1332,a herring lives in the water,Yes
+1333,a herring can be found underwater,Yes
+1334,a herring can be found in the water,Yes
+1335,a herring swims,Yes
+1336,can a herring swim,Yes
+1337,a herring is capable of swimming,Yes
+1338,a herring has fins,Yes
+1339,does a herring have fins,Yes
+1340,a herring has a fin,Yes
+1341,does a herring have a wing.1,Yes
+1342,does a piranha fly,No
+1343,can a piranha fly,No
+1344,a piranha flies,No
+1345,does a piranha have wings,No
+1346,a piranha has wings,No
+1347,does a piranha have a wing,No
+1348,a piranha has a wing,No
+1349,does a piranha have a beak,No
+1350,a piranha has a beak,No
+1351,does a piranha live underwater,Yes
+1352,a piranha lives underwater,Yes
+1353,does a piranha live in the water,Yes
+1354,a piranha lives in the water,Yes
+1355,a piranha can be found underwater,Yes
+1356,a piranha can be found in the water,Yes
+1357,a piranha swims,Yes
+1358,can a piranha swim,Yes
+1359,a piranha is capable of swimming,Yes
+1360,a piranha has fins,Yes
+1361,does a piranha have fins,Yes
+1362,a piranha has a fin,Yes
+1363,does a piranha have a wing.1,Yes
+1364,does a bluefish fly,No
+1365,can a bluefish fly,No
+1366,a bluefish flies,No
+1367,does a bluefish have wings,No
+1368,a bluefish has wings,No
+1369,does a bluefish have a wing,No
+1370,a bluefish has a wing,No
+1371,does a bluefish have a beak,No
+1372,a bluefish has a beak,No
+1373,does a bluefish live underwater,Yes
+1374,a bluefish lives underwater,Yes
+1375,does a bluefish live in the water,Yes
+1376,a bluefish lives in the water,Yes
+1377,a bluefish can be found underwater,Yes
+1378,a bluefish can be found in the water,Yes
+1379,a bluefish swims,Yes
+1380,can a bluefish swim,Yes
+1381,a bluefish is capable of swimming,Yes
+1382,a bluefish has fins,Yes
+1383,does a bluefish have fins,Yes
+1384,a bluefish has a fin,Yes
+1385,does a bluefish have a wing.1,Yes
+1386,does a oyster fly,No
+1387,can a oyster fly,No
+1388,a oyster flies,No
+1389,does a oyster have wings,No
+1390,a oyster has wings,No
+1391,does a oyster have a wing,No
+1392,a oyster has a wing,No
+1393,does a oyster have a beak,No
+1394,a oyster has a beak,No
+1395,does a oyster live underwater,Yes
+1396,a oyster lives underwater,Yes
+1397,does a oyster live in the water,Yes
+1398,a oyster lives in the water,Yes
+1399,a oyster can be found underwater,Yes
+1400,a oyster can be found in the water,Yes
+1401,a oyster swims,Yes
+1402,can a oyster swim,Yes
+1403,a oyster is capable of swimming,Yes
+1404,a oyster has fins,Yes
+1405,does a oyster have fins,Yes
+1406,a oyster has a fin,Yes
+1407,does a oyster have a wing.1,Yes
+1408,does a buri fly,No
+1409,can a buri fly,No
+1410,a buri flies,No
+1411,does a buri have wings,No
+1412,a buri has wings,No
+1413,does a buri have a wing,No
+1414,a buri has a wing,No
+1415,does a buri have a beak,No
+1416,a buri has a beak,No
+1417,does a buri live underwater,Yes
+1418,a buri lives underwater,Yes
+1419,does a buri live in the water,Yes
+1420,a buri lives in the water,Yes
+1421,a buri can be found underwater,Yes
+1422,a buri can be found in the water,Yes
+1423,a buri swims,Yes
+1424,can a buri swim,Yes
+1425,a buri is capable of swimming,Yes
+1426,a buri has fins,Yes
+1427,does a buri have fins,Yes
+1428,a buri has a fin,Yes
+1429,does a buri have a wing.1,Yes
+1430,does a knifefish fly,No
+1431,can a knifefish fly,No
+1432,a knifefish flies,No
+1433,does a knifefish have wings,No
+1434,a knifefish has wings,No
+1435,does a knifefish have a wing,No
+1436,a knifefish has a wing,No
+1437,does a knifefish have a beak,No
+1438,a knifefish has a beak,No
+1439,does a knifefish live underwater,Yes
+1440,a knifefish lives underwater,Yes
+1441,does a knifefish live in the water,Yes
+1442,a knifefish lives in the water,Yes
+1443,a knifefish can be found underwater,Yes
+1444,a knifefish can be found in the water,Yes
+1445,a knifefish swims,Yes
+1446,can a knifefish swim,Yes
+1447,a knifefish is capable of swimming,Yes
+1448,a knifefish has fins,Yes
+1449,does a knifefish have fins,Yes
+1450,a knifefish has a fin,Yes
+1451,does a knifefish have a wing.1,Yes
+1452,does a orca fly,No
+1453,can a orca fly,No
+1454,a orca flies,No
+1455,does a orca have wings,No
+1456,a orca has wings,No
+1457,does a orca have a wing,No
+1458,a orca has a wing,No
+1459,does a orca have a beak,No
+1460,a orca has a beak,No
+1461,does a orca live underwater,Yes
+1462,a orca lives underwater,Yes
+1463,does a orca live in the water,Yes
+1464,a orca lives in the water,Yes
+1465,a orca can be found underwater,Yes
+1466,a orca can be found in the water,Yes
+1467,a orca swims,Yes
+1468,can a orca swim,Yes
+1469,a orca is capable of swimming,Yes
+1470,a orca has fins,Yes
+1471,does a orca have fins,Yes
+1472,a orca has a fin,Yes
+1473,does a orca have a wing.1,Yes
+1474,does a starfish fly,No
+1475,can a starfish fly,No
+1476,a starfish flies,No
+1477,does a starfish have wings,No
+1478,a starfish has wings,No
+1479,does a starfish have a wing,No
+1480,a starfish has a wing,No
+1481,does a starfish have a beak,No
+1482,a starfish has a beak,No
+1483,does a starfish live underwater,Yes
+1484,a starfish lives underwater,Yes
+1485,does a starfish live in the water,Yes
+1486,a starfish lives in the water,Yes
+1487,a starfish can be found underwater,Yes
+1488,a starfish can be found in the water,Yes
+1489,a starfish swims,Yes
+1490,can a starfish swim,Yes
+1491,a starfish is capable of swimming,Yes
+1492,a starfish has fins,Yes
+1493,does a starfish have fins,Yes
+1494,a starfish has a fin,Yes
+1495,does a starfish have a wing.1,Yes
+1496,does a squid fly,No
+1497,can a squid fly,No
+1498,a squid flies,No
+1499,does a squid have wings,No
+1500,a squid has wings,No
+1501,does a squid have a wing,No
+1502,a squid has a wing,No
+1503,does a squid have a beak,No
+1504,a squid has a beak,No
+1505,does a squid live underwater,Yes
+1506,a squid lives underwater,Yes
+1507,does a squid live in the water,Yes
+1508,a squid lives in the water,Yes
+1509,a squid can be found underwater,Yes
+1510,a squid can be found in the water,Yes
+1511,a squid swims,Yes
+1512,can a squid swim,Yes
+1513,a squid is capable of swimming,Yes
+1514,a squid has fins,Yes
+1515,does a squid have fins,Yes
+1516,a squid has a fin,Yes
+1517,does a squid have a wing.1,Yes
+1518,does a shrimp fly,No
+1519,can a shrimp fly,No
+1520,a shrimp flies,No
+1521,does a shrimp have wings,No
+1522,a shrimp has wings,No
+1523,does a shrimp have a wing,No
+1524,a shrimp has a wing,No
+1525,does a shrimp have a beak,No
+1526,a shrimp has a beak,No
+1527,does a shrimp live underwater,Yes
+1528,a shrimp lives underwater,Yes
+1529,does a shrimp live in the water,Yes
+1530,a shrimp lives in the water,Yes
+1531,a shrimp can be found underwater,Yes
+1532,a shrimp can be found in the water,Yes
+1533,a shrimp swims,Yes
+1534,can a shrimp swim,Yes
+1535,a shrimp is capable of swimming,Yes
+1536,a shrimp has fins,Yes
+1537,does a shrimp have fins,Yes
+1538,a shrimp has a fin,Yes
+1539,does a shrimp have a wing.1,Yes
+1540,does a prawn fly,No
+1541,can a prawn fly,No
+1542,a prawn flies,No
+1543,does a prawn have wings,No
+1544,a prawn has wings,No
+1545,does a prawn have a wing,No
+1546,a prawn has a wing,No
+1547,does a prawn have a beak,No
+1548,a prawn has a beak,No
+1549,does a prawn live underwater,Yes
+1550,a prawn lives underwater,Yes
+1551,does a prawn live in the water,Yes
+1552,a prawn lives in the water,Yes
+1553,a prawn can be found underwater,Yes
+1554,a prawn can be found in the water,Yes
+1555,a prawn swims,Yes
+1556,can a prawn swim,Yes
+1557,a prawn is capable of swimming,Yes
+1558,a prawn has fins,Yes
+1559,does a prawn have fins,Yes
+1560,a prawn has a fin,Yes
+1561,does a prawn have a wing.1,Yes
+1562,does a turtule fly,No
+1563,can a turtule fly,No
+1564,a turtule flies,No
+1565,does a turtule have wings,No
+1566,a turtule has wings,No
+1567,does a turtule have a wing,No
+1568,a turtule has a wing,No
+1569,does a turtule have a beak,No
+1570,a turtule has a beak,No
+1571,does a turtule live underwater,Yes
+1572,a turtule lives underwater,Yes
+1573,does a turtule live in the water,Yes
+1574,a turtule lives in the water,Yes
+1575,a turtule can be found underwater,Yes
+1576,a turtule can be found in the water,Yes
+1577,a turtule swims,Yes
+1578,can a turtule swim,Yes
+1579,a turtule is capable of swimming,Yes
+1580,a turtule has fins,Yes
+1581,does a turtule have fins,Yes
+1582,a turtule has a fin,Yes
+1583,does a turtule have a wing.1,Yes
+1584,does a whale fly,No
+1585,can a whale fly,No
+1586,a whale flies,No
+1587,does a whale have wings,No
+1588,a whale has wings,No
+1589,does a whale have a wing,No
+1590,a whale has a wing,No
+1591,does a whale have a beak,No
+1592,a whale has a beak,No
+1593,does a whale live underwater,Yes
+1594,a whale lives underwater,Yes
+1595,does a whale live in the water,Yes
+1596,a whale lives in the water,Yes
+1597,a whale can be found underwater,Yes
+1598,a whale can be found in the water,Yes
+1599,a whale swims,Yes
+1600,can a whale swim,Yes
+1601,a whale is capable of swimming,Yes
+1602,a whale has fins,Yes
+1603,does a whale have fins,Yes
+1604,a whale has a fin,Yes
+1605,does a whale have a wing.1,Yes
+1606,does a dugongs fly,No
+1607,can a dugongs fly,No
+1608,a dugongs flies,No
+1609,does a dugongs have wings,No
+1610,a dugongs has wings,No
+1611,does a dugongs have a wing,No
+1612,a dugongs has a wing,No
+1613,does a dugongs have a beak,No
+1614,a dugongs has a beak,No
+1615,does a dugongs live underwater,Yes
+1616,a dugongs lives underwater,Yes
+1617,does a dugongs live in the water,Yes
+1618,a dugongs lives in the water,Yes
+1619,a dugongs can be found underwater,Yes
+1620,a dugongs can be found in the water,Yes
+1621,a dugongs swims,Yes
+1622,can a dugongs swim,Yes
+1623,a dugongs is capable of swimming,Yes
+1624,a dugongs has fins,Yes
+1625,does a dugongs have fins,Yes
+1626,a dugongs has a fin,Yes
+1627,does a dugongs have a wing.1,Yes
+1628,does a seal fly,No
+1629,can a seal fly,No
+1630,a seal flies,No
+1631,does a seal have wings,No
+1632,a seal has wings,No
+1633,does a seal have a wing,No
+1634,a seal has a wing,No
+1635,does a seal have a beak,No
+1636,a seal has a beak,No
+1637,does a seal live underwater,Yes
+1638,a seal lives underwater,Yes
+1639,does a seal live in the water,Yes
+1640,a seal lives in the water,Yes
+1641,a seal can be found underwater,Yes
+1642,a seal can be found in the water,Yes
+1643,a seal swims,Yes
+1644,can a seal swim,Yes
+1645,a seal is capable of swimming,Yes
+1646,a seal has fins,Yes
+1647,does a seal have fins,Yes
+1648,a seal has a fin,Yes
+1649,does a seal have a wing.1,Yes
+1650,does a seahorse fly,No
+1651,can a seahorse fly,No
+1652,a seahorse flies,No
+1653,does a seahorse have wings,No
+1654,a seahorse has wings,No
+1655,does a seahorse have a wing,No
+1656,a seahorse has a wing,No
+1657,does a seahorse have a beak,No
+1658,a seahorse has a beak,No
+1659,does a seahorse live underwater,Yes
+1660,a seahorse lives underwater,Yes
+1661,does a seahorse live in the water,Yes
+1662,a seahorse lives in the water,Yes
+1663,a seahorse can be found underwater,Yes
+1664,a seahorse can be found in the water,Yes
+1665,a seahorse swims,Yes
+1666,can a seahorse swim,Yes
+1667,a seahorse is capable of swimming,Yes
+1668,a seahorse has fins,Yes
+1669,does a seahorse have fins,Yes
+1670,a seahorse has a fin,Yes
+1671,does a seahorse have a wing.1,Yes
+1672,does a rorqual fly,No
+1673,can a rorqual fly,No
+1674,a rorqual flies,No
+1675,does a rorqual have wings,No
+1676,a rorqual has wings,No
+1677,does a rorqual have a wing,No
+1678,a rorqual has a wing,No
+1679,does a rorqual have a beak,No
+1680,a rorqual has a beak,No
+1681,does a rorqual live underwater,Yes
+1682,a rorqual lives underwater,Yes
+1683,does a rorqual live in the water,Yes
+1684,a rorqual lives in the water,Yes
+1685,a rorqual can be found underwater,Yes
+1686,a rorqual can be found in the water,Yes
+1687,a rorqual swims,Yes
+1688,can a rorqual swim,Yes
+1689,a rorqual is capable of swimming,Yes
+1690,a rorqual has fins,Yes
+1691,does a rorqual have fins,Yes
+1692,a rorqual has a fin,Yes
+1693,does a rorqual have a wing.1,Yes
+1694,does a porpoise fly,No
+1695,can a porpoise fly,No
+1696,a porpoise flies,No
+1697,does a porpoise have wings,No
+1698,a porpoise has wings,No
+1699,does a porpoise have a wing,No
+1700,a porpoise has a wing,No
+1701,does a porpoise have a beak,No
+1702,a porpoise has a beak,No
+1703,does a porpoise live underwater,Yes
+1704,a porpoise lives underwater,Yes
+1705,does a porpoise live in the water,Yes
+1706,a porpoise lives in the water,Yes
+1707,a porpoise can be found underwater,Yes
+1708,a porpoise can be found in the water,Yes
+1709,a porpoise swims,Yes
+1710,can a porpoise swim,Yes
+1711,a porpoise is capable of swimming,Yes
+1712,a porpoise has fins,Yes
+1713,does a porpoise have fins,Yes
+1714,a porpoise has a fin,Yes
+1715,does a porpoise have a wing.1,Yes
+1716,does a yellowfin fly,No
+1717,can a yellowfin fly,No
+1718,a yellowfin flies,No
+1719,does a yellowfin have wings,No
+1720,a yellowfin has wings,No
+1721,does a yellowfin have a wing,No
+1722,a yellowfin has a wing,No
+1723,does a yellowfin have a beak,No
+1724,a yellowfin has a beak,No
+1725,does a yellowfin live underwater,Yes
+1726,a yellowfin lives underwater,Yes
+1727,does a yellowfin live in the water,Yes
+1728,a yellowfin lives in the water,Yes
+1729,a yellowfin can be found underwater,Yes
+1730,a yellowfin can be found in the water,Yes
+1731,a yellowfin swims,Yes
+1732,can a yellowfin swim,Yes
+1733,a yellowfin is capable of swimming,Yes
+1734,a yellowfin has fins,Yes
+1735,does a yellowfin have fins,Yes
+1736,a yellowfin has a fin,Yes
+1737,does a yellowfin have a wing.1,Yes
+1738,does a whitefish fly,No
+1739,can a whitefish fly,No
+1740,a whitefish flies,No
+1741,does a whitefish have wings,No
+1742,a whitefish has wings,No
+1743,does a whitefish have a wing,No
+1744,a whitefish has a wing,No
+1745,does a whitefish have a beak,No
+1746,a whitefish has a beak,No
+1747,does a whitefish live underwater,Yes
+1748,a whitefish lives underwater,Yes
+1749,does a whitefish live in the water,Yes
+1750,a whitefish lives in the water,Yes
+1751,a whitefish can be found underwater,Yes
+1752,a whitefish can be found in the water,Yes
+1753,a whitefish swims,Yes
+1754,can a whitefish swim,Yes
+1755,a whitefish is capable of swimming,Yes
+1756,a whitefish has fins,Yes
+1757,does a whitefish have fins,Yes
+1758,a whitefish has a fin,Yes
+1759,does a whitefish have a wing.1,Yes
+1760,does a stonefish fly,No
+1761,can a stonefish fly,No
+1762,a stonefish flies,No
+1763,does a stonefish have wings,No
+1764,a stonefish has wings,No
+1765,does a stonefish have a wing,No
+1766,a stonefish has a wing,No
+1767,does a stonefish have a beak,No
+1768,a stonefish has a beak,No
+1769,does a stonefish live underwater,Yes
+1770,a stonefish lives underwater,Yes
+1771,does a stonefish live in the water,Yes
+1772,a stonefish lives in the water,Yes
+1773,a stonefish can be found underwater,Yes
+1774,a stonefish can be found in the water,Yes
+1775,a stonefish swims,Yes
+1776,can a stonefish swim,Yes
+1777,a stonefish is capable of swimming,Yes
+1778,a stonefish has fins,Yes
+1779,does a stonefish have fins,Yes
+1780,a stonefish has a fin,Yes
+1781,does a stonefish have a wing.1,Yes
+1782,does a swordfish fly,No
+1783,can a swordfish fly,No
+1784,a swordfish flies,No
+1785,does a swordfish have wings,No
+1786,a swordfish has wings,No
+1787,does a swordfish have a wing,No
+1788,a swordfish has a wing,No
+1789,does a swordfish have a beak,No
+1790,a swordfish has a beak,No
+1791,does a swordfish live underwater,Yes
+1792,a swordfish lives underwater,Yes
+1793,does a swordfish live in the water,Yes
+1794,a swordfish lives in the water,Yes
+1795,a swordfish can be found underwater,Yes
+1796,a swordfish can be found in the water,Yes
+1797,a swordfish swims,Yes
+1798,can a swordfish swim,Yes
+1799,a swordfish is capable of swimming,Yes
+1800,a swordfish has fins,Yes
+1801,does a swordfish have fins,Yes
+1802,a swordfish has a fin,Yes
+1803,does a swordfish have a wing.1,Yes
+1804,does a spearfish fly,No
+1805,can a spearfish fly,No
+1806,a spearfish flies,No
+1807,does a spearfish have wings,No
+1808,a spearfish has wings,No
+1809,does a spearfish have a wing,No
+1810,a spearfish has a wing,No
+1811,does a spearfish have a beak,No
+1812,a spearfish has a beak,No
+1813,does a spearfish live underwater,Yes
+1814,a spearfish lives underwater,Yes
+1815,does a spearfish live in the water,Yes
+1816,a spearfish lives in the water,Yes
+1817,a spearfish can be found underwater,Yes
+1818,a spearfish can be found in the water,Yes
+1819,a spearfish swims,Yes
+1820,can a spearfish swim,Yes
+1821,a spearfish is capable of swimming,Yes
+1822,a spearfish has fins,Yes
+1823,does a spearfish have fins,Yes
+1824,a spearfish has a fin,Yes
+1825,does a spearfish have a wing.1,Yes
+1826,does a snook fly,No
+1827,can a snook fly,No
+1828,a snook flies,No
+1829,does a snook have wings,No
+1830,a snook has wings,No
+1831,does a snook have a wing,No
+1832,a snook has a wing,No
+1833,does a snook have a beak,No
+1834,a snook has a beak,No
+1835,does a snook live underwater,Yes
+1836,a snook lives underwater,Yes
+1837,does a snook live in the water,Yes
+1838,a snook lives in the water,Yes
+1839,a snook can be found underwater,Yes
+1840,a snook can be found in the water,Yes
+1841,a snook swims,Yes
+1842,can a snook swim,Yes
+1843,a snook is capable of swimming,Yes
+1844,a snook has fins,Yes
+1845,does a snook have fins,Yes
+1846,a snook has a fin,Yes
+1847,does a snook have a wing.1,Yes
+1848,does a smelt fly,No
+1849,can a smelt fly,No
+1850,a smelt flies,No
+1851,does a smelt have wings,No
+1852,a smelt has wings,No
+1853,does a smelt have a wing,No
+1854,a smelt has a wing,No
+1855,does a smelt have a beak,No
+1856,a smelt has a beak,No
+1857,does a smelt live underwater,Yes
+1858,a smelt lives underwater,Yes
+1859,does a smelt live in the water,Yes
+1860,a smelt lives in the water,Yes
+1861,a smelt can be found underwater,Yes
+1862,a smelt can be found in the water,Yes
+1863,a smelt swims,Yes
+1864,can a smelt swim,Yes
+1865,a smelt is capable of swimming,Yes
+1866,a smelt has fins,Yes
+1867,does a smelt have fins,Yes
+1868,a smelt has a fin,Yes
+1869,does a smelt have a wing.1,Yes
+1870,does a porgy fly,No
+1871,can a porgy fly,No
+1872,a porgy flies,No
+1873,does a porgy have wings,No
+1874,a porgy has wings,No
+1875,does a porgy have a wing,No
+1876,a porgy has a wing,No
+1877,does a porgy have a beak,No
+1878,a porgy has a beak,No
+1879,does a porgy live underwater,Yes
+1880,a porgy lives underwater,Yes
+1881,does a porgy live in the water,Yes
+1882,a porgy lives in the water,Yes
+1883,a porgy can be found underwater,Yes
+1884,a porgy can be found in the water,Yes
+1885,a porgy swims,Yes
+1886,can a porgy swim,Yes
+1887,a porgy is capable of swimming,Yes
+1888,a porgy has fins,Yes
+1889,does a porgy have fins,Yes
+1890,a porgy has a fin,Yes
+1891,does a porgy have a wing.1,Yes
+1892,does a pomfret fly,No
+1893,can a pomfret fly,No
+1894,a pomfret flies,No
+1895,does a pomfret have wings,No
+1896,a pomfret has wings,No
+1897,does a pomfret have a wing,No
+1898,a pomfret has a wing,No
+1899,does a pomfret have a beak,No
+1900,a pomfret has a beak,No
+1901,does a pomfret live underwater,Yes
+1902,a pomfret lives underwater,Yes
+1903,does a pomfret live in the water,Yes
+1904,a pomfret lives in the water,Yes
+1905,a pomfret can be found underwater,Yes
+1906,a pomfret can be found in the water,Yes
+1907,a pomfret swims,Yes
+1908,can a pomfret swim,Yes
+1909,a pomfret is capable of swimming,Yes
+1910,a pomfret has fins,Yes
+1911,does a pomfret have fins,Yes
+1912,a pomfret has a fin,Yes
+1913,does a pomfret have a wing.1,Yes
+1914,does a ling fly,No
+1915,can a ling fly,No
+1916,a ling flies,No
+1917,does a ling have wings,No
+1918,a ling has wings,No
+1919,does a ling have a wing,No
+1920,a ling has a wing,No
+1921,does a ling have a beak,No
+1922,a ling has a beak,No
+1923,does a ling live underwater,Yes
+1924,a ling lives underwater,Yes
+1925,does a ling live in the water,Yes
+1926,a ling lives in the water,Yes
+1927,a ling can be found underwater,Yes
+1928,a ling can be found in the water,Yes
+1929,a ling swims,Yes
+1930,can a ling swim,Yes
+1931,a ling is capable of swimming,Yes
+1932,a ling has fins,Yes
+1933,does a ling have fins,Yes
+1934,a ling has a fin,Yes
+1935,does a ling have a wing.1,Yes
+1936,does a kingfish fly,No
+1937,can a kingfish fly,No
+1938,a kingfish flies,No
+1939,does a kingfish have wings,No
+1940,a kingfish has wings,No
+1941,does a kingfish have a wing,No
+1942,a kingfish has a wing,No
+1943,does a kingfish have a beak,No
+1944,a kingfish has a beak,No
+1945,does a kingfish live underwater,Yes
+1946,a kingfish lives underwater,Yes
+1947,does a kingfish live in the water,Yes
+1948,a kingfish lives in the water,Yes
+1949,a kingfish can be found underwater,Yes
+1950,a kingfish can be found in the water,Yes
+1951,a kingfish swims,Yes
+1952,can a kingfish swim,Yes
+1953,a kingfish is capable of swimming,Yes
+1954,a kingfish has fins,Yes
+1955,does a kingfish have fins,Yes
+1956,a kingfish has a fin,Yes
+1957,does a kingfish have a wing.1,Yes
+1958,does a hogfish fly,No
+1959,can a hogfish fly,No
+1960,a hogfish flies,No
+1961,does a hogfish have wings,No
+1962,a hogfish has wings,No
+1963,does a hogfish have a wing,No
+1964,a hogfish has a wing,No
+1965,does a hogfish have a beak,No
+1966,a hogfish has a beak,No
+1967,does a hogfish live underwater,Yes
+1968,a hogfish lives underwater,Yes
+1969,does a hogfish live in the water,Yes
+1970,a hogfish lives in the water,Yes
+1971,a hogfish can be found underwater,Yes
+1972,a hogfish can be found in the water,Yes
+1973,a hogfish swims,Yes
+1974,can a hogfish swim,Yes
+1975,a hogfish is capable of swimming,Yes
+1976,a hogfish has fins,Yes
+1977,does a hogfish have fins,Yes
+1978,a hogfish has a fin,Yes
+1979,does a hogfish have a wing.1,Yes
+1980,does a jawfish fly,No
+1981,can a jawfish fly,No
+1982,a jawfish flies,No
+1983,does a jawfish have wings,No
+1984,a jawfish has wings,No
+1985,does a jawfish have a wing,No
+1986,a jawfish has a wing,No
+1987,does a jawfish have a beak,No
+1988,a jawfish has a beak,No
+1989,does a jawfish live underwater,Yes
+1990,a jawfish lives underwater,Yes
+1991,does a jawfish live in the water,Yes
+1992,a jawfish lives in the water,Yes
+1993,a jawfish can be found underwater,Yes
+1994,a jawfish can be found in the water,Yes
+1995,a jawfish swims,Yes
+1996,can a jawfish swim,Yes
+1997,a jawfish is capable of swimming,Yes
+1998,a jawfish has fins,Yes
+1999,does a jawfish have fins,Yes
+2000,a jawfish has a fin,Yes
+2001,does a jawfish have a wing.1,Yes
+2002,does a carp fly,No
+2003,can a carp fly,No
+2004,a carp flies,No
+2005,does a carp have wings,No
+2006,a carp has wings,No
+2007,does a carp have a wing,No
+2008,a carp has a wing,No
+2009,does a carp have a beak,No
+2010,a carp has a beak,No
+2011,does a carp live underwater,Yes
+2012,a carp lives underwater,Yes
+2013,does a carp live in the water,Yes
+2014,a carp lives in the water,Yes
+2015,a carp can be found underwater,Yes
+2016,a carp can be found in the water,Yes
+2017,a carp swims,Yes
+2018,can a carp swim,Yes
+2019,a carp is capable of swimming,Yes
+2020,a carp has fins,Yes
+2021,does a carp have fins,Yes
+2022,a carp has a fin,Yes
+2023,does a carp have a wing.1,Yes
+2024,does a burbot fly,No
+2025,can a burbot fly,No
+2026,a burbot flies,No
+2027,does a burbot have wings,No
+2028,a burbot has wings,No
+2029,does a burbot have a wing,No
+2030,a burbot has a wing,No
+2031,does a burbot have a beak,No
+2032,a burbot has a beak,No
+2033,does a burbot live underwater,Yes
+2034,a burbot lives underwater,Yes
+2035,does a burbot live in the water,Yes
+2036,a burbot lives in the water,Yes
+2037,a burbot can be found underwater,Yes
+2038,a burbot can be found in the water,Yes
+2039,a burbot swims,Yes
+2040,can a burbot swim,Yes
+2041,a burbot is capable of swimming,Yes
+2042,a burbot has fins,Yes
+2043,does a burbot have fins,Yes
+2044,a burbot has a fin,Yes
+2045,does a burbot have a wing.1,Yes
+2046,does a burrfish fly,No
+2047,can a burrfish fly,No
+2048,a burrfish flies,No
+2049,does a burrfish have wings,No
+2050,a burrfish has wings,No
+2051,does a burrfish have a wing,No
+2052,a burrfish has a wing,No
+2053,does a burrfish have a beak,No
+2054,a burrfish has a beak,No
+2055,does a burrfish live underwater,Yes
+2056,a burrfish lives underwater,Yes
+2057,does a burrfish live in the water,Yes
+2058,a burrfish lives in the water,Yes
+2059,a burrfish can be found underwater,Yes
+2060,a burrfish can be found in the water,Yes
+2061,a burrfish swims,Yes
+2062,can a burrfish swim,Yes
+2063,a burrfish is capable of swimming,Yes
+2064,a burrfish has fins,Yes
+2065,does a burrfish have fins,Yes
+2066,a burrfish has a fin,Yes
+2067,does a burrfish have a wing.1,Yes
+2068,does a bluefin fly,No
+2069,can a bluefin fly,No
+2070,a bluefin flies,No
+2071,does a bluefin have wings,No
+2072,a bluefin has wings,No
+2073,does a bluefin have a wing,No
+2074,a bluefin has a wing,No
+2075,does a bluefin have a beak,No
+2076,a bluefin has a beak,No
+2077,does a bluefin live underwater,Yes
+2078,a bluefin lives underwater,Yes
+2079,does a bluefin live in the water,Yes
+2080,a bluefin lives in the water,Yes
+2081,a bluefin can be found underwater,Yes
+2082,a bluefin can be found in the water,Yes
+2083,a bluefin swims,Yes
+2084,can a bluefin swim,Yes
+2085,a bluefin is capable of swimming,Yes
+2086,a bluefin has fins,Yes
+2087,does a bluefin have fins,Yes
+2088,a bluefin has a fin,Yes
+2089,does a bluefin have a wing.1,Yes
+2090,does a anchovy fly,No
+2091,can a anchovy fly,No
+2092,a anchovy flies,No
+2093,does a anchovy have wings,No
+2094,a anchovy has wings,No
+2095,does a anchovy have a wing,No
+2096,a anchovy has a wing,No
+2097,does a anchovy have a beak,No
+2098,a anchovy has a beak,No
+2099,does a anchovy live underwater,Yes
+2100,a anchovy lives underwater,Yes
+2101,does a anchovy live in the water,Yes
+2102,a anchovy lives in the water,Yes
+2103,a anchovy can be found underwater,Yes
+2104,a anchovy can be found in the water,Yes
+2105,a anchovy swims,Yes
+2106,can a anchovy swim,Yes
+2107,a anchovy is capable of swimming,Yes
+2108,a anchovy has fins,Yes
+2109,does a anchovy have fins,Yes
+2110,a anchovy has a fin,Yes
+2111,does a anchovy have a wing.1,Yes
+2112,does a albacore fly,No
+2113,can a albacore fly,No
+2114,a albacore flies,No
+2115,does a albacore have wings,No
+2116,a albacore has wings,No
+2117,does a albacore have a wing,No
+2118,a albacore has a wing,No
+2119,does a albacore have a beak,No
+2120,a albacore has a beak,No
+2121,does a albacore live underwater,Yes
+2122,a albacore lives underwater,Yes
+2123,does a albacore live in the water,Yes
+2124,a albacore lives in the water,Yes
+2125,a albacore can be found underwater,Yes
+2126,a albacore can be found in the water,Yes
+2127,a albacore swims,Yes
+2128,can a albacore swim,Yes
+2129,a albacore is capable of swimming,Yes
+2130,a albacore has fins,Yes
+2131,does a albacore have fins,Yes
+2132,a albacore has a fin,Yes
+2133,does a albacore have a wing.1,Yes
+2134,does a flatfish fly,No
+2135,can a flatfish fly,No
+2136,a flatfish flies,No
+2137,does a flatfish have wings,No
+2138,a flatfish has wings,No
+2139,does a flatfish have a wing,No
+2140,a flatfish has a wing,No
+2141,does a flatfish have a beak,No
+2142,a flatfish has a beak,No
+2143,does a flatfish live underwater,Yes
+2144,a flatfish lives underwater,Yes
+2145,does a flatfish live in the water,Yes
+2146,a flatfish lives in the water,Yes
+2147,a flatfish can be found underwater,Yes
+2148,a flatfish can be found in the water,Yes
+2149,a flatfish swims,Yes
+2150,can a flatfish swim,Yes
+2151,a flatfish is capable of swimming,Yes
+2152,a flatfish has fins,Yes
+2153,does a flatfish have fins,Yes
+2154,a flatfish has a fin,Yes
+2155,does a flatfish have a wing.1,Yes
