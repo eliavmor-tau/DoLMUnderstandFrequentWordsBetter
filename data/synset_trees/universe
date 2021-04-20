@@ -1,9 +1,0 @@
-digraph {
-	universe [label=universe]
-	closed_universe [label=closed_universe]
-	universe -> closed_universe
-	natural_order [label=natural_order]
-	universe -> natural_order
-	nature [label=nature]
-	universe -> nature
-}

@@ -121,7 +121,7 @@ class YesNoQuestionAnswering(pl.LightningModule):
         return dataloader
 
 
-def my_train_model(config):
+def train_model_without_lighting(config):
     tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
     model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config, device=config["device"])
@@ -191,14 +191,14 @@ def train_model(config):
         pickle.dump(model.model_validation_loss, f)
 
 
-def test_model(config, model, tokenizer, output_path):
+def test_model(config, model, tokenizer, csv_path, output_path):
     print("Test Model")
     print(config.get("test_data"))
     device = config["device"]
     print("Load checkpoint")
     model = model.to(device)
     model.eval()
-    data_set = YesNoDataSet(csv_path=config.get("test_data", "csv/test_questions.csv"), tokenizer=tokenizer, max_length=config["max_length"])
+    data_set = YesNoDataSet(csv_path=csv_path, tokenizer=tokenizer, max_length=config["max_length"])
     data_loader = DataLoader(data_set, batch_size=config.get("batch_size"), shuffle=True)
 
     accuracy = 0.0
@@ -243,12 +243,11 @@ if __name__ == "__main__":
         "max_epochs": 30,
         "device": "cuda" if torch.cuda.is_available() else "cpu",
         "batch_size": 8,
-        "train_data": "csv/train_no_animals_and_fruits_questions.csv",
-        "test_data": "csv/animals_dont_live_underwater_questions.csv",
-        "dev_data": "csv/val_no_animals_and_fruits_questions.csv",
+        "train_data": "csv/train_questions.csv",
+        "test_data": ["csv/test_questions.csv"],
+        "dev_data": "csv/val_questions.csv",
         "lr": 1e-4,
         #"checkpoint": None,
-        # good checkpoint 
         #"checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
         #"checkpoint": "checkpoint/checkpoint-epoch=1-step=11787.ckpt",
         "checkpoint": "checkpoint/checkpoint-epoch=0-steps=11788.ckpt",
@@ -264,20 +263,14 @@ if __name__ == "__main__":
     print("- Config -")
     for k, v in config.items():
         print(f"{k}: {v}")
-    
+
+    with_lighting = False
     if config.get("train", True):
-        # train_model(config)
-        my_train_model(config)
+        if with_lighting:
+            train_model_without_lighting(config)
+        else:
+            train_model(config)
     else:
-        test_files = ["csv/animals_have_a_beak", "csv/animals_have_horns", "csv/animals_have_fins",
-               "csv/animals_have_wings", "csv/animals_have_feathers", "csv/animals_have_fur",
-               "csv/animals_have_hair", "csv/animals_live_underwater", "csv/animals_can_fly",
-               "csv/animals_dont_have_a_beak", "csv/animals_dont_have_horns", "csv/animals_dont_have_fins",
-                "csv/animals_dont_have_wings", "csv/animals_dont_have_feathers",
-               "csv/animals_dont_have_fur", "csv/animals_dont_have_hair", "csv/animals_dont_live_underwater",
-               "csv/animals_cant_fly"]
-        test_files = ["csv/animals_even_properties"]
-        
         tokenizer = T5Tokenizer.from_pretrained(config.get("model_name"), cache_dir="../cache/")
         model = T5ForConditionalGeneration.from_pretrained(config.get("model_name"), cache_dir="../cache/")
         model = YesNoQuestionAnswering(tokenizer=tokenizer, model=model, config=config)
@@ -285,7 +278,5 @@ if __name__ == "__main__":
             checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
             model.load_state_dict(checkpoint)
 
-        for f in test_files:
-            config["test_data"] = f"{f}_questions.csv"
-           # config["test_data"] = f"{f}"
-            test_model(config, model, tokenizer, config["test_data"].replace(".csv", "_result.csv").replace("csv/", "csv/results/"))
+        for f in config["test_questions"]:
+            test_model(config, model, tokenizer, f.replace(".csv", "_result.csv").replace("csv/", "csv/results/"), csv_path=f)

@@ -1,5 +1,0 @@
-digraph {
-	sea [label=sea]
-	south_sea [label=south_sea]
-	sea -> south_sea
-}
