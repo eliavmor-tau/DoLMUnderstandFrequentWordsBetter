@@ -237,6 +237,7 @@ if __name__ == "__main__":
 
     torch.cuda.empty_cache()
     config = {
+        # Change train = True for the first time you run this code.
         "train": False,
         "model_name": "t5-base",
         "gpus": 1,
@@ -250,6 +251,7 @@ if __name__ == "__main__":
         #"checkpoint": None,
         #"checkpoint": "checkpoint/checkpoint-epoch=1-step=20645.ckpt",
         #"checkpoint": "checkpoint/checkpoint-epoch=1-step=11787.ckpt",
+        # Change to none when running this code for the first time you run this code.
         "checkpoint": "checkpoint/checkpoint-epoch=0-steps=11788.ckpt",
         "gradient_clip_val": 1.0,
         "gradient_accumulation_steps" : 16,
