@@ -280,5 +280,5 @@ if __name__ == "__main__":
             checkpoint = torch.load(config.get("checkpoint"), map_location=torch.device(config.get("device")))
             model.load_state_dict(checkpoint)
 
-        for f in config["test_questions"]:
-            test_model(config, model, tokenizer, f.replace(".csv", "_result.csv").replace("csv/", "csv/results/"), csv_path=f)
+        for f in config["test_data"]:
+            test_model(config, model, tokenizer, output_path=f.replace(".csv", "_result.csv").replace("csv/", "csv/results/"), csv_path=f)
