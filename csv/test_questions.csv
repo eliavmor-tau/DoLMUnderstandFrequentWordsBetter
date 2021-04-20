@@ -1,0 +1,3109 @@
+,question,label
+0,a hen has a wing,Yes
+1,does a lion have a wing,No
+2,a hippopotamus has horns,No
+3,fur is part of a jaguar body,Yes
+4,a cat has fur,Yes
+5,does a smelt live underwater,Yes
+6,a dog has a horn,No
+7,a duck lives underwater,No
+8,a bharal has horns,Yes
+9,a lizard has a beak,No
+10,a giraffe can be found in the water,No
+11,can a hummingbird fly,Yes
+12,does a sparrow have wings,Yes
+13,are feathers related to a rottweiler,No
+14,a falcon has wings,Yes
+15,a ram has wings,No
+16,a stork has feathers,Yes
+17,a elephant can be found underwater,No
+18,a bird has feathers,Yes
+19,does a lion have horns,No
+20,does a sheep have a beak,No
+21,a tarantula has a horn,No
+22,does a gar live in the water,Yes
+23,does a giraffe have a wing,No
+24,does a zebra live underwater,No
+25,a swan can be found underwater,No
+26,does a hippopotamus have hair,No
+27,does a shrimp have hair,No
+28,does a camel have a wing,No
+29,fur is part of a ant body,No
+30,does a cat live underwater,No
+31,does a monkey live underwater,No
+32,does a poodle fly,No
+33,a spider has a horn,No
+34,does a horse have fur,Yes
+35,hair is a part of a tuna body,No
+36,a gnu can be found in the water,No
+37,a fish has fur,No
+38,a bushtit has a wing,Yes
+39,does a puma have wings,No
+40,a fish can be found in the water,Yes
+41,a codfish has a beak,No
+42,does a pomeranian have wings,No
+43,fur is part of a caterpillar body,No
+44,fur is part of a songbird body,No
+45,a codfish has wings,No
+46,a poodle flies,No
+47,a worm lives in the water,No
+48,does a sheep live in the water,No
+49,a snail flies,No
+50,does a giraffe have feathers,No
+51,a salmon has fur,No
+52,a bull has wings,No
+53,can a cotinga fly,Yes
+54,does a dugongs have a fin,Yes
+55,fur is part of a pinscher body,Yes
+56,hair is a part of a sponge body,No
+57,a zebra has feathers,No
+58,a pelican has feathers,Yes
+59,a goldfish has a fin,Yes
+60,a hen lives in the water,No
+61,a zebra flies,No
+62,a sheep can be found underwater,No
+63,a alpaca has a horn,Yes
+64,a tarantula has hair,No
+65,a macaw has a wing,Yes
+66,a buri lives underwater,Yes
+67,a frog has a horn,No
+68,does a leopard have a wing,No
+69,a chihuahua has hair,Yes
+70,does a wader have a wing,Yes
+71,a cow has wings,No
+72,hair is a part of a hippopotamus body,No
+73,a flamingo has hair,No
+74,does a sparrow have hair,No
+75,a turtule can be found in the water,Yes
+76,a rat has fins,No
+77,a dog has a fin,No
+78,does a lobster have hair,No
+79,does a snake have feathers,No
+80,a reindeer has horns,Yes
+81,does a oyster have fur,No
+82,can a lizard fly,No
+83,does a poodle have a wing,No
+84,a macaw has a beak,Yes
+85,a porgy has fins,Yes
+86,does a bird have horns,No
+87,does a dog have hair,Yes
+88,a chicken has feathers,Yes
+89,can a bustard fly,Yes
+90,does a whitefish live underwater,Yes
+91,does a hawk have a wing,Yes
+92,does a tiger have fur,Yes
+93,a flamingo has a horn,No
+94,fur is part of a crocodile body,No
+95,a monkey lives in the water,No
+96,does a finch live in the water,No
+97,a cat has fins,No
+98,a anchovy has fins,Yes
+99,a bluefish has a fin,Yes
+100,a buffalo has a horn,Yes
+101,a chicken has a beak,Yes
+102,does a snail have fins,No
+103,does a salamander have a horn,No
+104,does a whale have a fin,Yes
+105,can a codfish fly,No
+106,a jay flies,Yes
+107,does a wildbeest have horns,Yes
+108,a vulture has feathers,Yes
+109,does a collie have fur,Yes
+110,does a bushtit have feathers,Yes
+111,a peacock has a wing,Yes
+112,does a conger have fins,Yes
+113,fur is part of a rabbit body,Yes
+114,a bear has a wing,No
+115,a oryx has horns,Yes
+116,does a gull have horns,No
+117,can a grackle fly,Yes
+118,a snail can be found in the water,No
+119,a elephant has wings,No
+120,does a camel have wings,No
+121,can a hawk fly,Yes
+122,does a goose have feathers,Yes
+123,fur is part of a mule body,Yes
+124,does a monkey fly,No
+125,a labrador has feathers,No
+126,a snake has a beak,No
+127,are feathers related to a wader,Yes
+128,a dolphin can be found underwater,Yes
+129,does a antelope have a horn,Yes
+130,does a tuna live underwater,Yes
+131,does a cotinga fly,Yes
+132,does a wolf have fins,No
+133,a sparrow has hair,No
+134,does a bat live in the water,No
+135,a owl has fins,No
+136,a albatrosses has wings,Yes
+137,does a rhino have feathers,No
+138,a bull has a horn,Yes
+139,does a yellowfin have wings,No
+140,a camel has feathers,No
+141,does a pomfret live in the water,Yes
+142,does a ram have a wing,No
+143,does a cowbird fly,Yes
+144,are feathers related to a salmon,No
+145,does a hogfish have a fin,Yes
+146,a tiger can be found underwater,No
+147,a octupus has horns,No
+148,a worm can be found underwater,No
+149,does a porpoise live in the water,Yes
+150,a puma lives underwater,No
+151,does a swan live underwater,No
+152,does a chicken have a beak,Yes
+153,does a dolphin have hair,No
+154,a spearfish lives underwater,Yes
+155,a salmon has hair,No
+156,does a poodle have feathers,No
+157,a dog can be found in the water,No
+158,are feathers related to a fox,No
+159,a goose has wings,Yes
+160,does a prawn live in the water,Yes
+161,hair is a part of a starfish body,No
+162,does a boa have fur,No
+163,does a rat have fins,No
+164,hair is a part of a mouse body,Yes
+165,does a dalmatian have fur,Yes
+166,does a bird have fur,No
+167,does a dove have a wing,Yes
+168,does a goldfish have a fin,Yes
+169,does a cat fly,No
+170,does a spider have a horn,No
+171,a duck has a fin,No
+172,does a goat have a beak,No
+173,does a barracuda live in the water,Yes
+174,a salmon has a fin,Yes
+175,a worm has wings,No
+176,a deer has horns,Yes
+177,does a salmon have fins,Yes
+178,a hourse has a fin,No
+179,a bluefin has fins,Yes
+180,a fox flies,No
+181,does a poodle have fins,No
+182,a piranha lives in the water,Yes
+183,does a deer have hair,Yes
+184,a goat has a beak,No
+185,a horse has fur,Yes
+186,does a snake fly,No
+187,a deer has a horn,Yes
+188,a ox has a horn,Yes
+189,a elephant lives in the water,No
+190,does a ling live in the water,Yes
+191,does a ram have horns,Yes
+192,are feathers related to a snake,No
+193,a boa has a horn,No
+194,does a pigeon fly,Yes
+195,are feathers related to a cotinga,Yes
+196,a eagle has a fin,No
+197,a ape has fur,Yes
+198,a prawn can be found underwater,Yes
+199,does a bull have wings,No
+200,does a tuna have fins,Yes
+201,are feathers related to a hawk,Yes
+202,does a gull fly,Yes
+203,a skylark has feathers,Yes
+204,does a bluegill have fins,Yes
+205,can a wader fly,Yes
+206,a jaguar has a wing,No
+207,does a avocet have feathers,Yes
+208,does a cat have fins,No
+209,fur is part of a kangaroo body,Yes
+210,does a bluefin have a fin,Yes
+211,does a sheep fly,No
+212,a pinscher has hair,Yes
+213,a rat has a horn,No
+214,fur is part of a corgi body,Yes
+215,a eider has a fin,No
+216,does a pelican have wings,Yes
+217,does a fox have hair,Yes
+218,does a pomeranian have feathers,No
+219,a lizard has fur,No
+220,a spearfish lives in the water,Yes
+221,does a vulture have a wing,Yes
+222,a lizard flies,No
+223,does a terrier have fur,Yes
+224,does a swan fly,Yes
+225,does a lizard have a wing,No
+226,does a goose have a beak,Yes
+227,does a skylark have a wing,Yes
+228,a jaguar has hair,Yes
+229,does a hen have a fin,No
+230,a gar has fur,No
+231,a whale has feathers,No
+232,are feathers related to a pomeranian,No
+233,does a tarantula have fur,No
+234,does a songbird have a wing,Yes
+235,a horse has a wing,No
+236,does a seal live underwater,Yes
+237,a pomeranian has wings,No
+238,does a starfish live in the water,Yes
+239,does a snail have a fin,No
+240,a worm can be found in the water,No
+241,does a cow have fins,No
+242,a salmon has wings,No
+243,a seal can be found in the water,Yes
+244,does a crow have feathers,Yes
+245,a turkey has fur,No
+246,a turtule lives in the water,Yes
+247,a kingfish has fins,Yes
+248,a baboon has hair,Yes
+249,a caterpillar has a horn,No
+250,a puma has a beak,No
+251,a lizard has fins,No
+252,can a sheep fly,No
+253,a avocet has feathers,Yes
+254,are feathers related to a horse,No
+255,are feathers related to a hornbill,Yes
+256,a orca can be found in the water,Yes
+257,a tiger has a wing,No
+258,a bulbul has a wing,Yes
+259,fur is part of a camel body,Yes
+260,does a caracal have hair,Yes
+261,does a beagle have feathers,No
+262,does a frog have a beak,No
+263,a dog has a wing,No
+264,hair is a part of a moose body,Yes
+265,does a rhino have horns,Yes
+266,a oyster lives in the water,Yes
+267,does a jaguar have feathers,No
+268,does a goat have a horn,Yes
+269,hair is a part of a zebra body,Yes
+270,does a codfish have hair,No
+271,a snail has horns,No
+272,does a swan have a horn,No
+273,does a skylark have a beak,Yes
+274,a owl can be found in the water,No
+275,does a bat live underwater,No
+276,a puma has wings,No
+277,does a starfish live underwater,Yes
+278,hair is a part of a skunk body,Yes
+279,does a garfish have fins,Yes
+280,a markhor has horns,Yes
+281,does a elephant fly,No
+282,a shark lives underwater,Yes
+283,a rhino has a beak,No
+284,does a gnu have horns,Yes
+285,does a cat have a horn,No
+286,a pomfret has fins,Yes
+287,a cotinga has a beak,Yes
+288,a flatfish lives in the water,Yes
+289,a eel lives in the water,Yes
+290,a donkey has a fin,No
+291,does a gull have a horn,No
+292,does a elephant live underwater,No
+293,does a deer have a beak,No
+294,a fish lives in the water,Yes
+295,a jellyfish has fur,No
+296,does a shrimp live in the water,Yes
+297,does a flamingo have a wing,Yes
+298,a crab has hair,No
+299,does a flamingo have hair,No
+300,does a goldcrest have a wing,Yes
+301,does a skylark live underwater,No
+302,does a lark have a fin,No
+303,does a monkey have a fin,No
+304,hair is a part of a ape body,Yes
+305,a seabird has wings,Yes
+306,a porpoise has fins,Yes
+307,a monkey has fur,Yes
+308,does a wolf live underwater,No
+309,a jaguar flies,No
+310,a mouse has fur,Yes
+311,a condor has wings,Yes
+312,a gull flies,Yes
+313,a swan has wings,Yes
+314,does a rorqual live in the water,Yes
+315,are feathers related to a crow,Yes
+316,a wolf has wings,No
+317,a cow has fins,No
+318,a bat has a beak,Yes
+319,a goldcrest lives underwater,No
+320,can a snake fly,No
+321,a lark flies,Yes
+322,does a turkey have fur,No
+323,a tiger has a horn,No
+324,does a gnu live in the water,No
+325,a knifefish can be found underwater,Yes
+326,a burrfish has fins,Yes
+327,does a elephant have fur,No
+328,are feathers related to a cockatoo,Yes
+329,a whale has hair,No
+330,hair is a part of a roaster body,No
+331,does a donkey have wings,No
+332,does a rottweiler have fur,Yes
+333,a eider has wings,Yes
+334,does a tuna have horns,No
+335,does a zebra have fur,Yes
+336,does a kingfisher have fur,No
+337,does a flatfish have a fin,Yes
+338,a oyster has fins,Yes
+339,does a eider live underwater,No
+340,fur is part of a ape body,Yes
+341,are feathers related to a dog,No
+342,does a bluegill have a fin,Yes
+343,a rorqual lives in the water,Yes
+344,a albatrosses has feathers,Yes
+345,does a moose have a horn,Yes
+346,does a dog have a fin,No
+347,a heron lives underwater,No
+348,does a zebra have wings,No
+349,does a hourse live in the water,No
+350,a cow can be found underwater,No
+351,does a cow have a wing,No
+352,a zebu has a horn,Yes
+353,does a reindeer have horns,Yes
+354,a puma has a horn,No
+355,a frog has hair,No
+356,does a pelican live in the water,No
+357,does a fox have feathers,No
+358,a wader has wings,Yes
+359,does a peacock have wings,Yes
+360,does a seahorse have a fin,Yes
+361,are feathers related to a jellyfish,No
+362,are feathers related to a skylark,Yes
+363,a sternidae flies,Yes
+364,can a labrador fly,No
+365,a yak has a horn,Yes
+366,a sheep has a fin,No
+367,a jaguar has a horn,No
+368,a doberman has fur,Yes
+369,a duck has a wing,Yes
+370,a swan has a beak,Yes
+371,a porgy lives in the water,Yes
+372,does a donkey have a wing,No
+373,does a cat have hair,Yes
+374,does a bear have a wing,No
+375,a swordfish can be found in the water,Yes
+376,does a frog have wings,No
+377,does a sparrow have fur,No
+378,a swordfish has fins,Yes
+379,does a salmon live underwater,Yes
+380,a dove flies,Yes
+381,a horse has a beak,No
+382,a goose has a beak,Yes
+383,a tuna has fur,No
+384,can a eagle fly,Yes
+385,a goldcrest lives in the water,No
+386,a gull has a beak,Yes
+387,a burbot lives in the water,Yes
+388,a anchovy has a fin,Yes
+389,a bird lives underwater,No
+390,does a tuna live in the water,Yes
+391,does a buzzard have wings,Yes
+392,fur is part of a squirrel body,Yes
+393,does a anchovy have a fin,Yes
+394,a pig flies,No
+395,does a rabbit have feathers,No
+396,does a worm have a beak,No
+397,does a finch have a fin,No
+398,a sheep has fins,No
+399,does a oyster have fins,Yes
+400,a camel has fins,No
+401,does a jawfish have a fin,Yes
+402,does a deer have fur,Yes
+403,does a turtule live in the water,Yes
+404,a rabbit has fur,Yes
+405,a yellowfin has a wing,No
+406,a bear has hair,Yes
+407,does a flamingo have a horn,No
+408,a swan has feathers,Yes
+409,a swordfish can be found underwater,Yes
+410,a hornbill flies,Yes
+411,a rabbit can be found in the water,No
+412,a mounflon has horns,Yes
+413,hair is a part of a gar body,No
+414,does a falcon have wings,Yes
+415,does a avocet have a beak,Yes
+416,a iguana has fur,No
+417,does a salamander have hair,No
+418,a eel flies,No
+419,does a monkey have feathers,No
+420,a antelope has a horn,Yes
+421,does a camel have a beak,No
+422,does a owl have wings,Yes
+423,does a takin have a horn,Yes
+424,a cat lives underwater,No
+425,a skylark has wings,Yes
+426,does a doberman have feathers,No
+427,hair is a part of a caracal body,Yes
+428,hair is a part of a worm body,No
+429,a hawk can be found underwater,No
+430,a cotinga has feathers,Yes
+431,fur is part of a puma body,No
+432,does a zebra live in the water,No
+433,a boa has horns,No
+434,a squid lives underwater,Yes
+435,are feathers related to a cat,No
+436,a cow can be found in the water,No
+437,can a sternidae fly,Yes
+438,a gnu has a fin,No
+439,a lion has a fin,No
+440,does a pig fly,No
+441,a bird can be found in the water,No
+442,does a worm have feathers,No
+443,a jellyfish has feathers,No
+444,a canary has wings,Yes
+445,are feathers related to a rhino,No
+446,does a shrimp live underwater,Yes
+447,does a yak have a horn,Yes
+448,a rhino has horns,Yes
+449,can a rottweiler fly,No
+450,does a avocet have wings,Yes
+451,a elephant has feathers,No
+452,hair is a part of a hyena body,Yes
+453,does a deer have wings,No
+454,a bird has fins,No
+455,fur is part of a lizard body,No
+456,does a kudu have horns,Yes
+457,does a boa have horns,No
+458,are feathers related to a cow,No
+459,does a parrot live underwater,No
+460,does a iguana have hair,No
+461,a seal can be found underwater,Yes
+462,a starfish can be found in the water,Yes
+463,does a turkey have a wing,Yes
+464,can a goose fly,Yes
+465,does a crow have wings,Yes
+466,a kingfish can be found underwater,Yes
+467,a kingfish lives underwater,Yes
+468,does a fox have a fin,No
+469,are feathers related to a bushtit,Yes
+470,fur is part of a donkey body,Yes
+471,a bison has horns,Yes
+472,a jaguar has a fin,No
+473,does a owl fly,Yes
+474,can a bushtit fly,Yes
+475,does a bull have a horn,Yes
+476,a snake has horns,No
+477,a hawk has feathers,Yes
+478,a salamander has horns,No
+479,hair is a part of a husky body,Yes
+480,hair is a part of a terrier body,Yes
+481,a jellyfish has a horn,No
+482,does a dove have feathers,Yes
+483,a elephant has a wing,No
+484,can a cat fly,No
+485,does a moose have hair,Yes
+486,a camel can be found underwater,No
+487,does a elephant have fins,No
+488,a shrimp lives underwater,Yes
+489,a tuna lives underwater,Yes
+490,a snook can be found in the water,Yes
+491,a cuttlefish can be found in the water,Yes
+492,does a tuna have feathers,No
+493,a lark has fins,No
+494,a yak has hair,Yes
+495,fur is part of a eagle body,No
+496,a goat has a wing,No
+497,does a duck have fins,No
+498,a goral has a horn,Yes
+499,does a whitefish have a fin,Yes
+500,a lizard can be found underwater,No
+501,can a songbird fly,Yes
+502,a goral lives in the water,No
+503,does a spider have hair,No
+504,are feathers related to a frog,No
+505,a condor flies,Yes
+506,a beluga has a fin,Yes
+507,fur is part of a leopard body,Yes
+508,does a alpaca have hair,Yes
+509,a seahorse can be found in the water,Yes
+510,a gar can be found in the water,Yes
+511,a elephant flies,No
+512,a dog has hair,Yes
+513,does a jellyfish have wings,No
+514,a wader has a beak,Yes
+515,a crocodile has fur,No
+516,fur is part of a rottweiler body,Yes
+517,does a cockatoo fly,Yes
+518,does a worm have fur,No
+519,a cowbird can be found underwater,No
+520,a starfish has fur,No
+521,does a pelican have feathers,Yes
+522,does a deer have a horn,Yes
+523,a codfish lives underwater,Yes
+524,a hen has wings,Yes
+525,a shark has feathers,No
+526,does a snake have wings,No
+527,are feathers related to a puma,No
+528,hair is a part of a leopard body,Yes
+529,can a cowbird fly,Yes
+530,a seahorse lives underwater,Yes
+531,does a cow fly,No
+532,a codfish has fins,Yes
+533,a piranha can be found in the water,Yes
+534,hair is a part of a lobster body,No
+535,can a bear fly,No
+536,a rorqual has fins,Yes
+537,does a hornbill have feathers,Yes
+538,does a dog fly,No
+539,a buzzard has wings,Yes
+540,a kudu has horns,Yes
+541,does a dugongs live in the water,Yes
+542,a zebra has a wing,No
+543,are feathers related to a codfish,No
+544,a eland has horns,Yes
+545,a monkey has a fin,No
+546,does a antelope have horns,Yes
+547,a burrfish lives underwater,Yes
+548,a jaguar has fins,No
+549,a deer has wings,No
+550,a finch has wings,Yes
+551,a snook has a fin,Yes
+552,a dolphin has fins,Yes
+553,does a oyster have a fin,Yes
+554,does a hawk have feathers,Yes
+555,can a pelican fly,Yes
+556,does a anoa have horns,Yes
+557,a finch has a beak,Yes
+558,a yellowfin has wings,No
+559,a salmon has a horn,No
+560,can a finch fly,Yes
+561,hair is a part of a snail body,No
+562,a lizard has wings,No
+563,are feathers related to a cowbird,Yes
+564,are feathers related to a parrot,Yes
+565,does a wolf have a beak,No
+566,a bison lives in the water,No
+567,fur is part of a hyena body,Yes
+568,does a giraffe live underwater,No
+569,does a poodle have horns,No
+570,does a bear have fur,Yes
+571,does a camel have fur,Yes
+572,fur is part of a salmon body,No
+573,are feathers related to a lark,Yes
+574,does a lizard have a fin,No
+575,a conger has a fin,Yes
+576,does a smelt live in the water,Yes
+577,does a macaw fly,Yes
+578,does a squid live in the water,Yes
+579,a dove has feathers,Yes
+580,does a jellyfish have a beak,No
+581,a cotinga has wings,Yes
+582,does a mallard fly,Yes
+583,a rat has hair,Yes
+584,does a rhino have fins,No
+585,a tuna has a wing,No
+586,does a monkey have a wing,No
+587,does a poodle have a fin,No
+588,does a peacock have a beak,Yes
+589,a whale has fins,Yes
+590,are feathers related to a falcon,Yes
+591,does a ass have fur,Yes
+592,does a gnu have a fin,No
+593,does a sparrow have a wing,Yes
+594,a dog has horns,No
+595,does a bat have a beak,Yes
+596,a cotinga flies,Yes
+597,a hawk can be found in the water,No
+598,are feathers related to a giraffe,No
+599,a codfish has feathers,No
+600,does a bushtit have wings,Yes
+601,does a goldcrest have fins,No
+602,does a macaw have feathers,Yes
+603,does a lion have fins,No
+604,a ram can be found in the water,No
+605,a rabbit flies,No
+606,a rabbit can be found underwater,No
+607,does a dog have a beak,No
+608,does a parrot have a beak,Yes
+609,a monkey can be found in the water,No
+610,fur is part of a skunk body,Yes
+611,a parrot has a fin,No
+612,a worm has fins,No
+613,does a eel have feathers,No
+614,a hogfish can be found in the water,Yes
+615,does a rat have hair,Yes
+616,a heron has a beak,Yes
+617,a wolf has feathers,No
+618,are feathers related to a monkey,No
+619,does a octupus have horns,No
+620,does a eel have fur,No
+621,does a buzzard have a wing,Yes
+622,does a cowbird have a beak,Yes
+623,does a beluga have a fin,Yes
+624,does a eel have hair,No
+625,does a wader have a beak,Yes
+626,does a baboon have fur,Yes
+627,does a alligator have fur,No
+628,a salmon flies,No
+629,fur is part of a deer body,Yes
+630,does a lion have a horn,No
+631,does a gull have wings,Yes
+632,can a bird fly,Yes
+633,hair is a part of a oyster body,No
+634,a donkey can be found in the water,No
+635,can a frog fly,No
+636,a snook can be found underwater,Yes
+637,a knifefish lives in the water,Yes
+638,a goat flies,No
+639,does a dalmatian have hair,Yes
+640,a shark has a fin,Yes
+641,hair is a part of a liger body,Yes
+642,a eagle flies,Yes
+643,a jay has feathers,Yes
+644,a ox flies,No
+645,does a ant have fur,No
+646,does a mamba have hair,No
+647,does a snake have a wing,No
+648,does a oryx have horns,Yes
+649,does a crocodile have fur,No
+650,does a schnauzer have hair,Yes
+651,a fish has fins,Yes
+652,does a pigeon have a wing,Yes
+653,a hornbill has feathers,Yes
+654,does a songbird have fur,No
+655,a sheep can be found in the water,No
+656,a elephant has horns,No
+657,a ox has wings,No
+658,a beluga has fins,Yes
+659,can a canary fly,Yes
+660,can a dog fly,No
+661,does a burrfish have a fin,Yes
+662,are feathers related to a bat,Yes
+663,a carp lives in the water,Yes
+664,does a burrfish have fins,Yes
+665,does a oyster have hair,No
+666,a terrier has hair,Yes
+667,are feathers related to a finch,Yes
+668,a goral has a fin,No
+669,a gar can be found underwater,Yes
+670,can a heron fly,Yes
+671,a barracuda lives in the water,Yes
+672,does a shark live underwater,Yes
+673,does a husky have hair,Yes
+674,a snail has fur,No
+675,a tiger lives underwater,No
+676,does a stonefish live underwater,Yes
+677,fur is part of a piranha body,No
+678,does a swan have fins,No
+679,does a ox have wings,No
+680,does a tiger have feathers,No
+681,does a bushtit have a wing,Yes
+682,does a frog fly,No
+683,does a hippopotamus have a horn,No
+684,a tarantula has horns,No
+685,a mamba has hair,No
+686,a antelope has hair,Yes
+687,a herring has a fin,Yes
+688,a bird has a beak,Yes
+689,a goldcrest can be found in the water,No
+690,a wolf has hair,Yes
+691,does a sponge have fur,No
+692,a lizard has feathers,No
+693,fur is part of a doberman body,Yes
+694,a hummingbird has feathers,Yes
+695,a ibex has a horn,Yes
+696,does a dolphin have feathers,No
+697,does a rat have fur,Yes
+698,a jellyfish has hair,No
+699,does a puma have a fin,No
+700,a hourse lives underwater,No
+701,does a rabbit have fins,No
+702,a puma lives in the water,No
+703,a tiger has feathers,No
+704,does a squirrel have hair,Yes
+705,a octupus has a horn,No
+706,does a hourse have a fin,No
+707,does a elk have horns,Yes
+708,a lark lives in the water,No
+709,a skylark flies,Yes
+710,does a whale have feathers,No
+711,a rottweiler flies,No
+712,does a camel live in the water,No
+713,a zebra lives underwater,No
+714,a impala has a horn,Yes
+715,a peacock has feathers,Yes
+716,a pig has feathers,No
+717,a swan can be found in the water,No
+718,does a jawfish live underwater,Yes
+719,does a shrimp have fur,No
+720,a skylark can be found in the water,No
+721,does a pelican fly,Yes
+722,hair is a part of a kangaroo body,Yes
+723,a lizard has hair,No
+724,does a goldcrest live in the water,No
+725,does a bulbul have a wing,Yes
+726,does a gull have a wing,Yes
+727,can a sparrow fly,Yes
+728,a poodle has horns,No
+729,a octupus lives underwater,Yes
+730,does a poodle live underwater,No
+731,can a wolf fly,No
+732,a eel has hair,No
+733,does a chicken have a wing,Yes
+734,a wolf has a beak,No
+735,hair is a part of a dolphin body,No
+736,can a jellyfish fly,No
+737,a goral has horns,Yes
+738,does a salmon have horns,No
+739,a starfish has hair,No
+740,a bluefish lives underwater,Yes
+741,a ox has feathers,No
+742,does a albatrosses have feathers,Yes
+743,hair is a part of a sparrow body,No
+744,a dog lives underwater,No
+745,a songbird has wings,Yes
+746,a barracuda has a fin,Yes
+747,does a bird have wings,Yes
+748,a shrimp can be found in the water,Yes
+749,does a monkey have a beak,No
+750,a bison has fur,Yes
+751,a ram has a beak,No
+752,does a eagle fly,Yes
+753,does a bat have a wing,Yes
+754,a oyster has fur,No
+755,a cuttlefish lives in the water,Yes
+756,does a yellowfin live in the water,Yes
+757,a rhino has feathers,No
+758,does a snake have a beak,No
+759,a bull has fins,No
+760,does a shark have a wing,No
+761,a carp has fins,Yes
+762,a skylark lives in the water,No
+763,does a ram have a beak,No
+764,does a ram live underwater,No
+765,a hyena has fur,Yes
+766,does a parrot have fins,No
+767,does a pelican have fins,No
+768,does a snail fly,No
+769,are feathers related to a jaguar,No
+770,a bullfinch flies,Yes
+771,hair is a part of a barracuda body,No
+772,a kingfish can be found in the water,Yes
+773,does a salmon have a horn,No
+774,a rorqual lives underwater,Yes
+775,does a bushtit have a beak,Yes
+776,can a pomeranian fly,No
+777,does a africander have horns,Yes
+778,does a tiger have a beak,No
+779,a snail has a horn,No
+780,a yellowfin has a beak,No
+781,a crocodile has a horn,No
+782,does a hummingbird have a beak,Yes
+783,does a buzzard have feathers,Yes
+784,a collie has fur,Yes
+785,are feathers related to a pelican,Yes
+786,does a duck have feathers,Yes
+787,a lion has horns,No
+788,fur is part of a schnauzer body,Yes
+789,a orca can be found underwater,Yes
+790,a fish has a horn,No
+791,a yak has horns,Yes
+792,a goose flies,Yes
+793,a cat has a fin,No
+794,a albacore can be found in the water,Yes
+795,a cow flies,No
+796,does a rabbit live in the water,No
+797,a rhino has hair,No
+798,a mouse has hair,Yes
+799,a seal lives underwater,Yes
+800,does a worm have horns,No
+801,a poodle has a fin,No
+802,a puma has fur,No
+803,a spider has fur,No
+804,a jaguar can be found in the water,No
+805,does a piranha have fins,Yes
+806,a piranha has fur,No
+807,a macaw has wings,Yes
+808,does a heron have a beak,Yes
+809,hair is a part of a antelope body,Yes
+810,a tuna has horns,No
+811,does a mouse have fur,Yes
+812,a shark can be found in the water,Yes
+813,does a pelican have a wing,Yes
+814,a swan flies,Yes
+815,does a jaguar have fins,No
+816,hair is a part of a pig body,No
+817,does a lion have feathers,No
+818,a donkey lives underwater,No
+819,does a skylark have feathers,Yes
+820,does a beluga have fins,Yes
+821,does a beagle fly,No
+822,does a jaguar have a horn,No
+823,a ox has a beak,No
+824,a salamander has hair,No
+825,a cat has a wing,No
+826,a squid can be found underwater,Yes
+827,does a salmon live in the water,Yes
+828,a starfish lives in the water,Yes
+829,a pelican flies,Yes
+830,a goldcrest can be found underwater,No
+831,a eider has a wing,Yes
+832,a leopard has fur,Yes
+833,a burbot has fins,Yes
+834,does a eider have a fin,No
+835,does a goral live in the water,No
+836,does a goldcrest have wings,Yes
+837,a rhino has a fin,No
+838,a pigeon flies,Yes
+839,a stonefish has a fin,Yes
+840,does a barracuda have hair,No
+841,a seahorse lives in the water,Yes
+842,a dog has feathers,No
+843,hair is a part of a cuttlefish body,No
+844,are feathers related to a eel,No
+845,a cowbird has a beak,Yes
+846,a whale has a wing,No
+847,a grackle can be found in the water,No
+848,does a hornbill have wings,Yes
+849,does a heron fly,Yes
+850,a eagle has a horn,No
+851,a bull has a fin,No
+852,a lobster has hair,No
+853,does a owl have a wing,Yes
+854,does a falcon fly,Yes
+855,a bluegill has fins,Yes
+856,hair is a part of a turkey body,No
+857,hair is a part of a iguana body,No
+858,does a finch have a beak,Yes
+859,a grackle can be found underwater,No
+860,a rat lives in the water,No
+861,does a albatrosses fly,Yes
+862,a yellowfin flies,No
+863,hair is a part of a doberman body,Yes
+864,does a orca live in the water,Yes
+865,does a pig have feathers,No
+866,does a bighorn have horns,Yes
+867,a lark has wings,Yes
+868,a rat has a beak,No
+869,a vulture has a beak,Yes
+870,does a dolphin fly,No
+871,a eel can be found in the water,Yes
+872,does a jay have feathers,Yes
+873,does a whale have wings,No
+874,does a barracuda live underwater,Yes
+875,does a bull live in the water,No
+876,does a worm fly,No
+877,a knifefish can be found in the water,Yes
+878,a whitefish has fins,Yes
+879,a goldcrest has feathers,Yes
+880,a hummingbird has a beak,Yes
+881,does a crocodile have horns,No
+882,does a moray have a fin,Yes
+883,a raccoon has hair,Yes
+884,does a buzzard fly,Yes
+885,does a bullfinch have wings,Yes
+886,a goat has horns,Yes
+887,a snake has hair,No
+888,a zebra can be found underwater,No
+889,are feathers related to a canary,Yes
+890,does a ox have horns,Yes
+891,fur is part of a rhino body,No
+892,a burbot has a fin,Yes
+893,a beagle has wings,No
+894,a bulldog has fur,Yes
+895,hair is a part of a salmon body,No
+896,does a gar have hair,No
+897,fur is part of a tarantula body,No
+898,a horse flies,No
+899,a porpoise lives underwater,Yes
+900,a rhino has a horn,Yes
+901,a hawk flies,Yes
+902,does a goldfish have fins,Yes
+903,does a canary fly,Yes
+904,a wolf has fins,No
+905,does a caterpillar have hair,No
+906,does a lark fly,Yes
+907,does a bullfinch have a wing,Yes
+908,does a schnauzer have fur,Yes
+909,hair is a part of a piranha body,No
+910,does a pinscher have fur,Yes
+911,are feathers related to a hen,Yes
+912,a salmon has a beak,No
+913,a lizard has a horn,No
+914,a albatrosses has a wing,Yes
+915,does a bear have a beak,No
+916,does a horse have a wing,No
+917,a kudu has a horn,Yes
+918,does a crow have a wing,Yes
+919,a condor has a beak,Yes
+920,does a burbot have a fin,Yes
+921,a turkey has a wing,Yes
+922,a snake has a horn,No
+923,does a camel have hair,Yes
+924,does a yellowfin have feathers,No
+925,does a markhor have horns,Yes
+926,a fish has horns,No
+927,does a cuttlefish have hair,No
+928,a jawfish can be found in the water,Yes
+929,a gnu lives underwater,No
+930,does a turkey have feathers,Yes
+931,does a eagle have a beak,Yes
+932,does a alpaca have fur,Yes
+933,does a lark live underwater,No
+934,does a deer have feathers,No
+935,a burrfish lives in the water,Yes
+936,a hen has feathers,Yes
+937,does a terrier have hair,Yes
+938,does a pigeon have wings,Yes
+939,does a leopard have feathers,No
+940,fur is part of a chihuahua body,Yes
+941,does a albatrosses have a beak,Yes
+942,does a elk have a horn,Yes
+943,does a puma have horns,No
+944,does a doberman have hair,Yes
+945,a bull can be found in the water,No
+946,a lion can be found in the water,No
+947,a jellyfish has wings,No
+948,a bird has wings,Yes
+949,fur is part of a liger body,Yes
+950,a wisent has a horn,Yes
+951,a pelican can be found underwater,No
+952,a lizard lives underwater,No
+953,fur is part of a tiger body,Yes
+954,does a herring live underwater,Yes
+955,a vulture has a wing,Yes
+956,does a cow live in the water,No
+957,a pomeranian has feathers,No
+958,a ibex has horns,Yes
+959,fur is part of a moose body,Yes
+960,does a doberman have a beak,No
+961,does a bat have feathers,Yes
+962,a poodle lives underwater,No
+963,fur is part of a lobster body,No
+964,a yellowfin has feathers,No
+965,a songbird has fur,No
+966,does a cat have a fin,No
+967,a heron has fins,No
+968,a rabbit lives underwater,No
+969,a giraffe has a fin,No
+970,a pigeon has feathers,Yes
+971,a parrot has wings,Yes
+972,does a knifefish live underwater,Yes
+973,can a eel fly,No
+974,a monkey has fins,No
+975,a stonefish can be found in the water,Yes
+976,fur is part of a hippopotamus body,No
+977,a jellyfish has a wing,No
+978,a bat has a wing,Yes
+979,a prawn lives underwater,Yes
+980,are feathers related to a turkey,Yes
+981,does a fish have a horn,No
+982,does a ram have a fin,No
+983,does a hawk have wings,Yes
+984,does a chihuahua have fur,Yes
+985,a anchovy can be found underwater,Yes
+986,a cowbird has fins,No
+987,does a jellyfish have a horn,No
+988,does a rhino have a wing,No
+989,a songbird has a horn,No
+990,does a swordfish have a fin,Yes
+991,does a ram have fins,No
+992,does a octupus live underwater,Yes
+993,does a corgi have a wing,No
+994,does a dog live underwater,No
+995,a bison has a fin,No
+996,a eel has fins,Yes
+997,does a heron live underwater,No
+998,does a kudu have a horn,Yes
+999,a tuna has a horn,No
+1000,does a alpaca have horns,Yes
+1001,does a eland have a horn,Yes
+1002,a terrier has fur,Yes
+1003,can a ram fly,No
+1004,does a snake have fur,No
+1005,does a rat live in the water,No
+1006,does a porgy have a fin,Yes
+1007,does a anchovy live in the water,Yes
+1008,a cow lives in the water,No
+1009,does a labrador have feathers,No
+1010,a puma has a fin,No
+1011,does a hen live in the water,No
+1012,does a whale have fins,Yes
+1013,a dove has a wing,Yes
+1014,does a fish have hair,No
+1015,a anchovy can be found in the water,Yes
+1016,a schnauzer has hair,Yes
+1017,a peacock flies,Yes
+1018,a boxer has fur,Yes
+1019,a leopard has feathers,No
+1020,a rat can be found in the water,No
+1021,does a eider have feathers,Yes
+1022,does a canary have a beak,Yes
+1023,does a moose have fur,Yes
+1024,a albacore lives underwater,Yes
+1025,does a rhino have a beak,No
+1026,does a dolphin have a wing,No
+1027,does a goat fly,No
+1028,does a bear have wings,No
+1029,can a camel fly,No
+1030,fur is part of a dog body,Yes
+1031,a owl lives underwater,No
+1032,a cockatoo has a wing,Yes
+1033,a hawk has a beak,Yes
+1034,a starfish can be found underwater,Yes
+1035,a whitefish lives in the water,Yes
+1036,does a fish have fur,No
+1037,a labrador has wings,No
+1038,does a bustard fly,Yes
+1039,does a owl have feathers,Yes
+1040,does a giraffe have fur,Yes
+1041,a bluefish has fins,Yes
+1042,a bat has wings,Yes
+1043,does a pigeon have a beak,Yes
+1044,does a seahorse live underwater,Yes
+1045,a gull has feathers,Yes
+1046,does a tiger have hair,Yes
+1047,a cockatoo has a beak,Yes
+1048,a oyster lives underwater,Yes
+1049,fur is part of a sparrow body,No
+1050,a moray has fins,Yes
+1051,a ox can be found underwater,No
+1052,a husky has fur,Yes
+1053,a cuttlefish lives underwater,Yes
+1054,a bighorn has a horn,Yes
+1055,a brambling has feathers,Yes
+1056,does a bharal have horns,Yes
+1057,a eider lives underwater,No
+1058,a flamingo has a beak,Yes
+1059,does a ape have fur,Yes
+1060,are feathers related to a tuna,No
+1061,does a seabird have a wing,Yes
+1062,a tiger has a beak,No
+1063,does a brambling have a wing,Yes
+1064,a barracuda has fins,Yes
+1065,a hyena has hair,Yes
+1066,a flamingo has a fin,No
+1067,a cockatoo flies,Yes
+1068,does a garfish have a fin,Yes
+1069,does a mule have fur,Yes
+1070,fur is part of a koala body,Yes
+1071,does a wolf have hair,Yes
+1072,does a spearfish have fins,Yes
+1073,does a carp live in the water,Yes
+1074,a blackbuck has a horn,Yes
+1075,a songbird has hair,No
+1076,a flamingo flies,Yes
+1077,does a jaguar live underwater,No
+1078,hair is a part of a bison body,Yes
+1079,does a flatfish have fins,Yes
+1080,a frog has wings,No
+1081,fur is part of a boxer body,Yes
+1082,a octupus lives in the water,Yes
+1083,does a chihuahua have hair,Yes
+1084,a snail lives underwater,No
+1085,are feathers related to a sheep,No
+1086,does a cuttlefish have a fin,Yes
+1087,a dolphin lives underwater,Yes
+1088,does a jay have a wing,Yes
+1089,does a moray have fins,Yes
+1090,does a parrot have feathers,Yes
+1091,a hippopotamus has hair,No
+1092,a burbot can be found underwater,Yes
+1093,a falcon has feathers,Yes
+1094,does a bulbul have wings,Yes
+1095,a bird has horns,No
+1096,a snail has a fin,No
+1097,does a dog have feathers,No
+1098,a octupus has fur,No
+1099,does a dog have fins,No
+1100,a stork has a beak,Yes
+1101,are feathers related to a deer,No
+1102,are feathers related to a dolphin,No
+1103,does a boa have hair,No
+1104,a songbird has a wing,Yes
+1105,does a flamingo fly,Yes
+1106,a crab has fur,No
+1107,a goldcrest has fins,No
+1108,a owl has horns,No
+1109,does a duck fly,Yes
+1110,a gazelle has a horn,Yes
+1111,does a brambling fly,Yes
+1112,a brambling has a wing,Yes
+1113,a prawn has hair,No
+1114,hair is a part of a ant body,No
+1115,does a bullfinch have feathers,Yes
+1116,a bison has fins,No
+1117,a parrot flies,Yes
+1118,can a duck fly,Yes
+1119,a gar lives in the water,Yes
+1120,a herring has fur,No
+1121,a collie has hair,Yes
+1122,does a pelican have a beak,Yes
+1123,does a puma have fur,No
+1124,a goose has feathers,Yes
+1125,a codfish has fur,No
+1126,does a hen have feathers,Yes
+1127,a seabird flies,Yes
+1128,a cow has feathers,No
+1129,a gnu has horns,Yes
+1130,fur is part of a starfish body,No
+1131,a poodle lives in the water,No
+1132,a flamingo can be found underwater,No
+1133,fur is part of a crab body,No
+1134,does a gar have fur,No
+1135,does a cobra have horns,No
+1136,does a giraffe fly,No
+1137,a labrador has hair,Yes
+1138,does a snail have a wing,No
+1139,fur is part of a iguana body,No
+1140,does a snail have a horn,No
+1141,does a bat fly,Yes
+1142,a cobra has hair,No
+1143,does a flatfish live in the water,Yes
+1144,are feathers related to a eagle,Yes
+1145,does a horse have wings,No
+1146,does a cow have a horn,Yes
+1147,a frog has feathers,No
+1148,a whitefish lives underwater,Yes
+1149,does a hippopotamus have fur,No
+1150,does a wader have feathers,Yes
+1151,does a crab have fur,No
+1152,a gull has wings,Yes
+1153,a puma has a wing,No
+1154,does a parrot have wings,Yes
+1155,a conger has fins,Yes
+1156,does a labrador fly,No
+1157,does a rat have feathers,No
+1158,a cowbird has a wing,Yes
+1159,a addax has a horn,Yes
+1160,does a eagle have a fin,No
+1161,a sheep has feathers,No
+1162,a rabbit has wings,No
+1163,a sparrow has fur,No
+1164,a pig has hair,No
+1165,a tuna can be found underwater,Yes
+1166,a mounflon has a horn,Yes
+1167,a lizard has a wing,No
+1168,a yellowfin can be found underwater,Yes
+1169,hair is a part of a prawn body,No
+1170,can a corgi fly,No
+1171,are feathers related to a swan,Yes
+1172,a bat has feathers,Yes
+1173,can a tuna fly,No
+1174,does a piranha live in the water,Yes
+1175,a snail can be found underwater,No
+1176,does a skunk have hair,Yes
+1177,a rat has fur,Yes
+1178,does a gazelle have a horn,Yes
+1179,a bharal has a horn,Yes
+1180,does a whale have horns,No
+1181,does a salmon have a wing,No
+1182,a tuna has wings,No
+1183,a seabird has a beak,Yes
+1184,a snail has wings,No
+1185,a canary has feathers,Yes
+1186,a bird lives in the water,No
+1187,a dog flies,No
+1188,does a elephant live in the water,No
+1189,a hogfish has fins,Yes
+1190,a sparrow flies,Yes
+1191,fur is part of a eel body,No
+1192,does a tapir have horns,No
+1193,a corgi has a beak,No
+1194,does a pigeon have feathers,Yes
+1195,does a wader have wings,Yes
+1196,a snail lives in the water,No
+1197,a zebra has wings,No
+1198,does a goral have fins,No
+1199,does a gnu live underwater,No
+1200,does a wader fly,Yes
+1201,a stork flies,Yes
+1202,does a bulldog have fur,Yes
+1203,a corgi has wings,No
+1204,a lizard has a fin,No
+1205,does a mouse have hair,Yes
+1206,does a hawk have a fin,No
+1207,a deer has a wing,No
+1208,a oyster can be found in the water,Yes
+1209,a giraffe can be found underwater,No
+1210,a alpaca has horns,Yes
+1211,does a worm have fins,No
+1212,hair is a part of a bird body,No
+1213,does a moose have horns,Yes
+1214,a hawk lives underwater,No
+1215,does a kingfisher have hair,No
+1216,does a whale have a beak,No
+1217,does a alligator have hair,No
+1218,a turkey has feathers,Yes
+1219,does a falcon have a wing,Yes
+1220,a labrador has fur,Yes
+1221,a anoa has horns,Yes
+1222,does a eagle have wings,Yes
+1223,does a parrot have a wing,Yes
+1224,a finch can be found underwater,No
+1225,a giraffe lives in the water,No
+1226,does a bull have feathers,No
+1227,does a codfish live in the water,Yes
+1228,a finch has a wing,Yes
+1229,does a tuna have fur,No
+1230,a whale has fur,No
+1231,a jay has a wing,Yes
+1232,a wader has feathers,Yes
+1233,fur is part of a giraffe body,Yes
+1234,a hen has a fin,No
+1235,does a wolf have feathers,No
+1236,fur is part of a monkey body,Yes
+1237,does a tuna have wings,No
+1238,does a worm have a fin,No
+1239,does a goral have horns,Yes
+1240,does a bluefish have a fin,Yes
+1241,are feathers related to a buzzard,Yes
+1242,does a addax have horns,Yes
+1243,a finch flies,Yes
+1244,does a barracuda have fur,No
+1245,a bear has feathers,No
+1246,does a swan have a beak,Yes
+1247,does a flamingo have fur,No
+1248,a bull lives underwater,No
+1249,a bird flies,Yes
+1250,a bear flies,No
+1251,does a hornbill have a wing,Yes
+1252,does a jaguar live in the water,No
+1253,a worm has horns,No
+1254,a bird can be found underwater,No
+1255,does a bluefin have fins,Yes
+1256,does a donkey have a fin,No
+1257,a spearfish has a fin,Yes
+1258,a wader flies,Yes
+1259,a finch has fins,No
+1260,does a bear have hair,Yes
+1261,a fox has hair,Yes
+1262,a corgi has hair,Yes
+1263,does a gazelle have horns,Yes
+1264,hair is a part of a alpaca body,Yes
+1265,does a swan live in the water,No
+1266,a whale lives underwater,Yes
+1267,are feathers related to a bear,No
+1268,a bat can be found in the water,No
+1269,hair is a part of a shark body,No
+1270,a eider lives in the water,No
+1271,does a tiger have a wing,No
+1272,a elk has horns,Yes
+1273,a pomeranian has a wing,No
+1274,a pelican lives underwater,No
+1275,a kangaroo has fur,Yes
+1276,a owl has a fin,No
+1277,does a wolf have wings,No
+1278,a bluefin can be found in the water,Yes
+1279,can a brambling fly,Yes
+1280,does a swordfish live in the water,Yes
+1281,a eagle has a beak,Yes
+1282,does a dove fly,Yes
+1283,a africander has horns,Yes
+1284,a tuna has hair,No
+1285,a codfish has a wing,No
+1286,does a albacore have a fin,Yes
+1287,does a cow live underwater,No
+1288,a bird has a fin,No
+1289,does a songbird have wings,Yes
+1290,hair is a part of a rhino body,No
+1291,a bird has a wing,Yes
+1292,a jellyfish has a beak,No
+1293,does a worm have hair,No
+1294,are feathers related to a condor,Yes
+1295,a seahorse can be found underwater,Yes
+1296,a tiger has fins,No
+1297,a camel can be found in the water,No
+1298,does a bluefish live underwater,Yes
+1299,a sparrow has feathers,Yes
+1300,a eider flies,Yes
+1301,a eagle has a wing,Yes
+1302,does a jawfish live in the water,Yes
+1303,does a eel have a fin,Yes
+1304,a tuna has fins,Yes
+1305,does a anchovy have fins,Yes
+1306,does a barracuda have fins,Yes
+1307,does a horse have feathers,No
+1308,a bull lives in the water,No
+1309,does a finch live underwater,No
+1310,a jay has a beak,Yes
+1311,a hawk lives in the water,No
+1312,a bull flies,No
+1313,does a fish live underwater,Yes
+1314,a jaguar has fur,Yes
+1315,does a gull have a beak,Yes
+1316,does a conger have a fin,Yes
+1317,does a corgi have hair,Yes
+1318,does a stork fly,Yes
+1319,a bison lives underwater,No
+1320,does a rottweiler have a beak,No
+1321,does a blackbuck have a horn,Yes
+1322,does a goat have wings,No
+1323,a flamingo has horns,No
+1324,a buzzard has a beak,Yes
+1325,a piranha lives underwater,Yes
+1326,does a sponge have hair,No
+1327,does a rabbit have a fin,No
+1328,does a brambling have feathers,Yes
+1329,a rabbit has feathers,No
+1330,a wolf has fur,Yes
+1331,a bull has a beak,No
+1332,does a gar live underwater,Yes
+1333,does a piranha have a fin,Yes
+1334,does a dugongs have fins,Yes
+1335,a cow lives underwater,No
+1336,does a ram have wings,No
+1337,does a burbot live in the water,Yes
+1338,does a octupus have hair,No
+1339,does a bat have fins,No
+1340,does a stonefish have fins,Yes
+1341,does a fox have a wing,No
+1342,does a lizard have feathers,No
+1343,a avocet has wings,Yes
+1344,does a tiger have a horn,No
+1345,does a eagle have fins,No
+1346,does a cockatoo have wings,Yes
+1347,does a tapir have a horn,No
+1348,does a giraffe have fins,No
+1349,are feathers related to a pigeon,Yes
+1350,does a oyster live underwater,Yes
+1351,a prawn has fur,No
+1352,a brambling has a beak,Yes
+1353,does a pelican live underwater,No
+1354,a spearfish has fins,Yes
+1355,a corgi has feathers,No
+1356,does a wisent have a horn,Yes
+1357,can a albatrosses fly,Yes
+1358,a worm has hair,No
+1359,does a hen have fins,No
+1360,does a grackle have feathers,Yes
+1361,does a camel have fins,No
+1362,does a rhinocodon have a fin,Yes
+1363,does a bison have horns,Yes
+1364,does a jellyfish have horns,No
+1365,does a herring live in the water,Yes
+1366,does a ram live in the water,No
+1367,a bullfinch has a wing,Yes
+1368,fur is part of a spider body,No
+1369,a camel has a wing,No
+1370,a shark has fins,Yes
+1371,fur is part of a gar body,No
+1372,a rabbit has hair,Yes
+1373,does a shark have a beak,No
+1374,does a crow fly,Yes
+1375,a sheep has wings,No
+1376,a fish can be found underwater,Yes
+1377,does a jaguar have a beak,No
+1378,a giraffe has wings,No
+1379,a giraffe has feathers,No
+1380,a sparrow has a wing,Yes
+1381,hair is a part of a herring body,No
+1382,does a codfish have a fin,Yes
+1383,does a boa have a horn,No
+1384,hair is a part of a corgi body,Yes
+1385,does a flamingo live underwater,No
+1386,a prawn can be found in the water,Yes
+1387,a pomfret lives in the water,Yes
+1388,a dog has fins,No
+1389,a smelt lives underwater,Yes
+1390,a goat has a horn,Yes
+1391,can a goat fly,No
+1392,does a bird live in the water,No
+1393,are feathers related to a leopard,No
+1394,does a puma live underwater,No
+1395,a shark has horns,No
+1396,a cow has a beak,No
+1397,does a ox have a fin,No
+1398,does a cotinga have wings,Yes
+1399,a eel has fur,No
+1400,does a donkey fly,No
+1401,does a avocet have a wing,Yes
+1402,does a oyster live in the water,Yes
+1403,does a snail have horns,No
+1404,a rabbit has fins,No
+1405,does a koala have hair,Yes
+1406,a shrimp can be found underwater,Yes
+1407,a carp has a fin,Yes
+1408,hair is a part of a raccoon body,Yes
+1409,a deer has feathers,No
+1410,a dog lives in the water,No
+1411,a cat has a horn,No
+1412,a swan has a wing,Yes
+1413,does a crab have hair,No
+1414,does a cattle have a horn,Yes
+1415,a cuttlefish can be found underwater,Yes
+1416,does a cobra have a horn,No
+1417,a yak has horns,Yes
+1418,a porpoise can be found in the water,Yes
+1419,a herring can be found in the water,Yes
+1420,a beagle has feathers,No
+1421,a iguana has horns,No
+1422,can a whale fly,No
+1423,a whitefish can be found underwater,Yes
+1424,a eagle has horns,No
+1425,a alligator has hair,No
+1426,does a eagle live underwater,No
+1427,a caterpillar has horns,No
+1428,does a stonefish have a fin,Yes
+1429,does a lizard have fins,No
+1430,a hourse can be found in the water,No
+1431,a orca has fins,Yes
+1432,does a bull have a beak,No
+1433,a salmon has a wing,No
+1434,a zebra has hair,Yes
+1435,a bullfinch has wings,Yes
+1436,does a iguana have a horn,No
+1437,a cat has a beak,No
+1438,a goldcrest has a wing,Yes
+1439,does a rorqual live underwater,Yes
+1440,a herring can be found underwater,Yes
+1441,a swordfish lives in the water,Yes
+1442,does a bighorn have a horn,Yes
+1443,a grackle has a beak,Yes
+1444,hair is a part of a ass body,Yes
+1445,a takin has a horn,Yes
+1446,a swan has a fin,No
+1447,a fox has a beak,No
+1448,hair is a part of a salamander body,No
+1449,a songbird has feathers,Yes
+1450,does a baiji have a fin,Yes
+1451,does a bulbul have a beak,Yes
+1452,does a knifefish have a fin,Yes
+1453,does a wildbeest have a horn,Yes
+1454,a camel has wings,No
+1455,a cat has horns,No
+1456,fur is part of a kingfisher body,No
+1457,fur is part of a terrier body,Yes
+1458,does a buffalo have a horn,Yes
+1459,does a ibex have a horn,Yes
+1460,does a frog have feathers,No
+1461,a flamingo has wings,Yes
+1462,a deer has hair,Yes
+1463,a lion has a horn,No
+1464,a brambling flies,Yes
+1465,a elephant has a horn,No
+1466,a whale has horns,No
+1467,are feathers related to a bull,No
+1468,a wader has a wing,Yes
+1469,does a grackle have a beak,Yes
+1470,can a rat fly,No
+1471,a duck can be found underwater,No
+1472,does a ox live underwater,No
+1473,does a cuttlefish have fur,No
+1474,does a rhino have wings,No
+1475,does a goldcrest have a beak,Yes
+1476,does a bluefish live in the water,Yes
+1477,a seahorse has a fin,Yes
+1478,a rat lives underwater,No
+1479,does a macaw have a beak,Yes
+1480,a piranha can be found underwater,Yes
+1481,a roaster has hair,No
+1482,a ling can be found in the water,Yes
+1483,does a herring have a fin,Yes
+1484,a wildbeest has a horn,Yes
+1485,does a cowbird live underwater,No
+1486,does a snook have fins,Yes
+1487,does a camel have feathers,No
+1488,hair is a part of a crab body,No
+1489,are feathers related to a heron,Yes
+1490,a antelope has horns,Yes
+1491,does a hawk have a beak,Yes
+1492,a lion has a wing,No
+1493,a sponge has hair,No
+1494,a puma can be found underwater,No
+1495,a jaguar has feathers,No
+1496,does a albacore live underwater,Yes
+1497,does a gnu have fins,No
+1498,a rat has wings,No
+1499,does a lark have feathers,Yes
+1500,does a hen live underwater,No
+1501,a sheep has a beak,No
+1502,does a spearfish live in the water,Yes
+1503,does a impala have a horn,Yes
+1504,does a collie have hair,Yes
+1505,can a jay fly,Yes
+1506,a doberman has feathers,No
+1507,a ram has a horn,Yes
+1508,a dolphin has fur,No
+1509,does a hen have wings,Yes
+1510,a stonefish lives underwater,Yes
+1511,a parrot can be found underwater,No
+1512,does a bird have hair,No
+1513,a lark has feathers,Yes
+1514,a falcon has a wing,Yes
+1515,does a camel have a fin,No
+1516,does a skylark live in the water,No
+1517,a worm lives underwater,No
+1518,a donkey has wings,No
+1519,fur is part of a rat body,Yes
+1520,can a elephant fly,No
+1521,does a buri live underwater,Yes
+1522,a antelope has fur,Yes
+1523,does a eider have a beak,Yes
+1524,a pigeon has a wing,Yes
+1525,a wisent has horns,Yes
+1526,does a leopard have a beak,No
+1527,a ape has hair,Yes
+1528,a pomfret lives underwater,Yes
+1529,does a tuna fly,No
+1530,fur is part of a fish body,No
+1531,does a lizard have horns,No
+1532,a leopard has a beak,No
+1533,does a cow have a fin,No
+1534,a oryx has a horn,Yes
+1535,a carp can be found underwater,Yes
+1536,a dolphin can be found in the water,Yes
+1537,a bullfinch has a beak,Yes
+1538,does a stork have feathers,Yes
+1539,a cuttlefish has fur,No
+1540,does a hawk live underwater,No
+1541,a moose has horns,Yes
+1542,a rhino has fins,No
+1543,does a cat have a wing,No
+1544,a buzzard flies,Yes
+1545,a snake has wings,No
+1546,a skunk has hair,Yes
+1547,does a goldcrest have a fin,No
+1548,does a finch have wings,Yes
+1549,a garfish has a fin,Yes
+1550,can a pigeon fly,Yes
+1551,a ram can be found underwater,No
+1552,a codfish has a fin,Yes
+1553,does a peacock have a wing,Yes
+1554,does a jawfish have fins,Yes
+1555,does a salmon have fur,No
+1556,a cowbird has a fin,No
+1557,does a zebu have horns,Yes
+1558,a albatrosses flies,Yes
+1559,a dalmatian has fur,Yes
+1560,does a tarantula have hair,No
+1561,does a heron have a fin,No
+1562,a knifefish has a fin,Yes
+1563,fur is part of a caracal body,Yes
+1564,can a hornbill fly,Yes
+1565,can a donkey fly,No
+1566,a codfish can be found in the water,Yes
+1567,a bird has a horn,No
+1568,a donkey has fur,Yes
+1569,fur is part of a pomeranian body,Yes
+1570,does a dog have fur,Yes
+1571,a caterpillar has hair,No
+1572,a swan lives underwater,No
+1573,does a gorilla have hair,Yes
+1574,a burbot can be found in the water,Yes
+1575,does a buffalo have horns,Yes
+1576,a bushtit has a beak,Yes
+1577,are feathers related to a rat,No
+1578,a macaw flies,Yes
+1579,hair is a part of a dalmatian body,Yes
+1580,does a finch have feathers,Yes
+1581,fur is part of a whale body,No
+1582,a heron has feathers,Yes
+1583,a eel has a fin,Yes
+1584,a labrador has a beak,No
+1585,a bull has feathers,No
+1586,a gnu has a horn,Yes
+1587,does a ram have a horn,Yes
+1588,a tiger has hair,Yes
+1589,a sheep flies,No
+1590,a bear has wings,No
+1591,a cat can be found in the water,No
+1592,does a gorilla have fur,Yes
+1593,are feathers related to a lizard,No
+1594,does a porpoise live underwater,Yes
+1595,a skunk has fur,Yes
+1596,does a ox have a horn,Yes
+1597,does a buri live in the water,Yes
+1598,does a bison live underwater,No
+1599,a snake has a wing,No
+1600,a yellowfin has a fin,Yes
+1601,does a rhino have a fin,No
+1602,are feathers related to a yellowfin,No
+1603,does a heron have a beak,Yes
+1604,does a sparrow fly,Yes
+1605,a bushtit has wings,Yes
+1606,does a bear have feathers,No
+1607,a bluefin can be found underwater,Yes
+1608,can a bull fly,No
+1609,hair is a part of a giraffe body,Yes
+1610,fur is part of a seal body,No
+1611,does a boxer have hair,Yes
+1612,does a goral live underwater,No
+1613,a tuna has a beak,No
+1614,does a tuna have a wing,No
+1615,does a owl have fins,No
+1616,a goral can be found in the water,No
+1617,hair is a part of a fox body,Yes
+1618,does a bulldog have hair,Yes
+1619,does a hawk have fins,No
+1620,a crow has a wing,Yes
+1621,does a stork have a beak,Yes
+1622,a bluefish can be found underwater,Yes
+1623,a lion flies,No
+1624,fur is part of a swan body,No
+1625,does a lark have fins,No
+1626,does a labrador have a beak,No
+1627,does a jaguar fly,No
+1628,does a snail have feathers,No
+1629,does a lizard have a beak,No
+1630,a brambling has wings,Yes
+1631,a crow has feathers,Yes
+1632,a camel lives in the water,No
+1633,a owl has feathers,Yes
+1634,does a bird have fins,No
+1635,does a kingfish have a fin,Yes
+1636,does a labrador have a wing,No
+1637,does a gull have feathers,Yes
+1638,a wildbeest has horns,Yes
+1639,does a frog have a horn,No
+1640,does a leopard have hair,Yes
+1641,a flatfish can be found underwater,Yes
+1642,does a crocodile have a horn,No
+1643,a frog flies,No
+1644,a bull can be found underwater,No
+1645,does a smelt have fins,Yes
+1646,a oyster can be found underwater,Yes
+1647,does a duck have wings,Yes
+1648,a monkey has wings,No
+1649,does a cow have feathers,No
+1650,a snail has fins,No
+1651,a lizard can be found in the water,No
+1652,does a hippopotamus have horns,No
+1653,does a condor have a wing,Yes
+1654,a squid can be found in the water,Yes
+1655,does a seabird have feathers,Yes
+1656,a liger has hair,Yes
+1657,a bull has horns,Yes
+1658,a avocet has a beak,Yes
+1659,does a finch have a wing,Yes
+1660,does a macaw have wings,Yes
+1661,does a bird live underwater,No
+1662,fur is part of a bird body,No
+1663,a tiger flies,No
+1664,a goat has wings,No
+1665,does a worm have a wing,No
+1666,a squirrel has hair,Yes
+1667,does a eel have a beak,No
+1668,does a sheep have a wing,No
+1669,a puma has fins,No
+1670,fur is part of a baboon body,Yes
+1671,does a cowbird live in the water,No
+1672,does a caterpillar have fur,No
+1673,are feathers related to a chicken,Yes
+1674,does a shark have wings,No
+1675,a parrot has feathers,Yes
+1676,does a cowbird have a fin,No
+1677,a turkey has a beak,Yes
+1678,does a beagle have wings,No
+1679,does a parrot live in the water,No
+1680,a cobra has fur,No
+1681,a moose has fur,Yes
+1682,does a mounflon have a horn,Yes
+1683,a horse has hair,Yes
+1684,a duck lives in the water,No
+1685,a anchovy lives underwater,Yes
+1686,a bluefin lives underwater,Yes
+1687,does a albacore live in the water,Yes
+1688,does a cuttlefish live underwater,Yes
+1689,can a doberman fly,No
+1690,does a rottweiler have a wing,No
+1691,a songbird flies,Yes
+1692,a caracal has fur,Yes
+1693,a pomeranian flies,No
+1694,does a labrador have hair,Yes
+1695,a eider has feathers,Yes
+1696,does a porgy live in the water,Yes
+1697,a spider has hair,No
+1698,a husky has hair,Yes
+1699,a shark has wings,No
+1700,a dove has a beak,Yes
+1701,a pig has wings,No
+1702,are feathers related to a seabird,Yes
+1703,a rottweiler has feathers,No
+1704,does a corgi have a beak,No
+1705,a lark has a wing,Yes
+1706,a dugongs has fins,Yes
+1707,does a zebra have feathers,No
+1708,a hummingbird flies,Yes
+1709,are feathers related to a brambling,Yes
+1710,a goral lives underwater,No
+1711,a pelican has a wing,Yes
+1712,a bushtit has feathers,Yes
+1713,a swordfish lives underwater,Yes
+1714,a rhino lives in the water,No
+1715,can a shark fly,No
+1716,a sheep has a horn,Yes
+1717,a doberman has hair,Yes
+1718,does a porgy live underwater,Yes
+1719,a zebu has horns,Yes
+1720,does a horse fly,No
+1721,does a monkey have wings,No
+1722,does a crocodile have hair,No
+1723,a worm has a horn,No
+1724,a duck can be found in the water,No
+1725,does a eel fly,No
+1726,does a porgy have fins,Yes
+1727,does a carp have a fin,Yes
+1728,does a albatrosses have wings,Yes
+1729,does a tapir have hair,No
+1730,a ass has hair,Yes
+1731,a sparrow has wings,Yes
+1732,a bighorn has horns,Yes
+1733,can a zebra fly,No
+1734,a cattle has a horn,Yes
+1735,hair is a part of a lizard body,No
+1736,does a bear fly,No
+1737,hair is a part of a beagle body,Yes
+1738,does a orca have fins,Yes
+1739,does a antelope have hair,Yes
+1740,does a cat have wings,No
+1741,hair is a part of a snake body,No
+1742,a dolphin lives in the water,Yes
+1743,a cuttlefish has a fin,Yes
+1744,a skylark lives underwater,No
+1745,does a frog have fur,No
+1746,does a bat have wings,Yes
+1747,does a jaguar have wings,No
+1748,a songbird has a beak,Yes
+1749,a salamander has fur,No
+1750,does a jay fly,Yes
+1751,a grackle lives in the water,No
+1752,are feathers related to a ram,No
+1753,does a dog have a horn,No
+1754,does a skylark have a fin,No
+1755,does a gemsbok have horns,Yes
+1756,does a leopard have wings,No
+1757,does a cuttlefish live in the water,Yes
+1758,does a horse have hair,Yes
+1759,a zebra can be found in the water,No
+1760,does a vulture fly,Yes
+1761,a seabird has feathers,Yes
+1762,does a shark fly,No
+1763,a lark can be found underwater,No
+1764,a heron has a fin,No
+1765,does a pig have fur,No
+1766,hair is a part of a crocodile body,No
+1767,does a hourse live underwater,No
+1768,a hourse can be found underwater,No
+1769,does a seabird have a beak,Yes
+1770,a finch lives in the water,No
+1771,a buzzard has a wing,Yes
+1772,does a lizard have fur,No
+1773,does a rat fly,No
+1774,a fox has wings,No
+1775,a puma has feathers,No
+1776,can a worm fly,No
+1777,does a hogfish live underwater,Yes
+1778,does a bat have a fin,No
+1779,does a whitefish live in the water,Yes
+1780,a albacore can be found underwater,Yes
+1781,does a salmon have feathers,No
+1782,are feathers related to a lion,No
+1783,a heron can be found in the water,No
+1784,a bear has a beak,No
+1785,a ling has fins,Yes
+1786,does a buzzard have a beak,Yes
+1787,a garfish has fins,Yes
+1788,a koala has hair,Yes
+1789,can a vulture fly,Yes
+1790,does a swan have fur,No
+1791,a whale has wings,No
+1792,a orca has a fin,Yes
+1793,does a fox fly,No
+1794,does a lion have a beak,No
+1795,a ram lives underwater,No
+1796,a monkey has feathers,No
+1797,does a shark have fins,Yes
+1798,does a bharal have a horn,Yes
+1799,does a pomeranian have hair,Yes
+1800,are feathers related to a beagle,No
+1801,a rottweiler has wings,No
+1802,does a puma live in the water,No
+1803,does a fox have a beak,No
+1804,does a owl have a horn,No
+1805,a bulldog has hair,Yes
+1806,does a rottweiler have hair,Yes
+1807,hair is a part of a pinscher body,Yes
+1808,hair is a part of a pomeranian body,Yes
+1809,a squid lives in the water,Yes
+1810,are feathers related to a flamingo,Yes
+1811,hair is a part of a baboon body,Yes
+1812,does a bird fly,Yes
+1813,does a eagle live in the water,No
+1814,does a shark have feathers,No
+1815,a ant has fur,No
+1816,a condor has feathers,Yes
+1817,does a rhino live in the water,No
+1818,does a eel have fins,Yes
+1819,hair is a part of a caterpillar body,No
+1820,a sheep lives in the water,No
+1821,a ox lives underwater,No
+1822,does a bull have horns,Yes
+1823,a hen can be found in the water,No
+1824,hair is a part of a songbird body,No
+1825,a dog has a beak,No
+1826,a boxer has hair,Yes
+1827,does a cat have horns,No
+1828,does a sheep have a horn,Yes
+1829,are feathers related to a sparrow,Yes
+1830,does a tuna have a beak,No
+1831,does a worm have a horn,No
+1832,hair is a part of a seal body,No
+1833,a skylark has a fin,No
+1834,does a rhino have a horn,Yes
+1835,a flamingo has feathers,Yes
+1836,does a burbot have fins,Yes
+1837,a tapir has horns,No
+1838,a rabbit has horns,No
+1839,fur is part of a horse body,Yes
+1840,a grackle has a wing,Yes
+1841,a yak has fur,Yes
+1842,a moray has a fin,Yes
+1843,a sheep has a wing,No
+1844,does a owl have horns,No
+1845,a turkey has hair,No
+1846,can a ox fly,No
+1847,does a lobster have fur,No
+1848,a rat has a wing,No
+1849,a whale can be found in the water,Yes
+1850,a jawfish has a fin,Yes
+1851,does a labrador have wings,No
+1852,does a fox live in the water,No
+1853,does a africander have a horn,Yes
+1854,does a duck have a beak,Yes
+1855,a gorilla has fur,Yes
+1856,a snook lives underwater,Yes
+1857,does a giraffe have a fin,No
+1858,a cotinga has a wing,Yes
+1859,a koala has fur,Yes
+1860,does a codfish have fins,Yes
+1861,does a liger have hair,Yes
+1862,does a snail have fur,No
+1863,does a starfish have fur,No
+1864,does a hyena have hair,Yes
+1865,does a ox have fins,No
+1866,does a bison have hair,Yes
+1867,does a beagle have fur,Yes
+1868,a hen lives underwater,No
+1869,a alpaca has hair,Yes
+1870,a cat can be found underwater,No
+1871,hair is a part of a rat body,Yes
+1872,does a rabbit have horns,No
+1873,a cowbird can be found in the water,No
+1874,a goldcrest has a fin,No
+1875,a flamingo can be found in the water,No
+1876,a bulbul has a beak,Yes
+1877,a elephant has a fin,No
+1878,does a beagle have a beak,No
+1879,a parrot can be found in the water,No
+1880,does a jay have wings,Yes
+1881,a reindeer has a horn,Yes
+1882,a grackle lives underwater,No
+1883,a parrot lives underwater,No
+1884,does a prawn have fur,No
+1885,does a bulbul have feathers,Yes
+1886,a deer has a beak,No
+1887,does a skylark have wings,Yes
+1888,a condor has a wing,Yes
+1889,a cat flies,No
+1890,does a puma have a horn,No
+1891,does a finch fly,Yes
+1892,a finch lives underwater,No
+1893,does a elephant have feathers,No
+1894,does a dove have wings,Yes
+1895,does a lark have a beak,Yes
+1896,does a ape have hair,Yes
+1897,a gnu lives in the water,No
+1898,a oyster has hair,No
+1899,are feathers related to a owl,Yes
+1900,a ox has a wing,No
+1901,a rottweiler has hair,Yes
+1902,a gull has a wing,Yes
+1903,does a rhino have fur,No
+1904,does a cat have a beak,No
+1905,does a songbird have a horn,No
+1906,are feathers related to a gull,Yes
+1907,does a brambling have a beak,Yes
+1908,a zebra has fur,Yes
+1909,does a rorqual have a fin,Yes
+1910,does a codfish live underwater,Yes
+1911,does a songbird have feathers,Yes
+1912,a eel lives underwater,Yes
+1913,can a lion fly,No
+1914,a lion lives in the water,No
+1915,are feathers related to a wolf,No
+1916,does a antelope have fur,Yes
+1917,a ram has fins,No
+1918,does a zebra have a beak,No
+1919,does a goose have wings,Yes
+1920,a gazelle has horns,Yes
+1921,does a starfish have hair,No
+1922,a hen can be found underwater,No
+1923,a whale flies,No
+1924,does a piranha have hair,No
+1925,a gemsbok has a horn,Yes
+1926,a dugongs lives in the water,Yes
+1927,hair is a part of a rabbit body,Yes
+1928,hair is a part of a bear body,Yes
+1929,does a chicken have wings,Yes
+1930,does a spider have fur,No
+1931,does a goat have horns,Yes
+1932,are feathers related to a corgi,No
+1933,hair is a part of a mule body,Yes
+1934,are feathers related to a worm,No
+1935,does a cowbird have feathers,Yes
+1936,does a bird have a fin,No
+1937,a worm has a beak,No
+1938,does a heron have feathers,Yes
+1939,does a anchovy live underwater,Yes
+1940,does a rabbit live underwater,No
+1941,does a bullfinch have a beak,Yes
+1942,a hummingbird has wings,Yes
+1943,does a condor have feathers,Yes
+1944,does a giraffe have horns,Yes
+1945,hair is a part of a gorilla body,Yes
+1946,a doberman has wings,No
+1947,a rottweiler has a wing,No
+1948,can a fox fly,No
+1949,does a rhino fly,No
+1950,a salmon lives in the water,Yes
+1951,a boa has hair,No
+1952,does a deer have a wing,No
+1953,a bison can be found underwater,No
+1954,a cat has wings,No
+1955,does a snake have a horn,No
+1956,does a bird have feathers,Yes
+1957,a cowbird has wings,Yes
+1958,does a eel have a wing,No
+1959,a salmon can be found in the water,Yes
+1960,does a sheep have fins,No
+1961,a cowbird has feathers,Yes
+1962,does a lion have wings,No
+1963,does a godwit fly,Yes
+1964,a labrador has a wing,No
+1965,a tiger has horns,No
+1966,a salmon has horns,No
+1967,fur is part of a salamander body,No
+1968,a eider can be found in the water,No
+1969,a owl flies,Yes
+1970,does a doberman have a wing,No
+1971,does a bull have fins,No
+1972,does a lizard fly,No
+1973,does a cowbird have a wing,Yes
+1974,fur is part of a barracuda body,No
+1975,does a rabbit fly,No
+1976,does a spider have horns,No
+1977,a hawk has fins,No
+1978,does a corgi fly,No
+1979,can a godwit fly,Yes
+1980,does a jaguar have horns,No
+1981,does a whale live in the water,Yes
+1982,does a eagle have fur,No
+1983,can a cow fly,No
+1984,a snail has hair,No
+1985,does a grackle have wings,Yes
+1986,does a peacock fly,Yes
+1987,does a springbox have horns,Yes
+1988,a fox has fins,No
+1989,does a songbird have horns,No
+1990,can a skylark fly,Yes
+1991,a canary has a wing,Yes
+1992,does a brambling have wings,Yes
+1993,does a swan have a fin,No
+1994,a donkey can be found underwater,No
+1995,does a sheep have a fin,No
+1996,a giraffe has fur,Yes
+1997,does a salmon have hair,No
+1998,does a deer have horns,Yes
+1999,does a labrador have fur,Yes
+2000,a duck has a beak,Yes
+2001,a bulbul has wings,Yes
+2002,a dugongs lives underwater,Yes
+2003,does a ox have a beak,No
+2004,hair is a part of a fish body,No
+2005,does a cow have wings,No
+2006,a rhino has a wing,No
+2007,fur is part of a alligator body,No
+2008,a peacock has wings,Yes
+2009,does a heron have wings,Yes
+2010,does a rat have a wing,No
+2011,does a alpaca have a horn,Yes
+2012,a fox has a wing,No
+2013,can a horse fly,No
+2014,a swan lives in the water,No
+2015,a takin has horns,Yes
+2016,a ox has a fin,No
+2017,a tarantula has fur,No
+2018,does a seabird fly,Yes
+2019,a deer has fur,Yes
+2020,does a parrot fly,Yes
+2021,a chicken has wings,Yes
+2022,a jawfish lives underwater,Yes
+2023,a crow flies,Yes
+2024,a owl lives in the water,No
+2025,does a yellowfin live underwater,Yes
+2026,a turtule can be found underwater,Yes
+2027,does a eel live underwater,Yes
+2028,does a zebra have a wing,No
+2029,a frog has a wing,No
+2030,does a stork have wings,Yes
+2031,does a pomeranian have a beak,No
+2032,a albatrosses has a beak,Yes
+2033,a fox lives underwater,No
+2034,a ram lives in the water,No
+2035,a schnauzer has fur,Yes
+2036,are feathers related to a dove,Yes
+2037,a seal has fur,No
+2038,does a cat have fur,Yes
+2039,does a jellyfish have fur,No
+2040,does a rabbit have fur,Yes
+2041,a ox has fins,No
+2042,can a avocet fly,Yes
+2043,hair is a part of a swan body,No
+2044,a macaw has feathers,Yes
+2045,a salamander has a horn,No
+2046,does a ling live underwater,Yes
+2047,does a ox have feathers,No
+2048,does a codfish have a beak,No
+2049,a eagle has feathers,Yes
+2050,a rhino has wings,No
+2051,does a blackbuck have horns,Yes
+2052,a giraffe has a beak,No
+2053,a albacore has fins,Yes
+2054,does a donkey have feathers,No
+2055,a ram has a wing,No
+2056,a donkey has fins,No
+2057,does a bird have a wing,Yes
+2058,a rorqual has a fin,Yes
+2059,a rottweiler has a beak,No
+2060,does a monkey have fins,No
+2061,does a condor have wings,Yes
+2062,a zebra has fins,No
+2063,a shark flies,No
+2064,a fox can be found underwater,No
+2065,does a poodle have a beak,No
+2066,a markhor has a horn,Yes
+2067,does a bird have a horn,No
+2068,a wolf has a wing,No
+2069,does a heron have fins,No
+2070,a dog has fur,Yes
+2071,a finch has a fin,No
+2072,a poodle can be found in the water,No
+2073,a rat has a fin,No
+2074,a whitefish can be found in the water,Yes
+2075,does a goose fly,Yes
+2076,a tuna flies,No
+2077,does a poodle have wings,No
+2078,a cobra has horns,No
+2079,fur is part of a octupus body,No
+2080,fur is part of a bear body,Yes
+2081,a springbox has horns,Yes
+2082,does a leopard have fur,Yes
+2083,a porgy can be found in the water,Yes
+2084,a kingfisher has fur,No
+2085,does a flamingo have a fin,No
+2086,does a tuna have a horn,No
+2087,does a bluefish have fins,Yes
+2088,a mule has fur,Yes
+2089,a eagle lives in the water,No
+2090,does a knifefish have fins,Yes
+2091,a corgi has fur,Yes
+2092,can a poodle fly,No
+2093,a duck has fins,No
+2094,a hawk has wings,Yes
+2095,a prawn lives in the water,Yes
+2096,a bison has hair,Yes
+2097,does a goldcrest fly,Yes
+2098,a porpoise lives in the water,Yes
+2099,does a tiger have a fin,No
+2100,a baiji has fins,Yes
+2101,a alligator has horns,No
+2102,can a eider fly,Yes
+2103,does a hyena have fur,Yes
+2104,does a elephant have horns,No
+2105,does a albacore have fins,Yes
+2106,a herring has fins,Yes
+2107,a bluefin lives in the water,Yes
+2108,a smelt can be found underwater,Yes
+2109,a fox can be found in the water,No
+2110,does a skylark fly,Yes
+2111,a godwit flies,Yes
+2112,does a donkey have a beak,No
+2113,a liger has fur,Yes
+2114,a addax has horns,Yes
+2115,a cuttlefish has fins,Yes
+2116,does a squid live underwater,Yes
+2117,does a ass have hair,Yes
+2118,does a hornbill fly,Yes
+2119,hair is a part of a mamba body,No
+2120,a skylark has fins,No
+2121,does a goose have a wing,Yes
+2122,hair is a part of a flamingo body,No
+2123,does a pomfret have fins,Yes
+2124,fur is part of a alpaca body,Yes
+2125,a ox can be found in the water,No
+2126,does a markhor have a horn,Yes
+2127,does a shark have horns,No
+2128,can a stork fly,Yes
+2129,does a monkey live in the water,No
+2130,a flamingo has fins,No
+2131,does a donkey have hair,Yes
+2132,does a elephant have hair,No
+2133,does a snail have a beak,No
+2134,does a prawn live underwater,Yes
+2135,does a falcon have a beak,Yes
+2136,a buzzard has feathers,Yes
+2137,does a songbird have hair,No
+2138,fur is part of a snail body,No
+2139,a rabbit lives in the water,No
+2140,does a yellowfin have a wing,No
+2141,hair is a part of a dog body,Yes
+2142,a ox lives in the water,No
+2143,does a whitefish have fins,Yes
+2144,does a snook live underwater,Yes
+2145,does a frog have hair,No
+2146,does a rat have a beak,No
+2147,a albacore has a fin,Yes
+2148,a eel has a beak,No
+2149,does a canary have feathers,Yes
+2150,a raccoon has fur,Yes
+2151,does a hummingbird fly,Yes
+2152,does a salmon have a beak,No
+2153,does a octupus have a horn,No
+2154,a herring has hair,No
+2155,does a duck live underwater,No
+2156,a songbird has horns,No
+2157,a cobra has a horn,No
+2158,a vulture flies,Yes
+2159,hair is a part of a squirrel body,Yes
+2160,a pomeranian has fur,Yes
+2161,a eagle has fins,No
+2162,a lobster has fur,No
+2163,a hawk has a fin,No
+2164,a bluefin has a fin,Yes
+2165,a poodle has feathers,No
+2166,does a heron live in the water,No
+2167,does a fish have horns,No
+2168,does a hen have a beak,Yes
+2169,hair is a part of a cobra body,No
+2170,does a corgi have fur,Yes
+2171,can a owl fly,Yes
+2172,a doberman flies,No
+2173,does a tarantula have horns,No
+2174,does a corgi have feathers,No
+2175,a heron flies,Yes
+2176,does a shark have hair,No
+2177,a parrot has fins,No
+2178,a worm flies,No
+2179,a bull has a wing,No
+2180,a kingfish has a fin,Yes
+2181,a snake has fur,No
+2182,a snook lives in the water,Yes
+2183,hair is a part of a bulldog body,Yes
+2184,hair is a part of a labrador body,Yes
+2185,a worm has fur,No
+2186,does a grackle have a fin,No
+2187,a hornbill has a wing,Yes
+2188,a elephant has hair,No
+2189,a tuna can be found in the water,Yes
+2190,does a spearfish live underwater,Yes
+2191,does a bull fly,No
+2192,a blackbuck has horns,Yes
+2193,does a eagle have a horn,No
+2194,does a sheep live underwater,No
+2195,a lark can be found in the water,No
+2196,a octupus can be found in the water,Yes
+2197,does a eagle have a wing,Yes
+2198,a monkey lives underwater,No
+2199,does a condor fly,Yes
+2200,a rat flies,No
+2201,does a elephant have a fin,No
+2202,a burrfish can be found in the water,Yes
+2203,a wolf lives in the water,No
+2204,does a codfish have fur,No
+2205,does a flamingo have horns,No
+2206,a lion has feathers,No
+2207,does a dove have a beak,Yes
+2208,hair is a part of a jellyfish body,No
+2209,a skylark has a wing,Yes
+2210,does a fish have a fin,Yes
+2211,a wolf can be found underwater,No
+2212,does a gnu have a horn,Yes
+2213,a ling lives underwater,Yes
+2214,a stork has wings,Yes
+2215,does a turkey have wings,Yes
+2216,a octupus has hair,No
+2217,does a iguana have fur,No
+2218,a sponge has fur,No
+2219,does a duck live in the water,No
+2220,does a swan have a wing,Yes
+2221,a pig has a horn,No
+2222,a hogfish has a fin,Yes
+2223,does a herring have fur,No
+2224,can a swan fly,Yes
+2225,a herring lives underwater,Yes
+2226,does a rabbit have wings,No
+2227,does a snail have hair,No
+2228,does a goral have a fin,No
+2229,fur is part of a husky body,Yes
+2230,are feathers related to a peacock,Yes
+2231,does a hourse have fins,No
+2232,a cow has a wing,No
+2233,does a seahorse have fins,Yes
+2234,a tiger has wings,No
+2235,does a pig have a wing,No
+2236,does a octupus have fur,No
+2237,a shark has hair,No
+2238,a ox has horns,Yes
+2239,a hippopotamus has a horn,No
+2240,a ass has fur,Yes
+2241,hair is a part of a rottweiler body,Yes
+2242,can a puma fly,No
+2243,does a shark have fur,No
+2244,a owl can be found underwater,No
+2245,does a yak have horns,Yes
+2246,a smelt lives in the water,Yes
+2247,fur is part of a turkey body,No
+2248,does a songbird fly,Yes
+2249,does a ox fly,No
+2250,a leopard has wings,No
+2251,a tuna has a fin,Yes
+2252,a dove has wings,Yes
+2253,a swan has fins,No
+2254,does a rabbit have a beak,No
+2255,a whale has a beak,No
+2256,a pelican has a beak,Yes
+2257,fur is part of a tuna body,No
+2258,a poodle has fins,No
+2259,a bird has hair,No
+2260,a sheep has horns,Yes
+2261,can a rabbit fly,No
+2262,does a lion have hair,Yes
+2263,does a ant have hair,No
+2264,a grackle has fins,No
+2265,a pomfret can be found in the water,Yes
+2266,a crow has wings,Yes
+2267,does a worm have wings,No
+2268,a ram has horns,Yes
+2269,a rabbit has a beak,No
+2270,a wolf flies,No
+2271,does a lion have fur,Yes
+2272,a jaguar has wings,No
+2273,does a eel live in the water,Yes
+2274,are feathers related to a eider,Yes
+2275,a grackle has a fin,No
+2276,does a jellyfish have a wing,No
+2277,are feathers related to a bullfinch,Yes
+2278,does a grackle have fins,No
+2279,a snail has a beak,No
+2280,a shark lives in the water,Yes
+2281,hair is a part of a horse body,Yes
+2282,a ram has feathers,No
+2283,does a elephant have a wing,No
+2284,a shark has fur,No
+2285,a piranha has hair,No
+2286,a buri has fins,Yes
+2287,a cat lives in the water,No
+2288,hair is a part of a deer body,Yes
+2289,a spider has horns,No
+2290,does a donkey have fins,No
+2291,a donkey has a wing,No
+2292,does a avocet fly,Yes
+2293,fur is part of a herring body,No
+2294,does a lizard have a horn,No
+2295,does a zebra fly,No
+2296,does a lizard have wings,No
+2297,does a wolf have fur,Yes
+2298,does a vulture have feathers,Yes
+2299,does a giraffe live in the water,No
+2300,a buri can be found underwater,Yes
+2301,does a skylark have fins,No
+2302,a jellyfish has horns,No
+2303,are feathers related to a vulture,Yes
+2304,does a eider have fins,No
+2305,can a bat fly,Yes
+2306,a cow has a fin,No
+2307,does a rat have horns,No
+2308,fur is part of a shrimp body,No
+2309,a squirrel has fur,Yes
+2310,does a cobra have hair,No
+2311,a camel flies,No
+2312,does a cotinga have a wing,Yes
+2313,a crow has a beak,Yes
+2314,does a jaguar have hair,Yes
+2315,a poodle has a beak,No
+2316,does a jaguar have fur,Yes
+2317,does a baiji have fins,Yes
+2318,does a kingfish have fins,Yes
+2319,a pig has horns,No
+2320,a swan has a horn,No
+2321,hair is a part of a tarantula body,No
+2322,does a mule have hair,Yes
+2323,a owl has a horn,No
+2324,a impala has horns,Yes
+2325,can a bullfinch fly,Yes
+2326,a eider has fins,No
+2327,a stonefish lives in the water,Yes
+2328,a snail has a wing,No
+2329,a shrimp lives in the water,Yes
+2330,a dugongs can be found underwater,Yes
+2331,a rhinocodon has a fin,Yes
+2332,a eel has wings,No
+2333,a bulbul has feathers,Yes
+2334,a dolphin has a beak,No
+2335,a owl has wings,Yes
+2336,does a snail live in the water,No
+2337,a gnu has fins,No
+2338,a doberman has a beak,No
+2339,a bushtit flies,Yes
+2340,a octupus can be found underwater,Yes
+2341,does a hen have a wing,Yes
+2342,are feathers related to a whale,No
+2343,a gull has a horn,No
+2344,a moose has hair,Yes
+2345,does a caterpillar have a horn,No
+2346,a hornbill has wings,Yes
+2347,a codfish lives in the water,Yes
+2348,are feathers related to a camel,No
+2349,does a ox have a wing,No
+2350,does a goldcrest have feathers,Yes
+2351,a monkey has hair,Yes
+2352,a eagle has fur,No
+2353,a tapir has a horn,No
+2354,does a frog have horns,No
+2355,a spearfish can be found underwater,Yes
+2356,a salmon has feathers,No
+2357,a chicken has a wing,Yes
+2358,hair is a part of a tapir body,No
+2359,a snake flies,No
+2360,a salmon can be found underwater,Yes
+2361,a gar lives underwater,Yes
+2362,are feathers related to a tiger,No
+2363,a buri lives in the water,Yes
+2364,does a eider live in the water,No
+2365,does a puma have a wing,No
+2366,a mule has hair,Yes
+2367,does a grackle have a wing,Yes
+2368,a pigeon has wings,Yes
+2369,a codfish can be found underwater,Yes
+2370,does a seahorse live in the water,Yes
+2371,can a condor fly,Yes
+2372,a elephant has a beak,No
+2373,does a rabbit have a horn,No
+2374,a donkey lives in the water,No
+2375,fur is part of a sponge body,No
+2376,a donkey has a beak,No
+2377,does a snail live underwater,No
+2378,a flamingo has a wing,Yes
+2379,does a salmon have a fin,Yes
+2380,does a dolphin have a beak,No
+2381,does a owl have a beak,Yes
+2382,does a takin have horns,Yes
+2383,a crocodile has horns,No
+2384,does a kingfish live in the water,Yes
+2385,a camel has hair,Yes
+2386,hair is a part of a octupus body,No
+2387,a shark has a horn,No
+2388,does a seal live in the water,Yes
+2389,a shrimp has fur,No
+2390,does a camel live underwater,No
+2391,are feathers related to a stork,Yes
+2392,a labrador flies,No
+2393,does a condor have a beak,Yes
+2394,a leopard has a wing,No
+2395,does a stonefish live in the water,Yes
+2396,does a lark have a wing,Yes
+2397,a cattle has horns,Yes
+2398,does a mamba have fur,No
+2399,does a bullfinch fly,Yes
+2400,hair is a part of a kingfisher body,No
+2401,does a caterpillar have horns,No
+2402,does a swordfish live underwater,Yes
+2403,a shark has a beak,No
+2404,a flatfish can be found in the water,Yes
+2405,does a snook live in the water,Yes
+2406,a fox has fur,Yes
+2407,a swordfish has a fin,Yes
+2408,a mallard flies,Yes
+2409,a shark has a wing,No
+2410,hair is a part of a boxer body,Yes
+2411,does a canary have a wing,Yes
+2412,does a pomeranian fly,No
+2413,does a herring have hair,No
+2414,does a chicken have feathers,Yes
+2415,a eel has feathers,No
+2416,does a rorqual have fins,Yes
+2417,are feathers related to a snail,No
+2418,does a sternidae fly,Yes
+2419,does a zebra have hair,Yes
+2420,a dolphin has hair,No
+2421,a smelt can be found in the water,Yes
+2422,does a dolphin have fins,Yes
+2423,can a deer fly,No
+2424,a eider has a beak,Yes
+2425,does a hummingbird have feathers,Yes
+2426,a shark can be found underwater,Yes
+2427,does a fox have fins,No
+2428,a iguana has a horn,No
+2429,does a buri have a fin,Yes
+2430,a burrfish can be found underwater,Yes
+2431,can a beagle fly,No
+2432,fur is part of a shark body,No
+2433,does a whale have a wing,No
+2434,does a tiger fly,No
+2435,a stonefish can be found underwater,Yes
+2436,does a bird have a beak,Yes
+2437,a lizard has horns,No
+2438,a boa has fur,No
+2439,hair is a part of a tiger body,Yes
+2440,does a codfish fly,No
+2441,does a turtule live underwater,Yes
+2442,a duck has wings,Yes
+2443,a sparrow has a beak,Yes
+2444,can a flamingo fly,Yes
+2445,a dog can be found underwater,No
+2446,does a peacock have feathers,Yes
+2447,can a pig fly,No
+2448,a dalmatian has hair,Yes
+2449,a puma can be found in the water,No
+2450,a snake has feathers,No
+2451,a monkey can be found underwater,No
+2452,does a cotinga have a beak,Yes
+2453,fur is part of a ass body,Yes
+2454,does a rhino live underwater,No
+2455,does a lion live in the water,No
+2456,does a horse have a beak,No
+2457,does a cockatoo have a wing,Yes
+2458,fur is part of a cobra body,No
+2459,does a pig have horns,No
+2460,does a salamander have fur,No
+2461,a duck has feathers,Yes
+2462,does a caracal have fur,Yes
+2463,a hummingbird has a wing,Yes
+2464,a turtule lives underwater,Yes
+2465,a eel has a wing,No
+2466,does a doberman have fur,Yes
+2467,a giraffe has fins,No
+2468,does a grackle fly,Yes
+2469,a porgy lives underwater,Yes
+2470,a heron can be found underwater,No
+2471,a pelican has fins,No
+2472,fur is part of a worm body,No
+2473,does a orca live underwater,Yes
+2474,a seal lives in the water,Yes
+2475,fur is part of a snake body,No
+2476,does a buri have fins,Yes
+2477,a tiger lives in the water,No
+2478,a cowbird lives in the water,No
+2479,a piranha has a fin,Yes
+2480,a beagle has a wing,No
+2481,a monkey flies,No
+2482,does a fish have fins,Yes
+2483,fur is part of a bulldog body,Yes
+2484,a caracal has hair,Yes
+2485,a salmon has fins,Yes
+2486,a rabbit has a horn,No
+2487,hair is a part of a collie body,Yes
+2488,a springbox has a horn,Yes
+2489,a carp lives underwater,Yes
+2490,a giraffe lives underwater,No
+2491,does a yak have a horn,Yes
+2492,does a iguana have horns,No
+2493,does a squirrel have fur,Yes
+2494,are feathers related to a albatrosses,Yes
+2495,a ram has a fin,No
+2496,a corgi flies,No
+2497,does a lark live in the water,No
+2498,does a codfish have feathers,No
+2499,does a orca have a fin,Yes
+2500,a stork has a wing,Yes
+2501,can a leopard fly,No
+2502,does a herring have fins,Yes
+2503,fur is part of a gorilla body,Yes
+2504,fur is part of a fox body,Yes
+2505,a pigeon has a beak,Yes
+2506,a dugongs can be found in the water,Yes
+2507,does a alligator have a horn,No
+2508,does a lark have wings,Yes
+2509,a donkey has hair,Yes
+2510,a fish lives underwater,Yes
+2511,a eider can be found underwater,No
+2512,a ling lives in the water,Yes
+2513,a cat has hair,Yes
+2514,a bear has fur,Yes
+2515,a gull has horns,No
+2516,does a anoa have a horn,Yes
+2517,are feathers related to a pig,No
+2518,does a snake have horns,No
+2519,does a eider fly,Yes
+2520,a canary has a beak,Yes
+2521,does a dolphin have a fin,Yes
+2522,a grackle flies,Yes
+2523,does a yak have hair,Yes
+2524,does a eel have wings,No
+2525,does a codfish have wings,No
+2526,a elephant can be found in the water,No
+2527,a bison can be found in the water,No
+2528,does a pomeranian have a wing,No
+2529,does a monkey have hair,Yes
+2530,a swan has horns,No
+2531,a rhino can be found in the water,No
+2532,a goldfish has fins,Yes
+2533,a whitefish has a fin,Yes
+2534,a tuna has feathers,No
+2535,can a snail fly,No
+2536,a jaguar can be found underwater,No
+2537,does a fish live in the water,Yes
+2538,does a ling have a fin,Yes
+2539,can a gull fly,Yes
+2540,a pelican lives in the water,No
+2541,hair is a part of a camel body,Yes
+2542,fur is part of a elephant body,No
+2543,does a dolphin have wings,No
+2544,a pomeranian has a beak,No
+2545,does a fox live underwater,No
+2546,a flamingo has fur,No
+2547,hair is a part of a shrimp body,No
+2548,a yellowfin lives underwater,Yes
+2549,a avocet has a wing,Yes
+2550,a ling can be found underwater,Yes
+2551,can a lark fly,Yes
+2552,a bird has fur,No
+2553,a dugongs has a fin,Yes
+2554,does a turkey have a beak,Yes
+2555,does a bull live underwater,No
+2556,a finch can be found in the water,No
+2557,does a zebu have a horn,Yes
+2558,a flatfish has a fin,Yes
+2559,a cow has a horn,Yes
+2560,can a goldcrest fly,Yes
+2561,does a swan have wings,Yes
+2562,a cockatoo has feathers,Yes
+2563,a dolphin has feathers,No
+2564,a buffalo has horns,Yes
+2565,a zebra has a beak,No
+2566,does a swan have horns,No
+2567,does a bluefin live underwater,Yes
+2568,a cat has feathers,No
+2569,are feathers related to a grackle,Yes
+2570,are feathers related to a zebra,No
+2571,does a doberman fly,No
+2572,a poodle has a wing,No
+2573,a bullfinch has feathers,Yes
+2574,fur is part of a boa body,No
+2575,does a alligator have horns,No
+2576,does a cockatoo have feathers,Yes
+2577,a herring lives in the water,Yes
+2578,a goldcrest has wings,Yes
+2579,a giraffe has horns,Yes
+2580,a lion has a beak,No
+2581,does a grackle live underwater,No
+2582,does a bison live in the water,No
+2583,fur is part of a lion body,Yes
+2584,a starfish lives underwater,Yes
+2585,does a duck have a wing,Yes
+2586,does a raccoon have hair,Yes
+2587,can a monkey fly,No
+2588,does a crow have a beak,Yes
+2589,does a porpoise have a fin,Yes
+2590,can a dolphin fly,No
+2591,does a dog live in the water,No
+2592,a baiji has a fin,Yes
+2593,a bat has fins,No
+2594,does a parrot have a fin,No
+2595,a hogfish lives in the water,Yes
+2596,does a eland have horns,Yes
+2597,a rottweiler has fur,Yes
+2598,a rat has feathers,No
+2599,does a heron have a wing,Yes
+2600,hair is a part of a alligator body,No
+2601,a burrfish has a fin,Yes
+2602,does a codfish have a wing,No
+2603,a porgy can be found underwater,Yes
+2604,are feathers related to a bulbul,Yes
+2605,does a tiger live underwater,No
+2606,does a pig have a beak,No
+2607,a smelt has a fin,Yes
+2608,are feathers related to a goose,Yes
+2609,does a frog have a wing,No
+2610,does a boxer have fur,Yes
+2611,does a pig have hair,No
+2612,a falcon flies,Yes
+2613,a salmon lives underwater,Yes
+2614,does a snail have wings,No
+2615,fur is part of a jellyfish body,No
+2616,does a cat have feathers,No
+2617,does a snake have hair,No
+2618,does a jaguar have a fin,No
+2619,a sheep lives underwater,No
+2620,a seal has hair,No
+2621,a hourse has fins,No
+2622,a doberman has a wing,No
+2623,a rabbit has a fin,No
+2624,a ram flies,No
+2625,a beagle flies,No
+2626,does a salmon have wings,No
+2627,can a macaw fly,Yes
+2628,a buri can be found in the water,Yes
+2629,a avocet flies,Yes
+2630,a wolf can be found in the water,No
+2631,does a swan have feathers,Yes
+2632,does a cowbird have fins,No
+2633,does a salmon fly,No
+2634,a horse has wings,No
+2635,a elephant lives underwater,No
+2636,does a cockatoo have a beak,Yes
+2637,a worm has a wing,No
+2638,a goldcrest has a beak,Yes
+2639,a bluefish can be found in the water,Yes
+2640,a pig has a beak,No
+2641,does a yak have horns,Yes
+2642,a baboon has fur,Yes
+2643,does a octupus live in the water,Yes
+2644,a fish has hair,No
+2645,a rhinocodon has fins,Yes
+2646,a tapir has hair,No
+2647,a porpoise can be found underwater,Yes
+2648,does a pomfret live underwater,Yes
+2649,does a sheep have horns,Yes
+2650,a rhino can be found underwater,No
+2651,a bat can be found underwater,No
+2652,does a giraffe have hair,Yes
+2653,does a eider have wings,Yes
+2654,are feathers related to a goldcrest,Yes
+2655,fur is part of a oyster body,No
+2656,does a rhinocodon have fins,Yes
+2657,a jaguar lives in the water,No
+2658,a frog has a beak,No
+2659,does a turkey have hair,No
+2660,does a rhino have hair,No
+2661,a elephant has fins,No
+2662,does a ox live in the water,No
+2663,a whale has a fin,Yes
+2664,a seabird has a wing,Yes
+2665,a orca lives underwater,Yes
+2666,does a goat have feathers,No
+2667,a cow has horns,Yes
+2668,a rorqual can be found underwater,Yes
+2669,does a hawk live in the water,No
+2670,can a jaguar fly,No
+2671,a iguana has hair,No
+2672,does a burbot live underwater,Yes
+2673,can a mallard fly,Yes
+2674,does a rabbit have a wing,No
+2675,a pig has fur,No
+2676,a ant has hair,No
+2677,does a deer fly,No
+2678,a cuttlefish has hair,No
+2679,does a piranha live underwater,Yes
+2680,does a dugongs live underwater,Yes
+2681,does a donkey live underwater,No
+2682,does a owl live underwater,No
+2683,a hen has a beak,Yes
+2684,a orca lives in the water,Yes
+2685,does a tuna have a fin,Yes
+2686,does a springbox have a horn,Yes
+2687,a beagle has hair,Yes
+2688,a bison has a horn,Yes
+2689,a shrimp has hair,No
+2690,hair is a part of a jaguar body,Yes
+2691,does a gemsbok have a horn,Yes
+2692,can a yellowfin fly,No
+2693,does a lizard live in the water,No
+2694,a snook has fins,Yes
+2695,a duck flies,Yes
+2696,are feathers related to a goat,No
+2697,a knifefish has fins,Yes
+2698,does a eider have a wing,Yes
+2699,a grackle has feathers,Yes
+2700,a jawfish can be found underwater,Yes
+2701,a bat lives in the water,No
+2702,a wolf lives underwater,No
+2703,can a cockatoo fly,Yes
+2704,a poodle has a horn,No
+2705,does a tiger have horns,No
+2706,a fox lives in the water,No
+2707,a hogfish lives underwater,Yes
+2708,a giraffe has a wing,No
+2709,can a giraffe fly,No
+2710,does a canary have wings,Yes
+2711,are feathers related to a songbird,Yes
+2712,are feathers related to a doberman,No
+2713,a kingfisher has hair,No
+2714,are feathers related to a jay,Yes
+2715,does a yellowfin have a fin,Yes
+2716,a gar has hair,No
+2717,a tiger has fur,Yes
+2718,does a owl live in the water,No
+2719,fur is part of a dalmatian body,Yes
+2720,does a husky have fur,Yes
+2721,does a fox have wings,No
+2722,a jaguar has a beak,No
+2723,can a tiger fly,No
+2724,does a dog have a wing,No
+2725,a rhino lives underwater,No
+2726,fur is part of a mouse body,Yes
+2727,a pomfret has a fin,Yes
+2728,does a corgi have wings,No
+2729,hair is a part of a boa body,No
+2730,a kangaroo has hair,Yes
+2731,fur is part of a yak body,Yes
+2732,a leopard flies,No
+2733,a eland has a horn,Yes
+2734,does a worm live underwater,No
+2735,does a tiger have fins,No
+2736,fur is part of a frog body,No
+2737,does a dog have wings,No
+2738,does a smelt have a fin,Yes
+2739,does a elephant have wings,No
+2740,a flamingo lives underwater,No
+2741,a elephant has fur,No
+2742,hair is a part of a whale body,No
+2743,hair is a part of a elephant body,No
+2744,a smelt has fins,Yes
+2745,a bat has a fin,No
+2746,does a goldcrest live underwater,No
+2747,fur is part of a prawn body,No
+2748,are feathers related to a donkey,No
+2749,does a worm live in the water,No
+2750,fur is part of a antelope body,Yes
+2751,does a porpoise have fins,Yes
+2752,does a puma have feathers,No
+2753,a jawfish lives in the water,Yes
+2754,a alpaca has fur,Yes
+2755,does a cotinga have feathers,Yes
+2756,hair is a part of a lion body,Yes
+2757,a beagle has a beak,No
+2758,does a barracuda have a fin,Yes
+2759,does a beagle have hair,Yes
+2760,are feathers related to a labrador,No
+2761,a giraffe has hair,Yes
+2762,a tuna lives in the water,Yes
+2763,does a pomfret have a fin,Yes
+2764,a jay has wings,Yes
+2765,a codfish has hair,No
+2766,a lizard lives in the water,No
+2767,fur is part of a pig body,No
+2768,does a albatrosses have a wing,Yes
+2769,a canary flies,Yes
+2770,a fox has a fin,No
+2771,does a rat have a fin,No
+2772,hair is a part of a codfish body,No
+2773,hair is a part of a yak body,Yes
+2774,a oyster has a fin,Yes
+2775,a dolphin has a wing,No
+2776,does a puma have fins,No
+2777,hair is a part of a donkey body,Yes
+2778,does a beagle have a wing,No
+2779,a stonefish has fins,Yes
+2780,a elk has a horn,Yes
+2781,fur is part of a labrador body,Yes
+2782,a yellowfin has fins,Yes
+2783,a chihuahua has fur,Yes
+2784,does a puma have a beak,No
+2785,a flamingo lives in the water,No
+2786,does a donkey have fur,Yes
+2787,are feathers related to a macaw,Yes
+2788,a lion has wings,No
+2789,a hen has fins,No
+2790,a parrot lives in the water,No
+2791,does a jaguar have a wing,No
+2792,a anchovy lives in the water,Yes
+2793,a gnu can be found underwater,No
+2794,a poodle can be found underwater,No
+2795,does a dolphin live in the water,Yes
+2796,a pomfret can be found underwater,Yes
+2797,does a yellowfin fly,No
+2798,does a cuttlefish have fins,Yes
+2799,does a rat have a horn,No
+2800,does a lion fly,No
+2801,a eagle can be found underwater,No
+2802,hair is a part of a koala body,Yes
+2803,does a seal have hair,No
+2804,a eagle has wings,Yes
+2805,a lion has fins,No
+2806,does a puma fly,No
+2807,a puma has horns,No
+2808,a yellowfin lives in the water,Yes
+2809,fur is part of a zebra body,Yes
+2810,does a rottweiler fly,No
+2811,can a crow fly,Yes
+2812,a lion has hair,Yes
+2813,does a wolf have a fin,No
+2814,are feathers related to a bird,Yes
+2815,a fish has a fin,Yes
+2816,fur is part of a cuttlefish body,No
+2817,does a snook have a fin,Yes
+2818,a seahorse has fins,Yes
+2819,does a burrfish live in the water,Yes
+2820,a anoa has a horn,Yes
+2821,a rhino flies,No
+2822,does a burrfish live underwater,Yes
+2823,a dolphin has a fin,Yes
+2824,does a flatfish live underwater,Yes
+2825,does a hummingbird have a wing,Yes
+2826,does a shark have a horn,No
+2827,fur is part of a dolphin body,No
+2828,does a hogfish have fins,Yes
+2829,does a wisent have horns,Yes
+2830,does a whale live underwater,Yes
+2831,does a cow have horns,Yes
+2832,does a finch have fins,No
+2833,a frog has horns,No
+2834,a eel can be found underwater,Yes
+2835,hair is a part of a chihuahua body,Yes
+2836,a dolphin has wings,No
+2837,fur is part of a collie body,Yes
+2838,does a pelican have a fin,No
+2839,does a liger have fur,Yes
+2840,a dolphin flies,No
+2841,can a peacock fly,Yes
+2842,a monkey has a beak,No
+2843,a donkey has feathers,No
+2844,does a koala have fur,Yes
+2845,a swan has hair,No
+2846,does a roaster have hair,No
+2847,are feathers related to a rabbit,No
+2848,does a yellowfin have a beak,No
+2849,a pelican can be found in the water,No
+2850,a poodle has wings,No
+2851,does a lizard live underwater,No
+2852,a porgy has a fin,Yes
+2853,does a sparrow have feathers,Yes
+2854,does a cattle have horns,Yes
+2855,a knifefish lives underwater,Yes
+2856,does a flamingo have fins,No
+2857,a corgi has a wing,No
+2858,does a pig have a horn,No
+2859,does a seal have fur,No
+2860,does a camel fly,No
+2861,a rat can be found underwater,No
+2862,does a whale fly,No
+2863,does a tuna have hair,No
+2864,a owl has a beak,Yes
+2865,a cowbird lives underwater,No
+2866,a gorilla has hair,Yes
+2867,does a lion have a fin,No
+2868,a vulture has wings,Yes
+2869,does a fox have fur,Yes
+2870,does a bushtit fly,Yes
+2871,does a tarantula have a horn,No
+2872,does a addax have a horn,Yes
+2873,a bat flies,Yes
+2874,does a hogfish live in the water,Yes
+2875,are feathers related to a ox,No
+2876,a albacore lives in the water,Yes
+2877,does a rabbit have hair,Yes
+2878,a skylark has a beak,Yes
+2879,does a cowbird have wings,Yes
+2880,a pelican has a fin,No
+2881,does a dog have horns,No
+2882,a turkey has wings,Yes
+2883,does a shark live in the water,Yes
+2884,does a pinscher have hair,Yes
+2885,does a rat have wings,No
+2886,a rorqual can be found in the water,Yes
+2887,a pinscher has fur,Yes
+2888,does a bison have fur,Yes
+2889,a deer flies,No
+2890,a tiger has a fin,No
+2891,does a whale have a horn,No
+2892,does a wolf have a wing,No
+2893,does a oryx have a horn,Yes
+2894,does a yak have fur,Yes
+2895,a flatfish lives underwater,Yes
+2896,can a rhino fly,No
+2897,can a falcon fly,Yes
+2898,a wolf has a fin,No
+2899,are feathers related to a shark,No
+2900,a spearfish can be found in the water,Yes
+2901,a camel has fur,Yes
+2902,fur is part of a flamingo body,No
+2903,does a wolf live in the water,No
+2904,hair is a part of a frog body,No
+2905,are feathers related to a elephant,No
+2906,a mamba has fur,No
+2907,a donkey flies,No
+2908,does a carp live underwater,Yes
+2909,a yellowfin can be found in the water,Yes
+2910,a piranha has fins,Yes
+2911,a moose has a horn,Yes
+2912,a barracuda has fur,No
+2913,does a giraffe have wings,No
+2914,a heron has wings,Yes
+2915,does a poodle have a horn,No
+2916,a camel has a fin,No
+2917,does a owl have a fin,No
+2918,a carp can be found in the water,Yes
+2919,does a elephant have a beak,No
+2920,a giraffe flies,No
+2921,a porpoise has a fin,Yes
+2922,a kingfish lives in the water,Yes
+2923,does a bull have a fin,No
+2924,hair is a part of a schnauzer body,Yes
+2925,a horse has feathers,No
+2926,fur is part of a codfish body,No
+2927,does a macaw have a wing,Yes
+2928,does a rottweiler have feathers,No
+2929,a lion can be found underwater,No
+2930,does a yellowfin have fins,Yes
+2931,does a cobra have fur,No
+2932,a alligator has fur,No
+2933,a barracuda has hair,No
+2934,a lark lives underwater,No
+2935,fur is part of a wolf body,Yes
+2936,does a ling have fins,Yes
+2937,a lion lives underwater,No
+2938,does a doberman have wings,No
+2939,does a jellyfish have hair,No
+2940,does a flamingo have a beak,Yes
+2941,a whale can be found underwater,Yes
+2942,a giraffe has a horn,Yes
+2943,a zebra has a fin,No
+2944,does a shark have a fin,Yes
+2945,does a elephant have a horn,No
+2946,does a vulture have wings,Yes
+2947,does a hawk fly,Yes
+2948,a parrot has a wing,Yes
+2949,does a impala have horns,Yes
+2950,does a baboon have hair,Yes
+2951,does a ram have feathers,No
+2952,does a prawn have hair,No
+2953,a rat has horns,No
+2954,a bat lives underwater,No
+2955,can a dove fly,Yes
+2956,a heron has a wing,Yes
+2957,does a grackle live in the water,No
+2958,does a bison have a horn,Yes
+2959,does a tiger have wings,No
+2960,a zebra lives in the water,No
+2961,a goldcrest flies,Yes
+2962,does a jay have a beak,Yes
+2963,a monkey has a wing,No
+2964,does a flamingo have feathers,Yes
+2965,a beagle has fur,Yes
+2966,does a reindeer have a horn,Yes
+2967,does a sheep have feathers,No
+2968,does a cat live in the water,No
+2969,does a sparrow have a beak,Yes
+2970,a grackle has wings,Yes
+2971,a flatfish has fins,Yes
+2972,does a bull have a wing,No
+2973,does a whale have hair,No
+2974,a jawfish has fins,Yes
+2975,a hogfish can be found underwater,Yes
+2976,a peacock has a beak,Yes
+2977,does a seabird have wings,Yes
+2978,a eagle can be found in the water,No
+2979,a puma flies,No
+2980,does a zebra have fins,No
+2981,a lion has fur,Yes
+2982,a lark has a beak,Yes
+2983,a worm has a fin,No
+2984,a pelican has wings,Yes
+2985,does a jellyfish have feathers,No
+2986,a jaguar lives underwater,No
+2987,does a giraffe have a beak,No
+2988,are feathers related to a avocet,Yes
+2989,does a lion live underwater,No
+2990,a crocodile has hair,No
+2991,a ling has a fin,Yes
+2992,a finch has feathers,Yes
+2993,a heron lives in the water,No
+2994,a camel lives underwater,No
+2995,does a monkey have fur,Yes
+2996,does a ram fly,No
+2997,a hippopotamus has fur,No
+2998,a goral has fins,No
+2999,does a hummingbird have wings,Yes
+3000,a rhino has fur,No
+3001,does a ibex have horns,Yes
+3002,a gemsbok has horns,Yes
+3003,a parrot has a beak,Yes
+3004,does a kangaroo have hair,Yes
+3005,a lark has a fin,No
+3006,a goat has feathers,No
+3007,does a dolphin have fur,No
+3008,a bluefish lives in the water,Yes
+3009,are feathers related to a poodle,No
+3010,does a cow have a beak,No
+3011,a fox has feathers,No
+3012,a whale has a horn,No
+3013,does a lizard have hair,No
+3014,a yak has a horn,Yes
+3015,a buri has a fin,Yes
+3016,a barracuda can be found underwater,Yes
+3017,a eagle lives underwater,No
+3018,does a flamingo have wings,Yes
+3019,a skylark can be found underwater,No
+3020,does a wolf fly,No
+3021,a alligator has a horn,No
+3022,does a skunk have fur,Yes
+3023,a burbot lives underwater,Yes
+3024,does a kangaroo have fur,Yes
+3025,a cockatoo has wings,Yes
+3026,fur is part of a bison body,Yes
+3027,hair is a part of a cat body,Yes
+3028,a worm has feathers,No
+3029,hair is a part of a spider body,No
+3030,a pomeranian has hair,Yes
+3031,can a parrot fly,Yes
+3032,a whale lives in the water,Yes
+3033,a bluegill has a fin,Yes
+3034,does a carp have fins,Yes
+3035,a goose has a wing,Yes
+3036,a hawk has a wing,Yes
+3037,fur is part of a mamba body,No
+3038,does a jellyfish fly,No
+3039,does a zebra have a fin,No
+3040,does a goral have a horn,Yes
+3041,a hourse lives in the water,No
+3042,does a vulture have a beak,Yes
+3043,does a mounflon have horns,Yes
+3044,does a raccoon have fur,Yes
+3045,a leopard has hair,Yes
+3046,a jellyfish flies,No
+3047,hair is a part of a monkey body,Yes
+3048,does a swan have hair,No
+3049,a jaguar has horns,No
+3050,does a poodle live in the water,No
+3051,a goral can be found underwater,No
+3052,a snail has feathers,No
+3053,does a spearfish have a fin,Yes
+3054,a swan has fur,No
+3055,does a leopard fly,No
+3056,does a whale have fur,No
+3057,a camel has a beak,No
+3058,a pig has a wing,No
+3059,does a stork have a wing,Yes
+3060,a barracuda lives underwater,Yes
+3061,does a donkey live in the water,No
+3062,does a pomeranian have fur,Yes
+3063,does a swordfish have fins,Yes
+3064,does a goat have a wing,No
+3065,does a giraffe have a horn,Yes
+3066,a dog has wings,No
+3067,a barracuda can be found in the water,Yes
+3068,a heron has a beak,Yes
+3069,does a bison have a fin,No
+3070,fur is part of a beagle body,Yes
+3071,a falcon has a beak,Yes
+3072,does a bison have fins,No
+3073,a bustard flies,Yes
+3074,does a eagle have horns,No
+3075,a cowbird flies,Yes
+3076,are feathers related to a hummingbird,Yes
+3077,does a sheep have wings,No
+3078,does a bluefin live in the water,Yes
+3079,does a kingfish live underwater,Yes
+3080,fur is part of a cat body,Yes
+3081,does a rottweiler have wings,No
+3082,does a flamingo live in the water,No
+3083,a tiger can be found in the water,No
+3084,does a salamander have horns,No
+3085,does a tiger live in the water,No
+3086,a codfish flies,No
+3087,can a seabird fly,Yes
+3088,a owl has a wing,Yes
+3089,does a dolphin live underwater,Yes
+3090,does a piranha have fur,No
+3091,does a rat live underwater,No
+3092,a caterpillar has fur,No
+3093,a rabbit has a wing,No
+3094,does a falcon have feathers,Yes
+3095,does a pig have wings,No
+3096,are feathers related to a duck,Yes
+3097,does a songbird have a beak,Yes
+3098,a africander has a horn,Yes
+3099,fur is part of a raccoon body,Yes
+3100,can a salmon fly,No
+3101,does a knifefish live in the water,Yes
+3102,does a eagle have feathers,Yes
+3103,hair is a part of a eel body,No
+3104,hair is a part of a wolf body,Yes
+3105,does a duck have a fin,No
+3106,can a buzzard fly,Yes
+3107,a frog has fur,No
